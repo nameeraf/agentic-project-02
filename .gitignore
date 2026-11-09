@@ -1,0 +1,22 @@
+# Virtual environment. uv recreates it from pyproject.toml + uv.lock.
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local secrets and config. Commit .env.example instead, never .env.
+.env
+
+# macOS
+.DS_Store
+
+# The session store. The app recreates it.
+conversations.db*
+
+# Raw downloads. fetch_data.py recreates them. The built data/concerts.duckdb IS committed (Cloud Run ships it).
+data/raw/
+*.duckdb.wal
+
+# The course's starter, kept locally for reference only
+subway-survey-text2sql-improved/

@@ -1,0 +1,380 @@
+{
+  "tables": [
+    {
+      "table": "artist_chart_credits",
+      "description": "Links each setlist.fm artist to every Billboard credit string they appear in. Join to chart_songs on performer.",
+      "row_count": 5162,
+      "columns": [
+        {
+          "name": "artist_mbid",
+          "type": "UUID",
+          "description": "The MusicBrainz identifier for the artist linked to chart credits."
+        },
+        {
+          "name": "artist_name",
+          "type": "VARCHAR",
+          "description": "The standard name of the artist associated with the chart credits."
+        },
+        {
+          "name": "performer",
+          "type": "VARCHAR",
+          "description": "The performer name as listed in the Billboard chart data."
+        }
+      ]
+    },
+    {
+      "table": "artist_ladder",
+      "description": "Precomputed: artists who played a club (headliner or support) and later HEADLINED an arena/stadium in NYC, at least 180 days apart. Festival sets and cameos don't count.",
+      "row_count": 31,
+      "columns": [
+        {
+          "name": "artist_mbid",
+          "type": "UUID",
+          "description": "The MusicBrainz identifier for the artist progressing through venue sizes."
+        },
+        {
+          "name": "artist_name",
+          "type": "VARCHAR",
+          "description": "The name of the artist tracked on the venue progression ladder."
+        },
+        {
+          "name": "first_club_venue",
+          "type": "VARCHAR",
+          "description": "The name of the first club venue where the artist performed."
+        },
+        {
+          "name": "first_club_date",
+          "type": "DATE",
+          "description": "The date of the artist's very first club performance."
+        },
+        {
+          "name": "first_club_role",
+          "type": "VARCHAR",
+          "description": "The role or billing of the artist for their first club performance.",
+          "enum_values": [
+            "headliner"
+          ]
+        },
+        {
+          "name": "first_arena_venue",
+          "type": "VARCHAR",
+          "description": "The name of the first arena venue where the artist performed."
+        },
+        {
+          "name": "first_arena_headline_date",
+          "type": "DATE",
+          "description": "The date of the artist's first headline performance at an arena."
+        },
+        {
+          "name": "days_to_arena",
+          "type": "BIGINT",
+          "description": "Days from the first club show to the first arena headline."
+        },
+        {
+          "name": "hits_in_between",
+          "type": "BIGINT",
+          "description": "Hot 100 songs by the artist that first charted between those two dates."
+        }
+      ]
+    },
+    {
+      "table": "chart_songs",
+      "description": "One Billboard Hot 100 song (title + credit string), 1958 to now.",
+      "row_count": 32807,
+      "columns": [
+        {
+          "name": "title",
+          "type": "VARCHAR",
+          "description": "The title of the song that appeared on the Billboard charts."
+        },
+        {
+          "name": "performer",
+          "type": "VARCHAR",
+          "description": "Billboard credit string, e.g. 'Taylor Swift Featuring Kendrick Lamar'. Use artist_chart_credits to find an artist's songs."
+        },
+        {
+          "name": "peak_position",
+          "type": "BIGINT",
+          "description": "Best position reached (1 = #1)."
+        },
+        {
+          "name": "weeks_on_chart",
+          "type": "BIGINT",
+          "description": "Total weeks on the Hot 100."
+        },
+        {
+          "name": "first_chart_week",
+          "type": "DATE",
+          "description": "The initial date the song entered the Billboard chart."
+        },
+        {
+          "name": "last_chart_week",
+          "type": "DATE",
+          "description": "The final date the song appeared on the Billboard chart."
+        },
+        {
+          "name": "weeks_at_no1",
+          "type": "BIGINT",
+          "description": "Weeks at #1."
+        }
+      ]
+    },
+    {
+      "table": "hot100_weekly",
+      "description": "Every Hot 100 chart, one row per song per week, 1958 to now.",
+      "row_count": 356200,
+      "columns": [
+        {
+          "name": "chart_week",
+          "type": "DATE",
+          "description": "Chart date."
+        },
+        {
+          "name": "chart_rank",
+          "type": "BIGINT",
+          "description": "Position that week (1-100)."
+        },
+        {
+          "name": "title",
+          "type": "VARCHAR",
+          "description": "The song title for a given weekly entry on the Billboard Hot 100."
+        },
+        {
+          "name": "performer",
+          "type": "VARCHAR",
+          "description": "The artist performing the song for a given weekly entry on the Hot 100."
+        }
+      ]
+    },
+    {
+      "table": "shows",
+      "description": "One act's performance at one venue on one date, from setlist.fm (2022-2025). Openers and festival acts get their own rows.",
+      "row_count": 10179,
+      "columns": [
+        {
+          "name": "show_id",
+          "type": "VARCHAR",
+          "description": "setlist.fm setlist id. Join key to songs_played.show_id."
+        },
+        {
+          "name": "show_date",
+          "type": "DATE",
+          "description": "Date of the show. No start time is available."
+        },
+        {
+          "name": "venue_id",
+          "type": "VARCHAR",
+          "description": "The unique identifier for the venue where the concert took place."
+        },
+        {
+          "name": "artist_mbid",
+          "type": "UUID",
+          "description": "MusicBrainz artist id. Filter on this, not artist_name."
+        },
+        {
+          "name": "artist_name",
+          "type": "VARCHAR",
+          "description": "Artist name as on setlist.fm. Use find_names to get the exact spelling."
+        },
+        {
+          "name": "tour_name",
+          "type": "VARCHAR",
+          "description": "The official name of the concert tour associated with the show."
+        },
+        {
+          "name": "n_songs",
+          "type": "BIGINT",
+          "description": "Songs performed live (tape intros excluded). 0 means fans never logged the setlist."
+        },
+        {
+          "name": "role",
+          "type": "VARCHAR",
+          "description": "headliner, support, festival (6+ acts logged that night: festivals, benefit and tribute shows), cameo (the only act logged at an arena/stadium that night, 1-6 songs: anthems, halftime sets), or unknown (no setlist).",
+          "enum_values": [
+            "cameo",
+            "festival",
+            "headliner",
+            "support",
+            "unknown"
+          ]
+        },
+        {
+          "name": "acts_that_night",
+          "type": "BIGINT",
+          "description": "How many acts setlist.fm logged at this venue on this date."
+        },
+        {
+          "name": "show_note",
+          "type": "VARCHAR",
+          "description": "Free-text note from the fan who logged it, e.g. 'Approximate order'."
+        },
+        {
+          "name": "setlistfm_url",
+          "type": "VARCHAR",
+          "description": "The source URL of the concert setlist on setlist.fm."
+        }
+      ]
+    },
+    {
+      "table": "songs_played",
+      "description": "One song performed at one show, in order. Tape intros are excluded.",
+      "row_count": 96532,
+      "columns": [
+        {
+          "name": "show_id",
+          "type": "VARCHAR",
+          "description": "The unique identifier of the concert show where the song was played."
+        },
+        {
+          "name": "position",
+          "type": "BIGINT",
+          "description": "1-based order in the show, across all sets."
+        },
+        {
+          "name": "song_name",
+          "type": "VARCHAR",
+          "description": "The name of the song performed during the concert setlist."
+        },
+        {
+          "name": "is_encore",
+          "type": "BOOLEAN",
+          "description": "A boolean flag indicating whether the song was played during the encore."
+        },
+        {
+          "name": "is_cover",
+          "type": "BOOLEAN",
+          "description": "True if the artist played someone else's song. original_artist says whose."
+        },
+        {
+          "name": "original_artist",
+          "type": "VARCHAR",
+          "description": "The original artist of the song if it is a cover."
+        },
+        {
+          "name": "guest",
+          "type": "VARCHAR",
+          "description": "A guest who joined for this song (surprise guests), else NULL."
+        },
+        {
+          "name": "note",
+          "type": "VARCHAR",
+          "description": "Fan note on the song, e.g. 'Acoustic', 'snippet', 'with string section'."
+        },
+        {
+          "name": "is_partial",
+          "type": "BOOLEAN",
+          "description": "True when the note says snippet/tease/intro/partial. Exclude these when counting 'played the hit'."
+        },
+        {
+          "name": "chart_title",
+          "type": "VARCHAR",
+          "description": "The Hot 100 title this song matched, or NULL if it never charted for the credited artist."
+        },
+        {
+          "name": "chart_performer",
+          "type": "VARCHAR",
+          "description": "The Billboard credit string of the matched song."
+        },
+        {
+          "name": "chart_peak",
+          "type": "BIGINT",
+          "description": "Best Hot 100 position of the matched song (1 = #1)."
+        },
+        {
+          "name": "chart_first_week",
+          "type": "DATE",
+          "description": "First week the matched song was on the Hot 100."
+        },
+        {
+          "name": "chart_last_week",
+          "type": "DATE",
+          "description": "Last week the matched song was on the Hot 100."
+        },
+        {
+          "name": "is_own_hit",
+          "type": "BOOLEAN",
+          "description": "True if the artist played their OWN Hot 100 song (not a cover)."
+        }
+      ]
+    },
+    {
+      "table": "venues",
+      "description": "One NYC venue we track (20 total).",
+      "row_count": 20,
+      "columns": [
+        {
+          "name": "venue_id",
+          "type": "VARCHAR",
+          "description": "setlist.fm venue id. Join key to shows.venue_id."
+        },
+        {
+          "name": "venue_name",
+          "type": "VARCHAR",
+          "description": "The common name of the concert venue."
+        },
+        {
+          "name": "aliases",
+          "type": "VARCHAR",
+          "description": "Nicknames people use, semicolon-separated ('MSG; the Garden').",
+          "enum_values": [
+            "",
+            "Barclays; Barclays Center Brooklyn",
+            "Forest Hills; FHS",
+            "Kings Theater",
+            "MHOW",
+            "MSG; the Garden",
+            "Manhattan Center",
+            "Mets stadium; Shea",
+            "Pier 17",
+            "Radio City",
+            "SummerStage; Central Park SummerStage",
+            "T5",
+            "Yankees stadium",
+            "the Apollo",
+            "the Beacon"
+          ]
+        },
+        {
+          "name": "borough",
+          "type": "VARCHAR",
+          "description": "The New York City borough where the venue is located.",
+          "enum_values": [
+            "Bronx",
+            "Brooklyn",
+            "Manhattan",
+            "Queens"
+          ]
+        },
+        {
+          "name": "capacity",
+          "type": "INTEGER",
+          "description": "Approximate capacity, hand-entered. Not attendance."
+        },
+        {
+          "name": "size_tier",
+          "type": "VARCHAR",
+          "description": "club (<=2,000), mid-size, or arena/stadium (>=13,000). Used for the venue ladder.",
+          "enum_values": [
+            "arena/stadium",
+            "club",
+            "mid-size"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Filter artists by artist_mbid from find_names, never by artist_name = '...'.",
+    "Count a 'concert' only where shows.role = 'headliner' unless the user asks about openers or festivals.",
+    "Exclude is_partial songs when counting whether a song was played.",
+    "A 'hit' means a Hot 100 song (songs_played.chart_title IS NOT NULL). Billboard is US-only and singles-only.",
+    "To list an artist's hits they did NOT play: artist_chart_credits -> chart_songs, anti-join songs_played.",
+    "The Hot 100 runs past 2025 but setlists stop at 2025: only count songs that first charted before the show date."
+  ],
+  "limits": [
+    "Only 20 NYC venues, 2022-2025. No other cities, years, or venues (no MetLife, UBS Arena).",
+    "No ticket prices, attendance, start times, reviews, or streaming numbers.",
+    "setlist.fm is fan-logged: about a third of shows have no setlist and order is sometimes approximate.",
+    "Song matching is by normalized title + artist; medleys and retitled songs can be missed."
+  ]
+}

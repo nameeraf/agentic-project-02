@@ -1,0 +1,14 @@
+[project]
+name = "nyc-setlist-analyst"
+version = "0.1.0"
+description = "Text2SQL agent over NYC concert setlists (setlist.fm) matched to the Billboard Hot 100"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn>=0.27.0",
+    "openai-agents[litellm]>=0.23",
+    "google-cloud-aiplatform>=1.40.0",
+    "duckdb>=1.1",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+]
