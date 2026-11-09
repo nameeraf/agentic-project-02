@@ -5,8 +5,8 @@
 - ours:  the agent in app.py.
 - no_tools: the same model with no tools and no system prompt (README sample queries only).
 
-    uv run compare.py            # all questions
-    uv run compare.py t1 s2      # just these ids
+    uv run traces/compare.py            # all questions
+    uv run traces/compare.py t1 s2      # just these ids
 
 None of these questions appear as few-shot examples in app.py's prompt.
 """
@@ -19,9 +19,10 @@ from pathlib import Path
 import litellm
 from agents import Agent, SQLiteSession, function_tool
 
-import app
+sys.path.insert(0, str(Path(__file__).parent.parent))  # app.py is at the repo root
+import app  # noqa: E402
 
-TRACES = Path(__file__).parent / "traces"
+TRACES = Path(__file__).parent  # this script lives in traces/
 
 QUESTIONS = [
     # Sample queries for the grader (README): expected answers checked by hand with SQL.
@@ -83,7 +84,6 @@ async def run_question(q: dict) -> None:
 
 
 async def main(ids: list[str]):
-    TRACES.mkdir(exist_ok=True)
     await asyncio.gather(*(run_question(q) for q in QUESTIONS if not ids or q["id"] in ids))
 
 

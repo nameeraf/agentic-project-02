@@ -1,4 +1,4 @@
-"""Build the database and its schema mappings. Run once, offline, after fetch_data.py and before app.py.
+"""Build the database and its schema mappings. Run once, offline, after data/fetch_data.py and before app.py.
 
 1. Load setlist.fm setlists and the Billboard Hot 100 into data/concerts.duckdb, cleaned:
    real DATEs, tape/intro tracks dropped, guests and "snippet"/"acoustic" notes kept.

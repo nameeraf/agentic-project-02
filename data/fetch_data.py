@@ -5,7 +5,7 @@
    Every page is cached, so you can stop and re-run.
 2. Billboard Hot 100: every weekly chart since 1958, one CSV from utdata/rwd-billboard-data.
 
-    uv run fetch_data.py
+    uv run data/fetch_data.py
 """
 
 import csv
@@ -17,9 +17,9 @@ from pathlib import Path
 import httpx
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(Path(__file__).parent.parent / ".env")
 
-DATA = Path(__file__).parent / "data"
+DATA = Path(__file__).parent  # this script lives in data/
 RAW = DATA / "raw"
 VENUES_CSV = DATA / "venues.csv"
 YEARS = [2022, 2023, 2024, 2025]
