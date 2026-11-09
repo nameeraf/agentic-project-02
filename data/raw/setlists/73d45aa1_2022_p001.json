@@ -1,0 +1,1428 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 82,
+   "setlist" : [ {
+      "id" : "43bcbf7f",
+      "versionId" : "g5be2332c",
+      "eventDate" : "11-12-2022",
+      "lastUpdated" : "2022-12-09T08:11:21.436+0000",
+      "artist" : {
+         "mbid" : "af84073d-3b6d-4390-9d3f-bf65a91c824f",
+         "name" : "Monica",
+         "sortName" : "Monica",
+         "disambiguation" : "US R&B singer",
+         "url" : "https://www.setlist.fm/setlists/monica-bd6d55a.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/monica/2022/kings-theatre-brooklyn-ny-43bcbf7f.html"
+   }, {
+      "id" : "6bbf4ee2",
+      "versionId" : "g4be3b74e",
+      "eventDate" : "08-12-2022",
+      "lastUpdated" : "2022-12-14T23:22:54.135+0000",
+      "artist" : {
+         "mbid" : "a505bb48-ad65-4af4-ae47-29149715bff9",
+         "name" : "Thievery Corporation",
+         "sortName" : "Thievery Corporation",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/thievery-corporation-53d6ab41.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Winter Tour '22"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sound the Alarm"
+            }, {
+               "name" : "Web of Deception"
+            }, {
+               "name" : "Letter to the Editor",
+               "info" : "Remix"
+            }, {
+               "name" : "Encounter in Bahia"
+            }, {
+               "name" : "Amerimacka"
+            }, {
+               "name" : "Un simple histoire (Rewound)"
+            }, {
+               "name" : "Lebanese Blonde"
+            }, {
+               "name" : "Mandala"
+            }, {
+               "name" : "Satyam Shivam Sundaram"
+            }, {
+               "name" : "San San Rock"
+            }, {
+               "name" : "Holographic Universe"
+            }, {
+               "name" : "Vampires"
+            }, {
+               "name" : "Voyage Libre"
+            }, {
+               "name" : "The Heart's a Lonely Hunter"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Outernationalist"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Air Batucada"
+            }, {
+               "name" : "",
+               "info" : "Medley 3"
+            }, {
+               "name" : "Sweet Tides"
+            }, {
+               "name" : "The Richest Man in Babylon"
+            }, {
+               "name" : "Warning Shots"
+            } ]
+         }, {
+            "encore" : 3,
+            "song" : [ {
+               "name" : "Heaven's Gonna Burn Your Eyes"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/thievery-corporation/2022/kings-theatre-brooklyn-ny-6bbf4ee2.html"
+   }, {
+      "id" : "53bf2b8d",
+      "versionId" : "g53e557fd",
+      "eventDate" : "30-11-2022",
+      "lastUpdated" : "2022-12-02T06:30:54.560+0000",
+      "artist" : {
+         "mbid" : "013fa897-86db-41d3-8e9f-386c8a34f4e6",
+         "name" : "Morrissey",
+         "sortName" : "Morrissey",
+         "disambiguation" : "English singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/morrissey-73d6ae15.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Hate It When Our Friends Become Successful"
+            }, {
+               "name" : "Stop Me If You Think You've Heard This One Before",
+               "cover" : {
+                  "mbid" : "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+                  "name" : "The Smiths",
+                  "sortName" : "Smiths, The",
+                  "disambiguation" : "1980s English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-smiths-6bd6b236.html"
+               }
+            }, {
+               "name" : "Our Frank"
+            }, {
+               "name" : "Rebels Without Applause"
+            }, {
+               "name" : "Girlfriend in a Coma",
+               "cover" : {
+                  "mbid" : "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+                  "name" : "The Smiths",
+                  "sortName" : "Smiths, The",
+                  "disambiguation" : "1980s English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-smiths-6bd6b236.html"
+               }
+            }, {
+               "name" : "Sure Enough, the Telephone Rings"
+            }, {
+               "name" : "I Am Veronica"
+            }, {
+               "name" : "Jim Jim Falls"
+            }, {
+               "name" : "Let Me Kiss You"
+            }, {
+               "name" : "Everyday Is Like Sunday",
+               "info" : "Piano solo intro"
+            }, {
+               "name" : "My Life Is a Succession of People Saying Goodbye"
+            }, {
+               "name" : "Half a Person",
+               "cover" : {
+                  "mbid" : "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+                  "name" : "The Smiths",
+                  "sortName" : "Smiths, The",
+                  "disambiguation" : "1980s English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-smiths-6bd6b236.html"
+               }
+            }, {
+               "name" : "Knockabout World"
+            }, {
+               "name" : "Irish Blood, English Heart"
+            }, {
+               "name" : "Please, Please, Please Let Me Get What I Want",
+               "cover" : {
+                  "mbid" : "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+                  "name" : "The Smiths",
+                  "sortName" : "Smiths, The",
+                  "disambiguation" : "1980s English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-smiths-6bd6b236.html"
+               }
+            }, {
+               "name" : "Saint in a Stained Glass Window"
+            }, {
+               "name" : "The Loop"
+            }, {
+               "name" : "Jack the Ripper"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sweet and Tender Hooligan",
+               "cover" : {
+                  "mbid" : "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+                  "name" : "The Smiths",
+                  "sortName" : "Smiths, The",
+                  "disambiguation" : "1980s English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-smiths-6bd6b236.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/morrissey/2022/kings-theatre-brooklyn-ny-53bf2b8d.html"
+   }, {
+      "id" : "43bc974b",
+      "versionId" : "g6b051a6a",
+      "eventDate" : "27-11-2022",
+      "lastUpdated" : "2026-07-23T21:59:45.479+0000",
+      "artist" : {
+         "mbid" : "0b966a38-5ad9-43c1-b86b-c07079523165",
+         "name" : "Omar Apollo",
+         "sortName" : "Apollo, Omar",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/omar-apollo-3bcaec38.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ivory"
+            }, {
+               "name" : "Killing Me"
+            }, {
+               "name" : "Talk"
+            }, {
+               "name" : "Useless"
+            }, {
+               "name" : "Ugotme"
+            }, {
+               "name" : "Kickback"
+            }, {
+               "name" : "Archetype"
+            }, {
+               "name" : "En el olvido"
+            }, {
+               "name" : "Dos uno nueve (219)"
+            }, {
+               "name" : "Frío"
+            }, {
+               "name" : "Highlight"
+            }, {
+               "name" : "Endlessly"
+            }, {
+               "name" : "Petrified"
+            }, {
+               "name" : "Invincible",
+               "info" : "With Daniel Caesar"
+            }, {
+               "name" : "Tamagotchi"
+            }, {
+               "name" : "Kamikaze"
+            }, {
+               "name" : "Bad Life"
+            }, {
+               "name" : "Hey Boy"
+            }, {
+               "name" : "Mr. Neighbor"
+            }, {
+               "name" : "Want U Around"
+            }, {
+               "name" : "Evergreen (You Didn't Deserve Me at All)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/omar-apollo/2022/kings-theatre-brooklyn-ny-43bc974b.html"
+   }, {
+      "id" : "53bff731",
+      "versionId" : "g7be57620",
+      "eventDate" : "21-11-2022",
+      "lastUpdated" : "2022-11-30T20:37:26.612+0000",
+      "artist" : {
+         "mbid" : "a55c2f1b-3f3f-4d6a-aa30-5e186dbadce6",
+         "name" : "Suede",
+         "sortName" : "Suede",
+         "disambiguation" : "English rock band",
+         "url" : "https://www.setlist.fm/setlists/suede-1bd6b1b8.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "US Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "She Still Leads Me On"
+            }, {
+               "name" : "Personality Disorder"
+            }, {
+               "name" : "The Drowners"
+            }, {
+               "name" : "Animal Nitrate"
+            }, {
+               "name" : "Trash"
+            }, {
+               "name" : "It Starts and Ends With You"
+            }, {
+               "name" : "The 2 of Us"
+            }, {
+               "name" : "Shadow Self"
+            }, {
+               "name" : "Can't Get Enough"
+            }, {
+               "name" : "We Are the Pigs"
+            }, {
+               "name" : "She"
+            }, {
+               "name" : "The Wild Ones",
+               "info" : "Brett solo acoustic"
+            }, {
+               "name" : "So Young"
+            }, {
+               "name" : "Metal Mickey"
+            }, {
+               "name" : "Beautiful Ones"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/suede/2022/kings-theatre-brooklyn-ny-53bff731.html"
+   }, {
+      "id" : "53bff71d",
+      "versionId" : "g6be57626",
+      "eventDate" : "21-11-2022",
+      "lastUpdated" : "2022-11-30T20:37:57.172+0000",
+      "artist" : {
+         "mbid" : "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+         "name" : "Manic Street Preachers",
+         "sortName" : "Manic Street Preachers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/manic-street-preachers-1bd6bdc0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "You Stole the Sun From My Heart"
+            }, {
+               "name" : "Everything Must Go"
+            }, {
+               "name" : "La tristesse durera (Scream to a Sigh)"
+            }, {
+               "name" : "Ocean Spray"
+            }, {
+               "name" : "Motorcycle Emptiness"
+            }, {
+               "name" : "Suicide Is Painless (Theme From MASH)",
+               "cover" : {
+                  "mbid" : "95c95dee-0dbc-4d5f-a428-6a465a5b32f3",
+                  "name" : "Johnny Mandel",
+                  "sortName" : "Mandel, Johnny",
+                  "disambiguation" : "American composer and arranger",
+                  "url" : "https://www.setlist.fm/setlists/johnny-mandel-73d7425d.html"
+               }
+            }, {
+               "name" : "Slash 'n' Burn"
+            }, {
+               "name" : "If You Tolerate This Your Children Will Be Next"
+            }, {
+               "name" : "International Blue"
+            }, {
+               "name" : "Borderline",
+               "cover" : {
+                  "mbid" : "79239441-bfd5-4981-a70c-55c3f15c1287",
+                  "name" : "Madonna",
+                  "sortName" : "Madonna",
+                  "disambiguation" : "“Queen of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/madonna-bd6bdbe.html"
+               }
+            }, {
+               "name" : "Your Love Alone Is Not Enough",
+               "info" : "James false start/Nicky Wire introduces song with tale of living in New York"
+            }, {
+               "name" : "From Despair to Where"
+            }, {
+               "name" : "Walk Me to the Bridge",
+               "info" : "James introduces band before launching into song"
+            }, {
+               "name" : "You Love Us",
+               "info" : "James introduced A Design for Life by mistake"
+            }, {
+               "name" : "A Design for Life"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/manic-street-preachers/2022/kings-theatre-brooklyn-ny-53bff71d.html"
+   }, {
+      "id" : "63bf9edf",
+      "versionId" : "g4350cb9b",
+      "eventDate" : "19-11-2022",
+      "lastUpdated" : "2024-11-21T04:18:05.729+0000",
+      "artist" : {
+         "mbid" : "9055fca5-69bc-4d47-b569-ab2012a19565",
+         "name" : "The Smile",
+         "sortName" : "Smile, The",
+         "disambiguation" : "side group of Radiohead",
+         "url" : "https://www.setlist.fm/setlists/the-smile-43f21f13.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "A Light for Attracting Attention"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Same"
+            }, {
+               "name" : "Thin Thing"
+            }, {
+               "name" : "The Opposite"
+            }, {
+               "name" : "Speech Bubbles"
+            }, {
+               "name" : "Free in the Knowledge"
+            }, {
+               "name" : "A Hairdryer"
+            }, {
+               "name" : "Waving a White Flag"
+            }, {
+               "name" : "Bending Hectic"
+            }, {
+               "name" : "We Don't Know What Tomorrow Brings"
+            }, {
+               "name" : "Friend of a Friend",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "Skrting on the Surface"
+            }, {
+               "name" : "Bodies Laughing"
+            }, {
+               "name" : "The Smoke",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "You Will Never Work in Television Again",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Pana-Vision",
+               "info" : "Intended to be the final song of the main set, instead began the encore."
+            }, {
+               "name" : "Open the Floodgates"
+            }, {
+               "name" : "Colours Fly",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "Eyes & Mouth"
+            }, {
+               "name" : "FeelingPulledApartByHorses",
+               "cover" : {
+                  "mbid" : "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+                  "name" : "Thom Yorke",
+                  "sortName" : "Yorke, Thom",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thom-yorke-2bd69012.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-smile/2022/kings-theatre-brooklyn-ny-63bf9edf.html"
+   }, {
+      "id" : "3bff977",
+      "versionId" : "g53e407d5",
+      "eventDate" : "19-11-2022",
+      "lastUpdated" : "2022-11-20T01:51:38.140+0000",
+      "artist" : {
+         "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+         "name" : "Robert Stillman",
+         "sortName" : "Stillman, Robert",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/robert-stillman/2022/kings-theatre-brooklyn-ny-3bff977.html"
+   }, {
+      "id" : "5bbf87e0",
+      "versionId" : "g63e41eb3",
+      "eventDate" : "18-11-2022",
+      "lastUpdated" : "2022-11-19T04:15:24.435+0000",
+      "artist" : {
+         "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+         "name" : "Robert Stillman",
+         "sortName" : "Stillman, Robert",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/robert-stillman/2022/kings-theatre-brooklyn-ny-5bbf87e0.html"
+   }, {
+      "id" : "3bfa5b7",
+      "versionId" : "g4b50cb9a",
+      "eventDate" : "18-11-2022",
+      "lastUpdated" : "2024-11-21T04:18:05.738+0000",
+      "artist" : {
+         "mbid" : "9055fca5-69bc-4d47-b569-ab2012a19565",
+         "name" : "The Smile",
+         "sortName" : "Smile, The",
+         "disambiguation" : "side group of Radiohead",
+         "url" : "https://www.setlist.fm/setlists/the-smile-43f21f13.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "A Light for Attracting Attention"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pana-Vision"
+            }, {
+               "name" : "Thin Thing"
+            }, {
+               "name" : "The Opposite"
+            }, {
+               "name" : "Speech Bubbles"
+            }, {
+               "name" : "Free in the Knowledge"
+            }, {
+               "name" : "A Hairdryer"
+            }, {
+               "name" : "Waving a White Flag"
+            }, {
+               "name" : "Colours Fly",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "We Don't Know What Tomorrow Brings"
+            }, {
+               "name" : "Read the Room"
+            }, {
+               "name" : "Skrting on the Surface"
+            }, {
+               "name" : "Eyes & Mouth"
+            }, {
+               "name" : "Friend of a Friend",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "The Smoke",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "You Will Never Work in Television Again",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Open the Floodgates"
+            }, {
+               "name" : "The Same"
+            }, {
+               "name" : "Bending Hectic"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "FeelingPulledApartByHorses",
+               "cover" : {
+                  "mbid" : "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+                  "name" : "Thom Yorke",
+                  "sortName" : "Yorke, Thom",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thom-yorke-2bd69012.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-smile/2022/kings-theatre-brooklyn-ny-3bfa5b7.html"
+   }, {
+      "id" : "234718a3",
+      "versionId" : "g234bf47b",
+      "eventDate" : "17-11-2022",
+      "lastUpdated" : "2025-05-24T18:11:09.422+0000",
+      "artist" : {
+         "mbid" : "37a7b868-d5e8-41bd-ba24-4a3d2dafd11e",
+         "name" : "The Idan Raichel Project",
+         "sortName" : "Raichel, Idan, Project, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-idan-raichel-project-3bdff858.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-idan-raichel-project/2022/kings-theatre-brooklyn-ny-234718a3.html"
+   }, {
+      "id" : "3bbf94ec",
+      "versionId" : "g5be4c734",
+      "eventDate" : "16-11-2022",
+      "lastUpdated" : "2022-11-17T14:23:35.639+0000",
+      "artist" : {
+         "mbid" : "00505f51-68a8-45fc-b6d6-51be64751378",
+         "name" : "Slow Pulp",
+         "sortName" : "Slow Pulp",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/slow-pulp-1bcb518c.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Idaho"
+            }, {
+               "name" : "At It Again"
+            }, {
+               "name" : "Track"
+            }, {
+               "name" : "New Media"
+            }, {
+               "name" : "Steel Birds"
+            }, {
+               "name" : "High"
+            }, {
+               "name" : "At Home"
+            }, {
+               "name" : "Montana"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/slow-pulp/2022/kings-theatre-brooklyn-ny-3bbf94ec.html"
+   }, {
+      "id" : "33bfb4e1",
+      "versionId" : "g6b934e22",
+      "eventDate" : "16-11-2022",
+      "lastUpdated" : "2023-06-17T11:30:44.519+0000",
+      "artist" : {
+         "mbid" : "99450990-b24e-4132-bb68-235f8c3e2564",
+         "name" : "Alvvays",
+         "sortName" : "Alvvays",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alvvays-6bdb26be.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Blue Rev"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The River Sings",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4967c0a1-b9f3-465e-8440-4598fd9fc33c",
+                  "name" : "Enya",
+                  "sortName" : "Enya",
+                  "disambiguation" : "Irish singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/enya-33d6a055.html"
+               }
+            }, {
+               "name" : "Pharmacist"
+            }, {
+               "name" : "After the Earthquake"
+            }, {
+               "name" : "In Undertow"
+            }, {
+               "name" : "Many Mirrors"
+            }, {
+               "name" : "Very Online Guy"
+            }, {
+               "name" : "Adult Diversion"
+            }, {
+               "name" : "Not My Baby"
+            }, {
+               "name" : "Hey"
+            }, {
+               "name" : "Tom Verlaine"
+            }, {
+               "name" : "Belinda Says"
+            }, {
+               "name" : "Fourth Figure"
+            }, {
+               "name" : "Archie, Marry Me"
+            }, {
+               "name" : "Pomeranian Spinster"
+            }, {
+               "name" : "Pressed"
+            }, {
+               "name" : "Dreams Tonite"
+            }, {
+               "name" : "Party Police"
+            }, {
+               "name" : "Easy on Your Own?"
+            }, {
+               "name" : "Saved by a Waif"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Next of Kin"
+            }, {
+               "name" : "Lottery Noises"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/alvvays/2022/kings-theatre-brooklyn-ny-33bfb4e1.html"
+   }, {
+      "id" : "73bc1a79",
+      "versionId" : "g5be0abd4",
+      "eventDate" : "12-11-2022",
+      "lastUpdated" : "2022-12-31T15:43:27.046+0000",
+      "artist" : {
+         "mbid" : "b053efc9-e8ea-474a-981f-a3c6fffcc694",
+         "name" : "Hurray for the Riff Raff",
+         "sortName" : "Hurray for the Riff Raff",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hurray-for-the-riff-raff-43d43f3b.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hurray-for-the-riff-raff/2022/kings-theatre-brooklyn-ny-73bc1a79.html"
+   }, {
+      "id" : "2bbe444e",
+      "versionId" : "g6be74292",
+      "eventDate" : "12-11-2022",
+      "lastUpdated" : "2022-11-13T04:23:14.156+0000",
+      "artist" : {
+         "mbid" : "78f797e3-4913-4026-aad0-1cd858bd735b",
+         "name" : "Bright Eyes",
+         "sortName" : "Bright Eyes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bright-eyes-73d6feb1.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Bright Eyes 2022 World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dance and Sing"
+            }, {
+               "name" : "Lover I Don't Have to Love"
+            }, {
+               "name" : "Old Soul Song (for the New World Order)"
+            }, {
+               "name" : "Mariana Trench"
+            }, {
+               "name" : "An Attempt to Tip the Scales"
+            }, {
+               "name" : "Jejune Stars"
+            }, {
+               "name" : "If the Brakeman Turns My Way"
+            }, {
+               "name" : "Falling Out of Love at This Volume"
+            }, {
+               "name" : "Double Joe",
+               "cover" : {
+                  "mbid" : "77c53cfc-6151-4582-80e4-99af55303896",
+                  "name" : "Simon Joyner",
+                  "sortName" : "Joyner, Simon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/simon-joyner-5bd73b08.html"
+               }
+            }, {
+               "name" : "Method Acting"
+            }, {
+               "name" : "Neely O'Hara"
+            }, {
+               "name" : "Haile Selassie"
+            }, {
+               "name" : "Poison Oak"
+            }, {
+               "name" : "To Death's Heart (in Three Parts)"
+            }, {
+               "name" : "Another Travelin' Song"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Spring Cleaning"
+            }, {
+               "name" : "I Believe in Symmetry"
+            }, {
+               "name" : "Easy/Lucky/Free"
+            }, {
+               "name" : "One for You, One for Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bright-eyes/2022/kings-theatre-brooklyn-ny-2bbe444e.html"
+   }, {
+      "id" : "63be7257",
+      "versionId" : "g4be27b02",
+      "eventDate" : "11-11-2022",
+      "lastUpdated" : "2022-12-11T13:54:58.706+0000",
+      "artist" : {
+         "mbid" : "ffb5f70c-cd10-48a5-92d0-cea440e6fd40",
+         "name" : "Tamar Braxton",
+         "sortName" : "Braxton, Tamar",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tamar-braxton-4bd6d352.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hot Sugar"
+            }, {
+               "name" : "The One"
+            }, {
+               "name" : "Let Me Know"
+            }, {
+               "name" : "Prettiest Girl"
+            }, {
+               "name" : "My Man"
+            }, {
+               "name" : "Nobody's Supposed to Be Here",
+               "cover" : {
+                  "mbid" : "1978391f-956e-4fe6-93c1-5053b43138c7",
+                  "name" : "Deborah Cox",
+                  "sortName" : "Cox, Deborah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/deborah-cox-1bd6d9f8.html"
+               }
+            }, {
+               "name" : "Superwoman",
+               "cover" : {
+                  "mbid" : "2258c0cf-77d7-4ddd-9440-f36e3c7a5e22",
+                  "name" : "Karyn White",
+                  "sortName" : "White, Karyn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/karyn-white-bd6b9da.html"
+               }
+            }, {
+               "name" : "All the Way Home"
+            }, {
+               "name" : "Love and War"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tamar-braxton/2022/kings-theatre-brooklyn-ny-63be7257.html"
+   }, {
+      "id" : "53be7f7d",
+      "versionId" : "g2be76c1e",
+      "eventDate" : "10-11-2022",
+      "lastUpdated" : "2022-11-11T13:55:23.908+0000",
+      "artist" : {
+         "mbid" : "39822e8d-f24e-4f07-b51b-28b22e59fbdb",
+         "name" : "Kreator",
+         "sortName" : "Kreator",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kreator-63d68e97.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Patriarch",
+               "tape" : true
+            }, {
+               "name" : "Violent Revolution"
+            }, {
+               "name" : "Hate Über Alles"
+            }, {
+               "name" : "Satan Is Real"
+            }, {
+               "name" : "Awakening of the Gods",
+               "info" : "intro only"
+            }, {
+               "name" : "Enemy of God"
+            }, {
+               "name" : "Mars Mantra",
+               "tape" : true
+            }, {
+               "name" : "Phantom Antichrist"
+            }, {
+               "name" : "Strongest of the Strong"
+            }, {
+               "name" : "Flag of Hate"
+            }, {
+               "name" : "Pleasure to Kill"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kreator/2022/kings-theatre-brooklyn-ny-53be7f7d.html"
+   }, {
+      "id" : "43be7f7f",
+      "versionId" : "g63e77aaf",
+      "eventDate" : "10-11-2022",
+      "lastUpdated" : "2022-11-11T07:43:55.507+0000",
+      "artist" : {
+         "mbid" : "9b137ab6-5987-4606-989b-183cdb2d3e50",
+         "name" : "Mercyful Fate",
+         "sortName" : "Mercyful Fate",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mercyful-fate-43d6ffab.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Oath"
+            }, {
+               "name" : "A Corpse Without Soul"
+            }, {
+               "name" : "The Jackal of Salzburg"
+            }, {
+               "name" : "Curse of the Pharaohs"
+            }, {
+               "name" : "A Dangerous Meeting"
+            }, {
+               "name" : "Doomed by the Living Dead"
+            }, {
+               "name" : "Melissa"
+            }, {
+               "name" : "Black Funeral"
+            }, {
+               "name" : "Evil"
+            }, {
+               "name" : "Come to the Sabbath"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Satan's Fall"
+            }, {
+               "name" : "To One Far Away",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mercyful-fate/2022/kings-theatre-brooklyn-ny-43be7f7f.html"
+   }, {
+      "id" : "43be7f77",
+      "versionId" : "g3e769eb",
+      "eventDate" : "10-11-2022",
+      "lastUpdated" : "2022-11-11T16:03:49.128+0000",
+      "artist" : {
+         "mbid" : "9b6f11f4-bef1-4265-987b-816bbbb67be1",
+         "name" : "Midnight",
+         "sortName" : "Midnight",
+         "disambiguation" : "US speed metal band",
+         "url" : "https://www.setlist.fm/setlists/midnight-2bd300da.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fucking Speed and Darkness"
+            }, {
+               "name" : "Rebirth by Blasphemy"
+            }, {
+               "name" : "Szex Witchery"
+            }, {
+               "name" : "Here Comes Sweet Death"
+            }, {
+               "name" : "Evil Like a Knife"
+            }, {
+               "name" : "Lust Filth and Sleaze"
+            }, {
+               "name" : "You Can't Stop Steel"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Mercyful Fate",
+      "url" : "https://www.setlist.fm/setlist/midnight/2022/kings-theatre-brooklyn-ny-43be7f77.html"
+   }, {
+      "id" : "43be1b8f",
+      "versionId" : "g5bb6bf60",
+      "eventDate" : "05-11-2022",
+      "lastUpdated" : "2024-01-27T09:34:13.354+0000",
+      "artist" : {
+         "mbid" : "8682866a-4f7a-43f5-83b2-06eabd0f2d4c",
+         "name" : "Alela Diane",
+         "sortName" : "Diane, Alela",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alela-diane-53d66f81.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dry Grass & Shadows"
+            }, {
+               "name" : "Never Easy"
+            }, {
+               "name" : "When We Believed"
+            }, {
+               "name" : "Who Knows Where the Time Goes?",
+               "cover" : {
+                  "mbid" : "cc60d937-e80b-4c66-8aa2-e89cb57c8b08",
+                  "name" : "Fairport Convention",
+                  "sortName" : "Fairport Convention",
+                  "disambiguation" : "English folk rock band",
+                  "url" : "https://www.setlist.fm/setlists/fairport-convention-23d6a05f.html"
+               }
+            }, {
+               "name" : "Paloma"
+            }, {
+               "name" : "Howling Wind"
+            }, {
+               "name" : "Dream a River"
+            }, {
+               "name" : "Of Love"
+            }, {
+               "name" : "All the Light",
+               "with" : {
+                  "mbid" : "372a62d5-186d-4d1d-a2de-c94767ae9601",
+                  "name" : "Scott Avett",
+                  "sortName" : "Avett, Scott",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/scott-avett-6bd7322a.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Supporting The Avett Brothers",
+      "url" : "https://www.setlist.fm/setlist/alela-diane/2022/kings-theatre-brooklyn-ny-43be1b8f.html"
+   } ]
+}

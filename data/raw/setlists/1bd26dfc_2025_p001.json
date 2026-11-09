@@ -1,0 +1,1311 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 74,
+   "setlist" : [ {
+      "id" : "634e767b",
+      "versionId" : "g6b673602",
+      "eventDate" : "25-10-2025",
+      "lastUpdated" : "2025-10-26T02:26:18.561+0000",
+      "artist" : {
+         "mbid" : "40df8d18-6975-476c-9c04-2424d737bcc1",
+         "name" : "Lomelda",
+         "sortName" : "Lomelda",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lomelda-73c14ad5.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hannah Sun"
+            }, {
+               "name" : "Wonder"
+            }, {
+               "name" : "Mimi"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/lomelda/2025/forest-hills-stadium-queens-ny-634e767b.html"
+   }, {
+      "id" : "43590f17",
+      "versionId" : "g7b65ca68",
+      "eventDate" : "25-10-2025",
+      "lastUpdated" : "2025-11-09T16:57:19.568+0000",
+      "artist" : {
+         "mbid" : "9f81247f-7f57-42f3-a8ba-75bef554e591",
+         "name" : "Big Thief",
+         "sortName" : "Big Thief",
+         "disambiguation" : "US indie folk band",
+         "url" : "https://www.setlist.fm/setlists/big-thief-6bc2e2d6.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "Somersault Slide 360 Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Change"
+            }, {
+               "name" : "Vampire Empire"
+            }, {
+               "name" : "Simulation Swarm"
+            }, {
+               "name" : "Muscle Memory"
+            }, {
+               "name" : "Dragon New Warm Mountain I Believe in You"
+            }, {
+               "name" : "Spud Infinity"
+            } ]
+         }, {
+            "name" : "Double Infinity (with full Double Infinity band)",
+            "song" : [ {
+               "name" : "Incomprehensible",
+               "info" : "Preceded by band member introductions"
+            }, {
+               "name" : "Words"
+            }, {
+               "name" : "Los Angeles"
+            }, {
+               "name" : "All Night All Day"
+            }, {
+               "name" : "Double Infinity"
+            }, {
+               "name" : "No Fear"
+            }, {
+               "name" : "Grandmother"
+            }, {
+               "name" : "Happy With You"
+            }, {
+               "name" : "How Could I Have Known",
+               "info" : "Dedicated to Adrianne's girlfriend, Staci Foster"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Forgive the Dream",
+               "info" : "Dedicated to Adrianne's mom"
+            }, {
+               "name" : "Not",
+               "info" : "with full \"Double Infinity\" band"
+            }, {
+               "name" : "Masterpiece",
+               "info" : "with full \"Double Infinity\" band"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/big-thief/2025/forest-hills-stadium-queens-ny-43590f17.html"
+   }, {
+      "id" : "634e7eff",
+      "versionId" : "g4b67cf62",
+      "eventDate" : "24-10-2025",
+      "lastUpdated" : "2025-10-25T06:50:29.209+0000",
+      "artist" : {
+         "mbid" : "f32d94e8-8d55-4ee2-9077-53d1c024a03b",
+         "name" : "The Lemon Twigs",
+         "sortName" : "Lemon Twigs, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-lemon-twigs-3c0add3.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Golden Years"
+            }, {
+               "name" : "I've Got a Broken Heart"
+            }, {
+               "name" : "What You Were Doing"
+            }, {
+               "name" : "The One"
+            }, {
+               "name" : "In My Head"
+            }, {
+               "name" : "Flash in the Pan",
+               "cover" : {
+                  "mbid" : "10279b40-4870-4f9e-b559-6f4cee396bfa",
+                  "name" : "Brian D’Addario",
+                  "sortName" : "D’Addario, Brian",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brian-daddario-3c825e7.html"
+               }
+            }, {
+               "name" : "Look for Your Mind"
+            }, {
+               "name" : "Ghost Run Free"
+            }, {
+               "name" : "Corner of My Eye"
+            }, {
+               "name" : "Bring You Down"
+            }, {
+               "name" : "Rock On (Over and Over)"
+            }, {
+               "name" : "No Matter What You Do",
+               "cover" : {
+                  "mbid" : "34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47",
+                  "name" : "Love",
+                  "sortName" : "Love",
+                  "disambiguation" : "folk-rock/psychedelic band",
+                  "url" : "https://www.setlist.fm/setlists/love-33d6ac91.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist out of order",
+      "url" : "https://www.setlist.fm/setlist/the-lemon-twigs/2025/forest-hills-stadium-queens-ny-634e7eff.html"
+   }, {
+      "id" : "2b58a84a",
+      "versionId" : "g23648c27",
+      "eventDate" : "24-10-2025",
+      "lastUpdated" : "2025-10-31T13:33:24.257+0000",
+      "artist" : {
+         "mbid" : "5318e774-f5b6-4ee0-82cb-4dcf398c3ff8",
+         "name" : "Parcels",
+         "sortName" : "Parcels",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/parcels-23c43007.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "LOVED Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Tobeloved",
+               "info" : "With Iwanttobeyourlightagain intro"
+            }, {
+               "name" : "Ifyoucall"
+            }, {
+               "name" : "Overnight"
+            }, {
+               "name" : "Somethinggreater"
+            }, {
+               "name" : "Sorry"
+            }, {
+               "name" : "Safeandsound"
+            }, {
+               "name" : "Gamesofluck"
+            }, {
+               "name" : "Summerinlove"
+            }, {
+               "name" : "Leaveyourlove",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Iwanttobeyourlightagain"
+            }, {
+               "name" : "Everyroad"
+            }, {
+               "name" : "LordHenry"
+            }, {
+               "name" : "Thinkaboutit"
+            }, {
+               "name" : "Lightenup"
+            }, {
+               "name" : "Everybodyelse",
+               "info" : "Instrumental"
+            }, {
+               "name" : "Tieduprightnow"
+            }, {
+               "name" : "Once",
+               "info" : "With Patrick solo"
+            }, {
+               "name" : "IknowhowIfeel"
+            }, {
+               "name" : "Yougotmefeeling"
+            }, {
+               "name" : "Tobeloved",
+               "info" : "trance version"
+            } ]
+         } ]
+      },
+      "info" : "There was no encore due to the hard curfew.",
+      "url" : "https://www.setlist.fm/setlist/parcels/2025/forest-hills-stadium-queens-ny-2b58a84a.html"
+   }, {
+      "id" : "5b4ec344",
+      "versionId" : "g23666c3f",
+      "eventDate" : "18-10-2025",
+      "lastUpdated" : "2025-10-20T04:32:09.338+0000",
+      "artist" : {
+         "mbid" : "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f",
+         "name" : "Disclosure",
+         "sortName" : "Disclosure",
+         "disambiguation" : "UK electronic duo Guy & Howard Lawrence",
+         "url" : "https://www.setlist.fm/setlists/disclosure-7bd01274.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "F for You"
+            }, {
+               "name" : "When a Fire Starts to Burn"
+            }, {
+               "name" : "Holding On"
+            }, {
+               "name" : "one2three"
+            }, {
+               "name" : "Douha (Mali Mali)"
+            }, {
+               "name" : "In My Arms"
+            }, {
+               "name" : "White Noise"
+            }, {
+               "name" : "No Cap"
+            }, {
+               "name" : "Simply Won't Do"
+            }, {
+               "name" : "Arachnids"
+            }, {
+               "name" : "She's Gone, Dance On"
+            }, {
+               "name" : "Help Me Lose My Mind"
+            }, {
+               "name" : "Latch"
+            }, {
+               "name" : "Tondo"
+            }, {
+               "name" : "You & Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/disclosure/2025/forest-hills-stadium-queens-ny-5b4ec344.html"
+   }, {
+      "id" : "3b475c1c",
+      "versionId" : "g7b79a6cc",
+      "eventDate" : "03-10-2025",
+      "lastUpdated" : "2025-10-06T16:32:25.847+0000",
+      "artist" : {
+         "mbid" : "b7d92248-97e3-4450-8057-6fe06738f735",
+         "name" : "Shawn Mendes",
+         "sortName" : "Mendes, Shawn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/shawn-mendes-73d8c239.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "On The Road Again Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "A House Full Of Love",
+               "tape" : true
+            }, {
+               "name" : "There's Nothing Holdin' Me Back"
+            }, {
+               "name" : "Wonder"
+            }, {
+               "name" : "Treat You Better"
+            }, {
+               "name" : "Monster"
+            }, {
+               "name" : "Lost in Japan"
+            } ]
+         }, {
+            "name" : "Act 2",
+            "song" : [ {
+               "name" : "\"Shawn\"",
+               "tape" : true
+            }, {
+               "name" : "Isn't That Enough"
+            }, {
+               "name" : "Heavy"
+            }, {
+               "name" : "Heart of Gold"
+            } ]
+         }, {
+            "name" : "Act 3",
+            "song" : [ {
+               "name" : "Señorita",
+               "cover" : {
+                  "mbid" : "2737a776-8f76-43e0-9557-3da9a0cd4f52",
+                  "name" : "Shawn Mendes & Camila Cabello",
+                  "sortName" : "Mendes, Shawn & Cabello, Camila",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/shawn-mendes-and-camila-cabello-23c464b7.html"
+               }
+            }, {
+               "name" : "Ruin"
+            }, {
+               "name" : "Never Be Alone"
+            }, {
+               "name" : "Mercy"
+            } ]
+         }, {
+            "name" : "Act 4",
+            "song" : [ {
+               "name" : "Youth"
+            }, {
+               "name" : "Stitches"
+            }, {
+               "name" : "It'll Be Okay"
+            } ]
+         }, {
+            "name" : "Act 5",
+            "song" : [ {
+               "name" : "If I Can't Have You"
+            }, {
+               "name" : "Why Why Why"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "In My Blood"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/shawn-mendes/2025/forest-hills-stadium-queens-ny-3b475c1c.html"
+   }, {
+      "id" : "6b5ee2b2",
+      "versionId" : "g1b62519c",
+      "eventDate" : "30-09-2025",
+      "lastUpdated" : "2025-11-20T14:06:03.034+0000",
+      "artist" : {
+         "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+         "name" : "Tyler Childers",
+         "sortName" : "Childers, Tyler",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "On The Road Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Eatin’ Big Time"
+            }, {
+               "name" : "I Swear (to God)"
+            }, {
+               "name" : "Dirty Ought Trill"
+            }, {
+               "name" : "Rustin' in the Rain"
+            }, {
+               "name" : "All Your'n"
+            }, {
+               "name" : "In Your Love"
+            }, {
+               "name" : "Jersey Giant"
+            }, {
+               "name" : "Bitin’ List"
+            }, {
+               "name" : "Watch Out"
+            }, {
+               "name" : "Lady May",
+               "info" : "Solo B-Stage"
+            }, {
+               "name" : "Nose on the Grindstone",
+               "info" : "Acoustic Trio (B Stage)"
+            }, {
+               "name" : "Follow You to Virgie",
+               "info" : "Acoustic Trio (B Stage)"
+            }, {
+               "name" : "The Old Country Church",
+               "cover" : {
+                  "mbid" : "cbf86c72-6d17-4c87-9f85-737ea032465e",
+                  "name" : "T. Texas Tyler",
+                  "sortName" : "Tyler, T. Texas",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/t-texas-tyler-73d4fa9d.html"
+               }
+            }, {
+               "name" : "Can I Take My Hounds to Heaven?",
+               "info" : "with band intros"
+            }, {
+               "name" : "Whitehouse Road"
+            }, {
+               "name" : "Down Under"
+            }, {
+               "name" : "Honky Tonk Flame"
+            }, {
+               "name" : "Way of the Triune God"
+            }, {
+               "name" : "Gemini"
+            }, {
+               "name" : "Snipe Hunt"
+            }, {
+               "name" : "House Fire"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tyler-childers/2025/forest-hills-stadium-queens-ny-6b5ee2b2.html"
+   }, {
+      "id" : "1b41154c",
+      "versionId" : "g7b6d5298",
+      "eventDate" : "30-09-2025",
+      "lastUpdated" : "2026-01-23T05:22:07.138+0000",
+      "artist" : {
+         "mbid" : "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+         "name" : "Medium Build",
+         "sortName" : "Medium Build",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/medium-build-13f111d1.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Atom"
+            }, {
+               "name" : "Crying Over U"
+            }, {
+               "name" : "Triple Marathon"
+            }, {
+               "name" : "Last Time"
+            }, {
+               "name" : "99 Corolla"
+            }, {
+               "name" : "Stick Around"
+            }, {
+               "name" : "Gimme Back My Soul"
+            }, {
+               "name" : "In My Room"
+            }, {
+               "name" : "Never Learned to Dance"
+            }, {
+               "name" : "WMP"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/medium-build/2025/forest-hills-stadium-queens-ny-1b41154c.html"
+   }, {
+      "id" : "734122a1",
+      "versionId" : "g7378a2a5",
+      "eventDate" : "29-09-2025",
+      "lastUpdated" : "2025-09-29T23:39:10.302+0000",
+      "artist" : {
+         "mbid" : "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+         "name" : "Medium Build",
+         "sortName" : "Medium Build",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/medium-build-13f111d1.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/medium-build/2025/forest-hills-stadium-queens-ny-734122a1.html"
+   }, {
+      "id" : "635ee2b3",
+      "versionId" : "g303493b",
+      "eventDate" : "29-09-2025",
+      "lastUpdated" : "2026-08-09T00:52:11.164+0000",
+      "artist" : {
+         "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+         "name" : "Tyler Childers",
+         "sortName" : "Childers, Tyler",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "On The Road Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Eatin’ Big Time"
+            }, {
+               "name" : "I Swear (to God)"
+            }, {
+               "name" : "Shake the Frost"
+            }, {
+               "name" : "Down Under"
+            }, {
+               "name" : "Getting to the Bottom"
+            }, {
+               "name" : "All Your'n"
+            }, {
+               "name" : "Oneida"
+            }, {
+               "name" : "Jersey Giant"
+            }, {
+               "name" : "Bitin’ List"
+            }, {
+               "name" : "Whitehouse Road"
+            }, {
+               "name" : "Watch Out"
+            }, {
+               "name" : "Lady May",
+               "info" : "On the B stage acoustic solo"
+            }, {
+               "name" : "Matthew",
+               "info" : "On the B stage with Jesse and Craig"
+            }, {
+               "name" : "Follow You to Virgie",
+               "info" : "On the B stage with Jesse and Craig"
+            }, {
+               "name" : "Dirty Ought Trill"
+            }, {
+               "name" : "Honky Tonk Flame"
+            }, {
+               "name" : "Way of the Triune God"
+            }, {
+               "name" : "Snipe Hunt"
+            }, {
+               "name" : "House Fire"
+            }, {
+               "name" : "Universal Sound"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tyler-childers/2025/forest-hills-stadium-queens-ny-635ee2b3.html"
+   }, {
+      "id" : "3b4264d4",
+      "versionId" : "g736fb64d",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-12-22T14:49:10.906+0000",
+      "artist" : {
+         "mbid" : "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
+         "name" : "The Marías",
+         "sortName" : "Marías, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-marias-bc141ae.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "Submarine"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hamptons"
+            }, {
+               "name" : "Real Life"
+            }, {
+               "name" : "Run Your Mouth"
+            }, {
+               "name" : "Lovefool / Care for You"
+            }, {
+               "name" : "Only in My Dreams"
+            }, {
+               "name" : "Lejos de ti"
+            }, {
+               "name" : "Hush"
+            }, {
+               "name" : "Heavy"
+            }, {
+               "name" : "Nobody New"
+            }, {
+               "name" : "Vicious Sensitive Robot"
+            }, {
+               "name" : "Back to Me"
+            }, {
+               "name" : "Paranoia"
+            }, {
+               "name" : "No One Noticed",
+               "info" : "With Extended Spanish outro"
+            }, {
+               "name" : "Cariño"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-marias/2025/forest-hills-stadium-queens-ny-3b4264d4.html"
+   }, {
+      "id" : "3b4264c8",
+      "versionId" : "g337ad0cd",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-09-17T12:19:26.415+0000",
+      "artist" : {
+         "mbid" : "e17bdfba-440f-42ae-a48b-cc31dfb3d356",
+         "name" : "G Flip",
+         "sortName" : "G Flip",
+         "disambiguation" : "FLIPO GEORGIA CLAIRE",
+         "url" : "https://www.setlist.fm/setlists/g-flip-3bca188c.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/g-flip/2025/forest-hills-stadium-queens-ny-3b4264c8.html"
+   }, {
+      "id" : "334264c9",
+      "versionId" : "g3b78a0a0",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-09-29T22:10:30.506+0000",
+      "artist" : {
+         "mbid" : "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+         "name" : "Blondshell",
+         "sortName" : "Blondshell",
+         "disambiguation" : "aka Sabrina Teitelbaum",
+         "url" : "https://www.setlist.fm/setlists/blondshell-3ff711f.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "If You Asked For a Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "23's a Baby"
+            }, {
+               "name" : "Toy"
+            }, {
+               "name" : "Docket"
+            }, {
+               "name" : "Sepsis"
+            }, {
+               "name" : "T&A"
+            }, {
+               "name" : "Change"
+            }, {
+               "name" : "Salad"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blondshell/2025/forest-hills-stadium-queens-ny-334264c9.html"
+   }, {
+      "id" : "2b4264d6",
+      "versionId" : "g436e3b47",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-12-17T10:36:30.117+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "After Laughter (Comes Tears)",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "f1709257-4b4f-4db9-a715-d1b199acbd03",
+                  "name" : "Wendy Rene",
+                  "sortName" : "Rene, Wendy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wendy-rene-13d4e9ad.html"
+               }
+            }, {
+               "name" : "Second Nature"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Glory of the Snow"
+            }, {
+               "name" : "Terrapin"
+            }, {
+               "name" : "Flaming Hot Cheetos"
+            }, {
+               "name" : "Add Up My Love"
+            }, {
+               "name" : "Echo"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Slow Dance"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Harbor"
+            }, {
+               "name" : "Alewife"
+            }, {
+               "name" : "4EVER"
+            }, {
+               "name" : "Steeeam",
+               "cover" : {
+                  "mbid" : "30a10fc4-3402-427e-a420-2215395cd99b",
+                  "name" : "Shelly",
+                  "sortName" : "Shelly",
+                  "disambiguation" : "band featuring Clairo, Claud, etc.",
+                  "url" : "https://www.setlist.fm/setlists/shelly-2bf2d09a.html"
+               },
+               "with" : {
+                  "mbid" : "30a10fc4-3402-427e-a420-2215395cd99b",
+                  "name" : "Shelly",
+                  "sortName" : "Shelly",
+                  "disambiguation" : "band featuring Clairo, Claud, etc.",
+                  "url" : "https://www.setlist.fm/setlists/shelly-2bf2d09a.html"
+               }
+            }, {
+               "name" : "Thank You"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Sexy to Someone"
+            }, {
+               "name" : "Juna",
+               "info" : "cut cut off early because of curfew"
+            } ]
+         } ]
+      },
+      "info" : "This marked the final performance of the Charm tour, after Clairo was unable to attend the rescheduled Camp Flog Gnaw dates. This was also her first time headlining a festival.",
+      "url" : "https://www.setlist.fm/setlist/clairo/2025/forest-hills-stadium-queens-ny-2b4264d6.html"
+   }, {
+      "id" : "2b4264ce",
+      "versionId" : "g2b7ad0aa",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-09-17T12:21:07.687+0000",
+      "artist" : {
+         "mbid" : "63094905-b963-46ca-8429-090e1afd6752",
+         "name" : "hey, nothing",
+         "sortName" : "hey, nothing",
+         "disambiguation" : "Atlanta duo",
+         "url" : "https://www.setlist.fm/setlists/hey-nothing-bfa55f6.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hey-nothing/2025/forest-hills-stadium-queens-ny-2b4264ce.html"
+   }, {
+      "id" : "2b4264ca",
+      "versionId" : "g1b15514c",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2026-03-27T04:22:29.615+0000",
+      "artist" : {
+         "mbid" : "2ba1af4b-9d6b-4a0a-af47-f00769700da2",
+         "name" : "Paris Paloma",
+         "sortName" : "Paloma, Paris",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/paris-paloma-3ffa1c7.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "my mind (now)"
+            }, {
+               "name" : "drywall"
+            }, {
+               "name" : "as good a reason"
+            }, {
+               "name" : "knitting song"
+            }, {
+               "name" : "escape pod"
+            }, {
+               "name" : "notre dame"
+            }, {
+               "name" : "the warmth"
+            }, {
+               "name" : "Good Boy"
+            }, {
+               "name" : "bones on the beach"
+            }, {
+               "name" : "the fruits"
+            }, {
+               "name" : "yeti"
+            }, {
+               "name" : "hunter"
+            }, {
+               "name" : "labour"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paris-paloma/2025/forest-hills-stadium-queens-ny-2b4264ca.html"
+   }, {
+      "id" : "234264cf",
+      "versionId" : "g5b78afa8",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-09-29T15:50:01.145+0000",
+      "artist" : {
+         "mbid" : "a2abdca1-2041-45b9-8d01-e34fdef7922f",
+         "name" : "Joy Oladokun",
+         "sortName" : "Oladokun, Joy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joy-oladokun-7bc93a88.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "if you got a problem"
+            }, {
+               "name" : "DRUGS"
+            }, {
+               "name" : "NO COUNTRY"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joy-oladokun/2025/forest-hills-stadium-queens-ny-234264cf.html"
+   }, {
+      "id" : "234264cb",
+      "versionId" : "g336580f1",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-11-08T02:58:25.059+0000",
+      "artist" : {
+         "mbid" : "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+         "name" : "The Last Dinner Party",
+         "sortName" : "Last Dinner Party, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-last-dinner-party-13fb79d1.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Prelude to Ecstasy",
+               "tape" : true
+            }, {
+               "name" : "Burn Alive"
+            }, {
+               "name" : "Caesar on a TV Screen"
+            }, {
+               "name" : "Count the Ways"
+            }, {
+               "name" : "Second Best"
+            }, {
+               "name" : "Gjuha"
+            }, {
+               "name" : "Sinner"
+            }, {
+               "name" : "Agnus Dei"
+            }, {
+               "name" : "Portrait of a Dead Girl"
+            }, {
+               "name" : "The Feminine Urge"
+            }, {
+               "name" : "The Scythe"
+            }, {
+               "name" : "My Lady of Mercy"
+            }, {
+               "name" : "This Is the Killer Speaking"
+            }, {
+               "name" : "Nothing Matters"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-last-dinner-party/2025/forest-hills-stadium-queens-ny-234264cb.html"
+   }, {
+      "id" : "3b4264dc",
+      "versionId" : "g5b7887f0",
+      "eventDate" : "27-09-2025",
+      "lastUpdated" : "2025-09-30T17:24:23.931+0000",
+      "artist" : {
+         "mbid" : "c69882c6-a9aa-4cf6-b3ef-100336d49ddd",
+         "name" : "Peach PRC",
+         "sortName" : "PRC, Peach",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/peach-prc-6bf59ed2.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Perfect For You"
+            }, {
+               "name" : "Blondes"
+            }, {
+               "name" : "Secret"
+            }, {
+               "name" : "Sweet n' Low"
+            }, {
+               "name" : "Loved You Before",
+               "info" : "on omnicord"
+            }, {
+               "name" : "TRNDSTTR - Black Coast feat. M. Maggie (Lucian Remix)",
+               "info" : "pole dance"
+            }, {
+               "name" : "Like A Girl Does"
+            }, {
+               "name" : "Time Of My Life"
+            }, {
+               "name" : "Josh"
+            }, {
+               "name" : "God Is A Freak"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/peach-prc/2025/forest-hills-stadium-queens-ny-3b4264dc.html"
+   }, {
+      "id" : "3b4264d0",
+      "versionId" : "g5b7b77f8",
+      "eventDate" : "27-09-2025",
+      "lastUpdated" : "2025-09-27T16:39:20.612+0000",
+      "artist" : {
+         "mbid" : "27e3f0c6-4127-4a7b-9d6a-97203d36b15e",
+         "name" : "Sunday (1994)",
+         "sortName" : "Sunday (1994)",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sunday-1994-33e40061.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Our Troubles"
+            }, {
+               "name" : "TV Car Chase"
+            }, {
+               "name" : "Blossom"
+            }, {
+               "name" : "Tired Boy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sunday-1994/2025/forest-hills-stadium-queens-ny-3b4264d0.html"
+   } ]
+}

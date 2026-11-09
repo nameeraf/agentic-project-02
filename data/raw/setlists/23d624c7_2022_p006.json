@@ -1,0 +1,522 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 109,
+   "setlist" : [ {
+      "id" : "2389ec1b",
+      "versionId" : "g53595f99",
+      "eventDate" : "10-03-2022",
+      "lastUpdated" : "2025-02-10T19:56:43.498+0000",
+      "artist" : {
+         "mbid" : "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+         "name" : "Khruangbin",
+         "sortName" : "Khruangbin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/khruangbin-23da00bb.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Casa Surreal"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rules"
+            }, {
+               "name" : "August Twelve"
+            }, {
+               "name" : "Dern Kala"
+            }, {
+               "name" : "August 10",
+               "info" : "included snippet of Bam Bam by Sister Nancy"
+            }, {
+               "name" : "The Infamous Bill"
+            }, {
+               "name" : "So We Won't Forget"
+            }, {
+               "name" : "Lady and Man"
+            }, {
+               "name" : "Evan Finds the Third Room"
+            }, {
+               "name" : "Pelota"
+            }, {
+               "name" : "Let's Dance / Rapp Snitch Knishes / Gazzillion Ear / Deep Fried Frenz / Dazz / Bennie and the Jets / Footsteps in the Dark / Regulate / Nuthin' but a \"G\" Thang / Got Your Money / Electric Relaxation / Get Money / True / Wicked Game"
+            }, {
+               "name" : "Summer Madness",
+               "cover" : {
+                  "mbid" : "2469950a-f0ca-425a-bfbc-baf55ea3afde",
+                  "name" : "Kool & the Gang",
+                  "sortName" : "Kool & the Gang",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-and-the-gang-13d6bd4d.html"
+               },
+               "info" : "Interpolates \"Ascension\" by Maxwell"
+            }, {
+               "name" : "María también",
+               "info" : "included snippets of Misirlou and Apache"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "First Class"
+            }, {
+               "name" : "White Gloves"
+            }, {
+               "name" : "Time (You and I)"
+            }, {
+               "name" : "People Everywhere (Still Alive)",
+               "info" : "included snippet of Rhythm is a Dancer by SNAP! and Gipsy Woman by Crystal Waters"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/khruangbin/2022/radio-city-music-hall-new-york-ny-2389ec1b.html"
+   }, {
+      "id" : "b89e9be",
+      "versionId" : "g73ce6621",
+      "eventDate" : "09-03-2022",
+      "lastUpdated" : "2022-03-10T01:14:58.648+0000",
+      "artist" : {
+         "mbid" : "42dd1862-7255-47ed-8584-651abce3bf53",
+         "name" : "Nubya Garcia",
+         "sortName" : "Garcia, Nubya",
+         "disambiguation" : "English jazz musician",
+         "url" : "https://www.setlist.fm/setlists/nubya-garcia-1bcc3dc8.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nubya-garcia/2022/radio-city-music-hall-new-york-ny-b89e9be.html"
+   }, {
+      "id" : "7b89fe3c",
+      "versionId" : "g63ccfad7",
+      "eventDate" : "09-03-2022",
+      "lastUpdated" : "2022-03-28T00:46:13.921+0000",
+      "artist" : {
+         "mbid" : "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+         "name" : "Khruangbin",
+         "sortName" : "Khruangbin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/khruangbin-23da00bb.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Casa Surreal"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "First Class"
+            }, {
+               "name" : "August Twelve"
+            }, {
+               "name" : "The Number 3"
+            }, {
+               "name" : "August 10"
+            }, {
+               "name" : "Bam Bam",
+               "cover" : {
+                  "mbid" : "73ee98fc-7e8c-465d-b42c-8772ebc53de8",
+                  "name" : "Sister Nancy",
+                  "sortName" : "Sister Nancy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sister-nancy-53d75f8d.html"
+               }
+            }, {
+               "name" : "So We Won't Forget"
+            }, {
+               "name" : "Lady and Man"
+            }, {
+               "name" : "Evan Finds the Third Room"
+            }, {
+               "name" : "The Infamous Bill"
+            }, {
+               "name" : "Pelota"
+            }, {
+               "name" : "Let's Dance / Coffin Nails / Gazzilion Ear / Deep Fried Frenz / Dazz / Bennie and the Jets / It Was a Good Day / Regulate / Nuthin' but a \"G\" Thang / Got Your Money / Electric Relaxation / Get Money / True / Wicked Game"
+            }, {
+               "name" : "Summer Madness",
+               "cover" : {
+                  "mbid" : "2469950a-f0ca-425a-bfbc-baf55ea3afde",
+                  "name" : "Kool & the Gang",
+                  "sortName" : "Kool & the Gang",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-and-the-gang-13d6bd4d.html"
+               }
+            }, {
+               "name" : "María también",
+               "info" : "(included snippets of Misirlou and Apache)"
+            } ]
+         }, {
+            "name" : "Encore",
+            "song" : [ {
+               "name" : "The Number 4"
+            }, {
+               "name" : "White Gloves"
+            }, {
+               "name" : "Time (You and I)"
+            }, {
+               "name" : "People Everywhere (Still Alive)"
+            }, {
+               "name" : "Rhythm Is a Dancer",
+               "cover" : {
+                  "mbid" : "cd23732d-ffd2-444e-8884-53475d7ac7d9",
+                  "name" : "Snap!",
+                  "sortName" : "Snap!",
+                  "disambiguation" : "Eurodance",
+                  "url" : "https://www.setlist.fm/setlists/snap-3bd6bc78.html"
+               }
+            }, {
+               "name" : "Gypsy Woman (She's Homeless)",
+               "cover" : {
+                  "mbid" : "8f4c7ad3-c95c-4d62-a554-3416fb5204f4",
+                  "name" : "Crystal Waters",
+                  "sortName" : "Waters, Crystal",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crystal-waters-53d693d5.html"
+               }
+            }, {
+               "name" : "People Everywhere (Still Alive)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/khruangbin/2022/radio-city-music-hall-new-york-ny-7b89fe3c.html"
+   }, {
+      "id" : "5ba6ebfc",
+      "versionId" : "g2b9248a6",
+      "eventDate" : "26-02-2022",
+      "lastUpdated" : "2023-06-08T21:27:27.216+0000",
+      "artist" : {
+         "mbid" : "070787fc-07bd-4d43-8595-6f41f0bc3772",
+         "name" : "Hasan Minhaj",
+         "sortName" : "Hasan Minhaj",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hasan-minhaj-bfe31de.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hasan-minhaj/2022/radio-city-music-hall-new-york-ny-5ba6ebfc.html"
+   }, {
+      "id" : "43a6ebf3",
+      "versionId" : "g2392489b",
+      "eventDate" : "26-02-2022",
+      "lastUpdated" : "2023-06-08T21:28:55.181+0000",
+      "artist" : {
+         "mbid" : "5046ce09-8e26-4845-9caf-ef49ca5ec30c",
+         "name" : "Ronny Chieng",
+         "sortName" : "Ronny Chieng",
+         "disambiguation" : "Malaysian comedian",
+         "url" : "https://www.setlist.fm/setlists/ronny-chieng-63fe3adb.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ronny-chieng/2022/radio-city-music-hall-new-york-ny-43a6ebf3.html"
+   }, {
+      "id" : "3b89b8ac",
+      "versionId" : "g5bcebbb8",
+      "eventDate" : "24-02-2022",
+      "lastUpdated" : "2022-02-25T16:06:19.642+0000",
+      "artist" : {
+         "mbid" : "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+         "name" : "Arlo Parks",
+         "sortName" : "Parks, Arlo",
+         "disambiguation" : "Alternative R&B artist",
+         "url" : "https://www.setlist.fm/setlists/arlo-parks-4bc9c3f2.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro"
+            }, {
+               "name" : "Green Eyes"
+            }, {
+               "name" : "Portra 400"
+            }, {
+               "name" : "Caroline"
+            }, {
+               "name" : "Eugene"
+            }, {
+               "name" : "Black Dog"
+            }, {
+               "name" : "Hurt"
+            }, {
+               "name" : "Too Good"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Hope"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arlo-parks/2022/radio-city-music-hall-new-york-ny-3b89b8ac.html"
+   }, {
+      "id" : "2389b8a7",
+      "versionId" : "g5bcebb90",
+      "eventDate" : "24-02-2022",
+      "lastUpdated" : "2022-02-25T16:32:51.710+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Sling Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bambi"
+            }, {
+               "name" : "Zinnias"
+            }, {
+               "name" : "Wade"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Bags"
+            }, {
+               "name" : "Harbor"
+            }, {
+               "name" : "Alewife"
+            }, {
+               "name" : "Impossible"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Blouse",
+               "info" : "solo"
+            }, {
+               "name" : "Just for Today",
+               "info" : "solo"
+            }, {
+               "name" : "Little Changes"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Nomad"
+            }, {
+               "name" : "Reaper"
+            }, {
+               "name" : "Joanie"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Management"
+            }, {
+               "name" : "Pretty Girl"
+            }, {
+               "name" : "Sofia"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clairo/2022/radio-city-music-hall-new-york-ny-2389b8a7.html"
+   }, {
+      "id" : "4b4017ca",
+      "versionId" : "g330ec439",
+      "eventDate" : "20-02-2022",
+      "lastUpdated" : "2026-08-27T02:41:56.973+0000",
+      "artist" : {
+         "mbid" : "34e1542c-ad28-42c1-9438-724b324f66a4",
+         "name" : "Sin Bandera",
+         "sortName" : "Sin Bandera",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sin-bandera-53d69f05.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "4 latidos"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sin-bandera/2022/radio-city-music-hall-new-york-ny-4b4017ca.html"
+   }, {
+      "id" : "7b88da30",
+      "versionId" : "g33c0e4ed",
+      "eventDate" : "28-01-2022",
+      "lastUpdated" : "2022-01-28T01:10:37.284+0000",
+      "artist" : {
+         "mbid" : "9ea7c031-a2d0-4a89-b469-72b51c47417c",
+         "name" : "Ricardo Montaner",
+         "sortName" : "Montaner, Ricardo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ricardo-montaner-6bd62e5a.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ricardo-montaner/2022/radio-city-music-hall-new-york-ny-7b88da30.html"
+   } ]
+}

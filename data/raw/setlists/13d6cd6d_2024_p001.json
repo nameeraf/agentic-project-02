@@ -1,0 +1,953 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 12,
+   "setlist" : [ {
+      "id" : "b521dca",
+      "versionId" : "g4baabb92",
+      "eventDate" : "30-08-2024",
+      "lastUpdated" : "2024-09-02T11:57:25.447+0000",
+      "artist" : {
+         "mbid" : "9eb2030a-c311-4cbf-a8f2-c57a58aa18ce",
+         "name" : "Megan Moroney",
+         "sortName" : "Moroney, Megan",
+         "disambiguation" : "country music singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/megan-moroney-73fdaa91.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Indifferent"
+            }, {
+               "name" : "Am I Okay?"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/megan-moroney/2024/rumsey-playfield-new-york-ny-b521dca.html"
+   }, {
+      "id" : "33a87001",
+      "versionId" : "g2363dcd3",
+      "eventDate" : "27-08-2024",
+      "lastUpdated" : "2025-11-23T22:25:34.720+0000",
+      "artist" : {
+         "mbid" : "cd295735-b68a-4b5d-aa10-de0dea37ca89",
+         "name" : "Fenne Lily",
+         "sortName" : "Lily, Fenne",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fenne-lily-73c0be51.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pick"
+            }, {
+               "name" : "Dawncolored Horse"
+            }, {
+               "name" : "Baby",
+               "info" : "new song"
+            }, {
+               "name" : "Berlin"
+            }, {
+               "name" : "2+2"
+            }, {
+               "name" : "Hollywood and Fear"
+            }, {
+               "name" : "Lights Light Up"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fenne-lily/2024/rumsey-playfield-new-york-ny-33a87001.html"
+   }, {
+      "id" : "2ba8700e",
+      "versionId" : "g3363dcd5",
+      "eventDate" : "27-08-2024",
+      "lastUpdated" : "2025-11-23T22:26:29.939+0000",
+      "artist" : {
+         "mbid" : "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+         "name" : "Snail Mail",
+         "sortName" : "Snail Mail",
+         "disambiguation" : "US indie rock solo project by Lindsey Erin Jordan",
+         "url" : "https://www.setlist.fm/setlists/snail-mail-73c34a49.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Heat Wave"
+            }, {
+               "name" : "Glory"
+            }, {
+               "name" : "Madonna"
+            }, {
+               "name" : "Ben Franklin"
+            }, {
+               "name" : "Speaking Terms"
+            }, {
+               "name" : "Golden Dream"
+            }, {
+               "name" : "Thinning"
+            }, {
+               "name" : "Automate"
+            }, {
+               "name" : "Forever (Sailing)"
+            }, {
+               "name" : "Full Control"
+            }, {
+               "name" : "Headlock"
+            }, {
+               "name" : "Valentine"
+            }, {
+               "name" : "Mia",
+               "info" : "Solo"
+            }, {
+               "name" : "Supersonic",
+               "cover" : {
+                  "mbid" : "39ab1aed-75e0-4140-bd47-540276886b60",
+                  "name" : "Oasis",
+                  "sortName" : "Oasis",
+                  "disambiguation" : "Noel & Liam Gallagher",
+                  "url" : "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+               }
+            }, {
+               "name" : "Pristine"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/snail-mail/2024/rumsey-playfield-new-york-ny-2ba8700e.html"
+   }, {
+      "id" : "2ba87002",
+      "versionId" : "g2363dcd7",
+      "eventDate" : "27-08-2024",
+      "lastUpdated" : "2025-11-23T22:26:06.138+0000",
+      "artist" : {
+         "mbid" : "2c1ddd9e-0296-47f3-9a81-413916f41119",
+         "name" : "Tim Heidecker",
+         "sortName" : "Heidecker, Tim",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tim-heidecker-4bd393c2.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Well's Running Dry",
+               "info" : "live debut"
+            }, {
+               "name" : "Come Away With Me"
+            }, {
+               "name" : "Property"
+            }, {
+               "name" : "Buddy"
+            }, {
+               "name" : "Sirens of Titan",
+               "info" : "Day Tripper tease"
+            }, {
+               "name" : "Someone Who Can Handle You"
+            }, {
+               "name" : "Trippin' (Slippin')"
+            }, {
+               "name" : "Dad of the Year"
+            }, {
+               "name" : "Kern River"
+            }, {
+               "name" : "Theme from New York, New York",
+               "info" : "Snippet"
+            }, {
+               "name" : "Backwards",
+               "info" : "with his mom and an audience member \"My new dad,\" says Tim"
+            }, {
+               "name" : "Why Am I Like This?"
+            }, {
+               "name" : "Hot Piss",
+               "cover" : {
+                  "mbid" : "2e29becf-214e-410c-98ed-ece6805d6c7f",
+                  "name" : "The Yellow River Boys",
+                  "sortName" : "Yellow River Boys, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-yellow-river-boys-3cddd0b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tim-heidecker/2024/rumsey-playfield-new-york-ny-2ba87002.html"
+   }, {
+      "id" : "3b52844c",
+      "versionId" : "g1b7ec598",
+      "eventDate" : "23-08-2024",
+      "lastUpdated" : "2025-08-15T10:38:46.511+0000",
+      "artist" : {
+         "mbid" : "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+         "name" : "The Roots",
+         "sortName" : "Roots, The",
+         "disambiguation" : "US hip hop group",
+         "url" : "https://www.setlist.fm/setlists/the-roots-73d6da75.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "ECK/Pros"
+            }, {
+               "name" : "I Got My Mind Made Up",
+               "cover" : {
+                  "mbid" : "1658b247-7a13-439f-911e-5791ba9df3d6",
+                  "name" : "Instant Funk",
+                  "sortName" : "Instant Funk",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/instant-funk-4bd64b2a.html"
+               }
+            }, {
+               "name" : "Jungle Boogie",
+               "cover" : {
+                  "mbid" : "2469950a-f0ca-425a-bfbc-baf55ea3afde",
+                  "name" : "Kool & the Gang",
+                  "sortName" : "Kool & the Gang",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-and-the-gang-13d6bd4d.html"
+               }
+            }, {
+               "name" : "Soul Makossa",
+               "cover" : {
+                  "mbid" : "826b488f-5164-45ca-abc4-ab11b3c321eb",
+                  "name" : "Manu Dibango",
+                  "sortName" : "Dibango, Manu",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/manu-dibango-73d666b1.html"
+               }
+            }, {
+               "name" : "Think Twice / Lookin' at the Front Door"
+            } ]
+         }, {
+            "name" : "Digable Planets",
+            "song" : [ {
+               "name" : "The May 4th Movement Starring Doodlebug",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "Jettin’",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "Pacifics",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "Where I’m From",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "Nickel Bags",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "9th Wonder (Blackitolism)",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            } ]
+         }, {
+            "name" : "The Roots",
+            "song" : [ {
+               "name" : "Proceed"
+            }, {
+               "name" : "Step Into the Realm"
+            }, {
+               "name" : "What They Do"
+            }, {
+               "name" : "The Next Movement"
+            }, {
+               "name" : "Act Too (Love of My Life)"
+            }, {
+               "name" : "Double Trouble"
+            }, {
+               "name" : "Stay Cool"
+            } ]
+         }, {
+            "name" : "Jungle Brothers",
+            "song" : [ {
+               "name" : "Straight Out the Jungle",
+               "cover" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               },
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            }, {
+               "name" : "Jimbrowski",
+               "cover" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               },
+               "info" : "and Kool DJ Red Alert",
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            }, {
+               "name" : "I'm Gonna Do You",
+               "cover" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               },
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            }, {
+               "name" : "Buddy / Because I Got It Like That",
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            }, {
+               "name" : "J-Beez Comin' Through",
+               "cover" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               },
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            } ]
+         }, {
+            "name" : "The Roots",
+            "song" : [ {
+               "name" : "Change (Makes You Want to Hustle)",
+               "cover" : {
+                  "mbid" : "69f95e5c-4b34-4c8b-b8fe-c59f9296195a",
+                  "name" : "Donald Byrd",
+                  "sortName" : "Byrd, Donald",
+                  "disambiguation" : "American jazz trumpeter",
+                  "url" : "https://www.setlist.fm/setlists/donald-byrd-3d6a56f.html"
+               }
+            }, {
+               "name" : "Web / Dance Girl"
+            }, {
+               "name" : "Rock Creek Park / Chameleon"
+            }, {
+               "name" : "Here I Come"
+            }, {
+               "name" : "Gimme Some More",
+               "cover" : {
+                  "mbid" : "cb6a2948-7b9b-4a15-8c71-2b79cc76408e",
+                  "name" : "The J.B.’s",
+                  "sortName" : "J.B.’s, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-jbs-3bd60800.html"
+               }
+            }, {
+               "name" : "You Got Me"
+            } ]
+         }, {
+            "name" : "Digable Planets/Jungle Brothers/The Roots",
+            "song" : [ {
+               "name" : "Appointment at the Fat Clinic",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "Rebirth of Slick (Cool Like Dat)",
+               "cover" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               },
+               "with" : {
+                  "mbid" : "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+                  "name" : "Digable Planets",
+                  "sortName" : "Digable Planets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/digable-planets-7bd68688.html"
+               }
+            }, {
+               "name" : "Beyond This World",
+               "cover" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               },
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            }, {
+               "name" : "I'll House You",
+               "cover" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               },
+               "with" : {
+                  "mbid" : "ce3bc975-a76f-415b-a6cd-1e568c5714dd",
+                  "name" : "Jungle Brothers",
+                  "sortName" : "Jungle Brothers",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/jungle-brothers-63d6868f.html"
+               }
+            }, {
+               "name" : "The Seed (2.0)"
+            }, {
+               "name" : "Move On Up",
+               "cover" : {
+                  "mbid" : "4dca4bb2-23ba-4103-97e6-5810311db33a",
+                  "name" : "Curtis Mayfield",
+                  "sortName" : "Mayfield, Curtis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/curtis-mayfield-73d6ce49.html"
+               }
+            }, {
+               "name" : "Men at Work",
+               "cover" : {
+                  "mbid" : "fe9fdc3a-107c-46aa-8610-86b1e92c135e",
+                  "name" : "Kool G Rap & DJ Polo",
+                  "sortName" : "Kool G Rap & Polo, DJ",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-g-rap-and-dj-polo-7bd6dab8.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Hip Hop is the LOML tour w/ Digable Planets and Jungle Brothers",
+      "url" : "https://www.setlist.fm/setlist/the-roots/2024/rumsey-playfield-new-york-ny-3b52844c.html"
+   }, {
+      "id" : "1b544134",
+      "versionId" : "g1310b5c9",
+      "eventDate" : "09-08-2024",
+      "lastUpdated" : "2026-04-11T23:27:04.279+0000",
+      "artist" : {
+         "mbid" : "c458e9dc-e0d5-45ea-9e83-f9d0395f030d",
+         "name" : "Nicky Jam",
+         "sortName" : "Jam, Nicky",
+         "disambiguation" : "Nick Rivera Caminero",
+         "url" : "https://www.setlist.fm/setlists/nicky-jam-53d69ff1.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "X"
+            }, {
+               "name" : "CALOR"
+            }, {
+               "name" : "INSOMNIO",
+               "info" : "Live debut"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nicky-jam/2024/rumsey-playfield-new-york-ny-1b544134.html"
+   }, {
+      "id" : "13544135",
+      "versionId" : "g3ae09eb",
+      "eventDate" : "02-08-2024",
+      "lastUpdated" : "2024-08-05T22:07:02.516+0000",
+      "artist" : {
+         "mbid" : "70f0e309-5418-49b6-a130-666e2f76eecd",
+         "name" : "Carrie Underwood",
+         "sortName" : "Underwood, Carrie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/carrie-underwood-2bd6bc56.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Last Name"
+            }, {
+               "name" : "Before He Cheats"
+            }, {
+               "name" : "Out of That Truck"
+            }, {
+               "name" : "Good Girl"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carrie-underwood/2024/rumsey-playfield-new-york-ny-13544135.html"
+   }, {
+      "id" : "73572251",
+      "versionId" : "g2ba1546a",
+      "eventDate" : "26-07-2024",
+      "lastUpdated" : "2024-07-31T17:26:31.523+0000",
+      "artist" : {
+         "mbid" : "084308bd-1654-436f-ba03-df6697104e19",
+         "name" : "Green Day",
+         "sortName" : "Green Day",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/green-day-13d68939.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Basket Case"
+            }, {
+               "name" : "Dilemma"
+            }, {
+               "name" : "Look Ma, No Brains!"
+            }, {
+               "name" : "American Idiot"
+            }, {
+               "name" : "Holiday"
+            }, {
+               "name" : "Bobby Sox"
+            } ]
+         } ]
+      },
+      "info" : "Rehearsal in front of the live audience was: \"Basket Case,\" \"Dilemma,\" \"Holiday,\" \"Look Ma, No Brains!\" (partial), and \"American Idiot.\" Only \"Basket Case\" and \"Dilemma\" were included on the TV broadcast.",
+      "url" : "https://www.setlist.fm/setlist/green-day/2024/rumsey-playfield-new-york-ny-73572251.html"
+   }, {
+      "id" : "3544137",
+      "versionId" : "g2ba1905a",
+      "eventDate" : "19-07-2024",
+      "lastUpdated" : "2024-07-27T07:59:18.314+0000",
+      "artist" : {
+         "mbid" : "a62e299b-4707-4ff5-ad53-d80b2b03319d",
+         "name" : "Kane Brown",
+         "sortName" : "Brown, Kane",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kane-brown-63c46e43.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kane-brown/2024/rumsey-playfield-new-york-ny-3544137.html"
+   }, {
+      "id" : "7b542288",
+      "versionId" : "g53a35701",
+      "eventDate" : "17-07-2024",
+      "lastUpdated" : "2024-07-19T03:45:59.557+0000",
+      "artist" : {
+         "mbid" : "7aa4a16e-9d5a-41d3-968e-fae1a2c84d05",
+         "name" : "IAM",
+         "sortName" : "IAM",
+         "disambiguation" : "French rap band",
+         "url" : "https://www.setlist.fm/setlists/iam-2bd6cc46.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "IAM Concept"
+            }, {
+               "name" : "Petit frère"
+            }, {
+               "name" : "Samuraï",
+               "cover" : {
+                  "mbid" : "4f025aa8-99a3-4f78-9026-cb885e1aafa8",
+                  "name" : "Shurik’n",
+                  "sortName" : "Shurik’n",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/shurikn-bd6c5c2.html"
+               }
+            }, {
+               "name" : "Ça vient de la rue"
+            }, {
+               "name" : "Elle donne son corps avant son nom"
+            }, {
+               "name" : "La Saga"
+            }, {
+               "name" : "Nés sous la même étoile"
+            }, {
+               "name" : "Quand tu allais, on revenait"
+            }, {
+               "name" : "Je danse le mia"
+            }, {
+               "name" : "Bad Boys de Marseille (part II)",
+               "cover" : {
+                  "mbid" : "55808e24-5150-4abd-b86b-7c3d7a080da3",
+                  "name" : "Akhenaton",
+                  "sortName" : "Akhenaton",
+                  "disambiguation" : "French rapper / Producer",
+                  "url" : "https://www.setlist.fm/setlists/akhenaton-33d6cc45.html"
+               }
+            }, {
+               "name" : "Le Feu"
+            }, {
+               "name" : "L'empire du côté obscur"
+            }, {
+               "name" : "Un bon son brut pour les truands"
+            }, {
+               "name" : "Demain, c'est loin"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/iam/2024/rumsey-playfield-new-york-ny-7b542288.html"
+   }, {
+      "id" : "2b57187a",
+      "versionId" : "g63a49e33",
+      "eventDate" : "23-06-2024",
+      "lastUpdated" : "2024-06-26T22:15:52.177+0000",
+      "artist" : {
+         "mbid" : "c76e3bb8-eb63-41d6-b45a-a0b1e172a3ca",
+         "name" : "LaRussell",
+         "sortName" : "LaRussell",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/larussell-7bfdf60c.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "tour" : {
+         "name" : "T-Pain's Mansion in Wiscansin Party Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/larussell/2024/rumsey-playfield-new-york-ny-2b57187a.html"
+   }, {
+      "id" : "2357187f",
+      "versionId" : "g6ba49e36",
+      "eventDate" : "23-06-2024",
+      "lastUpdated" : "2024-06-26T22:16:44.984+0000",
+      "artist" : {
+         "mbid" : "78d01196-445b-4346-a62f-6c89084679d5",
+         "name" : "NandoSTL",
+         "sortName" : "NandoSTL",
+         "disambiguation" : "Rapper Nando Tillman",
+         "url" : "https://www.setlist.fm/setlists/nandostl-53fbe7bd.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nandostl/2024/rumsey-playfield-new-york-ny-2357187f.html"
+   } ]
+}

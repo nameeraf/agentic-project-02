@@ -1,0 +1,256 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 11,
+   "total" : 203,
+   "setlist" : [ {
+      "id" : "3b76ecc8",
+      "versionId" : "g3313a415",
+      "eventDate" : "02-02-2022",
+      "lastUpdated" : "2026-04-04T09:08:23.062+0000",
+      "artist" : {
+         "mbid" : "aefba883-dfc2-45ee-bce4-1dd903b13341",
+         "name" : "Dorian Electra",
+         "sortName" : "Electra, Dorian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dorian-electra-63cd5eb3.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "My Agenda"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "F the World"
+            }, {
+               "name" : "M’Lady"
+            }, {
+               "name" : "M’Lady - S3RL remix"
+            }, {
+               "name" : "Gentleman"
+            }, {
+               "name" : "Gentleman (d0llywood1 Remix)",
+               "info" : "shortened"
+            }, {
+               "name" : "Live by the Sword"
+            }, {
+               "name" : "1 Pill 2 Pill"
+            }, {
+               "name" : "Edgelord"
+            }, {
+               "name" : "Give Great Thanks"
+            }, {
+               "name" : "Give Great Thanks (Count Baldor Edit)",
+               "info" : "shortened"
+            }, {
+               "name" : "Adam & Steve"
+            }, {
+               "name" : "Adam & Steve (Count Baldor Remix)",
+               "info" : "shortened"
+            }, {
+               "name" : "Monk Mode",
+               "tape" : true
+            }, {
+               "name" : "Flamboyant"
+            }, {
+               "name" : "Mr. To You"
+            }, {
+               "name" : "Daddy Like"
+            }, {
+               "name" : "Sorry Bro (I Love You)"
+            }, {
+               "name" : "Barbie Boy"
+            }, {
+               "name" : "Guyliner"
+            }, {
+               "name" : "Emasculate"
+            }, {
+               "name" : "Musical Genius"
+            }, {
+               "name" : "Ram It Down"
+            }, {
+               "name" : "Iron Fist"
+            }, {
+               "name" : "Strapping Young Lads"
+            }, {
+               "name" : "My Agenda"
+            }, {
+               "name" : "Man To Man"
+            }, {
+               "name" : "Replay - Dorian Electra Remix",
+               "cover" : {
+                  "mbid" : "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                  "name" : "Lady Gaga",
+                  "sortName" : "Lady Gaga",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html"
+               }
+            }, {
+               "name" : "Career Boy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dorian-electra/2022/music-hall-of-williamsburg-brooklyn-ny-3b76ecc8.html"
+   }, {
+      "id" : "6b88c26e",
+      "versionId" : "g2b13a426",
+      "eventDate" : "01-02-2022",
+      "lastUpdated" : "2026-04-04T09:04:47.037+0000",
+      "artist" : {
+         "mbid" : "aefba883-dfc2-45ee-bce4-1dd903b13341",
+         "name" : "Dorian Electra",
+         "sortName" : "Electra, Dorian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dorian-electra-63cd5eb3.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "My Agenda"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "F the World"
+            }, {
+               "name" : "M’Lady",
+               "info" : "Includes elements of \"M'Lady (feat. Kero Kero Bonito) [S3RL Remix]\""
+            }, {
+               "name" : "Gentleman",
+               "info" : "Includes elements of \"Gentleman (feat. Danny Brown) [d0llywood1 Remix]\""
+            }, {
+               "name" : "Live by the Sword"
+            }, {
+               "name" : "1 Pill 2 Pill"
+            }, {
+               "name" : "Edgelord"
+            }, {
+               "name" : "Give Great Thanks",
+               "info" : "Includes elements of \"Give Great Thanks (Count Baldor Edit)\""
+            }, {
+               "name" : "Adam & Steve"
+            }, {
+               "name" : "Monk Mode",
+               "tape" : true
+            }, {
+               "name" : "Flamboyant"
+            }, {
+               "name" : "Mr. To You"
+            }, {
+               "name" : "Daddy Like"
+            }, {
+               "name" : "Sorry Bro (I Love You)"
+            }, {
+               "name" : "Barbie Boy"
+            }, {
+               "name" : "Guyliner"
+            }, {
+               "name" : "Emasculate"
+            }, {
+               "name" : "Interlude",
+               "tape" : true,
+               "info" : "Includes elements of \"Musical Genius\""
+            }, {
+               "name" : "Ram It Down"
+            }, {
+               "name" : "Iron Fist"
+            }, {
+               "name" : "Strapping Young Lads"
+            }, {
+               "name" : "My Agenda"
+            }, {
+               "name" : "Man To Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Replay - Dorian Electra Remix",
+               "cover" : {
+                  "mbid" : "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                  "name" : "Lady Gaga",
+                  "sortName" : "Lady Gaga",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html"
+               }
+            }, {
+               "name" : "Career Boy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dorian-electra/2022/music-hall-of-williamsburg-brooklyn-ny-6b88c26e.html"
+   }, {
+      "id" : "13889d89",
+      "versionId" : "g23c30ccf",
+      "eventDate" : "13-01-2022",
+      "lastUpdated" : "2022-01-14T16:14:57.879+0000",
+      "artist" : {
+         "mbid" : "69c8cacb-12a6-4cee-9221-02eb3c396c04",
+         "name" : "cleopatrick",
+         "sortName" : "cleopatrick",
+         "disambiguation" : "Canadian hard rock duo",
+         "url" : "https://www.setlist.fm/setlists/cleopatrick-bcb358a.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "BUMMER"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cleopatrick/2022/music-hall-of-williamsburg-brooklyn-ny-13889d89.html"
+   } ]
+}

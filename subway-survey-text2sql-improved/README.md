@@ -1,0 +1,3 @@
+# subway-survey-text2sql-improved
+
+`subway-survey-text2sql` with the Text2SQL layers from the lecture. `build_mappings.py` runs once, offline: besides building the cleaned DuckDB file, it writes the schema mappings, with each column's type, a model-written description, and, for enum columns, every valid value. The agent gains `read_mappings` and `get_enum_values`, three few-shot example queries in its instructions, and a tool guardrail that rejects `= 'NA'` comparisons. Run `gcloud auth application-default login` and `uv run build_mappings.py` once, then `uv run app.py` and open http://localhost:8000. Try: "How happy are L train riders?"

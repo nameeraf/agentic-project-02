@@ -1,0 +1,318 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 84,
+   "setlist" : [ {
+      "id" : "7b893eb0",
+      "versionId" : "g3bcff0fc",
+      "eventDate" : "14-03-2022",
+      "lastUpdated" : "2022-03-14T23:13:43.139+0000",
+      "artist" : {
+         "mbid" : "85f40e9b-c639-4783-b621-80d873615e04",
+         "name" : "Junglepussy",
+         "sortName" : "Junglepussy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/junglepussy-53da17cd.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Openning for Tame Impala ",
+      "url" : "https://www.setlist.fm/setlist/junglepussy/2022/barclays-center-brooklyn-ny-7b893eb0.html"
+   }, {
+      "id" : "389d99f",
+      "versionId" : "g3b9fac00",
+      "eventDate" : "14-03-2022",
+      "lastUpdated" : "2023-07-14T17:51:43.153+0000",
+      "artist" : {
+         "mbid" : "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+         "name" : "Tame Impala",
+         "sortName" : "Tame Impala",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tame-impala-53d727d9.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Slow Rush 2022 V.2 Clinical Trial"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true
+            }, {
+               "name" : "One More Year"
+            }, {
+               "name" : "Borderline"
+            }, {
+               "name" : "Nangs"
+            }, {
+               "name" : "Mind Mischief"
+            }, {
+               "name" : "Breathe Deeper"
+            }, {
+               "name" : "Posthumous Forgiveness"
+            }, {
+               "name" : "Elephant"
+            }, {
+               "name" : "Lost in Yesterday"
+            }, {
+               "name" : "Apocalypse Dreams"
+            }, {
+               "name" : "Mutant Gossip",
+               "tape" : true
+            }, {
+               "name" : "Let It Happen"
+            }, {
+               "name" : "Feels Like We Only Go Backwards"
+            }, {
+               "name" : "Half Full Glass of Wine",
+               "info" : "2022 Tour Debut; First verse & chorus only, fan request"
+            }, {
+               "name" : "Is It True"
+            }, {
+               "name" : "Glimmer"
+            }, {
+               "name" : "Eventually"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "Instrumental snippet; dedicated to two crew members"
+            }, {
+               "name" : "Runway, Houses, City, Clouds"
+            }, {
+               "name" : "The Bold Arrow of Time",
+               "info" : "Snippet"
+            }, {
+               "name" : "New Person, Same Old Mistakes"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Less I Know the Better"
+            }, {
+               "name" : "One More Hour"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tame-impala/2022/barclays-center-brooklyn-ny-389d99f.html"
+   }, {
+      "id" : "6389ae8f",
+      "versionId" : "g3bceccac",
+      "eventDate" : "02-03-2022",
+      "lastUpdated" : "2022-03-03T17:53:15.400+0000",
+      "artist" : {
+         "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+         "name" : "Elton John",
+         "sortName" : "John, Elton",
+         "disambiguation" : "English singer, songwriter, pianist, and composer",
+         "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Farewell Yellow Brick Road World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bennie and the Jets"
+            }, {
+               "name" : "Philadelphia Freedom"
+            }, {
+               "name" : "I Guess That's Why They Call It the Blues"
+            }, {
+               "name" : "Border Song"
+            }, {
+               "name" : "Tiny Dancer"
+            }, {
+               "name" : "Have Mercy on the Criminal"
+            }, {
+               "name" : "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+            }, {
+               "name" : "Take Me to the Pilot"
+            }, {
+               "name" : "Someone Saved My Life Tonight"
+            }, {
+               "name" : "Levon"
+            }, {
+               "name" : "Candle in the Wind"
+            }, {
+               "name" : "Funeral for a Friend/Love Lies Bleeding"
+            }, {
+               "name" : "Burn Down the Mission"
+            }, {
+               "name" : "Sad Songs (Say So Much)"
+            }, {
+               "name" : "Don't Let the Sun Go Down on Me"
+            }, {
+               "name" : "The Bitch Is Back"
+            }, {
+               "name" : "I'm Still Standing"
+            }, {
+               "name" : "Crocodile Rock"
+            }, {
+               "name" : "Saturday Night's Alright for Fighting"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cold Heart"
+            }, {
+               "name" : "Your Song"
+            }, {
+               "name" : "Goodbye Yellow Brick Road"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elton-john/2022/barclays-center-brooklyn-ny-6389ae8f.html"
+   }, {
+      "id" : "5b89b39c",
+      "versionId" : "g3bcee4fc",
+      "eventDate" : "01-03-2022",
+      "lastUpdated" : "2022-03-02T08:25:10.941+0000",
+      "artist" : {
+         "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+         "name" : "Elton John",
+         "sortName" : "John, Elton",
+         "disambiguation" : "English singer, songwriter, pianist, and composer",
+         "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Farewell Yellow Brick Road World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bennie and the Jets"
+            }, {
+               "name" : "Philadelphia Freedom"
+            }, {
+               "name" : "I Guess That's Why They Call It the Blues"
+            }, {
+               "name" : "Border Song"
+            }, {
+               "name" : "Tiny Dancer"
+            }, {
+               "name" : "Have Mercy on the Criminal"
+            }, {
+               "name" : "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+            }, {
+               "name" : "Take Me to the Pilot"
+            }, {
+               "name" : "Someone Saved My Life Tonight"
+            }, {
+               "name" : "Levon"
+            }, {
+               "name" : "Candle in the Wind"
+            }, {
+               "name" : "Funeral for a Friend/Love Lies Bleeding"
+            }, {
+               "name" : "Burn Down the Mission"
+            }, {
+               "name" : "Sad Songs (Say So Much)"
+            }, {
+               "name" : "Don't Let the Sun Go Down on Me"
+            }, {
+               "name" : "The Bitch Is Back"
+            }, {
+               "name" : "I'm Still Standing"
+            }, {
+               "name" : "Crocodile Rock"
+            }, {
+               "name" : "Saturday Night's Alright for Fighting"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cold Heart"
+            }, {
+               "name" : "Your Song"
+            }, {
+               "name" : "Goodbye Yellow Brick Road"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elton-john/2022/barclays-center-brooklyn-ny-5b89b39c.html"
+   } ]
+}

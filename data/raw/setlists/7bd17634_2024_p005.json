@@ -1,0 +1,1294 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 216,
+   "setlist" : [ {
+      "id" : "23a904a7",
+      "versionId" : "g2bab005e",
+      "eventDate" : "13-09-2024",
+      "lastUpdated" : "2024-09-16T23:28:16.382+0000",
+      "artist" : {
+         "mbid" : "dd91eb4b-6d08-4c14-9eb2-197a02a35f6c",
+         "name" : "Manchester Orchestra",
+         "sortName" : "Manchester Orchestra",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/manchester-orchestra-33d64c05.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Cope 10th Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Cope",
+            "song" : [ {
+               "name" : "Top Notch"
+            }, {
+               "name" : "Choose You"
+            }, {
+               "name" : "Girl Harbor"
+            }, {
+               "name" : "The Mansion"
+            }, {
+               "name" : "The Ocean"
+            }, {
+               "name" : "Every Stone"
+            }, {
+               "name" : "All That I Really Wanted",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Trees"
+            }, {
+               "name" : "Indentions"
+            }, {
+               "name" : "See It Again",
+               "info" : "With “I Can Feel Your Pain” intro"
+            }, {
+               "name" : "Cope",
+               "info" : "With “The River” intro"
+            }, {
+               "name" : "After the Scripture"
+            }, {
+               "name" : "The Silence"
+            }, {
+               "name" : "After the Scripture",
+               "info" : "Reprise"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Maze",
+               "info" : "With “You’re Kind” by Paul Simon intro"
+            }, {
+               "name" : "The Gold"
+            }, {
+               "name" : "Bed Head"
+            }, {
+               "name" : "Shake It Out"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/manchester-orchestra/2024/brooklyn-paramount-brooklyn-ny-23a904a7.html"
+   }, {
+      "id" : "5bab4bb8",
+      "versionId" : "g33534c8d",
+      "eventDate" : "11-09-2024",
+      "lastUpdated" : "2024-11-17T11:22:27.032+0000",
+      "artist" : {
+         "mbid" : "b675f327-4738-4af4-bb83-1adb0003f2d3",
+         "name" : "Yves Tumor",
+         "sortName" : "Yves Tumor",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/yves-tumor-4bc06b5e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Live 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "God Is a Circle"
+            }, {
+               "name" : "Echolalia"
+            }, {
+               "name" : "In Spite of War"
+            }, {
+               "name" : "Gospel for a New Century"
+            }, {
+               "name" : "Jackie"
+            }, {
+               "name" : "Meteora Blues"
+            }, {
+               "name" : "Parody / Heaven Surrounds Us Like a Hood"
+            }, {
+               "name" : "Misbehave"
+            }, {
+               "name" : "Operator"
+            }, {
+               "name" : "Secrecy Is Incredibly Important to the Both of Them"
+            }, {
+               "name" : "Ebony Eye"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yves-tumor/2024/brooklyn-paramount-brooklyn-ny-5bab4bb8.html"
+   }, {
+      "id" : "43ab4be7",
+      "versionId" : "g2babdcf6",
+      "eventDate" : "11-09-2024",
+      "lastUpdated" : "2024-09-14T03:38:29.706+0000",
+      "artist" : {
+         "mbid" : "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+         "name" : "St. Vincent",
+         "sortName" : "Saint Vincent",
+         "disambiguation" : "US guitarist, singer and songwriter Annie Clark",
+         "url" : "https://www.setlist.fm/setlists/st-vincent-13d6a18d.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "All Born Screaming"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Reckless"
+            }, {
+               "name" : "Fear the Future"
+            }, {
+               "name" : "Los Ageless"
+            }, {
+               "name" : "Big Time Nothing"
+            }, {
+               "name" : "Marrow"
+            }, {
+               "name" : "Dilettante"
+            }, {
+               "name" : "Pay Your Way in Pain"
+            }, {
+               "name" : "Digital Witness"
+            }, {
+               "name" : "Sweetest Fruit"
+            }, {
+               "name" : "Flea"
+            }, {
+               "name" : "Cheerleader"
+            }, {
+               "name" : "Broken Man"
+            }, {
+               "name" : "Birth in Reverse",
+               "info" : "Tour debut"
+            }, {
+               "name" : "Surgeon"
+            }, {
+               "name" : "Hell Is Near"
+            }, {
+               "name" : "Candy Darling"
+            }, {
+               "name" : "New York",
+               "info" : "Messed up verses"
+            }, {
+               "name" : "Sugarboy"
+            }, {
+               "name" : "All Born Screaming"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Somebody Like Me",
+               "info" : "False start"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/st-vincent/2024/brooklyn-paramount-brooklyn-ny-43ab4be7.html"
+   }, {
+      "id" : "53ab4be1",
+      "versionId" : "g63abb283",
+      "eventDate" : "10-09-2024",
+      "lastUpdated" : "2024-09-11T12:06:14.728+0000",
+      "artist" : {
+         "mbid" : "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+         "name" : "St. Vincent",
+         "sortName" : "Saint Vincent",
+         "disambiguation" : "US guitarist, singer and songwriter Annie Clark",
+         "url" : "https://www.setlist.fm/setlists/st-vincent-13d6a18d.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "All Born Screaming"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Reckless"
+            }, {
+               "name" : "Fear the Future"
+            }, {
+               "name" : "Los Ageless"
+            }, {
+               "name" : "Big Time Nothing"
+            }, {
+               "name" : "Marrow"
+            }, {
+               "name" : "Dilettante"
+            }, {
+               "name" : "Pay Your Way in Pain"
+            }, {
+               "name" : "Digital Witness"
+            }, {
+               "name" : "Sweetest Fruit"
+            }, {
+               "name" : "Flea"
+            }, {
+               "name" : "Cheerleader"
+            }, {
+               "name" : "Broken Man"
+            }, {
+               "name" : "Krokodil"
+            }, {
+               "name" : "Year of the Tiger"
+            }, {
+               "name" : "Hell Is Near"
+            }, {
+               "name" : "Candy Darling"
+            }, {
+               "name" : "New York"
+            }, {
+               "name" : "Sugarboy"
+            }, {
+               "name" : "All Born Screaming"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Somebody Like Me"
+            } ]
+         } ]
+      },
+      "info" : "Livestreamed on VEEPS",
+      "url" : "https://www.setlist.fm/setlist/st-vincent/2024/brooklyn-paramount-brooklyn-ny-53ab4be1.html"
+   }, {
+      "id" : "53ab4bb9",
+      "versionId" : "g33534c89",
+      "eventDate" : "10-09-2024",
+      "lastUpdated" : "2024-11-17T11:21:53.281+0000",
+      "artist" : {
+         "mbid" : "b675f327-4738-4af4-bb83-1adb0003f2d3",
+         "name" : "Yves Tumor",
+         "sortName" : "Yves Tumor",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/yves-tumor-4bc06b5e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Live 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "God Is a Circle"
+            }, {
+               "name" : "Echolalia"
+            }, {
+               "name" : "In Spite of War"
+            }, {
+               "name" : "Gospel for a New Century"
+            }, {
+               "name" : "Jackie"
+            }, {
+               "name" : "Meteora Blues"
+            }, {
+               "name" : "Heaven Surrounds Us Like a Hood"
+            }, {
+               "name" : "Misbehave"
+            }, {
+               "name" : "Operator"
+            }, {
+               "name" : "Secrecy Is Incredibly Important to the Both of Them"
+            }, {
+               "name" : "Ebony Eye"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yves-tumor/2024/brooklyn-paramount-brooklyn-ny-53ab4bb9.html"
+   }, {
+      "id" : "7b55d274",
+      "versionId" : "g33ae68b9",
+      "eventDate" : "08-09-2024",
+      "lastUpdated" : "2024-08-06T23:33:32.709+0000",
+      "artist" : {
+         "mbid" : "8d1ae3d4-550a-41eb-9d6a-91239218eb93",
+         "name" : "Sweeping Promises",
+         "sortName" : "Sweeping Promises",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sweeping-promises-bf349e6.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sweeping-promises/2024/brooklyn-paramount-brooklyn-ny-7b55d274.html"
+   }, {
+      "id" : "5355d389",
+      "versionId" : "g33aa5cb1",
+      "eventDate" : "08-09-2024",
+      "lastUpdated" : "2024-09-09T15:46:08.533+0000",
+      "artist" : {
+         "mbid" : "1397d045-1603-41fc-80b9-712c18360145",
+         "name" : "Bikini Kill",
+         "sortName" : "Bikini Kill",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bikini-kill-bd6890e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "North America 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "New Radio"
+            }, {
+               "name" : "Demi Rep"
+            }, {
+               "name" : "This Is Not a Test"
+            }, {
+               "name" : "Don't Need You"
+            }, {
+               "name" : "Feels Blind"
+            }, {
+               "name" : "I Hate Danger"
+            }, {
+               "name" : "In Accordance to Natural Law"
+            }, {
+               "name" : "Double Dare Ya"
+            }, {
+               "name" : "Carnival"
+            }, {
+               "name" : "I Like Fucking"
+            }, {
+               "name" : "Sugar"
+            }, {
+               "name" : "Bloody Ice Cream"
+            }, {
+               "name" : "Hamster Baby"
+            }, {
+               "name" : "Tell Me So"
+            }, {
+               "name" : "Resist Psychic Death"
+            }, {
+               "name" : "Alien She"
+            }, {
+               "name" : "No Backrub"
+            }, {
+               "name" : "R.I.P."
+            }, {
+               "name" : "For Only"
+            }, {
+               "name" : "Distinct Complicity"
+            }, {
+               "name" : "Reject All American"
+            }, {
+               "name" : "Capri Pants"
+            }, {
+               "name" : "Jigsaw Youth"
+            }, {
+               "name" : "Suck My Left One"
+            }, {
+               "name" : "Finale"
+            }, {
+               "name" : "Rebel Girl"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bikini-kill/2024/brooklyn-paramount-brooklyn-ny-5355d389.html"
+   }, {
+      "id" : "7b55d270",
+      "versionId" : "g33aa5c49",
+      "eventDate" : "07-09-2024",
+      "lastUpdated" : "2024-09-09T15:04:19.287+0000",
+      "artist" : {
+         "mbid" : "5248e455-76bd-4cc1-8dc9-0b7370e3f22e",
+         "name" : "Birthday Girl",
+         "sortName" : "Birthday Girl",
+         "disambiguation" : "NYC",
+         "url" : "https://www.setlist.fm/setlists/birthday-girl-be22176.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/birthday-girl/2024/brooklyn-paramount-brooklyn-ny-7b55d270.html"
+   }, {
+      "id" : "4355d38b",
+      "versionId" : "g23aa4c43",
+      "eventDate" : "07-09-2024",
+      "lastUpdated" : "2024-09-10T02:39:27.033+0000",
+      "artist" : {
+         "mbid" : "1397d045-1603-41fc-80b9-712c18360145",
+         "name" : "Bikini Kill",
+         "sortName" : "Bikini Kill",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bikini-kill-bd6890e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "North America 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Double Dare Ya"
+            }, {
+               "name" : "Carnival"
+            }, {
+               "name" : "New Radio"
+            }, {
+               "name" : "Don't Need You"
+            }, {
+               "name" : "Sugar"
+            }, {
+               "name" : "I Hate Danger"
+            }, {
+               "name" : "In Accordance to Natural Law"
+            }, {
+               "name" : "Demi Rep"
+            }, {
+               "name" : "Reject All American"
+            }, {
+               "name" : "Alien She"
+            }, {
+               "name" : "No Backrub"
+            }, {
+               "name" : "Feels Blind"
+            }, {
+               "name" : "Hamster Baby"
+            }, {
+               "name" : "Tell Me So"
+            }, {
+               "name" : "This Is Not a Test"
+            }, {
+               "name" : "Capri Pants"
+            }, {
+               "name" : "I Like Fucking"
+            }, {
+               "name" : "Tony Randall"
+            }, {
+               "name" : "For Only"
+            }, {
+               "name" : "Distinct Complicity"
+            }, {
+               "name" : "Resist Psychic Death"
+            }, {
+               "name" : "Lil' Red"
+            }, {
+               "name" : "Suck My Left One"
+            }, {
+               "name" : "Jigsaw Youth"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Rebel Girl"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bikini-kill/2024/brooklyn-paramount-brooklyn-ny-4355d38b.html"
+   }, {
+      "id" : "73a9f2d9",
+      "versionId" : "g3aacd73",
+      "eventDate" : "05-09-2024",
+      "lastUpdated" : "2024-09-06T05:08:19.263+0000",
+      "artist" : {
+         "mbid" : "2aff9c10-2145-4851-a656-898aeb434ad5",
+         "name" : "Rival Sons",
+         "sortName" : "Rival Sons",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rival-sons-1bd21118.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Two-Headed Beast"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mirrors"
+            }, {
+               "name" : "Nobody Wants to Die"
+            }, {
+               "name" : "Tied Up"
+            }, {
+               "name" : "Too Bad"
+            }, {
+               "name" : "Good Luck",
+               "info" : "first time since June 12, 2018"
+            }, {
+               "name" : "Electric Man"
+            }, {
+               "name" : "Belle Starr"
+            }, {
+               "name" : "Where I've Been"
+            }, {
+               "name" : "Open My Eyes"
+            }, {
+               "name" : "Pressure and Time"
+            }, {
+               "name" : "Torture"
+            }, {
+               "name" : "Do Your Worst"
+            }, {
+               "name" : "Keep On Swinging"
+            }, {
+               "name" : "Secret"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rival-sons/2024/brooklyn-paramount-brooklyn-ny-73a9f2d9.html"
+   }, {
+      "id" : "6ba9f2da",
+      "versionId" : "g33607cd5",
+      "eventDate" : "05-09-2024",
+      "lastUpdated" : "2025-12-04T11:28:34.749+0000",
+      "artist" : {
+         "mbid" : "0cdb0359-5698-487d-9aae-a25fb4dcdc4d",
+         "name" : "Clutch",
+         "sortName" : "Clutch",
+         "disambiguation" : "US rock band",
+         "url" : "https://www.setlist.fm/setlists/clutch-7bd68e44.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Two-Headed Beast"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Blast Tyrant",
+            "song" : [ {
+               "name" : "We Need Some Money",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "ee60b539-6e37-403a-8716-1fddcece99be",
+                  "name" : "Chuck Brown & The Soul Searchers",
+                  "sortName" : "Brown, Chuck & The Soul Searchers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chuck-brown-and-the-soul-searchers-53d74fdd.html"
+               }
+            }, {
+               "name" : "Mercury"
+            }, {
+               "name" : "Profits of Doom"
+            }, {
+               "name" : "The Mob Goes Wild"
+            }, {
+               "name" : "Cypress Grove"
+            }, {
+               "name" : "Promoter (of Earthbound Causes)"
+            }, {
+               "name" : "The Regulator"
+            }, {
+               "name" : "Worm Drink"
+            }, {
+               "name" : "Army of Bono"
+            }, {
+               "name" : "Spleen Merchant"
+            }, {
+               "name" : "(In the Wake of) The Swollen Goat"
+            }, {
+               "name" : "Subtle Hustle"
+            }, {
+               "name" : "Ghost"
+            }, {
+               "name" : "(Notes from the Trial Of) La Curandera"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Spacegrass"
+            }, {
+               "name" : "A Shogun Named Marcus"
+            }, {
+               "name" : "El Jefe Speaks"
+            }, {
+               "name" : "Binge and Purge"
+            }, {
+               "name" : "Electric Worry"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clutch/2024/brooklyn-paramount-brooklyn-ny-6ba9f2da.html"
+   }, {
+      "id" : "3b527444",
+      "versionId" : "g2baad436",
+      "eventDate" : "05-09-2024",
+      "lastUpdated" : "2024-09-06T00:34:58.838+0000",
+      "artist" : {
+         "mbid" : "f96de591-5dae-41da-855b-eb387d88d7d4",
+         "name" : "Fu Manchu",
+         "sortName" : "Fu Manchu",
+         "disambiguation" : "American stoner rock band",
+         "url" : "https://www.setlist.fm/setlists/fu-manchu-4bd6afae.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Eatin' Dust"
+            }, {
+               "name" : "Evil Eye"
+            }, {
+               "name" : "Hands of the Zodiac"
+            }, {
+               "name" : "Hell on Wheels"
+            }, {
+               "name" : "Laserbl'ast!"
+            }, {
+               "name" : "King of the Road"
+            }, {
+               "name" : "Loch Ness Wrecking Machine"
+            }, {
+               "name" : "Weird Beard"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fu-manchu/2024/brooklyn-paramount-brooklyn-ny-3b527444.html"
+   }, {
+      "id" : "6ba8069a",
+      "versionId" : "g2baad802",
+      "eventDate" : "04-09-2024",
+      "lastUpdated" : "2024-09-05T20:37:22.695+0000",
+      "artist" : {
+         "mbid" : "b747dabe-b66c-48f6-bae6-b5e16d86b9ab",
+         "name" : "Crumb",
+         "sortName" : "Crumb",
+         "disambiguation" : "Psychedelic Soul band",
+         "url" : "https://www.setlist.fm/setlists/crumb-3bc1ece0.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "AMAMA"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "AMAMA"
+            }, {
+               "name" : "Cracking"
+            }, {
+               "name" : "(Alone In) Brussels"
+            }, {
+               "name" : "The Bug"
+            }, {
+               "name" : "Balloon"
+            }, {
+               "name" : "Nightly News"
+            }, {
+               "name" : "From Outside A Window Sill"
+            }, {
+               "name" : "BNR"
+            }, {
+               "name" : "Genie"
+            }, {
+               "name" : "Ice Melt"
+            }, {
+               "name" : "Ghostride"
+            }, {
+               "name" : "Dust Bunny"
+            }, {
+               "name" : "Retreat!"
+            }, {
+               "name" : "Side By Side"
+            }, {
+               "name" : "Crushxd"
+            }, {
+               "name" : "Nina"
+            }, {
+               "name" : "XXX"
+            }, {
+               "name" : "Trophy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Part III"
+            }, {
+               "name" : "Locket"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/crumb/2024/brooklyn-paramount-brooklyn-ny-6ba8069a.html"
+   }, {
+      "id" : "5b5203c0",
+      "versionId" : "gbaaed4a",
+      "eventDate" : "04-09-2024",
+      "lastUpdated" : "2024-09-05T00:49:09.070+0000",
+      "artist" : {
+         "mbid" : "76970ff5-1330-4e08-9aa2-f896109660ce",
+         "name" : "L’Rain",
+         "sortName" : "L’Rain",
+         "disambiguation" : "American experimentalist, multi-instrumentalist, composer, and curator",
+         "url" : "https://www.setlist.fm/setlists/lrain-7bcdf6a0.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lrain/2024/brooklyn-paramount-brooklyn-ny-5b5203c0.html"
+   }, {
+      "id" : "535203c5",
+      "versionId" : "g3aaed43",
+      "eventDate" : "04-09-2024",
+      "lastUpdated" : "2024-09-05T00:50:28.607+0000",
+      "artist" : {
+         "mbid" : "62c4248e-07a3-4215-8a8d-2255aae9094b",
+         "name" : "Discovery Zone",
+         "sortName" : "Discovery Zone",
+         "disambiguation" : "Monicker of New-York born and raised musician and filmmaker JJ Weihl",
+         "url" : "https://www.setlist.fm/setlists/discovery-zone-bfee172.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/discovery-zone/2024/brooklyn-paramount-brooklyn-ny-535203c5.html"
+   }, {
+      "id" : "3539947",
+      "versionId" : "gba84532",
+      "eventDate" : "29-08-2024",
+      "lastUpdated" : "2024-09-27T13:52:13.783+0000",
+      "artist" : {
+         "mbid" : "c694bf65-83e9-47d5-aeb3-bb68f78ef981",
+         "name" : "Los Amigos Invisibles",
+         "sortName" : "Amigos Invisibles, Los",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/los-amigos-invisibles-3d7f5d3.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Cool Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ultra-Funk"
+            }, {
+               "name" : "Qué rico"
+            }, {
+               "name" : "Amor",
+               "cover" : {
+                  "mbid" : "5afb8ab3-4016-42bd-9d9c-b856cc501179",
+                  "name" : "Jorge Spiteri",
+                  "sortName" : "Spiteri, Jorge",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jorge-spiteri-7bd406e4.html"
+               }
+            }, {
+               "name" : "Ponerte en cuatro"
+            }, {
+               "name" : "Cuchi-cuchi"
+            }, {
+               "name" : "Cumbia Marley / La vecina"
+            }, {
+               "name" : "Váyanse todos a mamá",
+               "cover" : {
+                  "mbid" : "7de398f0-b4cf-476d-ac60-41d47d3511ca",
+                  "name" : "Rawayana",
+                  "sortName" : "Rawayana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rawayana-5bd39b60.html"
+               }
+            }, {
+               "name" : "Mentiras"
+            }, {
+               "name" : "La que me gusta"
+            }, {
+               "name" : "Esto es lo que hay"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/los-amigos-invisibles/2024/brooklyn-paramount-brooklyn-ny-3539947.html"
+   }, {
+      "id" : "1b53993c",
+      "versionId" : "g33abec0d",
+      "eventDate" : "29-08-2024",
+      "lastUpdated" : "2024-09-13T18:22:08.118+0000",
+      "artist" : {
+         "mbid" : "0ba1966a-e471-4f98-85d7-8ac0c1f836f0",
+         "name" : "Aterciopelados",
+         "sortName" : "Aterciopelados",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/aterciopelados-13d6319d.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cosita seria"
+            }, {
+               "name" : "Baracunatana",
+               "cover" : {
+                  "mbid" : "5a162170-d306-4331-bddc-54365c52b3e5",
+                  "name" : "Lisandro Meza",
+                  "sortName" : "Meza, Lisandro",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lisandro-meza-3bd714a8.html"
+               }
+            }, {
+               "name" : "En la ciudad de la furia",
+               "cover" : {
+                  "mbid" : "3f8a5e5b-c24b-4068-9f1c-afad8829e06b",
+                  "name" : "Soda Stereo",
+                  "sortName" : "Soda Stereo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/soda-stereo-7bd6d204.html"
+               }
+            }, {
+               "name" : "Florecita rockera"
+            }, {
+               "name" : "Candela"
+            }, {
+               "name" : "La estaca"
+            }, {
+               "name" : "Bolero falaz"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/aterciopelados/2024/brooklyn-paramount-brooklyn-ny-1b53993c.html"
+   }, {
+      "id" : "2b52305a",
+      "versionId" : "g4bad7baa",
+      "eventDate" : "27-08-2024",
+      "lastUpdated" : "2024-08-31T15:09:17.552+0000",
+      "artist" : {
+         "mbid" : "9ccaca30-60aa-4890-ae6c-ab55225ee274",
+         "name" : "LUCKI",
+         "sortName" : "LUCKI",
+         "disambiguation" : "US rapper and record producer Lucki Camel",
+         "url" : "https://www.setlist.fm/setlists/lucki-23cc2c5b.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "GEMINI"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lucki/2024/brooklyn-paramount-brooklyn-ny-2b52305a.html"
+   }, {
+      "id" : "53543f59",
+      "versionId" : "g5badbbc8",
+      "eventDate" : "24-08-2024",
+      "lastUpdated" : "2024-08-25T03:19:40.539+0000",
+      "artist" : {
+         "mbid" : "3bb51beb-4396-46fa-b932-c079fba8cc3c",
+         "name" : "Colde",
+         "sortName" : "Colde",
+         "disambiguation" : "Korean singer and producer",
+         "url" : "https://www.setlist.fm/setlists/colde-6bcfae0e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "‘BLUEPRINT’ Tour North America 2024"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/colde/2024/brooklyn-paramount-brooklyn-ny-53543f59.html"
+   }, {
+      "id" : "6b52a6fa",
+      "versionId" : "g5b584bd8",
+      "eventDate" : "18-08-2024",
+      "lastUpdated" : "2025-02-03T00:38:52.367+0000",
+      "artist" : {
+         "mbid" : "74a30f2a-dae6-4e99-8a75-cb0f93b31aa6",
+         "name" : "Washed Out",
+         "sortName" : "Washed Out",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/washed-out-bd43516.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Notes from a Quiet Life"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Waking Up"
+            }, {
+               "name" : "Say Goodbye"
+            }, {
+               "name" : "A Sign"
+            }, {
+               "name" : "Second Sight"
+            }, {
+               "name" : "All I Know"
+            }, {
+               "name" : "Wait on You"
+            }, {
+               "name" : "The Hardest Part"
+            }, {
+               "name" : "Weightless"
+            }, {
+               "name" : "Running Away"
+            }, {
+               "name" : "Hard to Say Goodbye"
+            }, {
+               "name" : "Feel It All Around"
+            }, {
+               "name" : "Amor Fati"
+            }, {
+               "name" : "Get Lost"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Too Late"
+            }, {
+               "name" : "Eyes Be Closed"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/washed-out/2024/brooklyn-paramount-brooklyn-ny-6b52a6fa.html"
+   } ]
+}

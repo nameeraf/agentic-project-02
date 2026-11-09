@@ -1,0 +1,1350 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 204,
+   "setlist" : [ {
+      "id" : "5b5babf8",
+      "versionId" : "g2b467426",
+      "eventDate" : "01-10-2024",
+      "lastUpdated" : "2025-02-18T00:31:32.746+0000",
+      "artist" : {
+         "mbid" : "320d40d6-28dd-42d7-b05f-7e6e8d399a2e",
+         "name" : "Mat Kearney",
+         "sortName" : "Kearney, Mat",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mat-kearney-43d66bdb.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Headlights Home Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mat-kearney/2024/webster-hall-new-york-ny-5b5babf8.html"
+   }, {
+      "id" : "735452c1",
+      "versionId" : "g4b74cf2a",
+      "eventDate" : "30-09-2024",
+      "lastUpdated" : "2025-07-01T17:35:48.806+0000",
+      "artist" : {
+         "mbid" : "2ddd167f-5b8a-4372-b350-6ad50493bac0",
+         "name" : "The Fray",
+         "sortName" : "Fray, The",
+         "disambiguation" : "US alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/the-fray-53d6bfe9.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "The Fray is Back"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Angeleno Moon"
+            }, {
+               "name" : "Over My Head (Cable Car)"
+            }, {
+               "name" : "Heartbeat"
+            }, {
+               "name" : "Look After You"
+            }, {
+               "name" : "Don't Look Down"
+            }, {
+               "name" : "Love Don't Die"
+            }, {
+               "name" : "Hurricane"
+            }, {
+               "name" : "Same Thing"
+            }, {
+               "name" : "Syndicate"
+            }, {
+               "name" : "Fall Away"
+            }, {
+               "name" : "Ungodly Hour"
+            }, {
+               "name" : "Never Say Never"
+            }, {
+               "name" : "You Found Me"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Time Well Wasted"
+            }, {
+               "name" : "Goodnight, Irene",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "How to Save a Life"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-fray/2024/webster-hall-new-york-ny-735452c1.html"
+   }, {
+      "id" : "b536516",
+      "versionId" : "gb5d3d2a",
+      "eventDate" : "29-09-2024",
+      "lastUpdated" : "2025-01-01T20:16:35.910+0000",
+      "artist" : {
+         "mbid" : "43e5ae21-3048-4d4b-a274-5d3cb7ab33bd",
+         "name" : "cupcakKe",
+         "sortName" : "cupcakKe",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cupcakke-23ce14b7.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Dauntless Manifesto Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Queef"
+            }, {
+               "name" : "Squidward Nose"
+            }, {
+               "name" : "Little Red Riding Good",
+               "info" : "(Twerk Contest)"
+            }, {
+               "name" : "Spider-Man Dick"
+            }, {
+               "name" : "Deepthroat"
+            }, {
+               "name" : "Backstage Passes",
+               "info" : "(Moan Contest After)"
+            }, {
+               "name" : "CPR"
+            }, {
+               "name" : "Dui"
+            }, {
+               "name" : "Grilling N****s"
+            }, {
+               "name" : "Aura"
+            }, {
+               "name" : "Duck Duck Goose"
+            }, {
+               "name" : "Old Town Hoe"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cupcakke/2024/webster-hall-new-york-ny-b536516.html"
+   }, {
+      "id" : "4b57f3ce",
+      "versionId" : "g435b67ab",
+      "eventDate" : "28-09-2024",
+      "lastUpdated" : "2025-01-24T21:02:01.234+0000",
+      "artist" : {
+         "mbid" : "43b896c5-5652-4b04-bde1-2e4224bc99b3",
+         "name" : "Lola Young",
+         "sortName" : "Young, Lola",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lola-young-2bf43c3a.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "This Wasn't Meant For You Anyway Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Good Books"
+            }, {
+               "name" : "",
+               "info" : "unreleased track"
+            }, {
+               "name" : "Don't Hate Me"
+            }, {
+               "name" : "Crush"
+            }, {
+               "name" : "Revolve Around You"
+            }, {
+               "name" : "Big Brown Eyes"
+            }, {
+               "name" : "What Is It About Me"
+            }, {
+               "name" : "Flicker of Light"
+            }, {
+               "name" : "",
+               "info" : "unreleased track"
+            }, {
+               "name" : "Blind Love"
+            }, {
+               "name" : "Wish You Were Dead"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Messy"
+            }, {
+               "name" : "Conceited"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lola-young/2024/webster-hall-new-york-ny-4b57f3ce.html"
+   }, {
+      "id" : "4b537712",
+      "versionId" : "g2ba93456",
+      "eventDate" : "27-09-2024",
+      "lastUpdated" : "2024-10-01T20:55:01.464+0000",
+      "artist" : {
+         "mbid" : "9ad5a86d-c405-4402-92ce-a46e92c1a7bf",
+         "name" : "Common & Pete Rock",
+         "sortName" : "Common & Pete Rock",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/common-and-pete-rock-be5cdda.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "The Auditorium Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dreamin'"
+            }, {
+               "name" : "Respiration",
+               "cover" : {
+                  "mbid" : "02708fd6-0fe6-4738-a27d-0561ace8b4c6",
+                  "name" : "Black Star",
+                  "sortName" : "Black Star",
+                  "disambiguation" : "hip hop collab, Mos Def & Talib Kweli",
+                  "url" : "https://www.setlist.fm/setlists/black-star-2bd69cfe.html"
+               }
+            }, {
+               "name" : "Get Em High",
+               "cover" : {
+                  "mbid" : "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name" : "Ye",
+                  "sortName" : "Ye",
+                  "disambiguation" : "formerly Kanye West",
+                  "url" : "https://www.setlist.fm/setlists/ye-bd6bd8a.html"
+               }
+            }, {
+               "name" : "Fortunate"
+            }, {
+               "name" : "The World Is Yours",
+               "cover" : {
+                  "mbid" : "cfbc0924-0035-4d6c-8197-f024653af823",
+                  "name" : "Nas",
+                  "sortName" : "Nas",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/nas-33d69c59.html"
+               }
+            }, {
+               "name" : "The Corner",
+               "cover" : {
+                  "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+                  "name" : "Common",
+                  "sortName" : "Common",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+               }
+            }, {
+               "name" : "Testify",
+               "cover" : {
+                  "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+                  "name" : "Common",
+                  "sortName" : "Common",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+               }
+            }, {
+               "name" : "Wise Up",
+               "info" : "Common"
+            }, {
+               "name" : "Jump Around",
+               "cover" : {
+                  "mbid" : "c2d6a6fb-7999-4bb3-b2df-7d752fdf4e95",
+                  "name" : "House of Pain",
+                  "sortName" : "House of Pain",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/house-of-pain-13d63d51.html"
+               }
+            }, {
+               "name" : "Go!",
+               "cover" : {
+                  "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+                  "name" : "Common",
+                  "sortName" : "Common",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+               }
+            }, {
+               "name" : "When The Sun Shines Again",
+               "info" : "Common"
+            }, {
+               "name" : "I Used to Love H.E.R.",
+               "cover" : {
+                  "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+                  "name" : "Common",
+                  "sortName" : "Common",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+               }
+            }, {
+               "name" : "The Light",
+               "cover" : {
+                  "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+                  "name" : "Common",
+                  "sortName" : "Common",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+               }
+            }, {
+               "name" : "All Kind Of Ideas"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/common-and-pete-rock/2024/webster-hall-new-york-ny-4b537712.html"
+   }, {
+      "id" : "5b53078c",
+      "versionId" : "g6353f62f",
+      "eventDate" : "26-09-2024",
+      "lastUpdated" : "2024-11-13T04:51:44.825+0000",
+      "artist" : {
+         "mbid" : "567875db-a706-4433-b56a-cee55c87bae0",
+         "name" : "Nardwuar the Human Serviette",
+         "sortName" : "Nardwuar the Human Serviette",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nardwuar-the-human-serviette-7bd6a2f4.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "DJ Set followed by talk presentation and audience Q&A",
+      "url" : "https://www.setlist.fm/setlist/nardwuar-the-human-serviette/2024/webster-hall-new-york-ny-5b53078c.html"
+   }, {
+      "id" : "53a81781",
+      "versionId" : "g13a859cd",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-09-26T21:02:34.197+0000",
+      "artist" : {
+         "mbid" : "9eef8f6a-8f0f-49f5-a681-aa0eaa015138",
+         "name" : "NOBRO",
+         "sortName" : "NOBRO",
+         "disambiguation" : "Canadian garage punk band",
+         "url" : "https://www.setlist.fm/setlists/nobro-63cc0ebb.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Better Each Day"
+            }, {
+               "name" : "Let's Do Drugs"
+            }, {
+               "name" : "Marianna"
+            }, {
+               "name" : "Eat Slay Chardonnay"
+            }, {
+               "name" : "I Don’t Feel Like It"
+            }, {
+               "name" : "Set That Pussy Free"
+            }, {
+               "name" : "Where My Girls At"
+            }, {
+               "name" : "LALA"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nobro/2024/webster-hall-new-york-ny-53a81781.html"
+   }, {
+      "id" : "4ba82746",
+      "versionId" : "g73a85e3d",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-09-26T19:59:45.433+0000",
+      "artist" : {
+         "mbid" : "92dc699f-fcbc-4278-afbe-40b5ad060a55",
+         "name" : "Death From Above 1979",
+         "sortName" : "Death From Above 1979",
+         "disambiguation" : "Canadian rock duo",
+         "url" : "https://www.setlist.fm/setlists/death-from-above-1979-6bd6969a.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "You're a Woman, I'm a Machine 20th Anniversary Celebration Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "You're a Woman, I'm a Machine",
+            "song" : [ {
+               "name" : "Turn It Out"
+            }, {
+               "name" : "Romantic Rights"
+            }, {
+               "name" : "Going Steady"
+            }, {
+               "name" : "Go Home, Get Down"
+            }, {
+               "name" : "Blood on Our Hands"
+            }, {
+               "name" : "Black History Month"
+            }, {
+               "name" : "Little Girl"
+            }, {
+               "name" : "Cold War"
+            }, {
+               "name" : "You're a Woman, I'm a Machine"
+            }, {
+               "name" : "Pull Out"
+            }, {
+               "name" : "Sexy Results"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Nomad"
+            }, {
+               "name" : "One + One"
+            }, {
+               "name" : "Virgins"
+            }, {
+               "name" : "Modern Guy"
+            }, {
+               "name" : "White Is Red"
+            }, {
+               "name" : "Freeze Me"
+            }, {
+               "name" : "Trainwreck 1979"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Crystal Ball"
+            }, {
+               "name" : "Dead Womb"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/death-from-above-1979/2024/webster-hall-new-york-ny-4ba82746.html"
+   }, {
+      "id" : "2353c433",
+      "versionId" : "g2ba888a6",
+      "eventDate" : "22-09-2024",
+      "lastUpdated" : "2024-09-21T04:21:49.950+0000",
+      "artist" : {
+         "mbid" : "ebef0d7f-3cd6-4ac3-ad2e-1afef7e2fc15",
+         "name" : "INJI",
+         "sortName" : "INJI",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/inji-7bfa2638.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/inji/2024/webster-hall-new-york-ny-2353c433.html"
+   }, {
+      "id" : "353c1a3",
+      "versionId" : "g631aeeeb",
+      "eventDate" : "21-09-2024",
+      "lastUpdated" : "2026-05-29T00:42:24.651+0000",
+      "artist" : {
+         "mbid" : "892fb2e4-0af4-42be-9e60-22898de51d32",
+         "name" : "The Airborne Toxic Event",
+         "sortName" : "Airborne Toxic Event, The",
+         "disambiguation" : "American indie band",
+         "url" : "https://www.setlist.fm/setlists/the-airborne-toxic-event-13d7c9bd.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Glory Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hollywood Park"
+            }, {
+               "name" : "Our Own Thunder Road"
+            }, {
+               "name" : "All at Once"
+            }, {
+               "name" : "Hole In My Heart"
+            }, {
+               "name" : "Elizabeth"
+            }, {
+               "name" : "Bride & Groom"
+            }, {
+               "name" : "The Fifth Day"
+            }, {
+               "name" : "Gasoline"
+            }, {
+               "name" : "Hell and Back"
+            }, {
+               "name" : "Changing"
+            }, {
+               "name" : "Glory"
+            }, {
+               "name" : "The Walk"
+            }, {
+               "name" : "Come On Out"
+            }, {
+               "name" : "Sometime Around Midnight"
+            }, {
+               "name" : "All I Ever Wanted"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Note to Self"
+            }, {
+               "name" : "Duet"
+            }, {
+               "name" : "Does This Mean You're Moving On?"
+            }, {
+               "name" : "Missy / I'm on Fire / Folsom Prison Blues"
+            }, {
+               "name" : "Happiness Is Overrated"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-airborne-toxic-event/2024/webster-hall-new-york-ny-353c1a3.html"
+   }, {
+      "id" : "6b53ca36",
+      "versionId" : "g73a8ee09",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2024-09-22T03:37:02.833+0000",
+      "artist" : {
+         "mbid" : "739da2f1-0741-4c60-a6ed-f42d49bf2eb1",
+         "name" : "Phosphorescent",
+         "sortName" : "Phosphorescent",
+         "disambiguation" : "US singer‐songwriter Matthew Houck",
+         "url" : "https://www.setlist.fm/setlists/phosphorescent-53d69bc5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Acoustic Solo Set",
+            "song" : [ {
+               "name" : "C'est la vie no.2"
+            }, {
+               "name" : "Terror in the Canyons (The Wounded Master)"
+            }, {
+               "name" : "The World Is Ending"
+            }, {
+               "name" : "Wolves"
+            }, {
+               "name" : "Any Old Miracle",
+               "cover" : {
+                  "mbid" : "e4a4e2d7-bb43-4da1-b40d-53b9ba0aa714",
+                  "name" : "Vern Gosdin",
+                  "sortName" : "Gosdin, Vern",
+                  "disambiguation" : "Country singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/vern-gosdin-33d6348d.html"
+               }
+            }, {
+               "name" : "My Dove, My Lamb"
+            }, {
+               "name" : "Where to Strip"
+            }, {
+               "name" : "Endless, Pt. 1"
+            }, {
+               "name" : "Endless, Pt. 2"
+            } ]
+         }, {
+            "name" : "Full Band Set",
+            "song" : [ {
+               "name" : "Revelator"
+            }, {
+               "name" : "Impossible House"
+            }, {
+               "name" : "Wide as Heaven"
+            }, {
+               "name" : "There From Here"
+            }, {
+               "name" : "New Birth in New England"
+            }, {
+               "name" : "Blue Eyes Crying in the Rain",
+               "cover" : {
+                  "mbid" : "306bb252-d4cd-49e9-9ee2-e99192ce2a51",
+                  "name" : "Elton Britt and The Skytoppers",
+                  "sortName" : "Britt, Elton and Skytoppers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elton-britt-and-the-skytoppers-6bd1be8a.html"
+               }
+            }, {
+               "name" : "The Quotidian Beasts"
+            }, {
+               "name" : "Tell Me Baby (Have You Had Enough)"
+            }, {
+               "name" : "Song for Zula"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ride On/Right On"
+            }, {
+               "name" : "Los Angeles"
+            }, {
+               "name" : "Down to Go"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/phosphorescent/2024/webster-hall-new-york-ny-6b53ca36.html"
+   }, {
+      "id" : "3b56d8e0",
+      "versionId" : "g2ba8a4b6",
+      "eventDate" : "19-09-2024",
+      "lastUpdated" : "2024-09-20T05:16:49.392+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Charm"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nomad"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "Sang for guitarist Hayley Briasco"
+            }, {
+               "name" : "Second Nature"
+            }, {
+               "name" : "Thank You"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Flaming Hot Cheetos"
+            }, {
+               "name" : "How"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Terrapin"
+            }, {
+               "name" : "Add Up My Love"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Echo"
+            }, {
+               "name" : "Glory of the Snow"
+            }, {
+               "name" : "Slow Dance"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Pier 4"
+            }, {
+               "name" : "4EVER"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Bags"
+            }, {
+               "name" : "Sexy to Someone"
+            }, {
+               "name" : "Juna"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clairo/2024/webster-hall-new-york-ny-3b56d8e0.html"
+   }, {
+      "id" : "2b56d8ea",
+      "versionId" : "g53a9b7a5",
+      "eventDate" : "18-09-2024",
+      "lastUpdated" : "2024-09-28T03:17:50.923+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Charm"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nomad"
+            }, {
+               "name" : "Second Nature"
+            }, {
+               "name" : "Thank You"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Flaming Hot Cheetos"
+            }, {
+               "name" : "How"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Terrapin"
+            }, {
+               "name" : "Add Up My Love"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Echo"
+            }, {
+               "name" : "Glory of the Snow"
+            }, {
+               "name" : "Slow Dance"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Pier 4"
+            }, {
+               "name" : "4EVER"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Bags"
+            }, {
+               "name" : "Sexy to Someone"
+            }, {
+               "name" : "Juna"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clairo/2024/webster-hall-new-york-ny-2b56d8ea.html"
+   }, {
+      "id" : "73416ec9",
+      "versionId" : "g2b78145a",
+      "eventDate" : "17-09-2024",
+      "lastUpdated" : "2025-10-03T20:11:22.327+0000",
+      "artist" : {
+         "mbid" : "e49dd402-2297-4192-a359-48b233d39cd4",
+         "name" : "Frankie Cosmos",
+         "sortName" : "Frankie Cosmos",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/frankie-cosmos-5bdb2b74.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/frankie-cosmos/2024/webster-hall-new-york-ny-73416ec9.html"
+   }, {
+      "id" : "2b56d8f6",
+      "versionId" : "g7ba9b6fc",
+      "eventDate" : "17-09-2024",
+      "lastUpdated" : "2024-09-28T03:35:02.634+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Charm"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nomad"
+            }, {
+               "name" : "Second Nature"
+            }, {
+               "name" : "Thank You"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Flaming Hot Cheetos"
+            }, {
+               "name" : "How"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Terrapin"
+            }, {
+               "name" : "Sinking",
+               "info" : "Tour debut"
+            }, {
+               "name" : "Add Up My Love"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Echo"
+            }, {
+               "name" : "Glory of the Snow"
+            }, {
+               "name" : "Slow Dance"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Pier 4"
+            }, {
+               "name" : "4EVER"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Bags"
+            }, {
+               "name" : "Sexy to Someone"
+            }, {
+               "name" : "Juna"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clairo/2024/webster-hall-new-york-ny-2b56d8f6.html"
+   }, {
+      "id" : "734c7e51",
+      "versionId" : "g6b61f65e",
+      "eventDate" : "15-09-2024",
+      "lastUpdated" : "2025-12-07T18:56:53.854+0000",
+      "artist" : {
+         "mbid" : "e49dd402-2297-4192-a359-48b233d39cd4",
+         "name" : "Frankie Cosmos",
+         "sortName" : "Frankie Cosmos",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/frankie-cosmos-5bdb2b74.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/frankie-cosmos/2024/webster-hall-new-york-ny-734c7e51.html"
+   }, {
+      "id" : "3b56d8f0",
+      "versionId" : "g63ab1e9f",
+      "eventDate" : "15-09-2024",
+      "lastUpdated" : "2024-09-16T02:46:28.949+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Charm"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nomad"
+            }, {
+               "name" : "Second Nature"
+            }, {
+               "name" : "Thank You"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Flaming Hot Cheetos"
+            }, {
+               "name" : "How"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Terrapin"
+            }, {
+               "name" : "Add Up My Love"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Echo"
+            }, {
+               "name" : "Glory of the Snow"
+            }, {
+               "name" : "Slow Dance"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Pier 4"
+            }, {
+               "name" : "4EVER"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Bags"
+            }, {
+               "name" : "Sexy to Someone"
+            }, {
+               "name" : "Juna"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clairo/2024/webster-hall-new-york-ny-3b56d8f0.html"
+   }, {
+      "id" : "2b56d8f2",
+      "versionId" : "g4bab27ba",
+      "eventDate" : "14-09-2024",
+      "lastUpdated" : "2024-09-15T21:09:27.729+0000",
+      "artist" : {
+         "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+         "name" : "Clairo",
+         "sortName" : "Clairo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Charm"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nomad"
+            }, {
+               "name" : "Second Nature"
+            }, {
+               "name" : "Thank You"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Flaming Hot Cheetos"
+            }, {
+               "name" : "How"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Terrapin"
+            }, {
+               "name" : "Add Up My Love"
+            }, {
+               "name" : "North"
+            }, {
+               "name" : "Echo"
+            }, {
+               "name" : "Glory of the Snow"
+            }, {
+               "name" : "Slow Dance"
+            }, {
+               "name" : "Partridge"
+            }, {
+               "name" : "Pier 4"
+            }, {
+               "name" : "4EVER"
+            }, {
+               "name" : "Amoeba"
+            }, {
+               "name" : "Bags"
+            }, {
+               "name" : "Sexy to Someone"
+            }, {
+               "name" : "Juna"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clairo/2024/webster-hall-new-york-ny-2b56d8f2.html"
+   }, {
+      "id" : "b53997a",
+      "versionId" : "g13abeddd",
+      "eventDate" : "12-09-2024",
+      "lastUpdated" : "2024-09-13T17:17:28.850+0000",
+      "artist" : {
+         "mbid" : "175a1b69-7a19-4881-b1ca-fe6b84ff3a2d",
+         "name" : "MAVI",
+         "sortName" : "MAVI",
+         "disambiguation" : "rapper",
+         "url" : "https://www.setlist.fm/setlists/mavi-63f5baa7.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Shadowbox Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mavi/2024/webster-hall-new-york-ny-b53997a.html"
+   }, {
+      "id" : "4b571b8a",
+      "versionId" : "g3a4951f",
+      "eventDate" : "10-09-2024",
+      "lastUpdated" : "2024-06-27T02:35:22.357+0000",
+      "artist" : {
+         "mbid" : "61da3e0b-9f96-4f46-b8b6-50aed52f6845",
+         "name" : "Sinéad Harnett",
+         "sortName" : "Harnett, Sinéad",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sinead-harnett-33decc09.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Boundaries"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sinead-harnett/2024/webster-hall-new-york-ny-4b571b8a.html"
+   } ]
+}

@@ -1,0 +1,1438 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 10,
+   "total" : 285,
+   "setlist" : [ {
+      "id" : "135b89c1",
+      "versionId" : "g534b23a9",
+      "eventDate" : "14-05-2025",
+      "lastUpdated" : "2025-05-26T22:20:13.484+0000",
+      "artist" : {
+         "mbid" : "0ad90756-f278-4dba-9a94-47358416dfe0",
+         "name" : "Alix Page",
+         "sortName" : "Page, Alix",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alix-page-3fe89cb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sweet"
+            }, {
+               "name" : "Goose"
+            }, {
+               "name" : "Automatic"
+            }, {
+               "name" : "Girlfriend"
+            }, {
+               "name" : "June Gloom"
+            }, {
+               "name" : "4Runner"
+            }, {
+               "name" : "Bug"
+            }, {
+               "name" : "Radiohead"
+            }, {
+               "name" : "Pulling Teeth",
+               "with" : {
+                  "mbid" : "275fbaaf-f895-46b1-a176-357f1b780556",
+                  "name" : "Jake Minch",
+                  "sortName" : "Minch, Jake",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jake-minch-1bf96da8.html"
+               }
+            }, {
+               "name" : "Fingers & Clothes (Jake Minch song)",
+               "with" : {
+                  "mbid" : "275fbaaf-f895-46b1-a176-357f1b780556",
+                  "name" : "Jake Minch",
+                  "sortName" : "Minch, Jake",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jake-minch-1bf96da8.html"
+               }
+            }, {
+               "name" : "Thinking of You",
+               "cover" : {
+                  "mbid" : "122d63fc-8671-43e4-9752-34e846d62a9c",
+                  "name" : "Katy Perry",
+                  "sortName" : "Perry, Katy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/katy-perry-2bd6bc42.html"
+               }
+            }, {
+               "name" : "How Could I"
+            }, {
+               "name" : "Stripes"
+            }, {
+               "name" : "Prank Call"
+            }, {
+               "name" : "Nothing At All"
+            }, {
+               "name" : "Break The Band Up"
+            }, {
+               "name" : "25"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alix-page/2025/bowery-ballroom-new-york-ny-135b89c1.html"
+   }, {
+      "id" : "b4791f6",
+      "versionId" : "g2b6578d6",
+      "eventDate" : "13-05-2025",
+      "lastUpdated" : "2025-11-12T02:08:58.817+0000",
+      "artist" : {
+         "mbid" : "601c5589-df7a-443a-8f26-9d5d9674e777",
+         "name" : "Mirador",
+         "sortName" : "Mirador",
+         "disambiguation" : "Band with Jake Kiszka and Chris Turpin",
+         "url" : "https://www.setlist.fm/setlists/mirador-7be45e48.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Heels of the Hunt"
+            }, {
+               "name" : "Raider"
+            }, {
+               "name" : "Feels Like Gold"
+            }, {
+               "name" : "Roving Blade"
+            }, {
+               "name" : "Drum Solo"
+            }, {
+               "name" : "Fortunes Fate"
+            }, {
+               "name" : "Fred McDowell"
+            }, {
+               "name" : "Ten Thousand More to Ride"
+            }, {
+               "name" : "Must I Go Bound"
+            }, {
+               "name" : "Blood and Custard"
+            }, {
+               "name" : "Ashes to Earth"
+            }, {
+               "name" : "Skyway Drifter"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mirador/2025/bowery-ballroom-new-york-ny-b4791f6.html"
+   }, {
+      "id" : "1b47f9c8",
+      "versionId" : "g4b4a872e",
+      "eventDate" : "13-05-2025",
+      "lastUpdated" : "2025-05-16T01:37:18.501+0000",
+      "artist" : {
+         "mbid" : "3fdf63a1-083c-4a4e-816d-90969d750fcc",
+         "name" : "Laney Jones and the Spirits",
+         "sortName" : "Jones, Laney and the Spirits",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laney-jones-and-the-spirits-bf785e6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/laney-jones-and-the-spirits/2025/bowery-ballroom-new-york-ny-1b47f9c8.html"
+   }, {
+      "id" : "2b47b09a",
+      "versionId" : "g6b751eca",
+      "eventDate" : "10-05-2025",
+      "lastUpdated" : "2025-07-09T21:18:56.249+0000",
+      "artist" : {
+         "mbid" : "893b6621-4877-4671-8a7c-b9971f723837",
+         "name" : "@",
+         "sortName" : "@",
+         "disambiguation" : "Philadelphia/Baltimore folk/pop duo",
+         "url" : "https://www.setlist.fm/setlists/--13fa41d5.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "info" : "unreleased"
+            }, {
+               "name" : "",
+               "info" : "unreleased"
+            }, {
+               "name" : "",
+               "info" : "unreleased"
+            }, {
+               "name" : "",
+               "info" : "unreleased"
+            }, {
+               "name" : "",
+               "info" : "unreleased"
+            }, {
+               "name" : "",
+               "info" : "unreleased"
+            }, {
+               "name" : "",
+               "info" : "unreleased"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/-/2025/bowery-ballroom-new-york-ny-2b47b09a.html"
+   }, {
+      "id" : "1346395d",
+      "versionId" : "g234d48cf",
+      "eventDate" : "10-05-2025",
+      "lastUpdated" : "2025-05-13T16:21:14.310+0000",
+      "artist" : {
+         "mbid" : "e9403d9c-329b-4108-a26f-564159d441d9",
+         "name" : "Black Country, New Road",
+         "sortName" : "Black Country, New Road",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/black-country-new-road-1bf65560.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "North America Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Like a Prayer",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "79239441-bfd5-4981-a70c-55c3f15c1287",
+                  "name" : "Madonna",
+                  "sortName" : "Madonna",
+                  "disambiguation" : "“Queen of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/madonna-bd6bdbe.html"
+               }
+            }, {
+               "name" : "Besties"
+            }, {
+               "name" : "The Big Spin"
+            }, {
+               "name" : "Salem Sisters"
+            }, {
+               "name" : "The Boy"
+            }, {
+               "name" : "Socks"
+            }, {
+               "name" : "Two Horses"
+            }, {
+               "name" : "Mary"
+            }, {
+               "name" : "Happy Birthday"
+            }, {
+               "name" : "For the Cold Country"
+            }, {
+               "name" : "Nancy Tries to Take the Night"
+            }, {
+               "name" : "Forever Howlong"
+            }, {
+               "name" : "Goodbye (Don't Tell Me)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/black-country-new-road/2025/bowery-ballroom-new-york-ny-1346395d.html"
+   }, {
+      "id" : "73464219",
+      "versionId" : "g634d42a3",
+      "eventDate" : "09-05-2025",
+      "lastUpdated" : "2025-05-14T00:48:45.063+0000",
+      "artist" : {
+         "mbid" : "e9403d9c-329b-4108-a26f-564159d441d9",
+         "name" : "Black Country, New Road",
+         "sortName" : "Black Country, New Road",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/black-country-new-road-1bf65560.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "North America Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hey Manhattan!",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "1fd87f72-5fbf-4cad-bd9d-f2fec1359cfc",
+                  "name" : "Prefab Sprout",
+                  "sortName" : "Prefab Sprout",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/prefab-sprout-73d6ba85.html"
+               }
+            }, {
+               "name" : "Besties"
+            }, {
+               "name" : "The Big Spin"
+            }, {
+               "name" : "Salem Sisters"
+            }, {
+               "name" : "Two Horses"
+            }, {
+               "name" : "Socks"
+            }, {
+               "name" : "Mary"
+            }, {
+               "name" : "Happy Birthday"
+            }, {
+               "name" : "Turbines/Pigs",
+               "info" : "Shortened. New intro [outro instrumental breakdown as intro]"
+            }, {
+               "name" : "For the Cold Country"
+            }, {
+               "name" : "Nancy Tries to Take the Night"
+            }, {
+               "name" : "Forever Howlong"
+            }, {
+               "name" : "Goodbye (Don't Tell Me)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/black-country-new-road/2025/bowery-ballroom-new-york-ny-73464219.html"
+   }, {
+      "id" : "6b46421e",
+      "versionId" : "g234d44cb",
+      "eventDate" : "09-05-2025",
+      "lastUpdated" : "2025-05-13T19:41:01.300+0000",
+      "artist" : {
+         "mbid" : "27ffe090-ab8e-40dc-b4d4-64de34df38e6",
+         "name" : "Asher White",
+         "sortName" : "White, Asher",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/asher-white-73f8eec9.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Happy Birthday"
+            }, {
+               "name" : "Month Before Pride Month",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Humingbird"
+            }, {
+               "name" : "Dream Design House"
+            }, {
+               "name" : "Downstate Prairie"
+            }, {
+               "name" : "Why I Bought the House",
+               "info" : "Unreleased"
+            }, {
+               "name" : "White Castle Sad",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Cobalt Room: Good Work/Silver Saab",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Capital Cowboy"
+            }, {
+               "name" : "Wing Swell"
+            }, {
+               "name" : "Falls",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Theme from Pepto Bismo",
+               "info" : "Unreleased"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/asher-white/2025/bowery-ballroom-new-york-ny-6b46421e.html"
+   }, {
+      "id" : "6b73fa12",
+      "versionId" : "g6b072e52",
+      "eventDate" : "08-05-2025",
+      "lastUpdated" : "2026-07-08T15:10:51.550+0000",
+      "artist" : {
+         "mbid" : "29507643-0c6b-444b-8511-53cb1c042403",
+         "name" : "Jensen McRae",
+         "sortName" : "McRae, Jensen",
+         "disambiguation" : "singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/jensen-mcrae-33f4e4fd.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Praying For Your Downfall"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jensen-mcrae/2025/bowery-ballroom-new-york-ny-6b73fa12.html"
+   }, {
+      "id" : "b464156",
+      "versionId" : "g43741f27",
+      "eventDate" : "07-05-2025",
+      "lastUpdated" : "2025-07-02T17:00:56.629+0000",
+      "artist" : {
+         "mbid" : "d2b68bfb-536f-446e-84ae-e89848034ba5",
+         "name" : "Lauren Juzang",
+         "sortName" : "Juzang, Lauren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lauren-juzang-53f1ebf1.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lauren-juzang/2025/bowery-ballroom-new-york-ny-b464156.html"
+   }, {
+      "id" : "1b5bfd28",
+      "versionId" : "g5b4df308",
+      "eventDate" : "07-05-2025",
+      "lastUpdated" : "2025-05-08T19:26:34.335+0000",
+      "artist" : {
+         "mbid" : "29507643-0c6b-444b-8511-53cb1c042403",
+         "name" : "Jensen McRae",
+         "sortName" : "McRae, Jensen",
+         "disambiguation" : "singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/jensen-mcrae-33f4e4fd.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Praying For Your Downfall"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Rearranger"
+            }, {
+               "name" : "My Ego Dies at the End"
+            }, {
+               "name" : "God Has a Hitman"
+            }, {
+               "name" : "Mother Wound"
+            }, {
+               "name" : "Savannah"
+            }, {
+               "name" : "Fever Dream"
+            }, {
+               "name" : "Bad Day",
+               "cover" : {
+                  "mbid" : "32cfbaf8-87aa-466b-9c1a-331ad9075ea2",
+                  "name" : "Daniel Powter",
+                  "sortName" : "Powter, Daniel",
+                  "disambiguation" : "Canadian singer-songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/daniel-powter-5bd6e380.html"
+               }
+            }, {
+               "name" : "Tuesday"
+            }, {
+               "name" : "I Can Change Him"
+            }, {
+               "name" : "Daffodils"
+            }, {
+               "name" : "Dead Girl Walking"
+            }, {
+               "name" : "White Boy"
+            }, {
+               "name" : "Vienna",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "Good Legs",
+               "info" : "Surprise Song"
+            }, {
+               "name" : "Class of '15",
+               "info" : "Surprise Song, Unreleased"
+            }, {
+               "name" : "Novelty"
+            }, {
+               "name" : "Let Me Be Wrong"
+            }, {
+               "name" : "Praying for Your Downfall"
+            }, {
+               "name" : "I Don’t Do Drugs"
+            }, {
+               "name" : "Massachusetts"
+            }, {
+               "name" : "Make You Proud"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jensen-mcrae/2025/bowery-ballroom-new-york-ny-1b5bfd28.html"
+   }, {
+      "id" : "b466d4e",
+      "versionId" : "g734c46f9",
+      "eventDate" : "05-05-2025",
+      "lastUpdated" : "2025-05-06T03:14:17.594+0000",
+      "artist" : {
+         "mbid" : "95f41714-7367-4457-bca2-d51f86c7330f",
+         "name" : "Alisa Xayalith",
+         "sortName" : "Xayalith, Alisa",
+         "disambiguation" : "The Naked and Famous member",
+         "url" : "https://www.setlist.fm/setlists/alisa-xayalith-3df6197.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alisa-xayalith/2025/bowery-ballroom-new-york-ny-b466d4e.html"
+   }, {
+      "id" : "4b5ab7b2",
+      "versionId" : "g34db5eb",
+      "eventDate" : "05-05-2025",
+      "lastUpdated" : "2025-05-06T14:39:37.097+0000",
+      "artist" : {
+         "mbid" : "27e3f0c6-4127-4a7b-9d6a-97203d36b15e",
+         "name" : "Sunday (1994)",
+         "sortName" : "Sunday (1994)",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sunday-1994-33e40061.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "the debut tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Blonde"
+            }, {
+               "name" : "Stained Glass Window"
+            }, {
+               "name" : "TV Car Chase"
+            }, {
+               "name" : "Our Troubles"
+            }, {
+               "name" : "Devotion"
+            }, {
+               "name" : "Mascara"
+            }, {
+               "name" : "The Loneliness of the Long Flight Home"
+            }, {
+               "name" : "Still Blue"
+            }, {
+               "name" : "Softly"
+            }, {
+               "name" : "Rain"
+            }, {
+               "name" : "Blossom"
+            }, {
+               "name" : "Tired Boy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sunday-1994/2025/bowery-ballroom-new-york-ny-4b5ab7b2.html"
+   }, {
+      "id" : "335d8ce1",
+      "versionId" : "g635adaeb",
+      "eventDate" : "01-05-2025",
+      "lastUpdated" : "2025-01-10T18:11:32.579+0000",
+      "artist" : {
+         "mbid" : "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+         "name" : "Lambrini Girls",
+         "sortName" : "Lambrini Girls",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lambrini-girls-3bf43c64.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lambrini-girls/2025/bowery-ballroom-new-york-ny-335d8ce1.html"
+   }, {
+      "id" : "23582cf3",
+      "versionId" : "gb4cd996",
+      "eventDate" : "01-05-2025",
+      "lastUpdated" : "2025-05-02T01:38:31.639+0000",
+      "artist" : {
+         "mbid" : "b44ded16-967d-40dd-b110-a7491592ba29",
+         "name" : "Brenn!",
+         "sortName" : "Brenn!",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brenn-3bf8984c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brenn/2025/bowery-ballroom-new-york-ny-23582cf3.html"
+   }, {
+      "id" : "7b5d9e80",
+      "versionId" : "gb4db50e",
+      "eventDate" : "30-04-2025",
+      "lastUpdated" : "2025-05-06T14:36:24.167+0000",
+      "artist" : {
+         "mbid" : "4eeea7eb-7554-48cb-9e50-c26d434ed9ef",
+         "name" : "Lambrini Girls",
+         "sortName" : "Lambrini Girls",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lambrini-girls-3bf43c64.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Big Dick Energy"
+            }, {
+               "name" : "Help Me I'm Gay"
+            }, {
+               "name" : "God's Country"
+            }, {
+               "name" : "Company Culture"
+            }, {
+               "name" : "Lads Lads Lads"
+            }, {
+               "name" : "Bad Apple"
+            }, {
+               "name" : "Mr Lovebomb"
+            }, {
+               "name" : "Love"
+            }, {
+               "name" : "Filthy Rich Nepo Baby"
+            }, {
+               "name" : "No Homo"
+            }, {
+               "name" : "Boys in the Band"
+            }, {
+               "name" : "Craig David"
+            }, {
+               "name" : "Cuntology 101"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/lambrini-girls/2025/bowery-ballroom-new-york-ny-7b5d9e80.html"
+   }, {
+      "id" : "1b5a09d0",
+      "versionId" : "g13596515",
+      "eventDate" : "30-04-2025",
+      "lastUpdated" : "2025-02-10T13:45:14.730+0000",
+      "artist" : {
+         "mbid" : "7fa3024f-7307-41ba-9bc9-57746a1bb3dc",
+         "name" : "Party Dozen",
+         "sortName" : "Party Dozen",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/party-dozen-63cc4293.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/party-dozen/2025/bowery-ballroom-new-york-ny-1b5a09d0.html"
+   }, {
+      "id" : "3b46c8d4",
+      "versionId" : "g3b4c84ac",
+      "eventDate" : "28-04-2025",
+      "lastUpdated" : "2025-04-30T22:40:16.034+0000",
+      "artist" : {
+         "mbid" : "00640db5-8969-43bd-ac6f-678359738bdf",
+         "name" : "Swept Away 2024 Original Broadway Cast",
+         "sortName" : "Swept Away 2024 Original Broadway Cast",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/swept-away-2024-original-broadway-cast-3bedfc74.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Prelude",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "The Charnel House",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Go to Sleep",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Hard Worker (Part 1)",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Nothing Short of Thankful",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Hard Worker (Part 2)",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Swept Away",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Lord Lay Your Hand on My Shoulder",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Ain't No Man",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "May It Last",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Murder in the City",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "The Shipwreck",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "A Gift for Melody Anne",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Through My Prayers",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Two Tableaux",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Satan Pulls the Strings",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "No Hard Feelings",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Go to Sleep (Reprise)",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Finale",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Broadway Reunion Concert with the original Broadway Cast",
+      "url" : "https://www.setlist.fm/setlist/swept-away-2024-original-broadway-cast/2025/bowery-ballroom-new-york-ny-3b46c8d4.html"
+   }, {
+      "id" : "2346c8d7",
+      "versionId" : "g3b4c84c4",
+      "eventDate" : "28-04-2025",
+      "lastUpdated" : "2025-04-30T22:37:15.741+0000",
+      "artist" : {
+         "mbid" : "00640db5-8969-43bd-ac6f-678359738bdf",
+         "name" : "Swept Away 2024 Original Broadway Cast",
+         "sortName" : "Swept Away 2024 Original Broadway Cast",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/swept-away-2024-original-broadway-cast-3bedfc74.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Prelude",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "The Charnel House",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Go to Sleep",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Hard Worker (Part 1)",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Nothing Short of Thankful",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Hard Worker (Part 2)",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Swept Away",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Lord Lay Your Hand on My Shoulder",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Ain't No Man",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "May It Last",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Murder in the City",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "The Shipwreck",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "A Gift for Melody Anne",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Through My Prayers",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Two Tableaux",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Satan Pulls the Strings",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "No Hard Feelings",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Go to Sleep (Reprise)",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            }, {
+               "name" : "Finale",
+               "cover" : {
+                  "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+                  "name" : "The Avett Brothers",
+                  "sortName" : "Avett Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Broadway Reunion Concert with the original Broadway Cast",
+      "url" : "https://www.setlist.fm/setlist/swept-away-2024-original-broadway-cast/2025/bowery-ballroom-new-york-ny-2346c8d7.html"
+   }, {
+      "id" : "7346da91",
+      "versionId" : "g2b4f648a",
+      "eventDate" : "27-04-2025",
+      "lastUpdated" : "2025-04-28T02:29:08.795+0000",
+      "artist" : {
+         "mbid" : "cd4f7c44-9ff3-4660-9f93-170fef83edfd",
+         "name" : "Saetia",
+         "sortName" : "Saetia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/saetia-53d6e721.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Corkscrew Spine"
+            }, {
+               "name" : "Closed Hands"
+            }, {
+               "name" : "Some Natures Catch No Plagues"
+            }, {
+               "name" : "The Burden of Reflecting",
+               "info" : "First time live since 1999"
+            }, {
+               "name" : "Venus and Bacchus"
+            }, {
+               "name" : "One Dying Wish"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/saetia/2025/bowery-ballroom-new-york-ny-7346da91.html"
+   }, {
+      "id" : "5346d3e9",
+      "versionId" : "g3b4f5894",
+      "eventDate" : "27-04-2025",
+      "lastUpdated" : "2025-04-28T13:46:15.821+0000",
+      "artist" : {
+         "mbid" : "4a7a0203-0a30-4fbf-9e5b-43a07a0d6792",
+         "name" : "On the Might of Princes",
+         "sortName" : "On the Might of Princes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/on-the-might-of-princes-7bd64e54.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "No Sign of the Messiah (Part II)"
+            }, {
+               "name" : "Go Fuck Yrself"
+            }, {
+               "name" : "You Whistle, I'll Shoot"
+            }, {
+               "name" : "Here Come the Sirens"
+            }, {
+               "name" : "As Long as She Doesn't Smoke"
+            }, {
+               "name" : "And the Hat Stays On"
+            }, {
+               "name" : "13 Cheers for Beer and Bullshit"
+            }, {
+               "name" : "The Water vs. the Anchor"
+            }, {
+               "name" : "For Meg"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/on-the-might-of-princes/2025/bowery-ballroom-new-york-ny-5346d3e9.html"
+   } ]
+}

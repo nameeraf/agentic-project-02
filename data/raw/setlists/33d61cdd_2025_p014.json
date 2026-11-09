@@ -1,0 +1,1748 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 14,
+   "total" : 285,
+   "setlist" : [ {
+      "id" : "2b5a5c52",
+      "versionId" : "g7b7beae0",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-09-24T01:56:00.888+0000",
+      "artist" : {
+         "mbid" : "ba550d0e-adac-4864-b88b-407cab5e76af",
+         "name" : "Paul McCartney",
+         "sortName" : "McCartney, Paul",
+         "disambiguation" : "The Beatles",
+         "url" : "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Paul McCartney Rocks the Bowery"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A Hard Day's Night",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Junior's Farm",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Got to Get You Into My Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Temporary Secretary"
+            }, {
+               "name" : "Let Me Roll It",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               },
+               "info" : "with \"Foxy Lady\" by The Jimi Hendrix Experience coda"
+            }, {
+               "name" : "Let 'Em In",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "My Valentine"
+            }, {
+               "name" : "Nineteen Hundred and Eighty-Five",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Every Night"
+            }, {
+               "name" : "I've Just Seen a Face",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "From Me to You",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Blackbird",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Something",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Come On to Me"
+            }, {
+               "name" : "I Wanna Be Your Man",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Ob-La-Di, Ob-La-Da",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Drive My Car",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Get Back",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Now and Then",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Lady Madonna",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let It Be",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Hey Jude",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Golden Slumbers",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Carry That Weight",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "The End",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paul-mccartney/2025/bowery-ballroom-new-york-ny-2b5a5c52.html"
+   }, {
+      "id" : "b5a6db6",
+      "versionId" : "g737beae1",
+      "eventDate" : "12-02-2025",
+      "lastUpdated" : "2025-09-24T01:55:45.975+0000",
+      "artist" : {
+         "mbid" : "ba550d0e-adac-4864-b88b-407cab5e76af",
+         "name" : "Paul McCartney",
+         "sortName" : "McCartney, Paul",
+         "disambiguation" : "The Beatles",
+         "url" : "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Paul McCartney Rocks the Bowery"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Can't Buy Me Love",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Flaming Pie"
+            }, {
+               "name" : "Got to Get You Into My Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let Me Roll It",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               },
+               "info" : "with Foxy Lady by The Jimi Hendrix Experience coda"
+            }, {
+               "name" : "Getting Better",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let 'Em In",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "My Valentine"
+            }, {
+               "name" : "Nineteen Hundred and Eighty-Five",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "I've Just Seen a Face",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Every Night"
+            }, {
+               "name" : "Love Me Do",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Blackbird",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Come On to Me"
+            }, {
+               "name" : "Ob-La-Di, Ob-La-Da",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Drive My Car",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Get Back",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Now and Then",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Lady Madonna",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let It Be",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Hey Jude",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Golden Slumbers",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Carry That Weight",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "The End",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/paul-mccartney/2025/bowery-ballroom-new-york-ny-b5a6db6.html"
+   }, {
+      "id" : "35a7937",
+      "versionId" : "g737beaed",
+      "eventDate" : "11-02-2025",
+      "lastUpdated" : "2025-09-24T01:55:08.273+0000",
+      "artist" : {
+         "mbid" : "ba550d0e-adac-4864-b88b-407cab5e76af",
+         "name" : "Paul McCartney",
+         "sortName" : "McCartney, Paul",
+         "disambiguation" : "The Beatles",
+         "url" : "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Paul McCartney Rocks the Bowery"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A Hard Day's Night",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Letting Go",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Got to Get You Into My Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let Me Roll It",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               },
+               "info" : "with \"Foxy Lady\" by The Jimi Hendrix Experience coda"
+            }, {
+               "name" : "My Valentine"
+            }, {
+               "name" : "Nineteen Hundred and Eighty-Five",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Maybe I'm Amazed"
+            }, {
+               "name" : "I've Just Seen a Face",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "From Me to You",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Mrs. Vandebilt",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Blackbird",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Come On to Me"
+            }, {
+               "name" : "Jet",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Ob-La-Di, Ob-La-Da",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Get Back",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Now and Then",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Lady Madonna",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let It Be",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Hey Jude",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Golden Slumbers",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Carry That Weight",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "The End",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Secret show announced earlier in the day.",
+      "url" : "https://www.setlist.fm/setlist/paul-mccartney/2025/bowery-ballroom-new-york-ny-35a7937.html"
+   }, {
+      "id" : "1b5ad9f0",
+      "versionId" : "g3362c039",
+      "eventDate" : "05-02-2025",
+      "lastUpdated" : "2025-11-17T01:39:16.618+0000",
+      "artist" : {
+         "mbid" : "fc247843-807e-4a9d-bcd8-4d29ed54f296",
+         "name" : "The Backfires",
+         "sortName" : "Backfires, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-backfires-13f8c1ed.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "This Is Not An Exit (This Is A Tour)"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Brighter Lights"
+            }, {
+               "name" : "Replace It All"
+            }, {
+               "name" : "Figure It Out"
+            }, {
+               "name" : "Joyride"
+            }, {
+               "name" : "Song 55"
+            }, {
+               "name" : "Turn Off the Lights"
+            }, {
+               "name" : "Matador"
+            }, {
+               "name" : "I Know You Know"
+            }, {
+               "name" : "Never Seen You Before"
+            }, {
+               "name" : "Preoccupied"
+            }, {
+               "name" : "Aphrodite"
+            }, {
+               "name" : "Going Gets Easy"
+            }, {
+               "name" : "This Is Not an Exit"
+            }, {
+               "name" : "Dressed for a Funeral"
+            }, {
+               "name" : "Blindsided"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Anything"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/the-backfires/2025/bowery-ballroom-new-york-ny-1b5ad9f0.html"
+   }, {
+      "id" : "3b404414",
+      "versionId" : "g6b6122e6",
+      "eventDate" : "03-02-2025",
+      "lastUpdated" : "2025-12-10T10:29:31.658+0000",
+      "artist" : {
+         "mbid" : "50a948ac-3bf7-4097-ab73-773bc3cb8fed",
+         "name" : "Yseult",
+         "sortName" : "Yseult",
+         "disambiguation" : "French trap/pop artist Yseult Onguenet",
+         "url" : "https://www.setlist.fm/setlists/yseult-bd9fdae.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro"
+            }, {
+               "name" : "Noir"
+            }, {
+               "name" : "GARÇON"
+            }, {
+               "name" : "CUTE"
+            }, {
+               "name" : "GASOLINA"
+            }, {
+               "name" : "STUPID(E)"
+            }, {
+               "name" : "MENTAL"
+            }, {
+               "name" : "Problematic"
+            }, {
+               "name" : "My Way",
+               "cover" : {
+                  "mbid" : "420c6768-0885-415a-bb59-d6a275121125",
+                  "name" : "Paul Anka",
+                  "sortName" : "Anka, Paul",
+                  "disambiguation" : "Canadian singer, songwriter and actor",
+                  "url" : "https://www.setlist.fm/setlists/paul-anka-3d6bd4f.html"
+               }
+            }, {
+               "name" : "MTV"
+            }, {
+               "name" : "SEX"
+            }, {
+               "name" : "TUNING",
+               "info" : "Mixed with Alica Key's \"New York\""
+            }, {
+               "name" : "Hysteria"
+            }, {
+               "name" : "SUICIDE"
+            }, {
+               "name" : "SUICIDE",
+               "info" : "Encore"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yseult/2025/bowery-ballroom-new-york-ny-3b404414.html"
+   }, {
+      "id" : "7b5e86c0",
+      "versionId" : "g63444e53",
+      "eventDate" : "02-02-2025",
+      "lastUpdated" : "2025-03-03T11:52:29.116+0000",
+      "artist" : {
+         "mbid" : "75a7274d-e9f1-4569-be5e-f590ab9ddb64",
+         "name" : "Christian Lee Hutson",
+         "sortName" : "Hutson, Christian Lee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/christian-lee-hutson-53c16769.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lose This Number"
+            }, {
+               "name" : "Carousel Horses"
+            }, {
+               "name" : "After Hours"
+            }, {
+               "name" : "Rubberneckers"
+            }, {
+               "name" : "Northsiders"
+            }, {
+               "name" : "Water Ballet"
+            }, {
+               "name" : "Candyland",
+               "with" : {
+                  "mbid" : "6879c573-d161-427c-8b67-77d65fa477bb",
+                  "name" : "Maya Hawke",
+                  "sortName" : "Hawke, Maya",
+                  "disambiguation" : "US | singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/maya-hawke-4bf7bfae.html"
+               }
+            }, {
+               "name" : "Sitting Up with a Sick Friend"
+            }, {
+               "name" : "Single for the Summer"
+            }, {
+               "name" : "Autopilot"
+            }, {
+               "name" : "Strawberry Lemonade"
+            }, {
+               "name" : "Atheist"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Keep You Down"
+            }, {
+               "name" : "Age Difference"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/christian-lee-hutson/2025/bowery-ballroom-new-york-ny-7b5e86c0.html"
+   }, {
+      "id" : "435ae773",
+      "versionId" : "g435843fb",
+      "eventDate" : "02-02-2025",
+      "lastUpdated" : "2025-02-03T05:14:50.008+0000",
+      "artist" : {
+         "mbid" : "6667c5b1-bf7f-4b97-ab60-002f2b70fbf8",
+         "name" : "Allegra Krieger",
+         "sortName" : "Krieger, Allegra",
+         "disambiguation" : "Songwriter from NYC",
+         "url" : "https://www.setlist.fm/setlists/allegra-krieger-4bfe83b6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/allegra-krieger/2025/bowery-ballroom-new-york-ny-435ae773.html"
+   }, {
+      "id" : "535d9345",
+      "versionId" : "gb5ad5de",
+      "eventDate" : "01-02-2025",
+      "lastUpdated" : "2025-01-10T19:39:58.080+0000",
+      "artist" : {
+         "mbid" : "fd36f43e-5bd1-488e-b844-0e059250ef78",
+         "name" : "glaive",
+         "sortName" : "glaive",
+         "disambiguation" : "US | pop",
+         "url" : "https://www.setlist.fm/setlists/glaive-13f2f1c9.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "2025 TOUR"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/glaive/2025/bowery-ballroom-new-york-ny-535d9345.html"
+   }, {
+      "id" : "5b517b24",
+      "versionId" : "g534ae3c5",
+      "eventDate" : "31-01-2025",
+      "lastUpdated" : "2025-05-17T05:43:03.584+0000",
+      "artist" : {
+         "mbid" : "fd36f43e-5bd1-488e-b844-0e059250ef78",
+         "name" : "glaive",
+         "sortName" : "glaive",
+         "disambiguation" : "US | pop",
+         "url" : "https://www.setlist.fm/setlists/glaive-13f2f1c9.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "2025 TOUR"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Slowsilver03 Party Mix"
+            }, {
+               "name" : "For God and Country"
+            }, {
+               "name" : "60.000 ISK"
+            }, {
+               "name" : "Count It Up"
+            }, {
+               "name" : "ik"
+            }, {
+               "name" : "Live & Direct"
+            }, {
+               "name" : "Nobodys Fault / Accept My Own"
+            }, {
+               "name" : "huh"
+            }, {
+               "name" : "astrid",
+               "info" : "remix"
+            }, {
+               "name" : "Freudian"
+            }, {
+               "name" : "pardon me",
+               "cover" : {
+                  "mbid" : "49a4b358-25a3-405b-ae1d-39ebdaf96213",
+                  "name" : "ovine hall",
+                  "sortName" : "ovine hall",
+                  "disambiguation" : "glaive’s experimental project",
+                  "url" : "https://www.setlist.fm/setlists/ovine-hall-63f81ecf.html"
+               }
+            }, {
+               "name" : "dnd",
+               "info" : "remix"
+            }, {
+               "name" : "i wanna slam my head against the wall",
+               "info" : "remix"
+            }, {
+               "name" : "17250"
+            }, {
+               "name" : "tijuana freestyle"
+            }, {
+               "name" : "minnesota is a place that exists",
+               "info" : "remix"
+            }, {
+               "name" : "as if",
+               "info" : "remix"
+            }, {
+               "name" : "living proof (that it hurts)"
+            }, {
+               "name" : "Knock, Draw, Release"
+            }, {
+               "name" : "joel"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "EVERYDOG HAS ITS DAY"
+            }, {
+               "name" : "Foreigner",
+               "info" : "unreleased"
+            }, {
+               "name" : "ik",
+               "info" : "remix"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/glaive/2025/bowery-ballroom-new-york-ny-5b517b24.html"
+   }, {
+      "id" : "4b5a937e",
+      "versionId" : "g43582f53",
+      "eventDate" : "29-01-2025",
+      "lastUpdated" : "2025-01-30T21:15:15.596+0000",
+      "artist" : {
+         "mbid" : "072a1c1a-08a1-4bee-8ff2-94d047b50f37",
+         "name" : "Dean Johnson",
+         "sortName" : "Johnson, Dean",
+         "disambiguation" : "Seattle singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/dean-johnson-63fbd26b.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dean-johnson/2025/bowery-ballroom-new-york-ny-4b5a937e.html"
+   }, {
+      "id" : "435a9717",
+      "versionId" : "g43722b0f",
+      "eventDate" : "29-01-2025",
+      "lastUpdated" : "2025-07-17T01:57:26.540+0000",
+      "artist" : {
+         "mbid" : "215f057c-fb64-4b27-abf2-1871e71912d9",
+         "name" : "Blind Pilot",
+         "sortName" : "Blind Pilot",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/blind-pilot-73d71e11.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Packed Powder"
+            }, {
+               "name" : "The Story I Heard"
+            }, {
+               "name" : "Just a Bird"
+            }, {
+               "name" : "Don't You Know"
+            }, {
+               "name" : "Brave"
+            }, {
+               "name" : "The Colored Night"
+            }, {
+               "name" : "One Red Thread"
+            }, {
+               "name" : "Just One"
+            }, {
+               "name" : "Oviedo"
+            }, {
+               "name" : "Jacaranda"
+            }, {
+               "name" : "Always"
+            }, {
+               "name" : "Half Moon"
+            }, {
+               "name" : "Lucky"
+            }, {
+               "name" : "New York"
+            }, {
+               "name" : "All I Have to Do Is Dream",
+               "cover" : {
+                  "mbid" : "3630c766-cdd2-4af6-8d9b-98e49ecc9257",
+                  "name" : "Boudleaux Bryant",
+                  "sortName" : "Bryant, Boudleaux",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/boudleaux-bryant-2bd36842.html"
+               },
+               "with" : {
+                  "mbid" : "072a1c1a-08a1-4bee-8ff2-94d047b50f37",
+                  "name" : "Dean Johnson",
+                  "sortName" : "Johnson, Dean",
+                  "disambiguation" : "Seattle singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/dean-johnson-63fbd26b.html"
+               }
+            }, {
+               "name" : "We Are the Tide"
+            }, {
+               "name" : "Umpqua Rushing"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Believe Me"
+            }, {
+               "name" : "3 Rounds and a Sound"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blind-pilot/2025/bowery-ballroom-new-york-ny-435a9717.html"
+   }, {
+      "id" : "7b4ee28c",
+      "versionId" : "g2366f46f",
+      "eventDate" : "25-01-2025",
+      "lastUpdated" : "2025-10-16T04:52:37.224+0000",
+      "artist" : {
+         "mbid" : "2775f41c-fd65-4ccb-8726-e318ed5f4495",
+         "name" : "Kassie Krut",
+         "sortName" : "Kassie Krut",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kassie-krut-1bfce100.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kassie-krut/2025/bowery-ballroom-new-york-ny-7b4ee28c.html"
+   }, {
+      "id" : "5b5a37f8",
+      "versionId" : "g637a0e37",
+      "eventDate" : "25-01-2025",
+      "lastUpdated" : "2025-09-19T04:37:25.617+0000",
+      "artist" : {
+         "mbid" : "a615b8f7-a9f6-4d7a-90c7-6fdf26b13411",
+         "name" : "Guerilla Toss",
+         "sortName" : "Guerilla Toss",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/guerilla-toss-63c4fa33.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Psychosis Is Just a Number"
+            }, {
+               "name" : "Cannibal Capital"
+            }, {
+               "name" : "Trash Bed"
+            }, {
+               "name" : "367 Equalizer"
+            }, {
+               "name" : "Can I Get the Real Stuff"
+            }, {
+               "name" : "Future Doesn't Know"
+            } ]
+         } ]
+      },
+      "info" : "Set was part of Ground Control Touring’s 3rd Annual Abortion Access Benefit Series.",
+      "url" : "https://www.setlist.fm/setlist/guerilla-toss/2025/bowery-ballroom-new-york-ny-5b5a37f8.html"
+   }, {
+      "id" : "135d112d",
+      "versionId" : "g4b5bc72a",
+      "eventDate" : "25-01-2025",
+      "lastUpdated" : "2025-01-21T00:35:12.816+0000",
+      "artist" : {
+         "mbid" : "64a0c404-58af-4083-8fc6-a6725ef02ecb",
+         "name" : "Cherry Glazerr",
+         "sortName" : "Cherry Glazerr",
+         "disambiguation" : "US rock band",
+         "url" : "https://www.setlist.fm/setlists/cherry-glazerr-63da2603.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cherry-glazerr/2025/bowery-ballroom-new-york-ny-135d112d.html"
+   }, {
+      "id" : "135d0951",
+      "versionId" : "g335b48f9",
+      "eventDate" : "24-01-2025",
+      "lastUpdated" : "2025-01-25T16:42:15.738+0000",
+      "artist" : {
+         "mbid" : "446be579-19bf-42ff-b858-f0e47638ffe6",
+         "name" : "Been Stellar",
+         "sortName" : "Been Stellar",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/been-stellar-4bf2ab8e.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Scream from New York, NY"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Scream From New York, NY"
+            }, {
+               "name" : "Passing Judgment"
+            }, {
+               "name" : "Start Again",
+               "info" : "Changed lyric to “I walk it down first, just passing Bowery” as a nod to the venue."
+            }, {
+               "name" : "Shimmer"
+            }, {
+               "name" : "Manhattan Youth"
+            }, {
+               "name" : "Ohm"
+            }, {
+               "name" : "My Honesty"
+            }, {
+               "name" : "Sweet"
+            }, {
+               "name" : "Pumpkin"
+            }, {
+               "name" : "Takedown"
+            }, {
+               "name" : "All in One"
+            }, {
+               "name" : "Kids 1995",
+               "info" : "dedicated to their tour manager Laura"
+            }, {
+               "name" : "I Have the Answer"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/been-stellar/2025/bowery-ballroom-new-york-ny-135d0951.html"
+   }, {
+      "id" : "3353b87d",
+      "versionId" : "g634b365f",
+      "eventDate" : "23-01-2025",
+      "lastUpdated" : "2025-05-26T10:41:57.068+0000",
+      "artist" : {
+         "mbid" : "5126db33-86ad-469d-88fb-4158350e1515",
+         "name" : "Wunderhorse",
+         "sortName" : "Wunderhorse",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wunderhorse-7bff7ee4.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Midas"
+            }, {
+               "name" : "Butterflies"
+            }, {
+               "name" : "Emily"
+            }, {
+               "name" : "Girl"
+            }, {
+               "name" : "Purple"
+            }, {
+               "name" : "Arizona"
+            }, {
+               "name" : "Rain"
+            }, {
+               "name" : "Teal"
+            }, {
+               "name" : "One for the Pigeons",
+               "cover" : {
+                  "mbid" : "2a1d142e-4216-43d6-88ba-d68bf28001cb",
+                  "name" : "Jacob Slater",
+                  "sortName" : "Jacob Slater",
+                  "disambiguation" : "frontman of Wunderhorse",
+                  "url" : "https://www.setlist.fm/setlists/jacob-slater-3bf83850.html"
+               }
+            }, {
+               "name" : "July"
+            }, {
+               "name" : "Silver"
+            }, {
+               "name" : "Superman"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/wunderhorse/2025/bowery-ballroom-new-york-ny-3353b87d.html"
+   }, {
+      "id" : "6b4a76ae",
+      "versionId" : "g4b6ae342",
+      "eventDate" : "19-01-2025",
+      "lastUpdated" : "2026-01-26T03:50:14.334+0000",
+      "artist" : {
+         "mbid" : "9a051388-eca6-457c-91b6-0198325d3ef0",
+         "name" : "Kino",
+         "sortName" : "KINO",
+         "disambiguation" : "PENTAGON",
+         "url" : "https://www.setlist.fm/setlists/kino-2bc048e6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "I think I think too much"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kino/2025/bowery-ballroom-new-york-ny-6b4a76ae.html"
+   }, {
+      "id" : "435d6b0f",
+      "versionId" : "g7b5b6ea8",
+      "eventDate" : "18-01-2025",
+      "lastUpdated" : "2025-01-24T16:34:30.429+0000",
+      "artist" : {
+         "mbid" : "b4681cdc-4002-4521-8458-ac812f1b6d28",
+         "name" : "Lotus",
+         "sortName" : "Lotus",
+         "disambiguation" : "Philadelphia electronica/rock band",
+         "url" : "https://www.setlist.fm/setlists/lotus-73d69ef9.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "How to Dream in Color"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Catacombs"
+            }, {
+               "name" : "Spaghetti"
+            }, {
+               "name" : "Catacombs"
+            }, {
+               "name" : "Splinter"
+            }, {
+               "name" : "Hammerstrike"
+            }, {
+               "name" : "And I Don't"
+            }, {
+               "name" : "Umbilical Moonrise"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Neon Tubes Pt. 1"
+            }, {
+               "name" : "When a Fire Starts to Burn",
+               "cover" : {
+                  "mbid" : "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f",
+                  "name" : "Disclosure",
+                  "sortName" : "Disclosure",
+                  "disambiguation" : "UK electronic duo Guy & Howard Lawrence",
+                  "url" : "https://www.setlist.fm/setlists/disclosure-7bd01274.html"
+               }
+            }, {
+               "name" : "Neon Tubes Pt. 2"
+            }, {
+               "name" : "Watching the Distant Storm"
+            }, {
+               "name" : "Did Fatt"
+            }, {
+               "name" : "Spiritualize"
+            }, {
+               "name" : "Honey",
+               "cover" : {
+                  "mbid" : "735e3514-a8ae-401f-af3b-6300df1b8d2c",
+                  "name" : "Caribou",
+                  "sortName" : "Caribou",
+                  "disambiguation" : "electronic act from Dan Snaith",
+                  "url" : "https://www.setlist.fm/setlists/caribou-43d6ab13.html"
+               }
+            }, {
+               "name" : "Spiritualize"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Tip of the Tongue"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lotus/2025/bowery-ballroom-new-york-ny-435d6b0f.html"
+   }, {
+      "id" : "235d281b",
+      "versionId" : "g3b11bc90",
+      "eventDate" : "17-01-2025",
+      "lastUpdated" : "2026-04-18T20:58:36.485+0000",
+      "artist" : {
+         "mbid" : "b4681cdc-4002-4521-8458-ac812f1b6d28",
+         "name" : "Lotus",
+         "sortName" : "Lotus",
+         "disambiguation" : "Philadelphia electronica/rock band",
+         "url" : "https://www.setlist.fm/setlists/lotus-73d69ef9.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "How to Dream in Color"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Phantom Tooth"
+            }, {
+               "name" : "Livingston Storm"
+            }, {
+               "name" : "Behind Midwest Storefronts"
+            }, {
+               "name" : "Slow Cookin'"
+            }, {
+               "name" : "Glass"
+            }, {
+               "name" : "Eats the Light"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Automatic",
+               "cover" : {
+                  "mbid" : "2b3357cb-cf2d-42f7-ab73-78bf0121fc56",
+                  "name" : "Mildlife",
+                  "sortName" : "Mildlife",
+                  "disambiguation" : "prog rock band from Melbourne",
+                  "url" : "https://www.setlist.fm/setlists/mildlife-33ca7079.html"
+               }
+            }, {
+               "name" : "Pacific Glow"
+            }, {
+               "name" : "Spiraling Line of Light"
+            }, {
+               "name" : "Drum Machine Improv"
+            }, {
+               "name" : "Spiraling Line of Light"
+            }, {
+               "name" : "Travel"
+            }, {
+               "name" : "Baby again..",
+               "cover" : {
+                  "mbid" : "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+                  "name" : "Fred again..",
+                  "sortName" : "Fred again..",
+                  "disambiguation" : "UK producer, songwriter, multi-instrumentalist and DJ",
+                  "url" : "https://www.setlist.fm/setlists/fred-again-23f480f3.html"
+               }
+            }, {
+               "name" : "Juggernaut"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Condor"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lotus/2025/bowery-ballroom-new-york-ny-235d281b.html"
+   }, {
+      "id" : "435de32b",
+      "versionId" : "g7b5b7660",
+      "eventDate" : "13-01-2025",
+      "lastUpdated" : "2025-01-24T06:30:05.583+0000",
+      "artist" : {
+         "mbid" : "3a57963e-d61d-4a71-9b29-1dd8db3abb60",
+         "name" : "NNAMDÏ",
+         "sortName" : "NNAMDÏ",
+         "disambiguation" : "alias of Nnamdi Ogbonnaya",
+         "url" : "https://www.setlist.fm/setlists/nnamdi-63f48263.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "USA & Canada Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nnamdi/2025/bowery-ballroom-new-york-ny-435de32b.html"
+   } ]
+}

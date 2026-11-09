@@ -1,0 +1,1881 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 181,
+   "setlist" : [ {
+      "id" : "3b506020",
+      "versionId" : "g3b75b074",
+      "eventDate" : "31-12-2024",
+      "lastUpdated" : "2025-07-05T19:56:44.903+0000",
+      "artist" : {
+         "mbid" : "f8796712-19fd-49ca-9cc7-99c30215b3cd",
+         "name" : "Gov’t Mule",
+         "sortName" : "Gov’t Mule",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/govt-mule-13d6ad55.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Mule",
+               "info" : ">"
+            }, {
+               "name" : "Larger Than Life"
+            }, {
+               "name" : "Temporary Saint"
+            }, {
+               "name" : "Dolphineus",
+               "info" : ">"
+            }, {
+               "name" : "Painted Silver Light"
+            }, {
+               "name" : "Peace I Need"
+            }, {
+               "name" : "Shake Our Way Out"
+            }, {
+               "name" : "Just Got Paid",
+               "cover" : {
+                  "mbid" : "a81259a0-a2f5-464b-866e-71220f2739f1",
+                  "name" : "ZZ Top",
+                  "sortName" : "ZZ Top",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zz-top-33d68065.html"
+               }
+            }, {
+               "name" : "Nasty Dogs and Funky Kings",
+               "cover" : {
+                  "mbid" : "a81259a0-a2f5-464b-866e-71220f2739f1",
+                  "name" : "ZZ Top",
+                  "sortName" : "ZZ Top",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zz-top-33d68065.html"
+               }
+            }, {
+               "name" : "Captured"
+            }, {
+               "name" : "Monkey Hill"
+            }, {
+               "name" : "Living Loving Maid (She's Just a Woman)",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Thorazine Shuffle"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "After the Storm"
+            }, {
+               "name" : "Young Man Blues",
+               "cover" : {
+                  "mbid" : "18b76828-4b12-44c1-b8d9-ae82b22557a0",
+                  "name" : "Mose Allison",
+                  "sortName" : "Allison, Mose",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mose-allison-6bd6d2fe.html"
+               }
+            }, {
+               "name" : "So Weak, So Strong"
+            }, {
+               "name" : "Down and Out in New York City",
+               "cover" : {
+                  "mbid" : "20ff3303-4fe2-4a47-a1b6-291e26aa3438",
+                  "name" : "James Brown",
+                  "sortName" : "Brown, James",
+                  "disambiguation" : "The Godfather of Soul",
+                  "url" : "https://www.setlist.fm/setlists/james-brown-3d6b9a7.html"
+               }
+            }, {
+               "name" : "I Asked for Water (She Gave Me Gasoline)",
+               "cover" : {
+                  "mbid" : "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
+                  "name" : "Howlin’ Wolf",
+                  "sortName" : "Howlin’ Wolf",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/howlin-wolf-2bd69842.html"
+               }
+            }, {
+               "name" : "The River Only Flows One Way"
+            }, {
+               "name" : "Auld Lang Syne",
+               "cover" : {
+                  "mbid" : "56e7d9b7-174b-4e29-a50d-f164030d197f",
+                  "name" : "Robert Burns",
+                  "sortName" : "Burns, Robert",
+                  "disambiguation" : "18th century Scottish poet/lyricist",
+                  "url" : "https://www.setlist.fm/setlists/robert-burns-4bd23756.html"
+               }
+            }, {
+               "name" : "21st Century Schizoid Man",
+               "cover" : {
+                  "mbid" : "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name" : "King Crimson",
+                  "sortName" : "King Crimson",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Listening to You",
+               "cover" : {
+                  "mbid" : "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+                  "name" : "The Who",
+                  "sortName" : "Who, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Dazed and Confused",
+               "cover" : {
+                  "mbid" : "e1c69c84-5941-4c57-a041-2808d4d88db4",
+                  "name" : "Jake Holmes",
+                  "sortName" : "Holmes, Jake",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jake-holmes-23d7ac1b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Bad Little Doggie"
+            }, {
+               "name" : "World Boss"
+            }, {
+               "name" : "Brand New Angel",
+               "info" : "> 'Mule' reprise"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/govt-mule/2024/beacon-theatre-new-york-ny-3b506020.html"
+   }, {
+      "id" : "135335c1",
+      "versionId" : "g5b5ddbcc",
+      "eventDate" : "30-12-2024",
+      "lastUpdated" : "2024-12-31T20:04:06.024+0000",
+      "artist" : {
+         "mbid" : "f8796712-19fd-49ca-9cc7-99c30215b3cd",
+         "name" : "Gov’t Mule",
+         "sortName" : "Gov’t Mule",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/govt-mule-13d6ad55.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Revolution Come, Revolution Go"
+            }, {
+               "name" : "Game Face"
+            }, {
+               "name" : "Presence of the Lord",
+               "cover" : {
+                  "mbid" : "53fa91ca-a2b9-463d-b78e-daca9894082a",
+                  "name" : "Blind Faith",
+                  "sortName" : "Blind Faith",
+                  "disambiguation" : "English rock supergroup",
+                  "url" : "https://www.setlist.fm/setlists/blind-faith-3d6ad77.html"
+               },
+               "info" : "first time since 8/28/2018"
+            }, {
+               "name" : "Dreaming Out Loud"
+            }, {
+               "name" : "Sco-Mule",
+               "info" : "with Rick Lollar on guitar"
+            }, {
+               "name" : "Unring the Bell"
+            }, {
+               "name" : "Endless Parade"
+            }, {
+               "name" : "Mr. Man"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Traveling Tune"
+            }, {
+               "name" : "Devil Likes It Slow",
+               "with" : {
+                  "mbid" : "e1412c77-0e60-406e-b48d-cb28b97aa62d",
+                  "name" : "Oz Noy",
+                  "sortName" : "Noy, Oz",
+                  "disambiguation" : "Israeli-American guitarist and composer",
+                  "url" : "https://www.setlist.fm/setlists/oz-noy-2bd71c6e.html"
+               }
+            }, {
+               "name" : "Soulshine",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Banks of the Deep End"
+            }, {
+               "name" : "Doing It to Death",
+               "cover" : {
+                  "mbid" : "cb6a2948-7b9b-4a15-8c71-2b79cc76408e",
+                  "name" : "The J.B.’s",
+                  "sortName" : "J.B.’s, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-jbs-3bd60800.html"
+               }
+            }, {
+               "name" : "Time to Confess"
+            }, {
+               "name" : "No Need to Suffer"
+            }, {
+               "name" : "Railroad Boy",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Make It Rain",
+               "cover" : {
+                  "mbid" : "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+                  "name" : "Tom Waits",
+                  "sortName" : "Waits, Tom",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tom-waits-3bd6c0ac.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/govt-mule/2024/beacon-theatre-new-york-ny-135335c1.html"
+   }, {
+      "id" : "634e5e87",
+      "versionId" : "g33676461",
+      "eventDate" : "21-12-2024",
+      "lastUpdated" : "2025-10-28T05:22:50.564+0000",
+      "artist" : {
+         "mbid" : "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+         "name" : "Jerry Seinfeld",
+         "sortName" : "Seinfeld, Jerry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jerry-seinfeld-2bd71042.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jerry-seinfeld/2024/beacon-theatre-new-york-ny-634e5e87.html"
+   }, {
+      "id" : "634e5e8f",
+      "versionId" : "g2367646b",
+      "eventDate" : "20-12-2024",
+      "lastUpdated" : "2025-10-28T05:20:38.267+0000",
+      "artist" : {
+         "mbid" : "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+         "name" : "Jerry Seinfeld",
+         "sortName" : "Seinfeld, Jerry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jerry-seinfeld-2bd71042.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jerry-seinfeld/2024/beacon-theatre-new-york-ny-634e5e8f.html"
+   }, {
+      "id" : "7b5f0a4c",
+      "versionId" : "g4b6a2332",
+      "eventDate" : "14-12-2024",
+      "lastUpdated" : "2026-01-28T12:25:52.151+0000",
+      "artist" : {
+         "mbid" : "46510d46-ce20-4dde-b9ea-207e474353f4",
+         "name" : "Brett Eldredge",
+         "sortName" : "Eldredge, Brett",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brett-eldredge-63d2f2b7.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "It's Beginning to Look Like Christmas",
+               "cover" : {
+                  "mbid" : "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+                  "name" : "Perry Como",
+                  "sortName" : "Como, Perry",
+                  "disambiguation" : "US pop singer & TV personality, 1912–2001",
+                  "url" : "https://www.setlist.fm/setlists/perry-como-6bd69a56.html"
+               }
+            }, {
+               "name" : "Winter Wonderland",
+               "cover" : {
+                  "mbid" : "e13ca4b9-8077-4bd8-8260-19723d25b61a",
+                  "name" : "Richard Himber and His Orchestra",
+                  "sortName" : "Himber, Richard and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/richard-himber-and-his-orchestra-3bd4b0dc.html"
+               }
+            }, {
+               "name" : "Mr. Christmas"
+            }, {
+               "name" : "White Christmas",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               }
+            }, {
+               "name" : "Sweet December"
+            }, {
+               "name" : "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+               "cover" : {
+                  "mbid" : "4439c2fd-a754-4f6a-b3a6-791b47726156",
+                  "name" : "Mel Tormé",
+                  "sortName" : "Tormé, Mel",
+                  "disambiguation" : "“The Velvet Fog”",
+                  "url" : "https://www.setlist.fm/setlists/mel-torme-53d637e9.html"
+               }
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "Feels Like Christmas"
+            }, {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Season of Lights and Wonder"
+            }, {
+               "name" : "Merry Christmas (Welcome to the Family)"
+            }, {
+               "name" : "Baby, It's Cold Outside",
+               "cover" : {
+                  "mbid" : "0a0688ca-72c2-46d6-a3b9-b297e7dad6dc",
+                  "name" : "Frank Loesser",
+                  "sortName" : "Loesser, Frank",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/frank-loesser-4bd787f6.html"
+               }
+            }, {
+               "name" : "I'll Be Home for Christmas (If Only in My Dreams)",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               }
+            }, {
+               "name" : "O Holy Night",
+               "cover" : {
+                  "mbid" : "ece590a3-ae0e-4311-bcf3-ee07cfb7b4f0",
+                  "name" : "Adolphe Adam",
+                  "sortName" : "Adam, Adolphe",
+                  "disambiguation" : "French composer",
+                  "url" : "https://www.setlist.fm/setlists/adolphe-adam-4bd7dfb2.html"
+               }
+            }, {
+               "name" : "Glow"
+            }, {
+               "name" : "Have Yourself a Merry Little Christmas",
+               "cover" : {
+                  "mbid" : "46f29ffe-7479-4365-bfd0-fd8f2bb1c7bf",
+                  "name" : "Hugh Martin",
+                  "sortName" : "Martin, Hugh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugh-martin-33d27405.html"
+               }
+            }, {
+               "name" : "The First Noel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brett-eldredge/2024/beacon-theatre-new-york-ny-7b5f0a4c.html"
+   }, {
+      "id" : "135f6139",
+      "versionId" : "g7b5ce6f0",
+      "eventDate" : "14-12-2024",
+      "lastUpdated" : "2024-12-21T19:23:10.150+0000",
+      "artist" : {
+         "mbid" : "e0b81002-10b6-4e5d-9afe-3845c3cc4a59",
+         "name" : "Stacey Ryan",
+         "sortName" : "Ryan, Stacey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/stacey-ryan-bd421fa.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Christmas",
+               "cover" : {
+                  "mbid" : "3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9",
+                  "name" : "Donny Hathaway",
+                  "sortName" : "Hathaway, Donny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/donny-hathaway-1bd6b9a0.html"
+               }
+            }, {
+               "name" : "Santa Baby",
+               "cover" : {
+                  "mbid" : "02b4a39e-04c0-4eb7-a0eb-c919f3d14154",
+                  "name" : "Eartha Kitt",
+                  "sortName" : "Kitt, Eartha",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eartha-kitt-6bd6ae0e.html"
+               }
+            }, {
+               "name" : "River",
+               "cover" : {
+                  "mbid" : "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+                  "name" : "Joni Mitchell",
+                  "sortName" : "Mitchell, Joni",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joni-mitchell-33d6a4b1.html"
+               }
+            }, {
+               "name" : "O Come, O Come, Emmanuel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Hallelujah",
+               "cover" : {
+                  "mbid" : "65314b12-0e08-43fa-ba33-baaa7b874c15",
+                  "name" : "Leonard Cohen",
+                  "sortName" : "Cohen, Leonard",
+                  "disambiguation" : "Canadian singer‐songwriter and poet",
+                  "url" : "https://www.setlist.fm/setlists/leonard-cohen-bd6d12a.html"
+               }
+            }, {
+               "name" : "Montreal"
+            }, {
+               "name" : "Everything, Everything"
+            }, {
+               "name" : "Baby It’s Not Christmas Without You"
+            }, {
+               "name" : "Fall In Love Alone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/stacey-ryan/2024/beacon-theatre-new-york-ny-135f6139.html"
+   }, {
+      "id" : "6b5f0a4e",
+      "versionId" : "g536a2331",
+      "eventDate" : "12-12-2024",
+      "lastUpdated" : "2026-01-28T12:25:52.158+0000",
+      "artist" : {
+         "mbid" : "46510d46-ce20-4dde-b9ea-207e474353f4",
+         "name" : "Brett Eldredge",
+         "sortName" : "Eldredge, Brett",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brett-eldredge-63d2f2b7.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "It's Beginning to Look Like Christmas",
+               "cover" : {
+                  "mbid" : "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+                  "name" : "Perry Como",
+                  "sortName" : "Como, Perry",
+                  "disambiguation" : "US pop singer & TV personality, 1912–2001",
+                  "url" : "https://www.setlist.fm/setlists/perry-como-6bd69a56.html"
+               }
+            }, {
+               "name" : "Winter Wonderland",
+               "cover" : {
+                  "mbid" : "e13ca4b9-8077-4bd8-8260-19723d25b61a",
+                  "name" : "Richard Himber and His Orchestra",
+                  "sortName" : "Himber, Richard and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/richard-himber-and-his-orchestra-3bd4b0dc.html"
+               }
+            }, {
+               "name" : "Mr. Christmas"
+            }, {
+               "name" : "White Christmas",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               }
+            }, {
+               "name" : "Sweet December"
+            }, {
+               "name" : "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+               "cover" : {
+                  "mbid" : "4439c2fd-a754-4f6a-b3a6-791b47726156",
+                  "name" : "Mel Tormé",
+                  "sortName" : "Tormé, Mel",
+                  "disambiguation" : "“The Velvet Fog”",
+                  "url" : "https://www.setlist.fm/setlists/mel-torme-53d637e9.html"
+               }
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "Feels Like Christmas"
+            }, {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Season of Lights and Wonder"
+            }, {
+               "name" : "Merry Christmas (Welcome to the Family)"
+            }, {
+               "name" : "Baby, It's Cold Outside",
+               "cover" : {
+                  "mbid" : "0a0688ca-72c2-46d6-a3b9-b297e7dad6dc",
+                  "name" : "Frank Loesser",
+                  "sortName" : "Loesser, Frank",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/frank-loesser-4bd787f6.html"
+               },
+               "with" : {
+                  "mbid" : "e0b81002-10b6-4e5d-9afe-3845c3cc4a59",
+                  "name" : "Stacey Ryan",
+                  "sortName" : "Ryan, Stacey",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stacey-ryan-bd421fa.html"
+               }
+            }, {
+               "name" : "I'll Be Home for Christmas (If Only in My Dreams)",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               }
+            }, {
+               "name" : "O Holy Night",
+               "cover" : {
+                  "mbid" : "ece590a3-ae0e-4311-bcf3-ee07cfb7b4f0",
+                  "name" : "Adolphe Adam",
+                  "sortName" : "Adam, Adolphe",
+                  "disambiguation" : "French composer",
+                  "url" : "https://www.setlist.fm/setlists/adolphe-adam-4bd7dfb2.html"
+               }
+            }, {
+               "name" : "Glow"
+            }, {
+               "name" : "Have Yourself a Merry Little Christmas",
+               "cover" : {
+                  "mbid" : "46f29ffe-7479-4365-bfd0-fd8f2bb1c7bf",
+                  "name" : "Hugh Martin",
+                  "sortName" : "Martin, Hugh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugh-martin-33d27405.html"
+               }
+            }, {
+               "name" : "The First Noel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brett-eldredge/2024/beacon-theatre-new-york-ny-6b5f0a4e.html"
+   }, {
+      "id" : "335f78c5",
+      "versionId" : "g635ce6f7",
+      "eventDate" : "12-12-2024",
+      "lastUpdated" : "2024-12-21T19:23:10.161+0000",
+      "artist" : {
+         "mbid" : "e0b81002-10b6-4e5d-9afe-3845c3cc4a59",
+         "name" : "Stacey Ryan",
+         "sortName" : "Ryan, Stacey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/stacey-ryan-bd421fa.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Christmas",
+               "cover" : {
+                  "mbid" : "3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9",
+                  "name" : "Donny Hathaway",
+                  "sortName" : "Hathaway, Donny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/donny-hathaway-1bd6b9a0.html"
+               }
+            }, {
+               "name" : "Santa Baby",
+               "cover" : {
+                  "mbid" : "02b4a39e-04c0-4eb7-a0eb-c919f3d14154",
+                  "name" : "Eartha Kitt",
+                  "sortName" : "Kitt, Eartha",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eartha-kitt-6bd6ae0e.html"
+               }
+            }, {
+               "name" : "River",
+               "cover" : {
+                  "mbid" : "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+                  "name" : "Joni Mitchell",
+                  "sortName" : "Mitchell, Joni",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joni-mitchell-33d6a4b1.html"
+               }
+            }, {
+               "name" : "Montreal"
+            }, {
+               "name" : "O Come, O Come, Emmanuel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Hallelujah",
+               "cover" : {
+                  "mbid" : "65314b12-0e08-43fa-ba33-baaa7b874c15",
+                  "name" : "Leonard Cohen",
+                  "sortName" : "Cohen, Leonard",
+                  "disambiguation" : "Canadian singer‐songwriter and poet",
+                  "url" : "https://www.setlist.fm/setlists/leonard-cohen-bd6d12a.html"
+               }
+            }, {
+               "name" : "Everything, Everything"
+            }, {
+               "name" : "Baby It’s Not Christmas Without You"
+            }, {
+               "name" : "Fall In Love Alone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/stacey-ryan/2024/beacon-theatre-new-york-ny-335f78c5.html"
+   }, {
+      "id" : "3b5ffcb4",
+      "versionId" : "g4351636b",
+      "eventDate" : "10-12-2024",
+      "lastUpdated" : "2024-12-02T00:32:02.056+0000",
+      "artist" : {
+         "mbid" : "c44754be-0689-4f86-b487-c41d6a2b51a6",
+         "name" : "Trisha Paytas",
+         "sortName" : "Paytas, Trisha",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trisha-paytas-5bf4eb20.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trisha-paytas/2024/beacon-theatre-new-york-ny-3b5ffcb4.html"
+   }, {
+      "id" : "13542d0d",
+      "versionId" : "g53a313a5",
+      "eventDate" : "09-12-2024",
+      "lastUpdated" : "2024-07-17T18:09:05.587+0000",
+      "artist" : {
+         "mbid" : "594beb50-0853-4e48-b3b9-b9ce1c3b72c9",
+         "name" : "for KING & COUNTRY",
+         "sortName" : "for KING & COUNTRY",
+         "disambiguation" : "Christian Pop Duo",
+         "url" : "https://www.setlist.fm/setlists/for-king-and-country-13d35d09.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "A Drummer Boy Christmas Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/for-king-and-country/2024/beacon-theatre-new-york-ny-13542d0d.html"
+   }, {
+      "id" : "4350d33f",
+      "versionId" : "g53602359",
+      "eventDate" : "08-12-2024",
+      "lastUpdated" : "2025-12-03T10:31:28.000+0000",
+      "artist" : {
+         "mbid" : "594beb50-0853-4e48-b3b9-b9ce1c3b72c9",
+         "name" : "for KING & COUNTRY",
+         "sortName" : "for KING & COUNTRY",
+         "disambiguation" : "Christian Pop Duo",
+         "url" : "https://www.setlist.fm/setlists/for-king-and-country-13d35d09.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "A Drummer Boy Christmas Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "In the Bleak Midwinter",
+               "cover" : {
+                  "mbid" : "51b77482-6a96-4c3e-850d-6bbd54283716",
+                  "name" : "Christina Rossetti",
+                  "sortName" : "Rossetti, Christina",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/christina-rossetti-4bdd17ee.html"
+               }
+            }, {
+               "name" : "Joy to the World",
+               "cover" : {
+                  "mbid" : "3a8a190c-24ef-45df-abe8-735ceeb38855",
+                  "name" : "Isaac Watts",
+                  "sortName" : "Watts, Isaac",
+                  "disambiguation" : "hymn writer",
+                  "url" : "https://www.setlist.fm/setlists/isaac-watts-3bd0f054.html"
+               }
+            }, {
+               "name" : "O Come, O Come, Emmanuel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Won't You Come"
+            }, {
+               "name" : "Baby Boy"
+            }, {
+               "name" : "Glorious"
+            }, {
+               "name" : "Angels We Have Heard on High",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Go Tell It on the Mountain",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "with" : {
+                  "mbid" : "1671340d-76c6-4657-97ef-c12a70f0a51b",
+                  "name" : "Moriah Peters",
+                  "sortName" : "Peters, Moriah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/moriah-peters-33d16445.html"
+               }
+            }, {
+               "name" : "Do You Hear What I Hear?",
+               "cover" : {
+                  "mbid" : "e8553fbd-11ec-4568-9720-be914af8fa17",
+                  "name" : "The Harry Simeone Chorale",
+                  "sortName" : "Simeone, Harry, Chorale, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-harry-simeone-chorale-6bd7fa6e.html"
+               }
+            }, {
+               "name" : "Unsung Hero"
+            }, {
+               "name" : "Burn the Ships"
+            }, {
+               "name" : "Together"
+            } ]
+         }, {
+            "name" : "Intermission",
+            "song" : [ {
+               "name" : "Amen"
+            }, {
+               "name" : "Fix My Eyes"
+            }, {
+               "name" : "Love Me Like I Am"
+            }, {
+               "name" : "For God Is With Us"
+            }, {
+               "name" : "The Proof of Your Love"
+            }, {
+               "name" : "O Come, All Ye Faithful",
+               "cover" : {
+                  "mbid" : "997ccbe8-1820-4ee8-851f-a62ab571e226",
+                  "name" : "John Francis Wade",
+                  "sortName" : "Wade, John Francis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-francis-wade-4bd48722.html"
+               }
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "Shoulders",
+               "info" : "Abridged"
+            }, {
+               "name" : "Heavenly Hosts"
+            }, {
+               "name" : "God Only Knows"
+            }, {
+               "name" : "A Christmas Monologue"
+            }, {
+               "name" : "The Little Drummer Boy",
+               "cover" : {
+                  "mbid" : "69bbeed7-17e2-45df-a578-60f084e9657a",
+                  "name" : "The Trapp Family Singers",
+                  "sortName" : "Trapp, The, Family Singers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-trapp-family-singers-33d5a4f5.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Joy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/for-king-and-country/2024/beacon-theatre-new-york-ny-4350d33f.html"
+   }, {
+      "id" : "5b5fbffc",
+      "versionId" : "gb4d995a",
+      "eventDate" : "07-12-2024",
+      "lastUpdated" : "2025-05-07T10:58:47.610+0000",
+      "artist" : {
+         "mbid" : "1dac1e7d-1eab-4e0c-8545-d027e0088cc2",
+         "name" : "The Allman Betts Band",
+         "sortName" : "Allman Betts Band, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-allman-betts-band-53c94bf5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Allman Betts Family Revival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Little Martha",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Don't Want You No More",
+               "cover" : {
+                  "mbid" : "178fdfdf-e02e-4608-9b51-e53471e28a58",
+                  "name" : "The Spencer Davis Group",
+                  "sortName" : "Davis, Spencer, Group, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-spencer-davis-group-33d6ac49.html"
+               }
+            }, {
+               "name" : "It's Not My Cross to Bear",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Statesboro Blues",
+               "cover" : {
+                  "mbid" : "81e02e29-e46a-49cb-bf13-d204cbe86daa",
+                  "name" : "Blind Willie McTell",
+                  "sortName" : "McTell, Blind Willie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/blind-willie-mctell-63d62693.html"
+               },
+               "with" : {
+                  "mbid" : "0a314698-09db-445f-ac69-4ee6514c86af",
+                  "name" : "Jimmy Hall",
+                  "sortName" : "Hall, Jimmy",
+                  "disambiguation" : "American singer/songwriter, member of Wet Willie",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-hall-23d77003.html"
+               }
+            }, {
+               "name" : "Trouble No More",
+               "cover" : {
+                  "mbid" : "f86f1f07-d182-45ce-ae93-ef610880ca72",
+                  "name" : "Muddy Waters",
+                  "sortName" : "Muddy Waters",
+                  "disambiguation" : "blues musician",
+                  "url" : "https://www.setlist.fm/setlists/muddy-waters-3bd69810.html"
+               },
+               "info" : "and Robert Randolph",
+               "with" : {
+                  "mbid" : "23596458-0e8f-41e7-bd03-9086487e5192",
+                  "name" : "Lamar Williams Jr.",
+                  "sortName" : "Williams, Lamar, Jr.",
+                  "disambiguation" : "Vocalist, son of Allman Bros. bassist Lamar Williams",
+                  "url" : "https://www.setlist.fm/setlists/lamar-williams-jr-73dfa27d.html"
+               }
+            }, {
+               "name" : "Blue Sky",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Please Call Home",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "with Sierra Greene"
+            }, {
+               "name" : "Melissa",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Southbound",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "and Anders Osborne",
+               "with" : {
+                  "mbid" : "46a19132-1c49-4ae6-b543-91be1483c2af",
+                  "name" : "Lindsay Lou",
+                  "sortName" : "Lou, Lindsay",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lindsay-lou-3f6ddaf.html"
+               }
+            }, {
+               "name" : "Dreams",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Call It Stormy Monday but Tuesday Is Just as Bad",
+               "cover" : {
+                  "mbid" : "f1a3fb4a-fff6-4556-a290-3704b109da90",
+                  "name" : "T‐Bone Walker",
+                  "sortName" : "Walker, T‐Bone",
+                  "disambiguation" : "US blues musician & songwriter, 1910–1975",
+                  "url" : "https://www.setlist.fm/setlists/tbone-walker-3bd698e8.html"
+               },
+               "info" : "and Robert Randolph",
+               "with" : {
+                  "mbid" : "09c635be-c8e8-4f89-94bf-05c66b8144a1",
+                  "name" : "Larry McCray",
+                  "sortName" : "McCray, Larry",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/larry-mccray-63d6c2a3.html"
+               }
+            }, {
+               "name" : "Jessica",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Nobody Knows",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Seven Turns",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Good Clean Fun",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "23596458-0e8f-41e7-bd03-9086487e5192",
+                  "name" : "Lamar Williams Jr.",
+                  "sortName" : "Williams, Lamar, Jr.",
+                  "disambiguation" : "Vocalist, son of Allman Bros. bassist Lamar Williams",
+                  "url" : "https://www.setlist.fm/setlists/lamar-williams-jr-73dfa27d.html"
+               }
+            }, {
+               "name" : "One Way Out",
+               "cover" : {
+                  "mbid" : "3b8403b6-72c8-4953-b966-5fc555923baf",
+                  "name" : "Sonny Boy Williamson",
+                  "sortName" : "Williamson, Sonny Boy",
+                  "disambiguation" : "Aleck “Sonny Boy Williamson” Miller, 1912–1965",
+                  "url" : "https://www.setlist.fm/setlists/sonny-boy-williamson-3bd69814.html"
+               },
+               "info" : "and Sierra Hull",
+               "with" : {
+                  "mbid" : "f96ebe5e-fa84-4583-95b0-962a1b0f1b57",
+                  "name" : "G. Love",
+                  "sortName" : "Love, G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/g-love-33d6d879.html"
+               }
+            }, {
+               "name" : "Ramblin' Man",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "96fa47fc-6175-45c9-9686-7a3362671137",
+                  "name" : "Anders Osborne",
+                  "sortName" : "Osborne, Anders",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/anders-osborne-63d6b6df.html"
+               }
+            }, {
+               "name" : "Whipping Post",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "0a314698-09db-445f-ac69-4ee6514c86af",
+                  "name" : "Jimmy Hall",
+                  "sortName" : "Hall, Jimmy",
+                  "disambiguation" : "American singer/songwriter, member of Wet Willie",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-hall-23d77003.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "End of the Line",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "Acoustic",
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "Midnight Rider",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "with all hands on deck"
+            }, {
+               "name" : "Little Martha",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-allman-betts-band/2024/beacon-theatre-new-york-ny-5b5fbffc.html"
+   }, {
+      "id" : "6b52c606",
+      "versionId" : "g2375b893",
+      "eventDate" : "06-12-2024",
+      "lastUpdated" : "2025-07-05T16:23:54.904+0000",
+      "artist" : {
+         "mbid" : "484a4e90-6899-4e4b-a948-a2255d365340",
+         "name" : "AURORA",
+         "sortName" : "AURORA",
+         "disambiguation" : "Norwegian singer",
+         "url" : "https://www.setlist.fm/setlists/aurora-23c6eca3.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "What Happened to the Earth? Part 3: USA & Canada"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Goddess of Dawn",
+               "tape" : true
+            }, {
+               "name" : "Churchyard"
+            }, {
+               "name" : "The River",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Murder Song (5, 4, 3, 2, 1)"
+            }, {
+               "name" : "Heathens"
+            }, {
+               "name" : "The Dark Dresses Lightly"
+            }, {
+               "name" : "The Blade"
+            }, {
+               "name" : "Starvation"
+            }, {
+               "name" : "Exist for Love"
+            }, {
+               "name" : "Through the Eyes of a Child",
+               "info" : "Acoustic"
+            }, {
+               "name" : "All Is Soft Inside"
+            }, {
+               "name" : "Runaway"
+            }, {
+               "name" : "The Seed"
+            }, {
+               "name" : "Some Type of Skin"
+            }, {
+               "name" : "Giving In to the Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cure for Me"
+            }, {
+               "name" : "Queendom"
+            }, {
+               "name" : "Invisible Wounds",
+               "info" : "(Piano) (Forgot a few words then resumed)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/aurora/2024/beacon-theatre-new-york-ny-6b52c606.html"
+   }, {
+      "id" : "135f351d",
+      "versionId" : "g7b5e3a68",
+      "eventDate" : "06-12-2024",
+      "lastUpdated" : "2024-12-07T17:35:52.178+0000",
+      "artist" : {
+         "mbid" : "b618a5f3-085d-4966-887f-6d264c61524a",
+         "name" : "Biig Piig",
+         "sortName" : "Biig Piig",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/biig-piig-43cf7f8b.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Oh No"
+            }, {
+               "name" : "4AM"
+            }, {
+               "name" : "Perdida"
+            }, {
+               "name" : "Roses and Gold"
+            }, {
+               "name" : "Sunny"
+            }, {
+               "name" : "Favourite Girl"
+            }, {
+               "name" : "Switch"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/biig-piig/2024/beacon-theatre-new-york-ny-135f351d.html"
+   }, {
+      "id" : "6352c607",
+      "versionId" : "g3375b891",
+      "eventDate" : "05-12-2024",
+      "lastUpdated" : "2025-07-05T16:24:05.387+0000",
+      "artist" : {
+         "mbid" : "484a4e90-6899-4e4b-a948-a2255d365340",
+         "name" : "AURORA",
+         "sortName" : "AURORA",
+         "disambiguation" : "Norwegian singer",
+         "url" : "https://www.setlist.fm/setlists/aurora-23c6eca3.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "What Happened to the Earth? Part 3: USA & Canada"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Goddess of Dawn",
+               "tape" : true,
+               "info" : "Instrumental Intro"
+            }, {
+               "name" : "Churchyard"
+            }, {
+               "name" : "The River"
+            }, {
+               "name" : "Soulless Creatures"
+            }, {
+               "name" : "Murder Song (5, 4, 3, 2, 1)",
+               "info" : "Acoustic"
+            }, {
+               "name" : "The Dark Dresses Lightly"
+            }, {
+               "name" : "The Blade"
+            }, {
+               "name" : "Starvation"
+            }, {
+               "name" : "Exist for Love"
+            }, {
+               "name" : "Through the Eyes of a Child"
+            }, {
+               "name" : "A Soul With No King"
+            }, {
+               "name" : "Queendom"
+            }, {
+               "name" : "Runaway"
+            }, {
+               "name" : "The Seed"
+            }, {
+               "name" : "Running With the Wolves"
+            }, {
+               "name" : "Giving In to the Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cure for Me"
+            }, {
+               "name" : "Some Type of Skin"
+            }, {
+               "name" : "Invisible Wounds",
+               "info" : "Piano"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/aurora/2024/beacon-theatre-new-york-ny-6352c607.html"
+   }, {
+      "id" : "3b5ff848",
+      "versionId" : "g3b5e9074",
+      "eventDate" : "02-12-2024",
+      "lastUpdated" : "2024-12-04T18:42:42.609+0000",
+      "artist" : {
+         "mbid" : "6a93ba4c-ba73-4644-bcfd-f60291a70e29",
+         "name" : "Adam Weiner",
+         "sortName" : "Weiner, Adam",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/adam-weiner-63cafe9b.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "When You're Young",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/adam-weiner/2024/beacon-theatre-new-york-ny-3b5ff848.html"
+   }, {
+      "id" : "3b5fa0ec",
+      "versionId" : "g235e9073",
+      "eventDate" : "02-12-2024",
+      "lastUpdated" : "2024-12-04T18:41:19.760+0000",
+      "artist" : {
+         "mbid" : "21685b15-3074-446e-aa1d-ff7157014f53",
+         "name" : "Lucinda Williams",
+         "sortName" : "Williams, Lucinda",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lucinda-williams-bd6b1f2.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "New York Comeback"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lucinda-williams/2024/beacon-theatre-new-york-ny-3b5fa0ec.html"
+   }, {
+      "id" : "3b5fa0e8",
+      "versionId" : "g335e9045",
+      "eventDate" : "02-12-2024",
+      "lastUpdated" : "2024-12-04T18:49:16.494+0000",
+      "artist" : {
+         "mbid" : "4883523d-fc0e-4d0d-802c-91379e767083",
+         "name" : "The Hold Steady",
+         "sortName" : "Hold Steady, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-hold-steady-bd64946.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Death Star",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-hold-steady/2024/beacon-theatre-new-york-ny-3b5fa0e8.html"
+   }, {
+      "id" : "3b5fa0c8",
+      "versionId" : "g2b5e9042",
+      "eventDate" : "02-12-2024",
+      "lastUpdated" : "2024-12-04T18:48:36.107+0000",
+      "artist" : {
+         "mbid" : "30e8e6e2-7b79-4eef-ba91-8435d4ba0fac",
+         "name" : "Butch Walker",
+         "sortName" : "Walker, Butch",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/butch-walker-5bd62354.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Song 1 (8:00 to 8:05 PM):",
+            "song" : [ {
+               "name" : "Aftermath",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         }, {
+            "name" : "Song 2 (10:30 to 10:35 PM):",
+            "song" : [ {
+               "name" : "In the Modern World",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/butch-walker/2024/beacon-theatre-new-york-ny-3b5fa0c8.html"
+   }, {
+      "id" : "335ff841",
+      "versionId" : "g2b5e9052",
+      "eventDate" : "02-12-2024",
+      "lastUpdated" : "2024-12-04T18:46:26.016+0000",
+      "artist" : {
+         "mbid" : "d103053c-986d-481f-a6fb-a5644914f9d1",
+         "name" : "Eugene Hütz and Sergey Ryabtsev",
+         "sortName" : "Eugene Hütz and Sergey Ryabtsev",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/eugene-hutz-and-sergey-ryabtsev-5be0af74.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Here's the Situation",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            }, {
+               "name" : "Victim in Pain",
+               "cover" : {
+                  "mbid" : "40b8a690-94e4-4c82-ad0f-73f4b841e46a",
+                  "name" : "Agnostic Front",
+                  "sortName" : "Agnostic Front",
+                  "disambiguation" : "American hardcore punk band",
+                  "url" : "https://www.setlist.fm/setlists/agnostic-front-2bd6383e.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/eugene-hutz-and-sergey-ryabtsev/2024/beacon-theatre-new-york-ny-335ff841.html"
+   } ]
+}

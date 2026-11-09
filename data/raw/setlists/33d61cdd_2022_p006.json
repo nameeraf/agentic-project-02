@@ -1,0 +1,1387 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 268,
+   "setlist" : [ {
+      "id" : "33b18885",
+      "versionId" : "g2b9e44e6",
+      "eventDate" : "28-09-2022",
+      "lastUpdated" : "2023-07-13T19:52:33.481+0000",
+      "artist" : {
+         "mbid" : "21a89505-10a9-4ac0-8388-833bc07b9f86",
+         "name" : "Laufey",
+         "sortName" : "Laufey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laufey-4bf35b02.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Everything I Know About Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fragile"
+            }, {
+               "name" : "Beautiful Stranger"
+            }, {
+               "name" : "Best Friend"
+            }, {
+               "name" : "Like the Movies"
+            }, {
+               "name" : "Let You Break My Heart Again"
+            }, {
+               "name" : "Street by Street"
+            }, {
+               "name" : "Dance With You Tonight"
+            }, {
+               "name" : "Everything I Know About Love"
+            }, {
+               "name" : "Above the Chinese Restaurant"
+            }, {
+               "name" : "I Wish You Love",
+               "cover" : {
+                  "mbid" : "ca3f7a20-1bff-4404-8928-f8eedab1ab4a",
+                  "name" : "Keely Smith",
+                  "sortName" : "Smith, Keely",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/keely-smith-7bd65ab0.html"
+               }
+            }, {
+               "name" : "Dear Soulmate"
+            }, {
+               "name" : "Just Like Chet"
+            }, {
+               "name" : "James"
+            }, {
+               "name" : "Valentine"
+            }, {
+               "name" : "Falling Behind"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Magnolia"
+            }, {
+               "name" : "Moon River",
+               "cover" : {
+                  "mbid" : "83e71a21-caf7-4e48-8ff7-6512d51e88a3",
+                  "name" : "Henry Mancini",
+                  "sortName" : "Mancini, Henry",
+                  "disambiguation" : "US composer, conductor & arranger",
+                  "url" : "https://www.setlist.fm/setlists/henry-mancini-5bd6df6c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/laufey/2022/bowery-ballroom-new-york-ny-33b18885.html"
+   }, {
+      "id" : "33b1a4c9",
+      "versionId" : "g4b56a7f6",
+      "eventDate" : "25-09-2022",
+      "lastUpdated" : "2024-10-06T02:03:19.008+0000",
+      "artist" : {
+         "mbid" : "183d6ef6-e161-47ff-9085-063c8b897e97",
+         "name" : "They Might Be Giants",
+         "sortName" : "They Might Be Giants",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/they-might-be-giants-3bd6a404.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "30th Anniversary Flood Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set I",
+            "song" : [ {
+               "name" : "They Might Be Giants",
+               "tape" : true
+            }, {
+               "name" : "Synopsis for Latecomers"
+            }, {
+               "name" : "Letterbox"
+            }, {
+               "name" : "We Want a Rock",
+               "info" : "Sound tech fixes a clicking noise; next song delayed"
+            }, {
+               "name" : "Wicked Little Critta"
+            }, {
+               "name" : "Your Racist Friend"
+            }, {
+               "name" : "Someone Keeps Moving My Chair"
+            }, {
+               "name" : "Twisting"
+            }, {
+               "name" : "Let Me Tell You About My Operation"
+            }, {
+               "name" : "Particle Man"
+            }, {
+               "name" : "The Darlings of Lumberland"
+            }, {
+               "name" : "The Guitar"
+            }, {
+               "name" : "2082"
+            }, {
+               "name" : "Mink Car"
+            }, {
+               "name" : "Man, It's So Loud in Here"
+            }, {
+               "name" : "Don't Let's Start"
+            } ]
+         }, {
+            "name" : "Set II",
+            "song" : [ {
+               "name" : "Hearing Aid",
+               "tape" : true
+            }, {
+               "name" : "Sapphire Bullets of Pure Love",
+               "tape" : true,
+               "info" : "Reversed video of TMBG performing the song backwards"
+            }, {
+               "name" : "New York City",
+               "cover" : {
+                  "mbid" : "4e8ef969-bc70-4382-a098-e4f2ade95e33",
+                  "name" : "cub",
+                  "sortName" : "cub",
+                  "disambiguation" : "90s Vancouver indie rock band",
+                  "url" : "https://www.setlist.fm/setlists/cub-33d6908d.html"
+               }
+            }, {
+               "name" : "Ana Ng",
+               "info" : "Sound tech attempts to fix John Linnell's keyboard"
+            }, {
+               "name" : "Minimum Wage"
+            }, {
+               "name" : "Women & Men"
+            }, {
+               "name" : "Road Movie to Berlin"
+            }, {
+               "name" : "Whistling in the Dark"
+            }, {
+               "name" : "Doctor Worm"
+            }, {
+               "name" : "Lucky Ball and Chain"
+            }, {
+               "name" : "Spy"
+            }, {
+               "name" : "Hot Cha"
+            }, {
+               "name" : "Hey, Mr. DJ, I Thought You Said We Had a Deal"
+            }, {
+               "name" : "Theme From Flood"
+            }, {
+               "name" : "Birdhouse in Your Soul"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Dead"
+            }, {
+               "name" : "Istanbul (Not Constantinople)",
+               "cover" : {
+                  "mbid" : "5670e4ef-2ad4-4f17-b252-a00e2fbd336f",
+                  "name" : "The Four Lads",
+                  "sortName" : "Four Lads, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-four-lads-6bd7a6ea.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Dan Miller absent at this show. Frequent technical issues; all songs from Minimum Wage afterward featured John Linnell on accordion due to problems with his keyboard",
+      "url" : "https://www.setlist.fm/setlist/they-might-be-giants/2022/bowery-ballroom-new-york-ny-33b1a4c9.html"
+   }, {
+      "id" : "3b1b9b7",
+      "versionId" : "g4bfa77e6",
+      "eventDate" : "23-09-2022",
+      "lastUpdated" : "2022-09-24T04:19:38.682+0000",
+      "artist" : {
+         "mbid" : "99a01713-40bf-4c34-8b85-1f90431e2d8e",
+         "name" : "Sean Henry",
+         "sortName" : "Henry, Sean",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sean-henry-2bc128e2.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sean-henry/2022/bowery-ballroom-new-york-ny-3b1b9b7.html"
+   }, {
+      "id" : "3b1b973",
+      "versionId" : "g4bfa77ee",
+      "eventDate" : "23-09-2022",
+      "lastUpdated" : "2022-09-24T04:18:11.546+0000",
+      "artist" : {
+         "mbid" : "e5aa5d68-311e-435e-a143-68165adb05ca",
+         "name" : "Porridge Radio",
+         "sortName" : "Porridge Radio",
+         "disambiguation" : "British indie rock band",
+         "url" : "https://www.setlist.fm/setlists/porridge-radio-7bc13efc.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Waterside, Diving Board, Ladder to the Sky"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Born Confused"
+            }, {
+               "name" : "Give/Take"
+            }, {
+               "name" : "End of Last Year"
+            }, {
+               "name" : "Circling"
+            }, {
+               "name" : "Trying"
+            }, {
+               "name" : "Good for You"
+            }, {
+               "name" : "Splintered"
+            }, {
+               "name" : "Birthday Party"
+            }, {
+               "name" : "Jealousy"
+            }, {
+               "name" : "U Can Be Happy If U Want To"
+            }, {
+               "name" : "The Rip"
+            }, {
+               "name" : "Long"
+            }, {
+               "name" : "Back to the Radio"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "You Are a Runner and I Am My Father's Son",
+               "cover" : {
+                  "mbid" : "b7ddce8b-9e5c-46bd-9d33-41b134ce1a7f",
+                  "name" : "Wolf Parade",
+                  "sortName" : "Wolf Parade",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wolf-parade-5bd69b6c.html"
+               }
+            }, {
+               "name" : "Sweet"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/porridge-radio/2022/bowery-ballroom-new-york-ny-3b1b973.html"
+   }, {
+      "id" : "13b05121",
+      "versionId" : "g3e169bf",
+      "eventDate" : "20-09-2022",
+      "lastUpdated" : "2023-01-24T14:22:52.401+0000",
+      "artist" : {
+         "mbid" : "91f3671f-f231-423e-9a9d-b6c236f518c3",
+         "name" : "Charlotte Adigéry & Bolis Pupul",
+         "sortName" : "Adigéry, Charlotte & Bolis Pupul",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charlotte-adigery-and-bolis-pupul-3fecd07.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hey"
+            }, {
+               "name" : "1,618",
+               "cover" : {
+                  "mbid" : "602d121e-b374-405d-9d06-164be173eddd",
+                  "name" : "Charlotte Adigéry",
+                  "sortName" : "Adigéry, Charlotte",
+                  "disambiguation" : "Belgian singer",
+                  "url" : "https://www.setlist.fm/setlists/charlotte-adigery-2bc2586a.html"
+               }
+            }, {
+               "name" : "Blenda"
+            }, {
+               "name" : "High Lights",
+               "cover" : {
+                  "mbid" : "602d121e-b374-405d-9d06-164be173eddd",
+                  "name" : "Charlotte Adigéry",
+                  "sortName" : "Adigéry, Charlotte",
+                  "disambiguation" : "Belgian singer",
+                  "url" : "https://www.setlist.fm/setlists/charlotte-adigery-2bc2586a.html"
+               }
+            }, {
+               "name" : "Reappropriate"
+            }, {
+               "name" : "Making Sense Stop"
+            }, {
+               "name" : "Paténipat",
+               "cover" : {
+                  "mbid" : "602d121e-b374-405d-9d06-164be173eddd",
+                  "name" : "Charlotte Adigéry",
+                  "sortName" : "Adigéry, Charlotte",
+                  "disambiguation" : "Belgian singer",
+                  "url" : "https://www.setlist.fm/setlists/charlotte-adigery-2bc2586a.html"
+               }
+            }, {
+               "name" : "Ich Mwen"
+            }, {
+               "name" : "HAHA"
+            }, {
+               "name" : "It Hit Me"
+            }, {
+               "name" : "Mantra"
+            }, {
+               "name" : "Ceci n'est pas un cliché"
+            }, {
+               "name" : "Thank You",
+               "info" : "meant to be played as encore, but went straight into playing it due to overwhelming applause"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charlotte-adigery-and-bolis-pupul/2022/bowery-ballroom-new-york-ny-13b05121.html"
+   }, {
+      "id" : "2bb01832",
+      "versionId" : "g736c56a1",
+      "eventDate" : "17-09-2022",
+      "lastUpdated" : "2026-01-13T11:44:59.154+0000",
+      "artist" : {
+         "mbid" : "8577c385-d06a-4a64-b4e7-6ebf25f2cb20",
+         "name" : "The Dream Syndicate",
+         "sortName" : "Dream Syndicate, The",
+         "disambiguation" : "US alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/the-dream-syndicate-6bd686ce.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "40th Anniversary Tour - The Dream Syndicate Plays The Days Of Wine And Roses And More"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Still Here Now"
+            }, {
+               "name" : "Put Some Miles On"
+            }, {
+               "name" : "Where I'll Stand"
+            }, {
+               "name" : "Damian"
+            }, {
+               "name" : "Out of My Head"
+            }, {
+               "name" : "Black Light"
+            }, {
+               "name" : "Every Time You Come Around"
+            }, {
+               "name" : "Trying to Get Over"
+            }, {
+               "name" : "How Did I Find Myself Here"
+            }, {
+               "name" : "Glide"
+            }, {
+               "name" : "Tell Me When It's Over"
+            }, {
+               "name" : "Definitely Clean"
+            }, {
+               "name" : "That's What You Always Say"
+            }, {
+               "name" : "Then She Remembers"
+            }, {
+               "name" : "Halloween"
+            }, {
+               "name" : "When You Smile"
+            }, {
+               "name" : "Until Lately"
+            }, {
+               "name" : "Too Little, Too Late"
+            }, {
+               "name" : "The Days of Wine and Roses"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Season of the Witch",
+               "cover" : {
+                  "mbid" : "72d7d717-0837-4f2a-9641-d0f9fdd3acf7",
+                  "name" : "Donovan",
+                  "sortName" : "Donovan",
+                  "disambiguation" : "Scottish singer, songwriter and guitarist",
+                  "url" : "https://www.setlist.fm/setlists/donovan-6bd6e27a.html"
+               }
+            }, {
+               "name" : "Let It Rain",
+               "cover" : {
+                  "mbid" : "618b6900-0618-4f1e-b835-bccb17f84294",
+                  "name" : "Eric Clapton",
+                  "sortName" : "Clapton, Eric",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eric-clapton-1bd6ad58.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-dream-syndicate/2022/bowery-ballroom-new-york-ny-2bb01832.html"
+   }, {
+      "id" : "53b06fb5",
+      "versionId" : "g5b9c779c",
+      "eventDate" : "16-09-2022",
+      "lastUpdated" : "2023-07-29T19:34:15.140+0000",
+      "artist" : {
+         "mbid" : "b4246b6b-b1fd-4401-b438-d12f98e5e2a4",
+         "name" : "Tessa Violet",
+         "sortName" : "Violet, Tessa",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tessa-violet-3d21d7b.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Rise of the Phoenix Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Yes Mom"
+            }, {
+               "name" : "Breakdown"
+            }, {
+               "name" : "Bored"
+            }, {
+               "name" : "Bad Ideas"
+            }, {
+               "name" : "Hazeful Drinking",
+               "info" : "mashup"
+            }, {
+               "name" : "Cottage Song"
+            }, {
+               "name" : "I Like (the Idea of) You"
+            }, {
+               "name" : "Gummy",
+               "cover" : {
+                  "mbid" : "b8622a9e-d577-484c-9cd9-ba24ab1208e4",
+                  "name" : "Will Joseph Cook",
+                  "sortName" : "Cook, Will Joseph",
+                  "disambiguation" : "singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/will-joseph-cook-3c665cb.html"
+               },
+               "with" : {
+                  "mbid" : "b8622a9e-d577-484c-9cd9-ba24ab1208e4",
+                  "name" : "Will Joseph Cook",
+                  "sortName" : "Cook, Will Joseph",
+                  "disambiguation" : "singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/will-joseph-cook-3c665cb.html"
+               }
+            }, {
+               "name" : "Smoke Signals",
+               "cover" : {
+                  "mbid" : "7999a8a1-6cbd-4453-8dd4-ebd03a10e44f",
+                  "name" : "Cavetown",
+                  "sortName" : "Cavetown",
+                  "disambiguation" : "English singer",
+                  "url" : "https://www.setlist.fm/setlists/cavetown-3bcab00c.html"
+               }
+            }, {
+               "name" : "Games"
+            }, {
+               "name" : "Honest"
+            }, {
+               "name" : "Bad Bitch"
+            }, {
+               "name" : "Kitchen Song (voice memo)"
+            }, {
+               "name" : "Kitchen Song"
+            }, {
+               "name" : "Crush"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Middle",
+               "cover" : {
+                  "mbid" : "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+                  "name" : "Jimmy Eat World",
+                  "sortName" : "Jimmy Eat World",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-eat-world-5bd69b28.html"
+               }
+            }, {
+               "name" : "American Idiot",
+               "cover" : {
+                  "mbid" : "084308bd-1654-436f-ba03-df6697104e19",
+                  "name" : "Green Day",
+                  "sortName" : "Green Day",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/green-day-13d68939.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tessa-violet/2022/bowery-ballroom-new-york-ny-53b06fb5.html"
+   }, {
+      "id" : "53b06fa1",
+      "versionId" : "g23fad817",
+      "eventDate" : "16-09-2022",
+      "lastUpdated" : "2022-09-20T13:54:26.511+0000",
+      "artist" : {
+         "mbid" : "b8622a9e-d577-484c-9cd9-ba24ab1208e4",
+         "name" : "Will Joseph Cook",
+         "sortName" : "Cook, Will Joseph",
+         "disambiguation" : "singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/will-joseph-cook-3c665cb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Every Single Thing"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Be Around Me"
+            }, {
+               "name" : "Little Miss"
+            }, {
+               "name" : "Kisses"
+            }, {
+               "name" : "Girls Like Me"
+            }, {
+               "name" : "10X More Fun"
+            }, {
+               "name" : "The Dragon"
+            }, {
+               "name" : "4AM"
+            }, {
+               "name" : "We Met on the Internet"
+            }, {
+               "name" : "Gummy"
+            }, {
+               "name" : "BOP"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/will-joseph-cook/2022/bowery-ballroom-new-york-ny-53b06fa1.html"
+   }, {
+      "id" : "4bb06fae",
+      "versionId" : "g1bfae594",
+      "eventDate" : "16-09-2022",
+      "lastUpdated" : "2022-09-20T01:06:35.784+0000",
+      "artist" : {
+         "mbid" : "4b26081f-5cde-4ead-b0e9-9d14b2cb6527",
+         "name" : "daysormay",
+         "sortName" : "daysormay",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/daysormay-13cbe925.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ego"
+            }, {
+               "name" : "Just Existing"
+            }, {
+               "name" : "25"
+            }, {
+               "name" : "Running"
+            }, {
+               "name" : "Satellite"
+            }, {
+               "name" : "Role Model"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/daysormay/2022/bowery-ballroom-new-york-ny-4bb06fae.html"
+   }, {
+      "id" : "5bb02fd0",
+      "versionId" : "g1bfd2178",
+      "eventDate" : "15-09-2022",
+      "lastUpdated" : "2022-09-13T05:09:22.088+0000",
+      "artist" : {
+         "mbid" : "df3e84e8-c3bc-4ab5-9995-d90da46b0b57",
+         "name" : "Princess Goes",
+         "sortName" : "Princess Goes",
+         "disambiguation" : "formerly \"Princess Goes to the Butterfly Museum\"",
+         "url" : "https://www.setlist.fm/setlists/princess-goes-13f5e945.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/princess-goes/2022/bowery-ballroom-new-york-ny-5bb02fd0.html"
+   }, {
+      "id" : "63ac2acf",
+      "versionId" : "g3bb6f45c",
+      "eventDate" : "14-09-2022",
+      "lastUpdated" : "2024-01-30T07:21:35.618+0000",
+      "artist" : {
+         "mbid" : "817bd61c-0008-48a6-aa79-6cf0d0123a3d",
+         "name" : "Ondara",
+         "sortName" : "Ondara",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ondara-2bd57ca2.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ondara/2022/bowery-ballroom-new-york-ny-63ac2acf.html"
+   }, {
+      "id" : "ba00d0e",
+      "versionId" : "g7b8162a0",
+      "eventDate" : "13-09-2022",
+      "lastUpdated" : "2023-11-11T03:26:57.180+0000",
+      "artist" : {
+         "mbid" : "0dae16a7-ca29-4472-9a35-cc5229ea908f",
+         "name" : "Lindsey Lomis",
+         "sortName" : "Lomis, Lindsey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lindsey-lomis-33fa009d.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Slow Motion"
+            }, {
+               "name" : "Simple Love"
+            }, {
+               "name" : "call me when you get home"
+            }, {
+               "name" : "save your breath"
+            }, {
+               "name" : "die with my friends"
+            }, {
+               "name" : "bones"
+            }, {
+               "name" : "DAYDREAMING"
+            }, {
+               "name" : "Watermelon Sugar",
+               "cover" : {
+                  "mbid" : "7eb1ce54-a355-41f9-8d68-e018b096d427",
+                  "name" : "Harry Styles",
+                  "sortName" : "Styles, Harry",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harry-styles-23d294a7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lindsey-lomis/2022/bowery-ballroom-new-york-ny-ba00d0e.html"
+   }, {
+      "id" : "1bb035dc",
+      "versionId" : "g7bfa5e94",
+      "eventDate" : "13-09-2022",
+      "lastUpdated" : "2022-09-25T02:13:21.873+0000",
+      "artist" : {
+         "mbid" : "cd3b292f-86bf-4f34-b938-da79242582d9",
+         "name" : "Joshua Bassett",
+         "sortName" : "Bassett, Joshua",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joshua-bassett-2bf4acc6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Joshua Bassett's Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Feel Something"
+            }, {
+               "name" : "Secret"
+            }, {
+               "name" : "Doppelgänger"
+            }, {
+               "name" : "LA"
+            }, {
+               "name" : "Used to It"
+            }, {
+               "name" : "Sweet Love"
+            }, {
+               "name" : "She Will Be Loved",
+               "cover" : {
+                  "mbid" : "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+                  "name" : "Maroon 5",
+                  "sortName" : "Maroon 5",
+                  "disambiguation" : "American pop rock band",
+                  "url" : "https://www.setlist.fm/setlists/maroon-5-4bd6bfea.html"
+               }
+            }, {
+               "name" : "Do It All Again"
+            }, {
+               "name" : "Finally Free"
+            }, {
+               "name" : "Only a Matter of Time"
+            }, {
+               "name" : "Sorry"
+            }, {
+               "name" : "Anyone Else"
+            }, {
+               "name" : "Heaven Is You"
+            }, {
+               "name" : "Lie Lie Lie"
+            }, {
+               "name" : "Common Sense"
+            }, {
+               "name" : "Smoke Slow"
+            }, {
+               "name" : "Lifeline"
+            }, {
+               "name" : "All in Due Time"
+            }, {
+               "name" : "Set Me Free"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joshua-bassett/2022/bowery-ballroom-new-york-ny-1bb035dc.html"
+   }, {
+      "id" : "13b0c9b5",
+      "versionId" : "g73fd1af5",
+      "eventDate" : "12-09-2022",
+      "lastUpdated" : "2022-09-13T18:01:31.455+0000",
+      "artist" : {
+         "mbid" : "cd3b292f-86bf-4f34-b938-da79242582d9",
+         "name" : "Joshua Bassett",
+         "sortName" : "Bassett, Joshua",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joshua-bassett-2bf4acc6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Joshua Bassett's Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Feel Something"
+            }, {
+               "name" : "Secret"
+            }, {
+               "name" : "Doppelgänger"
+            }, {
+               "name" : "LA"
+            }, {
+               "name" : "Used to It"
+            }, {
+               "name" : "Sweet Love"
+            }, {
+               "name" : "She Will Be Loved",
+               "cover" : {
+                  "mbid" : "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+                  "name" : "Maroon 5",
+                  "sortName" : "Maroon 5",
+                  "disambiguation" : "American pop rock band",
+                  "url" : "https://www.setlist.fm/setlists/maroon-5-4bd6bfea.html"
+               }
+            }, {
+               "name" : "Do It All Again"
+            }, {
+               "name" : "Finally Free"
+            }, {
+               "name" : "Only a Matter of Time"
+            }, {
+               "name" : "Sorry"
+            }, {
+               "name" : "Anyone Else"
+            }, {
+               "name" : "Heaven Is You"
+            }, {
+               "name" : "Lie Lie Lie"
+            }, {
+               "name" : "Common Sense"
+            }, {
+               "name" : "Smoke Slow",
+               "info" : "with elements of \" Iris\" by Goo Goo Dolls"
+            }, {
+               "name" : "Lifeline"
+            }, {
+               "name" : "All in Due Time"
+            }, {
+               "name" : "Set Me Free"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joshua-bassett/2022/bowery-ballroom-new-york-ny-13b0c9b5.html"
+   }, {
+      "id" : "5bb03b18",
+      "versionId" : "g63fdcee7",
+      "eventDate" : "11-09-2022",
+      "lastUpdated" : "2022-09-11T22:11:20.488+0000",
+      "artist" : {
+         "mbid" : "072d4c31-8fd7-4073-9efc-7e192b517906",
+         "name" : "The Joy Formidable",
+         "sortName" : "Joy Formidable, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-joy-formidable-4bd767e6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-joy-formidable/2022/bowery-ballroom-new-york-ny-5bb03b18.html"
+   }, {
+      "id" : "43b03b1f",
+      "versionId" : "g5b9027a8",
+      "eventDate" : "11-09-2022",
+      "lastUpdated" : "2023-06-22T17:34:11.932+0000",
+      "artist" : {
+         "mbid" : "072d4c31-8fd7-4073-9efc-7e192b517906",
+         "name" : "The Joy Formidable",
+         "sortName" : "Joy Formidable, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-joy-formidable-4bd767e6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Greatest Light Is the Greatest Shade"
+            }, {
+               "name" : "Cradle"
+            }, {
+               "name" : "Y Bluen Eira"
+            }, {
+               "name" : "Ostrich"
+            }, {
+               "name" : "CSTS"
+            }, {
+               "name" : "Into the Blue"
+            }, {
+               "name" : "Austere"
+            }, {
+               "name" : "Sevier"
+            }, {
+               "name" : "Gotta Feed My Dog"
+            }, {
+               "name" : "Silent Treatment"
+            }, {
+               "name" : "The Everchanging Spectrum of a Lie"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Y Garreg Ateb"
+            }, {
+               "name" : "Whirring"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-joy-formidable/2022/bowery-ballroom-new-york-ny-43b03b1f.html"
+   }, {
+      "id" : "1bb03548",
+      "versionId" : "g73fdc679",
+      "eventDate" : "11-09-2022",
+      "lastUpdated" : "2022-09-12T04:07:57.598+0000",
+      "artist" : {
+         "mbid" : "7da49df9-13ff-458a-97f3-1dfc6fad84b6",
+         "name" : "Tres Leches",
+         "sortName" : "Tres Leches",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tres-leches-bc071d6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bad Kid"
+            }, {
+               "name" : "Strangest of Friends"
+            }, {
+               "name" : "Doing What Are You/What Are You Doing"
+            }, {
+               "name" : "Fireworks"
+            }, {
+               "name" : "Two Fifty"
+            }, {
+               "name" : "Nieve"
+            }, {
+               "name" : "Leaving My Light On"
+            }, {
+               "name" : "Nueva York"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tres-leches/2022/bowery-ballroom-new-york-ny-1bb03548.html"
+   }, {
+      "id" : "bb0390e",
+      "versionId" : "g1bfa2d20",
+      "eventDate" : "10-09-2022",
+      "lastUpdated" : "2022-09-22T01:52:31.766+0000",
+      "artist" : {
+         "mbid" : "677e31f1-4035-463c-8ca4-41175440c919",
+         "name" : "Ethel Cain",
+         "sortName" : "Cain, Ethel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ethel-cain-23f2fcbb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "The Freezer Bride Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Strangers"
+            }, {
+               "name" : "American Teenager"
+            }, {
+               "name" : "A House in Nebraska"
+            }, {
+               "name" : "Family Tree"
+            }, {
+               "name" : "Thoroughfare"
+            }, {
+               "name" : "Crying During Sex"
+            }, {
+               "name" : "Gibson Girl"
+            }, {
+               "name" : "Crush"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sun Bleached Flies"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ethel-cain/2022/bowery-ballroom-new-york-ny-bb0390e.html"
+   }, {
+      "id" : "4bb0cb72",
+      "versionId" : "g23fd8097",
+      "eventDate" : "09-09-2022",
+      "lastUpdated" : "2022-09-10T04:49:26.285+0000",
+      "artist" : {
+         "mbid" : "677e31f1-4035-463c-8ca4-41175440c919",
+         "name" : "Ethel Cain",
+         "sortName" : "Cain, Ethel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ethel-cain-23f2fcbb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "The Freezer Bride Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Strangers"
+            }, {
+               "name" : "American Teenager"
+            }, {
+               "name" : "A House in Nebraska"
+            }, {
+               "name" : "Family Tree"
+            }, {
+               "name" : "Thoroughfare"
+            }, {
+               "name" : "Crying During Sex"
+            }, {
+               "name" : "Gibson Girl"
+            }, {
+               "name" : "Crush"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sun Bleached Flies"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ethel-cain/2022/bowery-ballroom-new-york-ny-4bb0cb72.html"
+   }, {
+      "id" : "5bb0f7dc",
+      "versionId" : "g33fc6419",
+      "eventDate" : "05-09-2022",
+      "lastUpdated" : "2022-09-06T04:03:09.218+0000",
+      "artist" : {
+         "mbid" : "4424a6e5-5232-4410-b1f0-b8b510d31ffd",
+         "name" : "Horsegirl",
+         "sortName" : "Horsegirl",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/horsegirl-63f3561b.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Electrolocation 2"
+            }, {
+               "name" : "World of Pots and Pans"
+            }, {
+               "name" : "Ballroom Dance Scene"
+            }, {
+               "name" : "Homage to Birdnoculars"
+            }, {
+               "name" : "Option 8"
+            }, {
+               "name" : "Anti-glory"
+            }, {
+               "name" : "Live and Ski"
+            }, {
+               "name" : "Sea Life Sandwich Boy"
+            }, {
+               "name" : "Beautiful Song"
+            }, {
+               "name" : "Billy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/horsegirl/2022/bowery-ballroom-new-york-ny-5bb0f7dc.html"
+   } ]
+}

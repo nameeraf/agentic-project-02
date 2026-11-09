@@ -1,0 +1,567 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 129,
+   "setlist" : [ {
+      "id" : "33a924dd",
+      "versionId" : "g6bbb86ca",
+      "eventDate" : "11-05-2024",
+      "lastUpdated" : "2024-05-17T01:18:47.142+0000",
+      "artist" : {
+         "mbid" : "e0eca4fb-9977-43e6-a61a-405f905a34aa",
+         "name" : "Pink Siifu",
+         "sortName" : "Pink Siifu",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pink-siifu-2bcdfca2.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "BACK’!"
+            }, {
+               "name" : "Fk U Mean/ Hold me Dwn"
+            }, {
+               "name" : "the rotation",
+               "cover" : {
+                  "mbid" : "47650599-3426-491b-85e5-2104545f3099",
+                  "name" : "lojii",
+                  "sortName" : "lojii",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lojii-23c0c027.html"
+               },
+               "with" : {
+                  "mbid" : "47650599-3426-491b-85e5-2104545f3099",
+                  "name" : "lojii",
+                  "sortName" : "lojii",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lojii-23c0c027.html"
+               }
+            }, {
+               "name" : "Sardonyx",
+               "cover" : {
+                  "mbid" : "1206c904-9282-494d-b9c7-49e8fb201e69",
+                  "name" : "Elucid",
+                  "sortName" : "Elucid",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/elucid-3d0a1ab.html"
+               },
+               "info" : "With Elucid, billy woods, Quelle Chris"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/pink-siifu/2024/the-rooftop-at-pier-17-new-york-ny-33a924dd.html"
+   }, {
+      "id" : "33a92445",
+      "versionId" : "g33ba7c51",
+      "eventDate" : "11-05-2024",
+      "lastUpdated" : "2024-05-12T23:17:05.901+0000",
+      "artist" : {
+         "mbid" : "2cb07f9e-b600-4e9a-aa96-8822bbfc71d6",
+         "name" : "Freddie Gibbs & Madlib",
+         "sortName" : "Gibbs, Freddie & Madlib",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/freddie-gibbs-and-madlib-33d02065.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Supplier"
+            }, {
+               "name" : "Scarface"
+            }, {
+               "name" : "Deeper"
+            }, {
+               "name" : "High"
+            }, {
+               "name" : "Harold's"
+            }, {
+               "name" : "You Know What Today Is"
+            }, {
+               "name" : "Shitsville"
+            }, {
+               "name" : "Robes"
+            }, {
+               "name" : "Knicks"
+            }, {
+               "name" : "Palmolive"
+            }, {
+               "name" : "Thuggin'"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Gat Damn"
+            }, {
+               "name" : "Crime Pays"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/freddie-gibbs-and-madlib/2024/the-rooftop-at-pier-17-new-york-ny-33a92445.html"
+   }, {
+      "id" : "63abbaf3",
+      "versionId" : "gbbac13e",
+      "eventDate" : "08-05-2024",
+      "lastUpdated" : "2024-05-10T15:42:26.036+0000",
+      "artist" : {
+         "mbid" : "149e6720-4e4a-41a4-afca-6d29083fc091",
+         "name" : "Bad Religion",
+         "sortName" : "Bad Religion",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "North America 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Defense"
+            }, {
+               "name" : "No Control"
+            }, {
+               "name" : "Leave Mine to Me"
+            }, {
+               "name" : "Suffer"
+            }, {
+               "name" : "Anesthesia"
+            }, {
+               "name" : "Fuck You"
+            }, {
+               "name" : "Beyond Electric Dreams",
+               "info" : "tour debut"
+            }, {
+               "name" : "Recipe for Hate"
+            }, {
+               "name" : "Drunk Sincerity"
+            }, {
+               "name" : "I Want to Conquer the World"
+            }, {
+               "name" : "21st Century (Digital Boy)"
+            }, {
+               "name" : "New Dark Ages"
+            }, {
+               "name" : "Struck a Nerve"
+            }, {
+               "name" : "Do What You Want"
+            }, {
+               "name" : "My Sanity"
+            }, {
+               "name" : "Lookin' In"
+            }, {
+               "name" : "Generator",
+               "info" : "Slow \"Festival\" Opening"
+            }, {
+               "name" : "Sorrow"
+            }, {
+               "name" : "You"
+            }, {
+               "name" : "Fuck Armageddon... This Is Hell"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Los Angeles Is Burning"
+            }, {
+               "name" : "American Jesus",
+               "info" : "with instrumental verse of Thin Lizzy's \"The Boys Are Back In Town\""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bad-religion/2024/the-rooftop-at-pier-17-new-york-ny-63abbaf3.html"
+   }, {
+      "id" : "5ba8ff54",
+      "versionId" : "g4bbfd706",
+      "eventDate" : "08-05-2024",
+      "lastUpdated" : "2024-04-16T17:42:37.511+0000",
+      "artist" : {
+         "mbid" : "21977ded-d8cd-4d5d-bbb8-d6079b3e0867",
+         "name" : "Lovecrimes",
+         "sortName" : "Lovecrimes",
+         "disambiguation" : "Punk band formed by Mike Ness's son Julian",
+         "url" : "https://www.setlist.fm/setlists/lovecrimes-5be41304.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lovecrimes/2024/the-rooftop-at-pier-17-new-york-ny-5ba8ff54.html"
+   }, {
+      "id" : "4babbb9a",
+      "versionId" : "g4bba1b8e",
+      "eventDate" : "08-05-2024",
+      "lastUpdated" : "2024-05-12T01:32:50.365+0000",
+      "artist" : {
+         "mbid" : "e1e05cce-3922-44e1-8f20-015abe5e309d",
+         "name" : "Social Distortion",
+         "sortName" : "Social Distortion",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/social-distortion-6bd68aa6.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bad Luck"
+            }, {
+               "name" : "Through These Eyes"
+            }, {
+               "name" : "I Wasn't Born to Follow"
+            }, {
+               "name" : "Tonight"
+            }, {
+               "name" : "Mommy's Little Monster"
+            }, {
+               "name" : "The Creeps"
+            }, {
+               "name" : "Hour of Darkness"
+            }, {
+               "name" : "1945"
+            }, {
+               "name" : "Over You"
+            }, {
+               "name" : "Warn Me"
+            }, {
+               "name" : "Reach for the Sky"
+            }, {
+               "name" : "Ball and Chain"
+            }, {
+               "name" : "Born to Kill"
+            }, {
+               "name" : "Ring of Fire",
+               "cover" : {
+                  "mbid" : "ffd239cd-82c0-4a09-a949-8d664c34d581",
+                  "name" : "Merle Kilgore",
+                  "sortName" : "Kilgore, Merle",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/merle-kilgore-6bd7ca46.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/social-distortion/2024/the-rooftop-at-pier-17-new-york-ny-4babbb9a.html"
+   }, {
+      "id" : "53533f49",
+      "versionId" : "g53a8ef0d",
+      "eventDate" : "05-05-2024",
+      "lastUpdated" : "2024-09-22T02:56:04.223+0000",
+      "artist" : {
+         "mbid" : "c5c2f1bb-09db-429f-8f77-ed9dfe39a36b",
+         "name" : "NEEDTOBREATHE",
+         "sortName" : "NEEDTOBREATHE",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/needtobreathe-43d6230b.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Caves World Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/needtobreathe/2024/the-rooftop-at-pier-17-new-york-ny-53533f49.html"
+   }, {
+      "id" : "6babbafa",
+      "versionId" : "g13bd5ddd",
+      "eventDate" : "04-05-2024",
+      "lastUpdated" : "2024-05-06T02:10:48.592+0000",
+      "artist" : {
+         "mbid" : "149e6720-4e4a-41a4-afca-6d29083fc091",
+         "name" : "Bad Religion",
+         "sortName" : "Bad Religion",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "North America 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Defense"
+            }, {
+               "name" : "Los Angeles Is Burning"
+            }, {
+               "name" : "Only Rain"
+            }, {
+               "name" : "Stranger Than Fiction"
+            }, {
+               "name" : "Fuck You"
+            }, {
+               "name" : "Wrong Way Kids"
+            }, {
+               "name" : "Struck a Nerve"
+            }, {
+               "name" : "Anesthesia"
+            }, {
+               "name" : "Come Join Us"
+            }, {
+               "name" : "I Want to Conquer the World"
+            }, {
+               "name" : "21st Century (Digital Boy)"
+            }, {
+               "name" : "New Dark Ages"
+            }, {
+               "name" : "Man With a Mission"
+            }, {
+               "name" : "Do What You Want"
+            }, {
+               "name" : "Dearly Beloved"
+            }, {
+               "name" : "Infected"
+            }, {
+               "name" : "Skyscraper"
+            }, {
+               "name" : "We're Only Gonna Die"
+            }, {
+               "name" : "Generator"
+            }, {
+               "name" : "Sorrow"
+            }, {
+               "name" : "You"
+            }, {
+               "name" : "American Jesus"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bad-religion/2024/the-rooftop-at-pier-17-new-york-ny-6babbafa.html"
+   }, {
+      "id" : "53abbbad",
+      "versionId" : "g4bbb0742",
+      "eventDate" : "04-05-2024",
+      "lastUpdated" : "2024-05-21T04:56:25.476+0000",
+      "artist" : {
+         "mbid" : "e1e05cce-3922-44e1-8f20-015abe5e309d",
+         "name" : "Social Distortion",
+         "sortName" : "Social Distortion",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/social-distortion-6bd68aa6.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bad Luck"
+            }, {
+               "name" : "Through These Eyes"
+            }, {
+               "name" : "I Wasn't Born to Follow"
+            }, {
+               "name" : "Tonight"
+            }, {
+               "name" : "Cold Feelings"
+            }, {
+               "name" : "Mommy's Little Monster"
+            }, {
+               "name" : "The Creeps"
+            }, {
+               "name" : "Hour of Darkness"
+            }, {
+               "name" : "1945"
+            }, {
+               "name" : "Over You"
+            }, {
+               "name" : "Reach for the Sky"
+            }, {
+               "name" : "Warn Me"
+            }, {
+               "name" : "Ball and Chain"
+            }, {
+               "name" : "Ring of Fire",
+               "cover" : {
+                  "mbid" : "ffd239cd-82c0-4a09-a949-8d664c34d581",
+                  "name" : "Merle Kilgore",
+                  "sortName" : "Kilgore, Merle",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/merle-kilgore-6bd7ca46.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/social-distortion/2024/the-rooftop-at-pier-17-new-york-ny-53abbbad.html"
+   }, {
+      "id" : "53a8ff5d",
+      "versionId" : "g5bbfd710",
+      "eventDate" : "04-05-2024",
+      "lastUpdated" : "2024-04-16T17:39:40.045+0000",
+      "artist" : {
+         "mbid" : "21977ded-d8cd-4d5d-bbb8-d6079b3e0867",
+         "name" : "Lovecrimes",
+         "sortName" : "Lovecrimes",
+         "disambiguation" : "Punk band formed by Mike Ness's son Julian",
+         "url" : "https://www.setlist.fm/setlists/lovecrimes-5be41304.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lovecrimes/2024/the-rooftop-at-pier-17-new-york-ny-53a8ff5d.html"
+   } ]
+}

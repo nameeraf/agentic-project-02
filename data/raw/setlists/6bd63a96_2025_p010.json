@@ -1,0 +1,960 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 10,
+   "total" : 196,
+   "setlist" : [ {
+      "id" : "3358906d",
+      "versionId" : "g3342b82d",
+      "eventDate" : "11-03-2025",
+      "lastUpdated" : "2025-03-12T14:36:23.198+0000",
+      "artist" : {
+         "mbid" : "2f82270c-a4a1-4376-802c-d24aabe1ee88",
+         "name" : "Sarah Julia",
+         "sortName" : "Sarah Julia",
+         "disambiguation" : "Amsterdam based duo",
+         "url" : "https://www.setlist.fm/setlists/sarah-julia-23e7742f.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Use A Friend"
+            }, {
+               "name" : "Conspiracy Theorist"
+            }, {
+               "name" : "Daughters"
+            }, {
+               "name" : "Game of Pretend"
+            }, {
+               "name" : "Amsterdam"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sarah-julia/2025/webster-hall-new-york-ny-3358906d.html"
+   }, {
+      "id" : "2b436092",
+      "versionId" : "g1b7f99e8",
+      "eventDate" : "07-03-2025",
+      "lastUpdated" : "2025-08-20T21:22:43.956+0000",
+      "artist" : {
+         "mbid" : "0a7920d5-135b-4bca-885c-ebd79f0d5d9f",
+         "name" : "Vansire",
+         "sortName" : "Vansire",
+         "disambiguation" : "Dream pop project of Josh Augustin and Sam Winemiller from Rochester, Minnesota",
+         "url" : "https://www.setlist.fm/setlists/vansire-5bce4360.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Latter Teens"
+            }, {
+               "name" : "Every Time Around"
+            }, {
+               "name" : "Eleven Weeks"
+            }, {
+               "name" : "Just the Right Song"
+            }, {
+               "name" : "Bushwick Cowboy"
+            }, {
+               "name" : "A Long Drive Back"
+            }, {
+               "name" : "Part of the Dream"
+            }, {
+               "name" : "Years Roll By"
+            }, {
+               "name" : "Pier 4",
+               "cover" : {
+                  "mbid" : "d786f59b-1836-4ddb-8393-ab753edbe984",
+                  "name" : "Clairo",
+                  "sortName" : "Clairo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/clairo-bccddf2.html"
+               }
+            }, {
+               "name" : "Evening Light"
+            }, {
+               "name" : "Don't Think Twice, It's Alright"
+            }, {
+               "name" : "From the Subway Train"
+            }, {
+               "name" : "Nosebleed Seats"
+            }, {
+               "name" : "That I Miss You"
+            }, {
+               "name" : "Love You All the Same"
+            }, {
+               "name" : "From Your Own Eyes"
+            }, {
+               "name" : "Metamodernity"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Halcyon Age"
+            }, {
+               "name" : "The Weight",
+               "cover" : {
+                  "mbid" : "8c90ad8c-9150-4c51-a1eb-342232e99d06",
+                  "name" : "The Band",
+                  "sortName" : "Band, The",
+                  "disambiguation" : "Canadian-American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-band-3d6ad4b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vansire/2025/webster-hall-new-york-ny-2b436092.html"
+   }, {
+      "id" : "535b7f2d",
+      "versionId" : "g6b45ae2a",
+      "eventDate" : "01-03-2025",
+      "lastUpdated" : "2025-03-04T05:53:45.934+0000",
+      "artist" : {
+         "mbid" : "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+         "name" : "Suki Waterhouse",
+         "sortName" : "Waterhouse, Suki",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/suki-waterhouse-33f0e891.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gateway Drug"
+            }, {
+               "name" : "Supersad"
+            }, {
+               "name" : "OMG"
+            }, {
+               "name" : "Johanna",
+               "info" : "With fan on stage"
+            }, {
+               "name" : "The Devil I Know"
+            }, {
+               "name" : "Blackout Drunk"
+            }, {
+               "name" : "Dream Woman",
+               "info" : "Live Debut"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/suki-waterhouse/2025/webster-hall-new-york-ny-535b7f2d.html"
+   }, {
+      "id" : "b5a4d3e",
+      "versionId" : "g4b46cfee",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-02-15T10:04:20.189+0000",
+      "artist" : {
+         "mbid" : "16494860-2211-4128-ba61-e9d09029ca51",
+         "name" : "Akira Galaxy",
+         "sortName" : "Akira Galaxy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/akira-galaxy-33e614b5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "What's Inside You"
+            }, {
+               "name" : "Hit the Ground"
+            }, {
+               "name" : "Wanna Be a Star"
+            }, {
+               "name" : "Silver Shoes"
+            }, {
+               "name" : "Cosmic / Teardrop",
+               "cover" : {
+                  "mbid" : "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+                  "name" : "Massive Attack",
+                  "sortName" : "Massive Attack",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/massive-attack-4bd6abda.html"
+               }
+            }, {
+               "name" : "Flip the Sky"
+            }, {
+               "name" : "Human"
+            }, {
+               "name" : "Virtual Eyes"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/akira-galaxy/2025/webster-hall-new-york-ny-b5a4d3e.html"
+   }, {
+      "id" : "23505ceb",
+      "versionId" : "g7b4d3e20",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-05-10T03:00:50.029+0000",
+      "artist" : {
+         "mbid" : "22a40b75-affc-4e69-8884-266d087e4751",
+         "name" : "Travis",
+         "sortName" : "Travis",
+         "disambiguation" : "Scottish alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/travis-1bd6bd10.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Raze the Bar"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bus"
+            }, {
+               "name" : "Driftwood"
+            }, {
+               "name" : "Pipe Dreams"
+            }, {
+               "name" : "Alive"
+            }, {
+               "name" : "Good Feeling"
+            }, {
+               "name" : "Writing to Reach You"
+            }, {
+               "name" : "Re-Offender"
+            }, {
+               "name" : "A Ghost"
+            }, {
+               "name" : "Side"
+            }, {
+               "name" : "Closer"
+            }, {
+               "name" : "Sing"
+            }, {
+               "name" : "Selfish Jean"
+            }, {
+               "name" : "Raze the Bar"
+            }, {
+               "name" : "Gaslight"
+            }, {
+               "name" : "Naked in New York City"
+            }, {
+               "name" : "Turn"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Beautiful Occupation"
+            }, {
+               "name" : "U16 Girls"
+            }, {
+               "name" : "As You Are"
+            }, {
+               "name" : "Flowers in the Window"
+            }, {
+               "name" : "Why Does It Always Rain on Me?"
+            } ]
+         } ]
+      },
+      "info" : "VIP Soundcheck performance: \"The Beautiful Occupation\", \"Falling Down\", \"My Eyes\", and \"Bus\"",
+      "url" : "https://www.setlist.fm/setlist/travis/2025/webster-hall-new-york-ny-23505ceb.html"
+   }, {
+      "id" : "5b5f2fa8",
+      "versionId" : "gb46293e",
+      "eventDate" : "13-02-2025",
+      "lastUpdated" : "2025-02-16T12:22:51.845+0000",
+      "artist" : {
+         "mbid" : "a3de3425-e96b-4857-a35c-e949fab8d80b",
+         "name" : "Lauren Mayberry",
+         "sortName" : "Mayberry, Lauren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lauren-mayberry-1bdd8dd0.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Vicious Creature"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Liability Waiver",
+               "tape" : true
+            }, {
+               "name" : "Crocodile Tears",
+               "info" : "extended intro"
+            }, {
+               "name" : "Change Shapes"
+            }, {
+               "name" : "Mantra"
+            }, {
+               "name" : "Shame"
+            }, {
+               "name" : "Anywhere but Dancing"
+            }, {
+               "name" : "Punch Drunk"
+            }, {
+               "name" : "Something in the Air",
+               "info" : "extended intro"
+            }, {
+               "name" : "Are You Awake?"
+            }, {
+               "name" : "Bitter Sweet Symphony",
+               "cover" : {
+                  "mbid" : "d4d17620-fd97-4574-92a8-a2cb7e72ce42",
+                  "name" : "The Verve",
+                  "sortName" : "Verve, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-verve-bd6bd5a.html"
+               }
+            }, {
+               "name" : "A Work of Fiction"
+            }, {
+               "name" : "Sorry, Etc"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Oh, Mother"
+            }, {
+               "name" : "Sunday Best"
+            } ]
+         } ]
+      },
+      "info" : "Acoustic VIP performance: \"Anywhere but Dancing\", \"Crocodile Tears\".",
+      "url" : "https://www.setlist.fm/setlist/lauren-mayberry/2025/webster-hall-new-york-ny-5b5f2fa8.html"
+   }, {
+      "id" : "235a583b",
+      "versionId" : "g5347d325",
+      "eventDate" : "13-02-2025",
+      "lastUpdated" : "2025-02-21T05:36:26.808+0000",
+      "artist" : {
+         "mbid" : "55f124af-6b80-4438-9228-57397b95a89a",
+         "name" : "Cult of Venus",
+         "sortName" : "Cult of Venus",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cult-of-venus-1be161cc.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opening for Lauren Mayberry",
+      "url" : "https://www.setlist.fm/setlist/cult-of-venus/2025/webster-hall-new-york-ny-235a583b.html"
+   }, {
+      "id" : "1b5a511c",
+      "versionId" : "g1346e1d1",
+      "eventDate" : "10-02-2025",
+      "lastUpdated" : "2025-02-14T16:46:16.497+0000",
+      "artist" : {
+         "mbid" : "f18e8ddd-8c16-4591-a2f9-65429bade3f7",
+         "name" : "Nemahsis",
+         "sortName" : "Nemahsis",
+         "disambiguation" : "Palestinian-Canadian artist based in Toronto",
+         "url" : "https://www.setlist.fm/setlists/nemahsis-4bfee372.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nemahsis/2025/webster-hall-new-york-ny-1b5a511c.html"
+   }, {
+      "id" : "4b5a1f12",
+      "versionId" : "g6b59124e",
+      "eventDate" : "08-02-2025",
+      "lastUpdated" : "2025-02-09T05:06:24.970+0000",
+      "artist" : {
+         "mbid" : "e94d59fd-177a-4a79-85ba-0632207b134b",
+         "name" : "Rubblebucket",
+         "sortName" : "Rubblebucket",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rubblebucket-63d2facb.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Stella The Begonia"
+            }, {
+               "name" : "Moving Without Touching"
+            }, {
+               "name" : "Morning Glory Blanket"
+            }, {
+               "name" : "Donna"
+            }, {
+               "name" : "Rattlesnake"
+            }, {
+               "name" : "Lemonade"
+            }, {
+               "name" : "Go All the Way With Me"
+            }, {
+               "name" : "Boomerang"
+            }, {
+               "name" : "Sweet Spot"
+            }, {
+               "name" : "Geometry"
+            }, {
+               "name" : "Came Out of a Lady"
+            }, {
+               "name" : "The Sorrow That Comes With Loving You"
+            }, {
+               "name" : "Party Like Your Heart Hurts"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Forest Bathing"
+            }, {
+               "name" : "Anyone Else but You",
+               "cover" : {
+                  "mbid" : "6830e150-6233-4255-ab97-6e2e38759637",
+                  "name" : "The Moldy Peaches",
+                  "sortName" : "Moldy Peaches, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-moldy-peaches-13d60919.html"
+               },
+               "with" : {
+                  "mbid" : "150e799b-3244-45d9-a6cb-5a3e8c33d430",
+                  "name" : "Adam Green",
+                  "sortName" : "Green, Adam",
+                  "disambiguation" : "singer-songwriter; the Moldy Peaches",
+                  "url" : "https://www.setlist.fm/setlists/adam-green-bd6091a.html"
+               }
+            }, {
+               "name" : "Fruity"
+            }, {
+               "name" : "Carousel Ride"
+            }, {
+               "name" : "Go All the Way With Me (Reprise)",
+               "info" : "Played in the crowd followed by a march to the merch stand"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rubblebucket/2025/webster-hall-new-york-ny-4b5a1f12.html"
+   }, {
+      "id" : "335ba899",
+      "versionId" : "g73467ac9",
+      "eventDate" : "07-02-2025",
+      "lastUpdated" : "2025-02-17T22:46:00.424+0000",
+      "artist" : {
+         "mbid" : "f8435d8e-e0c3-402f-911a-59722711fd44",
+         "name" : "HAYLA",
+         "sortName" : "Hayla",
+         "disambiguation" : "British singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/hayla-5bd81758.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hayla/2025/webster-hall-new-york-ny-335ba899.html"
+   }, {
+      "id" : "235ea437",
+      "versionId" : "g1344b1f1",
+      "eventDate" : "01-02-2025",
+      "lastUpdated" : "2025-02-24T12:25:03.593+0000",
+      "artist" : {
+         "mbid" : "3050d86c-16d3-4851-b456-05a45a41aabd",
+         "name" : "Ben Barnes",
+         "sortName" : "Barnes, Ben",
+         "disambiguation" : "British actor",
+         "url" : "https://www.setlist.fm/setlists/ben-barnes-13dbc5fd.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Beloved"
+            }, {
+               "name" : "Nevermind"
+            }, {
+               "name" : "Where the Light Gets In"
+            }, {
+               "name" : "Stolen Time"
+            }, {
+               "name" : "Pirate Song"
+            }, {
+               "name" : "River",
+               "cover" : {
+                  "mbid" : "ee0c82bb-85ca-4a3c-94b8-d7221e74333f",
+                  "name" : "Bishop Briggs",
+                  "sortName" : "Bishop Briggs",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bishop-briggs-4bc3fbfa.html"
+               }
+            }, {
+               "name" : "Slow It Down"
+            }, {
+               "name" : "Ordinary Day"
+            }, {
+               "name" : "The In Between"
+            }, {
+               "name" : "Take Me to the Moon"
+            }, {
+               "name" : "One Minute More",
+               "info" : "special guest Andrew Barth Feldman"
+            }, {
+               "name" : "Rise Up"
+            }, {
+               "name" : "Three New Hearts"
+            }, {
+               "name" : "Jealous Guy",
+               "cover" : {
+                  "mbid" : "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "name" : "John Lennon",
+                  "sortName" : "Lennon, John",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/john-lennon-33d68875.html"
+               }
+            }, {
+               "name" : "You've Got a Friend in Me",
+               "cover" : {
+                  "mbid" : "da7bb7d8-557d-4635-9ca1-e6e985525bd5",
+                  "name" : "Randy Newman",
+                  "sortName" : "Newman, Randy",
+                  "disambiguation" : "American singer‐songwriter and score composer",
+                  "url" : "https://www.setlist.fm/setlists/randy-newman-63d68ac3.html"
+               }
+            }, {
+               "name" : "Someday"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "11:11"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ben-barnes/2025/webster-hall-new-york-ny-235ea437.html"
+   }, {
+      "id" : "35aa15f",
+      "versionId" : "g358d9bf",
+      "eventDate" : "23-01-2025",
+      "lastUpdated" : "2025-01-29T03:49:03.999+0000",
+      "artist" : {
+         "mbid" : "35feae82-8b2c-4f8f-ae7a-af5662848947",
+         "name" : "Teddy Swims",
+         "sortName" : "Swims, Teddy",
+         "disambiguation" : "American singer and songwriter",
+         "url" : "https://www.setlist.fm/setlists/teddy-swims-43f4277f.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lose Control"
+            } ]
+         } ]
+      },
+      "info" : "Album release show for ' I’ve Tried Everything but Therapy (Pt 2)'. Proceeds donated to MusiCares. Selist incomplete and out of order.",
+      "url" : "https://www.setlist.fm/setlist/teddy-swims/2025/webster-hall-new-york-ny-35aa15f.html"
+   }, {
+      "id" : "335d304d",
+      "versionId" : "g3b7234c4",
+      "eventDate" : "17-01-2025",
+      "lastUpdated" : "2025-07-16T17:29:56.384+0000",
+      "artist" : {
+         "mbid" : "2f9db9dd-0733-411a-9dca-b88a2de9c086",
+         "name" : "The Elovaters",
+         "sortName" : "Elovaters, The",
+         "disambiguation" : "reggae band",
+         "url" : "https://www.setlist.fm/setlists/the-elovaters-3bf4c0cc.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "High Tide Low Ride"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Roll Up"
+            }, {
+               "name" : "Meridian"
+            }, {
+               "name" : "Shots Fired"
+            }, {
+               "name" : "Castaway"
+            }, {
+               "name" : "Wind on My Back"
+            }, {
+               "name" : "Criminal"
+            }, {
+               "name" : "Red Wine"
+            }, {
+               "name" : "All Her Favorite Songs"
+            }, {
+               "name" : "Endless Summer"
+            }, {
+               "name" : "Gimme Love"
+            }, {
+               "name" : "Live by the Day"
+            }, {
+               "name" : "Down the Road"
+            }, {
+               "name" : "Moon"
+            }, {
+               "name" : "Mind Bender"
+            }, {
+               "name" : "Sunlight"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Gardenia"
+            }, {
+               "name" : "Margaritas"
+            }, {
+               "name" : "Sky High"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-elovaters/2025/webster-hall-new-york-ny-335d304d.html"
+   }, {
+      "id" : "1b40c9a4",
+      "versionId" : "g237c7c43",
+      "eventDate" : "17-01-2025",
+      "lastUpdated" : "2025-09-03T03:35:59.285+0000",
+      "artist" : {
+         "mbid" : "c6828c82-48d6-44eb-907a-fc09fe1c107f",
+         "name" : "Wessanders",
+         "sortName" : "Wessanders",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wessanders-2bf1f022.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wessanders/2025/webster-hall-new-york-ny-1b40c9a4.html"
+   }, {
+      "id" : "135d1149",
+      "versionId" : "g3345dc39",
+      "eventDate" : "17-01-2025",
+      "lastUpdated" : "2025-03-07T00:53:42.237+0000",
+      "artist" : {
+         "mbid" : "8d418822-4d8b-4c44-947e-d897eb3be8c4",
+         "name" : "Moon Taxi",
+         "sortName" : "Moon Taxi",
+         "disambiguation" : "US band",
+         "url" : "https://www.setlist.fm/setlists/moon-taxi-43d5a75f.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lions"
+            }, {
+               "name" : "Barefoot On The Dancefloor"
+            }, {
+               "name" : "Pink Pony Club",
+               "cover" : {
+                  "mbid" : "56a55378-f155-48de-80a5-d80104221267",
+                  "name" : "Chappell Roan",
+                  "sortName" : "Roan, Chappell",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chappell-roan-6bcad6ce.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/moon-taxi/2025/webster-hall-new-york-ny-135d1149.html"
+   }, {
+      "id" : "1340c9a5",
+      "versionId" : "g2b7c7c4e",
+      "eventDate" : "17-01-2025",
+      "lastUpdated" : "2025-09-03T03:35:23.976+0000",
+      "artist" : {
+         "mbid" : "cea51d1f-273a-459f-b934-afe363e303de",
+         "name" : "Surfer Girl",
+         "sortName" : "Surfer Girl",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/surfer-girl-3bfab40c.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/surfer-girl/2025/webster-hall-new-york-ny-1340c9a5.html"
+   } ]
+}

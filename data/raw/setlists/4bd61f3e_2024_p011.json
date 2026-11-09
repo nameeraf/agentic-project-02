@@ -1,0 +1,1764 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 11,
+   "total" : 307,
+   "setlist" : [ {
+      "id" : "43a8ab0f",
+      "versionId" : "g537f1311",
+      "eventDate" : "13-04-2024",
+      "lastUpdated" : "2025-08-25T00:58:48.282+0000",
+      "artist" : {
+         "mbid" : "dde26295-8cd4-474c-8740-3edb801b2776",
+         "name" : "Maggie Rogers",
+         "sortName" : "Rogers, Maggie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maggie-rogers-3bc3d4b4.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Don't Forget Me Tour Intimate Shows"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Don't Forget Me",
+            "song" : [ {
+               "name" : "It Was Coming All Along",
+               "info" : "live debut"
+            }, {
+               "name" : "Drunk",
+               "info" : "live debut"
+            }, {
+               "name" : "So Sick of Dreaming"
+            }, {
+               "name" : "The Kill"
+            }, {
+               "name" : "Fallingwater",
+               "info" : "Maggie said she wanted to start going out of order"
+            }, {
+               "name" : "Symphony",
+               "info" : "audience request - couple’s wedding song"
+            }, {
+               "name" : "Back in My Body",
+               "info" : "audience request"
+            }, {
+               "name" : "Say It",
+               "info" : "audience request"
+            }, {
+               "name" : "Love You for a Long Time",
+               "info" : "audience request, sung in exchange for gossip"
+            }, {
+               "name" : "If Now Was Then",
+               "info" : "live debut"
+            }, {
+               "name" : "I Still Do",
+               "info" : "live debut; Maggie on piano; first time playing piano at her own show"
+            }, {
+               "name" : "On & On & On",
+               "info" : "live debut"
+            }, {
+               "name" : "Never Going Home",
+               "info" : "live debut"
+            }, {
+               "name" : "Dog Years",
+               "info" : "audience request"
+            }, {
+               "name" : "The Knife",
+               "info" : "audience request"
+            }, {
+               "name" : "Light On",
+               "info" : "audience request"
+            }, {
+               "name" : "That's Where I Am"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "All the Same",
+               "info" : "live debut"
+            }, {
+               "name" : "Don't Forget Me"
+            } ]
+         } ]
+      },
+      "info" : "Album release show, tickets sold in-person that morning for $25.",
+      "url" : "https://www.setlist.fm/setlist/maggie-rogers/2024/irving-plaza-new-york-ny-43a8ab0f.html"
+   }, {
+      "id" : "7babd614",
+      "versionId" : "g5bbdb3b0",
+      "eventDate" : "12-04-2024",
+      "lastUpdated" : "2024-04-29T05:28:34.532+0000",
+      "artist" : {
+         "mbid" : "91db24e6-1c28-4761-b829-838e3c9155bc",
+         "name" : "Smallpools",
+         "sortName" : "Smallpools",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/smallpools-3dd2dff.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Night Shift Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "radio intro",
+               "tape" : true
+            }, {
+               "name" : "Nightshift",
+               "info" : "abandoned, false start"
+            }, {
+               "name" : "Nightshift"
+            }, {
+               "name" : "Passenger Side"
+            }, {
+               "name" : "Street Fight",
+               "info" : "includes Mortal Kombat tease"
+            }, {
+               "name" : "radio intro",
+               "tape" : true
+            }, {
+               "name" : "American Love",
+               "info" : "includes glockenspiel duel"
+            }, {
+               "name" : "Fake a Happy Face!"
+            }, {
+               "name" : "Over & Over"
+            }, {
+               "name" : "Mother"
+            }, {
+               "name" : "Everywhere",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               },
+               "with" : {
+                  "mbid" : "109eb1af-e093-4bd9-9bc2-05fb53cbc1b1",
+                  "name" : "Fia James",
+                  "sortName" : "James, Fia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fia-james-6bfb96f6.html"
+               }
+            }, {
+               "name" : "Simulation / Everybody Wants to Rule the World"
+            }, {
+               "name" : "Lovetap!",
+               "info" : "Sean walks through crowd"
+            }, {
+               "name" : "Killer Whales",
+               "info" : "inflatable Killer Whale thrown in crowd"
+            }, {
+               "name" : "Million Bucks",
+               "info" : "includes tambourine toss"
+            }, {
+               "name" : "radio intro",
+               "tape" : true
+            }, {
+               "name" : "Swayze / (I've Had) The Time of My Life"
+            }, {
+               "name" : "Dreaming"
+            }, {
+               "name" : "Hungry Eyes",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+                  "name" : "Eric Carmen",
+                  "sortName" : "Carmen, Eric",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eric-carmen-7bd6be1c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/smallpools/2024/irving-plaza-new-york-ny-7babd614.html"
+   }, {
+      "id" : "5ba983c0",
+      "versionId" : "gbbd6da6",
+      "eventDate" : "12-04-2024",
+      "lastUpdated" : "2024-05-05T16:29:01.718+0000",
+      "artist" : {
+         "mbid" : "38fab396-e3a8-4538-ba80-dd5eedf40e39",
+         "name" : "Grayscale",
+         "sortName" : "Grayscale",
+         "disambiguation" : "Philadelphia pop‐punk band",
+         "url" : "https://www.setlist.fm/setlists/grayscale-13cf05c9.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Just Right"
+            }, {
+               "name" : "Twilight (My Heaven)"
+            }, {
+               "name" : "Dirty Bombs"
+            }, {
+               "name" : "Motown"
+            }, {
+               "name" : "In Violet"
+            }, {
+               "name" : "Painkiller Weather"
+            }, {
+               "name" : "Baby Blue"
+            }, {
+               "name" : "Let Go"
+            }, {
+               "name" : "Forever Yours"
+            }, {
+               "name" : "YOUNG"
+            }, {
+               "name" : "Fever Dream"
+            }, {
+               "name" : "Not Afraid To Die"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/grayscale/2024/irving-plaza-new-york-ny-5ba983c0.html"
+   }, {
+      "id" : "63ab52cf",
+      "versionId" : "g1ba5a144",
+      "eventDate" : "09-04-2024",
+      "lastUpdated" : "2024-07-02T08:36:23.795+0000",
+      "artist" : {
+         "mbid" : "3ba54400-4c97-450f-b108-bcd90b9b2b76",
+         "name" : "Bas",
+         "sortName" : "Bas",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/bas-1bd88560.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "We Only Talk About Real Shit When We’re Fucked Up Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Light of My Soul"
+            }, {
+               "name" : "Home Alone"
+            }, {
+               "name" : "179 Deli"
+            }, {
+               "name" : "Choppas"
+            }, {
+               "name" : "My Nigga Just Made Bail"
+            }, {
+               "name" : "Yao Ming"
+            }, {
+               "name" : "Diamonds"
+            }, {
+               "name" : "Clouds Never Get Old"
+            }, {
+               "name" : "Methylone"
+            }, {
+               "name" : "Dopamine"
+            }, {
+               "name" : "Ricochet"
+            }, {
+               "name" : "Penthouse"
+            }, {
+               "name" : "Night Job"
+            }, {
+               "name" : "Khartoum"
+            }, {
+               "name" : "Risk",
+               "cover" : {
+                  "mbid" : "8ef74994-73f6-459c-a10c-56a16e07b362",
+                  "name" : "FKJ",
+                  "sortName" : "FKJ",
+                  "disambiguation" : "French Kiwi Juice",
+                  "url" : "https://www.setlist.fm/setlists/fkj-43dbef93.html"
+               }
+            }, {
+               "name" : "Decent"
+            }, {
+               "name" : "U-Turn",
+               "info" : "With Blxckie"
+            }, {
+               "name" : "Passport Bros"
+            }, {
+               "name" : "BAECHESTER",
+               "info" : "Capella Grey"
+            }, {
+               "name" : "GYALIS",
+               "info" : "Capella Grey"
+            }, {
+               "name" : "Boca Raton"
+            }, {
+               "name" : "The Jackie"
+            }, {
+               "name" : "Paper Cuts"
+            }, {
+               "name" : "Dr. O'blivion"
+            }, {
+               "name" : "Wait On Me"
+            }, {
+               "name" : "H.Y.B.",
+               "cover" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               }
+            }, {
+               "name" : "Costa Rica",
+               "cover" : {
+                  "mbid" : "f7a94446-aa3f-41e6-b3d0-46dd695d7d6e",
+                  "name" : "Dreamville",
+                  "sortName" : "Dreamville",
+                  "disambiguation" : "Dreamville Records",
+                  "url" : "https://www.setlist.fm/setlists/dreamville-53f66fc1.html"
+               }
+            }, {
+               "name" : "Down Bad",
+               "cover" : {
+                  "mbid" : "f7a94446-aa3f-41e6-b3d0-46dd695d7d6e",
+                  "name" : "Dreamville",
+                  "sortName" : "Dreamville",
+                  "disambiguation" : "Dreamville Records",
+                  "url" : "https://www.setlist.fm/setlists/dreamville-53f66fc1.html"
+               }
+            }, {
+               "name" : "PDA"
+            }, {
+               "name" : "Tribe"
+            }, {
+               "name" : "Lit",
+               "info" : "J. Cole came onstage to Bas’ surprise as he did not know that he would make a guest appearance",
+               "with" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               }
+            }, {
+               "name" : "H.Y.B.",
+               "cover" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               },
+               "info" : "Played again",
+               "with" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               }
+            }, {
+               "name" : "Tribe",
+               "with" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               }
+            }, {
+               "name" : "No Role Modelz",
+               "cover" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               },
+               "with" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/bas/2024/irving-plaza-new-york-ny-63ab52cf.html"
+   }, {
+      "id" : "3ba8b42c",
+      "versionId" : "g5bbd870c",
+      "eventDate" : "09-04-2024",
+      "lastUpdated" : "2024-04-30T13:47:08.314+0000",
+      "artist" : {
+         "mbid" : "0951685f-4be3-4c60-a69c-33bb434b3002",
+         "name" : "Reuben Vincent",
+         "sortName" : "Vincent, Reuben",
+         "disambiguation" : "US hip hop artist from Charlotte, NC",
+         "url" : "https://www.setlist.fm/setlists/reuben-vincent-63c5ee5f.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Troops"
+            }, {
+               "name" : "Big Bank"
+            }, {
+               "name" : "32 Flavors"
+            }, {
+               "name" : "FUFU"
+            }, {
+               "name" : "Grand Cherry"
+            }, {
+               "name" : "Jump"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/reuben-vincent/2024/irving-plaza-new-york-ny-3ba8b42c.html"
+   }, {
+      "id" : "23a8b42f",
+      "versionId" : "g53bd8705",
+      "eventDate" : "09-04-2024",
+      "lastUpdated" : "2024-04-30T13:48:34.672+0000",
+      "artist" : {
+         "mbid" : "1b791a0b-151e-40df-9be9-deddf6163bf6",
+         "name" : "Blxckie",
+         "sortName" : "Blxckie",
+         "disambiguation" : "South African rapper",
+         "url" : "https://www.setlist.fm/setlists/blxckie-63f33617.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "David"
+            }, {
+               "name" : "Why Me?"
+            }, {
+               "name" : "Ye X4"
+            }, {
+               "name" : "Shoda Ngami"
+            }, {
+               "name" : "kwenzekile"
+            }, {
+               "name" : "SETE"
+            }, {
+               "name" : "all faxx"
+            }, {
+               "name" : "Hold"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blxckie/2024/irving-plaza-new-york-ny-23a8b42f.html"
+   }, {
+      "id" : "23a8b423",
+      "versionId" : "gbbd85a2",
+      "eventDate" : "09-04-2024",
+      "lastUpdated" : "2024-04-30T12:25:12.134+0000",
+      "artist" : {
+         "mbid" : "f3add747-507f-4ded-8a68-e9c461b9531a",
+         "name" : "Hoosh",
+         "sortName" : "Hoosh",
+         "disambiguation" : "US hip hop, R&B and Soul",
+         "url" : "https://www.setlist.fm/setlists/hoosh-1be6d914.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Room 404"
+            }, {
+               "name" : "Kabasa"
+            }, {
+               "name" : "Way"
+            }, {
+               "name" : "Petty"
+            }, {
+               "name" : "Abrupt"
+            }, {
+               "name" : "22 Solace"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hoosh/2024/irving-plaza-new-york-ny-23a8b423.html"
+   }, {
+      "id" : "3a8cdf3",
+      "versionId" : "g73bf72b5",
+      "eventDate" : "07-04-2024",
+      "lastUpdated" : "2024-04-19T20:33:28.872+0000",
+      "artist" : {
+         "mbid" : "7b57eb39-c7a3-42cc-a98f-5fa54506d90b",
+         "name" : "Beane",
+         "sortName" : "Beane",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/beane-73e46e35.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rhythm Of Us"
+            }, {
+               "name" : "Die With You",
+               "info" : "Unreleased(?)"
+            }, {
+               "name" : "My June"
+            }, {
+               "name" : "Honest"
+            }, {
+               "name" : "Bitter"
+            }, {
+               "name" : "What a Wonderful World",
+               "cover" : {
+                  "mbid" : "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name" : "Louis Armstrong",
+                  "sortName" : "Armstrong, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-armstrong-bd6b5d6.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening for Tiny Habits",
+      "url" : "https://www.setlist.fm/setlist/beane/2024/irving-plaza-new-york-ny-3a8cdf3.html"
+   }, {
+      "id" : "2ba8e0d2",
+      "versionId" : "g5b5f6fc0",
+      "eventDate" : "07-04-2024",
+      "lastUpdated" : "2024-12-17T01:30:49.546+0000",
+      "artist" : {
+         "mbid" : "6f38418e-4695-4e20-a792-431929e95ee5",
+         "name" : "Tiny Habits",
+         "sortName" : "Tiny Habits",
+         "disambiguation" : "US | pop",
+         "url" : "https://www.setlist.fm/setlists/tiny-habits-23fd6427.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Circling",
+               "info" : "Unreleased"
+            }, {
+               "name" : "one more"
+            }, {
+               "name" : "Small Enough"
+            }, {
+               "name" : "delay"
+            }, {
+               "name" : "Mudroom"
+            }, {
+               "name" : "Flicker"
+            }, {
+               "name" : "What Was I Made For?",
+               "cover" : {
+                  "mbid" : "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+                  "name" : "Billie Eilish",
+                  "sortName" : "Eilish, Billie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billie-eilish-1bc3b540.html"
+               }
+            }, {
+               "name" : "Broken",
+               "info" : "Maya's solo song"
+            }, {
+               "name" : "Malleable",
+               "info" : "Cinya's solo song"
+            }, {
+               "name" : "Planting Flowers",
+               "info" : "Judah's solo song"
+            }, {
+               "name" : "Wishes",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Somewhere Only We Know",
+               "cover" : {
+                  "mbid" : "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
+                  "name" : "Keane",
+                  "sortName" : "Keane",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/keane-bd6bdfa.html"
+               }
+            }, {
+               "name" : "People Always Change",
+               "info" : "Unreleased"
+            }, {
+               "name" : "some things (i've learned)"
+            }, {
+               "name" : "Landslide",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               }
+            }, {
+               "name" : "hemenway"
+            }, {
+               "name" : "I Don't Have The Heart"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "pennies (voice memo)"
+            }, {
+               "name" : "tiny things"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tiny-habits/2024/irving-plaza-new-york-ny-2ba8e0d2.html"
+   }, {
+      "id" : "5babd73c",
+      "versionId" : "g3b1e1a7",
+      "eventDate" : "06-04-2024",
+      "lastUpdated" : "2024-03-31T17:36:38.219+0000",
+      "artist" : {
+         "mbid" : "0ef1dab1-4419-418e-90e7-14ce7a56bec7",
+         "name" : "TRAITRS",
+         "sortName" : "TRAITRS",
+         "disambiguation" : "Canadian goth",
+         "url" : "https://www.setlist.fm/setlists/traitrs-2bc19c62.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/traitrs/2024/irving-plaza-new-york-ny-5babd73c.html"
+   }, {
+      "id" : "4babf766",
+      "versionId" : "g7bbe9eb8",
+      "eventDate" : "06-04-2024",
+      "lastUpdated" : "2024-04-07T03:08:43.809+0000",
+      "artist" : {
+         "mbid" : "8385f26a-f374-4a04-9aad-4442ce24db2b",
+         "name" : "VNV Nation",
+         "sortName" : "VNV Nation",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/vnv-nation-bd6e536.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Electric Sun"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Before the Rain"
+            }, {
+               "name" : "Sentinel"
+            }, {
+               "name" : "Primary"
+            }, {
+               "name" : "The Farthest Star"
+            }, {
+               "name" : "When Is the Future?"
+            }, {
+               "name" : "Space & Time"
+            }, {
+               "name" : "Chrome"
+            }, {
+               "name" : "Control"
+            }, {
+               "name" : "Standing"
+            }, {
+               "name" : "God of All"
+            }, {
+               "name" : "Invictus"
+            }, {
+               "name" : "Immersed"
+            }, {
+               "name" : "Resolution"
+            }, {
+               "name" : "Prophet"
+            }, {
+               "name" : "Wait"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Illusion"
+            }, {
+               "name" : "The Game"
+            }, {
+               "name" : "Darkangel"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Nova"
+            }, {
+               "name" : "Joy",
+               "info" : "Tour debut"
+            }, {
+               "name" : "All Our Sins"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vnv-nation/2024/irving-plaza-new-york-ny-4babf766.html"
+   }, {
+      "id" : "5bab2bf8",
+      "versionId" : "g1bb10d64",
+      "eventDate" : "05-04-2024",
+      "lastUpdated" : "2024-04-03T12:51:44.159+0000",
+      "artist" : {
+         "mbid" : "2ccf651b-4202-4d03-bc37-5702406bdfed",
+         "name" : "Body Thief",
+         "sortName" : "Body Thief",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/body-thief-53c49bc5.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/body-thief/2024/irving-plaza-new-york-ny-5bab2bf8.html"
+   }, {
+      "id" : "5bab2b04",
+      "versionId" : "g7bbef244",
+      "eventDate" : "05-04-2024",
+      "lastUpdated" : "2024-04-08T13:40:19.226+0000",
+      "artist" : {
+         "mbid" : "86048067-211d-4b94-8af4-20494abbdedf",
+         "name" : "Hail the Sun",
+         "sortName" : "Hail the Sun",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hail-the-sun-43dcbfb7.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Spring 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Maladapted"
+            }, {
+               "name" : "Domino"
+            }, {
+               "name" : "Chunker"
+            }, {
+               "name" : "Secondary Worship"
+            }, {
+               "name" : "60-Minute Session Blocks"
+            }, {
+               "name" : "Secret Wars"
+            }, {
+               "name" : "Will They Blame Me If You Go Disappearing?"
+            }, {
+               "name" : "Ow! (Splidao!) [I Like It, Though]"
+            }, {
+               "name" : "(In My Dream)"
+            }, {
+               "name" : "I Saw You Hanging"
+            }, {
+               "name" : "Made Your Mark"
+            }, {
+               "name" : "Mind Rider"
+            }, {
+               "name" : "Tithe"
+            }, {
+               "name" : "Human Target Practice"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/hail-the-sun/2024/irving-plaza-new-york-ny-5bab2b04.html"
+   }, {
+      "id" : "4bab2b06",
+      "versionId" : "g1bb10d6c",
+      "eventDate" : "05-04-2024",
+      "lastUpdated" : "2024-04-03T12:51:04.207+0000",
+      "artist" : {
+         "mbid" : "841c76d3-b83d-4eb2-b72b-b640c125ab22",
+         "name" : "Intervals",
+         "sortName" : "Intervals",
+         "disambiguation" : "Canadian progressive metal",
+         "url" : "https://www.setlist.fm/setlists/intervals-bdf11d2.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Spring Tour 2024"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/intervals/2024/irving-plaza-new-york-ny-4bab2b06.html"
+   }, {
+      "id" : "43ab2bff",
+      "versionId" : "g3b10d5b",
+      "eventDate" : "05-04-2024",
+      "lastUpdated" : "2024-04-03T12:52:04.784+0000",
+      "artist" : {
+         "mbid" : "6778a196-70c8-45be-b7c7-00007b452514",
+         "name" : "Makari",
+         "sortName" : "Makari",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/makari-63c54e6b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/makari/2024/irving-plaza-new-york-ny-43ab2bff.html"
+   }, {
+      "id" : "7ba846c4",
+      "versionId" : "g5bbd87e0",
+      "eventDate" : "04-04-2024",
+      "lastUpdated" : "2024-04-30T13:56:10.072+0000",
+      "artist" : {
+         "mbid" : "0c41b966-12e8-4c9b-87ea-af47798987b6",
+         "name" : "Kevin Gates",
+         "sortName" : "Gates, Kevin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kevin-gates-3bdc78c8.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Ceremony Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Speed Dial"
+            }, {
+               "name" : "Facts"
+            }, {
+               "name" : "Push It"
+            }, {
+               "name" : "Yonce Freestyle"
+            }, {
+               "name" : "Arm & Hammer"
+            }, {
+               "name" : "Thinking With My Dick"
+            }, {
+               "name" : "Wassup With It"
+            }, {
+               "name" : "In God I Trust"
+            }, {
+               "name" : "Imagine That"
+            }, {
+               "name" : "Free At Last"
+            }, {
+               "name" : "It Won’t Happen"
+            }, {
+               "name" : "Healing"
+            }, {
+               "name" : "Birds Calling"
+            }, {
+               "name" : "Power"
+            }, {
+               "name" : "Great Man"
+            }, {
+               "name" : "Fatal Attraction"
+            }, {
+               "name" : "Breakfast"
+            }, {
+               "name" : "Luv Bug"
+            }, {
+               "name" : "Posed to Be in Love"
+            }, {
+               "name" : "Lil Yea"
+            }, {
+               "name" : "Me Too"
+            }, {
+               "name" : "All Thee Above",
+               "cover" : {
+                  "mbid" : "72f62a4c-0042-49f6-b4dc-2f5b27dd289f",
+                  "name" : "Plies",
+                  "sortName" : "Plies",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/plies-23d6bc4b.html"
+               }
+            }, {
+               "name" : "Bad For Me"
+            }, {
+               "name" : "Time For That"
+            }, {
+               "name" : "2 Phones"
+            }, {
+               "name" : "I Don't Get Tired (#Idgt)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kevin-gates/2024/irving-plaza-new-york-ny-7ba846c4.html"
+   }, {
+      "id" : "63a8469f",
+      "versionId" : "g4bbd87ee",
+      "eventDate" : "04-04-2024",
+      "lastUpdated" : "2024-04-30T13:54:13.960+0000",
+      "artist" : {
+         "mbid" : "3fdd9dbf-3927-4b11-99c1-c79ad37aefeb",
+         "name" : "DJ Chose",
+         "sortName" : "Chose, DJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-chose-6bddaef2.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Ceremony Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Open Your Eyes"
+            }, {
+               "name" : "BFB"
+            }, {
+               "name" : "Amen"
+            }, {
+               "name" : "Trying"
+            }, {
+               "name" : "No Smoke",
+               "cover" : {
+                  "mbid" : "127d8614-0876-4408-886c-6f110b047a78",
+                  "name" : "YoungBoy Never Broke Again",
+                  "sortName" : "YoungBoy Never Broke Again",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/youngboy-never-broke-again-2bcfb40a.html"
+               }
+            }, {
+               "name" : "Top",
+               "cover" : {
+                  "mbid" : "b54d1511-887e-4a5c-9f3c-6833a5438b84",
+                  "name" : "Fredo Bang",
+                  "sortName" : "Fredo Bang",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fredo-bang-3bf6bc90.html"
+               }
+            }, {
+               "name" : "Ain’t Too Hard",
+               "cover" : {
+                  "mbid" : "0c41b966-12e8-4c9b-87ea-af47798987b6",
+                  "name" : "Kevin Gates",
+                  "sortName" : "Gates, Kevin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kevin-gates-3bdc78c8.html"
+               }
+            }, {
+               "name" : "Face Down",
+               "cover" : {
+                  "mbid" : "0c41b966-12e8-4c9b-87ea-af47798987b6",
+                  "name" : "Kevin Gates",
+                  "sortName" : "Gates, Kevin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kevin-gates-3bdc78c8.html"
+               }
+            }, {
+               "name" : "Thick"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-chose/2024/irving-plaza-new-york-ny-63a8469f.html"
+   }, {
+      "id" : "53ab2b9d",
+      "versionId" : "g3bb108b4",
+      "eventDate" : "02-04-2024",
+      "lastUpdated" : "2024-04-03T17:09:28.826+0000",
+      "artist" : {
+         "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+         "name" : "mgk & Trippie Redd",
+         "sortName" : "mgk & Redd, Trippie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "lost boys",
+               "info" : "Live debut"
+            }, {
+               "name" : "beauty"
+            }, {
+               "name" : "time travel"
+            }, {
+               "name" : "struggles",
+               "info" : "Live debut"
+            }, {
+               "name" : "suddenly",
+               "info" : "Live debut"
+            }, {
+               "name" : "Taking a Walk",
+               "cover" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "PRESSURE",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               }
+            }, {
+               "name" : "Wish",
+               "cover" : {
+                  "mbid" : "a56bd8f9-8ef8-4d63-89a4-794ed1360dd2",
+                  "name" : "Diplo",
+                  "sortName" : "Diplo",
+                  "disambiguation" : "DJ and music producer",
+                  "url" : "https://www.setlist.fm/setlists/diplo-2bd6443e.html"
+               }
+            }, {
+               "name" : "dont let me go",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               }
+            }, {
+               "name" : "half dead",
+               "info" : "Live debut"
+            }, {
+               "name" : "hiding in the hills",
+               "info" : "Live debut"
+            }, {
+               "name" : "no more",
+               "info" : "Live debut"
+            }, {
+               "name" : "who do i call",
+               "info" : "Live debut"
+            }, {
+               "name" : "my ex's best friend",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               }
+            }, {
+               "name" : "Fuck Love",
+               "cover" : {
+                  "mbid" : "61af87f4-16ee-4431-8504-cc06187079fb",
+                  "name" : "XXXTENTACION",
+                  "sortName" : "XXXTENTACION",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/xxxtentacion-1bc321cc.html"
+               }
+            }, {
+               "name" : "all I know",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               }
+            }, {
+               "name" : "Candy",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               }
+            }, {
+               "name" : "lost boys",
+               "info" : "2nd time; with mgk freestyle at the end"
+            }, {
+               "name" : "beauty",
+               "info" : "2nd time"
+            }, {
+               "name" : "El Diablo",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               },
+               "info" : "with fan on stage"
+            }, {
+               "name" : "time travel",
+               "info" : "2nd time"
+            }, {
+               "name" : "struggles",
+               "info" : "2nd time"
+            }, {
+               "name" : "Wild Boy",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               },
+               "info" : "few acappella verses by mgk"
+            }, {
+               "name" : "I Think I'm OKAY",
+               "cover" : {
+                  "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+                  "name" : "mgk",
+                  "sortName" : "mgk",
+                  "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+                  "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+               }
+            }, {
+               "name" : "summer's gone",
+               "info" : "Live debut"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mgk-and-trippie-redd/2024/irving-plaza-new-york-ny-53ab2b9d.html"
+   }, {
+      "id" : "53416ff1",
+      "versionId" : "g43781bd3",
+      "eventDate" : "02-04-2024",
+      "lastUpdated" : "2025-10-03T18:34:46.290+0000",
+      "artist" : {
+         "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+         "name" : "Trippie Redd",
+         "sortName" : "Redd, Trippie",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trippie-redd/2024/irving-plaza-new-york-ny-53416ff1.html"
+   }, {
+      "id" : "4bab6786",
+      "versionId" : "g3bbee828",
+      "eventDate" : "02-04-2024",
+      "lastUpdated" : "2024-04-08T18:28:10.746+0000",
+      "artist" : {
+         "mbid" : "f6af669a-56ea-448a-a044-de76181ada33",
+         "name" : "mgk",
+         "sortName" : "mgk",
+         "disambiguation" : "rapper Colson Baker, fka Machine Gun Kelly",
+         "url" : "https://www.setlist.fm/setlists/mgk-2bd318aa.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "lost boys",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "beauty",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "time travel",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "struggles",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "suddenly",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "PRESSURE"
+            }, {
+               "name" : "dont let me go"
+            }, {
+               "name" : "half dead",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "hiding in the hills",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "no more",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "who do i call",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "my ex's best friend"
+            }, {
+               "name" : "all I know",
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "Candy",
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "lost boys",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "beauty",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "El Diablo"
+            }, {
+               "name" : "time travel",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "struggles",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            }, {
+               "name" : "Wild Boy",
+               "info" : "few acappella verses"
+            }, {
+               "name" : "I Think I'm OKAY"
+            }, {
+               "name" : "summer's gone",
+               "cover" : {
+                  "mbid" : "13fadf6e-d124-4281-a347-d7db3d08036b",
+                  "name" : "mgk & Trippie Redd",
+                  "sortName" : "mgk & Redd, Trippie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mgk-and-trippie-redd-5be42f64.html"
+               },
+               "with" : {
+                  "mbid" : "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+                  "name" : "Trippie Redd",
+                  "sortName" : "Redd, Trippie",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/trippie-redd-3cff13f.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mgk/2024/irving-plaza-new-york-ny-4bab6786.html"
+   } ]
+}

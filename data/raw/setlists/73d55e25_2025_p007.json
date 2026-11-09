@@ -1,0 +1,1372 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 170,
+   "setlist" : [ {
+      "id" : "5b467734",
+      "versionId" : "g5b7b63dc",
+      "eventDate" : "07-05-2025",
+      "lastUpdated" : "2025-09-28T02:57:15.243+0000",
+      "artist" : {
+         "mbid" : "40c857d5-6ab0-41f4-aa1d-7614a79a0686",
+         "name" : "Post Animal",
+         "sortName" : "Post Animal",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/post-animal-23c3a85f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Caving In"
+            }, {
+               "name" : "Gelatin Mode"
+            }, {
+               "name" : "Victory Lap: Danger Zone"
+            }, {
+               "name" : "How Do You Feel"
+            }, {
+               "name" : "Setting Sun"
+            }, {
+               "name" : "Ralphie",
+               "info" : "Restarted after person fainted"
+            }, {
+               "name" : "Last Goodbye",
+               "with" : {
+                  "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+                  "name" : "Djo",
+                  "sortName" : "Djo",
+                  "disambiguation" : "Joe Keery",
+                  "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+               }
+            }, {
+               "name" : "When I Get Home",
+               "with" : {
+                  "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+                  "name" : "Djo",
+                  "sortName" : "Djo",
+                  "disambiguation" : "Joe Keery",
+                  "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+               }
+            }, {
+               "name" : "Dirtpicker",
+               "with" : {
+                  "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+                  "name" : "Djo",
+                  "sortName" : "Djo",
+                  "disambiguation" : "Joe Keery",
+                  "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/post-animal/2025/brooklyn-steel-brooklyn-ny-5b467734.html"
+   }, {
+      "id" : "5346774d",
+      "versionId" : "g1360f5f9",
+      "eventDate" : "06-05-2025",
+      "lastUpdated" : "2025-11-30T17:17:18.869+0000",
+      "artist" : {
+         "mbid" : "40c857d5-6ab0-41f4-aa1d-7614a79a0686",
+         "name" : "Post Animal",
+         "sortName" : "Post Animal",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/post-animal-23c3a85f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/post-animal/2025/brooklyn-steel-brooklyn-ny-5346774d.html"
+   }, {
+      "id" : "4b5d6b6a",
+      "versionId" : "g7b4d863c",
+      "eventDate" : "06-05-2025",
+      "lastUpdated" : "2025-05-08T01:53:16.290+0000",
+      "artist" : {
+         "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+         "name" : "Djo",
+         "sortName" : "Djo",
+         "disambiguation" : "Joe Keery",
+         "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Back on You World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Runner"
+            }, {
+               "name" : "Gloom"
+            }, {
+               "name" : "Link"
+            }, {
+               "name" : "Charlie's Garden"
+            }, {
+               "name" : "Basic Being Basic"
+            }, {
+               "name" : "Fool"
+            }, {
+               "name" : "Figure You Out"
+            }, {
+               "name" : "Fly"
+            }, {
+               "name" : "Egg"
+            }, {
+               "name" : "Delete Ya"
+            }, {
+               "name" : "Lonesome Is a State of Mind"
+            }, {
+               "name" : "Chateau (Feel Alright)"
+            }, {
+               "name" : "Roddy"
+            }, {
+               "name" : "End of Beginning"
+            }, {
+               "name" : "Gap Tooth Smile"
+            }, {
+               "name" : "Potion"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Back on You"
+            }, {
+               "name" : "Flash Mountain"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/djo/2025/brooklyn-steel-brooklyn-ny-4b5d6b6a.html"
+   }, {
+      "id" : "435d6b6b",
+      "versionId" : "g434dabf7",
+      "eventDate" : "05-05-2025",
+      "lastUpdated" : "2025-05-06T21:34:28.364+0000",
+      "artist" : {
+         "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+         "name" : "Djo",
+         "sortName" : "Djo",
+         "disambiguation" : "Joe Keery",
+         "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Back on You World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Runner"
+            }, {
+               "name" : "Gloom"
+            }, {
+               "name" : "Link"
+            }, {
+               "name" : "Charlie's Garden"
+            }, {
+               "name" : "Basic Being Basic"
+            }, {
+               "name" : "Fool"
+            }, {
+               "name" : "Figure You Out"
+            }, {
+               "name" : "Egg"
+            }, {
+               "name" : "Fly"
+            }, {
+               "name" : "Delete Ya"
+            }, {
+               "name" : "Lonesome Is a State of Mind"
+            }, {
+               "name" : "Chateau (Feel Alright)"
+            }, {
+               "name" : "Roddy"
+            }, {
+               "name" : "End of Beginning"
+            }, {
+               "name" : "Gap Tooth Smile"
+            }, {
+               "name" : "Potion"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Back on You"
+            }, {
+               "name" : "Flash Mountain",
+               "with" : {
+                  "mbid" : "40c857d5-6ab0-41f4-aa1d-7614a79a0686",
+                  "name" : "Post Animal",
+                  "sortName" : "Post Animal",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-animal-23c3a85f.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/djo/2025/brooklyn-steel-brooklyn-ny-435d6b6b.html"
+   }, {
+      "id" : "2b4674fe",
+      "versionId" : "g5b4dabec",
+      "eventDate" : "05-05-2025",
+      "lastUpdated" : "2025-05-06T21:36:10.131+0000",
+      "artist" : {
+         "mbid" : "40c857d5-6ab0-41f4-aa1d-7614a79a0686",
+         "name" : "Post Animal",
+         "sortName" : "Post Animal",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/post-animal-23c3a85f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Caving In"
+            }, {
+               "name" : "Gelatin Mode"
+            }, {
+               "name" : "Setting Sun"
+            }, {
+               "name" : "Alabaster"
+            }, {
+               "name" : "How Do You Feel"
+            }, {
+               "name" : "Ralphie"
+            }, {
+               "name" : "Last Goodbye",
+               "with" : {
+                  "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+                  "name" : "Djo",
+                  "sortName" : "Djo",
+                  "disambiguation" : "Joe Keery",
+                  "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+               }
+            }, {
+               "name" : "When I Get Home",
+               "with" : {
+                  "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+                  "name" : "Djo",
+                  "sortName" : "Djo",
+                  "disambiguation" : "Joe Keery",
+                  "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+               }
+            }, {
+               "name" : "Dirtpicker",
+               "with" : {
+                  "mbid" : "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d",
+                  "name" : "Djo",
+                  "sortName" : "Djo",
+                  "disambiguation" : "Joe Keery",
+                  "url" : "https://www.setlist.fm/setlists/djo-2bf7fc76.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/post-animal/2025/brooklyn-steel-brooklyn-ny-2b4674fe.html"
+   }, {
+      "id" : "5b4617e0",
+      "versionId" : "g534c37ad",
+      "eventDate" : "02-05-2025",
+      "lastUpdated" : "2025-05-03T03:33:36.798+0000",
+      "artist" : {
+         "mbid" : "51770605-c74f-4048-a660-cf61bd3dce3e",
+         "name" : "Love Spells",
+         "sortName" : "Love Spells",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/love-spells-2bdee4b6.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/love-spells/2025/brooklyn-steel-brooklyn-ny-5b4617e0.html"
+   }, {
+      "id" : "4b5f4fae",
+      "versionId" : "g6b4c3602",
+      "eventDate" : "02-05-2025",
+      "lastUpdated" : "2025-05-03T03:55:50.744+0000",
+      "artist" : {
+         "mbid" : "0168cc30-b3c0-4559-8d00-679ec178ece5",
+         "name" : "Sharon Van Etten & The Attachment Theory",
+         "sortName" : "Sharon Van Etten & The Attachment Theory",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sharon-van-etten-and-the-attachment-theory-be1012a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Live Forever"
+            }, {
+               "name" : "Afterlife"
+            }, {
+               "name" : "Idiot Box"
+            }, {
+               "name" : "Comeback Kid",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "I Can't Imagine (Why You Feel This Way)"
+            }, {
+               "name" : "Somethin' Ain't Right"
+            }, {
+               "name" : "Southern Life (What It Must Be Like)"
+            }, {
+               "name" : "Trouble"
+            }, {
+               "name" : "No One's Easy to Love",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "Anything",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "Every Time the Sun Comes Up",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "Hands",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "Tarifa",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "Seventeen",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               }
+            }, {
+               "name" : "I Want You Here"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Wish I Knew",
+               "cover" : {
+                  "mbid" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+                  "name" : "Sharon Van Etten",
+                  "sortName" : "Van Etten, Sharon",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sharon-van-etten-43d413fb.html"
+               },
+               "info" : "Solo"
+            }, {
+               "name" : "Fading Beauty"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sharon-van-etten-and-the-attachment-theory/2025/brooklyn-steel-brooklyn-ny-4b5f4fae.html"
+   }, {
+      "id" : "4b50173e",
+      "versionId" : "g1b4ce180",
+      "eventDate" : "30-04-2025",
+      "lastUpdated" : "2025-05-01T20:16:27.206+0000",
+      "artist" : {
+         "mbid" : "4f52595e-652d-4894-95ea-f925234629fc",
+         "name" : "MJ Lenderman",
+         "sortName" : "Lenderman, MJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mj-lenderman-13f179ad.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ghost of Your Guitar Solo"
+            }, {
+               "name" : "Joker Lips"
+            }, {
+               "name" : "Wristwatch",
+               "with" : {
+                  "mbid" : "92ec14cd-1631-4724-98e8-b28da18360a8",
+                  "name" : "Karly Hartzman",
+                  "sortName" : "Hartzman, Karly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/karly-hartzman-4bfb2796.html"
+               }
+            }, {
+               "name" : "She's Leaving You",
+               "with" : {
+                  "mbid" : "92ec14cd-1631-4724-98e8-b28da18360a8",
+                  "name" : "Karly Hartzman",
+                  "sortName" : "Hartzman, Karly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/karly-hartzman-4bfb2796.html"
+               }
+            }, {
+               "name" : "Toontown"
+            }, {
+               "name" : "Six Flags"
+            }, {
+               "name" : "Uncle Disney",
+               "cover" : {
+                  "mbid" : "701312f1-3bef-40fd-9144-e7d1280af6b7",
+                  "name" : "Patterson Hood",
+                  "sortName" : "Hood, Patterson",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patterson-hood-7bd7ba64.html"
+               }
+            }, {
+               "name" : "TLC Cage Match"
+            }, {
+               "name" : "Basketball #2"
+            }, {
+               "name" : "You Have Bought Yourself a Boat"
+            }, {
+               "name" : "Rip Torn"
+            }, {
+               "name" : "Manning Fireworks"
+            }, {
+               "name" : "SUV"
+            }, {
+               "name" : "37 Push Ups",
+               "cover" : {
+                  "mbid" : "89af9575-4d72-4345-8eba-e9de3d36ac34",
+                  "name" : "Smog",
+                  "sortName" : "Smog",
+                  "disambiguation" : "US singer-songwriter Bill Callahan",
+                  "url" : "https://www.setlist.fm/setlists/smog-4bd6ef66.html"
+               }
+            }, {
+               "name" : "You Don't Know the Shape I'm In"
+            }, {
+               "name" : "Bark at the Moon"
+            }, {
+               "name" : "No Mercy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Rudolph"
+            }, {
+               "name" : "On My Knees"
+            }, {
+               "name" : "Knockin'"
+            } ]
+         } ]
+      },
+      "info" : "Karly Hartzman was introduced and joined the band on \"Wristwatch.\" She performed the rest of the show (vocals, tambourine). Mike (?) was introduced and joined the band on \"You Don't Know the State I'm In,\" performing the rest of the show (clarinet).",
+      "url" : "https://www.setlist.fm/setlist/mj-lenderman/2025/brooklyn-steel-brooklyn-ny-4b50173e.html"
+   }, {
+      "id" : "53501739",
+      "versionId" : "g34c25c7",
+      "eventDate" : "29-04-2025",
+      "lastUpdated" : "2025-05-03T12:12:05.697+0000",
+      "artist" : {
+         "mbid" : "4f52595e-652d-4894-95ea-f925234629fc",
+         "name" : "MJ Lenderman",
+         "sortName" : "Lenderman, MJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mj-lenderman-13f179ad.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Manning Fireworks"
+            }, {
+               "name" : "On My Knees"
+            }, {
+               "name" : "Bark at the Moon"
+            }, {
+               "name" : "I Ate Too Much at the Fair"
+            }, {
+               "name" : "Inappropriate"
+            }, {
+               "name" : "Rudolph"
+            }, {
+               "name" : "Toontown"
+            }, {
+               "name" : "Six Flags"
+            }, {
+               "name" : "She's Leaving You"
+            }, {
+               "name" : "Rip Torn"
+            }, {
+               "name" : "SUV"
+            }, {
+               "name" : "Wristwatch"
+            }, {
+               "name" : "Joker Lips"
+            }, {
+               "name" : "Pianos"
+            }, {
+               "name" : "You Have Bought Yourself a Boat"
+            }, {
+               "name" : "TLC Cage Match"
+            }, {
+               "name" : "You Don't Know the Shape I'm In"
+            }, {
+               "name" : "Knockin'"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Dancing in the Club",
+               "cover" : {
+                  "mbid" : "a2d140d8-ae17-4d72-b680-b89c77f1ed52",
+                  "name" : "This Is Lorelei",
+                  "sortName" : "This Is Lorelei",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/this-is-lorelei-7bcc12c0.html"
+               },
+               "info" : "MJ Lenderman Version; collab live debut",
+               "with" : {
+                  "mbid" : "ffa54519-878f-45ea-9e92-1daf27deaf17",
+                  "name" : "Nate Amos",
+                  "sortName" : "Amos, Nate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nate-amos-7bf03628.html"
+               }
+            }, {
+               "name" : "Hangover Game"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mj-lenderman/2025/brooklyn-steel-brooklyn-ny-53501739.html"
+   }, {
+      "id" : "334ef881",
+      "versionId" : "g6366be63",
+      "eventDate" : "29-04-2025",
+      "lastUpdated" : "2025-10-13T23:40:25.647+0000",
+      "artist" : {
+         "mbid" : "a2d140d8-ae17-4d72-b680-b89c77f1ed52",
+         "name" : "This Is Lorelei",
+         "sortName" : "This Is Lorelei",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/this-is-lorelei-7bcc12c0.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dancing in the Club"
+            }, {
+               "name" : "I’m All Fucked Up"
+            }, {
+               "name" : "Two Legs"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/this-is-lorelei/2025/brooklyn-steel-brooklyn-ny-334ef881.html"
+   }, {
+      "id" : "53501745",
+      "versionId" : "gb760dce",
+      "eventDate" : "28-04-2025",
+      "lastUpdated" : "2025-06-19T18:15:00.221+0000",
+      "artist" : {
+         "mbid" : "4f52595e-652d-4894-95ea-f925234629fc",
+         "name" : "MJ Lenderman",
+         "sortName" : "Lenderman, MJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mj-lenderman-13f179ad.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Manning Fireworks"
+            }, {
+               "name" : "Joker Lips"
+            }, {
+               "name" : "Wristwatch"
+            }, {
+               "name" : "Hangover Game"
+            }, {
+               "name" : "You Have Bought Yourself a Boat"
+            }, {
+               "name" : "TLC Cage Match"
+            }, {
+               "name" : "Rudolph"
+            }, {
+               "name" : "Toontown"
+            }, {
+               "name" : "Inappropriate"
+            }, {
+               "name" : "Catholic Priest"
+            }, {
+               "name" : "Rip Torn"
+            }, {
+               "name" : "SUV"
+            }, {
+               "name" : "She's Leaving You"
+            }, {
+               "name" : "You Are Every Girl to Me"
+            }, {
+               "name" : "You Don't Know the Shape I'm In"
+            }, {
+               "name" : "On My Knees"
+            }, {
+               "name" : "Bark at the Moon"
+            }, {
+               "name" : "No Mercy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lotta Love",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Someone Get the Grill Out of the Rain"
+            }, {
+               "name" : "Knockin'"
+            } ]
+         } ]
+      },
+      "info" : "Band introduced by New York City mayoral candidate Zohran Mamdani",
+      "url" : "https://www.setlist.fm/setlist/mj-lenderman/2025/brooklyn-steel-brooklyn-ny-53501745.html"
+   }, {
+      "id" : "4346d74b",
+      "versionId" : "g34c8957",
+      "eventDate" : "28-04-2025",
+      "lastUpdated" : "2025-04-30T20:26:32.375+0000",
+      "artist" : {
+         "mbid" : "8f9f14be-6364-40da-9d82-984acdd66f27",
+         "name" : "Joanna Sternberg",
+         "sortName" : "Sternberg, Joanna",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joanna-sternberg-bf73542.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "People Are Toys to You"
+            }, {
+               "name" : "Don’t You Ever"
+            }, {
+               "name" : "Mountains High"
+            }, {
+               "name" : "Nothing Makes My Heart Sing"
+            }, {
+               "name" : "For You"
+            }, {
+               "name" : "Clown Town",
+               "info" : "(Unreleased)"
+            }, {
+               "name" : "The Song"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/joanna-sternberg/2025/brooklyn-steel-brooklyn-ny-4346d74b.html"
+   }, {
+      "id" : "4b51e39a",
+      "versionId" : "g534c1f05",
+      "eventDate" : "22-04-2025",
+      "lastUpdated" : "2025-05-03T17:55:30.612+0000",
+      "artist" : {
+         "mbid" : "49d47930-aaba-4caf-8a80-31be20d0e8f6",
+         "name" : "Pinkshift",
+         "sortName" : "pinkshift",
+         "disambiguation" : "Baltimore Punk Band",
+         "url" : "https://www.setlist.fm/setlists/pinkshift-33f31cfd.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "ONE NATION"
+            }, {
+               "name" : "i'm gonna tell my therapist on you"
+            }, {
+               "name" : "GET OUT"
+            }, {
+               "name" : "On Thin Ice"
+            }, {
+               "name" : "to me"
+            }, {
+               "name" : "Eyeless",
+               "cover" : {
+                  "mbid" : "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+                  "name" : "Slipknot",
+                  "sortName" : "Slipknot",
+                  "disambiguation" : "US metal band",
+                  "url" : "https://www.setlist.fm/setlists/slipknot-1bd6a5b4.html"
+               }
+            }, {
+               "name" : "Evil Eye"
+            }, {
+               "name" : "BURN THE WITCH"
+            }, {
+               "name" : "nothing (in my head)"
+            }, {
+               "name" : "Dreamer"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for The Linda Lindas",
+      "url" : "https://www.setlist.fm/setlist/pinkshift/2025/brooklyn-steel-brooklyn-ny-4b51e39a.html"
+   }, {
+      "id" : "1351a5ed",
+      "versionId" : "g734f9661",
+      "eventDate" : "22-04-2025",
+      "lastUpdated" : "2025-04-23T03:41:27.643+0000",
+      "artist" : {
+         "mbid" : "ecd00b8b-f697-4d90-8641-6633af356747",
+         "name" : "The Linda Lindas",
+         "sortName" : "Linda Lindas, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-linda-lindas-3f2f5ff.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "On the Road Again"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "No Obligation"
+            }, {
+               "name" : "Resolution/Revolution"
+            }, {
+               "name" : "Too Many Things",
+               "info" : "with false start"
+            }, {
+               "name" : "Yo me estreso"
+            }, {
+               "name" : "Once Upon a Time"
+            }, {
+               "name" : "Found a Job",
+               "cover" : {
+                  "mbid" : "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+                  "name" : "Talking Heads",
+                  "sortName" : "Talking Heads",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talking-heads-3bd6b808.html"
+               }
+            }, {
+               "name" : "Growing Up"
+            }, {
+               "name" : "Tren al sur",
+               "cover" : {
+                  "mbid" : "a1d044b9-76c9-46d7-a5a6-0f52421e1ed7",
+                  "name" : "Los Prisioneros",
+                  "sortName" : "Prisioneros, Los",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/los-prisioneros-5bd7ffb0.html"
+               }
+            }, {
+               "name" : "Cartographers"
+            }, {
+               "name" : "Don’t Think"
+            }, {
+               "name" : "Cuántas veces"
+            }, {
+               "name" : "Nothing Would Change"
+            }, {
+               "name" : "Lose Yourself",
+               "info" : "with band intros; >"
+            }, {
+               "name" : "Excuse Me"
+            }, {
+               "name" : "Nino"
+            }, {
+               "name" : "Stop"
+            }, {
+               "name" : "Oh!"
+            }, {
+               "name" : "Racist, Sexist Boy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "When I Come Around",
+               "cover" : {
+                  "mbid" : "084308bd-1654-436f-ba03-df6697104e19",
+                  "name" : "Green Day",
+                  "sortName" : "Green Day",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/green-day-13d68939.html"
+               }
+            }, {
+               "name" : "All in My Head"
+            }, {
+               "name" : "Rebel Girl",
+               "cover" : {
+                  "mbid" : "1397d045-1603-41fc-80b9-712c18360145",
+                  "name" : "Bikini Kill",
+                  "sortName" : "Bikini Kill",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bikini-kill-bd6890e.html"
+               },
+               "with" : {
+                  "mbid" : "49d47930-aaba-4caf-8a80-31be20d0e8f6",
+                  "name" : "Pinkshift",
+                  "sortName" : "pinkshift",
+                  "disambiguation" : "Baltimore Punk Band",
+                  "url" : "https://www.setlist.fm/setlists/pinkshift-33f31cfd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-linda-lindas/2025/brooklyn-steel-brooklyn-ny-1351a5ed.html"
+   }, {
+      "id" : "73595231",
+      "versionId" : "g34e39ff",
+      "eventDate" : "20-04-2025",
+      "lastUpdated" : "2025-04-18T19:06:10.331+0000",
+      "artist" : {
+         "mbid" : "7dcf3b98-701a-4309-a90c-eb4179b96ea9",
+         "name" : "Barry Can’t Swim",
+         "sortName" : "Barry Can’t Swim",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/barry-cant-swim-bfe2112.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "North America Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/barry-cant-swim/2025/brooklyn-steel-brooklyn-ny-73595231.html"
+   }, {
+      "id" : "63595233",
+      "versionId" : "g34e392b",
+      "eventDate" : "20-04-2025",
+      "lastUpdated" : "2025-04-18T19:01:05.078+0000",
+      "artist" : {
+         "mbid" : "5aa334e9-c904-42e0-9e79-d5d6ca69f0c0",
+         "name" : "Paula Tape",
+         "sortName" : "Tape, Paula",
+         "disambiguation" : "Chilean producer, Paula Soto Carmona",
+         "url" : "https://www.setlist.fm/setlists/paula-tape-6bf5b21a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paula-tape/2025/brooklyn-steel-brooklyn-ny-63595233.html"
+   }, {
+      "id" : "7b595244",
+      "versionId" : "g1b4e39f8",
+      "eventDate" : "19-04-2025",
+      "lastUpdated" : "2025-04-18T19:05:58.778+0000",
+      "artist" : {
+         "mbid" : "7dcf3b98-701a-4309-a90c-eb4179b96ea9",
+         "name" : "Barry Can’t Swim",
+         "sortName" : "Barry Can’t Swim",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/barry-cant-swim-bfe2112.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "North America Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/barry-cant-swim/2025/brooklyn-steel-brooklyn-ny-7b595244.html"
+   }, {
+      "id" : "7b59523c",
+      "versionId" : "gb4e3936",
+      "eventDate" : "19-04-2025",
+      "lastUpdated" : "2025-04-18T19:00:52.968+0000",
+      "artist" : {
+         "mbid" : "5aa334e9-c904-42e0-9e79-d5d6ca69f0c0",
+         "name" : "Paula Tape",
+         "sortName" : "Tape, Paula",
+         "disambiguation" : "Chilean producer, Paula Soto Carmona",
+         "url" : "https://www.setlist.fm/setlists/paula-tape-6bf5b21a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paula-tape/2025/brooklyn-steel-brooklyn-ny-7b59523c.html"
+   }, {
+      "id" : "5b476754",
+      "versionId" : "g6b4b5e16",
+      "eventDate" : "18-04-2025",
+      "lastUpdated" : "2025-05-29T03:07:34.162+0000",
+      "artist" : {
+         "mbid" : "5870ce8c-f656-4721-82b0-d6b10f80ca64",
+         "name" : "Emily Wyrn",
+         "sortName" : "Wyrn, Emily",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/emily-wyrn-53cd330d.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/emily-wyrn/2025/brooklyn-steel-brooklyn-ny-5b476754.html"
+   }, {
+      "id" : "1b5965f0",
+      "versionId" : "g434e1f37",
+      "eventDate" : "18-04-2025",
+      "lastUpdated" : "2025-04-19T17:28:38.503+0000",
+      "artist" : {
+         "mbid" : "a7bdc71f-697a-45d9-92b2-a01fbbe50272",
+         "name" : "Ani DiFranco",
+         "sortName" : "DiFranco, Ani",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ani-difranco-3bd6a49c.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Unprecedented Sh!t - The Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pixie"
+            }, {
+               "name" : "Dilate"
+            }, {
+               "name" : "Do or Die"
+            }, {
+               "name" : "Unprecedented Sh!t"
+            }, {
+               "name" : "You Forgot to Speak"
+            }, {
+               "name" : "Baby Roe"
+            }, {
+               "name" : "Napoleon"
+            }, {
+               "name" : "Fuel"
+            }, {
+               "name" : "The Knowing"
+            }, {
+               "name" : "The Thing at Hand"
+            }, {
+               "name" : "Spinning Room",
+               "info" : "Solo"
+            }, {
+               "name" : "New Bible"
+            }, {
+               "name" : "Shameless"
+            }, {
+               "name" : "Our Lady of the Underground",
+               "cover" : {
+                  "mbid" : "9f41d3cd-5fe4-4144-b658-b00c557f0441",
+                  "name" : "Anaïs Mitchell",
+                  "sortName" : "Mitchell, Anaïs",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anais-mitchell-5bd79740.html"
+               }
+            }, {
+               "name" : "Worthy"
+            }, {
+               "name" : "Swan Dive"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Everest"
+            }, {
+               "name" : "32 Flavors"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ani-difranco/2025/brooklyn-steel-brooklyn-ny-1b5965f0.html"
+   } ]
+}

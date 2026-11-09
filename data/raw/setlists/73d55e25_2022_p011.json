@@ -1,0 +1,1369 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 11,
+   "total" : 261,
+   "setlist" : [ {
+      "id" : "3b6fd83",
+      "versionId" : "g53ca3f0d",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2022-04-24T12:18:39.511+0000",
+      "artist" : {
+         "mbid" : "d700b3f5-45af-4d02-95ed-57d301bda93e",
+         "name" : "Mogwai",
+         "sortName" : "Mogwai",
+         "disambiguation" : "Scottish post‐rock band",
+         "url" : "https://www.setlist.fm/setlists/mogwai-6bd69a52.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "To the Bin My Friend, Tonight We Vacate Earth"
+            }, {
+               "name" : "Here We, Here We, Here We Go Forever"
+            }, {
+               "name" : "I'm Jim Morrison, I'm Dead"
+            }, {
+               "name" : "Dry Fantasy"
+            }, {
+               "name" : "New Paths to Helicon, Pt. 1"
+            }, {
+               "name" : "How to Be a Werewolf"
+            }, {
+               "name" : "Ceiling Granny"
+            }, {
+               "name" : "Drive the Nail"
+            }, {
+               "name" : "Ex-Cowboy"
+            }, {
+               "name" : "It's What I Want to Do, Mum"
+            }, {
+               "name" : "Like Herod"
+            }, {
+               "name" : "Old Poisons"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ritchie Sacramento"
+            }, {
+               "name" : "Mogwai Fear Satan"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mogwai/2022/brooklyn-steel-brooklyn-ny-3b6fd83.html"
+   }, {
+      "id" : "335850fd",
+      "versionId" : "g53434b5d",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2025-03-29T15:03:38.125+0000",
+      "artist" : {
+         "mbid" : "e281e053-acac-480b-8f9b-2679e364de64",
+         "name" : "Ye Gods",
+         "sortName" : "Ye Gods",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ye-gods-4bf443e2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ye-gods/2022/brooklyn-steel-brooklyn-ny-335850fd.html"
+   }, {
+      "id" : "3b681bb",
+      "versionId" : "g43a9b7bf",
+      "eventDate" : "06-04-2022",
+      "lastUpdated" : "2024-09-28T03:17:04.319+0000",
+      "artist" : {
+         "mbid" : "73183948-2489-41cb-9a2d-8be5071971a5",
+         "name" : "Sigrid",
+         "sortName" : "Sigrid",
+         "disambiguation" : "Norwegian singer",
+         "url" : "https://www.setlist.fm/setlists/sigrid-23ccb8ff.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "It Gets Dark"
+            }, {
+               "name" : "Burning Bridges"
+            }, {
+               "name" : "Mine Right Now"
+            }, {
+               "name" : "Head on Fire",
+               "cover" : {
+                  "mbid" : "2277e0a6-213c-4ae8-9d03-b4e5ce10adf5",
+                  "name" : "Griff x Sigrid",
+                  "sortName" : "Griff x Sigrid",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/griff-x-sigrid-13fcc565.html"
+               }
+            }, {
+               "name" : "Dancer"
+            }, {
+               "name" : "Sucker Punch"
+            }, {
+               "name" : "Dynamite"
+            }, {
+               "name" : "Mistake Like You"
+            }, {
+               "name" : "A Driver Saved My Night"
+            }, {
+               "name" : "High Five"
+            }, {
+               "name" : "Plot Twist"
+            }, {
+               "name" : "Don't Kill My Vibe"
+            }, {
+               "name" : "Never Mine"
+            }, {
+               "name" : "Strangers"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Grow"
+            }, {
+               "name" : "Don't Feel Like Crying"
+            }, {
+               "name" : "Mirror"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sigrid/2022/brooklyn-steel-brooklyn-ny-3b681bb.html"
+   }, {
+      "id" : "6bb6929a",
+      "versionId" : "g2340488f",
+      "eventDate" : "04-04-2022",
+      "lastUpdated" : "2025-04-06T23:52:09.651+0000",
+      "artist" : {
+         "mbid" : "1888892a-06b7-4bbd-b0a1-3ffde01e4094",
+         "name" : "Peach Pit",
+         "sortName" : "Peach Pit",
+         "disambiguation" : "canadian indie pop band",
+         "url" : "https://www.setlist.fm/setlists/peach-pit-73cdf289.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "From 2 to 3"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Brian's Movie"
+            }, {
+               "name" : "Peach Pit"
+            }, {
+               "name" : "Black Licorice"
+            }, {
+               "name" : "Psychics in LA"
+            }, {
+               "name" : "Techno Show"
+            }, {
+               "name" : "Figure 8"
+            }, {
+               "name" : "Private Presley"
+            }, {
+               "name" : "Up Granville"
+            }, {
+               "name" : "Vickie"
+            }, {
+               "name" : "Live at the Swamp"
+            }, {
+               "name" : "Camilla, I'm at Home"
+            }, {
+               "name" : "Sweet FA"
+            }, {
+               "name" : "Drop the Guillotine"
+            }, {
+               "name" : "Being So Normal"
+            }, {
+               "name" : "Alrighty Aphrodite"
+            }, {
+               "name" : "Look Out!"
+            }, {
+               "name" : "Give Up Baby Go"
+            }, {
+               "name" : "Shampoo Bottles"
+            }, {
+               "name" : "Hot Knifer"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Everything About You"
+            }, {
+               "name" : "Seventeen"
+            }, {
+               "name" : "Tommy's Party"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/peach-pit/2022/brooklyn-steel-brooklyn-ny-6bb6929a.html"
+   }, {
+      "id" : "53b6abc9",
+      "versionId" : "g43cc07e7",
+      "eventDate" : "02-04-2022",
+      "lastUpdated" : "2022-04-03T06:01:36.565+0000",
+      "artist" : {
+         "mbid" : "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c",
+         "name" : "Parquet Courts",
+         "sortName" : "Parquet Courts",
+         "disambiguation" : "US garage rock band",
+         "url" : "https://www.setlist.fm/setlists/parquet-courts-73dc8a81.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Sympathy for Life"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pulcinella",
+               "info" : "The Grayscale Clown version"
+            }, {
+               "name" : "Application/Apparatus"
+            }, {
+               "name" : "Human Performance"
+            }, {
+               "name" : "Dust"
+            }, {
+               "name" : "Almost Had to Start a Fight / In and Out of Patience"
+            }, {
+               "name" : "Freebird II"
+            }, {
+               "name" : "Marathon of Anger"
+            }, {
+               "name" : "Watching Strangers Smile"
+            }, {
+               "name" : "Sympathy for Life"
+            }, {
+               "name" : "Walking at a Downtown Pace"
+            }, {
+               "name" : "Plant Life"
+            }, {
+               "name" : "Light Up Gold II"
+            }, {
+               "name" : "Homo Sapien"
+            }, {
+               "name" : "Paraphrased"
+            }, {
+               "name" : "Just Shadows"
+            }, {
+               "name" : "Mardi Gras Beads"
+            }, {
+               "name" : "Stoned and Starving"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/parquet-courts/2022/brooklyn-steel-brooklyn-ny-53b6abc9.html"
+   }, {
+      "id" : "2ba77452",
+      "versionId" : "g139e4925",
+      "eventDate" : "02-04-2022",
+      "lastUpdated" : "2023-07-13T15:46:39.340+0000",
+      "artist" : {
+         "mbid" : "76970ff5-1330-4e08-9aa2-f896109660ce",
+         "name" : "L’Rain",
+         "sortName" : "L’Rain",
+         "disambiguation" : "American experimentalist, multi-instrumentalist, composer, and curator",
+         "url" : "https://www.setlist.fm/setlists/lrain-7bcdf6a0.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lrain/2022/brooklyn-steel-brooklyn-ny-2ba77452.html"
+   }, {
+      "id" : "23b6a897",
+      "versionId" : "g23cc60f7",
+      "eventDate" : "01-04-2022",
+      "lastUpdated" : "2022-04-04T15:50:34.748+0000",
+      "artist" : {
+         "mbid" : "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c",
+         "name" : "Parquet Courts",
+         "sortName" : "Parquet Courts",
+         "disambiguation" : "US garage rock band",
+         "url" : "https://www.setlist.fm/setlists/parquet-courts-73dc8a81.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Sympathy for Life"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Application/Apparatus"
+            }, {
+               "name" : "Human Performance"
+            }, {
+               "name" : "Dust"
+            }, {
+               "name" : "Almost Had to Start a Fight / In and Out of Patience"
+            }, {
+               "name" : "Freebird II"
+            }, {
+               "name" : "Marathon of Anger"
+            }, {
+               "name" : "Watching Strangers Smile"
+            }, {
+               "name" : "Sympathy for Life"
+            }, {
+               "name" : "Walking at a Downtown Pace"
+            }, {
+               "name" : "Wide Awake"
+            }, {
+               "name" : "Plant Life"
+            }, {
+               "name" : "Light Up Gold II"
+            }, {
+               "name" : "Homo Sapien"
+            }, {
+               "name" : "Mardi Gras Beads"
+            }, {
+               "name" : "What Color Is Blood"
+            }, {
+               "name" : "Master of My Craft"
+            }, {
+               "name" : "Borrowed Time"
+            }, {
+               "name" : "N Dakota"
+            }, {
+               "name" : "Pulcinella"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/parquet-courts/2022/brooklyn-steel-brooklyn-ny-23b6a897.html"
+   }, {
+      "id" : "7bb6e290",
+      "versionId" : "g5bcb5b04",
+      "eventDate" : "31-03-2022",
+      "lastUpdated" : "2022-05-04T15:46:54.219+0000",
+      "artist" : {
+         "mbid" : "9e1ea361-c2cc-45a4-a926-00518453efc0",
+         "name" : "Bartees Strange",
+         "sortName" : "Strange, Bartees",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bartees-strange-6bf4ca8a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Far"
+            }, {
+               "name" : "Mustang"
+            }, {
+               "name" : "Flagey God"
+            }, {
+               "name" : "Weights"
+            }, {
+               "name" : "Hold the Line"
+            }, {
+               "name" : "Lemonworld",
+               "cover" : {
+                  "mbid" : "664c3e0e-42d8-48c1-b209-1efca19c0325",
+                  "name" : "The National",
+                  "sortName" : "National, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-national-53d69b79.html"
+               }
+            }, {
+               "name" : "Stone Meadows"
+            }, {
+               "name" : "Boomer"
+            }, {
+               "name" : "Heavy Heart"
+            }, {
+               "name" : "Kelly Rowland"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bartees-strange/2022/brooklyn-steel-brooklyn-ny-7bb6e290.html"
+   }, {
+      "id" : "3bb6b010",
+      "versionId" : "g6bb62e82",
+      "eventDate" : "31-03-2022",
+      "lastUpdated" : "2024-02-02T06:14:01.792+0000",
+      "artist" : {
+         "mbid" : "0fabbc1d-8d94-4a61-bd1d-1099ad1e4559",
+         "name" : "Car Seat Headrest",
+         "sortName" : "Car Seat Headrest",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/car-seat-headrest-7bdcdedc.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Masquerade Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crows"
+            }, {
+               "name" : "Weightlifters"
+            }, {
+               "name" : "Fill in the Blank"
+            }, {
+               "name" : "Hymn",
+               "info" : "Remix"
+            }, {
+               "name" : "Hollywood"
+            }, {
+               "name" : "Bodys"
+            }, {
+               "name" : "Jam",
+               "info" : "brief jazzy instrumental interlude"
+            }, {
+               "name" : "Snake Song",
+               "cover" : {
+                  "mbid" : "e5dd8ed7-f278-4e3e-b0b0-2573aebc8e5e",
+                  "name" : "Toy Bastard",
+                  "sortName" : "Toy Bastard",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/toy-bastard-3bfc2048.html"
+               }
+            }, {
+               "name" : "1937 State Park"
+            }, {
+               "name" : "Drunk Drivers/Killer Whales"
+            }, {
+               "name" : "Misheard Lyrics",
+               "info" : "request"
+            }, {
+               "name" : "Destroyed by Hippie Powers",
+               "info" : "request"
+            }, {
+               "name" : "It's My Child (I'll Do What I Like)",
+               "cover" : {
+                  "mbid" : "e5dd8ed7-f278-4e3e-b0b0-2573aebc8e5e",
+                  "name" : "Toy Bastard",
+                  "sortName" : "Toy Bastard",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/toy-bastard-3bfc2048.html"
+               }
+            }, {
+               "name" : "Can't Cool Me Down",
+               "info" : "with Vincent ending",
+               "with" : {
+                  "mbid" : "9e1ea361-c2cc-45a4-a926-00518453efc0",
+                  "name" : "Bartees Strange",
+                  "sortName" : "Strange, Bartees",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bartees-strange-6bf4ca8a.html"
+               }
+            }, {
+               "name" : "Beach Life-In-Death"
+            }, {
+               "name" : "Sober to Death"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Deadlines (Hostile)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/car-seat-headrest/2022/brooklyn-steel-brooklyn-ny-3bb6b010.html"
+   }, {
+      "id" : "3b6b513",
+      "versionId" : "g43cc3743",
+      "eventDate" : "30-03-2022",
+      "lastUpdated" : "2022-03-31T15:13:20.223+0000",
+      "artist" : {
+         "mbid" : "9e1ea361-c2cc-45a4-a926-00518453efc0",
+         "name" : "Bartees Strange",
+         "sortName" : "Strange, Bartees",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bartees-strange-6bf4ca8a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Far"
+            }, {
+               "name" : "Mustang"
+            }, {
+               "name" : "Flagey God"
+            }, {
+               "name" : "Weights"
+            }, {
+               "name" : "Hold the Line"
+            }, {
+               "name" : "Lemonworld",
+               "cover" : {
+                  "mbid" : "664c3e0e-42d8-48c1-b209-1efca19c0325",
+                  "name" : "The National",
+                  "sortName" : "National, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-national-53d69b79.html"
+               }
+            }, {
+               "name" : "Stone Meadows"
+            }, {
+               "name" : "Boomer"
+            }, {
+               "name" : "Heavy Heart"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bartees-strange/2022/brooklyn-steel-brooklyn-ny-3b6b513.html"
+   }, {
+      "id" : "2bb6b812",
+      "versionId" : "g73b62e81",
+      "eventDate" : "30-03-2022",
+      "lastUpdated" : "2024-02-02T06:14:01.806+0000",
+      "artist" : {
+         "mbid" : "0fabbc1d-8d94-4a61-bd1d-1099ad1e4559",
+         "name" : "Car Seat Headrest",
+         "sortName" : "Car Seat Headrest",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/car-seat-headrest-7bdcdedc.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Masquerade Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crows"
+            }, {
+               "name" : "Weightlifters"
+            }, {
+               "name" : "Fill in the Blank"
+            }, {
+               "name" : "Hymn",
+               "info" : "Remix"
+            }, {
+               "name" : "Hollywood"
+            }, {
+               "name" : "Bodys"
+            }, {
+               "name" : "Something Soon",
+               "info" : "Request"
+            }, {
+               "name" : "Jam",
+               "info" : "Short, jazzy instrumental. Will on drums"
+            }, {
+               "name" : "Sober to Death",
+               "info" : "Request. Will and Ethan duet for first half while Andrew painted a picture. Full band joins at end"
+            }, {
+               "name" : "It's My Child (I'll Do What I Like)",
+               "cover" : {
+                  "mbid" : "e5dd8ed7-f278-4e3e-b0b0-2573aebc8e5e",
+                  "name" : "Toy Bastard",
+                  "sortName" : "Toy Bastard",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/toy-bastard-3bfc2048.html"
+               }
+            }, {
+               "name" : "Drunk Drivers/Killer Whales"
+            }, {
+               "name" : "Destroyed by Hippie Powers",
+               "info" : "Request"
+            }, {
+               "name" : "Can't Cool Me Down",
+               "info" : "-> \"Vincent\" ending -> \"Can't Cool Me Down\"",
+               "with" : {
+                  "mbid" : "9e1ea361-c2cc-45a4-a926-00518453efc0",
+                  "name" : "Bartees Strange",
+                  "sortName" : "Strange, Bartees",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bartees-strange-6bf4ca8a.html"
+               }
+            }, {
+               "name" : "Beach Life-In-Death"
+            }, {
+               "name" : "Deadlines (Hostile)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/car-seat-headrest/2022/brooklyn-steel-brooklyn-ny-2bb6b812.html"
+   }, {
+      "id" : "3b894008",
+      "versionId" : "g7bb62e80",
+      "eventDate" : "29-03-2022",
+      "lastUpdated" : "2024-02-02T06:14:01.817+0000",
+      "artist" : {
+         "mbid" : "0fabbc1d-8d94-4a61-bd1d-1099ad1e4559",
+         "name" : "Car Seat Headrest",
+         "sortName" : "Car Seat Headrest",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/car-seat-headrest-7bdcdedc.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Masquerade Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crows"
+            }, {
+               "name" : "Weightlifters"
+            }, {
+               "name" : "Fill in the Blank"
+            }, {
+               "name" : "Hymn",
+               "info" : "Remix"
+            }, {
+               "name" : "Hollywood"
+            }, {
+               "name" : "Bodys"
+            }, {
+               "name" : "1937 State Park"
+            }, {
+               "name" : "Drunk Drivers/Killer Whales"
+            }, {
+               "name" : "It's My Child (I'll Do What I Like)",
+               "cover" : {
+                  "mbid" : "e5dd8ed7-f278-4e3e-b0b0-2573aebc8e5e",
+                  "name" : "Toy Bastard",
+                  "sortName" : "Toy Bastard",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/toy-bastard-3bfc2048.html"
+               }
+            }, {
+               "name" : "Destroyed by Hippie Powers"
+            }, {
+               "name" : "Can't Cool Me Down"
+            }, {
+               "name" : "Beach Life-In-Death"
+            }, {
+               "name" : "Sober to Death"
+            }, {
+               "name" : "Deadlines (Hostile)"
+            } ]
+         } ]
+      },
+      "info" : "Pre-show livestream by Will and Andrew from the green room featured \"Misheard Lyrics\" with Nora Knight",
+      "url" : "https://www.setlist.fm/setlist/car-seat-headrest/2022/brooklyn-steel-brooklyn-ny-3b894008.html"
+   }, {
+      "id" : "2b8940fe",
+      "versionId" : "g33cc3ced",
+      "eventDate" : "29-03-2022",
+      "lastUpdated" : "2022-03-31T01:21:08.328+0000",
+      "artist" : {
+         "mbid" : "9e1ea361-c2cc-45a4-a926-00518453efc0",
+         "name" : "Bartees Strange",
+         "sortName" : "Strange, Bartees",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bartees-strange-6bf4ca8a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Far"
+            }, {
+               "name" : "Mustang"
+            }, {
+               "name" : "Flagey God"
+            }, {
+               "name" : "Weights"
+            }, {
+               "name" : "Hold the Line"
+            }, {
+               "name" : "Lemonworld",
+               "cover" : {
+                  "mbid" : "664c3e0e-42d8-48c1-b209-1efca19c0325",
+                  "name" : "The National",
+                  "sortName" : "National, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-national-53d69b79.html"
+               }
+            }, {
+               "name" : "Stone Meadows"
+            }, {
+               "name" : "Boomer"
+            }, {
+               "name" : "Heavy Heart"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bartees-strange/2022/brooklyn-steel-brooklyn-ny-2b8940fe.html"
+   }, {
+      "id" : "5b895b7c",
+      "versionId" : "g5b584b48",
+      "eventDate" : "28-03-2022",
+      "lastUpdated" : "2025-02-03T00:16:31.637+0000",
+      "artist" : {
+         "mbid" : "381e8434-109a-439c-8acc-5d328359f2e0",
+         "name" : "The Brian Jonestown Massacre",
+         "sortName" : "Brian Jonestown Massacre, The",
+         "disambiguation" : "US rock band",
+         "url" : "https://www.setlist.fm/setlists/the-brian-jonestown-massacre-3bd6ac2c.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Never Had a Chance"
+            }, {
+               "name" : "Your Mind Is My Cafe"
+            }, {
+               "name" : "Charmkins Attack"
+            }, {
+               "name" : "The Real"
+            }, {
+               "name" : "The Future Is Your Past"
+            }, {
+               "name" : "Fudge"
+            }, {
+               "name" : "Anemone"
+            }, {
+               "name" : "Nevertheless"
+            }, {
+               "name" : "#1 Lucky Kitty"
+            }, {
+               "name" : "Do Rainbows Have Ends"
+            }, {
+               "name" : "Whatever Hippie Bitch"
+            }, {
+               "name" : "Where Do We Go From Here?"
+            }, {
+               "name" : "Wait a Minute (2:30 to Be Exact)"
+            }, {
+               "name" : "Pish"
+            }, {
+               "name" : "You Think I'm Joking?"
+            }, {
+               "name" : "Don't Let Me Get in Your Way"
+            }, {
+               "name" : "Drained"
+            }, {
+               "name" : "Hold That Thought"
+            }, {
+               "name" : "The Mother of All Fuckers"
+            }, {
+               "name" : "Forgotten Graves"
+            }, {
+               "name" : "When Jokers Attack"
+            }, {
+               "name" : "A Word"
+            }, {
+               "name" : "Abandon Ship"
+            } ]
+         } ]
+      },
+      "info" : "'The Devil May Care (Mom and Dad Don't)', 'Sailor', & 'Servo' were on the printed stage setlist, but not played.",
+      "url" : "https://www.setlist.fm/setlist/the-brian-jonestown-massacre/2022/brooklyn-steel-brooklyn-ny-5b895b7c.html"
+   }, {
+      "id" : "2b894ca6",
+      "versionId" : "g7bcce65c",
+      "eventDate" : "28-03-2022",
+      "lastUpdated" : "2022-03-29T04:41:11.445+0000",
+      "artist" : {
+         "mbid" : "7b1cf87e-c54f-4abc-893d-90245a31900d",
+         "name" : "Mercury Rev",
+         "sortName" : "Mercury Rev",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mercury-rev-5bd6ef7c.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Funny Bird"
+            }, {
+               "name" : "Tonite It Shows"
+            }, {
+               "name" : "Love Sick",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Frittering"
+            }, {
+               "name" : "Tides of the Moon"
+            }, {
+               "name" : "There You Are",
+               "cover" : {
+                  "mbid" : "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
+                  "name" : "The Flaming Lips",
+                  "sortName" : "Flaming Lips, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-flaming-lips-43d6fb1f.html"
+               }
+            }, {
+               "name" : "Holes"
+            }, {
+               "name" : "Opus 40"
+            }, {
+               "name" : "The Dark Is Rising"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mercury-rev/2022/brooklyn-steel-brooklyn-ny-2b894ca6.html"
+   }, {
+      "id" : "37da1f7",
+      "versionId" : "g6337fa1f",
+      "eventDate" : "27-03-2022",
+      "lastUpdated" : "2026-10-31T15:07:06.530+0000",
+      "artist" : {
+         "mbid" : "bc153bd5-7963-4195-a6fb-c38588f31007",
+         "name" : "Ruel",
+         "sortName" : "Ruel",
+         "disambiguation" : "Australian singer and songwriter",
+         "url" : "https://www.setlist.fm/setlists/ruel-63cd8e27.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Real Thing / Dazed & Confused"
+            }, {
+               "name" : "Face to Face"
+            }, {
+               "name" : "as long as you care"
+            }, {
+               "name" : "say it over / distance"
+            }, {
+               "name" : "Hard Sometimes"
+            }, {
+               "name" : "Don't Tell Me",
+               "info" : "Acoustic"
+            }, {
+               "name" : "LET THE GRASS GROW"
+            }, {
+               "name" : "too many feelings"
+            }, {
+               "name" : "Free Time"
+            }, {
+               "name" : "Flames",
+               "cover" : {
+                  "mbid" : "ab413f29-71af-4f7f-8ca8-5ece68beeaf3",
+                  "name" : "SG Lewis",
+                  "sortName" : "Lewis, SG",
+                  "disambiguation" : "UK producer Sam Lewis",
+                  "url" : "https://www.setlist.fm/setlists/sg-lewis-7bc78674.html"
+               }
+            }, {
+               "name" : "Younger"
+            }, {
+               "name" : "GROWING UP IS ____"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Painkiller"
+            }, {
+               "name" : "Japanese Whiskey"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ruel/2022/brooklyn-steel-brooklyn-ny-37da1f7.html"
+   }, {
+      "id" : "23447477",
+      "versionId" : "g3763987",
+      "eventDate" : "19-03-2022",
+      "lastUpdated" : "2025-06-18T04:26:27.565+0000",
+      "artist" : {
+         "mbid" : "8451cfa0-b39c-4ad1-8aba-a19d47598a67",
+         "name" : "Cautious Clay",
+         "sortName" : "Cautious Clay",
+         "disambiguation" : "American singer‐songwriter, musician, and record producer",
+         "url" : "https://www.setlist.fm/setlists/cautious-clay-6bcd22c6.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Karma & Friends Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cautious-clay/2022/brooklyn-steel-brooklyn-ny-23447477.html"
+   }, {
+      "id" : "b8939ae",
+      "versionId" : "g63cf2217",
+      "eventDate" : "17-03-2022",
+      "lastUpdated" : "2022-03-19T13:37:30.605+0000",
+      "artist" : {
+         "mbid" : "674a7e8c-9682-419a-8e05-2358e28b5359",
+         "name" : "Underoath",
+         "sortName" : "Underoath",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/underoath-73d6ba19.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "The Voyeurist Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Damn Excuses"
+            }, {
+               "name" : "Breathing in a New Mentality"
+            }, {
+               "name" : "On My Teeth"
+            }, {
+               "name" : "It's Dangerous Business Walking Out Your Front Door"
+            }, {
+               "name" : "In Regards to Myself"
+            }, {
+               "name" : "Hallelujah"
+            }, {
+               "name" : "No Frame"
+            }, {
+               "name" : "Reinventing Your Exit"
+            }, {
+               "name" : "A Fault Line, a Fault of Mine"
+            }, {
+               "name" : "There Could Be Nothing After This"
+            }, {
+               "name" : "Too Bright to See, Too Loud to Hear"
+            }, {
+               "name" : "A Boy Brushed Red Living in Black and White"
+            }, {
+               "name" : "Pneumonia"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Thorn"
+            }, {
+               "name" : "Writing on the Walls"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/underoath/2022/brooklyn-steel-brooklyn-ny-b8939ae.html"
+   }, {
+      "id" : "b8939a2",
+      "versionId" : "g2ba1bcae",
+      "eventDate" : "17-03-2022",
+      "lastUpdated" : "2024-07-26T14:16:32.210+0000",
+      "artist" : {
+         "mbid" : "eecada09-acfc-472d-ae55-e9e5a43f12d8",
+         "name" : "Bad Omens",
+         "sortName" : "Bad Omens",
+         "disambiguation" : "metalcore/post-metal",
+         "url" : "https://www.setlist.fm/setlists/bad-omens-53c0ab3d.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "THE DEATH OF PEACE OF MIND"
+            }, {
+               "name" : "ARTIFICIAL SUICIDE"
+            }, {
+               "name" : "Like a Villain"
+            }, {
+               "name" : "What Do You Want From Me?"
+            }, {
+               "name" : "Never Know"
+            }, {
+               "name" : "Limits"
+            }, {
+               "name" : "Dethrone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bad-omens/2022/brooklyn-steel-brooklyn-ny-b8939a2.html"
+   }, {
+      "id" : "38939a7",
+      "versionId" : "g33a1bca1",
+      "eventDate" : "17-03-2022",
+      "lastUpdated" : "2024-07-26T14:16:56.390+0000",
+      "artist" : {
+         "mbid" : "9c935736-7530-41e4-b776-1dbcf534c061",
+         "name" : "Spiritbox",
+         "sortName" : "Spiritbox",
+         "disambiguation" : "Canadian metalcore",
+         "url" : "https://www.setlist.fm/setlists/spiritbox-3c9b5eb.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rule of Nines"
+            }, {
+               "name" : "Circle With Me"
+            }, {
+               "name" : "Blessed Be"
+            }, {
+               "name" : "Hurt You"
+            }, {
+               "name" : "Constance"
+            }, {
+               "name" : "Holy Roller"
+            }, {
+               "name" : "Eternal Blue"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/spiritbox/2022/brooklyn-steel-brooklyn-ny-38939a7.html"
+   } ]
+}

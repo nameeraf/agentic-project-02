@@ -1,16 +1,14 @@
-# NYC Setlist Analyst
+# NYC Setlist Analyst: does the show play the hits?
 
-A Text2SQL agent for questions about what gets played at NYC concerts. It covers about 10,000 shows at 20 NYC venues from 2022 to 2025, with full setlists from setlist.fm, matched against every Billboard Hot 100 chart since 1958.
+### Sathya Raman (sr4213) and Nameera Faisal Akhtar (nf2613)
 
-You can ask which hits an artist plays or skips, who went from small clubs to headlining arenas, who brought out guests, and what gets covered. Every answer shows the SQL behind it.
+Every time we buy concert tickets, the same question comes up: will they actually play the songs we came for? This agent answers it with data. It knows every logged setlist at 20 NYC venues from 2022 to 2025 (about 10,000 shows, from setlist.fm), matched against every Billboard Hot 100 chart since 1958. It also tracks which artists went from playing tiny clubs to headlining arenas.
 
-Live: https://agentic-project-02-git-948884183586.europe-west1.run.app
+It's for fans deciding which night of a run to go to, and for anyone who wants to settle an argument about who's on the rise.
 
-Path: `text2sql` · Team: Nameera Faisal Akhtar (nf2613), Sathya Raman (sr4213)
+How to use: ask about an artist, a venue or a song, e.g. which hits someone skips, who brought out guests, or who went from Bowery Ballroom to the Garden. Every answer shows the SQL behind it.
 
-## Who it's for
-
-Fans deciding which night of a run to go to, or whether an artist still plays the old songs. Also music writers and bookers who want to check a hunch about who's on the rise.
+Live: https://agentic-project-02-git-948884183586.europe-west1.run.app · Path: `text2sql`
 
 ## Data
 
@@ -33,7 +31,13 @@ uv run build_mappings.py
 - **Precomputes `artist_ladder`.** These are the 31 artists who played a club (2,000 capacity or less) and later headlined an arena at least 180 days later, plus how many Hot 100 songs they charted in between. Festival sets don't count, which removes fake "climbs" like Bowery Ballroom to Citi Field in one day (that was Governors Ball).
 - **Writes `data/concerts_mappings.json`.** It has column descriptions, enum values, usage notes and the data's limits. The agent reads this first.
 
-The agent's tools are `read_mappings`, `get_enum_values`, `find_names`, `run_sql` (read-only) and `make_chart`. `find_names` is a fuzzy lookup, so "renee rapp" finds Reneé Rapp. Guardrails reject matching artists by exact name and dates in setlist.fm's DD-MM-YYYY format.
+## Tools
+
+1. **`read_mappings()`**: returns every table and column with its description, plus usage notes and what the data can't answer. The agent calls it first.
+2. **`get_enum_values(table, column)`**: the exact allowed values for a column like `role` or `size_tier`.
+3. **`find_names(kind, name)`**: fuzzy lookup for an artist, song or venue, so "renee rapp" finds Reneé Rapp and "msg" finds Madison Square Garden.
+4. **`run_sql(sql)`**: runs read-only DuckDB SQL. Guardrails reject matching artists by exact name and dates in setlist.fm's DD-MM-YYYY format.
+5. **`make_chart(sql, chart_type, x, y, title)`**: runs a query and draws the result as a chart on the page.
 
 ## Sample queries
 
@@ -73,13 +77,19 @@ The data has no ticket prices, attendance, start times, reviews or streaming num
 
 setlist.fm is logged by fans. About a third of shows have no setlist, and song order is sometimes approximate. Medleys and renamed songs can miss their Hot 100 match.
 
-## Running it
+## Run locally
+
+Needs [uv](https://docs.astral.sh/uv/), the [gcloud CLI](https://cloud.google.com/sdk/docs/install), and a GCP project with billing and the Vertex AI API enabled.
 
 ```bash
-uv sync
+git clone https://github.com/nameeraf/agentic-project-02.git
+cd agentic-project-02
 gcloud auth application-default login
-uv run app.py   # http://localhost:8000
+gcloud config set project YOUR_PROJECT_ID
+uv run app.py
 ```
+
+Then open http://localhost:8000. `uv run` installs the dependencies on first run. No API key is needed to run the app; the setlist.fm key is only for rebuilding the data.
 
 It's deployed on Cloud Run with continuous deploy from GitHub. The request timeout is 300 s, the agent is capped at 25 turns, and the service account has the Vertex AI User role.
 

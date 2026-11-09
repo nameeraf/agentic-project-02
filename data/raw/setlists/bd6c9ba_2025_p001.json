@@ -1,0 +1,3609 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 130,
+   "setlist" : [ {
+      "id" : "2341a8d7",
+      "versionId" : "g2b01f852",
+      "eventDate" : "31-12-2025",
+      "lastUpdated" : "2026-08-17T19:28:46.460+0000",
+      "artist" : {
+         "mbid" : "f8796712-19fd-49ca-9cc7-99c30215b3cd",
+         "name" : "Gov’t Mule",
+         "sortName" : "Gov’t Mule",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/govt-mule-13d6ad55.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Same as It Ever Was"
+            }, {
+               "name" : "Game Face"
+            }, {
+               "name" : "Sco-Mule"
+            }, {
+               "name" : "Dreaming Out Loud",
+               "with" : {
+                  "mbid" : "e32594b8-76d0-4884-b587-faa5bd366dbe",
+                  "name" : "The Chronic Horns",
+                  "sortName" : "Chronic Horns, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-chronic-horns-6bca6e52.html"
+               }
+            }, {
+               "name" : "Revolution Come, Revolution Go"
+            }, {
+               "name" : "About to Rage"
+            }, {
+               "name" : "Blind Man in the Dark"
+            } ]
+         }, {
+            "name" : "Set 2 (1971: The Year Music Changed the World):",
+            "song" : [ {
+               "name" : "Footstompin' Music",
+               "cover" : {
+                  "mbid" : "103241b0-6adf-4b4f-9cff-5c87459f61a4",
+                  "name" : "Grand Funk Railroad",
+                  "sortName" : "Grand Funk Railroad",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grand-funk-railroad-23d6ac1f.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Walk Away",
+               "cover" : {
+                  "mbid" : "4167b497-1ae5-4502-a8e6-e1546ffbe514",
+                  "name" : "James Gang",
+                  "sortName" : "James Gang",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/james-gang-13d61999.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Tupelo Honey",
+               "cover" : {
+                  "mbid" : "a41ac10f-0a56-4672-9161-b83f9b223559",
+                  "name" : "Van Morrison",
+                  "sortName" : "Morrison, Van",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/van-morrison-1bd6adc4.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Where Ya at Mule",
+               "cover" : {
+                  "mbid" : "fe0e1895-aa84-47d9-8e5b-7930fc20709b",
+                  "name" : "Dr. John",
+                  "sortName" : "Dr. John",
+                  "disambiguation" : "New Orleans blues pianist, singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/dr-john-6bd6fafa.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Ain't No Sunshine",
+               "cover" : {
+                  "mbid" : "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+                  "name" : "Bill Withers",
+                  "sortName" : "Withers, Bill",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bill-withers-2bd60842.html"
+               },
+               "info" : "\"Stairway to Heaven\" intro was segued into, interrupted by a \"No Stairway\" sign held by a crewmember",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Black Dog",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               },
+               "with" : {
+                  "mbid" : "a690d479-091c-4c4c-aa5c-7d1d512316c6",
+                  "name" : "Yola",
+                  "sortName" : "Yola",
+                  "disambiguation" : "performance name of UK vocalist Yolanda Quartey",
+                  "url" : "https://www.setlist.fm/setlists/yola-4bda6bee.html"
+               }
+            }, {
+               "name" : "Mercedes Benz",
+               "cover" : {
+                  "mbid" : "76c9a186-75bd-436a-85c0-823e3efddb7f",
+                  "name" : "Janis Joplin",
+                  "sortName" : "Joplin, Janis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/janis-joplin-3bd6dcf4.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a690d479-091c-4c4c-aa5c-7d1d512316c6",
+                  "name" : "Yola",
+                  "sortName" : "Yola",
+                  "disambiguation" : "performance name of UK vocalist Yolanda Quartey",
+                  "url" : "https://www.setlist.fm/setlists/yola-4bda6bee.html"
+               }
+            }, {
+               "name" : "Me and Bobby McGee",
+               "cover" : {
+                  "mbid" : "cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81",
+                  "name" : "Kris Kristofferson",
+                  "sortName" : "Kristofferson, Kris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kris-kristofferson-6bd6b2da.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a690d479-091c-4c4c-aa5c-7d1d512316c6",
+                  "name" : "Yola",
+                  "sortName" : "Yola",
+                  "disambiguation" : "performance name of UK vocalist Yolanda Quartey",
+                  "url" : "https://www.setlist.fm/setlists/yola-4bda6bee.html"
+               }
+            }, {
+               "name" : "Cowboy Movie",
+               "cover" : {
+                  "mbid" : "e90f9815-221d-4e10-8675-e75c07988113",
+                  "name" : "David Crosby",
+                  "sortName" : "Crosby, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-crosby-33d6f8ad.html"
+               },
+               "info" : "with \"China Cat Sunflower\" tease) (Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Bertha",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "My Sweet Lord",
+               "cover" : {
+                  "mbid" : "42a8f507-8412-4611-854f-926571049fa0",
+                  "name" : "George Harrison",
+                  "sortName" : "Harrison, George",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/george-harrison-23d68877.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Imagine",
+               "cover" : {
+                  "mbid" : "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "name" : "John Lennon",
+                  "sortName" : "Lennon, John",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/john-lennon-33d68875.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Thank You for Talkin' to Me Africa",
+               "cover" : {
+                  "mbid" : "b7ec4c54-1f93-4bf2-957f-7b9921ab84ea",
+                  "name" : "Sly & the Family Stone",
+                  "sortName" : "Sly & the Family Stone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sly-and-the-family-stone-6bd6ce4a.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "When I Paint My Masterpiece",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Won't Get Fooled Again",
+               "cover" : {
+                  "mbid" : "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+                  "name" : "The Who",
+                  "sortName" : "Who, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Break On Through (to the Other Side)",
+               "cover" : {
+                  "mbid" : "9efff43b-3b29-4082-824e-bc82f646f93d",
+                  "name" : "The Doors",
+                  "sortName" : "Doors, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-doors-bd6adba.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Bitch",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "I Can't Get Next to You",
+               "cover" : {
+                  "mbid" : "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+                  "name" : "Al Green",
+                  "sortName" : "Green, Al",
+                  "disambiguation" : "US soul singer, songwriter, pastor and record producer",
+                  "url" : "https://www.setlist.fm/setlists/al-green-bd6b9a6.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "2d7692e2-d21e-4e16-bdbc-3bdb96dffeb3",
+                  "name" : "Louis Cato",
+                  "sortName" : "Cato, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-cato-13ddd5f5.html"
+               }
+            }, {
+               "name" : "Inner City Blues (Make Me Wanna Holler)",
+               "cover" : {
+                  "mbid" : "afdb7919-059d-43c1-b668-ba1d265e7e42",
+                  "name" : "Marvin Gaye",
+                  "sortName" : "Gaye, Marvin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marvin-gaye-bd6b99e.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "2d7692e2-d21e-4e16-bdbc-3bdb96dffeb3",
+                  "name" : "Louis Cato",
+                  "sortName" : "Cato, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-cato-13ddd5f5.html"
+               }
+            }, {
+               "name" : "What's Going On",
+               "cover" : {
+                  "mbid" : "afdb7919-059d-43c1-b668-ba1d265e7e42",
+                  "name" : "Marvin Gaye",
+                  "sortName" : "Gaye, Marvin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marvin-gaye-bd6b99e.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "2d7692e2-d21e-4e16-bdbc-3bdb96dffeb3",
+                  "name" : "Louis Cato",
+                  "sortName" : "Cato, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-cato-13ddd5f5.html"
+               }
+            }, {
+               "name" : "Madman Across the Water",
+               "cover" : {
+                  "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                  "name" : "Elton John",
+                  "sortName" : "John, Elton",
+                  "disambiguation" : "English singer, songwriter, pianist, and composer",
+                  "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+               },
+               "info" : "first time since 2011"
+            }, {
+               "name" : "Whipping Post",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "\"Sweet Leaf\" by Black Sabbath was on the printed setlist as the encore, but not played.",
+      "url" : "https://www.setlist.fm/setlist/govt-mule/2025/beacon-theatre-new-york-ny-2341a8d7.html"
+   }, {
+      "id" : "3341a8d1",
+      "versionId" : "g6b6f7e3a",
+      "eventDate" : "30-12-2025",
+      "lastUpdated" : "2025-12-31T12:52:35.354+0000",
+      "artist" : {
+         "mbid" : "f8796712-19fd-49ca-9cc7-99c30215b3cd",
+         "name" : "Gov’t Mule",
+         "sortName" : "Gov’t Mule",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/govt-mule-13d6ad55.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "After the Storm"
+            }, {
+               "name" : "Rocking Horse"
+            }, {
+               "name" : "Temporary Saint"
+            }, {
+               "name" : "Banks of the Deep End"
+            }, {
+               "name" : "Painted Silver Light"
+            }, {
+               "name" : "Slackjaw Jezebel"
+            }, {
+               "name" : "Hope She'll Be Happier",
+               "cover" : {
+                  "mbid" : "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+                  "name" : "Bill Withers",
+                  "sortName" : "Withers, Bill",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bill-withers-2bd60842.html"
+               }
+            }, {
+               "name" : "The Low Spark of High Heeled Boys",
+               "cover" : {
+                  "mbid" : "9fadfba9-ecae-4383-a4d8-47b043cea19a",
+                  "name" : "Traffic",
+                  "sortName" : "Traffic",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/traffic-13d6ada9.html"
+               }
+            }, {
+               "name" : "Mr. Man"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Railroad Boy",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Peace I Need"
+            }, {
+               "name" : "Birth of the Mule",
+               "with" : {
+                  "mbid" : "e1412c77-0e60-406e-b48d-cb28b97aa62d",
+                  "name" : "Oz Noy",
+                  "sortName" : "Noy, Oz",
+                  "disambiguation" : "Israeli-American guitarist and composer",
+                  "url" : "https://www.setlist.fm/setlists/oz-noy-2bd71c6e.html"
+               }
+            }, {
+               "name" : "Time to Confess"
+            }, {
+               "name" : "Fearless",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "I'm Eighteen",
+               "cover" : {
+                  "mbid" : "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
+                  "name" : "Alice Cooper",
+                  "sortName" : "Alice Cooper",
+                  "disambiguation" : "the band, active 1964–1974/5",
+                  "url" : "https://www.setlist.fm/setlists/alice-cooper-63d63aa3.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "Reason to Believe",
+               "cover" : {
+                  "mbid" : "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+                  "name" : "Tim Hardin",
+                  "sortName" : "Hardin, Tim",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tim-hardin-73d64eb9.html"
+               },
+               "info" : "Live debut"
+            }, {
+               "name" : "When the Levee Breaks",
+               "cover" : {
+                  "mbid" : "9502577b-611a-4d1e-8dc0-c8c6ff88edf3",
+                  "name" : "Memphis Minnie & Kansas Joe McCoy",
+                  "sortName" : "Memphis Minnie & McCoy, Kansas Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/memphis-minnie-and-kansas-joe-mccoy-23d52057.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            }, {
+               "name" : "I'm a Ram",
+               "cover" : {
+                  "mbid" : "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+                  "name" : "Al Green",
+                  "sortName" : "Green, Al",
+                  "disambiguation" : "US soul singer, songwriter, pastor and record producer",
+                  "url" : "https://www.setlist.fm/setlists/al-green-bd6b9a6.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Willin'",
+               "cover" : {
+                  "mbid" : "9b106beb-12b5-4525-8025-42e295a2b90a",
+                  "name" : "Little Feat",
+                  "sortName" : "Little Feat",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/little-feat-1bd6a14c.html"
+               },
+               "info" : "Live debut"
+            }, {
+               "name" : "Locomotive Breath",
+               "cover" : {
+                  "mbid" : "ece57992-dc2e-4f67-a269-fa43626c1a3d",
+                  "name" : "Jethro Tull",
+                  "sortName" : "Jethro Tull",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jethro-tull-3d6b523.html"
+               },
+               "with" : {
+                  "mbid" : "a1a053b3-cad1-43c2-8234-29367a9a42a3",
+                  "name" : "Jackie Greene",
+                  "sortName" : "Greene, Jackie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jackie-greene-33d7e889.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/govt-mule/2025/beacon-theatre-new-york-ny-3341a8d1.html"
+   }, {
+      "id" : "7b470274",
+      "versionId" : "g134b216d",
+      "eventDate" : "16-12-2025",
+      "lastUpdated" : "2025-05-26T20:29:38.129+0000",
+      "artist" : {
+         "mbid" : "535afeda-2538-435d-9dd1-5e10be586774",
+         "name" : "Earth, Wind & Fire",
+         "sortName" : "Earth, Wind & Fire",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/earth-wind-and-fire-3d6b97f.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/earth-wind-and-fire/2025/beacon-theatre-new-york-ny-7b470274.html"
+   }, {
+      "id" : "7b470270",
+      "versionId" : "g3b6ed4b4",
+      "eventDate" : "15-12-2025",
+      "lastUpdated" : "2025-12-16T07:43:44.428+0000",
+      "artist" : {
+         "mbid" : "535afeda-2538-435d-9dd1-5e10be586774",
+         "name" : "Earth, Wind & Fire",
+         "sortName" : "Earth, Wind & Fire",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/earth-wind-and-fire-3d6b97f.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Shining Star"
+            }, {
+               "name" : "Let Your Feelings Show"
+            }, {
+               "name" : "System of Survival",
+               "info" : "(only 1st verse and chorus; ended with a snippet of \"Getaway\")"
+            }, {
+               "name" : "Serpentine Fire"
+            }, {
+               "name" : "Verdine White Bass Solo"
+            }, {
+               "name" : "Jupiter"
+            }, {
+               "name" : "Sing a Song"
+            }, {
+               "name" : "Got to Get You Into My Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Kalimba Story / Sing a Message to You"
+            }, {
+               "name" : "Devotion"
+            }, {
+               "name" : "Love's Holiday"
+            }, {
+               "name" : "Reasons"
+            }, {
+               "name" : "Rock That!"
+            }, {
+               "name" : "After the Love Has Gone",
+               "cover" : {
+                  "mbid" : "04456b86-d064-4643-a57f-df9ef42a46d9",
+                  "name" : "David Walter Foster",
+                  "sortName" : "Foster, David",
+                  "disambiguation" : "Canadian music producer, arranger and composer",
+                  "url" : "https://www.setlist.fm/setlists/david-walter-foster-bd77d1e.html"
+               }
+            }, {
+               "name" : "That's the Way of the World"
+            }, {
+               "name" : "Brazilian Rhyme (Beijo)",
+               "info" : "(included Band Introduction)"
+            }, {
+               "name" : "Fantasy",
+               "info" : "(preceded by Keyboard Solo)"
+            }, {
+               "name" : "Boogie Wonderland"
+            }, {
+               "name" : "Let's Groove"
+            }, {
+               "name" : "September"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "In the Stone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/earth-wind-and-fire/2025/beacon-theatre-new-york-ny-7b470270.html"
+   }, {
+      "id" : "5b4db7dc",
+      "versionId" : "g3b6a24b0",
+      "eventDate" : "13-12-2025",
+      "lastUpdated" : "2026-01-28T07:47:27.598+0000",
+      "artist" : {
+         "mbid" : "46510d46-ce20-4dde-b9ea-207e474353f4",
+         "name" : "Brett Eldredge",
+         "sortName" : "Eldredge, Brett",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brett-eldredge-63d2f2b7.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mr. Christmas"
+            }, {
+               "name" : "Let It Snow! Let It Snow! Let It Snow!",
+               "cover" : {
+                  "mbid" : "9591fd72-f700-49aa-9a91-cc39ccaf9f9e",
+                  "name" : "Vaughn Monroe and His Orchestra",
+                  "sortName" : "Monroe, Vaughn and Orchestra, His",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vaughn-monroe-and-his-orchestra-63d4ee03.html"
+               }
+            }, {
+               "name" : "It's Beginning to Look Like Christmas",
+               "cover" : {
+                  "mbid" : "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+                  "name" : "Perry Como",
+                  "sortName" : "Como, Perry",
+                  "disambiguation" : "US pop singer & TV personality, 1912–2001",
+                  "url" : "https://www.setlist.fm/setlists/perry-como-6bd69a56.html"
+               }
+            }, {
+               "name" : "White Christmas",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               }
+            }, {
+               "name" : "Sweet December"
+            }, {
+               "name" : "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+               "cover" : {
+                  "mbid" : "4439c2fd-a754-4f6a-b3a6-791b47726156",
+                  "name" : "Mel Tormé",
+                  "sortName" : "Tormé, Mel",
+                  "disambiguation" : "“The Velvet Fog”",
+                  "url" : "https://www.setlist.fm/setlists/mel-torme-53d637e9.html"
+               }
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Feels Like Christmas"
+            }, {
+               "name" : "Do You Hear What I Hear?",
+               "cover" : {
+                  "mbid" : "e8553fbd-11ec-4568-9720-be914af8fa17",
+                  "name" : "The Harry Simeone Chorale",
+                  "sortName" : "Simeone, Harry, Chorale, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-harry-simeone-chorale-6bd7fa6e.html"
+               }
+            }, {
+               "name" : "Season of Lights and Wonder"
+            }, {
+               "name" : "Merry Christmas (Welcome to the Family)"
+            }, {
+               "name" : "Glow"
+            }, {
+               "name" : "Paris Illinois"
+            }, {
+               "name" : "I'll Be Home for Christmas (If Only in My Dreams)",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               }
+            }, {
+               "name" : "O Holy Night",
+               "cover" : {
+                  "mbid" : "ece590a3-ae0e-4311-bcf3-ee07cfb7b4f0",
+                  "name" : "Adolphe Adam",
+                  "sortName" : "Adam, Adolphe",
+                  "disambiguation" : "French composer",
+                  "url" : "https://www.setlist.fm/setlists/adolphe-adam-4bd7dfb2.html"
+               }
+            }, {
+               "name" : "Cool Yule",
+               "cover" : {
+                  "mbid" : "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name" : "Louis Armstrong",
+                  "sortName" : "Armstrong, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-armstrong-bd6b5d6.html"
+               }
+            }, {
+               "name" : "Merry Christmas, Baby",
+               "cover" : {
+                  "mbid" : "700b010b-489b-4b86-9ec1-9fbe57afd077",
+                  "name" : "Johnny Moore’s Three Blazers",
+                  "sortName" : "Moore, Johnny’s Three Blazers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/johnny-moores-three-blazers-23d7687b.html"
+               }
+            }, {
+               "name" : "Have Yourself a Merry Little Christmas",
+               "cover" : {
+                  "mbid" : "46f29ffe-7479-4365-bfd0-fd8f2bb1c7bf",
+                  "name" : "Hugh Martin",
+                  "sortName" : "Martin, Hugh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugh-martin-33d27405.html"
+               }
+            }, {
+               "name" : "The First Noel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brett-eldredge/2025/beacon-theatre-new-york-ny-5b4db7dc.html"
+   }, {
+      "id" : "4b4c435e",
+      "versionId" : "g2b6a24b6",
+      "eventDate" : "12-12-2025",
+      "lastUpdated" : "2026-01-28T07:48:00.286+0000",
+      "artist" : {
+         "mbid" : "46510d46-ce20-4dde-b9ea-207e474353f4",
+         "name" : "Brett Eldredge",
+         "sortName" : "Eldredge, Brett",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brett-eldredge-63d2f2b7.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mr. Christmas"
+            }, {
+               "name" : "Let It Snow! Let It Snow! Let It Snow!",
+               "cover" : {
+                  "mbid" : "9591fd72-f700-49aa-9a91-cc39ccaf9f9e",
+                  "name" : "Vaughn Monroe and His Orchestra",
+                  "sortName" : "Monroe, Vaughn and Orchestra, His",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vaughn-monroe-and-his-orchestra-63d4ee03.html"
+               }
+            }, {
+               "name" : "It's Beginning to Look Like Christmas",
+               "cover" : {
+                  "mbid" : "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+                  "name" : "Perry Como",
+                  "sortName" : "Como, Perry",
+                  "disambiguation" : "US pop singer & TV personality, 1912–2001",
+                  "url" : "https://www.setlist.fm/setlists/perry-como-6bd69a56.html"
+               }
+            }, {
+               "name" : "White Christmas",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               }
+            }, {
+               "name" : "Sweet December"
+            }, {
+               "name" : "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+               "cover" : {
+                  "mbid" : "4439c2fd-a754-4f6a-b3a6-791b47726156",
+                  "name" : "Mel Tormé",
+                  "sortName" : "Tormé, Mel",
+                  "disambiguation" : "“The Velvet Fog”",
+                  "url" : "https://www.setlist.fm/setlists/mel-torme-53d637e9.html"
+               }
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Feels Like Christmas"
+            }, {
+               "name" : "Do You Hear What I Hear?",
+               "cover" : {
+                  "mbid" : "e8553fbd-11ec-4568-9720-be914af8fa17",
+                  "name" : "The Harry Simeone Chorale",
+                  "sortName" : "Simeone, Harry, Chorale, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-harry-simeone-chorale-6bd7fa6e.html"
+               }
+            }, {
+               "name" : "Season of Lights and Wonder"
+            }, {
+               "name" : "Merry Christmas (Welcome to the Family)"
+            }, {
+               "name" : "Glow"
+            }, {
+               "name" : "Paris Illinois"
+            }, {
+               "name" : "I'll Be Home for Christmas (If Only in My Dreams)",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               }
+            }, {
+               "name" : "O Holy Night",
+               "cover" : {
+                  "mbid" : "ece590a3-ae0e-4311-bcf3-ee07cfb7b4f0",
+                  "name" : "Adolphe Adam",
+                  "sortName" : "Adam, Adolphe",
+                  "disambiguation" : "French composer",
+                  "url" : "https://www.setlist.fm/setlists/adolphe-adam-4bd7dfb2.html"
+               }
+            }, {
+               "name" : "Cool Yule",
+               "cover" : {
+                  "mbid" : "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name" : "Louis Armstrong",
+                  "sortName" : "Armstrong, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-armstrong-bd6b5d6.html"
+               }
+            }, {
+               "name" : "Merry Christmas, Baby",
+               "cover" : {
+                  "mbid" : "700b010b-489b-4b86-9ec1-9fbe57afd077",
+                  "name" : "Johnny Moore’s Three Blazers",
+                  "sortName" : "Moore, Johnny’s Three Blazers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/johnny-moores-three-blazers-23d7687b.html"
+               }
+            }, {
+               "name" : "The First Noel",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/brett-eldredge/2025/beacon-theatre-new-york-ny-4b4c435e.html"
+   }, {
+      "id" : "3b42a0a4",
+      "versionId" : "g5b361f78",
+      "eventDate" : "10-12-2025",
+      "lastUpdated" : "2026-10-26T01:07:03.693+0000",
+      "artist" : {
+         "mbid" : "830dce6f-c9ff-4ebe-944b-2ea2ab22fcdf",
+         "name" : "Béla Fleck and the Flecktones",
+         "sortName" : "Fleck, Béla and the Flecktones",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bela-fleck-and-the-flecktones-6bd6424a.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Jingle All the Way Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Next"
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Sleigh Ride",
+               "cover" : {
+                  "mbid" : "17b2426a-0e0e-4d5e-b92e-82f40a391c8c",
+                  "name" : "Leroy Anderson & His Pops Orchestra",
+                  "sortName" : "Anderson, Leroy & His Pops Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/leroy-anderson-and-his-pops-orchestra-3bd0142c.html"
+               },
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "Christmas Time Is Here",
+               "cover" : {
+                  "mbid" : "744b52c8-509b-4451-abfd-a17d18d4bd1d",
+                  "name" : "Vince Guaraldi Trio",
+                  "sortName" : "Guaraldi, Vince, Trio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vince-guaraldi-trio-53d67f9d.html"
+               },
+               "info" : "Bela, Victor, and Futureman Trio, >"
+            }, {
+               "name" : "Linus and Lucy",
+               "cover" : {
+                  "mbid" : "744b52c8-509b-4451-abfd-a17d18d4bd1d",
+                  "name" : "Vince Guaraldi Trio",
+                  "sortName" : "Guaraldi, Vince, Trio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vince-guaraldi-trio-53d67f9d.html"
+               },
+               "info" : "Bela, Victor, and Futureman Trio"
+            }, {
+               "name" : "Victor Wooten Solo"
+            }, {
+               "name" : "Scratch & Sniff"
+            }, {
+               "name" : "The Twelve Days of Christmas",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "Jingle Bells",
+               "cover" : {
+                  "mbid" : "ff98b821-de0d-4a0e-9002-507bf323a97d",
+                  "name" : "James Lord Pierpont",
+                  "sortName" : "Pierpont, James Lord",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-lord-pierpont-3bd2986c.html"
+               },
+               "info" : "Bela & Ayan-ool Duet"
+            }, {
+               "name" : "Jingle Bells",
+               "cover" : {
+                  "mbid" : "ff98b821-de0d-4a0e-9002-507bf323a97d",
+                  "name" : "James Lord Pierpont",
+                  "sortName" : "Pierpont, James Lord",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-lord-pierpont-3bd2986c.html"
+               },
+               "info" : "also with Sierra Hull",
+               "with" : {
+                  "mbid" : "d04b3d25-137f-4ad1-b045-dc3023945970",
+                  "name" : "Alash",
+                  "sortName" : "Alash",
+                  "disambiguation" : "Tuvan band who throat-sing and play traditional instruments",
+                  "url" : "https://www.setlist.fm/setlists/alash-6bd27aca.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sleeper"
+            }, {
+               "name" : "Christmas Medley",
+               "info" : "featuring mutiple Christmas melodies interspersed"
+            }, {
+               "name" : "Chagytai",
+               "cover" : {
+                  "mbid" : "d04b3d25-137f-4ad1-b045-dc3023945970",
+                  "name" : "Alash",
+                  "sortName" : "Alash",
+                  "disambiguation" : "Tuvan band who throat-sing and play traditional instruments",
+                  "url" : "https://www.setlist.fm/setlists/alash-6bd27aca.html"
+               },
+               "info" : "Alash Ensemble only"
+            }, {
+               "name" : "Ediski deg Boostaamny",
+               "cover" : {
+                  "mbid" : "ebaabcd8-3fcd-4db7-8524-e4ccf03bf4cd",
+                  "name" : "Alash Ensemble",
+                  "sortName" : "Alash Ensemble",
+                  "disambiguation" : "Throat-singing group from Tuva",
+                  "url" : "https://www.setlist.fm/setlists/alash-ensemble-2bd588e6.html"
+               },
+               "info" : "Alash Ensemble only"
+            }, {
+               "name" : "Béla Solo",
+               "info" : "inc. \"Imagine\" (John Lennon), \"The First Noel\", \"Jesu, Joy of Man's Desiring\", and \"Joy to the World"
+            }, {
+               "name" : "Have Yourself a Merry Little Christmas",
+               "cover" : {
+                  "mbid" : "46f29ffe-7479-4365-bfd0-fd8f2bb1c7bf",
+                  "name" : "Hugh Martin",
+                  "sortName" : "Martin, Hugh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugh-martin-33d27405.html"
+               },
+               "with" : {
+                  "mbid" : "545e6dac-993f-4841-8464-df0f5eadb7c2",
+                  "name" : "Abigail Washburn",
+                  "sortName" : "Washburn, Abigail",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/abigail-washburn-bd669fe.html"
+               }
+            }, {
+               "name" : "What Child Is This / Dyngyldai",
+               "info" : "also with Sierra Hull",
+               "with" : {
+                  "mbid" : "d04b3d25-137f-4ad1-b045-dc3023945970",
+                  "name" : "Alash",
+                  "sortName" : "Alash",
+                  "disambiguation" : "Tuvan band who throat-sing and play traditional instruments",
+                  "url" : "https://www.setlist.fm/setlists/alash-6bd27aca.html"
+               }
+            }, {
+               "name" : "Flight of the Cosmic Hippo",
+               "info" : ">",
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "I Want a Hippopotamus for Christmas",
+               "cover" : {
+                  "mbid" : "86df6230-6dbb-43f7-8b15-1bb99f75b9b2",
+                  "name" : "Gayla Peevey",
+                  "sortName" : "Peevey, Gayla",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gayla-peevey-5bd4a310.html"
+               },
+               "info" : ">",
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "Stomping Grounds",
+               "info" : "with \"Wipeout\" and :I Want a Hippopotamus for Christmas\" interpolations",
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ah Sho Dekio",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "also with Sierra Hull",
+               "with" : {
+                  "mbid" : "d04b3d25-137f-4ad1-b045-dc3023945970",
+                  "name" : "Alash",
+                  "sortName" : "Alash",
+                  "disambiguation" : "Tuvan band who throat-sing and play traditional instruments",
+                  "url" : "https://www.setlist.fm/setlists/alash-6bd27aca.html"
+               }
+            }, {
+               "name" : "Shanti",
+               "info" : "also with Sierra Hull",
+               "with" : {
+                  "mbid" : "d04b3d25-137f-4ad1-b045-dc3023945970",
+                  "name" : "Alash",
+                  "sortName" : "Alash",
+                  "disambiguation" : "Tuvan band who throat-sing and play traditional instruments",
+                  "url" : "https://www.setlist.fm/setlists/alash-6bd27aca.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/bela-fleck-and-the-flecktones/2025/beacon-theatre-new-york-ny-3b42a0a4.html"
+   }, {
+      "id" : "1b4c590c",
+      "versionId" : "g3611193",
+      "eventDate" : "09-12-2025",
+      "lastUpdated" : "2025-12-10T13:39:30.941+0000",
+      "artist" : {
+         "mbid" : "ff22ceb1-cf39-4e3f-8be0-fbcf09221bf4",
+         "name" : "The Rock Orchestra",
+         "sortName" : "Rock Orchestra, The",
+         "disambiguation" : "UK based orchestral rock covers",
+         "url" : "https://www.setlist.fm/setlists/the-rock-orchestra-3beec474.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "O Fortuna",
+               "cover" : {
+                  "mbid" : "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f",
+                  "name" : "Carl Orff",
+                  "sortName" : "Orff, Carl",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/carl-orff-7bd4ce90.html"
+               }
+            }, {
+               "name" : "Kashmir",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Numb",
+               "cover" : {
+                  "mbid" : "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+                  "name" : "Linkin Park",
+                  "sortName" : "Linkin Park",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/linkin-park-bd6bdae.html"
+               }
+            }, {
+               "name" : "Sweet Child o' Mine",
+               "cover" : {
+                  "mbid" : "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name" : "Guns N’ Roses",
+                  "sortName" : "Guns N’ Roses",
+                  "disambiguation" : "American hard rock band from Los Angeles",
+                  "url" : "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+               }
+            }, {
+               "name" : "Dream On",
+               "cover" : {
+                  "mbid" : "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+                  "name" : "Aerosmith",
+                  "sortName" : "Aerosmith",
+                  "disambiguation" : "American hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/aerosmith-3bd6b8fc.html"
+               }
+            }, {
+               "name" : "Stairway to Heaven",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Paint It Black",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "Bring Me to Life",
+               "cover" : {
+                  "mbid" : "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+                  "name" : "Evanescence",
+                  "sortName" : "Evanescence",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/evanescence-43d6bfc7.html"
+               }
+            }, {
+               "name" : "Welcome to the Jungle",
+               "cover" : {
+                  "mbid" : "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name" : "Guns N’ Roses",
+                  "sortName" : "Guns N’ Roses",
+                  "disambiguation" : "American hard rock band from Los Angeles",
+                  "url" : "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+               }
+            }, {
+               "name" : "Toxicity",
+               "cover" : {
+                  "mbid" : "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                  "name" : "System of a Down",
+                  "sortName" : "System of a Down",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sonne",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Welcome to the Black Parade",
+               "cover" : {
+                  "mbid" : "c07f0676-9143-4217-8a9f-4c26bd636f13",
+                  "name" : "My Chemical Romance",
+                  "sortName" : "My Chemical Romance",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/my-chemical-romance-3bd6bcd4.html"
+               }
+            }, {
+               "name" : "Ace of Spades",
+               "cover" : {
+                  "mbid" : "57961a97-3796-4bf7-9f02-a985a8979ae9",
+                  "name" : "Motörhead",
+                  "sortName" : "Motörhead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/motorhead-33d68059.html"
+               }
+            }, {
+               "name" : "Nothing Else Matters",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Storm",
+               "cover" : {
+                  "mbid" : "ad79836d-9849-44df-8789-180bbc823f3c",
+                  "name" : "Antonio Vivaldi",
+                  "sortName" : "Vivaldi, Antonio",
+                  "disambiguation" : "Italian baroque composer and violinist",
+                  "url" : "https://www.setlist.fm/setlists/antonio-vivaldi-73d63201.html"
+               }
+            }, {
+               "name" : "Thunderstruck",
+               "cover" : {
+                  "mbid" : "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name" : "AC/DC",
+                  "sortName" : "AC/DC",
+                  "disambiguation" : "Australian hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/acdc-23d6807b.html"
+               }
+            }, {
+               "name" : "Take Me to Church",
+               "cover" : {
+                  "mbid" : "b4691384-50c3-4afd-9988-51d3ec5db65d",
+                  "name" : "Hozier",
+                  "sortName" : "Hozier",
+                  "disambiguation" : "Irish singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/hozier-63da4a6f.html"
+               }
+            }, {
+               "name" : "Zombie",
+               "cover" : {
+                  "mbid" : "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+                  "name" : "The Cranberries",
+                  "sortName" : "Cranberries, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-cranberries-3d6b9ef.html"
+               }
+            }, {
+               "name" : "Chop Suey!",
+               "cover" : {
+                  "mbid" : "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                  "name" : "System of a Down",
+                  "sortName" : "System of a Down",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Enter Sandman",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/the-rock-orchestra/2025/beacon-theatre-new-york-ny-1b4c590c.html"
+   }, {
+      "id" : "6343029b",
+      "versionId" : "g236158c3",
+      "eventDate" : "06-12-2025",
+      "lastUpdated" : "2025-12-11T15:25:45.461+0000",
+      "artist" : {
+         "mbid" : "1dac1e7d-1eab-4e0c-8545-d027e0088cc2",
+         "name" : "The Allman Betts Band",
+         "sortName" : "Allman Betts Band, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-allman-betts-band-53c94bf5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "9th Annual Allman Betts Family Revival"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Hot 'Lanta",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Statesboro Blues",
+               "cover" : {
+                  "mbid" : "81e02e29-e46a-49cb-bf13-d204cbe86daa",
+                  "name" : "Blind Willie McTell",
+                  "sortName" : "McTell, Blind Willie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/blind-willie-mctell-63d62693.html"
+               },
+               "with" : {
+                  "mbid" : "0a314698-09db-445f-ac69-4ee6514c86af",
+                  "name" : "Jimmy Hall",
+                  "sortName" : "Hall, Jimmy",
+                  "disambiguation" : "American singer/songwriter, member of Wet Willie",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-hall-23d77003.html"
+               }
+            }, {
+               "name" : "Call It Stormy Monday but Tuesday Is Just as Bad",
+               "cover" : {
+                  "mbid" : "f1a3fb4a-fff6-4556-a290-3704b109da90",
+                  "name" : "T‐Bone Walker",
+                  "sortName" : "Walker, T‐Bone",
+                  "disambiguation" : "US blues musician & songwriter, 1910–1975",
+                  "url" : "https://www.setlist.fm/setlists/tbone-walker-3bd698e8.html"
+               }
+            }, {
+               "name" : "Blue Sky",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "No One to Run With",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "and Robert Randolph, Judith Hill",
+               "with" : {
+                  "mbid" : "0a314698-09db-445f-ac69-4ee6514c86af",
+                  "name" : "Jimmy Hall",
+                  "sortName" : "Hall, Jimmy",
+                  "disambiguation" : "American singer/songwriter, member of Wet Willie",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-hall-23d77003.html"
+               }
+            }, {
+               "name" : "One Way Out",
+               "cover" : {
+                  "mbid" : "3b8403b6-72c8-4953-b966-5fc555923baf",
+                  "name" : "Sonny Boy Williamson",
+                  "sortName" : "Williamson, Sonny Boy",
+                  "disambiguation" : "Aleck “Sonny Boy Williamson” Miller, 1912–1965",
+                  "url" : "https://www.setlist.fm/setlists/sonny-boy-williamson-3bd69814.html"
+               },
+               "info" : "and Sierra Hall",
+               "with" : {
+                  "mbid" : "f96ebe5e-fa84-4583-95b0-962a1b0f1b57",
+                  "name" : "G. Love",
+                  "sortName" : "Love, G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/g-love-33d6d879.html"
+               }
+            }, {
+               "name" : "Ain't Wastin' Time No More",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "and Luther Dickinson",
+               "with" : {
+                  "mbid" : "14ea9fb0-132b-4377-8f21-0e849f6bd7de",
+                  "name" : "Judith Hill",
+                  "sortName" : "Hill, Judith",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/judith-hill-3bd35438.html"
+               }
+            }, {
+               "name" : "Dreams",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "1bfae567-61d5-4dbc-b368-198e547fe729",
+                  "name" : "Robert Randolph",
+                  "sortName" : "Randolph, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-randolph-4bd64be2.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Jessica",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Trouble No More",
+               "cover" : {
+                  "mbid" : "f86f1f07-d182-45ce-ae93-ef610880ca72",
+                  "name" : "Muddy Waters",
+                  "sortName" : "Muddy Waters",
+                  "disambiguation" : "blues musician",
+                  "url" : "https://www.setlist.fm/setlists/muddy-waters-3bd69810.html"
+               },
+               "info" : "and Robert Randolph",
+               "with" : {
+                  "mbid" : "0a314698-09db-445f-ac69-4ee6514c86af",
+                  "name" : "Jimmy Hall",
+                  "sortName" : "Hall, Jimmy",
+                  "disambiguation" : "American singer/songwriter, member of Wet Willie",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-hall-23d77003.html"
+               }
+            }, {
+               "name" : "Can You Fool",
+               "cover" : {
+                  "mbid" : "43e32015-499a-476b-8e3a-3b8b0afec877",
+                  "name" : "Micheal Smotherman",
+                  "sortName" : "Smotherman, Micheal",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/micheal-smotherman-63d392c3.html"
+               },
+               "info" : "and Jimmy Hall",
+               "with" : {
+                  "mbid" : "b9273ea3-f8f2-43ab-80ec-735326273f41",
+                  "name" : "Amanda Shires",
+                  "sortName" : "Shires, Amanda",
+                  "disambiguation" : "US country",
+                  "url" : "https://www.setlist.fm/setlists/amanda-shires-33d43071.html"
+               }
+            }, {
+               "name" : "Melissa",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            }, {
+               "name" : "Seven Turns",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "End of the Line",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+                  "name" : "Sierra Hull",
+                  "sortName" : "Hull, Sierra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+               }
+            }, {
+               "name" : "Back Where It All Begins",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "With Joy to the World tease"
+            }, {
+               "name" : "Come and Go Blues",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "70ab29b0-6a81-4518-a74b-0c2ac84ddb03",
+                  "name" : "Mattie Schell",
+                  "sortName" : "Schell, Mattie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mattie-schell-6b9cb2f6.html"
+               }
+            }, {
+               "name" : "Whipping Post",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "b9273ea3-f8f2-43ab-80ec-735326273f41",
+                  "name" : "Amanda Shires",
+                  "sortName" : "Shires, Amanda",
+                  "disambiguation" : "US country",
+                  "url" : "https://www.setlist.fm/setlists/amanda-shires-33d43071.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Copperhead Road",
+               "cover" : {
+                  "mbid" : "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name" : "Steve Earle",
+                  "sortName" : "Earle, Steve",
+                  "disambiguation" : "US folk/rock singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+               },
+               "info" : "and Sierra Hull, Amanda Shires",
+               "with" : {
+                  "mbid" : "ec863030-7c13-45a3-a025-a69195d3a020",
+                  "name" : "Steve Earle",
+                  "sortName" : "Earle, Steve",
+                  "disambiguation" : "US folk/rock singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/steve-earle-13d6b1fd.html"
+               }
+            }, {
+               "name" : "Midnight Rider",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "with all hands on deck"
+            }, {
+               "name" : "Little Martha",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Devon Allman informed the sold out crowd the show was being recorded for future release.",
+      "url" : "https://www.setlist.fm/setlist/the-allman-betts-band/2025/beacon-theatre-new-york-ny-6343029b.html"
+   }, {
+      "id" : "334360ad",
+      "versionId" : "g7b60ea70",
+      "eventDate" : "30-11-2025",
+      "lastUpdated" : "2025-12-01T04:59:06.940+0000",
+      "artist" : {
+         "mbid" : "822b1e81-d1a0-47fb-b7f9-ef614b913603",
+         "name" : "Trey Anastasio Band",
+         "sortName" : "Trey Anastasio Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trey-anastasio-band-53d6d729.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Just a Touch",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "Trey solo acoustic with TAB horn section on vocals) (Dedicated to James Casey) (with Jo Lampert"
+            }, {
+               "name" : "Cayman Review",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "with Jo Lampert"
+            }, {
+               "name" : "Back on the Train",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Simple Twist Up Dave",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Slave to the Traffic Light",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic with TAB horn section for first half, switched to electric; also with Jeff Tanski",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Let Me Lie",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "also with Jo Lampert",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Heavy Things",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "with Jo Lampert"
+            }, {
+               "name" : "Undermind",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Love Is What We Are",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "with Jo Lampert"
+            }, {
+               "name" : "Burlap Sack and Pumps",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Shade",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "46 Days",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "No Men in No Man's Land",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Steam",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Lifeboy",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Drifting",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "with Jo Lampert"
+            }, {
+               "name" : "Night Speaks to a Woman",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Liquid Time",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "with Jo Lampert"
+            }, {
+               "name" : "Tube",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "with Jo Lampert) (Trey + TAB horn section quoted \"She Blinded Me With Science!\""
+            }, {
+               "name" : "If I Could",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic) (also with Jeff Tanski",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Curlew's Call",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "preceded by Cyro Baptista avant-garde percussion solo"
+            }, {
+               "name" : "You Enjoy Myself",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "also with Jeff Tanski and Jo Lampert) (Lyrics changed to \"boy, woman, god, shit.\"",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Brief Time",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               },
+               "info" : "Trey solo acoustic"
+            }, {
+               "name" : "More",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Push On 'Til the Day",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "with Jo Lampert",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Billed as The Beacon Jams (celebrating the 5th anniversary of 2020's Beacon Jams residency). Benefit for Divided Sky Foundation",
+      "url" : "https://www.setlist.fm/setlist/trey-anastasio-band/2025/beacon-theatre-new-york-ny-334360ad.html"
+   }, {
+      "id" : "2b4360ae",
+      "versionId" : "g2b6084ae",
+      "eventDate" : "29-11-2025",
+      "lastUpdated" : "2025-11-30T04:57:39.603+0000",
+      "artist" : {
+         "mbid" : "822b1e81-d1a0-47fb-b7f9-ef614b913603",
+         "name" : "Trey Anastasio Band",
+         "sortName" : "Trey Anastasio Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trey-anastasio-band-53d6d729.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Speak to Me",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Olivia",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Pigtail",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Set Your Soul Free"
+            }, {
+               "name" : "Petrichor",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic with TAB horn section) (also with Jeff Tanski",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "About to Run",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               },
+               "info" : "without horn section"
+            }, {
+               "name" : "Evolve",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "The Inlaw Josie Wales",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic) (also with Jeff Tanski",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Water in the Sky",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Valentine",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Sand",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Wolfman's Brother",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Oblivion",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Pebbles and Marbles",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo acoustic with TAB horn section only for the first half) (also with Jeff Tanski",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "A Wave of Hope",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Twist",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "preceded by Cyro Baptista avant-garde percussion solo) (>"
+            }, {
+               "name" : "Last Tube",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "In Long Lines",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Shine",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Money, Love and Change",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Simeon"
+            }, {
+               "name" : "Ghost",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Snowflakes in the Sand",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "Trey solo acoustic"
+            }, {
+               "name" : "Brian and Robert",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "False start",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Say It to Me S.A.N.T.O.S.",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Billed as The Beacon Jams (celebrating the 5th anniversary of 2020's Beacon Jams residency). Benefit for Divided Sky Foundation",
+      "url" : "https://www.setlist.fm/setlist/trey-anastasio-band/2025/beacon-theatre-new-york-ny-2b4360ae.html"
+   }, {
+      "id" : "234360af",
+      "versionId" : "g3609503",
+      "eventDate" : "28-11-2025",
+      "lastUpdated" : "2025-11-29T19:15:04.475+0000",
+      "artist" : {
+         "mbid" : "822b1e81-d1a0-47fb-b7f9-ef614b913603",
+         "name" : "Trey Anastasio Band",
+         "sortName" : "Trey Anastasio Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trey-anastasio-band-53d6d729.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "In the House - In a Heartbeat",
+               "cover" : {
+                  "mbid" : "42659af1-30fa-43a3-a157-7c6da35fae64",
+                  "name" : "John Murphy",
+                  "sortName" : "Murphy, John",
+                  "disambiguation" : "pianist",
+                  "url" : "https://www.setlist.fm/setlists/john-murphy-3ca1947.html"
+               },
+               "info" : "also with Jeff Tanski on piano) (>",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Stash",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "also with Jeff Tanski on piano",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "What's Going Through Your Mind"
+            }, {
+               "name" : "Mozambique",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Alive Again",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "The Moma Dance",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Monsters",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "The Divided Sky",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey acoustic) (also with Jeff Tanski on piano",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Everything's Right",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Lost in the Pack",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "Trey solo acoustic"
+            }, {
+               "name" : "Blaze On",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "with \"My Favorite Things\" tease from Kenneth"
+            }, {
+               "name" : "Spin",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Real You"
+            }, {
+               "name" : "Harry Hood",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey solo without band for the first half) (also with Jeff Tanski on piano",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Gotta Jibboo",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "My Friend, My Friend",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "also with Jeff Tanski on piano",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "What's the Use?",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey with Cyro) (also with Jeff Tanski on piano",
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "First Tube",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "A Life Beyond the Dream",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "The Lizards",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            }, {
+               "name" : "Carini",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "ead19836-1dcc-430d-a45e-a452984bdace",
+                  "name" : "Rescue Squad Strings",
+                  "sortName" : "Rescue Squad Strings",
+                  "disambiguation" : "String quartet plays with Trey Anastasio",
+                  "url" : "https://www.setlist.fm/setlists/rescue-squad-strings-2bf4c456.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Billed as The Beacon Jams (celebrating the 5th anniversary of 2020's Beacon Jams residency). Benefit for Divided Sky Foundation",
+      "url" : "https://www.setlist.fm/setlist/trey-anastasio-band/2025/beacon-theatre-new-york-ny-234360af.html"
+   }, {
+      "id" : "2b5b34de",
+      "versionId" : "gb44d5c6",
+      "eventDate" : "26-11-2025",
+      "lastUpdated" : "2025-02-26T23:59:59.495+0000",
+      "artist" : {
+         "mbid" : "d1f26bba-2ef1-452a-82e9-22012944a098",
+         "name" : "Louis C.K.",
+         "sortName" : "C.K., Louis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/louis-ck-53d4a3e5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Ridiculous"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/louis-ck/2025/beacon-theatre-new-york-ny-2b5b34de.html"
+   }, {
+      "id" : "235b34df",
+      "versionId" : "g344d5c7",
+      "eventDate" : "25-11-2025",
+      "lastUpdated" : "2025-02-26T23:59:50.325+0000",
+      "artist" : {
+         "mbid" : "d1f26bba-2ef1-452a-82e9-22012944a098",
+         "name" : "Louis C.K.",
+         "sortName" : "C.K., Louis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/louis-ck-53d4a3e5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Ridiculous"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/louis-ck/2025/beacon-theatre-new-york-ny-235b34df.html"
+   }, {
+      "id" : "b5a71e6",
+      "versionId" : "gb60dd2a",
+      "eventDate" : "22-11-2025",
+      "lastUpdated" : "2025-12-01T14:34:05.426+0000",
+      "artist" : {
+         "mbid" : "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+         "name" : "Patti Smith",
+         "sortName" : "Smith, Patti",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/patti-smith-73d6a2c9.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "\"Horses\" 50th Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Horses",
+            "song" : [ {
+               "name" : "Gloria",
+               "cover" : {
+                  "mbid" : "dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6",
+                  "name" : "Them",
+                  "sortName" : "Them",
+                  "disambiguation" : "Northern Irish group originally feat. Van Morrison",
+                  "url" : "https://www.setlist.fm/setlists/them-33d6ac81.html"
+               }
+            }, {
+               "name" : "Redondo Beach"
+            }, {
+               "name" : "Free Money"
+            }, {
+               "name" : "Birdland"
+            }, {
+               "name" : "Kimberly"
+            }, {
+               "name" : "Break It Up"
+            }, {
+               "name" : "Elegie"
+            }, {
+               "name" : "Land: Horses / Land of a Thousand Dances / Gloria (reprise)",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "See No Evil",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Friction",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Marquee Moon",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Dancing Barefoot",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Pissing in a River",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Peaceable Kingdom / People Have the Power"
+            }, {
+               "name" : "Because the Night",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ghost Dance",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               },
+               "info" : "and Jesse Paris Smith",
+               "with" : {
+                  "mbid" : "905a8f9b-03dc-4f47-b9bb-ecce7ea13ab1",
+                  "name" : "Michael Stipe",
+                  "sortName" : "Stipe, Michael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/michael-stipe-23d6b827.html"
+               }
+            }, {
+               "name" : "People Have the Power",
+               "info" : "and Michael Stipe and Jesse Paris Smith",
+               "with" : {
+                  "mbid" : "dbc4f242-5402-4801-abdb-091e313ad6cc",
+                  "name" : "Charlie Sexton",
+                  "sortName" : "Sexton, Charlie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlie-sexton-2bd7000a.html"
+               }
+            }, {
+               "name" : "My Generation",
+               "cover" : {
+                  "mbid" : "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+                  "name" : "The Who",
+                  "sortName" : "Who, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+               },
+               "info" : "and Charlie Sexton and Michael Stipe; tour debut",
+               "with" : {
+                  "mbid" : "f0882d14-446e-4172-9736-98fbc1395fce",
+                  "name" : "Jesse Paris Smith",
+                  "sortName" : "Smith, Jesse Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-paris-smith-43d9a737.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/patti-smith/2025/beacon-theatre-new-york-ny-b5a71e6.html"
+   }, {
+      "id" : "35a71e3",
+      "versionId" : "g53639f95",
+      "eventDate" : "21-11-2025",
+      "lastUpdated" : "2025-11-22T03:18:49.958+0000",
+      "artist" : {
+         "mbid" : "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+         "name" : "Patti Smith",
+         "sortName" : "Smith, Patti",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/patti-smith-73d6a2c9.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "\"Horses\" 50th Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Horses",
+            "song" : [ {
+               "name" : "Gloria",
+               "cover" : {
+                  "mbid" : "dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6",
+                  "name" : "Them",
+                  "sortName" : "Them",
+                  "disambiguation" : "Northern Irish group originally feat. Van Morrison",
+                  "url" : "https://www.setlist.fm/setlists/them-33d6ac81.html"
+               }
+            }, {
+               "name" : "Redondo Beach"
+            }, {
+               "name" : "Free Money"
+            }, {
+               "name" : "Birdland"
+            }, {
+               "name" : "Kimberly"
+            }, {
+               "name" : "Break It Up"
+            }, {
+               "name" : "Elegie"
+            }, {
+               "name" : "Land: Horses / Land of a Thousand Dances / Gloria (reprise)",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "See No Evil",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Friction",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Marquee Moon",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "So You Want to Be a Rock 'n' Roll Star",
+               "cover" : {
+                  "mbid" : "2819834e-4e08-47b0-a2c4-b7672318e8f0",
+                  "name" : "The Byrds",
+                  "sortName" : "Byrds, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-byrds-13d6adb9.html"
+               }
+            }, {
+               "name" : "Dancing Barefoot",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Pissing in a River",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Peaceable Kingdom / People Have the Power"
+            }, {
+               "name" : "Because the Night",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ghost Dance",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               },
+               "with" : {
+                  "mbid" : "f0882d14-446e-4172-9736-98fbc1395fce",
+                  "name" : "Jesse Paris Smith",
+                  "sortName" : "Smith, Jesse Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-paris-smith-43d9a737.html"
+               }
+            }, {
+               "name" : "People Have the Power",
+               "with" : {
+                  "mbid" : "f0882d14-446e-4172-9736-98fbc1395fce",
+                  "name" : "Jesse Paris Smith",
+                  "sortName" : "Smith, Jesse Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-paris-smith-43d9a737.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/patti-smith/2025/beacon-theatre-new-york-ny-35a71e3.html"
+   }, {
+      "id" : "534f5329",
+      "versionId" : "g536253b9",
+      "eventDate" : "19-11-2025",
+      "lastUpdated" : "2025-11-20T15:32:37.394+0000",
+      "artist" : {
+         "mbid" : "ce58d854-7430-4231-aa44-97f0144b3372",
+         "name" : "Sarah McLachlan",
+         "sortName" : "McLachlan, Sarah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sarah-mclachlan-13d6b9f9.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "The Better Broken Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Better Broken"
+            }, {
+               "name" : "Possession"
+            }, {
+               "name" : "Only Human"
+            }, {
+               "name" : "I Will Remember You"
+            }, {
+               "name" : "Adia"
+            }, {
+               "name" : "Building a Mystery"
+            }, {
+               "name" : "Reminds Me"
+            }, {
+               "name" : "Wait"
+            }, {
+               "name" : "World on Fire"
+            }, {
+               "name" : "One in a Long Line"
+            }, {
+               "name" : "The Last to Go"
+            }, {
+               "name" : "Sweet Surrender"
+            }, {
+               "name" : "Into the Fire",
+               "info" : "only played a snippet said she forgot the words"
+            }, {
+               "name" : "Answer"
+            }, {
+               "name" : "Elsewhere"
+            }, {
+               "name" : "Ice Cream"
+            }, {
+               "name" : "If This Is the End..."
+            }, {
+               "name" : "Fear"
+            }, {
+               "name" : "Fumbling Towards Ecstasy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Gravity"
+            }, {
+               "name" : "Angel"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/sarah-mclachlan/2025/beacon-theatre-new-york-ny-534f5329.html"
+   }, {
+      "id" : "3b414c74",
+      "versionId" : "g736552b5",
+      "eventDate" : "12-11-2025",
+      "lastUpdated" : "2025-11-13T11:56:00.131+0000",
+      "artist" : {
+         "mbid" : "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+         "name" : "Boz Scaggs",
+         "sortName" : "Scaggs, Boz",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/boz-scaggs-13d6b9dd.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Rhythm Revue 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "It's Over"
+            }, {
+               "name" : "Rock and Stick"
+            }, {
+               "name" : "Sierra"
+            }, {
+               "name" : "Drowning in the Sea of Love",
+               "cover" : {
+                  "mbid" : "b7635355-a40d-4b08-b441-71aa91017bfd",
+                  "name" : "Joe Simon",
+                  "sortName" : "Simon, Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joe-simon-53d69f1d.html"
+               }
+            }, {
+               "name" : "The Feeling Is Gone",
+               "cover" : {
+                  "mbid" : "66ebc271-6a26-4fe7-848b-f217da119d92",
+                  "name" : "Bobby “Blue” Bland",
+                  "sortName" : "Bland, Bobby “Blue”",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bobby-blue-bland-4bd7b36e.html"
+               }
+            }, {
+               "name" : "Just Got to Know",
+               "cover" : {
+                  "mbid" : "497acfd9-091f-4405-a603-0623d099cc1d",
+                  "name" : "Jimmy McCracklin",
+                  "sortName" : "McCracklin, Jimmy",
+                  "disambiguation" : "blues singer, songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-mccracklin-1bd779a4.html"
+               }
+            }, {
+               "name" : "Your Good Thing (Is About to End)",
+               "cover" : {
+                  "mbid" : "ae76f6b3-1613-4880-9421-a59e157fc47e",
+                  "name" : "Mable John",
+                  "sortName" : "John, Mable",
+                  "disambiguation" : "blues, R&B and gospel singer",
+                  "url" : "https://www.setlist.fm/setlists/mable-john-2bd6b86e.html"
+               }
+            }, {
+               "name" : "Miss Riddle"
+            }, {
+               "name" : "It All Went Down the Drain",
+               "cover" : {
+                  "mbid" : "0ad58e2b-51d9-4c6b-a609-2804246b70da",
+                  "name" : "Earl King",
+                  "sortName" : "King, Earl",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-king-6bd63232.html"
+               }
+            }, {
+               "name" : "Breakdown Dead Ahead"
+            }, {
+               "name" : "Harbor Lights"
+            }, {
+               "name" : "Call That Love"
+            }, {
+               "name" : "Radiator 110"
+            }, {
+               "name" : "Somebody Loan Me a Dime",
+               "cover" : {
+                  "mbid" : "1b943e67-ed8d-4b5c-b86c-45cc3095c77e",
+                  "name" : "Fenton Robinson",
+                  "sortName" : "Robinson, Fenton",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fenton-robinson-13d72dc1.html"
+               }
+            }, {
+               "name" : "Lowdown"
+            }, {
+               "name" : "Lido Shuffle"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "What Can I Say"
+            }, {
+               "name" : "You Never Can Tell",
+               "cover" : {
+                  "mbid" : "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+                  "name" : "Chuck Berry",
+                  "sortName" : "Berry, Chuck",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chuck-berry-63d6a2b7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/boz-scaggs/2025/beacon-theatre-new-york-ny-3b414c74.html"
+   }, {
+      "id" : "534fcf25",
+      "versionId" : "gb65c55e",
+      "eventDate" : "11-11-2025",
+      "lastUpdated" : "2025-11-09T17:54:12.409+0000",
+      "artist" : {
+         "mbid" : "fe1a1451-cae2-4bf4-872e-b4b8839be83f",
+         "name" : "I’m With Her",
+         "sortName" : "I’m With Her",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/im-with-her-4bcc0b02.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Wild and Clear and Blue"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/im-with-her/2025/beacon-theatre-new-york-ny-534fcf25.html"
+   }, {
+      "id" : "334f28d5",
+      "versionId" : "g736d6ed1",
+      "eventDate" : "11-11-2025",
+      "lastUpdated" : "2026-01-22T03:50:25.128+0000",
+      "artist" : {
+         "mbid" : "fe1a1451-cae2-4bf4-872e-b4b8839be83f",
+         "name" : "I’m With Her",
+         "sortName" : "I’m With Her",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/im-with-her-4bcc0b02.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crescent City"
+            }, {
+               "name" : "Walkin' Back to Georgia",
+               "cover" : {
+                  "mbid" : "fcfa9543-e113-4ef9-9ef6-455ba4cbe7af",
+                  "name" : "Jim Croce",
+                  "sortName" : "Croce, Jim",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jim-croce-6bd6b282.html"
+               }
+            }, {
+               "name" : "I Think of You",
+               "cover" : {
+                  "mbid" : "c80cc23a-690e-498f-9e61-bea2509ca096",
+                  "name" : "Utah Phillips",
+                  "sortName" : "Phillips, Utah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/utah-phillips-13d64ddd.html"
+               },
+               "info" : "Written by Rosalie Sorrels"
+            } ]
+         } ]
+      },
+      "info" : "Pre-show VIP set with Q&A",
+      "url" : "https://www.setlist.fm/setlist/im-with-her/2025/beacon-theatre-new-york-ny-334f28d5.html"
+   } ]
+}

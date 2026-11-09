@@ -1,0 +1,1406 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 281,
+   "setlist" : [ {
+      "id" : "13b25571",
+      "versionId" : "g13f1d945",
+      "eventDate" : "05-08-2022",
+      "lastUpdated" : "2022-08-06T14:33:45.303+0000",
+      "artist" : {
+         "mbid" : "759b5ff1-91fe-4ec9-b9b7-75b7b2ceb283",
+         "name" : "mewithoutYou",
+         "sortName" : "mewithoutYou",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mewithoutyou-43d60b1b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Farewell Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "9:27a.m., 7/29"
+            }, {
+               "name" : "Tie Me Up! Untie Me!"
+            }, {
+               "name" : "Wolf Am I! (And Shadow)"
+            }, {
+               "name" : "C-Minor"
+            }, {
+               "name" : "Lilac Queen"
+            }, {
+               "name" : "East Enders Wives"
+            }, {
+               "name" : "Julia (or, 'Holy to the LORD' on the Bells of Horses)"
+            }, {
+               "name" : "We Know Who Our Enemies Are"
+            }, {
+               "name" : "Paper Hanger"
+            }, {
+               "name" : "Winter Solstice"
+            }, {
+               "name" : "O, Porcupine",
+               "info" : "First half only"
+            }, {
+               "name" : "Yellow Spider",
+               "info" : "followed by the rest of \"O, Porcupine\""
+            }, {
+               "name" : "My Exit, Unfair"
+            }, {
+               "name" : "Red Cow"
+            }, {
+               "name" : "Dorothy"
+            }, {
+               "name" : "Fox's Dream of the Log Flume"
+            }, {
+               "name" : "Goodbye, I!"
+            }, {
+               "name" : "January 1979"
+            }, {
+               "name" : "Torches Together"
+            }, {
+               "name" : "Messes of Men"
+            }, {
+               "name" : "Allah, Allah, Allah"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Birnam Wood",
+               "info" : "Aaron solo acoustic"
+            }, {
+               "name" : "Gentlemen"
+            }, {
+               "name" : "Mexican War Streets"
+            }, {
+               "name" : "In a Sweater Poorly Knit"
+            }, {
+               "name" : "Timothy Hay"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mewithoutyou/2022/irving-plaza-new-york-ny-13b25571.html"
+   }, {
+      "id" : "73b2d69d",
+      "versionId" : "g2b5fa8ae",
+      "eventDate" : "21-07-2022",
+      "lastUpdated" : "2024-12-11T21:22:16.425+0000",
+      "artist" : {
+         "mbid" : "c81d48a8-5c86-4160-b3d4-1275e7ba3212",
+         "name" : "Robert Earl Keen",
+         "sortName" : "Keen, Robert Earl",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/robert-earl-keen-2bd6287e.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Train Trek"
+            }, {
+               "name" : "Whenever Kindness Fails"
+            }, {
+               "name" : "Broken End of Love"
+            }, {
+               "name" : "The Man Behind the Drums"
+            }, {
+               "name" : "Floppy Shoes"
+            }, {
+               "name" : "For Love"
+            }, {
+               "name" : "Think It Over One Time"
+            }, {
+               "name" : "All I Have Is Today"
+            }, {
+               "name" : "Corpus Christi Bay"
+            }, {
+               "name" : "Furnace Fan"
+            }, {
+               "name" : "Goin' Down in Style"
+            }, {
+               "name" : "Play a Train Song",
+               "cover" : {
+                  "mbid" : "25c13ec7-fad4-4da4-8d98-9607ff615d68",
+                  "name" : "Todd Snider",
+                  "sortName" : "Snider, Todd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/todd-snider-53d6e3c5.html"
+               }
+            }, {
+               "name" : "Speed of the Sound of Loneliness",
+               "cover" : {
+                  "mbid" : "e86492c1-0376-4df0-8042-8ba058c83960",
+                  "name" : "John Prine",
+                  "sortName" : "Prine, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-prine-7bd656f4.html"
+               }
+            }, {
+               "name" : "What I Really Mean"
+            }, {
+               "name" : "Feelin' Good Again / Gringo Honeymoon"
+            }, {
+               "name" : "Love's a Word I Never Throw Around"
+            }, {
+               "name" : "Mr. Wolf and Mamabear"
+            }, {
+               "name" : "I Gotta Go"
+            }, {
+               "name" : "The Road Goes On Forever"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Amarillo Highway (For Dave Hickey)",
+               "cover" : {
+                  "mbid" : "210e5362-c209-4525-8e12-7360376d7239",
+                  "name" : "Terry Allen",
+                  "sortName" : "Allen, Terry",
+                  "disambiguation" : "Country music singer, painter, and conceptual artist",
+                  "url" : "https://www.setlist.fm/setlists/terry-allen-2bd7c0f2.html"
+               }
+            }, {
+               "name" : "Shades of Gray"
+            }, {
+               "name" : "I'm Comin' Home"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/robert-earl-keen/2022/irving-plaza-new-york-ny-73b2d69d.html"
+   }, {
+      "id" : "43b937a7",
+      "versionId" : "g34e590b",
+      "eventDate" : "20-07-2022",
+      "lastUpdated" : "2025-04-21T16:19:22.157+0000",
+      "artist" : {
+         "mbid" : "c81d48a8-5c86-4160-b3d4-1275e7ba3212",
+         "name" : "Robert Earl Keen",
+         "sortName" : "Keen, Robert Earl",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/robert-earl-keen-2bd6287e.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Shades of Gray"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/robert-earl-keen/2022/irving-plaza-new-york-ny-43b937a7.html"
+   }, {
+      "id" : "5bb2a360",
+      "versionId" : "g537cf309",
+      "eventDate" : "14-07-2022",
+      "lastUpdated" : "2025-08-30T04:04:25.649+0000",
+      "artist" : {
+         "mbid" : "f8331bc5-6983-4778-a4d9-576532e59215",
+         "name" : "Michaela Anne",
+         "sortName" : "Anne, Michaela",
+         "disambiguation" : "Country singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/michaela-anne-33c214dd.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "By Our Design"
+            }, {
+               "name" : "Child of the Wind"
+            }, {
+               "name" : "I'm Only Human"
+            }, {
+               "name" : "If Only You Knew"
+            }, {
+               "name" : "If I Wanted Your Opinion"
+            }, {
+               "name" : "Oh to Be That Free Again"
+            }, {
+               "name" : "Who You Are"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michaela-anne/2022/irving-plaza-new-york-ny-5bb2a360.html"
+   }, {
+      "id" : "53b2a361",
+      "versionId" : "g53fd93f5",
+      "eventDate" : "14-07-2022",
+      "lastUpdated" : "2022-09-09T16:54:53.927+0000",
+      "artist" : {
+         "mbid" : "05af006a-1798-4e1d-a821-f9187ff66fb4",
+         "name" : "Watchhouse",
+         "sortName" : "Watchhouse",
+         "disambiguation" : "formerly Mandolin Orange",
+         "url" : "https://www.setlist.fm/setlists/watchhouse-33f2140d.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Brother, My Keeper"
+            }, {
+               "name" : "Wondrous Love"
+            }, {
+               "name" : "Belly of the Beast"
+            }, {
+               "name" : "New Star"
+            }, {
+               "name" : "Hey Stranger"
+            }, {
+               "name" : "Daylight"
+            }, {
+               "name" : "Wildfire"
+            }, {
+               "name" : "There Was a Time"
+            }, {
+               "name" : "Better Way"
+            }, {
+               "name" : "Old Ties and Companions"
+            }, {
+               "name" : "Salter Path / Throes of Night",
+               "cover" : {
+                  "mbid" : "c60db16f-bb62-493a-86b8-42af4153ee65",
+                  "name" : "Andrew Marlin",
+                  "sortName" : "Marlin, Andrew",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/andrew-marlin-73ce16e5.html"
+               }
+            }, {
+               "name" : "Wake Me"
+            }, {
+               "name" : "The Wolves"
+            }, {
+               "name" : "Golden Embers"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Gospel Shoes"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/watchhouse/2022/irving-plaza-new-york-ny-53b2a361.html"
+   }, {
+      "id" : "33b5680d",
+      "versionId" : "gbf2018e",
+      "eventDate" : "09-07-2022",
+      "lastUpdated" : "2022-07-11T22:21:37.423+0000",
+      "artist" : {
+         "mbid" : "1397d045-1603-41fc-80b9-712c18360145",
+         "name" : "Bikini Kill",
+         "sortName" : "Bikini Kill",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bikini-kill-bd6890e.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Carnival"
+            }, {
+               "name" : "Don't Need You"
+            }, {
+               "name" : "New Radio"
+            }, {
+               "name" : "Jigsaw Youth"
+            }, {
+               "name" : "Feels Blind"
+            }, {
+               "name" : "I Hate Danger"
+            }, {
+               "name" : "In Accordance to Natural Law"
+            }, {
+               "name" : "Demi Rep"
+            }, {
+               "name" : "Tony Randall",
+               "info" : "2 lines, after audience request. Kathleen said \"i like that song still\""
+            }, {
+               "name" : "Reject All American"
+            }, {
+               "name" : "Alien She"
+            }, {
+               "name" : "Sugar"
+            }, {
+               "name" : "Rah! Rah! Replica"
+            }, {
+               "name" : "Hamster Baby"
+            }, {
+               "name" : "Tell Me So"
+            }, {
+               "name" : "This Is Not a Test"
+            }, {
+               "name" : "Capri Pants"
+            }, {
+               "name" : "Resist Psychic Death"
+            }, {
+               "name" : "Outta Me"
+            }, {
+               "name" : "For Only"
+            }, {
+               "name" : "Distinct Complicity"
+            }, {
+               "name" : "Magnet"
+            }, {
+               "name" : "Lil' Red"
+            }, {
+               "name" : "Rebel Girl"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Double Dare Ya"
+            }, {
+               "name" : "Suck My Left One"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bikini-kill/2022/irving-plaza-new-york-ny-33b5680d.html"
+   }, {
+      "id" : "bb5119e",
+      "versionId" : "g6bf1126a",
+      "eventDate" : "08-07-2022",
+      "lastUpdated" : "2022-08-09T14:07:45.438+0000",
+      "artist" : {
+         "mbid" : "22995eba-1238-4b4f-a937-ac2c5767ab9f",
+         "name" : "Circle Jerks",
+         "sortName" : "Circle Jerks",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/circle-jerks-73d68e7d.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2021-2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Deny Everything"
+            }, {
+               "name" : "Letterbomb"
+            }, {
+               "name" : "In Your Eyes"
+            }, {
+               "name" : "Stars and Stripes"
+            }, {
+               "name" : "Back Against the Wall"
+            }, {
+               "name" : "Behind the Door"
+            }, {
+               "name" : "I Just Want Some Skank"
+            }, {
+               "name" : "Beverly Hills"
+            }, {
+               "name" : "When the Shit Hits the Fan"
+            }, {
+               "name" : "Under the Gun"
+            }, {
+               "name" : "Trapped"
+            }, {
+               "name" : "Coup d'état"
+            }, {
+               "name" : "Wild in the Streets",
+               "cover" : {
+                  "mbid" : "6123044a-f551-4c68-8d28-64c40035172c",
+                  "name" : "Garland Jeffreys",
+                  "sortName" : "Jeffreys, Garland",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/garland-jeffreys-7bd7de24.html"
+               }
+            }, {
+               "name" : "Moral Majority"
+            }, {
+               "name" : "Don't Care"
+            }, {
+               "name" : "Live Fast Die Young"
+            }, {
+               "name" : "Paid Vacation"
+            }, {
+               "name" : "Junk Mail"
+            }, {
+               "name" : "Parade of the Horribles"
+            }, {
+               "name" : "Casualty Vampire"
+            }, {
+               "name" : "I, I & I"
+            }, {
+               "name" : "Leave Me Alone"
+            }, {
+               "name" : "I Don't"
+            }, {
+               "name" : "The Crowd"
+            }, {
+               "name" : "Beat Me Senseless"
+            }, {
+               "name" : "World Up My Ass"
+            }, {
+               "name" : "Operation"
+            }, {
+               "name" : "Wasted"
+            }, {
+               "name" : "High Price on Our Heads"
+            }, {
+               "name" : "Red Tape"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Wanna Destroy You",
+               "cover" : {
+                  "mbid" : "ae362950-090f-4686-82da-9d22a5f88f2e",
+                  "name" : "The Soft Boys",
+                  "sortName" : "Soft Boys, The",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-soft-boys-6bd6866e.html"
+               }
+            }, {
+               "name" : "What's Your Problem"
+            }, {
+               "name" : "Question Authority"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/circle-jerks/2022/irving-plaza-new-york-ny-bb5119e.html"
+   }, {
+      "id" : "7bb506d4",
+      "versionId" : "g335ee07d",
+      "eventDate" : "08-07-2022",
+      "lastUpdated" : "2024-12-06T09:36:10.400+0000",
+      "artist" : {
+         "mbid" : "286e4fb9-4d6a-40de-ac50-01eff6a3c13e",
+         "name" : "Negative Approach",
+         "sortName" : "Negative Approach",
+         "disambiguation" : "US hardcore punk",
+         "url" : "https://www.setlist.fm/setlists/negative-approach-7bd68e4c.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ready to Fight"
+            }, {
+               "name" : "Lead Song"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/negative-approach/2022/irving-plaza-new-york-ny-7bb506d4.html"
+   }, {
+      "id" : "63b55e23",
+      "versionId" : "g2bf230be",
+      "eventDate" : "08-07-2022",
+      "lastUpdated" : "2022-07-10T03:03:57.311+0000",
+      "artist" : {
+         "mbid" : "0581f096-012e-477e-a05f-ac0f4d183eae",
+         "name" : "Powerviolets",
+         "sortName" : "Powerviolets",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/powerviolets-73fcba71.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/powerviolets/2022/irving-plaza-new-york-ny-63b55e23.html"
+   }, {
+      "id" : "63b506d7",
+      "versionId" : "g2bf3b47a",
+      "eventDate" : "08-07-2022",
+      "lastUpdated" : "2022-07-14T23:08:18.977+0000",
+      "artist" : {
+         "mbid" : "3594dd1c-1267-471f-a6e2-78978bb3e024",
+         "name" : "7Seconds",
+         "sortName" : "7 Seconds",
+         "disambiguation" : "US punk band",
+         "url" : "https://www.setlist.fm/setlists/7seconds-7bd68e60.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Here's Your Warning"
+            }, {
+               "name" : "Definite Choice"
+            }, {
+               "name" : "Not Just Boys Fun"
+            }, {
+               "name" : "This Is the Angry Part 2"
+            }, {
+               "name" : "New Wind"
+            }, {
+               "name" : "We're Gonna Fight"
+            }, {
+               "name" : "Tied Up in Rhythm"
+            }, {
+               "name" : "Sooner Or Later"
+            }, {
+               "name" : "Still Believe"
+            }, {
+               "name" : "Somebody Help Me Scream"
+            }, {
+               "name" : "Regress No Way"
+            }, {
+               "name" : "Satyagraha"
+            }, {
+               "name" : "Leave a Light On"
+            }, {
+               "name" : "Here We Go Again Kids"
+            }, {
+               "name" : "The Crew"
+            }, {
+               "name" : "Remains to Be Seen"
+            }, {
+               "name" : "I Can Sympathize"
+            }, {
+               "name" : "In Your Face"
+            }, {
+               "name" : "Walk Together, Rock Together"
+            }, {
+               "name" : "Young 'Til I Die"
+            }, {
+               "name" : "99 Red Balloons",
+               "cover" : {
+                  "mbid" : "c954d136-c7fd-4fd9-8bb0-fb0491fc6a02",
+                  "name" : "Nena",
+                  "sortName" : "Nena",
+                  "disambiguation" : "the band, until 1987",
+                  "url" : "https://www.setlist.fm/setlists/nena-5bd6ff9c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/7seconds/2022/irving-plaza-new-york-ny-63b506d7.html"
+   }, {
+      "id" : "7bb51af8",
+      "versionId" : "g5b8c1f74",
+      "eventDate" : "07-07-2022",
+      "lastUpdated" : "2023-12-04T02:39:54.772+0000",
+      "artist" : {
+         "mbid" : "286e4fb9-4d6a-40de-ac50-01eff6a3c13e",
+         "name" : "Negative Approach",
+         "sortName" : "Negative Approach",
+         "disambiguation" : "US hardcore punk",
+         "url" : "https://www.setlist.fm/setlists/negative-approach-7bd68e4c.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hypocrite"
+            }, {
+               "name" : "Whatever I Do"
+            }, {
+               "name" : "Why Be Something That You're Not"
+            }, {
+               "name" : "Pressure"
+            }, {
+               "name" : "Fair Warning"
+            }, {
+               "name" : "Can't Tell No One"
+            }, {
+               "name" : "Sick of Talk"
+            }, {
+               "name" : "Evacuate"
+            }, {
+               "name" : "Said and Done"
+            }, {
+               "name" : "Dead Stop"
+            }, {
+               "name" : "Live Your Life"
+            }, {
+               "name" : "Ready to Fight"
+            }, {
+               "name" : "Your Mistake"
+            }, {
+               "name" : "Genocide"
+            }, {
+               "name" : "Nothing"
+            }, {
+               "name" : "Lost Cause"
+            }, {
+               "name" : "Borstal Breakout",
+               "cover" : {
+                  "mbid" : "33235ed4-d5bd-42cd-b77c-de646c36c8c6",
+                  "name" : "Sham 69",
+                  "sortName" : "Sham 69",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sham-69-2bd6b002.html"
+               }
+            }, {
+               "name" : "Negative Approach"
+            }, {
+               "name" : "Tied Down"
+            }, {
+               "name" : "I'll Survive"
+            }, {
+               "name" : "Lead Song"
+            }, {
+               "name" : "I Got a Right",
+               "cover" : {
+                  "mbid" : "1253e5e9-eaa7-4ce6-81b8-09725e8cee43",
+                  "name" : "Iggy and The Stooges",
+                  "sortName" : "Iggy and The Stooges",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/iggy-and-the-stooges-7bd65ad0.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/negative-approach/2022/irving-plaza-new-york-ny-7bb51af8.html"
+   }, {
+      "id" : "63b51afb",
+      "versionId" : "g2b8c1c86",
+      "eventDate" : "07-07-2022",
+      "lastUpdated" : "2023-12-04T02:37:30.850+0000",
+      "artist" : {
+         "mbid" : "3594dd1c-1267-471f-a6e2-78978bb3e024",
+         "name" : "7Seconds",
+         "sortName" : "7 Seconds",
+         "disambiguation" : "US punk band",
+         "url" : "https://www.setlist.fm/setlists/7seconds-7bd68e60.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Here's Your Warning"
+            }, {
+               "name" : "Definite Choice"
+            }, {
+               "name" : "Not Just Boys Fun"
+            }, {
+               "name" : "This Is the Angry Part 2"
+            }, {
+               "name" : "New Wind"
+            }, {
+               "name" : "We're Gonna Fight"
+            }, {
+               "name" : "Tied Up in Rhythm"
+            }, {
+               "name" : "Sooner Or Later"
+            }, {
+               "name" : "You Lose"
+            }, {
+               "name" : "Somebody Help Me Scream"
+            }, {
+               "name" : "Regress No Way"
+            }, {
+               "name" : "Satyagraha"
+            }, {
+               "name" : "Leave a Light On"
+            }, {
+               "name" : "Here We Go Again Kids"
+            }, {
+               "name" : "The Crew"
+            }, {
+               "name" : "Remains to Be Seen"
+            }, {
+               "name" : "I Can Sympathize"
+            }, {
+               "name" : "In Your Face"
+            }, {
+               "name" : "Walk Together, Rock Together"
+            }, {
+               "name" : "Young 'Til I Die"
+            }, {
+               "name" : "99 Red Balloons",
+               "cover" : {
+                  "mbid" : "c954d136-c7fd-4fd9-8bb0-fb0491fc6a02",
+                  "name" : "Nena",
+                  "sortName" : "Nena",
+                  "disambiguation" : "the band, until 1987",
+                  "url" : "https://www.setlist.fm/setlists/nena-5bd6ff9c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/7seconds/2022/irving-plaza-new-york-ny-63b51afb.html"
+   }, {
+      "id" : "63b51a07",
+      "versionId" : "gbf2e14e",
+      "eventDate" : "07-07-2022",
+      "lastUpdated" : "2022-07-08T13:50:40.659+0000",
+      "artist" : {
+         "mbid" : "22995eba-1238-4b4f-a937-ac2c5767ab9f",
+         "name" : "Circle Jerks",
+         "sortName" : "Circle Jerks",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/circle-jerks-73d68e7d.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2021-2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Deny Everything"
+            }, {
+               "name" : "Letterbomb"
+            }, {
+               "name" : "In Your Eyes"
+            }, {
+               "name" : "Stars and Stripes"
+            }, {
+               "name" : "Back Against the Wall"
+            }, {
+               "name" : "Behind the Door"
+            }, {
+               "name" : "I Just Want Some Skank"
+            }, {
+               "name" : "Beverly Hills"
+            }, {
+               "name" : "When the Shit Hits the Fan"
+            }, {
+               "name" : "Under the Gun"
+            }, {
+               "name" : "Trapped"
+            }, {
+               "name" : "Coup d'état"
+            }, {
+               "name" : "Wild in the Streets",
+               "cover" : {
+                  "mbid" : "6123044a-f551-4c68-8d28-64c40035172c",
+                  "name" : "Garland Jeffreys",
+                  "sortName" : "Jeffreys, Garland",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/garland-jeffreys-7bd7de24.html"
+               }
+            }, {
+               "name" : "Moral Majority"
+            }, {
+               "name" : "Don't Care"
+            }, {
+               "name" : "Live Fast Die Young"
+            }, {
+               "name" : "Paid Vacation"
+            }, {
+               "name" : "Junk Mail"
+            }, {
+               "name" : "Parade of the Horribles"
+            }, {
+               "name" : "Casualty Vampire"
+            }, {
+               "name" : "I, I & I"
+            }, {
+               "name" : "Leave Me Alone"
+            }, {
+               "name" : "I Don't"
+            }, {
+               "name" : "The Crowd"
+            }, {
+               "name" : "Beat Me Senseless"
+            }, {
+               "name" : "World Up My Ass"
+            }, {
+               "name" : "Operation"
+            }, {
+               "name" : "Wasted"
+            }, {
+               "name" : "High Price on Our Heads"
+            }, {
+               "name" : "Red Tape"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Wanna Destroy You",
+               "cover" : {
+                  "mbid" : "ae362950-090f-4686-82da-9d22a5f88f2e",
+                  "name" : "The Soft Boys",
+                  "sortName" : "Soft Boys, The",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-soft-boys-6bd6866e.html"
+               }
+            }, {
+               "name" : "What's Your Problem"
+            }, {
+               "name" : "Question Authority"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/circle-jerks/2022/irving-plaza-new-york-ny-63b51a07.html"
+   }, {
+      "id" : "63b386d3",
+      "versionId" : "g43f17bd7",
+      "eventDate" : "01-07-2022",
+      "lastUpdated" : "2022-08-10T15:57:18.379+0000",
+      "artist" : {
+         "mbid" : "327b3122-80e0-4ade-b1f5-1a4c78c2bad6",
+         "name" : "Matt Bennett",
+         "sortName" : "Bennett, Matt",
+         "disambiguation" : "American actor",
+         "url" : "https://www.setlist.fm/setlists/matt-bennett-6bf3da96.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/matt-bennett/2022/irving-plaza-new-york-ny-63b386d3.html"
+   }, {
+      "id" : "1bb58164",
+      "versionId" : "g33f44049",
+      "eventDate" : "23-06-2022",
+      "lastUpdated" : "2022-06-25T17:00:18.611+0000",
+      "artist" : {
+         "mbid" : "cfbc0924-0035-4d6c-8197-f024653af823",
+         "name" : "Nas",
+         "sortName" : "Nas",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/nas-33d69c59.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nas/2022/irving-plaza-new-york-ny-1bb58164.html"
+   }, {
+      "id" : "53b417d5",
+      "versionId" : "g3bb0687c",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2024-03-27T20:54:02.091+0000",
+      "artist" : {
+         "mbid" : "b8cc2c1b-f62e-4a60-a9a6-5ebae2ec040b",
+         "name" : "BENEE",
+         "sortName" : "BENEE",
+         "disambiguation" : "NZ singer and songwriter",
+         "url" : "https://www.setlist.fm/setlists/benee-63f61213.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "World Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Make You Sick",
+               "info" : "Intro"
+            }, {
+               "name" : "Tough Guy"
+            }, {
+               "name" : "Happen to Me"
+            }, {
+               "name" : "Same Effect"
+            }, {
+               "name" : "Find an Island"
+            }, {
+               "name" : "If I Get to Meet You"
+            }, {
+               "name" : "Soaked"
+            }, {
+               "name" : "Doesn't Matter"
+            }, {
+               "name" : "Night Garden"
+            }, {
+               "name" : "Marry Myself"
+            }, {
+               "name" : "Winter"
+            }, {
+               "name" : "Kool"
+            }, {
+               "name" : "Beach Boy"
+            }, {
+               "name" : "Morning Routine",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Soft Side"
+            }, {
+               "name" : "Snail"
+            }, {
+               "name" : "Glitter"
+            }, {
+               "name" : "Never Ending"
+            }, {
+               "name" : "Supalonely"
+            }, {
+               "name" : "Sheesh"
+            } ]
+         } ]
+      },
+      "info" : "Late night Gov Ball After Dark show",
+      "url" : "https://www.setlist.fm/setlist/benee/2022/irving-plaza-new-york-ny-53b417d5.html"
+   }, {
+      "id" : "4bb417d6",
+      "versionId" : "g3bf7d0fc",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2022-06-11T04:35:52.895+0000",
+      "artist" : {
+         "mbid" : "0d5a170d-9151-47da-848b-22e6c7f1bf79",
+         "name" : "Dreamer Boy",
+         "sortName" : "Dreamer Boy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dreamer-boy-1bf76934.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Late night Gov Ball After Dark show",
+      "url" : "https://www.setlist.fm/setlist/dreamer-boy/2022/irving-plaza-new-york-ny-4bb417d6.html"
+   }, {
+      "id" : "bb4216a",
+      "versionId" : "g5bf7e390",
+      "eventDate" : "09-06-2022",
+      "lastUpdated" : "2022-06-10T17:13:08.947+0000",
+      "artist" : {
+         "mbid" : "56756959-1e78-429c-b897-e1d056cb0225",
+         "name" : "Tove Lo",
+         "sortName" : "Tove Lo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tove-lo-43df3793.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bikini Porn"
+            }, {
+               "name" : "Glad He's Gone"
+            }, {
+               "name" : "Bad as the Boys"
+            }, {
+               "name" : "Cool Girl"
+            }, {
+               "name" : "Influence"
+            }, {
+               "name" : "Are U gonna tell her?"
+            }, {
+               "name" : "2 Die 4"
+            }, {
+               "name" : "Talking Body",
+               "info" : "(And remix)"
+            }, {
+               "name" : "Really Don't Like U"
+            }, {
+               "name" : "disco tits"
+            }, {
+               "name" : "Not on Drugs"
+            }, {
+               "name" : "Say It",
+               "cover" : {
+                  "mbid" : "35fd8d42-b4a6-4414-9827-8766bd0daa3c",
+                  "name" : "Flume",
+                  "sortName" : "Flume",
+                  "disambiguation" : "Australian DJ and producer",
+                  "url" : "https://www.setlist.fm/setlists/flume-3bd3d484.html"
+               }
+            }, {
+               "name" : "True Romance"
+            }, {
+               "name" : "Moments"
+            }, {
+               "name" : "How Long"
+            }, {
+               "name" : "True Disaster"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mateo"
+            }, {
+               "name" : "Habits (Stay High)"
+            }, {
+               "name" : "No One Dies From Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tove-lo/2022/irving-plaza-new-york-ny-bb4216a.html"
+   }, {
+      "id" : "3a59d4f",
+      "versionId" : "g139acd2d",
+      "eventDate" : "07-06-2022",
+      "lastUpdated" : "2023-08-13T14:46:39.998+0000",
+      "artist" : {
+         "mbid" : "b299e6fc-a7cb-4c7d-a798-0692b60b9e48",
+         "name" : "EST Gee",
+         "sortName" : "EST Gee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/est-gee-53f38ba1.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/est-gee/2022/irving-plaza-new-york-ny-3a59d4f.html"
+   }, {
+      "id" : "43b48f07",
+      "versionId" : "g4bf6f322",
+      "eventDate" : "01-06-2022",
+      "lastUpdated" : "2022-05-30T12:41:59.084+0000",
+      "artist" : {
+         "mbid" : "68205c8f-9518-4b49-8df7-bd297da67599",
+         "name" : "BROODS",
+         "sortName" : "BROODS",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/broods-1bda6dd4.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/broods/2022/irving-plaza-new-york-ny-43b48f07.html"
+   } ]
+}

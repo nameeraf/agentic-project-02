@@ -1,0 +1,823 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 108,
+   "setlist" : [ {
+      "id" : "6ba42a6a",
+      "versionId" : "g7b9db2f4",
+      "eventDate" : "02-08-2023",
+      "lastUpdated" : "2023-08-01T06:49:14.713+0000",
+      "artist" : {
+         "mbid" : "e7287972-ca8d-4133-a1d6-5446486ed075",
+         "name" : "Elle King",
+         "sortName" : "King, Elle",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/elle-king-3df114f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elle-king/2023/radio-city-music-hall-new-york-ny-6ba42a6a.html"
+   }, {
+      "id" : "4ba4d7aa",
+      "versionId" : "g6bb8b292",
+      "eventDate" : "27-07-2023",
+      "lastUpdated" : "2024-05-24T17:41:49.046+0000",
+      "artist" : {
+         "mbid" : "32b87bbc-2363-457a-97b4-3103a569f3a7",
+         "name" : "Thee Sacred Souls",
+         "sortName" : "Thee Sacred Souls",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/thee-sacred-souls-43f43f57.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Easier Said Than Done"
+            }, {
+               "name" : "Running Away"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/thee-sacred-souls/2023/radio-city-music-hall-new-york-ny-4ba4d7aa.html"
+   }, {
+      "id" : "1ba4ddf4",
+      "versionId" : "g234d7447",
+      "eventDate" : "27-07-2023",
+      "lastUpdated" : "2025-05-12T02:14:28.250+0000",
+      "artist" : {
+         "mbid" : "3599a39e-4e10-4cb5-90d4-c8a015ebc73b",
+         "name" : "Portugal. The Man",
+         "sortName" : "Portugal. The Man",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/portugal-the-man-6bd6f61a.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Plastic Soldiers"
+            }, {
+               "name" : "Live in the Moment"
+            }, {
+               "name" : "Once Was One"
+            }, {
+               "name" : "Someday Believers"
+            }, {
+               "name" : "Waves"
+            }, {
+               "name" : "Easy Tiger"
+            }, {
+               "name" : "AKA M80 the Wolf"
+            }, {
+               "name" : "Purple Yellow Red and Blue"
+            }, {
+               "name" : "Modern Jesus"
+            }, {
+               "name" : "Created"
+            }, {
+               "name" : "Marching With 6"
+            }, {
+               "name" : "Mamba",
+               "cover" : {
+                  "mbid" : "f6225ad8-4b91-43b7-af34-f710ea2f628b",
+                  "name" : "HD Been Dope",
+                  "sortName" : "HD Been Dope",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hd-been-dope-3bc4f49c.html"
+               },
+               "with" : {
+                  "mbid" : "f6225ad8-4b91-43b7-af34-f710ea2f628b",
+                  "name" : "HD Been Dope",
+                  "sortName" : "HD Been Dope",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hd-been-dope-3bc4f49c.html"
+               }
+            }, {
+               "name" : "Dopesmoker",
+               "cover" : {
+                  "mbid" : "6fc69ec6-3e59-4ff7-849d-b5da932abe4d",
+                  "name" : "Sleep",
+                  "sortName" : "Sleep",
+                  "disambiguation" : "American stoner/doom metal band",
+                  "url" : "https://www.setlist.fm/setlists/sleep-7bd68a00.html"
+               }
+            }, {
+               "name" : "Heart of the Sunrise",
+               "cover" : {
+                  "mbid" : "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+                  "name" : "Yes",
+                  "sortName" : "Yes",
+                  "disambiguation" : "British progressive rock band",
+                  "url" : "https://www.setlist.fm/setlists/yes-63d6bef7.html"
+               }
+            }, {
+               "name" : "Heavy Games II"
+            }, {
+               "name" : "Bellies Are Full"
+            }, {
+               "name" : "Grim Generation"
+            }, {
+               "name" : "Dummy"
+            }, {
+               "name" : "Summer of Luv"
+            }, {
+               "name" : "Ghost Town"
+            }, {
+               "name" : "All Your Light / Great Southern Trendkill / South of Heaven / Cowboys From Hell / She's So Heavy /",
+               "info" : "/ Pantera  / Slayer / Pantera / The Beatles covers"
+            }, {
+               "name" : "The Sun"
+            }, {
+               "name" : "Mornings"
+            }, {
+               "name" : "Time's a Fantasy"
+            }, {
+               "name" : "Doubt"
+            }, {
+               "name" : "Plastic Island"
+            }, {
+               "name" : "In Bloom",
+               "cover" : {
+                  "mbid" : "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name" : "Nirvana",
+                  "sortName" : "Nirvana",
+                  "disambiguation" : "1980s–1990s US grunge band",
+                  "url" : "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+               }
+            }, {
+               "name" : "Champ"
+            }, {
+               "name" : "Anxiety:Clarity"
+            }, {
+               "name" : "So Young"
+            }, {
+               "name" : "Feel It Still"
+            }, {
+               "name" : "Sleep Forever"
+            } ]
+         } ]
+      },
+      "info" : "\"Senseless\" was on the printed setlist but wasn’t played, \"Ghost Town\" wasn’t on the printed setlist but was performed.",
+      "url" : "https://www.setlist.fm/setlist/portugal-the-man/2023/radio-city-music-hall-new-york-ny-1ba4ddf4.html"
+   }, {
+      "id" : "7ba48274",
+      "versionId" : "g7b9c92dc",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:15:47.224+0000",
+      "artist" : {
+         "mbid" : "029c683d-4e0f-4264-a563-ca7743b33b07",
+         "name" : "Doug E. Fresh",
+         "sortName" : "Fresh, Doug E.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/doug-e-fresh-63d786a3.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/doug-e-fresh/2023/radio-city-music-hall-new-york-ny-7ba48274.html"
+   }, {
+      "id" : "7ba4826c",
+      "versionId" : "g739c92c1",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:20:13.169+0000",
+      "artist" : {
+         "mbid" : "f86c1440-6020-4817-8db5-fa1c8e6174f7",
+         "name" : "DoItAll",
+         "sortName" : "DoItAll",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/doitall-bd7cdd6.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/doitall/2023/radio-city-music-hall-new-york-ny-7ba4826c.html"
+   }, {
+      "id" : "7ba48268",
+      "versionId" : "g639c92cf",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:18:50.462+0000",
+      "artist" : {
+         "mbid" : "2ec98a4e-b323-4824-8040-6122133b7490",
+         "name" : "Dana Dane",
+         "sortName" : "Dane, Dana",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dana-dane-7bd776b4.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dana-dane/2023/radio-city-music-hall-new-york-ny-7ba48268.html"
+   }, {
+      "id" : "7ba48264",
+      "versionId" : "g6b9c92b6",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:24:50.044+0000",
+      "artist" : {
+         "mbid" : "5da8de99-cd3a-4da9-9801-04305865b129",
+         "name" : "MC Shan",
+         "sortName" : "Shan, MC",
+         "disambiguation" : "old-school US rapper Shawn Moltke",
+         "url" : "https://www.setlist.fm/setlists/mc-shan-3bd6dc54.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mc-shan/2023/radio-city-music-hall-new-york-ny-7ba48264.html"
+   }, {
+      "id" : "7ba4825c",
+      "versionId" : "g7b9c92a4",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:28:39.991+0000",
+      "artist" : {
+         "mbid" : "e0af5e8b-403c-4059-bd83-5ae037b391b7",
+         "name" : "Nice & Smooth",
+         "sortName" : "Nice & Smooth",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nice-and-smooth-7bd79650.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nice-and-smooth/2023/radio-city-music-hall-new-york-ny-7ba4825c.html"
+   }, {
+      "id" : "7ba48258",
+      "versionId" : "g739c92ad",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:27:00.965+0000",
+      "artist" : {
+         "mbid" : "336f2e14-b064-45c8-8b2a-01663a0bee64",
+         "name" : "The Sugarhill Gang",
+         "sortName" : "Sugarhill Gang, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-sugarhill-gang-2bd65cc6.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-sugarhill-gang/2023/radio-city-music-hall-new-york-ny-7ba48258.html"
+   }, {
+      "id" : "73a48275",
+      "versionId" : "g739c92dd",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:15:19.783+0000",
+      "artist" : {
+         "mbid" : "8e75d270-4d53-4a4a-bc14-e3ace37ebd4e",
+         "name" : "Big Daddy Kane",
+         "sortName" : "Big Daddy Kane",
+         "disambiguation" : "singer, songwriter",
+         "url" : "https://www.setlist.fm/setlists/big-daddy-kane-6bd686b6.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/big-daddy-kane/2023/radio-city-music-hall-new-york-ny-73a48275.html"
+   }, {
+      "id" : "73a48269",
+      "versionId" : "g7b9c92d4",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:17:19.100+0000",
+      "artist" : {
+         "mbid" : "63034f55-692a-4f3b-a19a-ac2072eac3bb",
+         "name" : "Black Sheep",
+         "sortName" : "Black Sheep",
+         "disambiguation" : "US hip-hop group",
+         "url" : "https://www.setlist.fm/setlists/black-sheep-13d6c10d.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/black-sheep/2023/radio-city-music-hall-new-york-ny-73a48269.html"
+   }, {
+      "id" : "73a48265",
+      "versionId" : "g6b9c92b2",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:23:45.281+0000",
+      "artist" : {
+         "mbid" : "faaf4f84-7751-4613-9903-32c9d6a49741",
+         "name" : "Grandmaster Melle Mel",
+         "sortName" : "Grandmaster Melle Mel",
+         "disambiguation" : "Melvin Glover aka Melle Mel",
+         "url" : "https://www.setlist.fm/setlists/grandmaster-melle-mel-3bd5ec88.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/grandmaster-melle-mel/2023/radio-city-music-hall-new-york-ny-73a48265.html"
+   }, {
+      "id" : "73a48261",
+      "versionId" : "g7b9c92c4",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:21:12.133+0000",
+      "artist" : {
+         "mbid" : "4fa39dc8-c695-4e0e-ba04-92c63d99c9f9",
+         "name" : "EPMD",
+         "sortName" : "EPMD",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/epmd-7bd686ac.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/epmd/2023/radio-city-music-hall-new-york-ny-73a48261.html"
+   }, {
+      "id" : "73a4825d",
+      "versionId" : "g6b9c92a6",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:28:12.215+0000",
+      "artist" : {
+         "mbid" : "00e8c9fb-546f-481e-b529-6ec23f3b3f72",
+         "name" : "Monie Love",
+         "sortName" : "Love, Monie",
+         "disambiguation" : "English rapper, actress & radio personality",
+         "url" : "https://www.setlist.fm/setlists/monie-love-43d693ef.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/monie-love/2023/radio-city-music-hall-new-york-ny-73a4825d.html"
+   }, {
+      "id" : "73a48259",
+      "versionId" : "g639c92af",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:26:24.915+0000",
+      "artist" : {
+         "mbid" : "72eafbba-ff08-4257-9594-267d4a6fcdca",
+         "name" : "Kurtis Blow",
+         "sortName" : "Kurtis Blow",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kurtis-blow-13d681fd.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kurtis-blow/2023/radio-city-music-hall-new-york-ny-73a48259.html"
+   }, {
+      "id" : "73a48251",
+      "versionId" : "g6b9c929e",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:30:25.792+0000",
+      "artist" : {
+         "mbid" : "f7f173d5-76f2-4088-a64e-c523f424a43c",
+         "name" : "Treach",
+         "sortName" : "Treach",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/treach-4bd3e302.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/treach/2023/radio-city-music-hall-new-york-ny-73a48251.html"
+   }, {
+      "id" : "6ba48272",
+      "versionId" : "g7b9c92e0",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:13:32.399+0000",
+      "artist" : {
+         "mbid" : "fc0fa262-6197-4c29-8e22-22f0e369856a",
+         "name" : "Onyx",
+         "sortName" : "Onyx",
+         "disambiguation" : "New York hardcore rap group",
+         "url" : "https://www.setlist.fm/setlists/onyx-63d686ab.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Bacdafucup 30th Anniversary"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/onyx/2023/radio-city-music-hall-new-york-ny-6ba48272.html"
+   }, {
+      "id" : "6ba4826e",
+      "versionId" : "g639c92c3",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:19:45.695+0000",
+      "artist" : {
+         "mbid" : "37da13d4-8bbc-41bb-9957-4d94de3d311e",
+         "name" : "Brand Nubian",
+         "sortName" : "Brand Nubian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brand-nubian-6bd68696.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brand-nubian/2023/radio-city-music-hall-new-york-ny-6ba4826e.html"
+   }, {
+      "id" : "6ba4826a",
+      "versionId" : "g7b9c92d0",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-24T05:16:23.510+0000",
+      "artist" : {
+         "mbid" : "486af4f0-a79b-468f-be73-527cd4caf6ea",
+         "name" : "Slick Rick",
+         "sortName" : "Slick Rick",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/slick-rick-73d68695.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/slick-rick/2023/radio-city-music-hall-new-york-ny-6ba4826a.html"
+   }, {
+      "id" : "6ba48266",
+      "versionId" : "g1b9cf554",
+      "eventDate" : "21-07-2023",
+      "lastUpdated" : "2023-07-25T03:27:08.649+0000",
+      "artist" : {
+         "mbid" : "94ff7d3c-27e1-4628-9b81-477f911295cd",
+         "name" : "Kool Moe Dee",
+         "sortName" : "Kool Moe Dee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kool-moe-dee-5bd64b6c.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wild Wild West"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kool-moe-dee/2023/radio-city-music-hall-new-york-ny-6ba48266.html"
+   } ]
+}

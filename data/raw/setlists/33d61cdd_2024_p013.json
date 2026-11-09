@@ -1,0 +1,1501 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 13,
+   "total" : 290,
+   "setlist" : [ {
+      "id" : "6bad5ace",
+      "versionId" : "g2355e027",
+      "eventDate" : "04-03-2024",
+      "lastUpdated" : "2024-10-29T12:57:38.802+0000",
+      "artist" : {
+         "mbid" : "88927646-0c28-4b1b-a69e-cb33c400d650",
+         "name" : "Nation of Language",
+         "sortName" : "Nation of Language",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nation-of-language-43cb5793.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A New Goodbye"
+            }, {
+               "name" : "Spare Me the Decision"
+            }, {
+               "name" : "On Division St"
+            }, {
+               "name" : "The Grey Commute"
+            }, {
+               "name" : "September Again"
+            }, {
+               "name" : "Sightseer"
+            }, {
+               "name" : "The Motorist"
+            }, {
+               "name" : "Automobile"
+            }, {
+               "name" : "Sole Obsession"
+            }, {
+               "name" : "Surely I Can’t Wait"
+            }, {
+               "name" : "Wounds of Love"
+            }, {
+               "name" : "Too Much, Enough"
+            }, {
+               "name" : "Gouge Away",
+               "cover" : {
+                  "mbid" : "b6b2bb8d-54a9-491f-9607-7b546023b433",
+                  "name" : "Pixies",
+                  "sortName" : "Pixies",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pixies-2bd6846a.html"
+               }
+            }, {
+               "name" : "Weak in Your Light"
+            }, {
+               "name" : "The Wall & I"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Back on the Chain Gang",
+               "cover" : {
+                  "mbid" : "e9c832b0-384b-4ee6-aec0-111372784aac",
+                  "name" : "Pretenders",
+                  "sortName" : "Pretenders",
+                  "disambiguation" : "English‐American rock band",
+                  "url" : "https://www.setlist.fm/setlists/pretenders-33d6b815.html"
+               }
+            }, {
+               "name" : "This Fractured Mind"
+            }, {
+               "name" : "Across That Fine Line"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nation-of-language/2024/bowery-ballroom-new-york-ny-6bad5ace.html"
+   }, {
+      "id" : "6baabe1a",
+      "versionId" : "g6bb2964e",
+      "eventDate" : "03-03-2024",
+      "lastUpdated" : "2024-03-04T22:00:54.377+0000",
+      "artist" : {
+         "mbid" : "88927646-0c28-4b1b-a69e-cb33c400d650",
+         "name" : "Nation of Language",
+         "sortName" : "Nation of Language",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nation-of-language-43cb5793.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A New Goodbye"
+            }, {
+               "name" : "The Grey Commute"
+            }, {
+               "name" : "Sacred Tongue"
+            }, {
+               "name" : "In Manhattan"
+            }, {
+               "name" : "Deliver Me From Wondering Why"
+            }, {
+               "name" : "Across That Fine Line"
+            }, {
+               "name" : "What Does the Normal Man Feel?"
+            }, {
+               "name" : "Whatever You Want"
+            }, {
+               "name" : "Surely I Can’t Wait"
+            }, {
+               "name" : "Reality"
+            }, {
+               "name" : "Sole Obsession"
+            }, {
+               "name" : "I Will Never Learn"
+            }, {
+               "name" : "September Again"
+            }, {
+               "name" : "Weak in Your Light"
+            }, {
+               "name" : "Many Roads to Follow",
+               "cover" : {
+                  "mbid" : "560b9e8a-7387-49ff-8b15-e17e3ffd8502",
+                  "name" : "The Nerves",
+                  "sortName" : "Nerves, The",
+                  "disambiguation" : "1970s US power pop trio",
+                  "url" : "https://www.setlist.fm/setlists/the-nerves-6bd6b216.html"
+               },
+               "with" : {
+                  "mbid" : "ff212417-0168-41e1-9b7e-d15d28dc79c3",
+                  "name" : "Kassie Carlson",
+                  "sortName" : "Carlson, Kassie",
+                  "disambiguation" : "Guerilla Toss frontwoman",
+                  "url" : "https://www.setlist.fm/setlists/kassie-carlson-6bc14a8a.html"
+               }
+            }, {
+               "name" : "The Wall & I"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nation-of-language/2024/bowery-ballroom-new-york-ny-6baabe1a.html"
+   }, {
+      "id" : "1baa8140",
+      "versionId" : "g5b508f6c",
+      "eventDate" : "03-03-2024",
+      "lastUpdated" : "2024-11-19T03:20:32.449+0000",
+      "artist" : {
+         "mbid" : "a615b8f7-a9f6-4d7a-90c7-6fdf26b13411",
+         "name" : "Guerilla Toss",
+         "sortName" : "Guerilla Toss",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/guerilla-toss-63c4fa33.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Betty Dreams of Green Men"
+            }, {
+               "name" : "Cannibal Capital"
+            }, {
+               "name" : "Psychosis Is Just a Number",
+               "info" : "live debut"
+            }, {
+               "name" : "Human Girl"
+            }, {
+               "name" : "I Got Spirit"
+            }, {
+               "name" : "Can I Get the Real Stuff"
+            }, {
+               "name" : "Future Doesn't Know"
+            }, {
+               "name" : "Crocodile Cloud",
+               "info" : "live debut"
+            }, {
+               "name" : "367 Equalizer"
+            }, {
+               "name" : "Diamond Girls"
+            }, {
+               "name" : "Red Flag to Angry Bull",
+               "info" : "live debut"
+            } ]
+         } ]
+      },
+      "info" : "Opening for Nation of Language",
+      "url" : "https://www.setlist.fm/setlist/guerilla-toss/2024/bowery-ballroom-new-york-ny-1baa8140.html"
+   }, {
+      "id" : "7bad52f8",
+      "versionId" : "g6b569a82",
+      "eventDate" : "02-03-2024",
+      "lastUpdated" : "2024-10-06T11:06:27.258+0000",
+      "artist" : {
+         "mbid" : "88927646-0c28-4b1b-a69e-cb33c400d650",
+         "name" : "Nation of Language",
+         "sortName" : "Nation of Language",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nation-of-language-43cb5793.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "In Manhattan"
+            }, {
+               "name" : "Spare Me the Decision"
+            }, {
+               "name" : "Reality",
+               "info" : "First time since 2018"
+            }, {
+               "name" : "Sole Obsession"
+            }, {
+               "name" : "Deliver Me From Wondering Why",
+               "info" : "Live debut"
+            }, {
+               "name" : "September Again"
+            }, {
+               "name" : "Sightseer"
+            }, {
+               "name" : "Sacred Tongue"
+            }, {
+               "name" : "On Division St"
+            }, {
+               "name" : "Surely I Can’t Wait",
+               "info" : "Live debut"
+            }, {
+               "name" : "The Motorist"
+            }, {
+               "name" : "The Wall & I"
+            }, {
+               "name" : "I Will Never Learn",
+               "info" : "Live debut"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Weak in Your Light"
+            }, {
+               "name" : "Across That Fine Line"
+            }, {
+               "name" : "Where Everybody Knows Your Name",
+               "cover" : {
+                  "mbid" : "4d54e76f-cc4a-42d2-a38d-a070bacf4726",
+                  "name" : "Gary Portnoy",
+                  "sortName" : "Portnoy, Gary",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gary-portnoy-43d657df.html"
+               },
+               "with" : {
+                  "mbid" : "6436c609-a80a-40e7-a1d4-7a29b18af58b",
+                  "name" : "Jayson Green",
+                  "sortName" : "Green, Jayson",
+                  "disambiguation" : "member of Orchid, Panthers, Ritual Mess",
+                  "url" : "https://www.setlist.fm/setlists/jayson-green-7bdae69c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nation-of-language/2024/bowery-ballroom-new-york-ny-7bad52f8.html"
+   }, {
+      "id" : "5bad470c",
+      "versionId" : "g43b2b35b",
+      "eventDate" : "01-03-2024",
+      "lastUpdated" : "2024-03-03T17:40:03.529+0000",
+      "artist" : {
+         "mbid" : "552eea91-75a1-4529-9e42-db6b4ae90fad",
+         "name" : "Birthday Girl DC",
+         "sortName" : "Birthday Girl DC",
+         "disambiguation" : "Indie rock group based in Washington, DC",
+         "url" : "https://www.setlist.fm/setlists/birthday-girl-dc-7be75ad4.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Check Up"
+            }, {
+               "name" : "Chess, Not Checkers"
+            }, {
+               "name" : "Ibuprofen"
+            }, {
+               "name" : "Run the Bath"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/birthday-girl-dc/2024/bowery-ballroom-new-york-ny-5bad470c.html"
+   }, {
+      "id" : "13ad55b5",
+      "versionId" : "g6bb2a626",
+      "eventDate" : "01-03-2024",
+      "lastUpdated" : "2024-03-04T05:07:24.933+0000",
+      "artist" : {
+         "mbid" : "d9c8dc3c-15b8-40d5-8153-ae9214aeef55",
+         "name" : "Mary Timony",
+         "sortName" : "Timony, Mary",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mary-timony-1bd6edb8.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Don’t Disappear"
+            }, {
+               "name" : "Summer"
+            }, {
+               "name" : "No Thirds"
+            }, {
+               "name" : "Musik and Charming Melodee"
+            }, {
+               "name" : "The Guest"
+            }, {
+               "name" : "Leon’s Space Song",
+               "cover" : {
+                  "mbid" : "573510d6-bb5d-4d07-b0aa-ea6afe39e28d",
+                  "name" : "Helium",
+                  "sortName" : "Helium",
+                  "disambiguation" : "US indie rock featuring Mary Timony",
+                  "url" : "https://www.setlist.fm/setlists/helium-13d675ed.html"
+               }
+            }, {
+               "name" : "Honeycomb",
+               "cover" : {
+                  "mbid" : "573510d6-bb5d-4d07-b0aa-ea6afe39e28d",
+                  "name" : "Helium",
+                  "sortName" : "Helium",
+                  "disambiguation" : "US indie rock featuring Mary Timony",
+                  "url" : "https://www.setlist.fm/setlists/helium-13d675ed.html"
+               }
+            }, {
+               "name" : "Not the Only One"
+            }, {
+               "name" : "Dominoes"
+            }, {
+               "name" : "The Dream"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Untame the Tiger"
+            }, {
+               "name" : "Walk Away",
+               "cover" : {
+                  "mbid" : "573510d6-bb5d-4d07-b0aa-ea6afe39e28d",
+                  "name" : "Helium",
+                  "sortName" : "Helium",
+                  "disambiguation" : "US indie rock featuring Mary Timony",
+                  "url" : "https://www.setlist.fm/setlists/helium-13d675ed.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mary-timony/2024/bowery-ballroom-new-york-ny-13ad55b5.html"
+   }, {
+      "id" : "7bad76ac",
+      "versionId" : "g43ba43c3",
+      "eventDate" : "29-02-2024",
+      "lastUpdated" : "2024-05-14T21:15:16.540+0000",
+      "artist" : {
+         "mbid" : "8acbb188-0f8a-47fc-a284-d00bee93e482",
+         "name" : "girli",
+         "sortName" : "girli",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/girli-2bc1747e.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Matriarchy Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nothing Hurts Like A Girl"
+            }, {
+               "name" : "I Don’t Like Myself"
+            }, {
+               "name" : "Not That Girl"
+            }, {
+               "name" : "Crush Me Up"
+            }, {
+               "name" : "Girl I Met On The Internet"
+            }, {
+               "name" : "Be With Me"
+            }, {
+               "name" : "Friday Night Big Screen"
+            }, {
+               "name" : "Hot Mess"
+            }, {
+               "name" : "I Really Fucked It Up"
+            }, {
+               "name" : "Feel My Feelings",
+               "info" : "New song"
+            }, {
+               "name" : "Letter to My Ex"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "More Than a Friend"
+            }, {
+               "name" : "Matriarchy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/girli/2024/bowery-ballroom-new-york-ny-7bad76ac.html"
+   }, {
+      "id" : "23ad6c4f",
+      "versionId" : "g43b51b6b",
+      "eventDate" : "28-02-2024",
+      "lastUpdated" : "2024-02-29T05:51:48.220+0000",
+      "artist" : {
+         "mbid" : "e65bc356-c3c1-466c-9a4f-7f69426abc11",
+         "name" : "Hannah Wicklund",
+         "sortName" : "Wicklund, Hannah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hannah-wicklund-3bf62c08.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Hell in the Hallway World Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hannah-wicklund/2024/bowery-ballroom-new-york-ny-23ad6c4f.html"
+   }, {
+      "id" : "1bad297c",
+      "versionId" : "g1bb44500",
+      "eventDate" : "24-02-2024",
+      "lastUpdated" : "2024-02-23T16:06:23.395+0000",
+      "artist" : {
+         "mbid" : "47f9c144-02dd-4c87-9be1-7bc945ac5544",
+         "name" : "Jess Williamson",
+         "sortName" : "Williamson, Jess",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jess-williamson-3bdb881c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jess-williamson/2024/bowery-ballroom-new-york-ny-1bad297c.html"
+   }, {
+      "id" : "13ad11c5",
+      "versionId" : "g53b58fd5",
+      "eventDate" : "24-02-2024",
+      "lastUpdated" : "2024-02-25T13:27:40.323+0000",
+      "artist" : {
+         "mbid" : "146dbf7a-fffe-4a69-bcad-03b84c88c6fa",
+         "name" : "Le Ren",
+         "sortName" : "Le Ren",
+         "disambiguation" : "project of Montreal-based Lauren Spear",
+         "url" : "https://www.setlist.fm/setlists/le-ren-4bf32bba.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/le-ren/2024/bowery-ballroom-new-york-ny-13ad11c5.html"
+   }, {
+      "id" : "3badc440",
+      "versionId" : "g4bb403e2",
+      "eventDate" : "23-02-2024",
+      "lastUpdated" : "2024-02-21T15:08:25.727+0000",
+      "artist" : {
+         "mbid" : "3fbe788d-d4df-4ab1-b6cc-efc5781bb1f2",
+         "name" : "Tanner Usrey",
+         "sortName" : "Tanner Usrey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tanner-usrey-bfee9e6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "The Crossing Lines Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tanner-usrey/2024/bowery-ballroom-new-york-ny-3badc440.html"
+   }, {
+      "id" : "2badc446",
+      "versionId" : "g43b403e7",
+      "eventDate" : "23-02-2024",
+      "lastUpdated" : "2024-02-21T15:08:56.604+0000",
+      "artist" : {
+         "mbid" : "7cc3638a-85f0-435d-875a-26bd5d1ca658",
+         "name" : "JD Clayton",
+         "sortName" : "Clayton, JD",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jd-clayton-7bfd8a7c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jd-clayton/2024/bowery-ballroom-new-york-ny-2badc446.html"
+   }, {
+      "id" : "33adc069",
+      "versionId" : "g6b751682",
+      "eventDate" : "20-02-2024",
+      "lastUpdated" : "2025-07-10T03:09:32.684+0000",
+      "artist" : {
+         "mbid" : "12d9fb76-726d-4abe-9e7a-09b57905df0f",
+         "name" : "Evan Honer",
+         "sortName" : "Honer, Evan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/evan-honer-73f866a1.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nowhere Fast"
+            }, {
+               "name" : "Can't Do This No More"
+            }, {
+               "name" : "You'd Never Know"
+            }, {
+               "name" : "All I Ask"
+            }, {
+               "name" : "Empty On The Inside"
+            }, {
+               "name" : "Orange Juice",
+               "cover" : {
+                  "mbid" : "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+                  "name" : "Noah Kahan",
+                  "sortName" : "Kahan, Noah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/noah-kahan-7bcdeef4.html"
+               }
+            }, {
+               "name" : "Easier"
+            }, {
+               "name" : "Comfort the Fall"
+            }, {
+               "name" : "Wake up, Come Down",
+               "info" : "band leaves"
+            }, {
+               "name" : "False Promises and You"
+            }, {
+               "name" : "Brother"
+            }, {
+               "name" : "Someone You Don't Know"
+            }, {
+               "name" : "Mr. Meyers"
+            }, {
+               "name" : "A Thousand Times"
+            }, {
+               "name" : "Fighting For"
+            }, {
+               "name" : "Too Far Gone"
+            }, {
+               "name" : "How Could I Ever"
+            }, {
+               "name" : "Jersey Giant",
+               "cover" : {
+                  "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+                  "name" : "Tyler Childers",
+                  "sortName" : "Childers, Tyler",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+               }
+            }, {
+               "name" : "Foolin' Ourselves"
+            }, {
+               "name" : "IDK Shit About Cars"
+            } ]
+         } ]
+      },
+      "info" : "Julia DiGrazia performed",
+      "url" : "https://www.setlist.fm/setlist/evan-honer/2024/bowery-ballroom-new-york-ny-33adc069.html"
+   }, {
+      "id" : "badf956",
+      "versionId" : "gbb475ee",
+      "eventDate" : "15-02-2024",
+      "lastUpdated" : "2024-02-21T22:34:23.081+0000",
+      "artist" : {
+         "mbid" : "fee23a56-354f-4387-a2f4-d4495360c08f",
+         "name" : "Pool Kids",
+         "sortName" : "Pool Kids",
+         "disambiguation" : "emo band from Florida",
+         "url" : "https://www.setlist.fm/setlists/pool-kids-bd5b172.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pool-kids/2024/bowery-ballroom-new-york-ny-badf956.html"
+   }, {
+      "id" : "73ad8a19",
+      "versionId" : "gbb475ca",
+      "eventDate" : "15-02-2024",
+      "lastUpdated" : "2024-02-21T22:44:52.786+0000",
+      "artist" : {
+         "mbid" : "a521f1a8-a949-4dcf-ab33-94596cb02787",
+         "name" : "Militarie Gun",
+         "sortName" : "Militarie Gun",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/militarie-gun-23f31423.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Life Under The Gun"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Seizure of Assets"
+            }, {
+               "name" : "Think Less"
+            }, {
+               "name" : "Let Me Be Normal"
+            }, {
+               "name" : "Pressure Cooker",
+               "cover" : {
+                  "mbid" : "bdbcdae9-c729-4693-963a-5d63ec77b58d",
+                  "name" : "Dazy",
+                  "sortName" : "Dazy",
+                  "disambiguation" : "power pop musician from Richmond",
+                  "url" : "https://www.setlist.fm/setlists/dazy-6bfe8a6e.html"
+               }
+            }, {
+               "name" : "My Friends are Having a Hard Time"
+            }, {
+               "name" : "Return Policy"
+            }, {
+               "name" : "Will Logic"
+            }, {
+               "name" : "Don't Pick Up the Phone"
+            }, {
+               "name" : "Disposable Plastic Trash"
+            }, {
+               "name" : "Dislocate Me"
+            }, {
+               "name" : "Ain't No Flowers"
+            }, {
+               "name" : "Sway Too"
+            }, {
+               "name" : "Never Fucked Up Once"
+            }, {
+               "name" : "Big Disappointment"
+            }, {
+               "name" : "Life Under The Gun"
+            }, {
+               "name" : "All Roads Lead to the Gun"
+            }, {
+               "name" : "Song 2",
+               "cover" : {
+                  "mbid" : "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
+                  "name" : "Blur",
+                  "sortName" : "Blur",
+                  "disambiguation" : "UK alternative rock band",
+                  "url" : "https://www.setlist.fm/setlists/blur-13d6bd65.html"
+               }
+            }, {
+               "name" : "Very High"
+            }, {
+               "name" : "Do It Faster"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/militarie-gun/2024/bowery-ballroom-new-york-ny-73ad8a19.html"
+   }, {
+      "id" : "3adf953",
+      "versionId" : "g636422bf",
+      "eventDate" : "15-02-2024",
+      "lastUpdated" : "2025-11-03T21:59:05.077+0000",
+      "artist" : {
+         "mbid" : "ff55ef7f-9a2d-492d-bdd8-e6566a72ab0a",
+         "name" : "SPACED",
+         "sortName" : "SPACED",
+         "disambiguation" : "Buffalo, NY hardcore",
+         "url" : "https://www.setlist.fm/setlists/spaced-33fe8c6d.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Landslide"
+            }, {
+               "name" : "Your Universe"
+            }, {
+               "name" : "Boomerang"
+            }, {
+               "name" : "Rat Race"
+            }, {
+               "name" : "Bad Energy"
+            }, {
+               "name" : "Tear Me Down"
+            }, {
+               "name" : "Cycle Killer"
+            }, {
+               "name" : "Tear It Apart"
+            }, {
+               "name" : "Not Like You"
+            }, {
+               "name" : "Point of View"
+            }, {
+               "name" : "Prove You Wrong"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/spaced/2024/bowery-ballroom-new-york-ny-3adf953.html"
+   }, {
+      "id" : "1badf954",
+      "versionId" : "gbb475ea",
+      "eventDate" : "15-02-2024",
+      "lastUpdated" : "2024-02-21T22:33:22.612+0000",
+      "artist" : {
+         "mbid" : "2e3cbfc3-62c7-40cb-84b5-e954d07107bb",
+         "name" : "Spiritual Cramp",
+         "sortName" : "Spiritual Cramp",
+         "disambiguation" : "San Francisco punk band",
+         "url" : "https://www.setlist.fm/setlists/spiritual-cramp-bf09992.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/spiritual-cramp/2024/bowery-ballroom-new-york-ny-1badf954.html"
+   }, {
+      "id" : "1bad95d4",
+      "versionId" : "g43b9ff3b",
+      "eventDate" : "13-02-2024",
+      "lastUpdated" : "2024-06-03T18:53:57.875+0000",
+      "artist" : {
+         "mbid" : "64c08e7f-48ba-4a49-a18f-9ac648c8ac63",
+         "name" : "Daniel Donato",
+         "sortName" : "Donato, Daniel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/daniel-donato-bc871e2.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Fight for Your Right",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9beb62b2-88db-4cea-801e-162cd344ee53",
+                  "name" : "Beastie Boys",
+                  "sortName" : "Beastie Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beastie-boys-13d689c5.html"
+               }
+            }, {
+               "name" : "Hi-Country"
+            }, {
+               "name" : "Halfway (In Between)"
+            }, {
+               "name" : "Lose Your Mind",
+               "info" : ">"
+            }, {
+               "name" : "Waymore's Blues",
+               "cover" : {
+                  "mbid" : "1a46826b-4d73-4e04-8590-f36c9d832f9e",
+                  "name" : "Waylon Jennings",
+                  "sortName" : "Jennings, Waylon",
+                  "disambiguation" : "US country musician",
+                  "url" : "https://www.setlist.fm/setlists/waylon-jennings-23d6dcc7.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Mystery Train",
+               "cover" : {
+                  "mbid" : "72aeceb5-c54d-4f71-bd63-063d0a5e49ec",
+                  "name" : "Little Junior’s Blue Flames",
+                  "sortName" : "Little Junior’s Blue Flames",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/little-juniors-blue-flames-33d430d5.html"
+               },
+               "info" : "with \"Folsom Prison Blues\" (Johnny Cash) tease"
+            }, {
+               "name" : "Rose in a Garden"
+            }, {
+               "name" : "Darling Corey",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Dance in the Desert"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Rhapsody in Blue",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "65744963-191a-44ef-a3c7-b693a808a158",
+                  "name" : "George Gershwin",
+                  "sortName" : "Gershwin, George",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/george-gershwin-7bd64678.html"
+               }
+            }, {
+               "name" : "Sugar Shack"
+            }, {
+               "name" : "Luck of the Draw",
+               "info" : ">"
+            }, {
+               "name" : "Sugar Leg Rag"
+            }, {
+               "name" : "Free Wheelin'",
+               "info" : ">"
+            }, {
+               "name" : "Everybody's Talkin'",
+               "cover" : {
+                  "mbid" : "f51a55d0-5f9a-4df9-8a05-ab7bf56fa49d",
+                  "name" : "Fred Neil",
+                  "sortName" : "Neil, Fred",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fred-neil-4bd66f9e.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Weathervane",
+               "info" : ">"
+            }, {
+               "name" : "Blue Skies",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               },
+               "info" : "> Wethervane Reprise"
+            }, {
+               "name" : "Cosmic Doo Doo",
+               "cover" : {
+                  "mbid" : "519629b9-a971-4e27-9736-5e042555c211",
+                  "name" : "Blaze Foley",
+                  "sortName" : "Foley, Blaze",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/blaze-foley-3d669e3.html"
+               }
+            }, {
+               "name" : "Better Deal Blues"
+            }, {
+               "name" : "Chore"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Quinn the Eskimo (The Mighty Quinn)",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/daniel-donato/2024/bowery-ballroom-new-york-ny-1bad95d4.html"
+   }, {
+      "id" : "23ac4c3f",
+      "versionId" : "g3b72df3",
+      "eventDate" : "10-02-2024",
+      "lastUpdated" : "2024-02-11T18:09:00.279+0000",
+      "artist" : {
+         "mbid" : "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+         "name" : "Patti Smith",
+         "sortName" : "Smith, Patti",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/patti-smith-73d6a2c9.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Year of the Wood Dragon",
+               "info" : "Patti Smith and Jesse Paris Smith) (intro poem"
+            }, {
+               "name" : "Elemental Prayer",
+               "cover" : {
+                  "mbid" : "bd5d5ad6-6eec-486b-9390-5687d4186cb0",
+                  "name" : "Tenzin Choegyal",
+                  "sortName" : "Tenzin Choegyal",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tenzin-choegyal-4bc2bf8e.html"
+               },
+               "info" : "Patti Smith and Jesse Paris Smith) (with Jackson Smith and James Mastro"
+            }, {
+               "name" : "Fire of Unknown Origin",
+               "cover" : {
+                  "mbid" : "c7423e0c-ab3e-4ab4-be10-cdff5a9d3062",
+                  "name" : "Blue Öyster Cult",
+                  "sortName" : "Blue Öyster Cult",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/blue-oyster-cult-3bd6b814.html"
+               },
+               "info" : "Patti Smith and Lenny Kaye"
+            }, {
+               "name" : "Lightning Striking",
+               "info" : "Lenny Kaye only) (Patti Smith passage"
+            }, {
+               "name" : "World Book Night",
+               "cover" : {
+                  "mbid" : "47455aa4-c71e-4662-a775-33b81fcf0a37",
+                  "name" : "Lenny Kaye",
+                  "sortName" : "Kaye, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kaye-23d620eb.html"
+               },
+               "info" : "Lenny Kaye only"
+            }, {
+               "name" : "Ghost Dance",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               },
+               "with" : {
+                  "mbid" : "8bbb7afb-9257-472b-b113-f65eeb5f5ba5",
+                  "name" : "James Mastro",
+                  "sortName" : "Mastro, James",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-mastro-3bdb68a0.html"
+               }
+            }, {
+               "name" : "I Love This Bar",
+               "cover" : {
+                  "mbid" : "2f951906-5629-4fef-a260-5033151c162a",
+                  "name" : "Toby Keith",
+                  "sortName" : "Keith, Toby",
+                  "disambiguation" : "US country singer & guitarist",
+                  "url" : "https://www.setlist.fm/setlists/toby-keith-33d6bc81.html"
+               },
+               "info" : "Tony Shanahan and Lenny Kaye) (with James Mastro, without Patti Smith"
+            }, {
+               "name" : "Year of the Monkey",
+               "info" : "Patti Smith, with Tony Shanahan, Jackson Smith, and Michael Pitt) (Section of \"The Golden Cockerel"
+            }, {
+               "name" : "One Too Many Mornings",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               },
+               "info" : "Patti Smith with Tony Shanahan and Jackson Smith"
+            }, {
+               "name" : "Lullaby",
+               "cover" : {
+                  "mbid" : "95fb3a0c-fc74-4f51-acba-bbe5b3a78e32",
+                  "name" : "Bertolt Brecht",
+                  "sortName" : "Brecht, Bertolt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bertolt-brecht-23d7042f.html"
+               },
+               "info" : "Patti Smith only) (from Mother Courage and Her Children) (>"
+            }, {
+               "name" : "Masters of War",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               },
+               "with" : {
+                  "mbid" : "8bbb7afb-9257-472b-b113-f65eeb5f5ba5",
+                  "name" : "James Mastro",
+                  "sortName" : "Mastro, James",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-mastro-3bdb68a0.html"
+               }
+            }, {
+               "name" : "Nine",
+               "with" : {
+                  "mbid" : "8bbb7afb-9257-472b-b113-f65eeb5f5ba5",
+                  "name" : "James Mastro",
+                  "sortName" : "Mastro, James",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-mastro-3bdb68a0.html"
+               }
+            }, {
+               "name" : "I Want to Hold Your Hand",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "Tony Shanahan) (with James Mastro and Jesse Paris Smith, without Patti Smith"
+            }, {
+               "name" : "Dirty Water",
+               "cover" : {
+                  "mbid" : "795b83a0-9315-4201-aa82-675a1699a5c6",
+                  "name" : "The Standells",
+                  "sortName" : "Standells, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-standells-2bd6ac0a.html"
+               },
+               "info" : "Lenny Kaye) (with James Mastro, without Patti Smith"
+            }, {
+               "name" : "Going Local",
+               "cover" : {
+                  "mbid" : "47455aa4-c71e-4662-a775-33b81fcf0a37",
+                  "name" : "Lenny Kaye",
+                  "sortName" : "Kaye, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kaye-23d620eb.html"
+               },
+               "info" : "Lenny Kaye) (with James Mastro, without Patti Smith"
+            }, {
+               "name" : "Puff, the Magic Dragon",
+               "cover" : {
+                  "mbid" : "3d621c94-2356-4532-ad52-79e0ef73e20c",
+                  "name" : "Peter, Paul and Mary",
+                  "sortName" : "Peter, Paul and Mary",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/peter-paul-and-mary-2bd6589a.html"
+               },
+               "info" : "with James Mastro and Jesse Paris Smith"
+            }, {
+               "name" : "Dancing Barefoot",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               },
+               "with" : {
+                  "mbid" : "8bbb7afb-9257-472b-b113-f65eeb5f5ba5",
+                  "name" : "James Mastro",
+                  "sortName" : "Mastro, James",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-mastro-3bdb68a0.html"
+               }
+            }, {
+               "name" : "People Have the Power",
+               "info" : "with James Mastro and Jesse Paris Smith"
+            }, {
+               "name" : "Alabama Song (Whisky Bar)",
+               "cover" : {
+                  "mbid" : "0e738f68-783c-4a6a-80ae-4f7500861060",
+                  "name" : "Kurt Weill",
+                  "sortName" : "Weill, Kurt",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/kurt-weill-1bd79974.html"
+               },
+               "info" : "with James Mastro and Jesse Paris Smith"
+            } ]
+         } ]
+      },
+      "info" : "Year of the Wood Dragon: Words and Music by Patti Smith and Lenny Kaye w/ Jesse Paris Smith, Jackson Smith, Jay Dee Daugherty, Tony Shanahan and Friends. All songs with Patti Smith's full band except where noted",
+      "url" : "https://www.setlist.fm/setlist/patti-smith/2024/bowery-ballroom-new-york-ny-23ac4c3f.html"
+   }, {
+      "id" : "7bac5288",
+      "versionId" : "g6bb59ee2",
+      "eventDate" : "07-02-2024",
+      "lastUpdated" : "2024-02-25T01:47:16.227+0000",
+      "artist" : {
+         "mbid" : "6c44e99b-3450-45b7-b240-6e7026d0bcff",
+         "name" : "Sarah Jarosz",
+         "sortName" : "Jarosz, Sarah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sarah-jarosz-33d3e069.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Polaroid Lovers Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jealous Moon"
+            }, {
+               "name" : "When the Lights Go Out"
+            }, {
+               "name" : "The Way It Is Now"
+            }, {
+               "name" : "Columbus & 89th"
+            }, {
+               "name" : "Green Lights"
+            }, {
+               "name" : "Annabelle Lee"
+            }, {
+               "name" : "Build Me Up From Bones"
+            }, {
+               "name" : "Lost Dog"
+            }, {
+               "name" : "Maggie"
+            }, {
+               "name" : "Dying Ember"
+            }, {
+               "name" : "Jacqueline",
+               "info" : "Solo"
+            }, {
+               "name" : "Morning"
+            }, {
+               "name" : "1,000 Things"
+            }, {
+               "name" : "Days Can Turn Around"
+            }, {
+               "name" : "Take the High Road"
+            }, {
+               "name" : "Teardrop",
+               "cover" : {
+                  "mbid" : "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+                  "name" : "Massive Attack",
+                  "sortName" : "Massive Attack",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/massive-attack-4bd6abda.html"
+               }
+            }, {
+               "name" : "Runaway Train"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ring Them Bells",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Mezcal and Lime"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sarah-jarosz/2024/bowery-ballroom-new-york-ny-7bac5288.html"
+   } ]
+}

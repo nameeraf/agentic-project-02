@@ -1,0 +1,113 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 22,
+   "setlist" : [ {
+      "id" : "23abfcd3",
+      "versionId" : "g23b1f44b",
+      "eventDate" : "28-03-2024",
+      "lastUpdated" : "2024-03-31T01:21:57.293+0000",
+      "artist" : {
+         "mbid" : "88633ac3-c8e2-420f-8415-77ac56b3105f",
+         "name" : "Chuck D",
+         "sortName" : "Chuck D",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/chuck-d-4bd6db96.html"
+      },
+      "venue" : {
+         "id" : "73d63e69",
+         "name" : "Apollo Theater",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/apollo-theater-new-york-ny-usa-73d63e69.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kill Them Guns"
+            }, {
+               "name" : "Fight the Power",
+               "cover" : {
+                  "mbid" : "bf2e15d0-4b77-469e-bfb4-f8414415baca",
+                  "name" : "Public Enemy",
+                  "sortName" : "Public Enemy",
+                  "disambiguation" : "US rap group",
+                  "url" : "https://www.setlist.fm/setlists/public-enemy-63d686a3.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "with Mix Master Mike and Steve Jordan. Introduction by Fab 5 Freddy",
+      "url" : "https://www.setlist.fm/setlist/chuck-d/2024/apollo-theater-new-york-ny-23abfcd3.html"
+   }, {
+      "id" : "13aa4521",
+      "versionId" : "g2bb1f41a",
+      "eventDate" : "28-03-2024",
+      "lastUpdated" : "2024-03-31T01:37:10.569+0000",
+      "artist" : {
+         "mbid" : "d9733f21-71d7-4fa7-813d-67eca0f0eaaf",
+         "name" : "The Sun Ra Arkestra",
+         "sortName" : "Sun Ra Arkestra, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-sun-ra-arkestra-3d6012f.html"
+      },
+      "venue" : {
+         "id" : "73d63e69",
+         "name" : "Apollo Theater",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/apollo-theater-new-york-ny-usa-73d63e69.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Swirling"
+            }, {
+               "name" : "Angels and Demons at Play",
+               "cover" : {
+                  "mbid" : "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+                  "name" : "Sun Ra",
+                  "sortName" : "Sun Ra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sun-ra-53d6b3a9.html"
+               }
+            }, {
+               "name" : "We Travel the Spaceways / Space Is the Place",
+               "cover" : {
+                  "mbid" : "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+                  "name" : "Sun Ra",
+                  "sortName" : "Sun Ra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sun-ra-53d6b3a9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-sun-ra-arkestra/2024/apollo-theater-new-york-ny-13aa4521.html"
+   } ]
+}

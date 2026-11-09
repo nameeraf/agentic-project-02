@@ -1,0 +1,1325 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 242,
+   "setlist" : [ {
+      "id" : "7b5aa2b0",
+      "versionId" : "g234ba4b7",
+      "eventDate" : "21-05-2025",
+      "lastUpdated" : "2025-05-23T04:12:45.124+0000",
+      "artist" : {
+         "mbid" : "32a83250-7e26-422d-b9ac-f4564343e9ce",
+         "name" : "Peter Bjorn and John",
+         "sortName" : "Peter Bjorn and John",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/peter-bjorn-and-john-6bd6dec2.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Writers Block Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Poor Cow"
+            }, {
+               "name" : "Roll the Credits"
+            }, {
+               "name" : "The Chills"
+            }, {
+               "name" : "Let's Call It Off"
+            }, {
+               "name" : "Paris 2004"
+            }, {
+               "name" : "Up Against the Wall"
+            }, {
+               "name" : "Start to Melt"
+            }, {
+               "name" : "Amsterdam"
+            }, {
+               "name" : "Young Folks"
+            }, {
+               "name" : "Objects of My Affection"
+            }, {
+               "name" : "Breakin' Point"
+            }, {
+               "name" : "Living a Dream"
+            }, {
+               "name" : "Gut Feeling"
+            }, {
+               "name" : "Teen Love",
+               "cover" : {
+                  "mbid" : "11b1a7c4-3a48-43f8-9d57-6a81fdd1eeba",
+                  "name" : "The Concretes",
+                  "sortName" : "Concretes, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-concretes-53d6a3fd.html"
+               },
+               "info" : "(Interpolating Teenage Kicks by the Undertones)"
+            }, {
+               "name" : "Second Chance"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Far Away, By My Side"
+            }, {
+               "name" : "I Know You Don't Love Me"
+            }, {
+               "name" : "Lies"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/peter-bjorn-and-john/2025/irving-plaza-new-york-ny-7b5aa2b0.html"
+   }, {
+      "id" : "1b4601a4",
+      "versionId" : "g234c785f",
+      "eventDate" : "18-05-2025",
+      "lastUpdated" : "2025-05-04T15:39:28.717+0000",
+      "artist" : {
+         "mbid" : "24e6995a-dd12-4f32-94c7-0d87e42ff8aa",
+         "name" : "Maddox Batson",
+         "sortName" : "Batson, Maddox",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maddox-batson-3e5a99b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maddox-batson/2025/irving-plaza-new-york-ny-1b4601a4.html"
+   }, {
+      "id" : "6b47e696",
+      "versionId" : "gb4b3dae",
+      "eventDate" : "17-05-2025",
+      "lastUpdated" : "2025-05-26T01:33:22.990+0000",
+      "artist" : {
+         "mbid" : "316f7cee-a01b-4dbc-a10f-fa8537da24eb",
+         "name" : "Trousdale",
+         "sortName" : "Trousdale",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trousdale-73fdaeb5.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lonely Night"
+            }, {
+               "name" : "Growing Pains"
+            }, {
+               "name" : "Point Your Finger"
+            }, {
+               "name" : "Movie Star"
+            }, {
+               "name" : "Want Me Back"
+            }, {
+               "name" : "Any Day Now"
+            }, {
+               "name" : "Wouldn’t Come Back"
+            }, {
+               "name" : "Out of My Mind"
+            }, {
+               "name" : "Sleeping at the Wheel"
+            }, {
+               "name" : "Secondhand Smoke"
+            }, {
+               "name" : "What Is This Feeling? / Popular / For Good / Defying Gravity",
+               "cover" : {
+                  "mbid" : "57df78f7-085d-4322-9589-fd41c1e1e869",
+                  "name" : "Stephen Schwartz",
+                  "sortName" : "Schwartz, Stephen",
+                  "disambiguation" : "musical theatre lyricist/composer",
+                  "url" : "https://www.setlist.fm/setlists/stephen-schwartz-73d6e2b5.html"
+               }
+            }, {
+               "name" : "Bad Blood"
+            }, {
+               "name" : "Save Me"
+            }, {
+               "name" : "Do Re Mi"
+            }, {
+               "name" : "Over and Over"
+            }, {
+               "name" : "Vertigo"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Ick"
+            }, {
+               "name" : "Last Bloom"
+            }, {
+               "name" : "If I'm Honest"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trousdale/2025/irving-plaza-new-york-ny-6b47e696.html"
+   }, {
+      "id" : "b47f9e6",
+      "versionId" : "g434a8767",
+      "eventDate" : "15-05-2025",
+      "lastUpdated" : "2025-05-16T01:25:36.599+0000",
+      "artist" : {
+         "mbid" : "2c454cd7-94fe-4309-842c-7df42179da4f",
+         "name" : "Victoria Canal",
+         "sortName" : "Canal, Victoria",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/victoria-canal-63cfea3b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Slowly, It Dawns 2025 US Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/victoria-canal/2025/irving-plaza-new-york-ny-b47f9e6.html"
+   }, {
+      "id" : "1347f9e1",
+      "versionId" : "g1b7521d8",
+      "eventDate" : "15-05-2025",
+      "lastUpdated" : "2025-07-09T16:36:28.910+0000",
+      "artist" : {
+         "mbid" : "1676172f-657a-4771-96ff-4a1c2ef1997e",
+         "name" : "Lucius",
+         "sortName" : "Lucius",
+         "disambiguation" : "US indie pop band",
+         "url" : "https://www.setlist.fm/setlists/lucius-3df2577.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Final Days"
+            }, {
+               "name" : "Gold Rush"
+            }, {
+               "name" : "Do It All for You"
+            }, {
+               "name" : "Hallways"
+            }, {
+               "name" : "Stranger Danger"
+            }, {
+               "name" : "24"
+            }, {
+               "name" : "Tempest"
+            }, {
+               "name" : "Joyride"
+            }, {
+               "name" : "Nothing Ordinary"
+            }, {
+               "name" : "Genevieve"
+            }, {
+               "name" : "Dusty Trails"
+            }, {
+               "name" : "Old Tape",
+               "with" : {
+                  "mbid" : "7a80eefc-bc8e-460e-9bd2-0e102ac0568d",
+                  "name" : "Adam Granduciel",
+                  "sortName" : "Granduciel, Adam",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/adam-granduciel-53d3c305.html"
+               }
+            }, {
+               "name" : "Lucy",
+               "with" : {
+                  "mbid" : "7a80eefc-bc8e-460e-9bd2-0e102ac0568d",
+                  "name" : "Adam Granduciel",
+                  "sortName" : "Granduciel, Adam",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/adam-granduciel-53d3c305.html"
+               }
+            }, {
+               "name" : "Orange Blossoms"
+            }, {
+               "name" : "At the End of the Day"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Two of Us on the Run",
+               "info" : "preceded by reading the pre-show fan letters"
+            }, {
+               "name" : "Mad Love"
+            }, {
+               "name" : "Everybody Hurts",
+               "cover" : {
+                  "mbid" : "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+                  "name" : "R.E.M.",
+                  "sortName" : "R.E.M.",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/rem-33d6b859.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Originally scheduled at The Brooklyn Paramount.",
+      "url" : "https://www.setlist.fm/setlist/lucius/2025/irving-plaza-new-york-ny-1347f9e1.html"
+   }, {
+      "id" : "b5a9db2",
+      "versionId" : "g1b4a950c",
+      "eventDate" : "14-05-2025",
+      "lastUpdated" : "2025-05-15T13:20:16.431+0000",
+      "artist" : {
+         "mbid" : "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+         "name" : "Deafheaven",
+         "sortName" : "Deafheaven",
+         "disambiguation" : "USA post‐black metal/shoegaze",
+         "url" : "https://www.setlist.fm/setlists/deafheaven-43d26b2b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Lonely People With Power"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Incidental I"
+            }, {
+               "name" : "Doberman"
+            }, {
+               "name" : "Magnolia"
+            }, {
+               "name" : "Brought to the Water"
+            }, {
+               "name" : "Sunbather"
+            }, {
+               "name" : "The Garden Route"
+            }, {
+               "name" : "Heathen"
+            }, {
+               "name" : "Amethyst"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Incidental II"
+            }, {
+               "name" : "Revelator"
+            }, {
+               "name" : "Dream House"
+            }, {
+               "name" : "Winona"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/deafheaven/2025/irving-plaza-new-york-ny-b5a9db2.html"
+   }, {
+      "id" : "6b47aa9e",
+      "versionId" : "g34a8133",
+      "eventDate" : "14-05-2025",
+      "lastUpdated" : "2025-05-16T03:21:25.999+0000",
+      "artist" : {
+         "mbid" : "69a16532-cdc2-459b-8f7a-7793583d7290",
+         "name" : "Gatecreeper",
+         "sortName" : "Gatecreeper",
+         "disambiguation" : "US death metal band",
+         "url" : "https://www.setlist.fm/setlists/gatecreeper-5bd88f6c.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Dark Superstition"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gatecreeper/2025/irving-plaza-new-york-ny-6b47aa9e.html"
+   }, {
+      "id" : "6b478a86",
+      "versionId" : "g5b4aa7f4",
+      "eventDate" : "14-05-2025",
+      "lastUpdated" : "2025-05-15T00:30:36.878+0000",
+      "artist" : {
+         "mbid" : "7406b0d5-657d-445b-8cb0-781bb4e3d276",
+         "name" : "trauma ray",
+         "sortName" : "trauma ray",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trauma-ray-5bf47744.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trauma-ray/2025/irving-plaza-new-york-ny-6b478a86.html"
+   }, {
+      "id" : "5b47cf98",
+      "versionId" : "g6b4a023e",
+      "eventDate" : "13-05-2025",
+      "lastUpdated" : "2025-05-20T04:09:05.014+0000",
+      "artist" : {
+         "mbid" : "7d85221d-8ec3-4049-94bf-42b213ff85d2",
+         "name" : "Thousand Below",
+         "sortName" : "Thousand Below",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/thousand-below-7bccee0c.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hell Finds You Everywhere"
+            }, {
+               "name" : "SHAKE"
+            }, {
+               "name" : "Silent Season"
+            }, {
+               "name" : "Venenosa"
+            }, {
+               "name" : "The Love You Let Too Close"
+            }, {
+               "name" : "Wrong Again"
+            }, {
+               "name" : "No Place Like You"
+            }, {
+               "name" : "Sabotage"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/thousand-below/2025/irving-plaza-new-york-ny-5b47cf98.html"
+   }, {
+      "id" : "4b47cf9a",
+      "versionId" : "g6b4a023a",
+      "eventDate" : "13-05-2025",
+      "lastUpdated" : "2025-05-20T04:07:00.959+0000",
+      "artist" : {
+         "mbid" : "49a5431c-6e4b-45d5-b4d0-879a923c9dc4",
+         "name" : "Nerv",
+         "sortName" : "Nerv",
+         "disambiguation" : "Post Hardcore",
+         "url" : "https://www.setlist.fm/setlists/nerv-4bcd7f5a.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "LOST!"
+            }, {
+               "name" : "Low"
+            }, {
+               "name" : "CHAOS!"
+            }, {
+               "name" : "FAKE!"
+            }, {
+               "name" : "Blue"
+            }, {
+               "name" : "Bad Habits"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nerv/2025/irving-plaza-new-york-ny-4b47cf9a.html"
+   }, {
+      "id" : "4347cfa7",
+      "versionId" : "g634a0243",
+      "eventDate" : "13-05-2025",
+      "lastUpdated" : "2025-05-20T04:04:16.492+0000",
+      "artist" : {
+         "mbid" : "e7e26309-14b1-4ec8-ba23-90ed475a51e4",
+         "name" : "Citizen Soldier",
+         "sortName" : "Citizen Soldier",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/citizen-soldier-1bf4edec.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Talk Me Down"
+            }, {
+               "name" : "Thank You for Hating Me"
+            }, {
+               "name" : "Monster Made of Memories"
+            }, {
+               "name" : "The Liar"
+            }, {
+               "name" : "Save Me from My Angels"
+            }, {
+               "name" : "Still Breathing"
+            }, {
+               "name" : "Would Anyone Care"
+            }, {
+               "name" : "Better Off Broken"
+            }, {
+               "name" : "Say Nothing",
+               "with" : {
+                  "mbid" : "a1c055c5-2fff-4d2c-be27-c0dfbfec4a64",
+                  "name" : "LEXX",
+                  "sortName" : "LEXX",
+                  "disambiguation" : "Nashville-based female artist",
+                  "url" : "https://www.setlist.fm/setlists/lexx-3be5e0b0.html"
+               }
+            }, {
+               "name" : "Face to Face"
+            }, {
+               "name" : "Letdown"
+            }, {
+               "name" : "My Own Miracle"
+            }, {
+               "name" : "Burden"
+            }, {
+               "name" : "You Are Enough"
+            }, {
+               "name" : "This Is Your Sign"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/citizen-soldier/2025/irving-plaza-new-york-ny-4347cfa7.html"
+   }, {
+      "id" : "135fb11d",
+      "versionId" : "g534a9395",
+      "eventDate" : "13-05-2025",
+      "lastUpdated" : "2025-05-15T17:35:56.124+0000",
+      "artist" : {
+         "mbid" : "b18bc9c4-6f22-4f1b-a918-e9c86a39fe7a",
+         "name" : "10 Years",
+         "sortName" : "10 Years",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/10-years-13d69921.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Novacaine"
+            }, {
+               "name" : "Now Is the Time (Ravenous)"
+            }, {
+               "name" : "Fix Me"
+            }, {
+               "name" : "Rise"
+            }, {
+               "name" : "The Shift"
+            }, {
+               "name" : "Heart-Shaped Box",
+               "cover" : {
+                  "mbid" : "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name" : "Nirvana",
+                  "sortName" : "Nirvana",
+                  "disambiguation" : "1980s–1990s US grunge band",
+                  "url" : "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+               }
+            }, {
+               "name" : "Gravity"
+            }, {
+               "name" : "The Optimist"
+            }, {
+               "name" : "Wasteland"
+            }, {
+               "name" : "Shoot It Out"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/10-years/2025/irving-plaza-new-york-ny-135fb11d.html"
+   }, {
+      "id" : "7b5a8e4c",
+      "versionId" : "g7b732268",
+      "eventDate" : "12-05-2025",
+      "lastUpdated" : "2025-07-25T00:48:17.017+0000",
+      "artist" : {
+         "mbid" : "c4a3dc14-e745-4ca8-af27-e89ff19232d3",
+         "name" : "156/Silence",
+         "sortName" : "156/Silence",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/156silence-2bc84c5a.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Bloom in Heaven Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "High Dive in a Low Well"
+            }, {
+               "name" : "Product Placement"
+            }, {
+               "name" : "If Pleasure's Gone"
+            }, {
+               "name" : "Wants I Need"
+            }, {
+               "name" : "Blood Loss"
+            }, {
+               "name" : "Sleep Spikes",
+               "tape" : true
+            }, {
+               "name" : "Better Written Villain"
+            }, {
+               "name" : "Character Development (Cold Start)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/156silence/2025/irving-plaza-new-york-ny-7b5a8e4c.html"
+   }, {
+      "id" : "435aa7a7",
+      "versionId" : "g534d5b2d",
+      "eventDate" : "12-05-2025",
+      "lastUpdated" : "2025-05-13T02:33:59.241+0000",
+      "artist" : {
+         "mbid" : "c62afc98-8596-4532-a1dd-bc1a595c927e",
+         "name" : "Silent Planet",
+         "sortName" : "Silent Planet",
+         "disambiguation" : "metalcore band",
+         "url" : "https://www.setlist.fm/setlists/silent-planet-63da3e9f.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Bloom In Heaven Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lights Off the Lost Coast",
+               "tape" : true
+            }, {
+               "name" : "Offworlder"
+            }, {
+               "name" : "Collider"
+            }, {
+               "name" : "Panopticon"
+            }, {
+               "name" : "Euphoria"
+            }, {
+               "name" : "Dreamwalker"
+            }, {
+               "name" : "Antimatter"
+            }, {
+               "name" : "Return to One",
+               "info" : "Dedicated to Lukas Booker",
+               "with" : {
+                  "mbid" : "d092fd55-4e26-4a2f-9c13-2dd84190c24d",
+                  "name" : "Marcus Vik",
+                  "sortName" : "Vik, Marcus",
+                  "disambiguation" : "Invent Animate vocalist",
+                  "url" : "https://www.setlist.fm/setlists/marcus-vik-2bfaf8d6.html"
+               }
+            }, {
+               "name" : "Panic Room"
+            }, {
+               "name" : "Interstellar",
+               "cover" : {
+                  "mbid" : "e6de1f3b-6484-491c-88dd-6d619f142abc",
+                  "name" : "Hans Zimmer",
+                  "sortName" : "Zimmer, Hans",
+                  "disambiguation" : "German score composer",
+                  "url" : "https://www.setlist.fm/setlists/hans-zimmer-73d6b675.html"
+               }
+            }, {
+               "name" : ":Signal:"
+            }, {
+               "name" : "Anunnaki"
+            }, {
+               "name" : "Mindframe"
+            }, {
+               "name" : "The Overgrowth"
+            }, {
+               "name" : "Reentry",
+               "tape" : true
+            }, {
+               "name" : "SUPERBLOOM"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Trilogy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/silent-planet/2025/irving-plaza-new-york-ny-435aa7a7.html"
+   }, {
+      "id" : "3b5aa4e8",
+      "versionId" : "g2b4d582a",
+      "eventDate" : "12-05-2025",
+      "lastUpdated" : "2025-05-13T01:19:05.915+0000",
+      "artist" : {
+         "mbid" : "af3fd27c-c59f-4eb7-9303-042ee3eef006",
+         "name" : "Invent Animate",
+         "sortName" : "Invent Animate",
+         "disambiguation" : "metalcore",
+         "url" : "https://www.setlist.fm/setlists/invent-animate-53d87b21.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Bloom In Heaven Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "False Meridian"
+            }, {
+               "name" : "Shade Astray"
+            }, {
+               "name" : "Absence Persistent"
+            }, {
+               "name" : "Labyrinthine"
+            }, {
+               "name" : "Void Surfacing"
+            }, {
+               "name" : "All The Light Is Gone",
+               "with" : {
+                  "mbid" : "c62afc98-8596-4532-a1dd-bc1a595c927e",
+                  "name" : "Silent Planet",
+                  "sortName" : "Silent Planet",
+                  "disambiguation" : "metalcore band",
+                  "url" : "https://www.setlist.fm/setlists/silent-planet-63da3e9f.html"
+               }
+            }, {
+               "name" : "Purity Weeps"
+            }, {
+               "name" : "Emberglow"
+            }, {
+               "name" : "Elysium",
+               "info" : "Dedicated to Lukas Booker"
+            }, {
+               "name" : "Reverie"
+            }, {
+               "name" : "Heavener"
+            }, {
+               "name" : "Without a Whisper"
+            }, {
+               "name" : "Immolation of Night"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/invent-animate/2025/irving-plaza-new-york-ny-3b5aa4e8.html"
+   }, {
+      "id" : "2b5aa49e",
+      "versionId" : "g634d5e13",
+      "eventDate" : "12-05-2025",
+      "lastUpdated" : "2025-05-12T23:13:21.681+0000",
+      "artist" : {
+         "mbid" : "bd25b4a6-09ee-4c88-96f3-04464e36c2e5",
+         "name" : "Allt",
+         "sortName" : "Allt",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/allt-33fed839.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Bloom in Heaven Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A Flash of Light",
+               "tape" : true
+            }, {
+               "name" : "Remnant"
+            }, {
+               "name" : "Aquila"
+            }, {
+               "name" : "Memory of Light"
+            }, {
+               "name" : "Echoes"
+            }, {
+               "name" : "The Orphan Breed"
+            }, {
+               "name" : "Emanate"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/allt/2025/irving-plaza-new-york-ny-2b5aa49e.html"
+   }, {
+      "id" : "7b47b608",
+      "versionId" : "g5b4d1724",
+      "eventDate" : "10-05-2025",
+      "lastUpdated" : "2025-05-11T04:03:00.203+0000",
+      "artist" : {
+         "mbid" : "8ece873f-55ce-41d5-9ffa-5e0319b2fc28",
+         "name" : "Amythyst Kiah",
+         "sortName" : "Kiah, Amythyst",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/amythyst-kiah-6bcff296.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Empire Of Love"
+            }, {
+               "name" : "Silk and Petals"
+            }, {
+               "name" : "Gods Under the Mountain"
+            }, {
+               "name" : "I Will Not Go Down",
+               "info" : "on banjo!"
+            }, {
+               "name" : "Abracadabra",
+               "cover" : {
+                  "mbid" : "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                  "name" : "Lady Gaga",
+                  "sortName" : "Lady Gaga",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html"
+               }
+            }, {
+               "name" : "S P A C E"
+            }, {
+               "name" : "Wild Turkey"
+            }, {
+               "name" : "Black Myself",
+               "cover" : {
+                  "mbid" : "2d3b1855-679e-44b4-9294-3c4b705cf6e1",
+                  "name" : "Our Native Daughters",
+                  "sortName" : "Our Native Daughters",
+                  "disambiguation" : "groups comprised of Rhiannon Giddens, Leyla McCalla, Allison Russell and Amythyst Kiah",
+                  "url" : "https://www.setlist.fm/setlists/our-native-daughters-1bc91974.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/amythyst-kiah/2025/irving-plaza-new-york-ny-7b47b608.html"
+   }, {
+      "id" : "73518a55",
+      "versionId" : "g3307d055",
+      "eventDate" : "10-05-2025",
+      "lastUpdated" : "2026-07-07T04:11:23.961+0000",
+      "artist" : {
+         "mbid" : "ec5436c4-c44a-47f5-a640-da8d376a3871",
+         "name" : "Larkin Poe",
+         "sortName" : "Larkin Poe",
+         "disambiguation" : "formerly known as Lovell Sisters",
+         "url" : "https://www.setlist.fm/setlists/larkin-poe-6bd5ea5e.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Bloom World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wildflowers",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+                  "name" : "Dolly Parton",
+                  "sortName" : "Parton, Dolly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dolly-parton-4bd6e7ae.html"
+               }
+            }, {
+               "name" : "Nowhere Fast"
+            }, {
+               "name" : "Summertime Sunset"
+            }, {
+               "name" : "Easy Love Pt. 1"
+            }, {
+               "name" : "Bluephoria"
+            }, {
+               "name" : "Mockingbird"
+            }, {
+               "name" : "Bad Spell"
+            }, {
+               "name" : "Southern Comfort",
+               "info" : "Acoustic"
+            }, {
+               "name" : "God Moves on the Water",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Mad as a Hatter",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Thank God I'm a Country Boy",
+               "cover" : {
+                  "mbid" : "34e10b51-b5c6-4bc1-b70e-f05f141eda1e",
+                  "name" : "John Denver",
+                  "sortName" : "Denver, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-denver-53d6739d.html"
+               }
+            }, {
+               "name" : "Deep Stays Down"
+            }, {
+               "name" : "Little Bit"
+            }, {
+               "name" : "If God Is a Woman"
+            }, {
+               "name" : "Pearls"
+            }, {
+               "name" : "Wanted Woman"
+            }, {
+               "name" : "Bolt Cutters & The Family Name"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Bloom Again"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/larkin-poe/2025/irving-plaza-new-york-ny-73518a55.html"
+   }, {
+      "id" : "6b58a2d2",
+      "versionId" : "g4b72474e",
+      "eventDate" : "09-05-2025",
+      "lastUpdated" : "2025-07-19T20:34:52.062+0000",
+      "artist" : {
+         "mbid" : "609a2ea3-f446-4e31-8eef-9f7591afb55a",
+         "name" : "Alex Warren",
+         "sortName" : "Warren, Alex",
+         "disambiguation" : "Tik Tok star",
+         "url" : "https://www.setlist.fm/setlists/alex-warren-5bf33308.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Cheaper Than Therapy Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Burning Down"
+            }, {
+               "name" : "Troubled Waters"
+            }, {
+               "name" : "Before You Leave Me"
+            }, {
+               "name" : "You'll Be Alright, Kid"
+            }, {
+               "name" : "Yard Sale"
+            }, {
+               "name" : "Chasing Shadows"
+            }, {
+               "name" : "Catch My Breath"
+            }, {
+               "name" : "Save You a Seat"
+            }, {
+               "name" : "Ordinary"
+            }, {
+               "name" : "Carry You Home"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alex-warren/2025/irving-plaza-new-york-ny-6b58a2d2.html"
+   }, {
+      "id" : "73463e65",
+      "versionId" : "g734d26d5",
+      "eventDate" : "08-05-2025",
+      "lastUpdated" : "2025-05-10T18:54:55.881+0000",
+      "artist" : {
+         "mbid" : "db008806-16f6-48fc-8521-3d953709689d",
+         "name" : "A Day to Remember",
+         "sortName" : "Day to Remember, A",
+         "disambiguation" : "US post‐hardcore band",
+         "url" : "https://www.setlist.fm/setlists/a-day-to-remember-1bd63d44.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Big Ole Album Vol. 1",
+            "song" : [ {
+               "name" : "Make It Make Sense"
+            }, {
+               "name" : "Feedback"
+            }, {
+               "name" : "Bad Blood"
+            }, {
+               "name" : "All My Friends"
+            }, {
+               "name" : "To the Death",
+               "info" : "Live debut"
+            }, {
+               "name" : "Flowers"
+            }, {
+               "name" : "LeBron"
+            }, {
+               "name" : "Die for Me",
+               "info" : "Live debut"
+            }, {
+               "name" : "Miracle"
+            }, {
+               "name" : "Same Team",
+               "info" : "Live debut"
+            }, {
+               "name" : "Silence",
+               "info" : "Live debut"
+            }, {
+               "name" : "Closer Than You Think",
+               "info" : "Live debut"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "All Signs Point to Lauderdale"
+            }, {
+               "name" : "All I Want"
+            }, {
+               "name" : "I'm Made of Wax, Larry, What Are You Made Of?"
+            }, {
+               "name" : "Paranoia"
+            }, {
+               "name" : "Have Faith in Me"
+            }, {
+               "name" : "Resentment"
+            }, {
+               "name" : "NJ Legion Iced Tea"
+            }, {
+               "name" : "If It Means a Lot to You"
+            }, {
+               "name" : "The Downfall of Us All"
+            } ]
+         } ]
+      },
+      "info" : "\"Big Ole Album Vol. 1\" played in full for the first time; The Plot to Bomb the Panhandle was on the setlist but not played",
+      "url" : "https://www.setlist.fm/setlist/a-day-to-remember/2025/irving-plaza-new-york-ny-73463e65.html"
+   } ]
+}

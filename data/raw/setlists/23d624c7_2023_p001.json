@@ -1,0 +1,1670 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 108,
+   "setlist" : [ {
+      "id" : "ba96dca",
+      "versionId" : "g2bbb8882",
+      "eventDate" : "13-10-2023",
+      "lastUpdated" : "2024-05-16T21:58:09.117+0000",
+      "artist" : {
+         "mbid" : "d3a75a8f-c8e2-4c71-aab0-5aba5ad439ff",
+         "name" : "The Always Sunny Podcast",
+         "sortName" : "Always Sunny Podcast, The",
+         "disambiguation" : "Podcast about the TV show “It’s Always Sunny in Philadelphia”",
+         "url" : "https://www.setlist.fm/setlists/the-always-sunny-podcast-63fb0a1f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-always-sunny-podcast/2023/radio-city-music-hall-new-york-ny-ba96dca.html"
+   }, {
+      "id" : "5ba0bb80",
+      "versionId" : "g382b5db",
+      "eventDate" : "12-10-2023",
+      "lastUpdated" : "2023-10-13T14:17:42.171+0000",
+      "artist" : {
+         "mbid" : "d3a75a8f-c8e2-4c71-aab0-5aba5ad439ff",
+         "name" : "The Always Sunny Podcast",
+         "sortName" : "Always Sunny Podcast, The",
+         "disambiguation" : "Podcast about the TV show “It’s Always Sunny in Philadelphia”",
+         "url" : "https://www.setlist.fm/setlists/the-always-sunny-podcast-63fb0a1f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-always-sunny-podcast/2023/radio-city-music-hall-new-york-ny-5ba0bb80.html"
+   }, {
+      "id" : "63a306d7",
+      "versionId" : "g5b8ebb1c",
+      "eventDate" : "06-10-2023",
+      "lastUpdated" : "2023-11-12T04:31:36.739+0000",
+      "artist" : {
+         "mbid" : "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+         "name" : "Titãs",
+         "sortName" : "Titãs",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/titas-63d6d233.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Titãs Encontro - Todos Ao Mesmo Tempo Agora"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Diversão"
+            }, {
+               "name" : "Desordem"
+            }, {
+               "name" : "Tô cansado"
+            }, {
+               "name" : "Lugar nenhum"
+            }, {
+               "name" : "Igreja"
+            }, {
+               "name" : "Homem primata"
+            }, {
+               "name" : "Estado violência"
+            }, {
+               "name" : "O pulso"
+            }, {
+               "name" : "Comida"
+            }, {
+               "name" : "Jesus não tem dentes no país dos banguelas"
+            }, {
+               "name" : "Nome aos bois"
+            }, {
+               "name" : "Eu não sei fazer música"
+            }, {
+               "name" : "Cabeça dinossauro"
+            } ]
+         }, {
+            "name" : "Acoustic",
+            "song" : [ {
+               "name" : "Epitáfio"
+            }, {
+               "name" : "Os cegos do castelo"
+            }, {
+               "name" : "Pra dizer adeus"
+            }, {
+               "name" : "Toda cor",
+               "info" : "Alice Fromer nos vocais"
+            }, {
+               "name" : "Não vou me adaptar",
+               "info" : "Alice Fromer nos vocais"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Família"
+            }, {
+               "name" : "Go Back"
+            }, {
+               "name" : "É preciso saber viver",
+               "cover" : {
+                  "mbid" : "e43f8c07-2d2e-47fd-8279-dc0e9880882c",
+                  "name" : "Roberto Carlos",
+                  "sortName" : "Roberto Carlos",
+                  "disambiguation" : "Brazilian singer-songwriter, \"King of Latin Music\"",
+                  "url" : "https://www.setlist.fm/setlists/roberto-carlos-6bd4b21a.html"
+               }
+            }, {
+               "name" : "32 dentes"
+            }, {
+               "name" : "Flores"
+            }, {
+               "name" : "Televisão"
+            }, {
+               "name" : "Porrada"
+            }, {
+               "name" : "Polícia"
+            }, {
+               "name" : "AA UU"
+            }, {
+               "name" : "Bichos escrotos"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Introdução por Mauro e Quitéria",
+               "tape" : true
+            }, {
+               "name" : "Miséria"
+            }, {
+               "name" : "Vinheta final por Mauro e Quitéria",
+               "tape" : true
+            }, {
+               "name" : "Marvin"
+            }, {
+               "name" : "Sonífera ilha"
+            }, {
+               "name" : "Domingo",
+               "tape" : true
+            }, {
+               "name" : "O quê",
+               "tape" : true
+            }, {
+               "name" : "A melhor banda de todos os tempos da última semana",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/titas/2023/radio-city-music-hall-new-york-ny-63a306d7.html"
+   }, {
+      "id" : "5ba31b3c",
+      "versionId" : "g5b412700",
+      "eventDate" : "05-10-2023",
+      "lastUpdated" : "2025-04-12T03:16:40.176+0000",
+      "artist" : {
+         "mbid" : "fc3ae4dd-dcc5-4f99-a865-6bc1a5c9b705",
+         "name" : "Ichiko Aoba",
+         "sortName" : "Aoba, Ichiko",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ichiko-aoba-3bdba8ec.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kokoro no Sekai"
+            }, {
+               "name" : "Sagu Palm's Song"
+            }, {
+               "name" : "Endive to Nemutte (Asleep Among Endives)",
+               "info" : "\"Asleep Among Endives\""
+            }, {
+               "name" : "Kaitei no Eden (Seabed Eden)",
+               "info" : "\"Seabed Eden\""
+            }, {
+               "name" : "bouquet"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ichiko-aoba/2023/radio-city-music-hall-new-york-ny-5ba31b3c.html"
+   }, {
+      "id" : "13a319bd",
+      "versionId" : "g5b5d4724",
+      "eventDate" : "05-10-2023",
+      "lastUpdated" : "2025-01-06T20:10:55.715+0000",
+      "artist" : {
+         "mbid" : "8c529495-91f5-4e2f-b71b-adcb66878d04",
+         "name" : "Japanese Breakfast",
+         "sortName" : "Japanese Breakfast",
+         "disambiguation" : "Michelle Zauner's solo project and band",
+         "url" : "https://www.setlist.fm/setlists/japanese-breakfast-13c5ad7d.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Here Come the Tubular Bells",
+               "tape" : true,
+               "info" : "Played During Entrance"
+            }, {
+               "name" : "Paprika"
+            }, {
+               "name" : "Be Sweet"
+            }, {
+               "name" : "In Heaven"
+            }, {
+               "name" : "The Woman That Loves You"
+            }, {
+               "name" : "Kokomo, IN"
+            }, {
+               "name" : "Heft"
+            }, {
+               "name" : "Road Head"
+            }, {
+               "name" : "Savage Good Boy"
+            }, {
+               "name" : "Boyish",
+               "cover" : {
+                  "mbid" : "dfd7a5b7-8e74-4418-bb4b-58d4dfeb5e13",
+                  "name" : "Little Big League",
+                  "sortName" : "Little Big League",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/little-big-league-6bdaaae6.html"
+               }
+            }, {
+               "name" : "The Body Is a Blade"
+            }, {
+               "name" : "Tactics"
+            }, {
+               "name" : "Glider"
+            }, {
+               "name" : "Orlando in Love"
+            }, {
+               "name" : "Posing in Bondage"
+            }, {
+               "name" : "Slide Tackle"
+            }, {
+               "name" : "Everybody Wants to Love You"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Posing for Cars"
+            }, {
+               "name" : "The Only Living Boy in New York",
+               "cover" : {
+                  "mbid" : "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+                  "name" : "Simon & Garfunkel",
+                  "sortName" : "Simon & Garfunkel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/simon-and-garfunkel-53d6e3b9.html"
+               }
+            }, {
+               "name" : "Diving Woman"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/japanese-breakfast/2023/radio-city-music-hall-new-york-ny-13a319bd.html"
+   }, {
+      "id" : "3a3c597",
+      "versionId" : "g438e6bf7",
+      "eventDate" : "30-09-2023",
+      "lastUpdated" : "2023-11-18T15:44:00.578+0000",
+      "artist" : {
+         "mbid" : "511562a6-c381-44df-9bc4-27be779716b8",
+         "name" : "Tony! Toni! Toné!",
+         "sortName" : "Tony! Toni! Toné!",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tony-toni-tone-5bd61bc8.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Raphael Saadiq Revisits Tony! Toni! Toné: Just Me & You Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Tony! Toni! Toné!",
+            "song" : [ {
+               "name" : "Oakland Tribute Video",
+               "tape" : true
+            }, {
+               "name" : "Tonyies! In the Wrong Key"
+            }, {
+               "name" : "It Never Rains (In Southern California)"
+            }, {
+               "name" : "Baby Doll",
+               "info" : "audio issues"
+            }, {
+               "name" : "For the Love of You"
+            }, {
+               "name" : "Little Walter",
+               "info" : "with \"Wade in the Water\" slow open"
+            }, {
+               "name" : "If I Had No Loot"
+            }, {
+               "name" : "Annie May"
+            }, {
+               "name" : "I Couldn’t Keep It to Myself"
+            }, {
+               "name" : "My Ex-Girlfriend"
+            }, {
+               "name" : "Whatever You Want",
+               "info" : "audio issues"
+            }, {
+               "name" : "Slow Wine"
+            }, {
+               "name" : "Til Last Summer"
+            }, {
+               "name" : "Lovin' You"
+            }, {
+               "name" : "Thinking of You"
+            }, {
+               "name" : "(Lay Your Head on My) Pillow",
+               "info" : "followed by a 10-minute intermission"
+            } ]
+         }, {
+            "name" : "Raphael Saadiq (w/ Timothy Christian Riley on keys):",
+            "song" : [ {
+               "name" : "Get Involved",
+               "cover" : {
+                  "mbid" : "a2eb319d-a45e-43c3-bb14-d0ffb577222c",
+                  "name" : "Raphael Saadiq",
+                  "sortName" : "Saadiq, Raphael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/raphael-saadiq-33d688b9.html"
+               }
+            }, {
+               "name" : "Still Ray",
+               "cover" : {
+                  "mbid" : "a2eb319d-a45e-43c3-bb14-d0ffb577222c",
+                  "name" : "Raphael Saadiq",
+                  "sortName" : "Saadiq, Raphael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/raphael-saadiq-33d688b9.html"
+               }
+            }, {
+               "name" : "Be Here",
+               "cover" : {
+                  "mbid" : "a2eb319d-a45e-43c3-bb14-d0ffb577222c",
+                  "name" : "Raphael Saadiq",
+                  "sortName" : "Saadiq, Raphael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/raphael-saadiq-33d688b9.html"
+               }
+            }, {
+               "name" : "Ask of You",
+               "cover" : {
+                  "mbid" : "a2eb319d-a45e-43c3-bb14-d0ffb577222c",
+                  "name" : "Raphael Saadiq",
+                  "sortName" : "Saadiq, Raphael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/raphael-saadiq-33d688b9.html"
+               }
+            }, {
+               "name" : "Dance Tonight",
+               "cover" : {
+                  "mbid" : "35e3200c-a82c-4357-910e-76b1a9cbaf05",
+                  "name" : "Lucy Pearl",
+                  "sortName" : "Lucy Pearl",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lucy-pearl-63d6da5f.html"
+               },
+               "with" : {
+                  "mbid" : "21ced8d7-27f9-4c01-8df8-f0fec0af3e54",
+                  "name" : "LaToya London",
+                  "sortName" : "London, LaToya",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/latoya-london-43d2170f.html"
+               }
+            }, {
+               "name" : "Skyy, Can You Feel Me",
+               "cover" : {
+                  "mbid" : "a2eb319d-a45e-43c3-bb14-d0ffb577222c",
+                  "name" : "Raphael Saadiq",
+                  "sortName" : "Saadiq, Raphael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/raphael-saadiq-33d688b9.html"
+               },
+               "info" : "Saadiq also on bass",
+               "with" : {
+                  "mbid" : "21ced8d7-27f9-4c01-8df8-f0fec0af3e54",
+                  "name" : "LaToya London",
+                  "sortName" : "London, LaToya",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/latoya-london-43d2170f.html"
+               }
+            } ]
+         }, {
+            "name" : "Tony! Toni! Toné!",
+            "song" : [ {
+               "name" : "Me and You"
+            }, {
+               "name" : "Anniversary"
+            }, {
+               "name" : "Let's Get Down"
+            }, {
+               "name" : "Feels Good"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Leavin'"
+            } ]
+         } ]
+      },
+      "info" : "Backed by: Keyon Harrold/trumpet, Kenneth Whalum/sax, Daru Jones/drums, and Isaiah Sharkey/lead guitar",
+      "url" : "https://www.setlist.fm/setlist/tony-toni-tone/2023/radio-city-music-hall-new-york-ny-3a3c597.html"
+   }, {
+      "id" : "63a3f627",
+      "versionId" : "gb13c936",
+      "eventDate" : "26-09-2023",
+      "lastUpdated" : "2026-04-07T04:33:45.108+0000",
+      "artist" : {
+         "mbid" : "ee190f6b-7d98-43ec-b924-da5f8018eca0",
+         "name" : "Janelle Monáe",
+         "sortName" : "Monáe, Janelle",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/janelle-monae-4bd727be.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Age of Pleasure Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Chapter I: A Thousand Versions of the Self",
+            "song" : [ {
+               "name" : "Float"
+            }, {
+               "name" : "Champagne Shit"
+            }, {
+               "name" : "Black Sugar Beach"
+            }, {
+               "name" : "Phenomenal"
+            }, {
+               "name" : "Haute"
+            } ]
+         }, {
+            "name" : "Chapter II: Now or Never",
+            "song" : [ {
+               "name" : "Django Jane"
+            }, {
+               "name" : "Q.U.E.E.N."
+            }, {
+               "name" : "Electric Lady"
+            } ]
+         }, {
+            "name" : "Chapter III: (T)high Vibrations",
+            "song" : [ {
+               "name" : "Lipstick Lover"
+            }, {
+               "name" : "Water Slide"
+            }, {
+               "name" : "Know Better"
+            }, {
+               "name" : "Paid in Pleasure"
+            } ]
+         }, {
+            "name" : "Chapter IV: Paradise Found",
+            "song" : [ {
+               "name" : "Pynk"
+            }, {
+               "name" : "Yoga",
+               "cover" : {
+                  "mbid" : "25f52512-95f6-467f-8983-8b9bbc83ad14",
+                  "name" : "Janelle Monáe & Jidenna",
+                  "sortName" : "Monáe, Janelle & Jidenna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/janelle-monae-and-jidenna-1bc7790c.html"
+               }
+            } ]
+         }, {
+            "name" : "Chapter V: Surfing on the Sun",
+            "song" : [ {
+               "name" : "Only Have Eyes 42"
+            }, {
+               "name" : "I Like That"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Make Me Feel"
+            }, {
+               "name" : "Tightrope"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Come Alive (The War of the Roses)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/janelle-monae/2023/radio-city-music-hall-new-york-ny-63a3f627.html"
+   }, {
+      "id" : "5ba2e3a8",
+      "versionId" : "gb82fd5a",
+      "eventDate" : "08-09-2023",
+      "lastUpdated" : "2023-10-15T05:12:48.468+0000",
+      "artist" : {
+         "mbid" : "0509a681-a362-4800-9075-656041dccdbd",
+         "name" : "Squeeze",
+         "sortName" : "Squeeze",
+         "disambiguation" : "UK new wave band",
+         "url" : "https://www.setlist.fm/setlists/squeeze-63d6ba3f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Take Me I'm Yours"
+            }, {
+               "name" : "Hourglass"
+            }, {
+               "name" : "Up the Junction"
+            }, {
+               "name" : "Here Comes That Feeling"
+            }, {
+               "name" : "If I Didn't Love You"
+            }, {
+               "name" : "Slap & Tickle"
+            }, {
+               "name" : "Vanity Fair"
+            }, {
+               "name" : "Another Nail in My Heart"
+            }, {
+               "name" : "Electric Trains"
+            }, {
+               "name" : "Pulling Mussels (From the Shell)"
+            }, {
+               "name" : "Goodbye Girl"
+            }, {
+               "name" : "Annie Get Your Gun"
+            }, {
+               "name" : "Tempted"
+            }, {
+               "name" : "Cool for Cats"
+            }, {
+               "name" : "Sleep Song",
+               "cover" : {
+                  "mbid" : "2ed8ecda-5bb9-4d9f-8c99-0bf9b85b3624",
+                  "name" : "Graham Nash",
+                  "sortName" : "Nash, Graham",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/graham-nash-4bd6bba2.html"
+               }
+            }, {
+               "name" : "Black Coffee in Bed",
+               "info" : "With band introductions and keyboard snippet of John Kander's \"Theme to New York, New York\""
+            }, {
+               "name" : "Is That Love"
+            }, {
+               "name" : "Black Coffee in Bed",
+               "info" : "reprise"
+            } ]
+         } ]
+      },
+      "info" : "Co-headliner with The Psychedelic Furs; on this night Squeeze played second",
+      "url" : "https://www.setlist.fm/setlist/squeeze/2023/radio-city-music-hall-new-york-ny-5ba2e3a8.html"
+   }, {
+      "id" : "4ba2e3ae",
+      "versionId" : "g1b82fd64",
+      "eventDate" : "08-09-2023",
+      "lastUpdated" : "2023-10-15T05:12:18.453+0000",
+      "artist" : {
+         "mbid" : "9f930ddf-be2f-4de5-a39f-7ae47305752e",
+         "name" : "The Psychedelic Furs",
+         "sortName" : "Psychedelic Furs, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-psychedelic-furs-53d6b781.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Into You Like a Train"
+            }, {
+               "name" : "Mr. Jones"
+            }, {
+               "name" : "Heaven"
+            }, {
+               "name" : "You'll Be Mine"
+            }, {
+               "name" : "Wrong Train"
+            }, {
+               "name" : "President Gas"
+            }, {
+               "name" : "The Ghost in You"
+            }, {
+               "name" : "In My Head"
+            }, {
+               "name" : "Pretty in Pink"
+            }, {
+               "name" : "No Tears"
+            }, {
+               "name" : "No‐One"
+            }, {
+               "name" : "This'll Never Be Like Love"
+            }, {
+               "name" : "Sister Europe"
+            }, {
+               "name" : "Heartbeat"
+            }, {
+               "name" : "Love My Way"
+            }, {
+               "name" : "Heartbreak Beat"
+            } ]
+         } ]
+      },
+      "info" : "Co-headliner with Squeeze; on this night The Furs played first",
+      "url" : "https://www.setlist.fm/setlist/the-psychedelic-furs/2023/radio-city-music-hall-new-york-ny-4ba2e3ae.html"
+   }, {
+      "id" : "53a2b3b5",
+      "versionId" : "g73997a95",
+      "eventDate" : "31-08-2023",
+      "lastUpdated" : "2023-09-09T16:13:21.147+0000",
+      "artist" : {
+         "mbid" : "b7647973-5b26-413a-b2be-8c4d6889f279",
+         "name" : "Ruston Kelly",
+         "sortName" : "Kelly, Ruston",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ruston-kelly-73da1225.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cover My Tracks"
+            }, {
+               "name" : "Paratrooper's Battlecry"
+            }, {
+               "name" : "Faceplant"
+            }, {
+               "name" : "Michael Keaton"
+            }, {
+               "name" : "Mercury"
+            }, {
+               "name" : "Teenage Dirtbag",
+               "cover" : {
+                  "mbid" : "741a2892-1c5d-402f-a769-2096356c77d7",
+                  "name" : "Wheatus",
+                  "sortName" : "Wheatus",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wheatus-bd639ae.html"
+               }
+            }, {
+               "name" : "Mockingbird"
+            }, {
+               "name" : "Black Magic"
+            }, {
+               "name" : "Holy Shit"
+            }, {
+               "name" : "All Too Well",
+               "cover" : {
+                  "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+                  "name" : "Taylor Swift",
+                  "sortName" : "Swift, Taylor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+               },
+               "info" : "Taylor's Version"
+            }, {
+               "name" : "The Weakness"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ruston-kelly/2023/radio-city-music-hall-new-york-ny-53a2b3b5.html"
+   }, {
+      "id" : "53a2a7e1",
+      "versionId" : "g2b999c76",
+      "eventDate" : "31-08-2023",
+      "lastUpdated" : "2023-09-03T18:19:32.041+0000",
+      "artist" : {
+         "mbid" : "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+         "name" : "Noah Kahan",
+         "sortName" : "Kahan, Noah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/noah-kahan-7bcdeef4.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Stick Season"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Northern Attitude"
+            }, {
+               "name" : "She Calls Me Back"
+            }, {
+               "name" : "New Perspective"
+            }, {
+               "name" : "Everywhere, Everything"
+            }, {
+               "name" : "Your Needs, My Needs"
+            }, {
+               "name" : "Growing Sideways"
+            }, {
+               "name" : "Paul Revere",
+               "info" : "Acoustic"
+            }, {
+               "name" : "All My Love"
+            }, {
+               "name" : "False Confidence"
+            }, {
+               "name" : "Call Your Mom"
+            }, {
+               "name" : "You're Gonna Go Far"
+            }, {
+               "name" : "Orange Juice"
+            }, {
+               "name" : "Dial Drunk"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The View Between Villages",
+               "info" : "Extended"
+            }, {
+               "name" : "Stick Season"
+            }, {
+               "name" : "Homesick"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noah-kahan/2023/radio-city-music-hall-new-york-ny-53a2a7e1.html"
+   }, {
+      "id" : "43a56fdf",
+      "versionId" : "g5398a3cd",
+      "eventDate" : "25-08-2023",
+      "lastUpdated" : "2023-08-26T18:07:52.031+0000",
+      "artist" : {
+         "mbid" : "bc7a7cc4-1bfe-4d78-8ad2-2aa21b4851aa",
+         "name" : "The Cast of RuPaul’s Drag Race",
+         "sortName" : "The Cast of RuPaul’s Drag Race",
+         "disambiguation" : "season 15",
+         "url" : "https://www.setlist.fm/setlists/the-cast-of-rupauls-drag-race-2bfbc0d2.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Werq The World Tour 2023"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-cast-of-rupauls-drag-race/2023/radio-city-music-hall-new-york-ny-43a56fdf.html"
+   }, {
+      "id" : "4ba2abe6",
+      "versionId" : "g339800b5",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-31T15:43:50.032+0000",
+      "artist" : {
+         "mbid" : "ac367c2e-7783-41e5-a184-131da6b0c166",
+         "name" : "Carlos Vives",
+         "sortName" : "Vives, Carlos",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/carlos-vives-3bd62c90.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "El tour de los 30"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carlos-vives/2023/radio-city-music-hall-new-york-ny-4ba2abe6.html"
+   }, {
+      "id" : "5ba5a7c8",
+      "versionId" : "gb9ad542",
+      "eventDate" : "12-08-2023",
+      "lastUpdated" : "2023-08-13T05:28:16.517+0000",
+      "artist" : {
+         "mbid" : "a55bc29c-9f02-487f-8f19-dc30d96ac8c8",
+         "name" : "Lisa O’Neill",
+         "sortName" : "O’Neill, Lisa",
+         "disambiguation" : "Irish singer",
+         "url" : "https://www.setlist.fm/setlists/lisa-oneill-5bc5eff0.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Butcher Boy",
+               "cover" : {
+                  "mbid" : "c78a77fa-507c-4c07-947a-0355029453bd",
+                  "name" : "Sinéad O’Connor",
+                  "sortName" : "O’Connor, Sinéad",
+                  "disambiguation" : "Irish singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sinead-oconnor-bd63da2.html"
+               },
+               "info" : "acapella"
+            }, {
+               "name" : "Nellie's Song"
+            }, {
+               "name" : "Mother Jones"
+            }, {
+               "name" : "Cash is King"
+            }, {
+               "name" : "Old Note"
+            }, {
+               "name" : "Goodnight World"
+            } ]
+         } ]
+      },
+      "info" : "Opening for Glen Hansard & Marketa Irglova of The Swell Season.",
+      "url" : "https://www.setlist.fm/setlist/lisa-oneill/2023/radio-city-music-hall-new-york-ny-5ba5a7c8.html"
+   }, {
+      "id" : "43a4430b",
+      "versionId" : "g4373ef17",
+      "eventDate" : "12-08-2023",
+      "lastUpdated" : "2025-07-22T10:22:27.028+0000",
+      "artist" : {
+         "mbid" : "ef70d917-ac0e-4b06-a5f6-10cb6ca21aad",
+         "name" : "The Swell Season",
+         "sortName" : "Swell Season, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-swell-season-53d64359.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "The Swell Season Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lies"
+            }, {
+               "name" : "The Answer Is Yes"
+            }, {
+               "name" : "One of Us Must Lose",
+               "cover" : {
+                  "mbid" : "57f89cad-d2ef-48df-9119-8287b106716a",
+                  "name" : "Glen Hansard",
+                  "sortName" : "Hansard, Glen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+               }
+            }, {
+               "name" : "When Your Mind's Made Up"
+            }, {
+               "name" : "I Leave Everything to You"
+            }, {
+               "name" : "The Moon"
+            }, {
+               "name" : "My Roots Go Deep",
+               "cover" : {
+                  "mbid" : "be345ce7-4bc4-4f8d-8705-72ee5d0fac01",
+                  "name" : "Markéta Irglová",
+                  "sortName" : "Irglová, Markéta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marketa-irglova-6bd64e92.html"
+               }
+            }, {
+               "name" : "Factory Street Bells"
+            }, {
+               "name" : "Pretty Stories"
+            }, {
+               "name" : "Leave",
+               "cover" : {
+                  "mbid" : "57f89cad-d2ef-48df-9119-8287b106716a",
+                  "name" : "Glen Hansard",
+                  "sortName" : "Hansard, Glen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+               },
+               "info" : "Glen solo"
+            }, {
+               "name" : "My Father's Daughter",
+               "cover" : {
+                  "mbid" : "5022eed5-11d5-4b8d-9b50-bc9588563b9f",
+                  "name" : "Olivia Vedder, Eddie Vedder & Glen Hansard",
+                  "sortName" : "Vedder, Olivia, Vedder, Eddie & Hansard, Glen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/olivia-vedder-eddie-vedder-and-glen-hansard-53f3572d.html"
+               }
+            }, {
+               "name" : "Low Rising"
+            }, {
+               "name" : "Into the Mystic",
+               "cover" : {
+                  "mbid" : "a41ac10f-0a56-4672-9161-b83f9b223559",
+                  "name" : "Van Morrison",
+                  "sortName" : "Morrison, Van",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/van-morrison-1bd6adc4.html"
+               }
+            }, {
+               "name" : "If You Want Me"
+            }, {
+               "name" : "Fitzcarraldo",
+               "cover" : {
+                  "mbid" : "c2f28620-9372-4af4-b961-cc4b9e44d60d",
+                  "name" : "The Frames",
+                  "sortName" : "Frames, The",
+                  "disambiguation" : "Irish rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-frames-7bd65ac0.html"
+               }
+            }, {
+               "name" : "Falling Slowly"
+            }, {
+               "name" : "Say It to Me Now",
+               "cover" : {
+                  "mbid" : "c2f28620-9372-4af4-b961-cc4b9e44d60d",
+                  "name" : "The Frames",
+                  "sortName" : "Frames, The",
+                  "disambiguation" : "Irish rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-frames-7bd65ac0.html"
+               },
+               "info" : "Glen invited busker fan ‘Gabriel Oliver’ onstage to play the song with him."
+            }, {
+               "name" : "Gold",
+               "cover" : {
+                  "mbid" : "5caecb2a-69fd-43b5-b81a-8b9c6b5d4ad4",
+                  "name" : "Interference",
+                  "sortName" : "Interference",
+                  "disambiguation" : "Irish band",
+                  "url" : "https://www.setlist.fm/setlists/interference-13d7b1f5.html"
+               },
+               "info" : "Glen invited any past ‘Once’ cast members (from any production) in the audience on stage to sing."
+            }, {
+               "name" : "Dublin You Are",
+               "info" : "Poem performed by Irish poet Steven James Smith, while band played in background."
+            }, {
+               "name" : "Three Babies",
+               "cover" : {
+                  "mbid" : "c78a77fa-507c-4c07-947a-0355029453bd",
+                  "name" : "Sinéad O’Connor",
+                  "sortName" : "O’Connor, Sinéad",
+                  "disambiguation" : "Irish singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sinead-oconnor-bd63da2.html"
+               },
+               "info" : "‘Once’ cast members remained on stage for the song.",
+               "with" : {
+                  "mbid" : "a55bc29c-9f02-487f-8f19-dc30d96ac8c8",
+                  "name" : "Lisa O’Neill",
+                  "sortName" : "O’Neill, Lisa",
+                  "disambiguation" : "Irish singer",
+                  "url" : "https://www.setlist.fm/setlists/lisa-oneill-5bc5eff0.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Fogtown",
+               "cover" : {
+                  "mbid" : "e2f41b6e-7045-44e8-86bf-deee758532e2",
+                  "name" : "Michelle Shocked",
+                  "sortName" : "Shocked, Michelle",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/michelle-shocked-53d7afe9.html"
+               },
+               "info" : "Glen and Marketa acoustic. Song they used to play while busking."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-swell-season/2023/radio-city-music-hall-new-york-ny-43a4430b.html"
+   }, {
+      "id" : "6ba452a6",
+      "versionId" : "g731792f9",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2026-03-06T03:50:36.333+0000",
+      "artist" : {
+         "mbid" : "c2f6c57f-27ba-4c0d-b2fd-3348961e79a1",
+         "name" : "Maisie Peters",
+         "sortName" : "Peters, Maisie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maisie-peters-1bccf1d0.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "The Good Witch Comes To North America"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Good Witch",
+               "info" : "Shortened"
+            }, {
+               "name" : "Coming of Age"
+            }, {
+               "name" : "Body Better"
+            }, {
+               "name" : "Love Him I Don't"
+            }, {
+               "name" : "Wendy"
+            }, {
+               "name" : "You're Just a Boy (and I'm Kinda the Man)"
+            }, {
+               "name" : "Watch"
+            }, {
+               "name" : "John Hughes Movie"
+            }, {
+               "name" : "Two Weeks Ago / Worst of You / Night Changes / You Signed Up for This"
+            }, {
+               "name" : "Run"
+            }, {
+               "name" : "The Band and I"
+            }, {
+               "name" : "Not Another Rockstar"
+            }, {
+               "name" : "Blonde"
+            }, {
+               "name" : "I'm Trying (Not Friends)"
+            }, {
+               "name" : "BSC"
+            }, {
+               "name" : "There It Goes"
+            }, {
+               "name" : "Cate's Brother"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "History of Man"
+            }, {
+               "name" : "Lost the Breakup"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maisie-peters/2023/radio-city-music-hall-new-york-ny-6ba452a6.html"
+   }, {
+      "id" : "33a44459",
+      "versionId" : "g1bbf5d00",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2024-04-20T10:52:29.107+0000",
+      "artist" : {
+         "mbid" : "91b449dd-746e-4fd3-b38d-b1dac80e655e",
+         "name" : "Grace Enger",
+         "sortName" : "Enger, Grace",
+         "disambiguation" : "American singer/TikTok musician",
+         "url" : "https://www.setlist.fm/setlists/grace-enger-3fded5f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bad Guy"
+            }, {
+               "name" : "Me to You"
+            }, {
+               "name" : "When It Was Over"
+            }, {
+               "name" : "Ruin",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Girls Just Want to Have Fun",
+               "cover" : {
+                  "mbid" : "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                  "name" : "Cyndi Lauper",
+                  "sortName" : "Lauper, Cyndi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cyndi-lauper-1bd6b9e8.html"
+               }
+            }, {
+               "name" : "imytn"
+            }, {
+               "name" : "The Cut"
+            }, {
+               "name" : "The Neighborhood"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/grace-enger/2023/radio-city-music-hall-new-york-ny-33a44459.html"
+   }, {
+      "id" : "7ba42a68",
+      "versionId" : "g7b9db2e8",
+      "eventDate" : "03-08-2023",
+      "lastUpdated" : "2023-08-01T06:49:50.443+0000",
+      "artist" : {
+         "mbid" : "e7287972-ca8d-4133-a1d6-5446486ed075",
+         "name" : "Elle King",
+         "sortName" : "King, Elle",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/elle-king-3df114f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elle-king/2023/radio-city-music-hall-new-york-ny-7ba42a68.html"
+   }, {
+      "id" : "63a42a6f",
+      "versionId" : "gb7a114e",
+      "eventDate" : "03-08-2023",
+      "lastUpdated" : "2025-09-18T22:36:55.240+0000",
+      "artist" : {
+         "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+         "name" : "Tyler Childers",
+         "sortName" : "Childers, Tyler",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Send in the Hounds Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Acoustic",
+            "song" : [ {
+               "name" : "Shake the Frost"
+            }, {
+               "name" : "Lady May"
+            } ]
+         }, {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "Whitehouse Road"
+            }, {
+               "name" : "The Old Country Church",
+               "cover" : {
+                  "mbid" : "cbf86c72-6d17-4c87-9f85-737ea032465e",
+                  "name" : "T. Texas Tyler",
+                  "sortName" : "Tyler, T. Texas",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/t-texas-tyler-73d4fa9d.html"
+               }
+            }, {
+               "name" : "Can I Take My Hounds to Heaven?"
+            }, {
+               "name" : "Two Coats",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Country Squire"
+            }, {
+               "name" : "Trudy",
+               "cover" : {
+                  "mbid" : "35885131-9d16-40cb-9289-e18997a8b77c",
+                  "name" : "The Charlie Daniels Band",
+                  "sortName" : "Daniels, Charlie, Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-charlie-daniels-band-7bd636bc.html"
+               }
+            }, {
+               "name" : "All Your'n"
+            }, {
+               "name" : "Purgatory"
+            }, {
+               "name" : "Cluck Old Hen",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "In Your Love"
+            }, {
+               "name" : "Space and Time",
+               "cover" : {
+                  "mbid" : "a03c3296-fc11-4fcf-b378-fa602e30a7e9",
+                  "name" : "S.G. Goodman",
+                  "sortName" : "Goodman, S.G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sg-goodman-2bf57846.html"
+               }
+            }, {
+               "name" : "Honky Tonk Flame"
+            }, {
+               "name" : "House Fire"
+            }, {
+               "name" : "Way of the Triune God"
+            }, {
+               "name" : "Angel Band",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Jubilee",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Heart You've Been Tendin'"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tyler-childers/2023/radio-city-music-hall-new-york-ny-63a42a6f.html"
+   }, {
+      "id" : "7ba42a74",
+      "versionId" : "g137a114d",
+      "eventDate" : "02-08-2023",
+      "lastUpdated" : "2025-09-18T22:36:55.249+0000",
+      "artist" : {
+         "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+         "name" : "Tyler Childers",
+         "sortName" : "Childers, Tyler",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Send in the Hounds Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Acoustic",
+            "song" : [ {
+               "name" : "Lady May"
+            }, {
+               "name" : "Nose on the Grindstone"
+            }, {
+               "name" : "Follow You to Virgie"
+            } ]
+         }, {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "The Old Country Church",
+               "cover" : {
+                  "mbid" : "cbf86c72-6d17-4c87-9f85-737ea032465e",
+                  "name" : "T. Texas Tyler",
+                  "sortName" : "Tyler, T. Texas",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/t-texas-tyler-73d4fa9d.html"
+               }
+            }, {
+               "name" : "Can I Take My Hounds to Heaven?"
+            }, {
+               "name" : "Two Coats",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "All Your'n"
+            }, {
+               "name" : "Purgatory"
+            }, {
+               "name" : "Cluck Old Hen",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Country Squire"
+            }, {
+               "name" : "I Swear (to God)"
+            }, {
+               "name" : "Honky Tonk Flame"
+            }, {
+               "name" : "House Fire"
+            }, {
+               "name" : "Universal Sound"
+            }, {
+               "name" : "Way of the Triune God"
+            }, {
+               "name" : "Angel Band",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "In Your Love"
+            }, {
+               "name" : "Jubilee",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Heart You've Been Tendin'"
+            }, {
+               "name" : "Sour Mash",
+               "cover" : {
+                  "mbid" : "6e5e3adb-7be9-4bb2-86c1-781aa213e827",
+                  "name" : "Cory Branan",
+                  "sortName" : "Branan, Cory",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cory-branan-43d783c7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tyler-childers/2023/radio-city-music-hall-new-york-ny-7ba42a74.html"
+   } ]
+}

@@ -1,0 +1,1505 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 216,
+   "setlist" : [ {
+      "id" : "5356f765",
+      "versionId" : "g4356c767",
+      "eventDate" : "07-10-2024",
+      "lastUpdated" : "2024-10-08T20:54:42.910+0000",
+      "artist" : {
+         "mbid" : "7944ed53-2a58-4035-9b93-140a71e41c34",
+         "name" : "Sting",
+         "sortName" : "Sting",
+         "disambiguation" : "singer, songwriter & member of The Police",
+         "url" : "https://www.setlist.fm/setlists/sting-33d6a045.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Sting 3.0"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Message in a Bottle",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "If I Ever Lose My Faith in You"
+            }, {
+               "name" : "Englishman in New York"
+            }, {
+               "name" : "Every Little Thing She Does Is Magic",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Fields of Gold"
+            }, {
+               "name" : "Never Coming Home"
+            }, {
+               "name" : "Mad About You"
+            }, {
+               "name" : "Seven Days"
+            }, {
+               "name" : "Why Should I Cry for You?"
+            }, {
+               "name" : "All This Time"
+            }, {
+               "name" : "I Burn for You"
+            }, {
+               "name" : "Driven to Tears",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Wrapped Around Your Finger",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Can't Stand Losing You",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Shape of My Heart"
+            }, {
+               "name" : "I Wrote Your Name (Upon My Heart)"
+            }, {
+               "name" : "So Lonely",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Walking on the Moon",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Desert Rose"
+            }, {
+               "name" : "King of Pain",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Every Breath You Take",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Roxanne",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            }, {
+               "name" : "Fragile"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sting/2024/brooklyn-paramount-brooklyn-ny-5356f765.html"
+   }, {
+      "id" : "33508461",
+      "versionId" : "g2356d02b",
+      "eventDate" : "07-10-2024",
+      "lastUpdated" : "2024-10-08T14:11:29.292+0000",
+      "artist" : {
+         "mbid" : "b9414fa7-828f-48da-8210-c99a74b295fd",
+         "name" : "ELEW",
+         "sortName" : "ELEW",
+         "disambiguation" : "Eric Lewis",
+         "url" : "https://www.setlist.fm/setlists/elew-4bd58f2e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Thanksgiving / New York, New York"
+            }, {
+               "name" : "Puerto Rico"
+            }, {
+               "name" : "Smells Like Teen Spirit",
+               "cover" : {
+                  "mbid" : "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name" : "Nirvana",
+                  "sortName" : "Nirvana",
+                  "disambiguation" : "1980s–1990s US grunge band",
+                  "url" : "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Sting. Set list incomplete.",
+      "url" : "https://www.setlist.fm/setlist/elew/2024/brooklyn-paramount-brooklyn-ny-33508461.html"
+   }, {
+      "id" : "3357f0dd",
+      "versionId" : "g3ba79804",
+      "eventDate" : "05-10-2024",
+      "lastUpdated" : "2024-06-19T15:04:05.138+0000",
+      "artist" : {
+         "mbid" : "3522e1ec-0b52-47c3-a13e-17ac5db91e9e",
+         "name" : "Frankie Rose",
+         "sortName" : "Rose, Frankie",
+         "disambiguation" : "former member of Vivian Girls / Crystal Stilts / Dum Dum Girls",
+         "url" : "https://www.setlist.fm/setlists/frankie-rose-6bd2427e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/frankie-rose/2024/brooklyn-paramount-brooklyn-ny-3357f0dd.html"
+   }, {
+      "id" : "2b57f0de",
+      "versionId" : "g1b56a16c",
+      "eventDate" : "05-10-2024",
+      "lastUpdated" : "2024-10-06T02:53:11.734+0000",
+      "artist" : {
+         "mbid" : "9f930ddf-be2f-4de5-a39f-7ae47305752e",
+         "name" : "The Psychedelic Furs",
+         "sortName" : "Psychedelic Furs, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-psychedelic-furs-53d6b781.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Boy That Invented Rock & Roll"
+            }, {
+               "name" : "So Run Down"
+            }, {
+               "name" : "The Ghost in You"
+            }, {
+               "name" : "All That Money Wants"
+            }, {
+               "name" : "Only You and I",
+               "info" : "followed by band introductions"
+            }, {
+               "name" : "Wrong Train"
+            }, {
+               "name" : "Love My Way"
+            }, {
+               "name" : "All of the Law"
+            }, {
+               "name" : "President Gas"
+            }, {
+               "name" : "Pretty in Pink"
+            }, {
+               "name" : "Mr. Jones"
+            }, {
+               "name" : "Pulse"
+            }, {
+               "name" : "Heartbreak Beat"
+            }, {
+               "name" : "Heaven"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-psychedelic-furs/2024/brooklyn-paramount-brooklyn-ny-2b57f0de.html"
+   }, {
+      "id" : "2b57f0d2",
+      "versionId" : "g1b569d78",
+      "eventDate" : "05-10-2024",
+      "lastUpdated" : "2024-10-06T05:45:59.089+0000",
+      "artist" : {
+         "mbid" : "e938a15c-b17e-4e7a-9f68-ff0d536cab44",
+         "name" : "The Jesus and Mary Chain",
+         "sortName" : "Jesus and Mary Chain, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-jesus-and-mary-chain-7bd6b2d0.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jamcod"
+            }, {
+               "name" : "April Skies"
+            }, {
+               "name" : "Head On"
+            }, {
+               "name" : "Happy When It Rains"
+            }, {
+               "name" : "All Things Must Pass"
+            }, {
+               "name" : "Chemical Animal"
+            }, {
+               "name" : "Some Candy Talking"
+            }, {
+               "name" : "Far Gone and Out"
+            }, {
+               "name" : "Venal Joy"
+            }, {
+               "name" : "Blues From a Gun"
+            }, {
+               "name" : "Sidewalking"
+            }, {
+               "name" : "In a Hole"
+            }, {
+               "name" : "Sometimes Always",
+               "with" : {
+                  "mbid" : "3522e1ec-0b52-47c3-a13e-17ac5db91e9e",
+                  "name" : "Frankie Rose",
+                  "sortName" : "Rose, Frankie",
+                  "disambiguation" : "former member of Vivian Girls / Crystal Stilts / Dum Dum Girls",
+                  "url" : "https://www.setlist.fm/setlists/frankie-rose-6bd2427e.html"
+               }
+            }, {
+               "name" : "Nine Million Rainy Days"
+            }, {
+               "name" : "Taste of Cindy"
+            }, {
+               "name" : "Just Like Honey",
+               "with" : {
+                  "mbid" : "3522e1ec-0b52-47c3-a13e-17ac5db91e9e",
+                  "name" : "Frankie Rose",
+                  "sortName" : "Rose, Frankie",
+                  "disambiguation" : "former member of Vivian Girls / Crystal Stilts / Dum Dum Girls",
+                  "url" : "https://www.setlist.fm/setlists/frankie-rose-6bd2427e.html"
+               }
+            }, {
+               "name" : "Reverence"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-jesus-and-mary-chain/2024/brooklyn-paramount-brooklyn-ny-2b57f0d2.html"
+   }, {
+      "id" : "357d16b",
+      "versionId" : "g30809bb",
+      "eventDate" : "04-10-2024",
+      "lastUpdated" : "2026-10-11T08:41:59.141+0000",
+      "artist" : {
+         "mbid" : "b841d0f2-0a2a-4cb2-a2d8-9895b7f90bfa",
+         "name" : "Overmono",
+         "sortName" : "Overmono",
+         "disambiguation" : "brothers Tom & Ed Russell (Truss & Tessela)",
+         "url" : "https://www.setlist.fm/setlists/overmono-6bc04e4e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "PURE DEVOTION"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Is U"
+            }, {
+               "name" : "Gem Lingo (ovr now)"
+            }, {
+               "name" : "Freedom 2",
+               "cover" : {
+                  "mbid" : "17b76b38-814d-4d87-8392-efb2848fa285",
+                  "name" : "Joy Orbison, Overmono & Kwengface",
+                  "sortName" : "Orbison, Joy, Overmono & Kwengface",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joy-orbison-overmono-and-kwengface-5be2a7f4.html"
+               }
+            }, {
+               "name" : "Gunk"
+            }, {
+               "name" : "Walk Thru Water",
+               "info" : "Rework/New Instrumental"
+            }, {
+               "name" : "I Have a Love (Overmono Remix)"
+            }, {
+               "name" : "Stayinit"
+            }, {
+               "name" : "So U Kno"
+            }, {
+               "name" : "Cold Blooded",
+               "with" : {
+                  "mbid" : "37b7b05f-9549-4106-81a5-b271f3501014",
+                  "name" : "Kindora",
+                  "sortName" : "Kindora",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kindora-43c90bc3.html"
+               }
+            }, {
+               "name" : "Blow Out"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Turn the Page",
+               "cover" : {
+                  "mbid" : "6f607087-9c46-4bb2-a884-e4efc764554c",
+                  "name" : "The Streets",
+                  "sortName" : "Streets, The",
+                  "disambiguation" : "Mike Skinner",
+                  "url" : "https://www.setlist.fm/setlists/the-streets-3bd6e450.html"
+               }
+            }, {
+               "name" : "Good Lies"
+            }, {
+               "name" : "Good Lies (outro)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/overmono/2024/brooklyn-paramount-brooklyn-ny-357d16b.html"
+   }, {
+      "id" : "b53514e",
+      "versionId" : "g306b50f",
+      "eventDate" : "01-10-2024",
+      "lastUpdated" : "2026-06-26T15:30:13.488+0000",
+      "artist" : {
+         "mbid" : "01930336-bcd2-42f8-8274-7ee6a75bcd0c",
+         "name" : "The Red Clay Strays",
+         "sortName" : "Red Clay Strays, The",
+         "disambiguation" : "American country rock band",
+         "url" : "https://www.setlist.fm/setlists/the-red-clay-strays-13f75db9.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ramblin'"
+            }, {
+               "name" : "Moment of Truth"
+            }, {
+               "name" : "Stone's Throw"
+            }, {
+               "name" : "Disaster"
+            }, {
+               "name" : "Good Godly Woman"
+            }, {
+               "name" : "Heavy Heart"
+            }, {
+               "name" : "Between the Lines",
+               "cover" : {
+                  "mbid" : "0e0a4f5f-a2b8-49f1-99ef-67816a66365e",
+                  "name" : "Drew Nix",
+                  "sortName" : "Nix, Drew",
+                  "disambiguation" : "Red Clay Strays member",
+                  "url" : "https://www.setlist.fm/setlists/drew-nix-1bf881cc.html"
+               }
+            }, {
+               "name" : "Drowning"
+            }, {
+               "name" : "Devil in My Ear"
+            }, {
+               "name" : "Sunshine"
+            }, {
+               "name" : "Ghosts"
+            }, {
+               "name" : "I'll Drown in My Tears",
+               "cover" : {
+                  "mbid" : "b96094c1-e2c8-43cd-a436-0b626fa74440",
+                  "name" : "Sonny Thompson",
+                  "sortName" : "Thompson, Sonny",
+                  "disambiguation" : "US R&B bandleader and pianist",
+                  "url" : "https://www.setlist.fm/setlists/sonny-thompson-23d36c4b.html"
+               }
+            }, {
+               "name" : "No One Else Like Me"
+            }, {
+               "name" : "I'm Still Fine"
+            }, {
+               "name" : "Doin' Time"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Will the Lord Remember Me"
+            }, {
+               "name" : "God Does"
+            }, {
+               "name" : "Moments"
+            }, {
+               "name" : "Wondering Why"
+            }, {
+               "name" : "Don't Care"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-red-clay-strays/2024/brooklyn-paramount-brooklyn-ny-b53514e.html"
+   }, {
+      "id" : "b53514a",
+      "versionId" : "g6303de2b",
+      "eventDate" : "01-10-2024",
+      "lastUpdated" : "2026-08-05T04:48:29.429+0000",
+      "artist" : {
+         "mbid" : "fe92d378-bfce-4bc1-a994-4e851583cac3",
+         "name" : "The Glorious Sons",
+         "sortName" : "Glorious Sons, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-glorious-sons-43dae33b.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Poor Heart"
+            }, {
+               "name" : "White Noise"
+            }, {
+               "name" : "Josie"
+            }, {
+               "name" : "Mama"
+            }, {
+               "name" : "Mercy Mercy"
+            }, {
+               "name" : "Kill the Lights"
+            }, {
+               "name" : "S.O.S. (Sawed Off Shotgun)"
+            }, {
+               "name" : "Ruby"
+            }, {
+               "name" : "Pink Motel"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/the-glorious-sons/2024/brooklyn-paramount-brooklyn-ny-b53514a.html"
+   }, {
+      "id" : "7b569a2c",
+      "versionId" : "g5ba9cb5c",
+      "eventDate" : "30-09-2024",
+      "lastUpdated" : "2024-10-01T04:37:39.080+0000",
+      "artist" : {
+         "mbid" : "4c98aa1b-34eb-4336-987f-5e50aa059c00",
+         "name" : "The Script",
+         "sortName" : "Script, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-script-53d657dd.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "SATELLITES WORLD TOUR"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Superheroes"
+            }, {
+               "name" : "Rain"
+            }, {
+               "name" : "Both Ways"
+            }, {
+               "name" : "Six Degrees of Separation"
+            }, {
+               "name" : "The Man Who Can't Be Moved"
+            }, {
+               "name" : "At Your Feet"
+            }, {
+               "name" : "If You Could See Me Now"
+            }, {
+               "name" : "The Last Time"
+            }, {
+               "name" : "Before the Worst"
+            }, {
+               "name" : "Inside Out"
+            }, {
+               "name" : "Nothing"
+            }, {
+               "name" : "Paint the Town Green"
+            }, {
+               "name" : "For the First Time"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Home Is Where the Hurt Is"
+            }, {
+               "name" : "Breakeven"
+            }, {
+               "name" : "Hall of Fame"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-script/2024/brooklyn-paramount-brooklyn-ny-7b569a2c.html"
+   }, {
+      "id" : "7b536228",
+      "versionId" : "g63a92a3b",
+      "eventDate" : "30-09-2024",
+      "lastUpdated" : "2024-10-02T04:19:18.230+0000",
+      "artist" : {
+         "mbid" : "8f24a6b2-0f0b-42d2-bc50-ed7748e97f0b",
+         "name" : "Theo Kandel",
+         "sortName" : "Kandel, Theo",
+         "disambiguation" : "Nashville solo artist",
+         "url" : "https://www.setlist.fm/setlists/theo-kandel-1bfb4df8.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Flight to JFK"
+            }, {
+               "name" : "Me & All My Friends Have Got the Blues"
+            }, {
+               "name" : "1952 Vincent Black Lightning",
+               "cover" : {
+                  "mbid" : "ecfeacaf-0399-470f-8207-d1c646569fd0",
+                  "name" : "Richard Thompson",
+                  "sortName" : "Thompson, Richard",
+                  "disambiguation" : "UK folk rock singer/songwriter/guitarist",
+                  "url" : "https://www.setlist.fm/setlists/richard-thompson-4bd6b3ca.html"
+               }
+            }, {
+               "name" : "On My Mind"
+            }, {
+               "name" : "The Painters"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/theo-kandel/2024/brooklyn-paramount-brooklyn-ny-7b536228.html"
+   }, {
+      "id" : "43521f7f",
+      "versionId" : "g6b56c69a",
+      "eventDate" : "29-09-2024",
+      "lastUpdated" : "2024-10-08T22:04:49.446+0000",
+      "artist" : {
+         "mbid" : "262cf0ce-2af2-4686-a8cc-d6b33e97336d",
+         "name" : "Mk.gee",
+         "sortName" : "Mk.gee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mkgee-4bc8ebba.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dream police"
+            }, {
+               "name" : "How many miles"
+            }, {
+               "name" : "You got it"
+            }, {
+               "name" : "Candy"
+            }, {
+               "name" : "Lonely Fight"
+            }, {
+               "name" : "Little Bit More"
+            }, {
+               "name" : "New Low"
+            }, {
+               "name" : "cz"
+            }, {
+               "name" : "I Want"
+            }, {
+               "name" : "Rylee & I"
+            }, {
+               "name" : "DNM"
+            }, {
+               "name" : "DNM"
+            }, {
+               "name" : "Breakthespell"
+            }, {
+               "name" : "Are You Looking Up"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Alesis"
+            }, {
+               "name" : "Candy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mkgee/2024/brooklyn-paramount-brooklyn-ny-43521f7f.html"
+   }, {
+      "id" : "23529417",
+      "versionId" : "g3bac04d4",
+      "eventDate" : "26-09-2024",
+      "lastUpdated" : "2024-08-22T21:33:50.973+0000",
+      "artist" : {
+         "mbid" : "4f57372b-2054-4722-a534-a99ab2598120",
+         "name" : "Cash Cobain",
+         "sortName" : "Cobain, Cash",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cash-cobain-4bf7e3da.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cash-cobain/2024/brooklyn-paramount-brooklyn-ny-23529417.html"
+   }, {
+      "id" : "2b52b09e",
+      "versionId" : "g13accdb5",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-08-20T09:54:33.575+0000",
+      "artist" : {
+         "mbid" : "684e2403-8dc3-468c-8d4f-c1ee01fb6cd6",
+         "name" : "David Kushner",
+         "sortName" : "Kushner, David",
+         "disambiguation" : "American singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/david-kushner-43f17353.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The Dichotomy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-kushner/2024/brooklyn-paramount-brooklyn-ny-2b52b09e.html"
+   }, {
+      "id" : "7353cab5",
+      "versionId" : "g6ba8923e",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2024-09-21T00:34:23.432+0000",
+      "artist" : {
+         "mbid" : "f94bf2b7-6f66-447a-9929-ac9f3c5452fc",
+         "name" : "Blaqk Audio",
+         "sortName" : "Blaqk Audio",
+         "disambiguation" : "American electronic music duo",
+         "url" : "https://www.setlist.fm/setlists/blaqk-audio-23d6486f.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Stiff Kittens"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blaqk-audio/2024/brooklyn-paramount-brooklyn-ny-7353cab5.html"
+   }, {
+      "id" : "2355ecdb",
+      "versionId" : "g3a8419b",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2024-09-27T16:40:40.440+0000",
+      "artist" : {
+         "mbid" : "553d8166-27b0-49fe-b8e4-89a984e2c375",
+         "name" : "The Sisters of Mercy",
+         "sortName" : "Sisters of Mercy, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-sisters-of-mercy-7bd6b234.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "North America 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Doctor Jeep / Detonation Boulevard"
+            }, {
+               "name" : "Don't Drive on Ice"
+            }, {
+               "name" : "Ribbons"
+            }, {
+               "name" : "Alice"
+            }, {
+               "name" : "Summer"
+            }, {
+               "name" : "Dominion / Mother Russia"
+            }, {
+               "name" : "I Will Call You"
+            }, {
+               "name" : "Marian"
+            }, {
+               "name" : "Giving Ground",
+               "cover" : {
+                  "mbid" : "95a290a9-d275-4ec9-bfae-bfe0a2a0008d",
+                  "name" : "The Sisterhood",
+                  "sortName" : "Sisterhood, The",
+                  "disambiguation" : "The Sisters of Mercy side-project",
+                  "url" : "https://www.setlist.fm/setlists/the-sisterhood-23d7b04f.html"
+               }
+            }, {
+               "name" : "Eyes of Caligula"
+            }, {
+               "name" : "More"
+            }, {
+               "name" : "But Genevieve"
+            }, {
+               "name" : "I Was Wrong"
+            }, {
+               "name" : "Here"
+            }, {
+               "name" : "Something Fast"
+            }, {
+               "name" : "When I'm on Fire"
+            }, {
+               "name" : "On the Beach"
+            }, {
+               "name" : "Temple of Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lucretia My Reflection"
+            }, {
+               "name" : "This Corrosion"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-sisters-of-mercy/2024/brooklyn-paramount-brooklyn-ny-2355ecdb.html"
+   }, {
+      "id" : "35615ff",
+      "versionId" : "g23a8b45f",
+      "eventDate" : "18-09-2024",
+      "lastUpdated" : "2024-09-19T16:17:19.195+0000",
+      "artist" : {
+         "mbid" : "57f1cdd6-cf32-4004-a095-3ef043c91b61",
+         "name" : "Epik High",
+         "sortName" : "Epik High",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/epik-high-2bd470c2.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Pump"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pretty Much"
+            }, {
+               "name" : "ANTIHERO"
+            }, {
+               "name" : "Fly"
+            }, {
+               "name" : "NO THANXXX"
+            }, {
+               "name" : "Eternal Sunshine"
+            }, {
+               "name" : "Rosario"
+            }, {
+               "name" : "BURJ KHALIFA"
+            }, {
+               "name" : "EYES NOSE LIPS"
+            }, {
+               "name" : "Rain Song"
+            }, {
+               "name" : "Love Love Love"
+            }, {
+               "name" : "Kill This Love"
+            }, {
+               "name" : "High Technology"
+            }, {
+               "name" : "New Beautiful"
+            }, {
+               "name" : "HOME IS FAR AWAY"
+            }, {
+               "name" : "BORN HATER"
+            }, {
+               "name" : "One"
+            }, {
+               "name" : "Don't Hate Me"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/epik-high/2024/brooklyn-paramount-brooklyn-ny-35615ff.html"
+   }, {
+      "id" : "4b57238a",
+      "versionId" : "g731c1225",
+      "eventDate" : "17-09-2024",
+      "lastUpdated" : "2026-05-15T21:44:09.243+0000",
+      "artist" : {
+         "mbid" : "57c6f649-6cde-48a7-8114-2a200247601a",
+         "name" : "Tom Jones",
+         "sortName" : "Jones, Tom",
+         "disambiguation" : "Welsh pop singer",
+         "url" : "https://www.setlist.fm/setlists/tom-jones-3d6bd73.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Ages & Stages"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'm Growing Old",
+               "cover" : {
+                  "mbid" : "51d002d6-ff53-4fa1-88eb-503549538b5e",
+                  "name" : "Bobby Cole",
+                  "sortName" : "Cole, Bobby",
+                  "disambiguation" : "US Jazz singer and piano player",
+                  "url" : "https://www.setlist.fm/setlists/bobby-cole-73de826d.html"
+               }
+            }, {
+               "name" : "Not Dark Yet",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "It's Not Unusual",
+               "cover" : {
+                  "mbid" : "fa7966fd-9343-493f-9bff-20fadab2f299",
+                  "name" : "Les Reed",
+                  "sortName" : "Reed, Les",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/les-reed-43d31bf7.html"
+               }
+            }, {
+               "name" : "What's New Pussycat?",
+               "cover" : {
+                  "mbid" : "2882ffa3-dec9-4055-a842-a950728bcb02",
+                  "name" : "Burt Bacharach",
+                  "sortName" : "Bacharach, Burt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/burt-bacharach-53d6b3c1.html"
+               }
+            }, {
+               "name" : "The Windmills of Your Mind",
+               "cover" : {
+                  "mbid" : "2c330f54-9245-488b-b678-dc8a236d06b3",
+                  "name" : "Michel Legrand",
+                  "sortName" : "Legrand, Michel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/michel-legrand-1bd635cc.html"
+               }
+            }, {
+               "name" : "Sexbomb",
+               "cover" : {
+                  "mbid" : "d4c6ae95-497b-42f7-bdec-41cf76d1a39c",
+                  "name" : "Mousse T.",
+                  "sortName" : "Mousse T.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mousse-t-4bd6bf96.html"
+               }
+            }, {
+               "name" : "Pop Star",
+               "cover" : {
+                  "mbid" : "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+                  "name" : "Cat Stevens",
+                  "sortName" : "Stevens, Cat",
+                  "disambiguation" : "now known as Yusuf Islam",
+                  "url" : "https://www.setlist.fm/setlists/cat-stevens-33c6d855.html"
+               }
+            }, {
+               "name" : "Green, Green Grass of Home",
+               "cover" : {
+                  "mbid" : "05da2f6e-8e59-46e9-945c-60cfd60cc93f",
+                  "name" : "Claude “Curly” Putman, Jr.",
+                  "sortName" : "Putman, Claude “Curly”, Jr.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/claude-curly-putman-jr-4bd363ea.html"
+               }
+            }, {
+               "name" : "One More Cup of Coffee (Valley Below)",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Across the Borderline",
+               "cover" : {
+                  "mbid" : "a4e2650b-938b-4b72-95bc-6e229cd34601",
+                  "name" : "Ry Cooder",
+                  "sortName" : "Cooder, Ry",
+                  "disambiguation" : "guitarist, singer, and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/ry-cooder-6bd6ea96.html"
+               }
+            }, {
+               "name" : "Talking Reality Television Blues",
+               "cover" : {
+                  "mbid" : "25c13ec7-fad4-4da4-8d98-9607ff615d68",
+                  "name" : "Todd Snider",
+                  "sortName" : "Snider, Todd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/todd-snider-53d6e3c5.html"
+               }
+            }, {
+               "name" : "I Won't Crumble with You If You Fall",
+               "cover" : {
+                  "mbid" : "2ba31813-07e0-4427-97ee-b380320b45ec",
+                  "name" : "Bernice Johnson Reagon",
+                  "sortName" : "Johnson Reagon, Bernice",
+                  "disambiguation" : "gospel singer",
+                  "url" : "https://www.setlist.fm/setlists/bernice-johnson-reagon-63d7e6c3.html"
+               }
+            }, {
+               "name" : "Tower of Song",
+               "cover" : {
+                  "mbid" : "65314b12-0e08-43fa-ba33-baaa7b874c15",
+                  "name" : "Leonard Cohen",
+                  "sortName" : "Cohen, Leonard",
+                  "disambiguation" : "Canadian singer‐songwriter and poet",
+                  "url" : "https://www.setlist.fm/setlists/leonard-cohen-bd6d12a.html"
+               }
+            }, {
+               "name" : "Delilah",
+               "cover" : {
+                  "mbid" : "fa7966fd-9343-493f-9bff-20fadab2f299",
+                  "name" : "Les Reed",
+                  "sortName" : "Reed, Les",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/les-reed-43d31bf7.html"
+               }
+            }, {
+               "name" : "Lazarus Man",
+               "cover" : {
+                  "mbid" : "44fd61e1-119c-479e-8301-8ac5c77148bf",
+                  "name" : "Terry Callier",
+                  "sortName" : "Callier, Terry",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/terry-callier-43d7ff9f.html"
+               }
+            }, {
+               "name" : "You Can Leave Your Hat On",
+               "cover" : {
+                  "mbid" : "da7bb7d8-557d-4635-9ca1-e6e985525bd5",
+                  "name" : "Randy Newman",
+                  "sortName" : "Newman, Randy",
+                  "disambiguation" : "American singer‐songwriter and score composer",
+                  "url" : "https://www.setlist.fm/setlists/randy-newman-63d68ac3.html"
+               }
+            }, {
+               "name" : "If I Only Knew",
+               "cover" : {
+                  "mbid" : "7b0f1a77-db5e-4028-bab0-f1419f9a2c9f",
+                  "name" : "Rise Robots Rise",
+                  "sortName" : "Rise Robots Rise",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rise-robots-rise-3d09dbf.html"
+               }
+            }, {
+               "name" : "Kiss",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "One Hell of a Life",
+               "cover" : {
+                  "mbid" : "eba5243b-db63-4abc-aee5-0ff260805e9f",
+                  "name" : "Katell Keineg",
+                  "sortName" : "Keineg, Katell",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/katell-keineg-7bd4f658.html"
+               }
+            }, {
+               "name" : "Strange Things Happening Every Day",
+               "cover" : {
+                  "mbid" : "f5625c87-5a62-4b3b-a375-fe08a71acddc",
+                  "name" : "Sister Rosetta Tharpe",
+                  "sortName" : "Tharpe, Sister Rosetta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sister-rosetta-tharpe-bd7cd9e.html"
+               }
+            }, {
+               "name" : "Johnny B. Goode",
+               "cover" : {
+                  "mbid" : "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+                  "name" : "Chuck Berry",
+                  "sortName" : "Berry, Chuck",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chuck-berry-63d6a2b7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tom-jones/2024/brooklyn-paramount-brooklyn-ny-4b57238a.html"
+   }, {
+      "id" : "7b538a88",
+      "versionId" : "gbab2daa",
+      "eventDate" : "14-09-2024",
+      "lastUpdated" : "2024-09-15T13:49:51.157+0000",
+      "artist" : {
+         "mbid" : "a7c18d09-2197-4bff-98f2-cd87923be240",
+         "name" : "Unleash the Archers",
+         "sortName" : "Unleash the Archers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/unleash-the-archers-2bdc5cd2.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/unleash-the-archers/2024/brooklyn-paramount-brooklyn-ny-7b538a88.html"
+   }, {
+      "id" : "4b55b72e",
+      "versionId" : "g2356083f",
+      "eventDate" : "14-09-2024",
+      "lastUpdated" : "2024-10-10T12:11:41.016+0000",
+      "artist" : {
+         "mbid" : "3ef77bdc-b1ce-4e44-aa4b-acfa763c5284",
+         "name" : "Powerwolf",
+         "sortName" : "Powerwolf",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/powerwolf-2bd7949a.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bless ’em With the Blade"
+            }, {
+               "name" : "Incense & Iron"
+            }, {
+               "name" : "Army of the Night"
+            }, {
+               "name" : "Sinners of the Seven Seas"
+            }, {
+               "name" : "Amen & Attack"
+            }, {
+               "name" : "Dancing With the Dead"
+            }, {
+               "name" : "Armata Strigoi"
+            }, {
+               "name" : "1589"
+            }, {
+               "name" : "Demons Are a Girl's Best Friend"
+            }, {
+               "name" : "Stossgebet"
+            }, {
+               "name" : "Fire and Forgive"
+            }, {
+               "name" : "We Don’t Wanna Be No Saints"
+            }, {
+               "name" : "Alive or Undead"
+            }, {
+               "name" : "Heretic Hunters"
+            }, {
+               "name" : "Sainted by the Storm"
+            }, {
+               "name" : "Blood for Blood (Faoladh)"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sanctified With Dynamite"
+            }, {
+               "name" : "We Drink Your Blood"
+            }, {
+               "name" : "Werewolves of Armenia"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/powerwolf/2024/brooklyn-paramount-brooklyn-ny-4b55b72e.html"
+   }, {
+      "id" : "3ba9048c",
+      "versionId" : "g3bbb91b",
+      "eventDate" : "13-09-2024",
+      "lastUpdated" : "2024-05-15T02:10:44.241+0000",
+      "artist" : {
+         "mbid" : "a521f1a8-a949-4dcf-ab33-94596cb02787",
+         "name" : "Militarie Gun",
+         "sortName" : "Militarie Gun",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/militarie-gun-23f31423.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/militarie-gun/2024/brooklyn-paramount-brooklyn-ny-3ba9048c.html"
+   } ]
+}

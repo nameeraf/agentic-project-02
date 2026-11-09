@@ -1,0 +1,217 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 4,
+   "setlist" : [ {
+      "id" : "4ba35ba2",
+      "versionId" : "g43850b97",
+      "eventDate" : "30-09-2023",
+      "lastUpdated" : "2023-10-10T21:43:11.677+0000",
+      "artist" : {
+         "mbid" : "8f614665-3418-4ca8-aa6a-737b4636b995",
+         "name" : "Carl Cox",
+         "sortName" : "Cox, Carl",
+         "disambiguation" : "techno DJ",
+         "url" : "https://www.setlist.fm/setlists/carl-cox-63d63ed3.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carl-cox/2023/rumsey-playfield-new-york-ny-4ba35ba2.html"
+   }, {
+      "id" : "23a238ff",
+      "versionId" : "g63996a43",
+      "eventDate" : "09-09-2023",
+      "lastUpdated" : "2023-09-10T02:43:18.182+0000",
+      "artist" : {
+         "mbid" : "a56bd8f9-8ef8-4d63-89a4-794ed1360dd2",
+         "name" : "Diplo",
+         "sortName" : "Diplo",
+         "disambiguation" : "DJ and music producer",
+         "url" : "https://www.setlist.fm/setlists/diplo-2bd6443e.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/diplo/2023/rumsey-playfield-new-york-ny-23a238ff.html"
+   }, {
+      "id" : "73a49215",
+      "versionId" : "g239cf4ab",
+      "eventDate" : "24-07-2023",
+      "lastUpdated" : "2023-07-25T05:53:14.901+0000",
+      "artist" : {
+         "mbid" : "c2b37a39-c66a-44b2-b190-a69485ae5d95",
+         "name" : "Café Tacvba",
+         "sortName" : "Café Tacuba",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cafe-tacvba-bd63192.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Seguir siendo"
+            }, {
+               "name" : "Tengo todo"
+            }, {
+               "name" : "Cero y uno"
+            }, {
+               "name" : "Como te extraño mi amor",
+               "cover" : {
+                  "mbid" : "9766faa7-8786-4a55-8d7e-a35bb24b9844",
+                  "name" : "Leo Dan",
+                  "sortName" : "Dan, Leo",
+                  "disambiguation" : "Argentinean composer",
+                  "url" : "https://www.setlist.fm/setlists/leo-dan-5bd77f84.html"
+               }
+            }, {
+               "name" : "Bar Tacuba"
+            }, {
+               "name" : "La zonaja"
+            }, {
+               "name" : "Volver a comenzar"
+            }, {
+               "name" : "Futuro"
+            }, {
+               "name" : "Diente de león",
+               "info" : "Acoustic"
+            }, {
+               "name" : "María",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Olita del altamar",
+               "info" : "Hybrid"
+            }, {
+               "name" : "Un par de lugares  / Puntos cardinales"
+            }, {
+               "name" : "Las flores"
+            }, {
+               "name" : "Chilanga banda",
+               "cover" : {
+                  "mbid" : "c399037c-026e-4835-ac12-873094ac820e",
+                  "name" : "Jaime López",
+                  "sortName" : "López, Jaime",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jaime-lopez-73d70ad9.html"
+               }
+            }, {
+               "name" : "El fin de la infancia"
+            }, {
+               "name" : "Déjate caer",
+               "cover" : {
+                  "mbid" : "0bca46d2-184f-41d0-9abe-37c99d3c023f",
+                  "name" : "Los Tres",
+                  "sortName" : "Tres, Los",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/los-tres-13d78d09.html"
+               }
+            }, {
+               "name" : "La chica banda"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Eres"
+            }, {
+               "name" : "Quiero ver"
+            }, {
+               "name" : "El baile y el salón"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cafe-tacvba/2023/rumsey-playfield-new-york-ny-73a49215.html"
+   }, {
+      "id" : "23a4f4f7",
+      "versionId" : "g3b9cf4a8",
+      "eventDate" : "24-07-2023",
+      "lastUpdated" : "2023-07-25T05:54:40.173+0000",
+      "artist" : {
+         "mbid" : "47f45f83-b299-43aa-9ead-9485d43f0a89",
+         "name" : "Ruen Brothers",
+         "sortName" : "Ruen Brothers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ruen-brothers-4bdc0bde.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opening for Café Tacvba",
+      "url" : "https://www.setlist.fm/setlist/ruen-brothers/2023/rumsey-playfield-new-york-ny-23a4f4f7.html"
+   } ]
+}

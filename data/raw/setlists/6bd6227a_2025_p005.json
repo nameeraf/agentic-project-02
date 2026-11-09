@@ -1,0 +1,279 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 85,
+   "setlist" : [ {
+      "id" : "2350787f",
+      "versionId" : "g5346cbad",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-02-15T15:00:31.911+0000",
+      "artist" : {
+         "mbid" : "fd3c3f9f-a471-498e-ab3a-940ac20b6bbd",
+         "name" : "Panda Bear",
+         "sortName" : "Panda Bear",
+         "disambiguation" : "Noah Lennox from Animal Collective",
+         "url" : "https://www.setlist.fm/setlists/panda-bear-73d69a45.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sequential Circuits"
+            }, {
+               "name" : "Song for Ariel"
+            }, {
+               "name" : "50mg"
+            }, {
+               "name" : "Defense"
+            }, {
+               "name" : "Tomboy"
+            }, {
+               "name" : "The Preakness"
+            }, {
+               "name" : "Virginia Tech"
+            }, {
+               "name" : "Just as Well"
+            }, {
+               "name" : "Slow Motion"
+            }, {
+               "name" : "Take Pills"
+            }, {
+               "name" : "Praise"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/panda-bear/2025/terminal-5-new-york-ny-2350787f.html"
+   }, {
+      "id" : "4b5d27e6",
+      "versionId" : "g1b5be9f0",
+      "eventDate" : "19-01-2025",
+      "lastUpdated" : "2025-01-19T15:03:54.862+0000",
+      "artist" : {
+         "mbid" : "46c38a79-24c0-4902-9c69-13c1ef1da408",
+         "name" : "Night Tapes",
+         "sortName" : "Night Tapes",
+         "disambiguation" : "London dream pop band",
+         "url" : "https://www.setlist.fm/setlists/night-tapes-5bf64f80.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/night-tapes/2025/terminal-5-new-york-ny-4b5d27e6.html"
+   }, {
+      "id" : "135e9d29",
+      "versionId" : "g6b45fee6",
+      "eventDate" : "19-01-2025",
+      "lastUpdated" : "2025-03-06T02:30:00.800+0000",
+      "artist" : {
+         "mbid" : "abc31be8-02b2-4bb1-867d-604d50b7be78",
+         "name" : "L’Impératrice",
+         "sortName" : "Impératrice, L’",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/limperatrice-43da4b8f.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Pulsar Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cosmogonie",
+               "info" : ">"
+            }, {
+               "name" : "Amour ex Machina"
+            }, {
+               "name" : "La lune"
+            }, {
+               "name" : "Anomalie bleue",
+               "info" : ">"
+            }, {
+               "name" : "Me da igual"
+            }, {
+               "name" : "Voodoo?",
+               "info" : "Part 1) (>"
+            }, {
+               "name" : "Girl!"
+            }, {
+               "name" : "Vacances"
+            }, {
+               "name" : "Danza Marilù",
+               "info" : ">"
+            }, {
+               "name" : "Sweet & Sublime"
+            }, {
+               "name" : "Matahari"
+            }, {
+               "name" : "Love From the Other Side"
+            }, {
+               "name" : "Voodoo?",
+               "info" : "Part 2"
+            }, {
+               "name" : "Aerodynamic",
+               "cover" : {
+                  "mbid" : "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name" : "Daft Punk",
+                  "sortName" : "Daft Punk",
+                  "disambiguation" : "French electronic duo",
+                  "url" : "https://www.setlist.fm/setlists/daft-punk-bd6d5a2.html"
+               }
+            }, {
+               "name" : "Agitations tropicales"
+            }, {
+               "name" : "Submarine",
+               "info" : ">"
+            }, {
+               "name" : "La piscine",
+               "cover" : {
+                  "mbid" : "d77339ff-6b50-4bec-ab31-f4667be82180",
+                  "name" : "Hypnolove",
+                  "sortName" : "Hypnolove",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hypnolove-1bd70960.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sonate pacifique"
+            }, {
+               "name" : "Erreur 404"
+            }, {
+               "name" : "Vanille fraise"
+            }, {
+               "name" : "ENTROPIA"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/limperatrice/2025/terminal-5-new-york-ny-135e9d29.html"
+   }, {
+      "id" : "435d27e7",
+      "versionId" : "g135be9f1",
+      "eventDate" : "18-01-2025",
+      "lastUpdated" : "2025-01-19T15:03:39.188+0000",
+      "artist" : {
+         "mbid" : "46c38a79-24c0-4902-9c69-13c1ef1da408",
+         "name" : "Night Tapes",
+         "sortName" : "Night Tapes",
+         "disambiguation" : "London dream pop band",
+         "url" : "https://www.setlist.fm/setlists/night-tapes-5bf64f80.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/night-tapes/2025/terminal-5-new-york-ny-435d27e7.html"
+   }, {
+      "id" : "35e9d2b",
+      "versionId" : "gb5be9f2",
+      "eventDate" : "18-01-2025",
+      "lastUpdated" : "2025-01-19T15:03:21.937+0000",
+      "artist" : {
+         "mbid" : "abc31be8-02b2-4bb1-867d-604d50b7be78",
+         "name" : "L’Impératrice",
+         "sortName" : "Impératrice, L’",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/limperatrice-43da4b8f.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Pulsar Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/limperatrice/2025/terminal-5-new-york-ny-35e9d2b.html"
+   } ]
+}

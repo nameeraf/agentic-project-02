@@ -1,0 +1,1600 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 179,
+   "setlist" : [ {
+      "id" : "634e6a2f",
+      "versionId" : "g736712f9",
+      "eventDate" : "26-10-2025",
+      "lastUpdated" : "2025-10-27T00:16:06.407+0000",
+      "artist" : {
+         "mbid" : "15e0d608-0869-429b-898d-3d8db3ecedd5",
+         "name" : "Olivia Dean",
+         "sortName" : "Dean, Olivia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/olivia-dean-6bf77ef2.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nice to Each Other"
+            }, {
+               "name" : "OK Love You Bye"
+            }, {
+               "name" : "It Isn't Perfect But It Might Be"
+            }, {
+               "name" : "So Easy (To Fall in Love)"
+            }, {
+               "name" : "Ladies Room"
+            }, {
+               "name" : "Let Alone the One You Love"
+            }, {
+               "name" : "Carmen"
+            }, {
+               "name" : "Man I Need"
+            }, {
+               "name" : "Dive"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/olivia-dean/2025/madison-square-garden-new-york-ny-634e6a2f.html"
+   }, {
+      "id" : "234e043b",
+      "versionId" : "g6b677efe",
+      "eventDate" : "26-10-2025",
+      "lastUpdated" : "2025-10-27T14:20:48.768+0000",
+      "artist" : {
+         "mbid" : "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+         "name" : "Sabrina Carpenter",
+         "sortName" : "Carpenter, Sabrina",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sabrina-carpenter-4bdd3b6a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Short n' Sweet Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'm Coming Out",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "60d41417-feda-4734-bbbf-7dcc30e08a83",
+                  "name" : "Diana Ross",
+                  "sortName" : "Ross, Diana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/diana-ross-73d6bef9.html"
+               },
+               "info" : "Preshow song"
+            } ]
+         }, {
+            "name" : "ACT 1: Morning",
+            "song" : [ {
+               "name" : "Taste"
+            }, {
+               "name" : "Good Graces"
+            }, {
+               "name" : "Manchild Spray Away",
+               "tape" : true,
+               "info" : "Interlude"
+            }, {
+               "name" : "Manchild"
+            }, {
+               "name" : "Slim Pickins"
+            }, {
+               "name" : "Tornado Warnings"
+            }, {
+               "name" : "Lie to Girls"
+            }, {
+               "name" : "decode",
+               "info" : "Snippet"
+            }, {
+               "name" : "Bed Chem"
+            } ]
+         }, {
+            "name" : "ACT 2: Evening",
+            "song" : [ {
+               "name" : "Sabrina After Dark",
+               "tape" : true,
+               "info" : "video interlude; subtitled \"Sabrina after Dark\" on-screen"
+            }, {
+               "name" : "Feather"
+            }, {
+               "name" : "Fast Times"
+            }, {
+               "name" : "Busy Woman"
+            }, {
+               "name" : "Sharpest Tool"
+            }, {
+               "name" : "opposite",
+               "info" : "Snippet"
+            }, {
+               "name" : "because i liked a boy"
+            }, {
+               "name" : "Coincidence"
+            }, {
+               "name" : "Go Go Juice",
+               "info" : "Tour debut; Spin the Bottle Surprise Song"
+            }, {
+               "name" : "House Tour"
+            }, {
+               "name" : "Nonsense"
+            } ]
+         }, {
+            "name" : "ACT 3: Midnight",
+            "song" : [ {
+               "name" : "Don't Touch That Dial!",
+               "tape" : true,
+               "info" : "Video interlude"
+            }, {
+               "name" : "Dumb & Poetic"
+            }, {
+               "name" : "Juno",
+               "info" : "With Anne Hathaway “arrest”"
+            }, {
+               "name" : "Please Please Please"
+            }, {
+               "name" : "Tears"
+            }, {
+               "name" : "Don't Smile"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Espresso"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sabrina-carpenter/2025/madison-square-garden-new-york-ny-234e043b.html"
+   }, {
+      "id" : "4b4f970e",
+      "versionId" : "g73642621",
+      "eventDate" : "19-10-2025",
+      "lastUpdated" : "2025-11-03T19:56:21.722+0000",
+      "artist" : {
+         "mbid" : "06dd06a8-5915-4b23-8cd6-d52b74232e6f",
+         "name" : "Omer Adam",
+         "sortName" : "Adam, Omer",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/omer-adam-2bd1ac1e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/omer-adam/2025/madison-square-garden-new-york-ny-4b4f970e.html"
+   }, {
+      "id" : "5346c78d",
+      "versionId" : "gb6df546",
+      "eventDate" : "18-10-2025",
+      "lastUpdated" : "2026-01-17T11:36:45.242+0000",
+      "artist" : {
+         "mbid" : "7bb3d914-0a4d-4e96-a00e-d9815725244b",
+         "name" : "Alessi Rose",
+         "sortName" : "Rose, Alessi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alessi-rose-5be58f0c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Voyeur Tour '25"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alessi-rose/2025/madison-square-garden-new-york-ny-5346c78d.html"
+   }, {
+      "id" : "3b5b94cc",
+      "versionId" : "g2b6644da",
+      "eventDate" : "18-10-2025",
+      "lastUpdated" : "2025-10-21T12:29:14.166+0000",
+      "artist" : {
+         "mbid" : "f9133869-f87c-459c-9aa7-2f176cda7e06",
+         "name" : "Tate McRae",
+         "sortName" : "McRae, Tate",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tate-mcrae-5bc913f0.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Miss Possessive Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "Miss possessive"
+            }, {
+               "name" : "No I'm not in love"
+            }, {
+               "name" : "2 hands"
+            }, {
+               "name" : "guilty conscience"
+            } ]
+         }, {
+            "name" : "Act 2",
+            "song" : [ {
+               "name" : "Purple lace bra"
+            }, {
+               "name" : "Like I do"
+            }, {
+               "name" : "uh oh"
+            }, {
+               "name" : "Dear god"
+            }, {
+               "name" : "Siren sounds"
+            } ]
+         }, {
+            "name" : "Act 3 (B-Stage)",
+            "song" : [ {
+               "name" : "Greenlight"
+            }, {
+               "name" : "Nostalgia"
+            }, {
+               "name" : "One Day",
+               "info" : "shortened"
+            }, {
+               "name" : "feel like shit",
+               "info" : "shortened"
+            }, {
+               "name" : "you broke me first"
+            }, {
+               "name" : "run for the hills"
+            } ]
+         }, {
+            "name" : "Act 4",
+            "song" : [ {
+               "name" : "exes"
+            }, {
+               "name" : "bloodonmyhands"
+            }, {
+               "name" : "TIT FOR TAT"
+            }, {
+               "name" : "Revolving door"
+            }, {
+               "name" : "It's ok I'm ok"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Just Keep Watching"
+            }, {
+               "name" : "Sports car"
+            }, {
+               "name" : "greedy"
+            }, {
+               "name" : "I know love",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tate-mcrae/2025/madison-square-garden-new-york-ny-3b5b94cc.html"
+   }, {
+      "id" : "33403051",
+      "versionId" : "g4b661f16",
+      "eventDate" : "16-10-2025",
+      "lastUpdated" : "2025-10-18T21:26:00.293+0000",
+      "artist" : {
+         "mbid" : "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+         "name" : "Suki Waterhouse",
+         "sortName" : "Waterhouse, Suki",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/suki-waterhouse-33f0e891.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gateway Drug"
+            }, {
+               "name" : "Supersad"
+            }, {
+               "name" : "OMG"
+            }, {
+               "name" : "Johanna"
+            }, {
+               "name" : "Model, Actress, Whatever"
+            }, {
+               "name" : "My Fun"
+            }, {
+               "name" : "Moves"
+            }, {
+               "name" : "To Love"
+            }, {
+               "name" : "On This Love"
+            }, {
+               "name" : "Good Looking"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/suki-waterhouse/2025/madison-square-garden-new-york-ny-33403051.html"
+   }, {
+      "id" : "23403053",
+      "versionId" : "g5b620764",
+      "eventDate" : "16-10-2025",
+      "lastUpdated" : "2025-11-18T20:08:46.973+0000",
+      "artist" : {
+         "mbid" : "21a89505-10a9-4ac0-8388-833bc07b9f86",
+         "name" : "Laufey",
+         "sortName" : "Laufey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laufey-4bf35b02.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "A Matter of Time Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Clockwork"
+            }, {
+               "name" : "Lover Girl"
+            }, {
+               "name" : "Dreamer"
+            }, {
+               "name" : "Falling Behind"
+            }, {
+               "name" : "Best of Wives and Best of Women",
+               "cover" : {
+                  "mbid" : "925c7673-0e85-410f-b7e4-d9705a7aa619",
+                  "name" : "Lin‐Manuel Miranda",
+                  "sortName" : "Miranda, Lin‐Manuel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/linmanuel-miranda-3bd42808.html"
+               },
+               "with" : {
+                  "mbid" : "925c7673-0e85-410f-b7e4-d9705a7aa619",
+                  "name" : "Lin‐Manuel Miranda",
+                  "sortName" : "Miranda, Lin‐Manuel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/linmanuel-miranda-3bd42808.html"
+               }
+            }, {
+               "name" : "Silver Lining"
+            }, {
+               "name" : "Bored"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Too Little, Too Late"
+            }, {
+               "name" : "Seems Like Old Times",
+               "cover" : {
+                  "mbid" : "2ba17a5b-9405-43d0-a5c8-35ad1c920dc7",
+                  "name" : "Carmen Lombardo",
+                  "sortName" : "Lombardo, Carmen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/carmen-lombardo-13d735d9.html"
+               }
+            }, {
+               "name" : "Valentine"
+            }, {
+               "name" : "Fragile"
+            }, {
+               "name" : "While You Were Sleeping"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Illegal",
+               "cover" : {
+                  "mbid" : "7441014f-f8f5-494f-81db-ff166fbc078d",
+                  "name" : "PinkPantheress",
+                  "sortName" : "PinkPantheress",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pinkpantheress-4bf213fe.html"
+               },
+               "with" : {
+                  "mbid" : "7441014f-f8f5-494f-81db-ff166fbc078d",
+                  "name" : "PinkPantheress",
+                  "sortName" : "PinkPantheress",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pinkpantheress-4bf213fe.html"
+               }
+            }, {
+               "name" : "Let You Break My Heart Again"
+            }, {
+               "name" : "Carousel"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "Forget-Me-Not"
+            }, {
+               "name" : "Cuckoo Ballet (Interlude)"
+            }, {
+               "name" : "Mr. Eclectic"
+            }, {
+               "name" : "Castle in Hollywood"
+            }, {
+               "name" : "Promise"
+            }, {
+               "name" : "Goddess"
+            }, {
+               "name" : "Tough Luck"
+            }, {
+               "name" : "Snow White"
+            }, {
+               "name" : "From the Start"
+            } ]
+         }, {
+            "name" : "Act V",
+            "song" : [ {
+               "name" : "Sabotage"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Bewitched"
+            }, {
+               "name" : "Letter to My 13 Year Old Self"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/laufey/2025/madison-square-garden-new-york-ny-23403053.html"
+   }, {
+      "id" : "3b40305c",
+      "versionId" : "g6336e2bb",
+      "eventDate" : "15-10-2025",
+      "lastUpdated" : "2026-10-24T10:06:30.061+0000",
+      "artist" : {
+         "mbid" : "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+         "name" : "Suki Waterhouse",
+         "sortName" : "Waterhouse, Suki",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/suki-waterhouse-33f0e891.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gateway Drug"
+            }, {
+               "name" : "Supersad"
+            }, {
+               "name" : "OMG"
+            }, {
+               "name" : "Johanna"
+            }, {
+               "name" : "Model, Actress, Whatever"
+            }, {
+               "name" : "My Fun"
+            }, {
+               "name" : "Moves"
+            }, {
+               "name" : "To Love"
+            }, {
+               "name" : "On This Love"
+            }, {
+               "name" : "Good Looking"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/suki-waterhouse/2025/madison-square-garden-new-york-ny-3b40305c.html"
+   }, {
+      "id" : "3340305d",
+      "versionId" : "g53620749",
+      "eventDate" : "15-10-2025",
+      "lastUpdated" : "2025-11-18T20:11:47.888+0000",
+      "artist" : {
+         "mbid" : "21a89505-10a9-4ac0-8388-833bc07b9f86",
+         "name" : "Laufey",
+         "sortName" : "Laufey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laufey-4bf35b02.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "A Matter of Time Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Clockwork"
+            }, {
+               "name" : "Lover Girl"
+            }, {
+               "name" : "Dreamer"
+            }, {
+               "name" : "Falling Behind"
+            }, {
+               "name" : "Silver Lining"
+            }, {
+               "name" : "Bored"
+            }, {
+               "name" : "Too Little, Too Late"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Seems Like Old Times",
+               "cover" : {
+                  "mbid" : "2ba17a5b-9405-43d0-a5c8-35ad1c920dc7",
+                  "name" : "Carmen Lombardo",
+                  "sortName" : "Lombardo, Carmen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/carmen-lombardo-13d735d9.html"
+               }
+            }, {
+               "name" : "Valentine"
+            }, {
+               "name" : "Fragile"
+            }, {
+               "name" : "While You Were Sleeping"
+            }, {
+               "name" : "Let You Break My Heart Again"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Carousel"
+            }, {
+               "name" : "Forget-Me-Not"
+            }, {
+               "name" : "Cuckoo Ballet (Interlude)"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "Mr. Eclectic"
+            }, {
+               "name" : "Castle in Hollywood"
+            }, {
+               "name" : "Promise"
+            }, {
+               "name" : "Goddess",
+               "with" : {
+                  "mbid" : "f491b163-cecd-40e5-a74d-5b379323c951",
+                  "name" : "Rachel Zegler",
+                  "sortName" : "Zegler, Rachel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rachel-zegler-1bf6bdf8.html"
+               }
+            }, {
+               "name" : "Tough Luck"
+            }, {
+               "name" : "Snow White"
+            }, {
+               "name" : "From the Start"
+            } ]
+         }, {
+            "name" : "Act V",
+            "song" : [ {
+               "name" : "Sabotage"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "A Cautionary Tale",
+               "info" : "Surprise song, Live Debut"
+            }, {
+               "name" : "Letter to My 13 Year Old Self"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/laufey/2025/madison-square-garden-new-york-ny-3340305d.html"
+   }, {
+      "id" : "435a8787",
+      "versionId" : "g636f6693",
+      "eventDate" : "10-10-2025",
+      "lastUpdated" : "2026-01-01T16:39:13.612+0000",
+      "artist" : {
+         "mbid" : "a6e613d6-ff65-4972-beff-303a1b10ab05",
+         "name" : "Lainey Wilson",
+         "sortName" : "Wilson, Lainey",
+         "disambiguation" : "country singer",
+         "url" : "https://www.setlist.fm/setlists/lainey-wilson-5bca1f9c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Whirlwind World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Whirlwind"
+            }, {
+               "name" : "Hold My Halo"
+            }, {
+               "name" : "Good Horses"
+            }, {
+               "name" : "Devil Don’t Go There"
+            }, {
+               "name" : "Watermelon Moonshine"
+            }, {
+               "name" : "Country's Cool Again / One More Last Chance / Guitars, Cadillacs / Fishin' in the Dark / Country's Cool Again"
+            }, {
+               "name" : "Keep Up With Jones"
+            }, {
+               "name" : "Somewhere Over Laredo"
+            }, {
+               "name" : "Peace, Love, and Cowboys"
+            }, {
+               "name" : "Yesterday, All Day, Every Day"
+            }, {
+               "name" : "Hang Tight Honey"
+            }, {
+               "name" : "Hillbilly Hippie"
+            }, {
+               "name" : "Whiskey Colored Crayon"
+            }, {
+               "name" : "Pieces",
+               "cover" : {
+                  "mbid" : "2646de59-5529-4134-a6c8-2c76282716d1",
+                  "name" : "Muscadine Bloodline",
+                  "sortName" : "Muscadine Bloodline",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/muscadine-bloodline-1bc8e10c.html"
+               },
+               "with" : {
+                  "mbid" : "2646de59-5529-4134-a6c8-2c76282716d1",
+                  "name" : "Muscadine Bloodline",
+                  "sortName" : "Muscadine Bloodline",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/muscadine-bloodline-1bc8e10c.html"
+               }
+            }, {
+               "name" : "Counting Chickens"
+            }, {
+               "name" : "Things a Man Oughta Know"
+            }, {
+               "name" : "Wildflowers and Wild Horses"
+            }, {
+               "name" : "Bell Bottoms Up"
+            }, {
+               "name" : "Call a Cowboy"
+            }, {
+               "name" : "Bar in Baton Rouge"
+            }, {
+               "name" : "4x4xU"
+            }, {
+               "name" : "Heart Like a Truck"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lainey-wilson/2025/madison-square-garden-new-york-ny-435a8787.html"
+   }, {
+      "id" : "3b4e986c",
+      "versionId" : "g2b791c82",
+      "eventDate" : "10-10-2025",
+      "lastUpdated" : "2025-10-10T23:08:49.760+0000",
+      "artist" : {
+         "mbid" : "2646de59-5529-4134-a6c8-2c76282716d1",
+         "name" : "Muscadine Bloodline",
+         "sortName" : "Muscadine Bloodline",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/muscadine-bloodline-1bc8e10c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/muscadine-bloodline/2025/madison-square-garden-new-york-ny-3b4e986c.html"
+   }, {
+      "id" : "2b4e986e",
+      "versionId" : "g33791c95",
+      "eventDate" : "10-10-2025",
+      "lastUpdated" : "2025-10-10T23:07:39.785+0000",
+      "artist" : {
+         "mbid" : "afdbb99a-06b7-41be-9b50-e511ff02d995",
+         "name" : "Lauren Watkins",
+         "sortName" : "Watkins, Lauren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lauren-watkins-43fa8703.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lauren-watkins/2025/madison-square-garden-new-york-ny-2b4e986e.html"
+   }, {
+      "id" : "7b45aec0",
+      "versionId" : "g3b77dc0c",
+      "eventDate" : "01-10-2025",
+      "lastUpdated" : "2025-06-24T05:01:03.179+0000",
+      "artist" : {
+         "mbid" : "5db88fae-df24-490e-971a-1b3fe8d373ea",
+         "name" : "The Japanese House",
+         "sortName" : "Japanese House, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-japanese-house-33c69485.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-japanese-house/2025/madison-square-garden-new-york-ny-7b45aec0.html"
+   }, {
+      "id" : "6345aec7",
+      "versionId" : "g1378d199",
+      "eventDate" : "01-10-2025",
+      "lastUpdated" : "2025-10-02T04:47:05.182+0000",
+      "artist" : {
+         "mbid" : "00a8bd6b-4cb2-491c-8fe5-3fca06909973",
+         "name" : "Chanel Beads",
+         "sortName" : "Chanel Beads",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/chanel-beads-6be77632.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Idea June"
+            }, {
+               "name" : "Embarrassed Dog"
+            }, {
+               "name" : "Police Scanner"
+            }, {
+               "name" : "The Coward Forgets His Nightmare"
+            }, {
+               "name" : "Ef"
+            }, {
+               "name" : "Urn"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chanel-beads/2025/madison-square-garden-new-york-ny-6345aec7.html"
+   }, {
+      "id" : "434653e7",
+      "versionId" : "g6b6612e2",
+      "eventDate" : "01-10-2025",
+      "lastUpdated" : "2025-10-19T06:03:29.980+0000",
+      "artist" : {
+         "mbid" : "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+         "name" : "Lorde",
+         "sortName" : "Lorde",
+         "disambiguation" : "New Zealand singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/lorde-6bdc4632.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Ultrasound World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crazy",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4bdcee62-4902-4773-8cd1-e252e2e31225",
+                  "name" : "Alanis Morissette",
+                  "sortName" : "Morissette, Alanis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alanis-morissette-13d6b961.html"
+               },
+               "info" : "James Michael Mix"
+            } ]
+         }, {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Intro",
+               "tape" : true,
+               "info" : "Contained elements of “Hammer”"
+            }, {
+               "name" : "Hammer",
+               "info" : "Extended intro"
+            }, {
+               "name" : "Royals",
+               "info" : "Extended intro"
+            }, {
+               "name" : "Broken Glass"
+            }, {
+               "name" : "Buzzcut Season"
+            }, {
+               "name" : "Favourite Daughter"
+            }, {
+               "name" : "Perfect Places"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Shapeshifter"
+            }, {
+               "name" : "Current Affairs"
+            }, {
+               "name" : "Supercut",
+               "info" : "Extended intro"
+            }, {
+               "name" : "No Better"
+            }, {
+               "name" : "GRWM"
+            }, {
+               "name" : "The Louvre",
+               "info" : "Extended intro"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Oceanic Feeling"
+            }, {
+               "name" : "Big Star",
+               "info" : "“I love you Pearl” extended outro"
+            }, {
+               "name" : "Liability",
+               "info" : "Extended intro with Liability speech"
+            }, {
+               "name" : "Clearblue",
+               "info" : "Extended intro & outro"
+            }, {
+               "name" : "Man of the Year"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "If She Could See Me Now",
+               "info" : "Extended intro"
+            }, {
+               "name" : "Team",
+               "info" : "Dedicated to Palestine"
+            }, {
+               "name" : "What Was That"
+            }, {
+               "name" : "Green Light"
+            }, {
+               "name" : "David",
+               "info" : "Performed through pit section to B stage; brought out Anthony Haynes"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "A World Alone",
+               "info" : "Performed on B stage with Anthony Haynes"
+            }, {
+               "name" : "Ribs",
+               "info" : "Performed on B stage with Anthony Haynes; outro contained elements of “Hammer”"
+            }, {
+               "name" : "All My Friends",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+                  "name" : "LCD Soundsystem",
+                  "sortName" : "LCD Soundsystem",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lorde/2025/madison-square-garden-new-york-ny-434653e7.html"
+   }, {
+      "id" : "3426ddf",
+      "versionId" : "g736b8671",
+      "eventDate" : "29-09-2025",
+      "lastUpdated" : "2026-02-02T11:57:45.905+0000",
+      "artist" : {
+         "mbid" : "e4378b7a-6138-441a-aa34-50e11a562066",
+         "name" : "Reneé Rapp",
+         "sortName" : "Rapp, Reneé",
+         "disambiguation" : "American actress and singer",
+         "url" : "https://www.setlist.fm/setlists/renee-rapp-5bf043d0.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Bite Me Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Everything to Everyone (intro)"
+            }, {
+               "name" : "Leave Me Alone"
+            }, {
+               "name" : "Kiss It Kiss It"
+            }, {
+               "name" : "Talk Too Much"
+            }, {
+               "name" : "Poison Poison"
+            }, {
+               "name" : "Shy"
+            }, {
+               "name" : "Mad"
+            }, {
+               "name" : "Why Is She Still Here?"
+            }, {
+               "name" : "That’s So Funny"
+            }, {
+               "name" : "Ego",
+               "cover" : {
+                  "mbid" : "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name" : "Beyoncé",
+                  "sortName" : "Beyoncé",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beyonce-33d69c3d.html"
+               }
+            }, {
+               "name" : "Sometimes"
+            }, {
+               "name" : "Good Girl"
+            }, {
+               "name" : "Swim"
+            }, {
+               "name" : "I Think I Like You Better When You’re Gone"
+            }, {
+               "name" : "I Can’t Have You Around Me Anymore"
+            }, {
+               "name" : "Tummy Hurts"
+            }, {
+               "name" : "You’d Like That Wouldn’t You"
+            }, {
+               "name" : "Pretty Girls"
+            }, {
+               "name" : "In the Kitchen"
+            }, {
+               "name" : "Snow Angel"
+            }, {
+               "name" : "Not My Fault",
+               "cover" : {
+                  "mbid" : "0b89328a-c2ec-435c-a71f-cde291c3f2f6",
+                  "name" : "Reneé Rapp & Megan Thee Stallion",
+                  "sortName" : "Rapp, Reneé & Megan Thee Stallion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/renee-rapp-and-megan-thee-stallion-53e72f91.html"
+               },
+               "info" : "shortened"
+            }, {
+               "name" : "At Least I’m Hot"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/renee-rapp/2025/madison-square-garden-new-york-ny-3426ddf.html"
+   }, {
+      "id" : "3426db7",
+      "versionId" : "g7b1ba6f8",
+      "eventDate" : "29-09-2025",
+      "lastUpdated" : "2026-06-03T23:07:21.135+0000",
+      "artist" : {
+         "mbid" : "7d3d6c65-e053-4657-8705-0ca61bc012ad",
+         "name" : "Syd",
+         "sortName" : "Syd",
+         "disambiguation" : "US hip‐hop singer & producer, former Syd tha Kyd",
+         "url" : "https://www.setlist.fm/setlists/syd-33d088fd.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hold On",
+               "cover" : {
+                  "mbid" : "45804465-4271-4e6a-b881-ce668ef09530",
+                  "name" : "The Internet",
+                  "sortName" : "Internet, The",
+                  "disambiguation" : "Syd the Kid & Matt Martians",
+                  "url" : "https://www.setlist.fm/setlists/the-internet-2bd01402.html"
+               }
+            }, {
+               "name" : "Body"
+            }, {
+               "name" : "GMFU"
+            }, {
+               "name" : "Die for This"
+            }, {
+               "name" : "PLASTIC OFF THE SOFA",
+               "cover" : {
+                  "mbid" : "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name" : "Beyoncé",
+                  "sortName" : "Beyoncé",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beyonce-33d69c3d.html"
+               }
+            }, {
+               "name" : "Girl",
+               "cover" : {
+                  "mbid" : "45804465-4271-4e6a-b881-ce668ef09530",
+                  "name" : "The Internet",
+                  "sortName" : "Internet, The",
+                  "disambiguation" : "Syd the Kid & Matt Martians",
+                  "url" : "https://www.setlist.fm/setlists/the-internet-2bd01402.html"
+               }
+            }, {
+               "name" : "Out Loud"
+            }, {
+               "name" : "Insecurities"
+            }, {
+               "name" : "Know"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/syd/2025/madison-square-garden-new-york-ny-3426db7.html"
+   }, {
+      "id" : "3b5ff4d4",
+      "versionId" : "g535153d1",
+      "eventDate" : "27-09-2025",
+      "lastUpdated" : "2024-12-02T15:52:50.317+0000",
+      "artist" : {
+         "mbid" : "a8c52a88-daa9-4d08-b2a0-4aef45cb1927",
+         "name" : "Nate Bargatze",
+         "sortName" : "Bargatze, Nate",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/nate-bargatze-33f198f9.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Big Dumb Eyes World Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nate-bargatze/2025/madison-square-garden-new-york-ny-3b5ff4d4.html"
+   }, {
+      "id" : "235a081f",
+      "versionId" : "g5b7bc7cc",
+      "eventDate" : "24-09-2025",
+      "lastUpdated" : "2025-09-25T06:48:25.346+0000",
+      "artist" : {
+         "mbid" : "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
+         "name" : "HARDY",
+         "sortName" : "HARDY",
+         "disambiguation" : "country artist Michael Hardy",
+         "url" : "https://www.setlist.fm/setlists/hardy-73c8c26d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Jim Bob World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "JIM BOB"
+            }, {
+               "name" : "KILL SH!T TILL I DIE"
+            }, {
+               "name" : "BOOTS"
+            }, {
+               "name" : "HAPPY HOUR"
+            }, {
+               "name" : "JACK"
+            }, {
+               "name" : "Good Ole Boy",
+               "info" : "Live debut"
+            }, {
+               "name" : "Favorite Country Song"
+            }, {
+               "name" : "REDNECKER"
+            }, {
+               "name" : "ONE BEER"
+            }, {
+               "name" : "Love It If We Made It",
+               "cover" : {
+                  "mbid" : "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
+                  "name" : "The 1975",
+                  "sortName" : "1975, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-1975-6bdf86ea.html"
+               }
+            }, {
+               "name" : "A ROCK",
+               "info" : "dedicated to The Kirk family"
+            }, {
+               "name" : "Father's Søn",
+               "cover" : {
+                  "mbid" : "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
+                  "name" : "Stephen Wilson Jr",
+                  "sortName" : "Wilson, Stephen",
+                  "disambiguation" : "Singer songwriter",
+                  "url" : "https://www.setlist.fm/setlists/stephen-wilson-jr-5bf647dc.html"
+               },
+               "with" : {
+                  "mbid" : "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
+                  "name" : "Stephen Wilson Jr",
+                  "sortName" : "Wilson, Stephen",
+                  "disambiguation" : "Singer songwriter",
+                  "url" : "https://www.setlist.fm/setlists/stephen-wilson-jr-5bf647dc.html"
+               }
+            }, {
+               "name" : "Bottomland"
+            }, {
+               "name" : "wait in the truck",
+               "cover" : {
+                  "mbid" : "735cc50f-4480-44b9-9f2e-6b162e9a440d",
+                  "name" : "HARDY feat. Lainey Wilson",
+                  "sortName" : "HARDY feat. Wilson, Lainey",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hardy-feat-lainey-wilson-3bfdb030.html"
+               }
+            }, {
+               "name" : "UNAPOLOGETICALLY COUNTRY AS HELL"
+            }, {
+               "name" : "GIVE HEAVEN SOME HELL"
+            }, {
+               "name" : "My Sacrifice / One Last Breath",
+               "cover" : {
+                  "mbid" : "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
+                  "name" : "Creed",
+                  "sortName" : "Creed",
+                  "disambiguation" : "US rock band from Tallahassee, FL",
+                  "url" : "https://www.setlist.fm/setlists/creed-3bd6bcc8.html"
+               }
+            }, {
+               "name" : ".30-06"
+            }, {
+               "name" : "PSYCHO"
+            }, {
+               "name" : "TRUCK BED"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "SOLD OUT"
+            }, {
+               "name" : "God's Country",
+               "cover" : {
+                  "mbid" : "2ad66473-ccb3-41d2-8756-b56680cdfe62",
+                  "name" : "Blake Shelton",
+                  "sortName" : "Shelton, Blake",
+                  "disambiguation" : "country music singer",
+                  "url" : "https://www.setlist.fm/setlists/blake-shelton-2bd6bc8e.html"
+               }
+            }, {
+               "name" : "the mockingbird & THE CROW"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hardy/2025/madison-square-garden-new-york-ny-235a081f.html"
+   }, {
+      "id" : "353c96f",
+      "versionId" : "g737856e5",
+      "eventDate" : "21-09-2025",
+      "lastUpdated" : "2025-10-05T05:04:44.887+0000",
+      "artist" : {
+         "mbid" : "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+         "name" : "Dua Lipa",
+         "sortName" : "Lipa, Dua",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dua-lipa-13c41d41.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Radical Optimism Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Training Season"
+            }, {
+               "name" : "End of an Era"
+            }, {
+               "name" : "Break My Heart"
+            }, {
+               "name" : "One Kiss",
+               "cover" : {
+                  "mbid" : "80b8d0f6-8302-46f5-9c74-b869923bf839",
+                  "name" : "Calvin Harris & Dua Lipa",
+                  "sortName" : "Harris, Calvin & Lipa, Dua",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/calvin-harris-and-dua-lipa-3bc8d434.html"
+               }
+            }, {
+               "name" : "Whatcha Doing"
+            }, {
+               "name" : "Levitating"
+            }, {
+               "name" : "These Walls"
+            }, {
+               "name" : "Maria"
+            }, {
+               "name" : "It Ain't Over 'Til It's Over",
+               "cover" : {
+                  "mbid" : "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+                  "name" : "Lenny Kravitz",
+                  "sortName" : "Kravitz, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kravitz-13d6bd91.html"
+               },
+               "with" : {
+                  "mbid" : "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+                  "name" : "Lenny Kravitz",
+                  "sortName" : "Kravitz, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kravitz-13d6bd91.html"
+               }
+            }, {
+               "name" : "Electricity",
+               "cover" : {
+                  "mbid" : "5aa7bad2-1037-44d3-a24a-d355c999d810",
+                  "name" : "Silk City & Dua Lipa",
+                  "sortName" : "Silk City & Lipa, Dua",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silk-city-and-dua-lipa-73c866d1.html"
+               }
+            }, {
+               "name" : "Physical"
+            }, {
+               "name" : "Hallucinate"
+            }, {
+               "name" : "Illusion"
+            }, {
+               "name" : "Falling Forever"
+            }, {
+               "name" : "Happy for You"
+            }, {
+               "name" : "Love Again"
+            }, {
+               "name" : "Anything for Love"
+            }, {
+               "name" : "Be the One"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "New Rules"
+            }, {
+               "name" : "Dance the Night"
+            }, {
+               "name" : "Don't Start Now"
+            }, {
+               "name" : "Houdini"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dua-lipa/2025/madison-square-garden-new-york-ny-353c96f.html"
+   } ]
+}

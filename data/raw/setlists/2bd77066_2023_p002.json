@@ -1,0 +1,1226 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 112,
+   "setlist" : [ {
+      "id" : "3ba1fcf8",
+      "versionId" : "g431b6b03",
+      "eventDate" : "10-11-2023",
+      "lastUpdated" : "2026-06-09T01:47:04.444+0000",
+      "artist" : {
+         "mbid" : "35f343df-3b87-4475-b0e4-d2ba5cc26eea",
+         "name" : "Romeo Santos",
+         "sortName" : "Santos, Romeo",
+         "disambiguation" : "lead vocalist of Aventura",
+         "url" : "https://www.setlist.fm/setlists/romeo-santos-4bd3ebce.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Fórmula, Vol. 3"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "El pañuelo"
+            }, {
+               "name" : "La diabla"
+            }, {
+               "name" : "Eres mía"
+            }, {
+               "name" : "Mar"
+            }, {
+               "name" : "Cancioncitas de amor"
+            }, {
+               "name" : "Odio"
+            }, {
+               "name" : "Sin fin"
+            }, {
+               "name" : "Promise"
+            }, {
+               "name" : "Bebo"
+            }, {
+               "name" : "Imitadora"
+            }, {
+               "name" : "Necio"
+            }, {
+               "name" : "Llévame contigo"
+            }, {
+               "name" : "Sobredosis"
+            }, {
+               "name" : "SIRI"
+            }, {
+               "name" : "Volví",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Quiere beber",
+               "cover" : {
+                  "mbid" : "87a75fc3-59e7-4598-925c-8e230bce5db9",
+                  "name" : "Anuel AA",
+                  "sortName" : "Anuel AA",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anuel-aa-43cf876b.html"
+               }
+            }, {
+               "name" : "El farsante",
+               "cover" : {
+                  "mbid" : "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+                  "name" : "Ozuna",
+                  "sortName" : "Ozuna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ozuna-13dac579.html"
+               }
+            }, {
+               "name" : "X SI VOLVEMOS",
+               "cover" : {
+                  "mbid" : "de22adae-f8ac-414f-b653-b0162611bd60",
+                  "name" : "KAROL G",
+                  "sortName" : "KAROL G",
+                  "disambiguation" : "Colombian singer",
+                  "url" : "https://www.setlist.fm/setlists/karol-g-4bcfd3de.html"
+               }
+            }, {
+               "name" : "Noche de sexo",
+               "cover" : {
+                  "mbid" : "3deeb747-c228-4d33-9892-f0aa081783c3",
+                  "name" : "Wisin & Yandel",
+                  "sortName" : "Wisin & Yandel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wisin-and-yandel-23d69c6f.html"
+               }
+            }, {
+               "name" : "Solo conmigo"
+            }, {
+               "name" : "Hilito"
+            }, {
+               "name" : "Si yo muero"
+            }, {
+               "name" : "Mi Santa"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/romeo-santos/2023/barclays-center-brooklyn-ny-3ba1fcf8.html"
+   }, {
+      "id" : "7ba04a7c",
+      "versionId" : "g5381bf41",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T14:51:58.510+0000",
+      "artist" : {
+         "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+         "name" : "Elton John",
+         "sortName" : "John, Elton",
+         "disambiguation" : "English singer, songwriter, pianist, and composer",
+         "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Honoring Bernie Taupin",
+            "song" : [ {
+               "name" : "Tiny Dancer",
+               "info" : "also inducted Taupin"
+            } ]
+         }, {
+            "name" : "In Memorium tribute",
+            "song" : [ {
+               "name" : "The Weight",
+               "cover" : {
+                  "mbid" : "8c90ad8c-9150-4c51-a1eb-342232e99d06",
+                  "name" : "The Band",
+                  "sortName" : "Band, The",
+                  "disambiguation" : "Canadian-American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-band-3d6ad4b.html"
+               },
+               "info" : "& Sheryl Crow, Brittany Howard & Don Was",
+               "with" : {
+                  "mbid" : "71d58182-aa37-4c04-b21a-efe46ea0f221",
+                  "name" : "Chris Stapleton",
+                  "sortName" : "Stapleton, Chris",
+                  "disambiguation" : "American singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/chris-stapleton-43dcb3a7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elton-john/2023/barclays-center-brooklyn-ny-7ba04a7c.html"
+   }, {
+      "id" : "73a04a71",
+      "versionId" : "g7b804e64",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T01:31:50.682+0000",
+      "artist" : {
+         "mbid" : "a1421d73-1a21-484b-97ad-77c9a5676daf",
+         "name" : "Adam Levine",
+         "sortName" : "Levine, Adam",
+         "disambiguation" : "Maroon 5’s lead vocalist",
+         "url" : "https://www.setlist.fm/setlists/adam-levine-1bd6d1b0.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Faith",
+               "cover" : {
+                  "mbid" : "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+                  "name" : "George Michael",
+                  "sortName" : "Michael, George",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/george-michael-6bd6bef6.html"
+               },
+               "info" : "with Wham's \"Freedom\" intro on keys"
+            } ]
+         } ]
+      },
+      "info" : "Honoring inductee George Michael",
+      "url" : "https://www.setlist.fm/setlist/adam-levine/2023/barclays-center-brooklyn-ny-73a04a71.html"
+   }, {
+      "id" : "6ba04a7a",
+      "versionId" : "g2b81607e",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-11T01:51:46.981+0000",
+      "artist" : {
+         "mbid" : "668fd73c-bf54-4310-a139-305517f05311",
+         "name" : "Willie Nelson",
+         "sortName" : "Nelson, Willie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/willie-nelson-33d6dcc5.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Whiskey River",
+               "cover" : {
+                  "mbid" : "8fff053a-78ab-4c5e-ac4e-bbffa02ef42b",
+                  "name" : "Johnny Bush",
+                  "sortName" : "Bush, Johnny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/johnny-bush-1bd765d4.html"
+               },
+               "info" : "+ Don Was",
+               "with" : {
+                  "mbid" : "71d58182-aa37-4c04-b21a-efe46ea0f221",
+                  "name" : "Chris Stapleton",
+                  "sortName" : "Stapleton, Chris",
+                  "disambiguation" : "American singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/chris-stapleton-43dcb3a7.html"
+               }
+            }, {
+               "name" : "Crazy",
+               "with" : {
+                  "mbid" : "80ccfede-c258-4575-a7ad-c982e9932e0f",
+                  "name" : "Sheryl Crow",
+                  "sortName" : "Crow, Sheryl",
+                  "disambiguation" : "American singer-songwriter and musician",
+                  "url" : "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+               }
+            }, {
+               "name" : "On the Road Again",
+               "info" : "+ Sheryl Crow & Chris Stapleton",
+               "with" : {
+                  "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+                  "name" : "Dave Matthews",
+                  "sortName" : "Matthews, Dave",
+                  "disambiguation" : "of Dave Matthews Band",
+                  "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Inducted by Dave Matthews; backed by members of his touring band",
+      "url" : "https://www.setlist.fm/setlist/willie-nelson/2023/barclays-center-brooklyn-ny-6ba04a7a.html"
+   }, {
+      "id" : "63a04a7b",
+      "versionId" : "g4381bf47",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T14:53:03.632+0000",
+      "artist" : {
+         "mbid" : "900e9144-019d-4043-86cb-ec0e127c39d0",
+         "name" : "Chaka Khan",
+         "sortName" : "Khan, Chaka",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/chaka-khan-1bd6b954.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Feel for You",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               },
+               "with" : {
+                  "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+                  "name" : "Common",
+                  "sortName" : "Common",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+               }
+            }, {
+               "name" : "Ain't Nobody",
+               "cover" : {
+                  "mbid" : "a53a15e1-bd04-48da-b28c-23c58bd00970",
+                  "name" : "Rufus & Chaka Khan",
+                  "sortName" : "Rufus & Khan, Chaka",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rufus-and-chaka-khan-4bdc9b22.html"
+               },
+               "with" : {
+                  "mbid" : "93998e01-ff53-4af7-ba2a-5674adcdf21e",
+                  "name" : "H.E.R.",
+                  "sortName" : "H.E.R.",
+                  "disambiguation" : "US R&B artist",
+                  "url" : "https://www.setlist.fm/setlists/her-bcef116.html"
+               }
+            }, {
+               "name" : "Sweet Thing",
+               "cover" : {
+                  "mbid" : "a53a15e1-bd04-48da-b28c-23c58bd00970",
+                  "name" : "Rufus & Chaka Khan",
+                  "sortName" : "Rufus & Khan, Chaka",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rufus-and-chaka-khan-4bdc9b22.html"
+               },
+               "with" : {
+                  "mbid" : "93998e01-ff53-4af7-ba2a-5674adcdf21e",
+                  "name" : "H.E.R.",
+                  "sortName" : "H.E.R.",
+                  "disambiguation" : "US R&B artist",
+                  "url" : "https://www.setlist.fm/setlists/her-bcef116.html"
+               }
+            }, {
+               "name" : "I'm Every Woman",
+               "with" : {
+                  "mbid" : "2f548675-008d-4332-876c-108b0c7ab9c5",
+                  "name" : "Sia",
+                  "sortName" : "Sia",
+                  "disambiguation" : "Australian singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sia-6bd6e292.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Inducted by Jazmine Sullivan; brought out Tony Maiden from Rufus during her speech",
+      "url" : "https://www.setlist.fm/setlist/chaka-khan/2023/barclays-center-brooklyn-ny-63a04a7b.html"
+   }, {
+      "id" : "63a04a77",
+      "versionId" : "g1b8049c0",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T02:43:45.751+0000",
+      "artist" : {
+         "mbid" : "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+         "name" : "St. Vincent",
+         "sortName" : "Saint Vincent",
+         "disambiguation" : "US guitarist, singer and songwriter Annie Clark",
+         "url" : "https://www.setlist.fm/setlists/st-vincent-13d6a18d.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Running Up That Hill (A Deal With God)",
+               "cover" : {
+                  "mbid" : "4b585938-f271-45e2-b19a-91c634b5e396",
+                  "name" : "Kate Bush",
+                  "sortName" : "Bush, Kate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kate-bush-23d6a4bf.html"
+               },
+               "info" : "vocals only"
+            } ]
+         } ]
+      },
+      "info" : "Honoring Kate Bush, who was inducted by Big Boi",
+      "url" : "https://www.setlist.fm/setlist/st-vincent/2023/barclays-center-brooklyn-ny-63a04a77.html"
+   }, {
+      "id" : "5ba1ab74",
+      "versionId" : "g6b81b6ba",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T20:52:45.309+0000",
+      "artist" : {
+         "mbid" : "519774a4-3b18-4042-b8c0-927845a616c9",
+         "name" : "Jimmy Page",
+         "sortName" : "Page, Jimmy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jimmy-page-33d6e085.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rumble",
+               "cover" : {
+                  "mbid" : "211099c8-8e2b-4e96-aa5c-343939754176",
+                  "name" : "Link Wray & His Raymen",
+                  "sortName" : "Wray, Link & His Raymen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/link-wray-and-his-raymen-73d6fac1.html"
+               },
+               "info" : "+ Tim Givens",
+               "with" : {
+                  "mbid" : "7d9b9240-fcca-42d4-9c71-955746447373",
+                  "name" : "Anton Fig",
+                  "sortName" : "Fig, Anton",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anton-fig-5bd75b38.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Honoring, and inducted, Link Wray; Page’s first live performance since 2014",
+      "url" : "https://www.setlist.fm/setlist/jimmy-page/2023/barclays-center-brooklyn-ny-5ba1ab74.html"
+   }, {
+      "id" : "53a04b85",
+      "versionId" : "g63804a27",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T04:23:10.539+0000",
+      "artist" : {
+         "mbid" : "a0b8cb9e-7532-45fe-a74c-30e7c4009a39",
+         "name" : "Missy Elliott",
+         "sortName" : "Elliott, Missy",
+         "disambiguation" : "American rapper, singer, dancer & record producer",
+         "url" : "https://www.setlist.fm/setlists/missy-elliott-73d68605.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Get Ur Freak On / The Rain (Supa Dupa Fly) / Work It / Pass That Dutch / Lose Control"
+            } ]
+         } ]
+      },
+      "info" : "The first female rap artist to be inducted to the Rock and Roll Hall of Fame; inducted by Queen Latifah",
+      "url" : "https://www.setlist.fm/setlist/missy-elliott/2023/barclays-center-brooklyn-ny-53a04b85.html"
+   }, {
+      "id" : "4ba04b82",
+      "versionId" : "g4381bfd7",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T15:17:13.083+0000",
+      "artist" : {
+         "mbid" : "80ccfede-c258-4575-a7ad-c982e9932e0f",
+         "name" : "Sheryl Crow",
+         "sortName" : "Crow, Sheryl",
+         "disambiguation" : "American singer-songwriter and musician",
+         "url" : "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "If It Makes You Happy",
+               "with" : {
+                  "mbid" : "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+                  "name" : "Olivia Rodrigo",
+                  "sortName" : "Rodrigo, Olivia",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/olivia-rodrigo-bc9194e.html"
+               }
+            }, {
+               "name" : "Strong Enough",
+               "with" : {
+                  "mbid" : "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+                  "name" : "Stevie Nicks",
+                  "sortName" : "Nicks, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-nicks-5bd6d740.html"
+               }
+            }, {
+               "name" : "Everyday Is a Winding Road",
+               "info" : "& Stevie Nicks; with Peter Frampton's \"Do You Feel Like We Do\" guitar snippet at end",
+               "with" : {
+                  "mbid" : "638206ee-0e3d-47cf-9769-d73330b15a87",
+                  "name" : "Peter Frampton",
+                  "sortName" : "Frampton, Peter",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/peter-frampton-43d6bb37.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening performance; inducted by Laura Dern (subbing for Brandi Carlile, who had to cancel due to illness); Crow also performed with Willie Nelson on \"Crazy\" and \"On the Road Again\" during his set; sang The Band's \"The Weight\" during  Elton John's set for the In Memorium tribute",
+      "url" : "https://www.setlist.fm/setlist/sheryl-crow/2023/barclays-center-brooklyn-ny-4ba04b82.html"
+   }, {
+      "id" : "3ba1a8b8",
+      "versionId" : "g4b81bf5a",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T14:47:49.205+0000",
+      "artist" : {
+         "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+         "name" : "Dave Matthews",
+         "sortName" : "Matthews, Dave",
+         "disambiguation" : "of Dave Matthews Band",
+         "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Funny How Time Slips Away",
+               "cover" : {
+                  "mbid" : "668fd73c-bf54-4310-a139-305517f05311",
+                  "name" : "Willie Nelson",
+                  "sortName" : "Nelson, Willie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/willie-nelson-33d6dcc5.html"
+               },
+               "info" : "solo acoustic"
+            } ]
+         } ]
+      },
+      "info" : "Honoring inductee Willie Nelson; gave induction speech; also sang Nelson’s “On the Road Again” with Nelson during his set",
+      "url" : "https://www.setlist.fm/setlist/dave-matthews/2023/barclays-center-brooklyn-ny-3ba1a8b8.html"
+   }, {
+      "id" : "3b730098",
+      "versionId" : "g3b041410",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2026-07-16T23:40:09.483+0000",
+      "artist" : {
+         "mbid" : "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+         "name" : "Olivia Rodrigo",
+         "sortName" : "Rodrigo, Olivia",
+         "disambiguation" : "US singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/olivia-rodrigo-bc9194e.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "If It Makes You Happy",
+               "cover" : {
+                  "mbid" : "80ccfede-c258-4575-a7ad-c982e9932e0f",
+                  "name" : "Sheryl Crow",
+                  "sortName" : "Crow, Sheryl",
+                  "disambiguation" : "American singer-songwriter and musician",
+                  "url" : "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+               },
+               "with" : {
+                  "mbid" : "80ccfede-c258-4575-a7ad-c982e9932e0f",
+                  "name" : "Sheryl Crow",
+                  "sortName" : "Crow, Sheryl",
+                  "disambiguation" : "American singer-songwriter and musician",
+                  "url" : "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/olivia-rodrigo/2023/barclays-center-brooklyn-ny-3b730098.html"
+   }, {
+      "id" : "33a1a8f5",
+      "versionId" : "g6b804e5a",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T01:32:31.116+0000",
+      "artist" : {
+         "mbid" : "285e1285-aecc-478f-a8da-0c8cf69e1217",
+         "name" : "Miguel",
+         "sortName" : "Miguel",
+         "disambiguation" : "US R&B singer",
+         "url" : "https://www.setlist.fm/setlists/miguel-1bd26528.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Careless Whisper",
+               "cover" : {
+                  "mbid" : "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+                  "name" : "George Michael",
+                  "sortName" : "Michael, George",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/george-michael-6bd6bef6.html"
+               },
+               "with" : {
+                  "mbid" : "5c64226c-d673-4d23-a612-2bfb704edd66",
+                  "name" : "Jake Clemons",
+                  "sortName" : "Clemons, Jake",
+                  "disambiguation" : "singer‐songwriter, saxophonist and nephew of Clarence Clemons",
+                  "url" : "https://www.setlist.fm/setlists/jake-clemons-7bd88e70.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Honoring George Michael, who was inducted by Andrew Ridgeley",
+      "url" : "https://www.setlist.fm/setlist/miguel/2023/barclays-center-brooklyn-ny-33a1a8f5.html"
+   }, {
+      "id" : "2ba1a8ea",
+      "versionId" : "g73804e5d",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-04T01:33:35.978+0000",
+      "artist" : {
+         "mbid" : "70f0e309-5418-49b6-a130-666e2f76eecd",
+         "name" : "Carrie Underwood",
+         "sortName" : "Underwood, Carrie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/carrie-underwood-2bd6bc56.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "One More Try",
+               "cover" : {
+                  "mbid" : "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+                  "name" : "George Michael",
+                  "sortName" : "Michael, George",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/george-michael-6bd6bef6.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Honoring inductee George Michael",
+      "url" : "https://www.setlist.fm/setlist/carrie-underwood/2023/barclays-center-brooklyn-ny-2ba1a8ea.html"
+   }, {
+      "id" : "23a1a8e7",
+      "versionId" : "g7b81a6d8",
+      "eventDate" : "03-11-2023",
+      "lastUpdated" : "2023-11-05T08:18:35.528+0000",
+      "artist" : {
+         "mbid" : "b4b94b15-1535-48a4-aa1e-d44e55d75bc5",
+         "name" : "New Edition",
+         "sortName" : "New Edition",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/new-edition-6bd6b622.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'll Be Around",
+               "cover" : {
+                  "mbid" : "fd2b6371-5b61-4068-8baa-9c333c97dfd7",
+                  "name" : "The Spinners",
+                  "sortName" : "Spinners, The",
+                  "disambiguation" : "US R&B/soul group, aka The Detroit Spinners",
+                  "url" : "https://www.setlist.fm/setlists/the-spinners-1bd6b948.html"
+               }
+            }, {
+               "name" : "Could It Be I'm Falling in Love",
+               "cover" : {
+                  "mbid" : "fd2b6371-5b61-4068-8baa-9c333c97dfd7",
+                  "name" : "The Spinners",
+                  "sortName" : "Spinners, The",
+                  "disambiguation" : "US R&B/soul group, aka The Detroit Spinners",
+                  "url" : "https://www.setlist.fm/setlists/the-spinners-1bd6b948.html"
+               }
+            }, {
+               "name" : "The Rubberband Man",
+               "cover" : {
+                  "mbid" : "fd2b6371-5b61-4068-8baa-9c333c97dfd7",
+                  "name" : "The Spinners",
+                  "sortName" : "Spinners, The",
+                  "disambiguation" : "US R&B/soul group, aka The Detroit Spinners",
+                  "url" : "https://www.setlist.fm/setlists/the-spinners-1bd6b948.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Honoring inductees The Spinners; New Edition: Ricky Bell, Michael Bivins, Bobby Brown, Ronnie DeVoe, Johnny Gill & Ralph Tresvant",
+      "url" : "https://www.setlist.fm/setlist/new-edition/2023/barclays-center-brooklyn-ny-23a1a8e7.html"
+   }, {
+      "id" : "2ba06cf2",
+      "versionId" : "g1b80956c",
+      "eventDate" : "28-10-2023",
+      "lastUpdated" : "2023-10-29T13:36:28.457+0000",
+      "artist" : {
+         "mbid" : "35f866dc-c061-48ba-8157-cf2e0eac4857",
+         "name" : "Enrique Iglesias",
+         "sortName" : "Iglesias, Enrique",
+         "disambiguation" : "Spanish pop singer",
+         "url" : "https://www.setlist.fm/setlists/enrique-iglesias-7bd62e44.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/enrique-iglesias/2023/barclays-center-brooklyn-ny-2ba06cf2.html"
+   }, {
+      "id" : "23a06cff",
+      "versionId" : "g13809569",
+      "eventDate" : "28-10-2023",
+      "lastUpdated" : "2023-10-29T13:35:12.627+0000",
+      "artist" : {
+         "mbid" : "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
+         "name" : "Ricky Martin",
+         "sortName" : "Martin, Ricky",
+         "disambiguation" : "Puerto Rican singer, actor, author & king of Latin pop",
+         "url" : "https://www.setlist.fm/setlists/ricky-martin-4bd6ffbe.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ricky-martin/2023/barclays-center-brooklyn-ny-23a06cff.html"
+   }, {
+      "id" : "23a06cf3",
+      "versionId" : "g1380956d",
+      "eventDate" : "28-10-2023",
+      "lastUpdated" : "2023-10-29T13:36:03.407+0000",
+      "artist" : {
+         "mbid" : "d262ea27-3ffe-40f7-b922-85c42d625e67",
+         "name" : "Pitbull",
+         "sortName" : "Pitbull",
+         "disambiguation" : "American rapper",
+         "url" : "https://www.setlist.fm/setlists/pitbull-6bd6dab6.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pitbull/2023/barclays-center-brooklyn-ny-23a06cf3.html"
+   }, {
+      "id" : "3a0259b",
+      "versionId" : "g13b925e5",
+      "eventDate" : "27-10-2023",
+      "lastUpdated" : "2024-06-06T17:20:51.333+0000",
+      "artist" : {
+         "mbid" : "8264722b-df00-467a-858e-5c97cda169c9",
+         "name" : "Joji",
+         "sortName" : "Joji",
+         "disambiguation" : "Japanese‐Australian singer‐songwriter, rapper",
+         "url" : "https://www.setlist.fm/setlists/joji-53c1877d.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Pandemonium Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sanctuary"
+            }, {
+               "name" : "YEAH RIGHT"
+            }, {
+               "name" : "NIGHT RIDER"
+            }, {
+               "name" : "Will He"
+            }, {
+               "name" : "Daylight"
+            }, {
+               "name" : "YUKON (INTERLUDE)"
+            }, {
+               "name" : "Pretty Boy"
+            }, {
+               "name" : "worldstar money (interlude)"
+            }, {
+               "name" : "I Don't Wanna Waste My Time"
+            }, {
+               "name" : "ATTENTION"
+            }, {
+               "name" : "Ew"
+            }, {
+               "name" : "Die for You"
+            }, {
+               "name" : "Like You Do"
+            }, {
+               "name" : "Afterthought"
+            }, {
+               "name" : "CAN'T GET OVER YOU"
+            }, {
+               "name" : "Plastic Taste"
+            }, {
+               "name" : "Gimme Love"
+            }, {
+               "name" : "SLOW DANCING IN THE DARK"
+            }, {
+               "name" : "Glimpse of Us"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joji/2023/barclays-center-brooklyn-ny-3a0259b.html"
+   }, {
+      "id" : "3ba0f47c",
+      "versionId" : "g2b83a01a",
+      "eventDate" : "21-10-2023",
+      "lastUpdated" : "2023-10-22T00:27:15.777+0000",
+      "artist" : {
+         "mbid" : "b5ff61dd-0154-4e80-b46b-c733f87db602",
+         "name" : "DIIV",
+         "sortName" : "DIIV",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/diiv-1bde9110.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Like Before You Were Born"
+            }, {
+               "name" : "Under the Sun"
+            }, {
+               "name" : "Between Tides"
+            }, {
+               "name" : "Doused"
+            }, {
+               "name" : "Take Your Time"
+            }, {
+               "name" : "Taker"
+            }, {
+               "name" : "Blankenship"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Depeche Mode",
+      "url" : "https://www.setlist.fm/setlist/diiv/2023/barclays-center-brooklyn-ny-3ba0f47c.html"
+   }, {
+      "id" : "13a0f585",
+      "versionId" : "g43b6af2b",
+      "eventDate" : "21-10-2023",
+      "lastUpdated" : "2024-01-27T23:34:06.023+0000",
+      "artist" : {
+         "mbid" : "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+         "name" : "Depeche Mode",
+         "sortName" : "Depeche Mode",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/depeche-mode-73d6b235.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Memento Mori"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "info" : "instrumental outro"
+            }, {
+               "name" : "My Cosmos Is Mine"
+            }, {
+               "name" : "Wagging Tongue"
+            }, {
+               "name" : "Walking in My Shoes"
+            }, {
+               "name" : "It's No Good"
+            }, {
+               "name" : "Policy of Truth",
+               "info" : "tour debut and first time since 2018"
+            }, {
+               "name" : "In Your Room",
+               "info" : "Zephyr Mix"
+            }, {
+               "name" : "Everything Counts"
+            }, {
+               "name" : "Precious"
+            }, {
+               "name" : "My Favourite Stranger"
+            }, {
+               "name" : "Home"
+            }, {
+               "name" : "Strangelove",
+               "info" : "acoustic, sung by Martin"
+            }, {
+               "name" : "Ghosts Again"
+            }, {
+               "name" : "I Feel You"
+            }, {
+               "name" : "A Pain That I'm Used To",
+               "info" : "Jacques Lu Cont Remix"
+            }, {
+               "name" : "World in My Eyes",
+               "info" : "Dedicated to Andrew Fletcher"
+            }, {
+               "name" : "Black Celebration",
+               "info" : "tour debut and first time since 2017"
+            }, {
+               "name" : "Stripped"
+            }, {
+               "name" : "John the Revelator"
+            }, {
+               "name" : "Enjoy the Silence"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Waiting for the Night",
+               "info" : "Peter and Christian on keyboards"
+            }, {
+               "name" : "Just Can't Get Enough"
+            }, {
+               "name" : "Never Let Me Down Again"
+            }, {
+               "name" : "Personal Jesus"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/depeche-mode/2023/barclays-center-brooklyn-ny-13a0f585.html"
+   } ]
+}

@@ -1,0 +1,1164 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 72,
+   "setlist" : [ {
+      "id" : "334ed421",
+      "versionId" : "g3b087cec",
+      "eventDate" : "16-10-2025",
+      "lastUpdated" : "2026-10-11T16:32:15.633+0000",
+      "artist" : {
+         "mbid" : "4f52595e-652d-4894-95ea-f925234629fc",
+         "name" : "MJ Lenderman",
+         "sortName" : "Lenderman, MJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mj-lenderman-13f179ad.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Manning Fireworks"
+            }, {
+               "name" : "Dancing in the Club",
+               "cover" : {
+                  "mbid" : "a2d140d8-ae17-4d72-b680-b89c77f1ed52",
+                  "name" : "This Is Lorelei",
+                  "sortName" : "This Is Lorelei",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/this-is-lorelei-7bcc12c0.html"
+               }
+            }, {
+               "name" : "Rudolph",
+               "info" : ">"
+            }, {
+               "name" : "Toontown"
+            }, {
+               "name" : "Sacrifice (For Love)",
+               "cover" : {
+                  "mbid" : "275a4de2-cdc4-445b-b17a-501b0f75e460",
+                  "name" : "Greg Sage",
+                  "sortName" : "Sage, Greg",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/greg-sage-63d6ea7f.html"
+               }
+            }, {
+               "name" : "Pick Up The Pieces"
+            }, {
+               "name" : "Joker Lips"
+            }, {
+               "name" : "Wristwatch"
+            }, {
+               "name" : "Rip Torn"
+            }, {
+               "name" : "I Ate Too Much at the Fair"
+            }, {
+               "name" : "On My Knees"
+            }, {
+               "name" : "Bark at the Moon"
+            }, {
+               "name" : "You Don't Know the Shape I'm In"
+            }, {
+               "name" : "She's Leaving You"
+            }, {
+               "name" : "Left Your Smile"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Knockin'"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mj-lenderman/2025/kings-theatre-brooklyn-ny-334ed421.html"
+   }, {
+      "id" : "134ed5ed",
+      "versionId" : "g4366e307",
+      "eventDate" : "16-10-2025",
+      "lastUpdated" : "2025-10-17T00:55:41.613+0000",
+      "artist" : {
+         "mbid" : "9bd720ab-3aec-4ab0-b363-3a465ee65026",
+         "name" : "Annie DiRusso",
+         "sortName" : "DiRusso, Annie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/annie-dirusso-2bff9462.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/annie-dirusso/2025/kings-theatre-brooklyn-ny-134ed5ed.html"
+   }, {
+      "id" : "4b42c30e",
+      "versionId" : "g1b7929d8",
+      "eventDate" : "09-10-2025",
+      "lastUpdated" : "2025-10-10T16:09:08.367+0000",
+      "artist" : {
+         "mbid" : "7df4c4de-3181-4a69-bd36-9d663970cebb",
+         "name" : "Alex G",
+         "sortName" : "G, Alex",
+         "disambiguation" : "American indie singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/alex-g-13d8c919.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "2025 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Louisiana"
+            }, {
+               "name" : "Gretel"
+            }, {
+               "name" : "June Guitar"
+            }, {
+               "name" : "Runner"
+            }, {
+               "name" : "Real Thing"
+            }, {
+               "name" : "Beam Me Up"
+            }, {
+               "name" : "Afterlife"
+            }, {
+               "name" : "Oranges"
+            }, {
+               "name" : "Bug"
+            }, {
+               "name" : "Kicker"
+            }, {
+               "name" : "Halloween Theme - Main Title",
+               "cover" : {
+                  "mbid" : "06d3fe7f-b5c7-4af9-a96b-5a41675e29ce",
+                  "name" : "John Carpenter",
+                  "sortName" : "Carpenter, John",
+                  "disambiguation" : "filmmaker & composer",
+                  "url" : "https://www.setlist.fm/setlists/john-carpenter-3bd6f068.html"
+               },
+               "info" : "“Spooky spooky Halloween” intro"
+            }, {
+               "name" : "Brick"
+            }, {
+               "name" : "Horse"
+            }, {
+               "name" : "Blessing"
+            }, {
+               "name" : "Immunity"
+            }, {
+               "name" : "Logan Hotel"
+            }, {
+               "name" : "Is It Still You in There?",
+               "info" : "Instrumental"
+            }, {
+               "name" : "Bounce Boy"
+            }, {
+               "name" : "Spinning"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Headlights",
+               "info" : "Preceded by Alex’s band intros"
+            }, {
+               "name" : "Heaven",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "98fe243c-3685-4491-8135-edc713963be4",
+                  "name" : "Los Lonely Boys",
+                  "sortName" : "Lonely Boys, Los",
+                  "disambiguation" : "American chicano rock power trio",
+                  "url" : "https://www.setlist.fm/setlists/los-lonely-boys-1bd649ac.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Far and Wide"
+            }, {
+               "name" : "Ain't It Easy"
+            }, {
+               "name" : "Proud"
+            }, {
+               "name" : "Southern Sky"
+            }, {
+               "name" : "Hope"
+            }, {
+               "name" : "SugarHouse",
+               "info" : "Preceded by Sam’s crew intros"
+            }, {
+               "name" : "Life Is a Highway",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "825a918f-09fa-40ee-9c27-b0921d48bdbb",
+                  "name" : "Tom Cochrane",
+                  "sortName" : "Cochrane, Tom",
+                  "disambiguation" : "of Red Rider",
+                  "url" : "https://www.setlist.fm/setlists/tom-cochrane-1bd7898c.html"
+               },
+               "info" : "Rascal Flatts"
+            } ]
+         } ]
+      },
+      "info" : "\"Kute\" was on printed setlist and not played; \"Forever\" was swapped in instead",
+      "url" : "https://www.setlist.fm/setlist/alex-g/2025/kings-theatre-brooklyn-ny-4b42c30e.html"
+   }, {
+      "id" : "4b42c302",
+      "versionId" : "g2373d8d7",
+      "eventDate" : "09-10-2025",
+      "lastUpdated" : "2025-07-23T00:18:48.181+0000",
+      "artist" : {
+         "mbid" : "4173ee0d-e003-496a-98eb-a2eaa90cb3f7",
+         "name" : "Nilüfer Yanya",
+         "sortName" : "Yanya, Nilüfer",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nilufer-yanya-43c6c35f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nilufer-yanya/2025/kings-theatre-brooklyn-ny-4b42c302.html"
+   }, {
+      "id" : "b7231f6",
+      "versionId" : "gb197d1a",
+      "eventDate" : "05-10-2025",
+      "lastUpdated" : "2026-06-24T04:28:44.052+0000",
+      "artist" : {
+         "mbid" : "09483b00-d107-4cc4-8db1-b4cab7fbff89",
+         "name" : "Avatar the Last Airbender in Concert",
+         "sortName" : "Avatar In Concert",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/avatar-the-last-airbender-in-concert-3be2c838.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/avatar-the-last-airbender-in-concert/2025/kings-theatre-brooklyn-ny-b7231f6.html"
+   }, {
+      "id" : "33456ce1",
+      "versionId" : "g4375174b",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-07-10T01:54:54.946+0000",
+      "artist" : {
+         "mbid" : "a690d479-091c-4c4c-aa5c-7d1d512316c6",
+         "name" : "Yola",
+         "sortName" : "Yola",
+         "disambiguation" : "performance name of UK vocalist Yolanda Quartey",
+         "url" : "https://www.setlist.fm/setlists/yola-4bda6bee.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yola/2025/kings-theatre-brooklyn-ny-33456ce1.html"
+   }, {
+      "id" : "2b456ce2",
+      "versionId" : "g43751757",
+      "eventDate" : "28-09-2025",
+      "lastUpdated" : "2025-07-10T01:54:04.488+0000",
+      "artist" : {
+         "mbid" : "d252cca8-8214-43e5-b81a-101eb4a1447e",
+         "name" : "Maxwell",
+         "sortName" : "Maxwell",
+         "disambiguation" : "US soul/R&B singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/maxwell-23d69c17.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Serenade Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maxwell/2025/kings-theatre-brooklyn-ny-2b456ce2.html"
+   }, {
+      "id" : "5b41d3f4",
+      "versionId" : "g737b2e79",
+      "eventDate" : "25-09-2025",
+      "lastUpdated" : "2025-09-26T03:53:11.757+0000",
+      "artist" : {
+         "mbid" : "65041e06-83d2-4987-ae52-c17a915fc82a",
+         "name" : "Spiritualized",
+         "sortName" : "Spiritualized",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/spiritualized-3bd694d0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Medication"
+            }, {
+               "name" : "The Slide Song"
+            }, {
+               "name" : "Electric Phase"
+            }, {
+               "name" : "All of My Tears"
+            }, {
+               "name" : "These Blues"
+            }, {
+               "name" : "Let It Flow"
+            }, {
+               "name" : "Take Good Care of It"
+            }, {
+               "name" : "Born, Never Asked",
+               "cover" : {
+                  "mbid" : "86809b51-cbe2-45f1-804a-e66eed635dea",
+                  "name" : "Laurie Anderson",
+                  "sortName" : "Anderson, Laurie",
+                  "disambiguation" : "experimental/art rock musician",
+                  "url" : "https://www.setlist.fm/setlists/laurie-anderson-6bd6eef2.html"
+               }
+            }, {
+               "name" : "Electric Mainline"
+            }, {
+               "name" : "Lay Back in the Sun"
+            }, {
+               "name" : "Good Times"
+            }, {
+               "name" : "Pure Phase"
+            }, {
+               "name" : "Spread Your Wings"
+            }, {
+               "name" : "Feel Like Goin’ Home"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cop Shoot Cop..."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/spiritualized/2025/kings-theatre-brooklyn-ny-5b41d3f4.html"
+   }, {
+      "id" : "5359d765",
+      "versionId" : "g4b418fea",
+      "eventDate" : "23-09-2025",
+      "lastUpdated" : "2025-04-08T19:00:43.911+0000",
+      "artist" : {
+         "mbid" : "82b922a4-410d-4b89-ac2e-c0d1f00136cd",
+         "name" : "Hermanos Gutiérrez",
+         "sortName" : "Hermanos Gutiérrez",
+         "disambiguation" : "Two-piece band formed of the brothers Alejandro and Stephan Gutiérrez",
+         "url" : "https://www.setlist.fm/setlists/hermanos-gutierrez-53f2e305.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "US Fall Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hermanos-gutierrez/2025/kings-theatre-brooklyn-ny-5359d765.html"
+   }, {
+      "id" : "2b7c5c56",
+      "versionId" : "g133621e9",
+      "eventDate" : "20-09-2025",
+      "lastUpdated" : "2026-10-25T22:57:09.756+0000",
+      "artist" : {
+         "mbid" : "660e2aea-eed4-4699-9496-c96155ea31b3",
+         "name" : "Marcin Przybyłowicz feat. Percival Schuttenbach",
+         "sortName" : "Przybyłowicz, Marcin feat. Percival Schuttenbach",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/marcin-przybyowicz-feat-percival-schuttenbach-1bf5c960.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/marcin-przybyowicz-feat-percival-schuttenbach/2025/kings-theatre-brooklyn-ny-2b7c5c56.html"
+   }, {
+      "id" : "234b500b",
+      "versionId" : "g4b69871e",
+      "eventDate" : "16-09-2025",
+      "lastUpdated" : "2026-02-19T00:09:47.873+0000",
+      "artist" : {
+         "mbid" : "5ace9b0c-cc21-4d8f-8e08-a70234439f2a",
+         "name" : "Jon Bon Jovi",
+         "sortName" : "Bon Jovi, Jon",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jon-bon-jovi-23d6b803.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jon-bon-jovi/2025/kings-theatre-brooklyn-ny-234b500b.html"
+   }, {
+      "id" : "335930d1",
+      "versionId" : "g337af4e5",
+      "eventDate" : "12-09-2025",
+      "lastUpdated" : "2025-09-16T04:46:15.445+0000",
+      "artist" : {
+         "mbid" : "f319b57a-a494-40f6-a467-3d196d3484e6",
+         "name" : "Sparks",
+         "sortName" : "Sparks",
+         "disambiguation" : "US rock and pop duo, The Mael Brothers",
+         "url" : "https://www.setlist.fm/setlists/sparks-bd681b2.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "MAD!"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "So May We Start"
+            }, {
+               "name" : "Do Things My Own Way"
+            }, {
+               "name" : "Reinforcements"
+            }, {
+               "name" : "Academy Award Performance"
+            }, {
+               "name" : "Goofing Off"
+            }, {
+               "name" : "Beat the Clock"
+            }, {
+               "name" : "Please Don’t Fuck Up My World"
+            }, {
+               "name" : "Running Up a Tab at the Hotel for the Fab"
+            }, {
+               "name" : "Suburban Homeboy"
+            }, {
+               "name" : "All You Ever Think About Is Sex"
+            }, {
+               "name" : "Drowned in a Sea of Tears"
+            }, {
+               "name" : "JanSport Backpack"
+            }, {
+               "name" : "Music That You Can Dance To"
+            }, {
+               "name" : "When Do I Get to Sing \"My Way\""
+            }, {
+               "name" : "The Number One Song in Heaven"
+            }, {
+               "name" : "This Town Ain't Big Enough for Both of Us"
+            }, {
+               "name" : "Whippings and Apologies"
+            }, {
+               "name" : "Lord Have Mercy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Girl Is Crying in Her Latte"
+            }, {
+               "name" : "All That"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sparks/2025/kings-theatre-brooklyn-ny-335930d1.html"
+   }, {
+      "id" : "7359ce45",
+      "versionId" : "gb41f58a",
+      "eventDate" : "10-09-2025",
+      "lastUpdated" : "2025-04-09T14:03:49.925+0000",
+      "artist" : {
+         "mbid" : "996467b9-8386-4f9b-a60d-8effa249bfe9",
+         "name" : "9Million",
+         "sortName" : "9Million",
+         "disambiguation" : "shoegaze band from Toronto",
+         "url" : "https://www.setlist.fm/setlists/9million-33fcd865.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/9million/2025/kings-theatre-brooklyn-ny-7359ce45.html"
+   }, {
+      "id" : "535813b1",
+      "versionId" : "g537d1bad",
+      "eventDate" : "10-09-2025",
+      "lastUpdated" : "2025-09-11T03:19:08.747+0000",
+      "artist" : {
+         "mbid" : "677e31f1-4035-463c-8ca4-41175440c919",
+         "name" : "Ethel Cain",
+         "sortName" : "Cain, Ethel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ethel-cain-23f2fcbb.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Willoughby Tucker Forever Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Willoughby’s Theme"
+            }, {
+               "name" : "Janie"
+            }, {
+               "name" : "Fuck Me Eyes"
+            }, {
+               "name" : "Nettles"
+            }, {
+               "name" : "Willoughby’s Interlude"
+            }, {
+               "name" : "Dust Bowl"
+            }, {
+               "name" : "Vacillator"
+            }, {
+               "name" : "Onanist"
+            }, {
+               "name" : "Misuse Oh"
+            }, {
+               "name" : "Radio Towers"
+            }, {
+               "name" : "Tempest"
+            }, {
+               "name" : "Waco, Texas",
+               "info" : "Ended with snippet of House in Nebraska"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Thoroughfare"
+            }, {
+               "name" : "Crush"
+            }, {
+               "name" : "American Teenager"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ethel-cain/2025/kings-theatre-brooklyn-ny-535813b1.html"
+   }, {
+      "id" : "b405dde",
+      "versionId" : "g637a8adb",
+      "eventDate" : "09-09-2025",
+      "lastUpdated" : "2025-09-15T13:54:02.769+0000",
+      "artist" : {
+         "mbid" : "063b9c01-f4d6-40de-8f90-9b277535d310",
+         "name" : "The Beat starring Dave Wakeling",
+         "sortName" : "Beat starring Dave Wakeling, The",
+         "disambiguation" : "one of two current versions of The Beat / The English Beat",
+         "url" : "https://www.setlist.fm/setlists/the-beat-starring-dave-wakeling-7bca22a8.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rough Rider",
+               "cover" : {
+                  "mbid" : "a1d32e75-2391-4d94-904e-13536304dcf6",
+                  "name" : "Prince Buster",
+                  "sortName" : "Prince Buster",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/prince-buster-73d63a29.html"
+               }
+            }, {
+               "name" : "Twist & Crawl",
+               "cover" : {
+                  "mbid" : "9727e632-c228-47f8-a7ae-398df94f00c7",
+                  "name" : "The Beat",
+                  "sortName" : "Beat, The",
+                  "disambiguation" : "UK ska band aka The English Beat",
+                  "url" : "https://www.setlist.fm/setlists/the-beat-33d6c0dd.html"
+               }
+            }, {
+               "name" : "I'll Take You There",
+               "cover" : {
+                  "mbid" : "3d49e36a-cc9e-411e-93c6-d1646ba5bd3a",
+                  "name" : "The Staple Singers",
+                  "sortName" : "Staple Singers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-staple-singers-23d6b823.html"
+               }
+            }, {
+               "name" : "Tenderness",
+               "cover" : {
+                  "mbid" : "aaf54938-7e35-4c7d-8e06-a5094c38cb78",
+                  "name" : "General Public",
+                  "sortName" : "General Public",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/general-public-5bd653ec.html"
+               }
+            }, {
+               "name" : "Save It for Later",
+               "cover" : {
+                  "mbid" : "9727e632-c228-47f8-a7ae-398df94f00c7",
+                  "name" : "The Beat",
+                  "sortName" : "Beat, The",
+                  "disambiguation" : "UK ska band aka The English Beat",
+                  "url" : "https://www.setlist.fm/setlists/the-beat-33d6c0dd.html"
+               }
+            }, {
+               "name" : "Ranking Full Stop",
+               "cover" : {
+                  "mbid" : "9727e632-c228-47f8-a7ae-398df94f00c7",
+                  "name" : "The Beat",
+                  "sortName" : "Beat, The",
+                  "disambiguation" : "UK ska band aka The English Beat",
+                  "url" : "https://www.setlist.fm/setlists/the-beat-33d6c0dd.html"
+               }
+            }, {
+               "name" : "Mirror in the Bathroom",
+               "cover" : {
+                  "mbid" : "9727e632-c228-47f8-a7ae-398df94f00c7",
+                  "name" : "The Beat",
+                  "sortName" : "Beat, The",
+                  "disambiguation" : "UK ska band aka The English Beat",
+                  "url" : "https://www.setlist.fm/setlists/the-beat-33d6c0dd.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opened for UB40",
+      "url" : "https://www.setlist.fm/setlist/the-beat-starring-dave-wakeling/2025/kings-theatre-brooklyn-ny-b405dde.html"
+   }, {
+      "id" : "359951b",
+      "versionId" : "g5b4037e4",
+      "eventDate" : "09-09-2025",
+      "lastUpdated" : "2025-04-03T19:28:05.668+0000",
+      "artist" : {
+         "mbid" : "7113aab7-628f-4050-ae49-dbecac110ca8",
+         "name" : "UB40",
+         "sortName" : "UB40",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ub40-4bd6ffa2.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Relentless"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ub40/2025/kings-theatre-brooklyn-ny-359951b.html"
+   }, {
+      "id" : "340f133",
+      "versionId" : "g737cf2fd",
+      "eventDate" : "29-08-2025",
+      "lastUpdated" : "2025-08-30T05:14:02.472+0000",
+      "artist" : {
+         "mbid" : "3943ae31-40b4-4de5-a4d6-819d9f3de72e",
+         "name" : "Michael Learns to Rock",
+         "sortName" : "Michael Learns to Rock",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/michael-learns-to-rock-63d6be1f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Someday"
+            }, {
+               "name" : "Sleeping Child"
+            }, {
+               "name" : "Complicated Heart"
+            }, {
+               "name" : "I Still Carry On"
+            }, {
+               "name" : "Blue Night"
+            }, {
+               "name" : "It's Gonna Make Sense"
+            }, {
+               "name" : "I'm Gonna Be Around"
+            }, {
+               "name" : "Out of the Blue"
+            }, {
+               "name" : "Nothing to Lose"
+            }, {
+               "name" : "25 Minutes"
+            }, {
+               "name" : "The Actor"
+            }, {
+               "name" : "Love Will Never Lie"
+            }, {
+               "name" : "Breaking My Heart"
+            }, {
+               "name" : "Wild Women"
+            }, {
+               "name" : "You Took My Heart Away"
+            }, {
+               "name" : "Paint My Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Take Me to Your Heart"
+            }, {
+               "name" : "That's Why (You Go Away)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michael-learns-to-rock/2025/kings-theatre-brooklyn-ny-340f133.html"
+   }, {
+      "id" : "b42090a",
+      "versionId" : "g4b7357b2",
+      "eventDate" : "26-07-2025",
+      "lastUpdated" : "2025-07-27T00:33:25.413+0000",
+      "artist" : {
+         "mbid" : "f4125406-e8cc-4fc0-b9ee-6e704638a3f0",
+         "name" : "Keenan O'Meara",
+         "sortName" : "O'Meara, Keenan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/keenan-omeara-5bc42348.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/keenan-omeara/2025/kings-theatre-brooklyn-ny-b42090a.html"
+   }, {
+      "id" : "335a7885",
+      "versionId" : "g3370ec09",
+      "eventDate" : "26-07-2025",
+      "lastUpdated" : "2025-07-29T20:40:47.636+0000",
+      "artist" : {
+         "mbid" : "ef70d917-ac0e-4b06-a5f6-10cb6ca21aad",
+         "name" : "The Swell Season",
+         "sortName" : "Swell Season, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-swell-season-53d64359.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Low Rising"
+            }, {
+               "name" : "Lies"
+            }, {
+               "name" : "People We Used to Be"
+            }, {
+               "name" : "Factory Street Bells"
+            }, {
+               "name" : "When Your Mind's Made Up"
+            }, {
+               "name" : "Pretty Stories"
+            }, {
+               "name" : "The Moon"
+            }, {
+               "name" : "Back Broke"
+            }, {
+               "name" : "A Little Sugar"
+            }, {
+               "name" : "Stuck in Reverse"
+            }, {
+               "name" : "I Leave Everything to You"
+            }, {
+               "name" : "Great Weight"
+            }, {
+               "name" : "If You Want Me",
+               "info" : "Joined by three actor/singers who portrayed \"Girl\" in the musical Once"
+            }, {
+               "name" : "Fitzcarraldo",
+               "cover" : {
+                  "mbid" : "c2f28620-9372-4af4-b961-cc4b9e44d60d",
+                  "name" : "The Frames",
+                  "sortName" : "Frames, The",
+                  "disambiguation" : "Irish rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-frames-7bd65ac0.html"
+               }
+            }, {
+               "name" : "Hundred Words"
+            }, {
+               "name" : "This Gift",
+               "cover" : {
+                  "mbid" : "57f89cad-d2ef-48df-9119-8287b106716a",
+                  "name" : "Glen Hansard",
+                  "sortName" : "Hansard, Glen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+               }
+            }, {
+               "name" : "Falling Slowly"
+            }, {
+               "name" : "Say It to Me Now / Gold"
+            }, {
+               "name" : "Her Mercy",
+               "cover" : {
+                  "mbid" : "57f89cad-d2ef-48df-9119-8287b106716a",
+                  "name" : "Glen Hansard",
+                  "sortName" : "Hansard, Glen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-swell-season/2025/kings-theatre-brooklyn-ny-335a7885.html"
+   }, {
+      "id" : "3353f42d",
+      "versionId" : "g3b74ccb4",
+      "eventDate" : "28-06-2025",
+      "lastUpdated" : "2025-07-01T17:21:30.829+0000",
+      "artist" : {
+         "mbid" : "e684ed8b-bced-4e0f-bdfa-462861891409",
+         "name" : "The Wiggles",
+         "sortName" : "Wiggles, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-wiggles-53d7aff1.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Bouncing Balls"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-wiggles/2025/kings-theatre-brooklyn-ny-3353f42d.html"
+   } ]
+}

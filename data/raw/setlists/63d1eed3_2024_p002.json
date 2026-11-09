@@ -1,0 +1,47 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 21,
+   "setlist" : [ {
+      "id" : "3b5590a4",
+      "versionId" : "g13a141f9",
+      "eventDate" : "28-06-2024",
+      "lastUpdated" : "2024-08-01T01:30:16.846+0000",
+      "artist" : {
+         "mbid" : "2d0603c0-7c18-47f3-a355-b8708fbe8251",
+         "name" : "Candelita",
+         "sortName" : "Candelita",
+         "disambiguation" : "José Antonio Iglesias Alemán",
+         "url" : "https://www.setlist.fm/setlists/candelita-3e2bd4f.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "OMG",
+               "info" : "Live debut"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/candelita/2024/citi-field-queens-ny-3b5590a4.html"
+   } ]
+}

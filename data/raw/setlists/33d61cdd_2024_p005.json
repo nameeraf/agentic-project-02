@@ -1,0 +1,1230 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 290,
+   "setlist" : [ {
+      "id" : "3568d63",
+      "versionId" : "g7b739678",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2025-07-21T03:59:02.679+0000",
+      "artist" : {
+         "mbid" : "81b38118-c135-4ac4-8334-c57a2455b798",
+         "name" : "Sierra Hull",
+         "sortName" : "Hull, Sierra",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sierra-hull-5bd707ac.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Tip Toe High Wire Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "How Long"
+            }, {
+               "name" : "Boom"
+            }, {
+               "name" : "Bluegrass Concerto, Movement 3, \"Pray\""
+            }, {
+               "name" : "Beautifully Out of Place"
+            }, {
+               "name" : "Poison"
+            }, {
+               "name" : "The Last Minute"
+            }, {
+               "name" : "What Do You Say?"
+            }, {
+               "name" : "Bombshell"
+            }, {
+               "name" : "Redbird"
+            }, {
+               "name" : "Best Buy"
+            }, {
+               "name" : "Black River"
+            }, {
+               "name" : "Old Dangerfield",
+               "cover" : {
+                  "mbid" : "2a2be593-6984-4640-8cf1-717ec7a6e18b",
+                  "name" : "Bill Monroe",
+                  "sortName" : "Monroe, Bill",
+                  "disambiguation" : "“The Father of Bluegrass”",
+                  "url" : "https://www.setlist.fm/setlists/bill-monroe-7bd6ae48.html"
+               }
+            }, {
+               "name" : "Middle of the Woods"
+            }, {
+               "name" : "Black Muddy River",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "Stomping Grounds",
+               "cover" : {
+                  "mbid" : "830dce6f-c9ff-4ebe-944b-2ea2ab22fcdf",
+                  "name" : "Béla Fleck and the Flecktones",
+                  "sortName" : "Fleck, Béla and the Flecktones",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bela-fleck-and-the-flecktones-6bd6424a.html"
+               }
+            }, {
+               "name" : "Come Out of My Blues"
+            }, {
+               "name" : "Lord, That's a Long Way"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mad World",
+               "cover" : {
+                  "mbid" : "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+                  "name" : "Tears for Fears",
+                  "sortName" : "Tears for Fears",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tears-for-fears-63d6ba37.html"
+               }
+            }, {
+               "name" : "Muddy Water",
+               "info" : "With Stephanie Lambring"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sierra-hull/2024/bowery-ballroom-new-york-ny-3568d63.html"
+   }, {
+      "id" : "2b5310ce",
+      "versionId" : "g13458dcd",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2025-03-05T11:20:15.715+0000",
+      "artist" : {
+         "mbid" : "36617282-4216-49b5-b18b-f695da6816c3",
+         "name" : "Stephanie Lambring",
+         "sortName" : "Lambring, Stephanie",
+         "disambiguation" : "American singer songwriter",
+         "url" : "https://www.setlist.fm/setlists/stephanie-lambring-1bd261c4.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Little White Lie"
+            }, {
+               "name" : "Daddy's Disappointment"
+            }, {
+               "name" : "Good Mother"
+            }, {
+               "name" : "Fine"
+            }, {
+               "name" : "Hospital Parking"
+            }, {
+               "name" : "Two-Faced"
+            }, {
+               "name" : "Jasper"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/stephanie-lambring/2024/bowery-ballroom-new-york-ny-2b5310ce.html"
+   }, {
+      "id" : "13531d39",
+      "versionId" : "g357191f",
+      "eventDate" : "24-09-2024",
+      "lastUpdated" : "2024-10-17T00:55:34.515+0000",
+      "artist" : {
+         "mbid" : "cf9655a8-ce1e-414e-9843-de1c4a60830d",
+         "name" : "Hippo Campus",
+         "sortName" : "Hippo Campus",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hippo-campus-73c6e6e1.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Flood"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Flood",
+            "song" : [ {
+               "name" : "Prayer Man"
+            }, {
+               "name" : "Paranoid"
+            }, {
+               "name" : "Fences"
+            }, {
+               "name" : "Everything At Once"
+            }, {
+               "name" : "Flood"
+            }, {
+               "name" : "Corduroy"
+            }, {
+               "name" : "Slipping Away"
+            }, {
+               "name" : "Brand New"
+            }, {
+               "name" : "Tooth Fairy"
+            }, {
+               "name" : "Madman"
+            }, {
+               "name" : "Forget It"
+            }, {
+               "name" : "Closer"
+            }, {
+               "name" : "I Got Time"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Yippie Ki Yay"
+            }, {
+               "name" : "Deepfake"
+            }, {
+               "name" : "Sex Tape"
+            }, {
+               "name" : "Bang Bang"
+            }, {
+               "name" : "Boys"
+            }, {
+               "name" : "Buttercup"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "No Poms"
+            }, {
+               "name" : "South"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hippo-campus/2024/bowery-ballroom-new-york-ny-13531d39.html"
+   }, {
+      "id" : "3b53289c",
+      "versionId" : "g3b720c68",
+      "eventDate" : "23-09-2024",
+      "lastUpdated" : "2025-07-17T21:30:42.076+0000",
+      "artist" : {
+         "mbid" : "17958f7b-a755-42a7-ab72-4a7b601ed115",
+         "name" : "Luna Li",
+         "sortName" : "Li, Luna",
+         "disambiguation" : "dreamy rock from Toronto",
+         "url" : "https://www.setlist.fm/setlists/luna-li-1bf7b538.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Confusion Song"
+            }, {
+               "name" : "Fantasy"
+            }, {
+               "name" : "Golden Hour"
+            }, {
+               "name" : "Misery Moon"
+            }, {
+               "name" : "float / harp jam / baby shred / cloud castle / 2516"
+            }, {
+               "name" : "Cherry Pit"
+            }, {
+               "name" : "Silver Into Rain"
+            }, {
+               "name" : "Lonely/Lovely"
+            }, {
+               "name" : "I Imagine"
+            }, {
+               "name" : "Enigami"
+            }, {
+               "name" : "I Would Let You"
+            }, {
+               "name" : "Minnie Says (Would You Be My)"
+            }, {
+               "name" : "That's Life"
+            }, {
+               "name" : "Fear Is an Illusion!"
+            }, {
+               "name" : "Bon Voyage"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Afterglow"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/luna-li/2024/bowery-ballroom-new-york-ny-3b53289c.html"
+   }, {
+      "id" : "3b532060",
+      "versionId" : "g2ba800f2",
+      "eventDate" : "23-09-2024",
+      "lastUpdated" : "2024-09-25T12:24:41.835+0000",
+      "artist" : {
+         "mbid" : "b1948f2a-494a-43b6-8706-2354a8e104cc",
+         "name" : "Jahnah Camille",
+         "sortName" : "Jahnah Camille",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jahnah-camille-bf8b9ca.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Flesh"
+            }, {
+               "name" : "Roadkill"
+            }, {
+               "name" : "Pain"
+            }, {
+               "name" : "Alabama"
+            }, {
+               "name" : "Nashville"
+            }, {
+               "name" : "Carnival"
+            }, {
+               "name" : "Middle"
+            }, {
+               "name" : "Elliot"
+            }, {
+               "name" : "Heaven"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jahnah-camille/2024/bowery-ballroom-new-york-ny-3b532060.html"
+   }, {
+      "id" : "53532f19",
+      "versionId" : "g1ba8358c",
+      "eventDate" : "22-09-2024",
+      "lastUpdated" : "2024-09-23T14:12:38.376+0000",
+      "artist" : {
+         "mbid" : "d6302903-1f62-420a-8d8b-c54941ac754e",
+         "name" : "Rapsody",
+         "sortName" : "Rapsody",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/rapsody-4bd2d78e.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Please Don't Cry"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rapsody/2024/bowery-ballroom-new-york-ny-53532f19.html"
+   }, {
+      "id" : "5353cb45",
+      "versionId" : "g23a8948b",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2024-09-20T20:22:58.351+0000",
+      "artist" : {
+         "mbid" : "e538319d-a827-4bca-aefb-61f40ab74181",
+         "name" : "GIFT",
+         "sortName" : "GIFT",
+         "disambiguation" : "Alternative rock band from New York",
+         "url" : "https://www.setlist.fm/setlists/gift-23fde407.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gift/2024/bowery-ballroom-new-york-ny-5353cb45.html"
+   }, {
+      "id" : "4353cb47",
+      "versionId" : "g4ba88ff6",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2024-09-21T02:38:47.438+0000",
+      "artist" : {
+         "mbid" : "8421cfce-db1d-4c89-a5aa-e66c399633fd",
+         "name" : "Public Circuit",
+         "sortName" : "Public Circuit",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/public-circuit-53f98749.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'm The Man"
+            }, {
+               "name" : "Untitled",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Bondage"
+            }, {
+               "name" : "No Faith",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Heaven Waits"
+            }, {
+               "name" : "Caustic Cross"
+            }, {
+               "name" : "Kiss My Face"
+            }, {
+               "name" : "Reach For The Knife"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/public-circuit/2024/bowery-ballroom-new-york-ny-4353cb47.html"
+   }, {
+      "id" : "353c5ef",
+      "versionId" : "g43a88fe7",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2024-09-21T02:40:26.922+0000",
+      "artist" : {
+         "mbid" : "b7b728d3-5f66-4b78-9d19-7a0043430836",
+         "name" : "Catcher",
+         "sortName" : "Catcher",
+         "disambiguation" : "Brooklyn post-punk band",
+         "url" : "https://www.setlist.fm/setlists/catcher-33fed46d.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/catcher/2024/bowery-ballroom-new-york-ny-353c5ef.html"
+   }, {
+      "id" : "63a88a33",
+      "versionId" : "g5bab33f8",
+      "eventDate" : "14-09-2024",
+      "lastUpdated" : "2024-09-15T11:53:17.322+0000",
+      "artist" : {
+         "mbid" : "8dd216da-6db2-4130-9a7c-ece756d1394d",
+         "name" : "Old 97’s",
+         "sortName" : "Old 97’s",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/old-97s-bd615be.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "American Primitive Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Falling Down"
+            }, {
+               "name" : "Melt Show"
+            }, {
+               "name" : "Doreen"
+            }, {
+               "name" : "Wish the Worst"
+            }, {
+               "name" : "W. TX Teardrops"
+            }, {
+               "name" : "Murder (or a Heart Attack)"
+            }, {
+               "name" : "Victoria"
+            }, {
+               "name" : "King of All the World"
+            }, {
+               "name" : "Western Stars"
+            }, {
+               "name" : "Big Brown Eyes"
+            }, {
+               "name" : "Jesus Loves You"
+            }, {
+               "name" : "Valentine"
+            }, {
+               "name" : "Rollerskate Skinny"
+            }, {
+               "name" : "Wasted"
+            }, {
+               "name" : "Champaign, Illinois"
+            }, {
+               "name" : "Good With God"
+            }, {
+               "name" : "Oppenheimer"
+            }, {
+               "name" : "Where the Road Goes"
+            }, {
+               "name" : "Smokers"
+            }, {
+               "name" : "Barrier Reef"
+            }, {
+               "name" : "Longer Than You've Been Alive"
+            }, {
+               "name" : "Four Leaf Clover"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Question",
+               "info" : "Full Band"
+            }, {
+               "name" : "Broadway"
+            }, {
+               "name" : "Timebomb"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/old-97s/2024/bowery-ballroom-new-york-ny-63a88a33.html"
+   }, {
+      "id" : "7ba88a3c",
+      "versionId" : "g5bab33f0",
+      "eventDate" : "13-09-2024",
+      "lastUpdated" : "2024-09-15T11:54:07.437+0000",
+      "artist" : {
+         "mbid" : "8dd216da-6db2-4130-9a7c-ece756d1394d",
+         "name" : "Old 97’s",
+         "sortName" : "Old 97’s",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/old-97s-bd615be.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "American Primitive Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Falling Down"
+            }, {
+               "name" : "Niteclub"
+            }, {
+               "name" : "Doreen"
+            }, {
+               "name" : "Stoned"
+            }, {
+               "name" : "W. TX Teardrops"
+            }, {
+               "name" : "Designs on You"
+            }, {
+               "name" : "Nineteen"
+            }, {
+               "name" : "Dance With Me"
+            }, {
+               "name" : "Big Brown Eyes"
+            }, {
+               "name" : "Jesus Loves You"
+            }, {
+               "name" : "The Other Shoe"
+            }, {
+               "name" : "Valentine"
+            }, {
+               "name" : "Weightless"
+            }, {
+               "name" : "Indefinitely"
+            }, {
+               "name" : "Nashville"
+            }, {
+               "name" : "Good With God"
+            }, {
+               "name" : "Where the Road Goes"
+            }, {
+               "name" : "Can't Get a Line"
+            }, {
+               "name" : "Barrier Reef"
+            }, {
+               "name" : "Longer Than You've Been Alive"
+            }, {
+               "name" : "Four Leaf Clover"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Question",
+               "info" : "Rhett Solo"
+            }, {
+               "name" : "Champaign, Illinois"
+            }, {
+               "name" : "Timebomb"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/old-97s/2024/bowery-ballroom-new-york-ny-7ba88a3c.html"
+   }, {
+      "id" : "6b539ada",
+      "versionId" : "gbabe1ee",
+      "eventDate" : "13-09-2024",
+      "lastUpdated" : "2024-09-14T01:19:26.080+0000",
+      "artist" : {
+         "mbid" : "2120efd5-e410-4cd9-abad-be594a8fa346",
+         "name" : "Kimmi Bitter",
+         "sortName" : "Bitter, Kimmi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kimmi-bitter-5be74f50.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kimmi-bitter/2024/bowery-ballroom-new-york-ny-6b539ada.html"
+   }, {
+      "id" : "63524a1f",
+      "versionId" : "g235ec49f",
+      "eventDate" : "11-09-2024",
+      "lastUpdated" : "2024-12-07T07:12:34.514+0000",
+      "artist" : {
+         "mbid" : "3ddb5fd0-3831-4ca6-931e-336ac03173a7",
+         "name" : "49 Winchester",
+         "sortName" : "49 Winchester",
+         "disambiguation" : "Appalachian soul music",
+         "url" : "https://www.setlist.fm/setlists/49-winchester-13f345ed.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Leavin This Holler (Fall '24)"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hillbilly Daydream"
+            }, {
+               "name" : "Tulsa"
+            }, {
+               "name" : "Veruca Salt"
+            }, {
+               "name" : "Fool Hearted"
+            }, {
+               "name" : "Off the Ground"
+            }, {
+               "name" : "Leavin' This Holler",
+               "with" : {
+                  "mbid" : "94557b3a-fd4f-4ea7-b1f0-f2575ab51755",
+                  "name" : "Maggie Antone",
+                  "sortName" : "Antone, Maggie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/maggie-antone-53faebd5.html"
+               }
+            }, {
+               "name" : "Yearnin' For You"
+            }, {
+               "name" : "Fast Asleep"
+            }, {
+               "name" : "Russell County Line"
+            }, {
+               "name" : "Everlasting Lover"
+            }, {
+               "name" : "Long Hard Life"
+            }, {
+               "name" : "So Damn Sweet"
+            }, {
+               "name" : "Waymore's Blues",
+               "cover" : {
+                  "mbid" : "1a46826b-4d73-4e04-8590-f36c9d832f9e",
+                  "name" : "Waylon Jennings",
+                  "sortName" : "Jennings, Waylon",
+                  "disambiguation" : "US country musician",
+                  "url" : "https://www.setlist.fm/setlists/waylon-jennings-23d6dcc7.html"
+               }
+            }, {
+               "name" : "Damn Darlin'"
+            }, {
+               "name" : "Chemistry"
+            }, {
+               "name" : "Hays, Kansas"
+            }, {
+               "name" : "Make It Count"
+            }, {
+               "name" : "Last Call"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hillbilly Happy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/49-winchester/2024/bowery-ballroom-new-york-ny-63524a1f.html"
+   }, {
+      "id" : "63524a13",
+      "versionId" : "g1baa6508",
+      "eventDate" : "11-09-2024",
+      "lastUpdated" : "2024-09-09T05:45:08.821+0000",
+      "artist" : {
+         "mbid" : "94557b3a-fd4f-4ea7-b1f0-f2575ab51755",
+         "name" : "Maggie Antone",
+         "sortName" : "Antone, Maggie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maggie-antone-53faebd5.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Rhinestoned"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "opening act for 49 Winchester",
+      "url" : "https://www.setlist.fm/setlist/maggie-antone/2024/bowery-ballroom-new-york-ny-63524a13.html"
+   }, {
+      "id" : "73524a19",
+      "versionId" : "g4babb71a",
+      "eventDate" : "10-09-2024",
+      "lastUpdated" : "2024-09-11T04:04:16.421+0000",
+      "artist" : {
+         "mbid" : "3ddb5fd0-3831-4ca6-931e-336ac03173a7",
+         "name" : "49 Winchester",
+         "sortName" : "49 Winchester",
+         "disambiguation" : "Appalachian soul music",
+         "url" : "https://www.setlist.fm/setlists/49-winchester-13f345ed.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Leavin This Holler (Fall '24)"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Make It Count"
+            }, {
+               "name" : "Chemistry"
+            }, {
+               "name" : "Hays, Kansas"
+            }, {
+               "name" : "Second Chance"
+            }, {
+               "name" : "Don't Speak"
+            }, {
+               "name" : "All I Need"
+            }, {
+               "name" : "Leavin' This Holler",
+               "with" : {
+                  "mbid" : "94557b3a-fd4f-4ea7-b1f0-f2575ab51755",
+                  "name" : "Maggie Antone",
+                  "sortName" : "Antone, Maggie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/maggie-antone-53faebd5.html"
+               }
+            }, {
+               "name" : "Yearnin' For You"
+            }, {
+               "name" : "Fortune Favors the Bold"
+            }, {
+               "name" : "It's a Shame"
+            }, {
+               "name" : "Fast Asleep"
+            }, {
+               "name" : "Russell County Line"
+            }, {
+               "name" : "Annabel"
+            }, {
+               "name" : "Everlasting Lover"
+            }, {
+               "name" : "Long Hard Life"
+            }, {
+               "name" : "Damn Darlin'"
+            }, {
+               "name" : "Tulsa"
+            }, {
+               "name" : "Last Call"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hillbilly Happy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/49-winchester/2024/bowery-ballroom-new-york-ny-73524a19.html"
+   }, {
+      "id" : "6b524a1e",
+      "versionId" : "g1baa6514",
+      "eventDate" : "10-09-2024",
+      "lastUpdated" : "2024-09-09T05:44:27.744+0000",
+      "artist" : {
+         "mbid" : "94557b3a-fd4f-4ea7-b1f0-f2575ab51755",
+         "name" : "Maggie Antone",
+         "sortName" : "Antone, Maggie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maggie-antone-53faebd5.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Rhinestoned"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "opening act for 49 Winchester",
+      "url" : "https://www.setlist.fm/setlist/maggie-antone/2024/bowery-ballroom-new-york-ny-6b524a1e.html"
+   }, {
+      "id" : "5b4423f8",
+      "versionId" : "g5b779b40",
+      "eventDate" : "07-09-2024",
+      "lastUpdated" : "2025-06-22T19:57:26.584+0000",
+      "artist" : {
+         "mbid" : "059041a5-450a-49f5-a087-e2521c2b7a9a",
+         "name" : "Gooseberry",
+         "sortName" : "Gooseberry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gooseberry-13f0c1b1.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "The Cattle Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Start Over"
+            }, {
+               "name" : "Kikiyon"
+            }, {
+               "name" : "Panic!"
+            }, {
+               "name" : "Bitter"
+            }, {
+               "name" : "Only One",
+               "info" : "Brain Stew by Green Day interpolation"
+            }, {
+               "name" : "Amaretto"
+            }, {
+               "name" : "Cattle"
+            }, {
+               "name" : "Orbit"
+            }, {
+               "name" : "Weird Fishes/Arpeggi",
+               "cover" : {
+                  "mbid" : "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name" : "Radiohead",
+                  "sortName" : "Radiohead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/radiohead-bd6bd12.html"
+               }
+            }, {
+               "name" : "Cherry Blossoms"
+            }, {
+               "name" : "Validate Me"
+            }, {
+               "name" : "Dying To Meet You"
+            }, {
+               "name" : "Baby Do You?"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Golden"
+            } ]
+         } ]
+      },
+      "info" : "All My Friends Are Cattle release show",
+      "url" : "https://www.setlist.fm/setlist/gooseberry/2024/bowery-ballroom-new-york-ny-5b4423f8.html"
+   }, {
+      "id" : "6b548abe",
+      "versionId" : "g13aa8599",
+      "eventDate" : "04-09-2024",
+      "lastUpdated" : "2024-09-04T08:59:49.874+0000",
+      "artist" : {
+         "mbid" : "a84a3df1-a873-4be9-b6ff-4238393d46d7",
+         "name" : "Good Neighbours",
+         "sortName" : "Good Neighbours",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/good-neighbours-63e726af.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "The Good Neighbours World Tour 2024"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/good-neighbours/2024/bowery-ballroom-new-york-ny-6b548abe.html"
+   }, {
+      "id" : "b54c97e",
+      "versionId" : "gbaaad82",
+      "eventDate" : "30-08-2024",
+      "lastUpdated" : "2024-09-02T20:38:45.745+0000",
+      "artist" : {
+         "mbid" : "3a4bad28-aaf7-4b0f-996f-1bb8889c4fd4",
+         "name" : "Uniform",
+         "sortName" : "Uniform",
+         "disambiguation" : "industrial/noise rock duo from New York City",
+         "url" : "https://www.setlist.fm/setlists/uniform-bdb1dd2.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Is Not a Prayer"
+            }, {
+               "name" : "Clemency"
+            }, {
+               "name" : "Permanent Embrace"
+            }, {
+               "name" : "American Standard"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/uniform/2024/bowery-ballroom-new-york-ny-b54c97e.html"
+   }, {
+      "id" : "b54c976",
+      "versionId" : "g33a3f011",
+      "eventDate" : "30-08-2024",
+      "lastUpdated" : "2024-07-15T04:36:59.700+0000",
+      "artist" : {
+         "mbid" : "443bdc7a-398c-43ec-8c1d-f3f0afd87466",
+         "name" : "LEYA",
+         "sortName" : "LEYA",
+         "disambiguation" : "NYC-based duo",
+         "url" : "https://www.setlist.fm/setlists/leya-bcb19a6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/leya/2024/bowery-ballroom-new-york-ny-b54c976.html"
+   } ]
+}

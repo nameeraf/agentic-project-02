@@ -1,0 +1,511 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 15,
+   "total" : 290,
+   "setlist" : [ {
+      "id" : "23acd007",
+      "versionId" : "g5b89531c",
+      "eventDate" : "20-01-2024",
+      "lastUpdated" : "2024-01-26T18:40:01.670+0000",
+      "artist" : {
+         "mbid" : "3b0e9a8f-0bd7-4a7e-9252-090acd8b30ea",
+         "name" : "keiyaA",
+         "sortName" : "keiyaA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/keiyaa-3f225cf.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/keiyaa/2024/bowery-ballroom-new-york-ny-23acd007.html"
+   }, {
+      "id" : "1bacd178",
+      "versionId" : "g7b895694",
+      "eventDate" : "20-01-2024",
+      "lastUpdated" : "2024-01-26T16:47:56.056+0000",
+      "artist" : {
+         "mbid" : "4c33904b-1c93-4f63-bb23-69d3544eaf77",
+         "name" : "Pom Pom Squad",
+         "sortName" : "Pom Pom Squad",
+         "disambiguation" : "Alternative Rock band from New York",
+         "url" : "https://www.setlist.fm/setlists/pom-pom-squad-73ca82d5.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Head Cheerleader"
+            }, {
+               "name" : "Everybody's Moving On"
+            }, {
+               "name" : "Shame Reactions"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pom-pom-squad/2024/bowery-ballroom-new-york-ny-1bacd178.html"
+   }, {
+      "id" : "1bacd164",
+      "versionId" : "gb895152",
+      "eventDate" : "20-01-2024",
+      "lastUpdated" : "2024-01-26T17:04:30.718+0000",
+      "artist" : {
+         "mbid" : "f46d8c80-9b02-4b1b-ba39-00dabb104503",
+         "name" : "youbet",
+         "sortName" : "youbet",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/youbet-1bf07dd4.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Carsick"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/youbet/2024/bowery-ballroom-new-york-ny-1bacd164.html"
+   }, {
+      "id" : "bacf556",
+      "versionId" : "gb892d4e",
+      "eventDate" : "19-01-2024",
+      "lastUpdated" : "2024-01-22T18:34:30.226+0000",
+      "artist" : {
+         "mbid" : "5062deb7-5b6d-46b1-bb11-9d38fde27b65",
+         "name" : "John Vincent III",
+         "sortName" : "Vincent, John, III",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/john-vincent-iii-63fa0abb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Highway Woman"
+            }, {
+               "name" : "City Rain"
+            }, {
+               "name" : "Lover of Mine"
+            }, {
+               "name" : "Slow Song"
+            }, {
+               "name" : "Money and My Pride"
+            }, {
+               "name" : "Lincoln, NB"
+            }, {
+               "name" : "Dandelion"
+            }, {
+               "name" : "Juniper and Yellow"
+            }, {
+               "name" : "Bluebird Singing"
+            }, {
+               "name" : "Rolling Stone"
+            }, {
+               "name" : "On and On"
+            }, {
+               "name" : "Next to You"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "In My Sheets"
+            }, {
+               "name" : "Lost/ Inside Our Minds"
+            }, {
+               "name" : "That's Just the Way It Is, Babe"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/john-vincent-iii/2024/bowery-ballroom-new-york-ny-bacf556.html"
+   }, {
+      "id" : "63ac9e67",
+      "versionId" : "g5b898730",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-19T15:11:06.299+0000",
+      "artist" : {
+         "mbid" : "5062deb7-5b6d-46b1-bb11-9d38fde27b65",
+         "name" : "John Vincent III",
+         "sortName" : "Vincent, John, III",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/john-vincent-iii-63fa0abb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Highway Woman"
+            }, {
+               "name" : "City Rain"
+            }, {
+               "name" : "Lover of Mine"
+            }, {
+               "name" : "Slow Song"
+            }, {
+               "name" : "Money and My Pride"
+            }, {
+               "name" : "Lincoln, NB"
+            }, {
+               "name" : "Dandelion"
+            }, {
+               "name" : "Juniper and Yellow"
+            }, {
+               "name" : "Bluebird Singing"
+            }, {
+               "name" : "Rolling Stone"
+            }, {
+               "name" : "On and On"
+            }, {
+               "name" : "Next to You"
+            }, {
+               "name" : "Lost/ Inside Our Minds",
+               "info" : "Encore"
+            }, {
+               "name" : "In My Sheets",
+               "info" : "Encore"
+            }, {
+               "name" : "That's Just the Way It Is, Babe",
+               "info" : "Encore"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/john-vincent-iii/2024/bowery-ballroom-new-york-ny-63ac9e67.html"
+   }, {
+      "id" : "1baf4db8",
+      "versionId" : "g3bb39c64",
+      "eventDate" : "13-01-2024",
+      "lastUpdated" : "2024-03-14T02:40:54.311+0000",
+      "artist" : {
+         "mbid" : "1159e0d0-a782-471a-9dae-93ac046eac72",
+         "name" : "Buffalo Tom",
+         "sortName" : "Buffalo Tom",
+         "disambiguation" : "US alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/buffalo-tom-2bd7cc9a.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Know a Place",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "40e69149-45a7-4dab-8128-c5a4d9654eeb",
+                  "name" : "Petula Clark",
+                  "sortName" : "Clark, Petula",
+                  "disambiguation" : "English singer & actress",
+                  "url" : "https://www.setlist.fm/setlists/petula-clark-bd60512.html"
+               }
+            }, {
+               "name" : "Torch Singer"
+            }, {
+               "name" : "Sunflower Suit"
+            }, {
+               "name" : "Kitchen Door"
+            }, {
+               "name" : "Summer"
+            }, {
+               "name" : "Do You In"
+            }, {
+               "name" : "Mineral"
+            }, {
+               "name" : "Tree House"
+            }, {
+               "name" : "All Be Gone"
+            }, {
+               "name" : "You'll Never Catch Him"
+            }, {
+               "name" : "Helmet"
+            }, {
+               "name" : "New Girl Singing"
+            }, {
+               "name" : "When You Discover"
+            }, {
+               "name" : "Larry"
+            }, {
+               "name" : "I'm Allowed"
+            }, {
+               "name" : "Velvet Roof"
+            }, {
+               "name" : "Late at Night"
+            }, {
+               "name" : "Staples"
+            }, {
+               "name" : "The Bus"
+            }, {
+               "name" : "Sodajerk"
+            }, {
+               "name" : "Tangerine",
+               "info" : "intro'd by a snippet from The Beatles' \"Revolution\""
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Taillights Fade"
+            }, {
+               "name" : "Little Ghostmaker"
+            }, {
+               "name" : "Porchlight"
+            }, {
+               "name" : "For All to See"
+            }, {
+               "name" : "Birdbrain"
+            }, {
+               "name" : "Crutch"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/buffalo-tom/2024/bowery-ballroom-new-york-ny-1baf4db8.html"
+   }, {
+      "id" : "33af70d5",
+      "versionId" : "g5b88ef7c",
+      "eventDate" : "12-01-2024",
+      "lastUpdated" : "2024-01-10T15:39:00.792+0000",
+      "artist" : {
+         "mbid" : "1acfda17-b0cc-411a-9244-df12dd3ad41c",
+         "name" : "The Jazz Passengers",
+         "sortName" : "Jazz Passengers, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-jazz-passengers-13d3bdad.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "The Jazz Passengers Celebrate Curtis Fowlkes",
+      "url" : "https://www.setlist.fm/setlist/the-jazz-passengers/2024/bowery-ballroom-new-york-ny-33af70d5.html"
+   }, {
+      "id" : "2baf70d6",
+      "versionId" : "g3388ec85",
+      "eventDate" : "12-01-2024",
+      "lastUpdated" : "2024-01-10T15:38:40.713+0000",
+      "artist" : {
+         "mbid" : "9fec3f8c-bf07-43bc-a5ec-978d4d0d410a",
+         "name" : "Marc Ribot’s Ceramic Dog",
+         "sortName" : "Ribot, Marc, Ceramic Dog",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/marc-ribots-ceramic-dog-2bd788aa.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/marc-ribots-ceramic-dog/2024/bowery-ballroom-new-york-ny-2baf70d6.html"
+   }, {
+      "id" : "23af70d7",
+      "versionId" : "g2388ec83",
+      "eventDate" : "12-01-2024",
+      "lastUpdated" : "2024-01-10T15:38:27.473+0000",
+      "artist" : {
+         "mbid" : "e6071b18-261e-46a1-8ee6-4dbd7f5f99f3",
+         "name" : "Marc Ribot",
+         "sortName" : "Ribot, Marc",
+         "disambiguation" : "US guitarist",
+         "url" : "https://www.setlist.fm/setlists/marc-ribot-4bd6b336.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Marc Ribot New Trio w/ special guest James Brandon Lewis",
+      "url" : "https://www.setlist.fm/setlist/marc-ribot/2024/bowery-ballroom-new-york-ny-23af70d7.html"
+   }, {
+      "id" : "23af7017",
+      "versionId" : "g3b88ecec",
+      "eventDate" : "12-01-2024",
+      "lastUpdated" : "2024-01-10T15:25:43.408+0000",
+      "artist" : {
+         "mbid" : "5b79b380-0167-4f6e-b707-28c065053353",
+         "name" : "Mary Halvorson",
+         "sortName" : "Halvorson, Mary",
+         "disambiguation" : "US avant-garde jazz guitarist",
+         "url" : "https://www.setlist.fm/setlists/mary-halvorson-43d44363.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Mary Halvorson & Marc Ribot Duo project",
+      "url" : "https://www.setlist.fm/setlist/mary-halvorson/2024/bowery-ballroom-new-york-ny-23af7017.html"
+   } ]
+}

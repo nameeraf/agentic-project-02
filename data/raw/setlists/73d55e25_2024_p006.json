@@ -1,0 +1,1637 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 190,
+   "setlist" : [ {
+      "id" : "2b5694b2",
+      "versionId" : "g5baa2724",
+      "eventDate" : "05-06-2024",
+      "lastUpdated" : "2024-09-07T16:50:12.572+0000",
+      "artist" : {
+         "mbid" : "3aee469e-3edb-4d87-9397-74ee96a9e1dd",
+         "name" : "Carpool Tunnel",
+         "sortName" : "Carpool Tunnel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/carpool-tunnel-3f58977.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Forget My Name"
+            }, {
+               "name" : "Flora"
+            }, {
+               "name" : "The Risk"
+            }, {
+               "name" : "Drought"
+            }, {
+               "name" : "Nostalgia"
+            }, {
+               "name" : "Dreaming Still"
+            }, {
+               "name" : "Holding On/Letting Go"
+            }, {
+               "name" : "Empty Faces"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carpool-tunnel/2024/brooklyn-steel-brooklyn-ny-2b5694b2.html"
+   }, {
+      "id" : "235694b7",
+      "versionId" : "g5bb93bcc",
+      "eventDate" : "05-06-2024",
+      "lastUpdated" : "2024-06-06T02:22:31.589+0000",
+      "artist" : {
+         "mbid" : "efb2b5ce-8a50-4857-826d-c25d7e8941ba",
+         "name" : "Origami Angel",
+         "sortName" : "Origami Angel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/origami-angel-3bca64ec.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fruit Wine"
+            }, {
+               "name" : "24 Hr Drive-Thru"
+            }, {
+               "name" : "#GAMIGANG",
+               "tape" : true
+            }, {
+               "name" : "Self-Destruct"
+            }, {
+               "name" : "Bossa Nova Corps"
+            }, {
+               "name" : "Thank You, New Jersey"
+            }, {
+               "name" : "Ruby"
+            }, {
+               "name" : "Doctor Whomst"
+            }, {
+               "name" : "Noah Fence"
+            }, {
+               "name" : "My PG County Summer"
+            }, {
+               "name" : "Kobayashi Maru (My Very Own)"
+            }, {
+               "name" : "Second Best Friend"
+            }, {
+               "name" : "Escape Rope"
+            }, {
+               "name" : "The Title Track"
+            }, {
+               "name" : "666 Flags"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/origami-angel/2024/brooklyn-steel-brooklyn-ny-235694b7.html"
+   }, {
+      "id" : "73abd699",
+      "versionId" : "g1ba9e1b8",
+      "eventDate" : "30-05-2024",
+      "lastUpdated" : "2024-09-30T11:13:50.380+0000",
+      "artist" : {
+         "mbid" : "9ca10859-49e2-44e3-b3d6-04c535207bc2",
+         "name" : "Knocked Loose",
+         "sortName" : "Knocked Loose",
+         "disambiguation" : "hardcore band",
+         "url" : "https://www.setlist.fm/setlists/knocked-loose-3c281bf.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Spring Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Blinding Faith"
+            }, {
+               "name" : "Mistakes Like Fractures"
+            }, {
+               "name" : "God Knows"
+            }, {
+               "name" : "Trapped in the Grasp of a Memory"
+            }, {
+               "name" : "Don't Reach for Me"
+            }, {
+               "name" : "Denied by Fate"
+            }, {
+               "name" : "Belleville",
+               "info" : "with Forget Your Name Intro"
+            }, {
+               "name" : "Deadringer"
+            }, {
+               "name" : "Where Light Divides the Holler"
+            }, {
+               "name" : "Guided by the Moon"
+            }, {
+               "name" : "Suffocate"
+            }, {
+               "name" : "Billy No Mates",
+               "with" : {
+                  "mbid" : "71e63ef3-24f3-4337-930c-57a7a86622ec",
+                  "name" : "Kadeem France",
+                  "sortName" : "Kadeem France",
+                  "disambiguation" : "Vocalist of Loathe",
+                  "url" : "https://www.setlist.fm/setlists/kadeem-france-3e6f9af.html"
+               }
+            }, {
+               "name" : "Counting Worms"
+            }, {
+               "name" : "Permanent"
+            }, {
+               "name" : "Deep in the Willow"
+            }, {
+               "name" : "Everything Is Quiet Now"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/knocked-loose/2024/brooklyn-steel-brooklyn-ny-73abd699.html"
+   }, {
+      "id" : "4bab177a",
+      "versionId" : "g63a5f69f",
+      "eventDate" : "30-05-2024",
+      "lastUpdated" : "2024-07-03T16:47:01.416+0000",
+      "artist" : {
+         "mbid" : "bcc715bb-47a4-46c0-a62e-6467feec6091",
+         "name" : "Show Me the Body",
+         "sortName" : "Show Me the Body",
+         "disambiguation" : "US post-hardcore band",
+         "url" : "https://www.setlist.fm/setlists/show-me-the-body-7bc0aeac.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Out of Place"
+            }, {
+               "name" : "Boils Up"
+            }, {
+               "name" : "Food From Plate"
+            }, {
+               "name" : "We Came To Play"
+            }, {
+               "name" : "Loose Talk"
+            }, {
+               "name" : "Arcanum"
+            }, {
+               "name" : "Camp Orchestra / Metallic Taste"
+            }, {
+               "name" : "Not for Love"
+            }, {
+               "name" : "Badge Grabber"
+            }, {
+               "name" : "USA Lullaby / Body War"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/show-me-the-body/2024/brooklyn-steel-brooklyn-ny-4bab177a.html"
+   }, {
+      "id" : "4b56cbb2",
+      "versionId" : "g23b86833",
+      "eventDate" : "30-05-2024",
+      "lastUpdated" : "2024-05-31T03:01:51.466+0000",
+      "artist" : {
+         "mbid" : "4ccddb42-9be6-46d8-822c-d9974962abec",
+         "name" : "SPEED",
+         "sortName" : "SPEED",
+         "disambiguation" : "Hardcore band from Australia",
+         "url" : "https://www.setlist.fm/setlists/speed-3bfc98a8.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/speed/2024/brooklyn-steel-brooklyn-ny-4b56cbb2.html"
+   }, {
+      "id" : "3abc19f",
+      "versionId" : "g63a5f693",
+      "eventDate" : "30-05-2024",
+      "lastUpdated" : "2024-07-03T16:48:07.405+0000",
+      "artist" : {
+         "mbid" : "56eb02c4-1f16-4613-8bb3-b4a752283fc3",
+         "name" : "Loathe",
+         "sortName" : "Loathe",
+         "disambiguation" : "UK experimental metal",
+         "url" : "https://www.setlist.fm/setlists/loathe-2bcf80e2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gored"
+            }, {
+               "name" : "Dance on My Skin"
+            }, {
+               "name" : "Screaming"
+            }, {
+               "name" : "451 Days"
+            }, {
+               "name" : "New Faces in the Dark"
+            }, {
+               "name" : "Broken Vision Rhythm"
+            }, {
+               "name" : "Two-Way Mirror"
+            }, {
+               "name" : "Is It Really You?"
+            }, {
+               "name" : "Heavy Is the Head That Falls With the Weight of a Thousand Thoughts"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/loathe/2024/brooklyn-steel-brooklyn-ny-3abc19f.html"
+   }, {
+      "id" : "356f1ff",
+      "versionId" : "g1bb8315c",
+      "eventDate" : "25-05-2024",
+      "lastUpdated" : "2024-05-28T18:20:24.726+0000",
+      "artist" : {
+         "mbid" : "cbe51088-e4d8-463e-9f4e-e83fa64d3f5e",
+         "name" : "Little Big",
+         "sortName" : "Little Big",
+         "disambiguation" : "Russian rave band",
+         "url" : "https://www.setlist.fm/setlists/little-big-23db6c83.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Lobster Popstar Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Generation Cancellation"
+            }, {
+               "name" : "Hardstyle fish"
+            }, {
+               "name" : "I'm The Best"
+            }, {
+               "name" : "Antipositive"
+            }, {
+               "name" : "Hateful Love"
+            }, {
+               "name" : "Blitzkrieg Bop",
+               "cover" : {
+                  "mbid" : "d6ed7887-a401-47a8-893c-34b967444d26",
+                  "name" : "Ramones",
+                  "sortName" : "Ramones",
+                  "disambiguation" : "US punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+               }
+            }, {
+               "name" : "Rock‐Paper‐Scissors"
+            }, {
+               "name" : "Give Me Your Money"
+            }, {
+               "name" : "We Are Like Flintstones"
+            }, {
+               "name" : "Skibidi"
+            }, {
+               "name" : "DJ Solo"
+            }, {
+               "name" : "Moustache"
+            }, {
+               "name" : "Control"
+            }, {
+               "name" : "Pendejo"
+            }, {
+               "name" : "Tacos"
+            }, {
+               "name" : "I'm OK"
+            }, {
+               "name" : "Big Dick"
+            }, {
+               "name" : "Go Bananas"
+            }, {
+               "name" : "Lobster Popstar"
+            }, {
+               "name" : "Hypnodancer"
+            }, {
+               "name" : "UNO"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Faradenza"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/little-big/2024/brooklyn-steel-brooklyn-ny-356f1ff.html"
+   }, {
+      "id" : "4babef06",
+      "versionId" : "g1b4c7da0",
+      "eventDate" : "23-05-2024",
+      "lastUpdated" : "2025-05-04T13:19:05.138+0000",
+      "artist" : {
+         "mbid" : "822b1e81-d1a0-47fb-b7f9-ef614b913603",
+         "name" : "Trey Anastasio Band",
+         "sortName" : "Trey Anastasio Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trey-anastasio-band-53d6d729.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Trey Anastasio and Classic TAB 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Party Time",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "A Wave of Hope",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "All Pretending"
+            }, {
+               "name" : "Gotta Jibboo",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Shade",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Stealing Time From the Faulty Plan",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Where They'll Find Us",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Twist",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "About to Run",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Blaze On",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Plasma",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Machine",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Alaska",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "I Never Needed You Like This Before",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Quantegy",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "46 Days",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "A Life Beyond the Dream",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "First Tube",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trey-anastasio-band/2024/brooklyn-steel-brooklyn-ny-4babef06.html"
+   }, {
+      "id" : "5babef00",
+      "versionId" : "g53608b89",
+      "eventDate" : "22-05-2024",
+      "lastUpdated" : "2025-11-30T03:18:47.915+0000",
+      "artist" : {
+         "mbid" : "822b1e81-d1a0-47fb-b7f9-ef614b913603",
+         "name" : "Trey Anastasio Band",
+         "sortName" : "Trey Anastasio Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trey-anastasio-band-53d6d729.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Trey Anastasio and Classic TAB 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Shaking Someone's Outstretched Hand",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "The Way I Feel",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Undermind",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Cayman Review",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "The Endless Dream",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Mists of the Past"
+            }, {
+               "name" : "Hey Stranger",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "What's Going Through Your Mind"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Prince Caspian",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Oblivion",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Dark and Down",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Outside the Lines",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Ocelot",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Life Saving Gun",
+               "cover" : {
+                  "mbid" : "066a4f51-4230-4784-a2ca-daae7219e675",
+                  "name" : "Page McConnell & Trey Anastasio",
+                  "sortName" : "Page McConnell & Trey Anastasio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/page-mcconnell-and-trey-anastasio-1bf1d138.html"
+               }
+            }, {
+               "name" : "Sand",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Snowflakes in the Sand"
+            }, {
+               "name" : "Carini",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trey-anastasio-band/2024/brooklyn-steel-brooklyn-ny-5babef00.html"
+   }, {
+      "id" : "4babef02",
+      "versionId" : "g1371b1e1",
+      "eventDate" : "21-05-2024",
+      "lastUpdated" : "2025-08-04T14:13:35.974+0000",
+      "artist" : {
+         "mbid" : "822b1e81-d1a0-47fb-b7f9-ef614b913603",
+         "name" : "Trey Anastasio Band",
+         "sortName" : "Trey Anastasio Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trey-anastasio-band-53d6d729.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Trey Anastasio and Classic TAB 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "The Moma Dance",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Back on the Train",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Steam",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Drifting",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Spin",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Pillow Jets",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Wolfman's Brother",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "No Men in No Man's Land",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "...And Flew Away",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "The Kid in the Sky"
+            }, {
+               "name" : "Monsters",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            }, {
+               "name" : "Evolve",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "The Well",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Everything's Right",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         }, {
+            "name" : "Encore",
+            "song" : [ {
+               "name" : "When the Words Go Away",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : "Trey on acoustic"
+            }, {
+               "name" : "Heavy Things",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "info" : "Trey on acoustic"
+            }, {
+               "name" : "Ghost",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trey-anastasio-band/2024/brooklyn-steel-brooklyn-ny-4babef02.html"
+   }, {
+      "id" : "73a95a71",
+      "versionId" : "g13571d0d",
+      "eventDate" : "19-05-2024",
+      "lastUpdated" : "2024-10-16T21:20:22.948+0000",
+      "artist" : {
+         "mbid" : "82b922a4-410d-4b89-ac2e-c0d1f00136cd",
+         "name" : "Hermanos Gutiérrez",
+         "sortName" : "Hermanos Gutiérrez",
+         "disambiguation" : "Two-piece band formed of the brothers Alejandro and Stephan Gutiérrez",
+         "url" : "https://www.setlist.fm/setlists/hermanos-gutierrez-53f2e305.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sonido cósmico"
+            }, {
+               "name" : "Esperanza"
+            }, {
+               "name" : "Low Sun"
+            }, {
+               "name" : "Los navegantes"
+            }, {
+               "name" : "Tres hermanos"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/hermanos-gutierrez/2024/brooklyn-steel-brooklyn-ny-73a95a71.html"
+   }, {
+      "id" : "6ba97a32",
+      "versionId" : "g347f58b",
+      "eventDate" : "18-05-2024",
+      "lastUpdated" : "2025-02-20T13:37:21.372+0000",
+      "artist" : {
+         "mbid" : "82b922a4-410d-4b89-ac2e-c0d1f00136cd",
+         "name" : "Hermanos Gutiérrez",
+         "sortName" : "Hermanos Gutiérrez",
+         "disambiguation" : "Two-piece band formed of the brothers Alejandro and Stephan Gutiérrez",
+         "url" : "https://www.setlist.fm/setlists/hermanos-gutierrez-53f2e305.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Thunderbird"
+            }, {
+               "name" : "Rain God"
+            }, {
+               "name" : "El bueno y el malo"
+            }, {
+               "name" : "Recuerdos / Hijos del sol"
+            }, {
+               "name" : "Venganza / El jardín"
+            }, {
+               "name" : "",
+               "info" : "Desert medley"
+            }, {
+               "name" : "Esperanza"
+            }, {
+               "name" : "Tres hermanos"
+            }, {
+               "name" : "Sonido cósmico"
+            }, {
+               "name" : "Until We Meet Again"
+            }, {
+               "name" : "Low Sun"
+            }, {
+               "name" : "Los navegantes"
+            }, {
+               "name" : "El desierto"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Pueblo Man"
+            }, {
+               "name" : "Nuevo mundo"
+            }, {
+               "name" : "El mar"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hermanos-gutierrez/2024/brooklyn-steel-brooklyn-ny-6ba97a32.html"
+   }, {
+      "id" : "63ab52bf",
+      "versionId" : "g5bbbe3a4",
+      "eventDate" : "17-05-2024",
+      "lastUpdated" : "2024-05-18T06:40:31.434+0000",
+      "artist" : {
+         "mbid" : "ccd4879c-5e88-4385-b131-bf65296bf245",
+         "name" : "Echo & the Bunnymen",
+         "sortName" : "Echo & the Bunnymen",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/echo-and-the-bunnymen-73d6b231.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Songs to Learn & Sing 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Going Up"
+            }, {
+               "name" : "All That Jazz"
+            }, {
+               "name" : "Flowers"
+            }, {
+               "name" : "Rescue"
+            }, {
+               "name" : "All My Colours (Zimbo)"
+            }, {
+               "name" : "Seven Seas"
+            }, {
+               "name" : "Bring On the Dancing Horses"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Show of Strength"
+            }, {
+               "name" : "Over the Wall"
+            }, {
+               "name" : "Never Stop"
+            }, {
+               "name" : "Nothing Lasts Forever / Walk on the Wild Side / Don't Let Me Down / Nothing Lasts Forever-reprise / Coney Island Baby"
+            }, {
+               "name" : "Bedbugs and Ballyhoo"
+            }, {
+               "name" : "The Killing Moon"
+            }, {
+               "name" : "Lips Like Sugar"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Cutter"
+            }, {
+               "name" : "Ocean Rain"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/echo-and-the-bunnymen/2024/brooklyn-steel-brooklyn-ny-63ab52bf.html"
+   }, {
+      "id" : "53a963dd",
+      "versionId" : "g23bb24a3",
+      "eventDate" : "17-05-2024",
+      "lastUpdated" : "2024-05-20T05:52:48.950+0000",
+      "artist" : {
+         "mbid" : "3dac8f70-7930-44b4-8ab0-9cd87458fcca",
+         "name" : "Nicola Caminiti",
+         "sortName" : "Caminiti, Nicola",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nicola-caminiti-43feab0f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opened for Echo & the Bunnymen. Mike Smith, Echo & the Bunnymen keyboardist, guested with Nicola Caminiti on sax.",
+      "url" : "https://www.setlist.fm/setlist/nicola-caminiti/2024/brooklyn-steel-brooklyn-ny-53a963dd.html"
+   }, {
+      "id" : "2bab6c4e",
+      "versionId" : "g43b8cfcb",
+      "eventDate" : "16-05-2024",
+      "lastUpdated" : "2024-05-27T19:32:35.152+0000",
+      "artist" : {
+         "mbid" : "d10d6441-dcc1-4202-93bf-0c0acf72913a",
+         "name" : "Soul Glo",
+         "sortName" : "Soul Glo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soul-glo-1bcbd508.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gold Chain Punk (whogonbeatmyass?)"
+            }, {
+               "name" : "Driponomics"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/soul-glo/2024/brooklyn-steel-brooklyn-ny-2bab6c4e.html"
+   }, {
+      "id" : "23ab6c4f",
+      "versionId" : "g43b8cfd7",
+      "eventDate" : "16-05-2024",
+      "lastUpdated" : "2024-05-27T19:31:48.639+0000",
+      "artist" : {
+         "mbid" : "e160f589-dbe6-4b8f-88b5-f528ff4443b4",
+         "name" : "Mannequin Pussy",
+         "sortName" : "Mannequin Pussy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mannequin-pussy-33c07c51.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "I Got Heaven"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Romantic"
+            }, {
+               "name" : "Control"
+            }, {
+               "name" : "Sometimes"
+            }, {
+               "name" : "Loud Bark"
+            }, {
+               "name" : "Drunk II"
+            }, {
+               "name" : "I Got Heaven"
+            }, {
+               "name" : "I Don’t Know You"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/mannequin-pussy/2024/brooklyn-steel-brooklyn-ny-23ab6c4f.html"
+   }, {
+      "id" : "43a97bf7",
+      "versionId" : "g63bba283",
+      "eventDate" : "15-05-2024",
+      "lastUpdated" : "2024-05-16T03:11:27.201+0000",
+      "artist" : {
+         "mbid" : "c926bc4a-97c9-4412-b56e-7e5844f09579",
+         "name" : "Amen Dunes",
+         "sortName" : "Amen Dunes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/amen-dunes-bd431f6.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Death Jokes"
+            }, {
+               "name" : "What I Want"
+            }, {
+               "name" : "Ian"
+            }, {
+               "name" : "Rugby Child"
+            }, {
+               "name" : "Blue Rose"
+            }, {
+               "name" : "Boys"
+            }, {
+               "name" : "Miki Dora"
+            }, {
+               "name" : "Splits Are Parted"
+            }, {
+               "name" : "Mary Anne"
+            }, {
+               "name" : "Solo Tape"
+            }, {
+               "name" : "Predator"
+            }, {
+               "name" : "Skipping School"
+            }, {
+               "name" : "Bedroom Drum"
+            }, {
+               "name" : "Lonely Richard"
+            }, {
+               "name" : "Joyrider"
+            }, {
+               "name" : "Purple Land"
+            }, {
+               "name" : "I Don’t Mind"
+            }, {
+               "name" : "Round the World"
+            }, {
+               "name" : "I Know Myself"
+            }, {
+               "name" : "Believe"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/amen-dunes/2024/brooklyn-steel-brooklyn-ny-43a97bf7.html"
+   }, {
+      "id" : "3a9fd33",
+      "versionId" : "g3bba5418",
+      "eventDate" : "12-05-2024",
+      "lastUpdated" : "2024-05-14T09:42:57.696+0000",
+      "artist" : {
+         "mbid" : "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+         "name" : "Holly Humberstone",
+         "sortName" : "Humberstone, Holly",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/holly-humberstone-3bf70040.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Paint My Bedroom Black"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Paint My Bedroom Black"
+            }, {
+               "name" : "Into Your Room"
+            }, {
+               "name" : "The Walls Are Way Too Thin"
+            }, {
+               "name" : "Overkill"
+            }, {
+               "name" : "Kissing in Swimming Pools"
+            }, {
+               "name" : "Cocoon"
+            }, {
+               "name" : "Dive"
+            }, {
+               "name" : "Deep End"
+            }, {
+               "name" : "Can You Afford to Lose Me?"
+            }, {
+               "name" : "Antichrist"
+            }, {
+               "name" : "Down Swinging"
+            }, {
+               "name" : "Lauren"
+            }, {
+               "name" : "Falling Asleep at the Wheel"
+            }, {
+               "name" : "Elvis Impersonators"
+            }, {
+               "name" : "Flatlining"
+            }, {
+               "name" : "Girl"
+            }, {
+               "name" : "Sleep Tight"
+            }, {
+               "name" : "Ghost Me"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Friendly Fire"
+            }, {
+               "name" : "Scarlett"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/holly-humberstone/2024/brooklyn-steel-brooklyn-ny-3a9fd33.html"
+   }, {
+      "id" : "1ba9fd30",
+      "versionId" : "g63bd6ea7",
+      "eventDate" : "12-05-2024",
+      "lastUpdated" : "2024-05-05T18:32:31.591+0000",
+      "artist" : {
+         "mbid" : "5fe67b7e-2cfe-46a7-afe0-37018d579775",
+         "name" : "Carol Ades",
+         "sortName" : "Ades, Carol",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/carol-ades-63ff8ad7.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carol-ades/2024/brooklyn-steel-brooklyn-ny-1ba9fd30.html"
+   }, {
+      "id" : "3a9fd3b",
+      "versionId" : "g23ba149b",
+      "eventDate" : "11-05-2024",
+      "lastUpdated" : "2024-05-12T03:52:15.649+0000",
+      "artist" : {
+         "mbid" : "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+         "name" : "Holly Humberstone",
+         "sortName" : "Humberstone, Holly",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/holly-humberstone-3bf70040.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Paint My Bedroom Black"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Paint My Bedroom Black"
+            }, {
+               "name" : "Into Your Room"
+            }, {
+               "name" : "The Walls Are Way Too Thin"
+            }, {
+               "name" : "Overkill"
+            }, {
+               "name" : "Kissing in Swimming Pools"
+            }, {
+               "name" : "Cocoon"
+            }, {
+               "name" : "Dive"
+            }, {
+               "name" : "Deep End"
+            }, {
+               "name" : "Can You Afford to Lose Me?"
+            }, {
+               "name" : "Antichrist"
+            }, {
+               "name" : "Down Swinging"
+            }, {
+               "name" : "Lauren"
+            }, {
+               "name" : "Falling Asleep at the Wheel"
+            }, {
+               "name" : "Elvis Impersonators"
+            }, {
+               "name" : "Flatlining"
+            }, {
+               "name" : "Girl"
+            }, {
+               "name" : "Sleep Tight"
+            }, {
+               "name" : "Ghost Me"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Friendly Fire"
+            }, {
+               "name" : "Scarlett"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/holly-humberstone/2024/brooklyn-steel-brooklyn-ny-3a9fd3b.html"
+   } ]
+}

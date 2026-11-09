@@ -1,0 +1,12 @@
+[project]
+name = "subway-survey-text2sql-improved"
+version = "0.1.0"
+description = "subway-survey-text2sql plus schema mappings, enum values, few-shot examples, and a tool guardrail"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.109.0",
+    "uvicorn>=0.27.0",
+    "openai-agents[litellm]>=0.23",
+    "google-cloud-aiplatform>=1.40.0",
+    "duckdb>=1.1",
+]

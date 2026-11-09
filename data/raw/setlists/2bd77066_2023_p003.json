@@ -1,0 +1,1463 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 112,
+   "setlist" : [ {
+      "id" : "4ba0ff52",
+      "versionId" : "g2b8398ce",
+      "eventDate" : "19-10-2023",
+      "lastUpdated" : "2023-10-22T07:01:40.287+0000",
+      "artist" : {
+         "mbid" : "ea321799-9b1d-4e74-a074-a5facf597d82",
+         "name" : "Fugees",
+         "sortName" : "Fugees",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fugees-5bd66be4.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Miseducation of Lauryn Hill 25th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Vocab"
+            }, {
+               "name" : "How Many Mics"
+            }, {
+               "name" : "Family Business",
+               "with" : {
+                  "mbid" : "7324c1c8-5916-432a-be45-dd149ca9f325",
+                  "name" : "John Forté",
+                  "sortName" : "Forté, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-forte-3d45993.html"
+               }
+            }, {
+               "name" : "The Mask"
+            }, {
+               "name" : "The Score"
+            }, {
+               "name" : "Nappy Heads"
+            }, {
+               "name" : "Zealots"
+            }, {
+               "name" : "Cowboys",
+               "with" : {
+                  "mbid" : "25f004ca-c396-424a-a726-3ea4784adadb",
+                  "name" : "Outsidaz",
+                  "sortName" : "Outsidaz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/outsidaz-53d65375.html"
+               }
+            }, {
+               "name" : "No Woman, No Cry",
+               "cover" : {
+                  "mbid" : "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name" : "Bob Marley & The Wailers",
+                  "sortName" : "Marley, Bob & The Wailers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+               },
+               "info" : "Wyclef solo"
+            }, {
+               "name" : "Killing Me Softly With His Song",
+               "cover" : {
+                  "mbid" : "7c3cf006-3352-43f4-acc0-252310b327da",
+                  "name" : "Lori Lieberman",
+                  "sortName" : "Lieberman, Lori",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lori-lieberman-2bd7acb6.html"
+               }
+            }, {
+               "name" : "Ready or Not"
+            }, {
+               "name" : "911",
+               "cover" : {
+                  "mbid" : "4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c",
+                  "name" : "Wyclef Jean",
+                  "sortName" : "Jean, Wyclef",
+                  "disambiguation" : "Haitian rapper, musician and actor",
+                  "url" : "https://www.setlist.fm/setlists/wyclef-jean-53d66be5.html"
+               },
+               "info" : "Wyclef solo"
+            }, {
+               "name" : "Fu-Gee-La",
+               "info" : "with snippets of Bobby Shmurda’s “Hot N—a.\""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fugees/2023/barclays-center-brooklyn-ny-4ba0ff52.html"
+   }, {
+      "id" : "3a0890f",
+      "versionId" : "g2b8250de",
+      "eventDate" : "19-10-2023",
+      "lastUpdated" : "2023-10-20T20:30:19.501+0000",
+      "artist" : {
+         "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+         "name" : "Ms. Lauryn Hill",
+         "sortName" : "Hill, Lauryn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Miseducation of Lauryn Hill 25th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Everything Is Everything"
+            }, {
+               "name" : "Superstar"
+            }, {
+               "name" : "When It Hurts So Bad"
+            }, {
+               "name" : "Final Hour"
+            }, {
+               "name" : "Lost Ones"
+            }, {
+               "name" : "Ex-Factor"
+            }, {
+               "name" : "To Zion"
+            }, {
+               "name" : "Nothing Even Matters"
+            }, {
+               "name" : "Can't Take My Eyes Off You",
+               "cover" : {
+                  "mbid" : "3c714102-94d8-42f4-9005-fb8a75c2766d",
+                  "name" : "Frankie Valli",
+                  "sortName" : "Valli, Frankie",
+                  "disambiguation" : "American singer and actor, best known as the frontman of The Four Seasons",
+                  "url" : "https://www.setlist.fm/setlists/frankie-valli-3d6157f.html"
+               }
+            }, {
+               "name" : "I Used to Love Him"
+            }, {
+               "name" : "Forgive Them Father"
+            }, {
+               "name" : "The Miseducation of Lauryn Hill"
+            }, {
+               "name" : "Doo Wop (That Thing)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ms-lauryn-hill/2023/barclays-center-brooklyn-ny-3a0890f.html"
+   }, {
+      "id" : "ba0e966",
+      "versionId" : "g3827107",
+      "eventDate" : "18-10-2023",
+      "lastUpdated" : "2023-10-19T19:28:26.985+0000",
+      "artist" : {
+         "mbid" : "81148ae0-47e9-4830-ac97-8e69b6c71706",
+         "name" : "Jim Jones",
+         "sortName" : "Jones, Jim",
+         "disambiguation" : "rapper",
+         "url" : "https://www.setlist.fm/setlists/jim-jones-2bd69c46.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Fly High"
+            }, {
+               "name" : "Walk It Out"
+            } ]
+         } ]
+      },
+      "info" : "Performed during Halftime of the WNBA Finals Game 4 with Juelz Santana",
+      "url" : "https://www.setlist.fm/setlist/jim-jones/2023/barclays-center-brooklyn-ny-ba0e966.html"
+   }, {
+      "id" : "ba0e962",
+      "versionId" : "g3827113",
+      "eventDate" : "18-10-2023",
+      "lastUpdated" : "2023-10-19T19:21:53.160+0000",
+      "artist" : {
+         "mbid" : "bea235a0-db63-44b1-881e-264d25791f5a",
+         "name" : "Juelz Santana",
+         "sortName" : "Santana, Juelz",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/juelz-santana-6bd6b2d2.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "There It Go (The Whistle Song)"
+            }, {
+               "name" : "Dipset (Santana's Town)"
+            } ]
+         } ]
+      },
+      "info" : "Performed during Halftime of the WNBA Finals Game 4 with Jim Jones",
+      "url" : "https://www.setlist.fm/setlist/juelz-santana/2023/barclays-center-brooklyn-ny-ba0e962.html"
+   }, {
+      "id" : "7ba0f6a8",
+      "versionId" : "gb82711a",
+      "eventDate" : "15-10-2023",
+      "lastUpdated" : "2023-10-19T19:18:33.950+0000",
+      "artist" : {
+         "mbid" : "bc1b5c95-e6d6-46b5-957a-5e8908b02c1e",
+         "name" : "Lil’ Kim",
+         "sortName" : "Lil’ Kim",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/lil-kim-2bd69cd6.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crush on You"
+            }, {
+               "name" : "Lighters Up"
+            } ]
+         } ]
+      },
+      "info" : "Halftime Show for NY Liberty WNBA Finals Game 3",
+      "url" : "https://www.setlist.fm/setlist/lil-kim/2023/barclays-center-brooklyn-ny-7ba0f6a8.html"
+   }, {
+      "id" : "6ba31efe",
+      "versionId" : "g2385b8cb",
+      "eventDate" : "07-10-2023",
+      "lastUpdated" : "2023-10-05T00:16:00.649+0000",
+      "artist" : {
+         "mbid" : "d8e07579-ff5a-41f2-b7a7-c71880b8287a",
+         "name" : "d4vd",
+         "sortName" : "davd",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/d4vd-43fc2b63.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/d4vd/2023/barclays-center-brooklyn-ny-6ba31efe.html"
+   }, {
+      "id" : "63a31eff",
+      "versionId" : "g63853267",
+      "eventDate" : "07-10-2023",
+      "lastUpdated" : "2023-10-09T12:15:44.442+0000",
+      "artist" : {
+         "mbid" : "272989c8-5535-492d-a25c-9f58803e027f",
+         "name" : "SZA",
+         "sortName" : "SZA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sza-73dd92f9.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "SOS"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "PSA"
+            }, {
+               "name" : "Seek & Destroy"
+            }, {
+               "name" : "Notice Me"
+            }, {
+               "name" : "Love Galore"
+            }, {
+               "name" : "Broken Clocks"
+            }, {
+               "name" : "Forgiveless"
+            }, {
+               "name" : "Used"
+            }, {
+               "name" : "Ghost in the Machine"
+            }, {
+               "name" : "Blind"
+            }, {
+               "name" : "Shirt"
+            }, {
+               "name" : "All the Stars",
+               "cover" : {
+                  "mbid" : "995fb493-47d4-4810-b934-a9b70847ec47",
+                  "name" : "Kendrick Lamar & SZA",
+                  "sortName" : "Lamar, Kendrick & SZA",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kendrick-lamar-and-sza-33ca90a1.html"
+               }
+            }, {
+               "name" : "Prom"
+            }, {
+               "name" : "Doves in the Wind"
+            }, {
+               "name" : "Garden (Say It Like Dat)"
+            }, {
+               "name" : "F2F"
+            }, {
+               "name" : "Low"
+            }, {
+               "name" : "Supermodel / Special / Nobody Gets Me"
+            }, {
+               "name" : "Gone Girl"
+            }, {
+               "name" : "SOS"
+            }, {
+               "name" : "Kiss Me More",
+               "cover" : {
+                  "mbid" : "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                  "name" : "Doja Cat",
+                  "sortName" : "Doja Cat",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/doja-cat-6bd9c67a.html"
+               }
+            }, {
+               "name" : "Snooze"
+            }, {
+               "name" : "Kill Bill"
+            }, {
+               "name" : "I Hate U"
+            }, {
+               "name" : "The Weekend"
+            }, {
+               "name" : "Good Days"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sza/2023/barclays-center-brooklyn-ny-63a31eff.html"
+   }, {
+      "id" : "5ba32bdc",
+      "versionId" : "g35ce913",
+      "eventDate" : "06-10-2023",
+      "lastUpdated" : "2024-12-21T13:28:56.614+0000",
+      "artist" : {
+         "mbid" : "272989c8-5535-492d-a25c-9f58803e027f",
+         "name" : "SZA",
+         "sortName" : "SZA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sza-73dd92f9.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "SOS"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "PSA"
+            }, {
+               "name" : "Seek & Destroy"
+            }, {
+               "name" : "Notice Me"
+            }, {
+               "name" : "Love Galore"
+            }, {
+               "name" : "Broken Clocks"
+            }, {
+               "name" : "Forgiveless"
+            }, {
+               "name" : "Used"
+            }, {
+               "name" : "Bag Lady",
+               "cover" : {
+                  "mbid" : "321531fc-db73-4ffa-a959-61a61a2908c1",
+                  "name" : "Erykah Badu",
+                  "sortName" : "Badu, Erykah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/erykah-badu-3bd6885c.html"
+               }
+            }, {
+               "name" : "Ghost in the Machine"
+            }, {
+               "name" : "Blind"
+            }, {
+               "name" : "Shirt"
+            }, {
+               "name" : "Smoking on My Ex Pack",
+               "tape" : true
+            }, {
+               "name" : "All the Stars",
+               "cover" : {
+                  "mbid" : "995fb493-47d4-4810-b934-a9b70847ec47",
+                  "name" : "Kendrick Lamar & SZA",
+                  "sortName" : "Lamar, Kendrick & SZA",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kendrick-lamar-and-sza-33ca90a1.html"
+               }
+            }, {
+               "name" : "Prom"
+            }, {
+               "name" : "Normal Girl"
+            }, {
+               "name" : "Garden (Say It Like Dat)"
+            }, {
+               "name" : "F2F"
+            }, {
+               "name" : "Drew Barrymore"
+            }, {
+               "name" : "Doves in the Wind"
+            }, {
+               "name" : "Low"
+            }, {
+               "name" : "Supermodel / Special"
+            }, {
+               "name" : "Nobody Gets Me"
+            }, {
+               "name" : "Gone Girl"
+            }, {
+               "name" : "SOS"
+            }, {
+               "name" : "Kiss Me More",
+               "cover" : {
+                  "mbid" : "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                  "name" : "Doja Cat",
+                  "sortName" : "Doja Cat",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/doja-cat-6bd9c67a.html"
+               }
+            }, {
+               "name" : "Love Language"
+            }, {
+               "name" : "Snooze"
+            }, {
+               "name" : "Diamond Boy (DTM)"
+            }, {
+               "name" : "Kill Bill"
+            }, {
+               "name" : "I Hate U"
+            }, {
+               "name" : "The Weekend"
+            }, {
+               "name" : "Good Days"
+            } ]
+         } ]
+      },
+      "info" : "Recorded for Apple Music Live: SZA",
+      "url" : "https://www.setlist.fm/setlist/sza/2023/barclays-center-brooklyn-ny-5ba32bdc.html"
+   }, {
+      "id" : "53a32bd1",
+      "versionId" : "g4b85839a",
+      "eventDate" : "06-10-2023",
+      "lastUpdated" : "2023-10-06T22:53:44.893+0000",
+      "artist" : {
+         "mbid" : "d8e07579-ff5a-41f2-b7a7-c71880b8287a",
+         "name" : "d4vd",
+         "sortName" : "davd",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/d4vd-43fc2b63.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/d4vd/2023/barclays-center-brooklyn-ny-53a32bd1.html"
+   }, {
+      "id" : "3a381cb",
+      "versionId" : "g23874817",
+      "eventDate" : "27-09-2023",
+      "lastUpdated" : "2023-09-26T00:50:12.040+0000",
+      "artist" : {
+         "mbid" : "14c7b043-940e-4f71-8c57-2f4d76db53cc",
+         "name" : "DJ Scratch",
+         "sortName" : "Scratch, DJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-scratch-13d49dc9.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-scratch/2023/barclays-center-brooklyn-ny-3a381cb.html"
+   }, {
+      "id" : "33a38815",
+      "versionId" : "g1b8765a0",
+      "eventDate" : "27-09-2023",
+      "lastUpdated" : "2023-09-25T07:22:29.772+0000",
+      "artist" : {
+         "mbid" : "cfbc0924-0035-4d6c-8197-f024653af823",
+         "name" : "Nas",
+         "sortName" : "Nas",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/nas-33d69c59.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "NY State of Mind"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nas/2023/barclays-center-brooklyn-ny-33a38815.html"
+   }, {
+      "id" : "1ba381d4",
+      "versionId" : "g4b858f8a",
+      "eventDate" : "27-09-2023",
+      "lastUpdated" : "2023-10-06T14:42:59.213+0000",
+      "artist" : {
+         "mbid" : "a8ebde98-7e91-46c7-992c-90039ba42017",
+         "name" : "De La Soul",
+         "sortName" : "De La Soul",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/de-la-soul-1bd6d920.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Much More"
+            }, {
+               "name" : "Stakes Is High",
+               "with" : {
+                  "mbid" : "bb3cbea2-5ad4-4917-bc84-8a1975d40315",
+                  "name" : "Talib Kweli",
+                  "sortName" : "Talib Kweli",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talib-kweli-23d69c5b.html"
+               }
+            }, {
+               "name" : "Move Somethin'",
+               "cover" : {
+                  "mbid" : "abb70fe7-25a6-4f69-970f-e6acd1e3f7cb",
+                  "name" : "Reflection Eternal",
+                  "sortName" : "Reflection Eternal",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/reflection-eternal-3bd69cf8.html"
+               },
+               "with" : {
+                  "mbid" : "bb3cbea2-5ad4-4917-bc84-8a1975d40315",
+                  "name" : "Talib Kweli",
+                  "sortName" : "Talib Kweli",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talib-kweli-23d69c5b.html"
+               }
+            }, {
+               "name" : "Get By",
+               "cover" : {
+                  "mbid" : "bb3cbea2-5ad4-4917-bc84-8a1975d40315",
+                  "name" : "Talib Kweli",
+                  "sortName" : "Talib Kweli",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talib-kweli-23d69c5b.html"
+               },
+               "with" : {
+                  "mbid" : "bb3cbea2-5ad4-4917-bc84-8a1975d40315",
+                  "name" : "Talib Kweli",
+                  "sortName" : "Talib Kweli",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talib-kweli-23d69c5b.html"
+               }
+            }, {
+               "name" : "Rock Co.Kane Flow",
+               "with" : {
+                  "mbid" : "bb3cbea2-5ad4-4917-bc84-8a1975d40315",
+                  "name" : "Talib Kweli",
+                  "sortName" : "Talib Kweli",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talib-kweli-23d69c5b.html"
+               }
+            }, {
+               "name" : "Simon Says",
+               "cover" : {
+                  "mbid" : "a4d62ced-2f87-488a-9c76-ab88ea7a2cbf",
+                  "name" : "Pharoahe Monch",
+                  "sortName" : "Pharoahe Monch",
+                  "disambiguation" : "American rapper",
+                  "url" : "https://www.setlist.fm/setlists/pharoahe-monch-33d69cf1.html"
+               },
+               "with" : {
+                  "mbid" : "a4d62ced-2f87-488a-9c76-ab88ea7a2cbf",
+                  "name" : "Pharoahe Monch",
+                  "sortName" : "Pharoahe Monch",
+                  "disambiguation" : "American rapper",
+                  "url" : "https://www.setlist.fm/setlists/pharoahe-monch-33d69cf1.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/de-la-soul/2023/barclays-center-brooklyn-ny-1ba381d4.html"
+   }, {
+      "id" : "13a381d5",
+      "versionId" : "g2ba2e82a",
+      "eventDate" : "27-09-2023",
+      "lastUpdated" : "2024-07-09T03:59:44.811+0000",
+      "artist" : {
+         "mbid" : "0febdcf7-4e1f-4661-9493-b40427de2c13",
+         "name" : "Wu‐Tang Clan",
+         "sortName" : "Wu‐Tang Clan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wutang-clan-3bd69c24.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "NY State of Mind"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Liquid Swords",
+               "cover" : {
+                  "mbid" : "550cb78b-4995-4873-baea-76ef265531f5",
+                  "name" : "GZA/Genius",
+                  "sortName" : "GZA/Genius",
+                  "disambiguation" : "Wu‐Tang Clan",
+                  "url" : "https://www.setlist.fm/setlists/gzagenius-33d69c1d.html"
+               }
+            }, {
+               "name" : "Daytona 500",
+               "cover" : {
+                  "mbid" : "3b39abeb-0064-4eed-9ddd-ee47a45c54cb",
+                  "name" : "Ghostface Killah",
+                  "sortName" : "Ghostface Killah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghostface-killah-2bd69c66.html"
+               }
+            }, {
+               "name" : "Method Man"
+            }, {
+               "name" : "Protect Ya Neck"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wutang-clan/2023/barclays-center-brooklyn-ny-13a381d5.html"
+   }, {
+      "id" : "ba381ca",
+      "versionId" : "g345d573",
+      "eventDate" : "22-09-2023",
+      "lastUpdated" : "2025-03-07T09:15:19.031+0000",
+      "artist" : {
+         "mbid" : "47e7833f-f1a7-4703-942d-9acf12f39a1d",
+         "name" : "Arcángel",
+         "sortName" : "Arcángel",
+         "disambiguation" : "Austin Agustín Santos, reggaeton artist",
+         "url" : "https://www.setlist.fm/setlists/arcangel-23d69c23.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "JS4E"
+            }, {
+               "name" : "La Jumpa"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arcangel/2023/barclays-center-brooklyn-ny-ba381ca.html"
+   }, {
+      "id" : "53a2d7b5",
+      "versionId" : "g1b86e51c",
+      "eventDate" : "09-09-2023",
+      "lastUpdated" : "2023-09-14T13:05:27.612+0000",
+      "artist" : {
+         "mbid" : "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+         "name" : "Gunna",
+         "sortName" : "Gunna",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/gunna-63c65acb.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Gift & The Curse"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "back at it",
+               "info" : "Live debut"
+            }, {
+               "name" : "bottom",
+               "info" : "Live debut"
+            }, {
+               "name" : "ca$h $hit",
+               "info" : "Live debut"
+            }, {
+               "name" : "idk nomore",
+               "info" : "Live debut"
+            }, {
+               "name" : "south to west"
+            }, {
+               "name" : "too easy"
+            }, {
+               "name" : "poochie gown"
+            }, {
+               "name" : "P power"
+            }, {
+               "name" : "Baby Birkin"
+            }, {
+               "name" : "Drip or Drown"
+            }, {
+               "name" : "DOLLAZ ON MY HEAD"
+            }, {
+               "name" : "MET GALA"
+            }, {
+               "name" : "YOSEMITE",
+               "cover" : {
+                  "mbid" : "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                  "name" : "Travis Scott",
+                  "sortName" : "Scott, Travis",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/travis-scott-6bdeaa7e.html"
+               }
+            }, {
+               "name" : "Pedestrian"
+            }, {
+               "name" : "Mistress"
+            }, {
+               "name" : "Top Off"
+            }, {
+               "name" : "Sold Out Dates"
+            }, {
+               "name" : "Drip Too Hard",
+               "cover" : {
+                  "mbid" : "86869d63-31d7-4455-8671-959aba421fa6",
+                  "name" : "Lil Baby & Gunna",
+                  "sortName" : "Lil Baby & Gunna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lil-baby-and-gunna-73c91611.html"
+               }
+            }, {
+               "name" : "Space Cadet",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               }
+            }, {
+               "name" : "Lemonade",
+               "cover" : {
+                  "mbid" : "72f8d4f4-a167-4b66-8b65-46fe0a07f63b",
+                  "name" : "Internet Money",
+                  "sortName" : "Internet Money",
+                  "disambiguation" : "producer collective",
+                  "url" : "https://www.setlist.fm/setlists/internet-money-3bf4d82c.html"
+               }
+            }, {
+               "name" : "alright",
+               "info" : "Live debut"
+            }, {
+               "name" : "bread & butter",
+               "info" : "Live debut"
+            }, {
+               "name" : "back to the moon",
+               "info" : "Live debut"
+            }, {
+               "name" : "paybach",
+               "info" : "Live debut"
+            }, {
+               "name" : "turned your back",
+               "info" : "Live debut"
+            }, {
+               "name" : "i was just thinking",
+               "info" : "Live debut"
+            }, {
+               "name" : "Banking on Me"
+            }, {
+               "name" : "Hot",
+               "cover" : {
+                  "mbid" : "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                  "name" : "Young Thug",
+                  "sortName" : "Young Thug",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/young-thug-3bdd88c8.html"
+               }
+            }, {
+               "name" : "Ski",
+               "cover" : {
+                  "mbid" : "9194b7db-f622-4566-8f07-47154dd65e07",
+                  "name" : "Young Stoner Life, Young Thug & Gunna",
+                  "sortName" : "Young Stoner Life, Young Thug & Gunna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/young-stoner-life-young-thug-and-gunna-13f2b53d.html"
+               }
+            }, {
+               "name" : "Oh Okay"
+            }, {
+               "name" : "pushin P"
+            }, {
+               "name" : "fukumean",
+               "info" : "Live debut"
+            }, {
+               "name" : "rodeo dr",
+               "info" : "Live debut"
+            }, {
+               "name" : "Who You Foolin"
+            }, {
+               "name" : "missing me",
+               "info" : "Live debut"
+            } ]
+         } ]
+      },
+      "info" : "Gunna's first live performance in over a year, following RICO case",
+      "url" : "https://www.setlist.fm/setlist/gunna/2023/barclays-center-brooklyn-ny-53a2d7b5.html"
+   }, {
+      "id" : "5ba2d7b4",
+      "versionId" : "g7b991ab0",
+      "eventDate" : "08-09-2023",
+      "lastUpdated" : "2023-09-08T07:07:35.863+0000",
+      "artist" : {
+         "mbid" : "2b37ba5e-2162-46ca-bbad-f076f6a333bd",
+         "name" : "Asake",
+         "sortName" : "Asake",
+         "disambiguation" : "Nigerian singer–songwriter",
+         "url" : "https://www.setlist.fm/setlists/asake-63ff02df.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/asake/2023/barclays-center-brooklyn-ny-5ba2d7b4.html"
+   }, {
+      "id" : "23a2845f",
+      "versionId" : "g7b7c463c",
+      "eventDate" : "05-09-2023",
+      "lastUpdated" : "2025-09-05T12:38:16.772+0000",
+      "artist" : {
+         "mbid" : "b51c672b-85e0-48fe-8648-470a2422229f",
+         "name" : "aespa",
+         "sortName" : "aespa",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/aespa-13f431f9.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "SYNK : HYPER LINE"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "VCR #1",
+               "tape" : true
+            }, {
+               "name" : "Girls"
+            }, {
+               "name" : "ænergy"
+            }, {
+               "name" : "I’ll Make You Cry"
+            }, {
+               "name" : "Savage"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "VCR #2",
+               "tape" : true
+            }, {
+               "name" : "Menagerie",
+               "info" : "Unreleased - Karina Solo"
+            }, {
+               "name" : "Illusion"
+            }, {
+               "name" : "Thirsty"
+            }, {
+               "name" : "Lucid Dream"
+            }, {
+               "name" : "Dreams Come True",
+               "cover" : {
+                  "mbid" : "62814dab-64fe-4b70-b870-81c0145ba552",
+                  "name" : "S.E.S.",
+                  "sortName" : "S.E.S.",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/ses-43d4ef87.html"
+               }
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "VCR #3",
+               "tape" : true
+            }, {
+               "name" : "Lips",
+               "info" : "Unreleased - Winter Solo"
+            }, {
+               "name" : "Life's Too Short",
+               "info" : "English Version"
+            }, {
+               "name" : "Welcome to MY World"
+            }, {
+               "name" : "Don't Blink",
+               "info" : "Unreleased"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "VCR #4",
+               "tape" : true
+            }, {
+               "name" : "2HOT4U",
+               "info" : "Unreleased - Giselle Solo"
+            }, {
+               "name" : "YEPPI YEPPI"
+            }, {
+               "name" : "YOLO",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Hold on Tight"
+            }, {
+               "name" : "Spicy"
+            }, {
+               "name" : "Better Things"
+            } ]
+         }, {
+            "name" : "Act V",
+            "song" : [ {
+               "name" : "VCR #5",
+               "tape" : true
+            }, {
+               "name" : "Wake Up",
+               "info" : "Unreleased - Ningning Solo"
+            }, {
+               "name" : "Salty & Sweet"
+            }, {
+               "name" : "Next Level",
+               "cover" : {
+                  "mbid" : "6572df3b-3010-4dab-937d-ed788edaec2b",
+                  "name" : "A$ton Wyld",
+                  "sortName" : "Aston Wyld",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aton-wyld-43f64317.html"
+               }
+            }, {
+               "name" : "Black Mamba"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "VCR #6",
+               "tape" : true
+            }, {
+               "name" : "'Til We Meet Again"
+            }, {
+               "name" : "ICU"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/aespa/2023/barclays-center-brooklyn-ny-23a2845f.html"
+   }, {
+      "id" : "63aadab7",
+      "versionId" : "g1bb3a1d8",
+      "eventDate" : "30-08-2023",
+      "lastUpdated" : "2024-03-13T23:33:56.202+0000",
+      "artist" : {
+         "mbid" : "86119d30-d930-4e65-a97a-e31e22388166",
+         "name" : "Eason Chan",
+         "sortName" : "Chan, Eason",
+         "disambiguation" : "Hong Kong singer",
+         "url" : "https://www.setlist.fm/setlists/eason-chan-1bd3e544.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Fear and Dreams World Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/eason-chan/2023/barclays-center-brooklyn-ny-63aadab7.html"
+   }, {
+      "id" : "4ba50fee",
+      "versionId" : "g5b9887d0",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-08-27T09:34:39.255+0000",
+      "artist" : {
+         "mbid" : "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
+         "name" : "Chance the Rapper",
+         "sortName" : "Chance the Rapper",
+         "disambiguation" : "US rapper, singer, songwriter, and producer",
+         "url" : "https://www.setlist.fm/setlists/chance-the-rapper-7bde2648.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Acid Rap 10 Year Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "No Problem"
+            }, {
+               "name" : "All Night"
+            }, {
+               "name" : "Blessings"
+            }, {
+               "name" : "Good Ass Intro"
+            }, {
+               "name" : "Pusha Man"
+            }, {
+               "name" : "Paranoia"
+            }, {
+               "name" : "Everybody's Something",
+               "with" : {
+                  "mbid" : "057d211a-fba8-42d7-ad14-41f41d6f762f",
+                  "name" : "Saba",
+                  "sortName" : "Saba",
+                  "disambiguation" : "US rapper, member of Pivot",
+                  "url" : "https://www.setlist.fm/setlists/saba-3dded43.html"
+               }
+            }, {
+               "name" : "Angels",
+               "with" : {
+                  "mbid" : "057d211a-fba8-42d7-ad14-41f41d6f762f",
+                  "name" : "Saba",
+                  "sortName" : "Saba",
+                  "disambiguation" : "US rapper, member of Pivot",
+                  "url" : "https://www.setlist.fm/setlists/saba-3dded43.html"
+               }
+            }, {
+               "name" : "D.R.A.M. Sings Special"
+            }, {
+               "name" : "Sunday Candy",
+               "cover" : {
+                  "mbid" : "9ea6cea3-bc59-41e5-a4a8-ed5b8cfb73e4",
+                  "name" : "Donnie Trumpet & The Social Experiment",
+                  "sortName" : "Trumpet, Donnie & Social Experiment, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/donnie-trumpet-and-the-social-experiment-63c60663.html"
+               }
+            }, {
+               "name" : "Juice"
+            }, {
+               "name" : "Lost"
+            }, {
+               "name" : "NaNa"
+            }, {
+               "name" : "Baby Blue",
+               "cover" : {
+                  "mbid" : "031bc934-28c9-491a-8648-c078450187dc",
+                  "name" : "Action Bronson",
+                  "sortName" : "Bronson, Action",
+                  "disambiguation" : "rapper from Queens, NYC",
+                  "url" : "https://www.setlist.fm/setlists/action-bronson-7bd25600.html"
+               },
+               "info" : "Action Bronson was supposed to be there for NaNa and Baby Blue, but had a family emergency"
+            }, {
+               "name" : "I'm the One",
+               "cover" : {
+                  "mbid" : "081a2d60-9791-4e05-a075-f1890355eeee",
+                  "name" : "DJ Khaled",
+                  "sortName" : "Khaled, DJ",
+                  "disambiguation" : "American hip hop DJ & producer",
+                  "url" : "https://www.setlist.fm/setlists/dj-khaled-53d6bf99.html"
+               }
+            }, {
+               "name" : "The Highs & The Lows",
+               "with" : {
+                  "mbid" : "9757ae7d-44b1-4d63-81ce-b463fe27b9ae",
+                  "name" : "Joey Bada$$",
+                  "sortName" : "Joey Badass",
+                  "disambiguation" : "rapper",
+                  "url" : "https://www.setlist.fm/setlists/joey-bada-2bd128a6.html"
+               }
+            }, {
+               "name" : "Juicy / Doo Wop (That Thing) / To Zion / My Boo"
+            }, {
+               "name" : "Ultralight Beam",
+               "cover" : {
+                  "mbid" : "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name" : "Ye",
+                  "sortName" : "Ye",
+                  "disambiguation" : "formerly Kanye West",
+                  "url" : "https://www.setlist.fm/setlists/ye-bd6bd8a.html"
+               }
+            }, {
+               "name" : "Favorite Song"
+            }, {
+               "name" : "Smoke Again"
+            }, {
+               "name" : "Acid Rain"
+            }, {
+               "name" : "Cocoa Butter Kisses",
+               "with" : {
+                  "mbid" : "e031ec18-f8eb-46c1-b03c-e5c71399cb16",
+                  "name" : "Vic Mensa",
+                  "sortName" : "Mensa, Vic",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/vic-mensa-53d19b91.html"
+               }
+            }, {
+               "name" : "Same Drugs"
+            }, {
+               "name" : "Chain Smoker"
+            }, {
+               "name" : "Interlude (That's Love)"
+            }, {
+               "name" : "Everything's Good (Good Ass Outro)"
+            } ]
+         } ]
+      },
+      "info" : "Acid Rap 10 Year Anniversary Show",
+      "url" : "https://www.setlist.fm/setlist/chance-the-rapper/2023/barclays-center-brooklyn-ny-4ba50fee.html"
+   }, {
+      "id" : "4ba50fe2",
+      "versionId" : "g139b6da5",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-08-24T03:17:21.664+0000",
+      "artist" : {
+         "mbid" : "e031ec18-f8eb-46c1-b03c-e5c71399cb16",
+         "name" : "Vic Mensa",
+         "sortName" : "Mensa, Vic",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/vic-mensa-53d19b91.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vic-mensa/2023/barclays-center-brooklyn-ny-4ba50fe2.html"
+   } ]
+}

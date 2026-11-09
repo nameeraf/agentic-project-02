@@ -1,0 +1,1269 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 217,
+   "setlist" : [ {
+      "id" : "33af2849",
+      "versionId" : "g3bb558ec",
+      "eventDate" : "06-11-2022",
+      "lastUpdated" : "2024-03-02T10:29:30.589+0000",
+      "artist" : {
+         "mbid" : "b5bd9f88-962e-4730-84a7-795592ba42e8",
+         "name" : "Silversun Pickups",
+         "sortName" : "Silversun Pickups",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/silversun-pickups-23d6445f.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "VIP soundcheck with ticketed audience"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hidden Moon"
+            } ]
+         } ]
+      },
+      "info" : "VIP show; setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/silversun-pickups/2022/webster-hall-new-york-ny-33af2849.html"
+   }, {
+      "id" : "6bbe229a",
+      "versionId" : "g1be7813c",
+      "eventDate" : "04-11-2022",
+      "lastUpdated" : "2022-11-05T17:55:43.838+0000",
+      "artist" : {
+         "mbid" : "4dc4935e-1d04-41f0-99aa-ec449b8c5fc7",
+         "name" : "Let’s Eat Grandma",
+         "sortName" : "Let’s Eat Grandma",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lets-eat-grandma-1bc5c960.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "In the Cemetery",
+               "tape" : true
+            }, {
+               "name" : "Happy New Year"
+            }, {
+               "name" : "Falling Into Me",
+               "info" : "Extended bridge"
+            }, {
+               "name" : "Hot Pink"
+            }, {
+               "name" : "Hall of Mirrors"
+            }, {
+               "name" : "Watching You Go"
+            }, {
+               "name" : "Deep Six Textbook"
+            }, {
+               "name" : "Half Light",
+               "tape" : true
+            }, {
+               "name" : "Two Ribbons"
+            }, {
+               "name" : "Give Me a Reason"
+            }, {
+               "name" : "I Really Want to Stay at Your House",
+               "cover" : {
+                  "mbid" : "9a6273b2-72fa-47a4-a48b-073d6cbe037d",
+                  "name" : "Rosa Walton",
+                  "sortName" : "Walton, Rosa",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rosa-walton-2bc1402a.html"
+               }
+            }, {
+               "name" : "Levitation"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Donnie Darko"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lets-eat-grandma/2022/webster-hall-new-york-ny-6bbe229a.html"
+   }, {
+      "id" : "23bed08f",
+      "versionId" : "g43e2239f",
+      "eventDate" : "01-11-2022",
+      "lastUpdated" : "2022-12-09T22:59:17.708+0000",
+      "artist" : {
+         "mbid" : "736c8ea9-b5c3-4c5f-8782-28e633f0c084",
+         "name" : "Holly Humberstone",
+         "sortName" : "Humberstone, Holly",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/holly-humberstone-3bf70040.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Sleep Tight Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Vanilla"
+            }, {
+               "name" : "Thursday"
+            }, {
+               "name" : "Overkill"
+            }, {
+               "name" : "Please Don't Leave Just Yet"
+            }, {
+               "name" : "Sleep Tight"
+            }, {
+               "name" : "Deep End"
+            }, {
+               "name" : "London Is Lonely"
+            }, {
+               "name" : "Haunted House"
+            }, {
+               "name" : "Friendly Fire"
+            }, {
+               "name" : "Drop Dead"
+            }, {
+               "name" : "Can You Afford to Lose Me?"
+            }, {
+               "name" : "Scarlett"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Falling Asleep at the Wheel"
+            }, {
+               "name" : "The Walls Are Way Too Thin"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/holly-humberstone/2022/webster-hall-new-york-ny-23bed08f.html"
+   }, {
+      "id" : "4b52fb5a",
+      "versionId" : "g4badb7f2",
+      "eventDate" : "29-10-2022",
+      "lastUpdated" : "2024-08-25T06:06:03.123+0000",
+      "artist" : {
+         "mbid" : "9058d01e-8afc-47a4-8664-621fb5f159c0",
+         "name" : "Slayyyter",
+         "sortName" : "Slayyyter",
+         "disambiguation" : "American pop singer",
+         "url" : "https://www.setlist.fm/setlists/slayyyter-4bc9ff2e.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Serial Killer"
+            }, {
+               "name" : "Mine"
+            }, {
+               "name" : "Lovefool",
+               "cover" : {
+                  "mbid" : "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+                  "name" : "The Cardigans",
+                  "sortName" : "Cardigans, The",
+                  "disambiguation" : "Swedish rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-cardigans-13d6bddd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/slayyyter/2022/webster-hall-new-york-ny-4b52fb5a.html"
+   }, {
+      "id" : "33bee45d",
+      "versionId" : "g13e6e1a5",
+      "eventDate" : "29-10-2022",
+      "lastUpdated" : "2022-10-28T12:56:47.893+0000",
+      "artist" : {
+         "mbid" : "2ef6cec2-fee0-40d9-9107-2ce5e7f4ecd8",
+         "name" : "Guus Meeuwis",
+         "sortName" : "Meeuwis, Guus",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/guus-meeuwis-33d6f0e5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/guus-meeuwis/2022/webster-hall-new-york-ny-33bee45d.html"
+   }, {
+      "id" : "2bbee45e",
+      "versionId" : "g3e6e1a7",
+      "eventDate" : "28-10-2022",
+      "lastUpdated" : "2022-10-28T12:56:28.884+0000",
+      "artist" : {
+         "mbid" : "2ef6cec2-fee0-40d9-9107-2ce5e7f4ecd8",
+         "name" : "Guus Meeuwis",
+         "sortName" : "Meeuwis, Guus",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/guus-meeuwis-33d6f0e5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/guus-meeuwis/2022/webster-hall-new-york-ny-2bbee45e.html"
+   }, {
+      "id" : "13bef12d",
+      "versionId" : "g5be683b4",
+      "eventDate" : "26-10-2022",
+      "lastUpdated" : "2022-10-27T06:46:55.541+0000",
+      "artist" : {
+         "mbid" : "eac962e1-0295-4e69-a266-4dab2adb4f11",
+         "name" : "Kevin Morby",
+         "sortName" : "Morby, Kevin",
+         "disambiguation" : "US singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/kevin-morby-13da7149.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "This Is a Photograph"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kevin-morby/2022/webster-hall-new-york-ny-13bef12d.html"
+   }, {
+      "id" : "53be8755",
+      "versionId" : "g3be6b444",
+      "eventDate" : "24-10-2022",
+      "lastUpdated" : "2022-10-25T12:48:21.657+0000",
+      "artist" : {
+         "mbid" : "8ece873f-55ce-41d5-9ffa-5e0319b2fc28",
+         "name" : "Amythyst Kiah",
+         "sortName" : "Kiah, Amythyst",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/amythyst-kiah-6bcff296.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hangover Blues"
+            }, {
+               "name" : "Sugar",
+               "cover" : {
+                  "mbid" : "c0b2500e-0cef-4130-869d-732b23ed9df5",
+                  "name" : "Tori Amos",
+                  "sortName" : "Amos, Tori",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tori-amos-13d6b9e9.html"
+               }
+            }, {
+               "name" : "Fancy Drones (Fracture Me)"
+            }, {
+               "name" : "Wild Turkey"
+            }, {
+               "name" : "Firewater"
+            }, {
+               "name" : "Heart of Gold",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Trouble So Hard",
+               "cover" : {
+                  "mbid" : "a4073adb-937f-4e44-8d22-0330720f6f20",
+                  "name" : "Vera Hall",
+                  "sortName" : "Hall, Vera",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vera-hall-13d601a9.html"
+               }
+            }, {
+               "name" : "Tender Organs"
+            }, {
+               "name" : "Black Myself",
+               "cover" : {
+                  "mbid" : "2d3b1855-679e-44b4-9294-3c4b705cf6e1",
+                  "name" : "Our Native Daughters",
+                  "sortName" : "Our Native Daughters",
+                  "disambiguation" : "groups comprised of Rhiannon Giddens, Leyla McCalla, Allison Russell and Amythyst Kiah",
+                  "url" : "https://www.setlist.fm/setlists/our-native-daughters-1bc91974.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/amythyst-kiah/2022/webster-hall-new-york-ny-53be8755.html"
+   }, {
+      "id" : "6bbe9686",
+      "versionId" : "g134c4dad",
+      "eventDate" : "23-10-2022",
+      "lastUpdated" : "2025-05-05T19:38:52.766+0000",
+      "artist" : {
+         "mbid" : "7de398f0-b4cf-476d-ac60-41d47d3511ca",
+         "name" : "Rawayana",
+         "sortName" : "Rawayana",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rawayana-5bd39b60.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Funky fiesta"
+            }, {
+               "name" : "Vocabulario básico"
+            }, {
+               "name" : "Entre tus sábanas"
+            }, {
+               "name" : "Welcome to el sur"
+            }, {
+               "name" : "No quiero webona'"
+            }, {
+               "name" : "Into You"
+            }, {
+               "name" : "Caney"
+            }, {
+               "name" : "Últimos días",
+               "cover" : {
+                  "mbid" : "5838185a-0ee6-4a0b-8d4e-76a6e15f7d4b",
+                  "name" : "Zoé",
+                  "sortName" : "Zoé",
+                  "disambiguation" : "Mexican rock band",
+                  "url" : "https://www.setlist.fm/setlists/zoe-4bd6030e.html"
+               }
+            }, {
+               "name" : "Añejo"
+            }, {
+               "name" : "Sin dormir"
+            }, {
+               "name" : "Break"
+            }, {
+               "name" : "Palmera del desierto"
+            }, {
+               "name" : "Tucacas"
+            }, {
+               "name" : "Sin ti",
+               "cover" : {
+                  "mbid" : "c4e7d839-abd4-4936-a192-f3bc3097ff33",
+                  "name" : "King Changó",
+                  "sortName" : "King Changó",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/king-chango-43d78b67.html"
+               }
+            }, {
+               "name" : "Algo distinto"
+            }, {
+               "name" : "No significa"
+            }, {
+               "name" : "Véngase I / Véngase II"
+            }, {
+               "name" : "High"
+            }, {
+               "name" : "#Sádico"
+            }, {
+               "name" : "Music Sounds Better With You",
+               "cover" : {
+                  "mbid" : "7b75e88a-f211-4886-8c3d-dd9d7171eee5",
+                  "name" : "Stardust",
+                  "sortName" : "Stardust",
+                  "disambiguation" : "one‐time house project “Music Sounds Better With You”",
+                  "url" : "https://www.setlist.fm/setlists/stardust-6bd6feae.html"
+               }
+            }, {
+               "name" : "Váyanse todos a mamá"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rawayana/2022/webster-hall-new-york-ny-6bbe9686.html"
+   }, {
+      "id" : "73be9a85",
+      "versionId" : "g2312a4ff",
+      "eventDate" : "22-10-2022",
+      "lastUpdated" : "2026-03-28T03:49:06.949+0000",
+      "artist" : {
+         "mbid" : "d7ebc60e-4554-4ee5-a987-fefae2e744d4",
+         "name" : "Bret McKenzie",
+         "sortName" : "McKenzie, Bret",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bret-mckenzie-6bd7ba8a.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Songs Without Jokes Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set One",
+            "song" : [ {
+               "name" : "A Little Tune"
+            }, {
+               "name" : "Too Young"
+            }, {
+               "name" : "Dave's Place"
+            }, {
+               "name" : "America Goodbye"
+            }, {
+               "name" : "Here for You"
+            }, {
+               "name" : "The Most Beautiful Girl (in the Room)",
+               "cover" : {
+                  "mbid" : "1f574ab1-a46d-4586-9331-f0ded23e0411",
+                  "name" : "Flight of the Conchords",
+                  "sortName" : "Flight of the Conchords",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/flight-of-the-conchords-7bd6a2e8.html"
+               }
+            }, {
+               "name" : "Tomorrow Night",
+               "cover" : {
+                  "mbid" : "e0a197ed-8629-4d74-bd7e-f2be329fcd9a",
+                  "name" : "The Front Lawn",
+                  "sortName" : "Front Lawn, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-front-lawn-13d7053d.html"
+               }
+            }, {
+               "name" : "Tomorrow Today"
+            } ]
+         }, {
+            "name" : "Set Two",
+            "song" : [ {
+               "name" : "We're in Love",
+               "info" : "from The Brief and Frightening Reign of Phil"
+            }, {
+               "name" : "Up in Smoke"
+            }, {
+               "name" : "Two Day Love",
+               "info" : "Improvised"
+            }, {
+               "name" : "If You Wanna Go"
+            }, {
+               "name" : "One by One",
+               "cover" : {
+                  "mbid" : "dc76f538-7a10-461e-84ba-aa44888f9f2d",
+                  "name" : "The Black Seeds",
+                  "sortName" : "Black Seeds, The",
+                  "disambiguation" : "New Zealand dub/reggae",
+                  "url" : "https://www.setlist.fm/setlists/the-black-seeds-1bd61d68.html"
+               }
+            }, {
+               "name" : "Man or Muppet",
+               "cover" : {
+                  "mbid" : "2ca340a6-e8f2-489d-90c2-f37c5c802d49",
+                  "name" : "The Muppets",
+                  "sortName" : "Muppets, The",
+                  "disambiguation" : "Jim Henson’s puppet characters",
+                  "url" : "https://www.setlist.fm/setlists/the-muppets-43d66b77.html"
+               },
+               "with" : {
+                  "mbid" : "992a7ea8-96c1-4058-ba96-f811c8d01c77",
+                  "name" : "Kermit the Frog",
+                  "sortName" : "Kermit the Frog",
+                  "disambiguation" : "Muppet character",
+                  "url" : "https://www.setlist.fm/setlists/kermit-the-frog-43d66b6b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Rabbit Hole"
+            }, {
+               "name" : "Rainbow Connection",
+               "cover" : {
+                  "mbid" : "2ca340a6-e8f2-489d-90c2-f37c5c802d49",
+                  "name" : "The Muppets",
+                  "sortName" : "Muppets, The",
+                  "disambiguation" : "Jim Henson’s puppet characters",
+                  "url" : "https://www.setlist.fm/setlists/the-muppets-43d66b77.html"
+               },
+               "with" : {
+                  "mbid" : "992a7ea8-96c1-4058-ba96-f811c8d01c77",
+                  "name" : "Kermit the Frog",
+                  "sortName" : "Kermit the Frog",
+                  "disambiguation" : "Muppet character",
+                  "url" : "https://www.setlist.fm/setlists/kermit-the-frog-43d66b6b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bret-mckenzie/2022/webster-hall-new-york-ny-73be9a85.html"
+   }, {
+      "id" : "bbef122",
+      "versionId" : "g53e683ad",
+      "eventDate" : "21-10-2022",
+      "lastUpdated" : "2022-10-27T06:48:33.648+0000",
+      "artist" : {
+         "mbid" : "d0f31126-6b12-4d5a-a08b-c31af0287c71",
+         "name" : "Noizu",
+         "sortName" : "Noizu",
+         "disambiguation" : "LA house artist",
+         "url" : "https://www.setlist.fm/setlists/noizu-63caa257.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noizu/2022/webster-hall-new-york-ny-bbef122.html"
+   }, {
+      "id" : "63ba862b",
+      "versionId" : "g7b816a4c",
+      "eventDate" : "21-10-2022",
+      "lastUpdated" : "2023-11-10T22:07:40.077+0000",
+      "artist" : {
+         "mbid" : "46e2c2bc-92d2-406a-805f-fee2bc612313",
+         "name" : "Madison Cunningham",
+         "sortName" : "Cunningham, Madison",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/madison-cunningham-7bca86e4.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "All I've Ever Known"
+            }, {
+               "name" : "Hospital"
+            }, {
+               "name" : "Anywhere"
+            }, {
+               "name" : "Death by Suspicion"
+            }, {
+               "name" : "Pin It Down"
+            }, {
+               "name" : "Sunshine Over the Counter"
+            }, {
+               "name" : "Collider Particles"
+            }, {
+               "name" : "Your Hate Could Power a Train"
+            }, {
+               "name" : "In From Japan"
+            }, {
+               "name" : "Inventing the Wheel"
+            }, {
+               "name" : "Life According to Raechel"
+            }, {
+               "name" : "Broken Harvest"
+            }, {
+               "name" : "L.A. (Looking Alive)"
+            }, {
+               "name" : "Our Rebellion"
+            }, {
+               "name" : "Common Language"
+            }, {
+               "name" : "Something to Believe In"
+            }, {
+               "name" : "Song in My Head"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/madison-cunningham/2022/webster-hall-new-york-ny-63ba862b.html"
+   }, {
+      "id" : "5ba35348",
+      "versionId" : "g7bb79244",
+      "eventDate" : "20-10-2022",
+      "lastUpdated" : "2024-02-08T03:20:50.323+0000",
+      "artist" : {
+         "mbid" : "491d404c-78a1-4fc6-b273-52058d1aadfc",
+         "name" : "Melt",
+         "sortName" : "Melt",
+         "disambiguation" : "New York pop/R&B/soul band",
+         "url" : "https://www.setlist.fm/setlists/melt-7bcf5e5c.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Waves"
+            }, {
+               "name" : "Shy"
+            }, {
+               "name" : "Hours"
+            }, {
+               "name" : "Inside"
+            }, {
+               "name" : "Oh Brother"
+            }, {
+               "name" : "Walk to Midnight"
+            }, {
+               "name" : "Stupid in Love"
+            }, {
+               "name" : "West Side Highway"
+            }, {
+               "name" : "Fade Into You"
+            }, {
+               "name" : "Duh Duh"
+            }, {
+               "name" : "Don't Want Me"
+            }, {
+               "name" : "Harvest Moon",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Communion"
+            }, {
+               "name" : "Sour Candy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/melt/2022/webster-hall-new-york-ny-5ba35348.html"
+   }, {
+      "id" : "23b17487",
+      "versionId" : "g3f9811b",
+      "eventDate" : "16-10-2022",
+      "lastUpdated" : "2022-10-17T22:13:11.662+0000",
+      "artist" : {
+         "mbid" : "2eada8f8-056a-4093-bbc2-004909ce743b",
+         "name" : "Broken Social Scene",
+         "sortName" : "Broken Social Scene",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/broken-social-scene-4bd69b22.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "You Forgot It In People 20th Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "KC Accidental"
+            }, {
+               "name" : "Stars and Sons"
+            }, {
+               "name" : "Almost Crimes"
+            }, {
+               "name" : "Looks Just Like the Sun"
+            }, {
+               "name" : "Pacific Theme"
+            }, {
+               "name" : "Cause = Time"
+            }, {
+               "name" : "7/4 (Shoreline)"
+            }, {
+               "name" : "Stay Happy"
+            }, {
+               "name" : "Late Nineties Bedroom Rock for the Missionaries"
+            }, {
+               "name" : "Shampoo Suicide"
+            }, {
+               "name" : "I'm Still Your Fag"
+            }, {
+               "name" : "Sweetest Kill"
+            }, {
+               "name" : "Hug of Thunder"
+            }, {
+               "name" : "Lover's Spit"
+            }, {
+               "name" : "It's All Gonna Break"
+            }, {
+               "name" : "Anthems for a Seventeen Year-Old Girl",
+               "info" : "+ Meryl Streep",
+               "with" : {
+                  "mbid" : "87d96e5c-7829-4adf-b366-d8ca2065e346",
+                  "name" : "Tracey Ullman",
+                  "sortName" : "Ullman, Tracey",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tracey-ullman-23d7bc9b.html"
+               }
+            }, {
+               "name" : "Ibi Dreams of Pavement (A Better Day)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/broken-social-scene/2022/webster-hall-new-york-ny-23b17487.html"
+   }, {
+      "id" : "33b17c65",
+      "versionId" : "g3f99de7",
+      "eventDate" : "15-10-2022",
+      "lastUpdated" : "2022-10-16T17:57:30.642+0000",
+      "artist" : {
+         "mbid" : "2eada8f8-056a-4093-bbc2-004909ce743b",
+         "name" : "Broken Social Scene",
+         "sortName" : "Broken Social Scene",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/broken-social-scene-4bd69b22.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "You Forgot It In People 20th Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "KC Accidental"
+            }, {
+               "name" : "Stars and Sons"
+            }, {
+               "name" : "Almost Crimes"
+            }, {
+               "name" : "Looks Just Like the Sun"
+            }, {
+               "name" : "Pacific Theme"
+            }, {
+               "name" : "Cause = Time"
+            }, {
+               "name" : "7/4 (Shoreline)"
+            }, {
+               "name" : "Fire Eye'd Boy"
+            }, {
+               "name" : "Stay Happy"
+            }, {
+               "name" : "Late Nineties Bedroom Rock for the Missionaries"
+            }, {
+               "name" : "Shampoo Suicide"
+            }, {
+               "name" : "I'm Still Your Fag"
+            }, {
+               "name" : "Sweetest Kill"
+            }, {
+               "name" : "Lover's Spit"
+            }, {
+               "name" : "It's All Gonna Break"
+            }, {
+               "name" : "Anthems for a Seventeen Year-Old Girl"
+            }, {
+               "name" : "Ibi Dreams of Pavement (A Better Day)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/broken-social-scene/2022/webster-hall-new-york-ny-33b17c65.html"
+   }, {
+      "id" : "23b1505b",
+      "versionId" : "g53f98b15",
+      "eventDate" : "15-10-2022",
+      "lastUpdated" : "2022-10-17T16:31:18.194+0000",
+      "artist" : {
+         "mbid" : "5f1d4249-2c8a-4b0c-a2c7-3fb3fdbff11b",
+         "name" : "Jasmyn",
+         "sortName" : "Jasmyn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jasmyn-73f07ec5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jasmyn/2022/webster-hall-new-york-ny-23b1505b.html"
+   }, {
+      "id" : "bb17df2",
+      "versionId" : "g33f86005",
+      "eventDate" : "12-10-2022",
+      "lastUpdated" : "2022-10-14T00:31:08.939+0000",
+      "artist" : {
+         "mbid" : "510fcf21-a1f3-40af-9087-40593af86f7f",
+         "name" : "Barns Courtney",
+         "sortName" : "Courtney, Barns",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/barns-courtney-63c55ad3.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fun Never Ends"
+            }, {
+               "name" : "London Girls"
+            }, {
+               "name" : "Hands"
+            }, {
+               "name" : "Hobo Rocket"
+            }, {
+               "name" : "Supernatural"
+            }, {
+               "name" : "Little Boy"
+            }, {
+               "name" : "Champion"
+            }, {
+               "name" : "Glitter & Gold"
+            }, {
+               "name" : "Hollow"
+            }, {
+               "name" : "You and I"
+            }, {
+               "name" : "\"99\""
+            }, {
+               "name" : "Golden Dandelions"
+            }, {
+               "name" : "Kicks"
+            }, {
+               "name" : "Fire"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hard to Be Alone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/barns-courtney/2022/webster-hall-new-york-ny-bb17df2.html"
+   }, {
+      "id" : "4bb10fee",
+      "versionId" : "g5bf8073c",
+      "eventDate" : "11-10-2022",
+      "lastUpdated" : "2022-10-12T18:25:42.017+0000",
+      "artist" : {
+         "mbid" : "a71da6f9-655d-4029-8c1c-5dc351632734",
+         "name" : "Judah & the Lion",
+         "sortName" : "Judah & the Lion",
+         "disambiguation" : "Americana/folk band from Nashville, TN",
+         "url" : "https://www.setlist.fm/setlists/judah-and-the-lion-43dd13eb.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Happy Again Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "scream!"
+            }, {
+               "name" : "Since U Been Gone / Higher / Snap Yo Fingers",
+               "with" : {
+                  "mbid" : "0f7b04c1-4c70-4ce5-92a1-caf38c20ba6d",
+                  "name" : "The National Parks",
+                  "sortName" : "National Parks, The",
+                  "disambiguation" : "indie folk duo from Utah",
+                  "url" : "https://www.setlist.fm/setlists/the-national-parks-1bc44508.html"
+               }
+            }, {
+               "name" : "Suit and Jacket"
+            }, {
+               "name" : "Take It All Back"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Revival"
+            }, {
+               "name" : "sportz"
+            }, {
+               "name" : "Things Are Looking Up"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/judah-and-the-lion/2022/webster-hall-new-york-ny-4bb10fee.html"
+   }, {
+      "id" : "1bb101a4",
+      "versionId" : "g4bf8074a",
+      "eventDate" : "11-10-2022",
+      "lastUpdated" : "2022-10-12T18:22:08.834+0000",
+      "artist" : {
+         "mbid" : "0f7b04c1-4c70-4ce5-92a1-caf38c20ba6d",
+         "name" : "The National Parks",
+         "sortName" : "National Parks, The",
+         "disambiguation" : "indie folk duo from Utah",
+         "url" : "https://www.setlist.fm/setlists/the-national-parks-1bc44508.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : ""
+            }, {
+               "name" : ""
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Wind & Anchor"
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Hedwig's Theme",
+               "cover" : {
+                  "mbid" : "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+                  "name" : "John Williams",
+                  "sortName" : "Williams, John",
+                  "disambiguation" : "American score composer and conductor",
+                  "url" : "https://www.setlist.fm/setlists/john-williams-6bd6b676.html"
+               }
+            }, {
+               "name" : ""
+            }, {
+               "name" : ""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-national-parks/2022/webster-hall-new-york-ny-1bb101a4.html"
+   }, {
+      "id" : "43b13f3f",
+      "versionId" : "g2bf8acae",
+      "eventDate" : "08-10-2022",
+      "lastUpdated" : "2022-10-06T13:41:54.483+0000",
+      "artist" : {
+         "mbid" : "ae1c8911-6d49-4ac1-ba05-707f3f2ec58c",
+         "name" : "Andrew Savage",
+         "sortName" : "Savage, Andrew",
+         "disambiguation" : "US musician aka A. Savage",
+         "url" : "https://www.setlist.fm/setlists/andrew-savage-53c533ad.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/andrew-savage/2022/webster-hall-new-york-ny-43b13f3f.html"
+   } ]
+}

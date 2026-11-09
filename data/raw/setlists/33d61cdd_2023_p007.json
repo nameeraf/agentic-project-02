@@ -1,0 +1,934 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 276,
+   "setlist" : [ {
+      "id" : "6ba512da",
+      "versionId" : "g3a105ab",
+      "eventDate" : "23-08-2023",
+      "lastUpdated" : "2024-07-30T12:59:05.156+0000",
+      "artist" : {
+         "mbid" : "f423ca7f-b0f5-480a-be96-ed36a191ad8b",
+         "name" : "almost monday",
+         "sortName" : "Almost Monday",
+         "disambiguation" : "American indie pop trio",
+         "url" : "https://www.setlist.fm/setlists/almost-monday-33f4b021.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "only wanna dance"
+            }, {
+               "name" : "cool enough"
+            }, {
+               "name" : "parking lot view"
+            }, {
+               "name" : "come on come on"
+            }, {
+               "name" : "coast to coast",
+               "info" : "New song"
+            }, {
+               "name" : "til the end of time"
+            }, {
+               "name" : "you look so good"
+            }, {
+               "name" : "life goes by"
+            }, {
+               "name" : "What I Like About You",
+               "cover" : {
+                  "mbid" : "f5e31fda-bbf5-4ab6-8194-bcc9209b53f8",
+                  "name" : "The Romantics",
+                  "sortName" : "Romantics, The",
+                  "disambiguation" : "US new wave band",
+                  "url" : "https://www.setlist.fm/setlists/the-romantics-2bd6b0da.html"
+               }
+            }, {
+               "name" : "live forever"
+            }, {
+               "name" : "",
+               "info" : "Skipped when guitar wouldn’t work"
+            }, {
+               "name" : "sun keeps on shining"
+            }, {
+               "name" : "sunburn"
+            }, {
+               "name" : "cough drops"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/almost-monday/2023/bowery-ballroom-new-york-ny-6ba512da.html"
+   }, {
+      "id" : "63a512df",
+      "versionId" : "g5b9b6398",
+      "eventDate" : "23-08-2023",
+      "lastUpdated" : "2023-08-24T17:12:13.237+0000",
+      "artist" : {
+         "mbid" : "ac34b3a0-b963-441b-9a12-6594d953a8f6",
+         "name" : "Weathers",
+         "sortName" : "Weathers",
+         "disambiguation" : "Rock band from Los Angeles",
+         "url" : "https://www.setlist.fm/setlists/weathers-2bc0f876.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "She Hates Me"
+            }, {
+               "name" : "Always Tired"
+            }, {
+               "name" : "Drama Queen"
+            }, {
+               "name" : "I'm Just Sayin'"
+            }, {
+               "name" : "Burnin' Up",
+               "cover" : {
+                  "mbid" : "6e019bc6-5c23-4935-94f0-4a896631d846",
+                  "name" : "Jonas Brothers",
+                  "sortName" : "Jonas Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jonas-brothers-43d6d3d7.html"
+               }
+            }, {
+               "name" : "Happy Pills"
+            }, {
+               "name" : "One of a Kind"
+            }, {
+               "name" : "Problems"
+            }, {
+               "name" : "Where Do I Sign?",
+               "info" : "With “Heathens” by twenty one pilots briefly"
+            }, {
+               "name" : "C'est La Vie"
+            }, {
+               "name" : "ALL CAPS"
+            }, {
+               "name" : "I'm Not Ok"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/weathers/2023/bowery-ballroom-new-york-ny-63a512df.html"
+   }, {
+      "id" : "ba52956",
+      "versionId" : "g139b39ad",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T13:33:58.381+0000",
+      "artist" : {
+         "mbid" : "5d61c93f-c6a4-4166-bbc4-562af3488e7b",
+         "name" : "Rebelmatic",
+         "sortName" : "Rebelmatic",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rebelmatic-7bd24a70.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rebelmatic/2023/bowery-ballroom-new-york-ny-ba52956.html"
+   }, {
+      "id" : "6ba5324e",
+      "versionId" : "g6b9bc2ae",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T08:43:29.508+0000",
+      "artist" : {
+         "mbid" : "94556b3c-d308-40c6-adb6-47029e589cd9",
+         "name" : "Zulu",
+         "sortName" : "Zulu",
+         "disambiguation" : "metalcore from California / project of Anaiah Lei",
+         "url" : "https://www.setlist.fm/setlists/zulu-13f07d11.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Africa"
+            }, {
+               "name" : "For Sista Humphrey"
+            }, {
+               "name" : "Our Day Is Now"
+            }, {
+               "name" : "Music to Drive by"
+            }, {
+               "name" : "Where I'm From"
+            }, {
+               "name" : "Straight From da Tribe of tha Moon"
+            }, {
+               "name" : "On the Corner of Cimarron and 24th"
+            }, {
+               "name" : "Lyfe Az a Shorty Shun B So Ruff"
+            }, {
+               "name" : "From tha Gods to Earth"
+            }, {
+               "name" : "Fakin' Tha Funk (You Get Did)"
+            }, {
+               "name" : "Do tha Right Thing (And Stop Frontin')"
+            }, {
+               "name" : "52 Fatal Strikes"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zulu/2023/bowery-ballroom-new-york-ny-6ba5324e.html"
+   }, {
+      "id" : "6ba52e56",
+      "versionId" : "g4b181ffe",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2026-06-15T17:04:40.106+0000",
+      "artist" : {
+         "mbid" : "0140d98a-7435-4c41-a076-a1b07788ee1c",
+         "name" : "Ballista",
+         "sortName" : "Ballista",
+         "disambiguation" : "death metal/hardcore band from Texas",
+         "url" : "https://www.setlist.fm/setlists/ballista-3fd692f.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ballista Territory"
+            }, {
+               "name" : "1000 Stitches 2000 Cuts"
+            }, {
+               "name" : "Stonethrower"
+            }, {
+               "name" : "Slither"
+            }, {
+               "name" : "TARGET PRACTICE"
+            }, {
+               "name" : "Thorns"
+            }, {
+               "name" : "Law of the Jungle"
+            }, {
+               "name" : "THE GAME"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ballista/2023/bowery-ballroom-new-york-ny-6ba52e56.html"
+   }, {
+      "id" : "3a5294f",
+      "versionId" : "gb9b399e",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T13:36:18.872+0000",
+      "artist" : {
+         "mbid" : "842cfb88-786e-405f-8351-c5c80644caff",
+         "name" : "LustSickPuppy",
+         "sortName" : "LustSickPuppy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lustsickpuppy-bf1593a.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lustsickpuppy/2023/bowery-ballroom-new-york-ny-3a5294f.html"
+   }, {
+      "id" : "3a5294b",
+      "versionId" : "g7398dab5",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-28T14:51:27.187+0000",
+      "artist" : {
+         "mbid" : "7405a6f0-8b2e-4d32-9700-891ab1df6934",
+         "name" : "Adrienne",
+         "sortName" : "Adrienne",
+         "disambiguation" : "Massachusetts metal/hardcore",
+         "url" : "https://www.setlist.fm/setlists/adrienne-3bf05c84.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Unspoken"
+            }, {
+               "name" : "Fabric of Self"
+            }, {
+               "name" : "Rebirth"
+            }, {
+               "name" : "Wintercearig"
+            }, {
+               "name" : "Hiraeth"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/adrienne/2023/bowery-ballroom-new-york-ny-3a5294b.html"
+   }, {
+      "id" : "2ba5282a",
+      "versionId" : "g39b356f",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T15:57:36.247+0000",
+      "artist" : {
+         "mbid" : "9e5948a7-7624-4975-a565-1b4099ef7a4f",
+         "name" : "Knife Wound",
+         "sortName" : "Knife Wound",
+         "disambiguation" : "Atlanta hardcore",
+         "url" : "https://www.setlist.fm/setlists/knife-wound-3bf9d090.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/knife-wound/2023/bowery-ballroom-new-york-ny-2ba5282a.html"
+   }, {
+      "id" : "23a52823",
+      "versionId" : "g1b9b3560",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T15:58:37.897+0000",
+      "artist" : {
+         "mbid" : "2a98b357-4d26-4cd6-b2ed-34302ccd35b2",
+         "name" : "PLAYYTIME",
+         "sortName" : "PLAYYTIME (Atlanta hardcore)",
+         "disambiguation" : "PLAYYTIME (Atlanta hardcore)",
+         "url" : "https://www.setlist.fm/setlists/playytime-2bf9d08a.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/playytime/2023/bowery-ballroom-new-york-ny-23a52823.html"
+   }, {
+      "id" : "1ba5255c",
+      "versionId" : "g6b9b2eb2",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T21:05:19.586+0000",
+      "artist" : {
+         "mbid" : "b038fb50-5b06-4c75-a68e-02fe3daf72fa",
+         "name" : "BAZOOKA",
+         "sortName" : "BAZOOKA (Queens hardcore)",
+         "disambiguation" : "BAZOOKA (Queens hardcore)",
+         "url" : "https://www.setlist.fm/setlists/bazooka-23f9d08b.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bazooka/2023/bowery-ballroom-new-york-ny-1ba5255c.html"
+   }, {
+      "id" : "13a5294d",
+      "versionId" : "g39b3993",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T13:36:36.015+0000",
+      "artist" : {
+         "mbid" : "73460d43-7ea2-4558-9bf2-88d324832b5f",
+         "name" : "End It",
+         "sortName" : "End It",
+         "disambiguation" : "hardcore",
+         "url" : "https://www.setlist.fm/setlists/end-it-bf07dba.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/end-it/2023/bowery-ballroom-new-york-ny-13a5294d.html"
+   }, {
+      "id" : "13a52949",
+      "versionId" : "g139b3999",
+      "eventDate" : "20-08-2023",
+      "lastUpdated" : "2023-08-21T13:36:03.734+0000",
+      "artist" : {
+         "mbid" : "c811f2a8-48eb-4e56-88d3-174bd971f944",
+         "name" : "Truth Cult",
+         "sortName" : "Truth Cult",
+         "disambiguation" : "Baltimore-based hardcore/rock band",
+         "url" : "https://www.setlist.fm/setlists/truth-cult-63fb9273.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/truth-cult/2023/bowery-ballroom-new-york-ny-13a52949.html"
+   }, {
+      "id" : "ba52942",
+      "versionId" : "g139b3989",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-21T13:38:13.962+0000",
+      "artist" : {
+         "mbid" : "9c1ae9bd-2e4c-440b-9bea-604243d18a81",
+         "name" : "PEARL",
+         "sortName" : "PEARL",
+         "disambiguation" : "Baltimore hardcore band",
+         "url" : "https://www.setlist.fm/setlists/pearl-4bf00742.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pearl/2023/bowery-ballroom-new-york-ny-ba52942.html"
+   }, {
+      "id" : "7ba52e48",
+      "versionId" : "g5b9b2378",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-22T01:56:09.314+0000",
+      "artist" : {
+         "mbid" : "54013352-5fbf-4ef1-8d47-cc2139947dbc",
+         "name" : "Move",
+         "sortName" : "Move",
+         "disambiguation" : "Boston hardcore band",
+         "url" : "https://www.setlist.fm/setlists/move-4bf59b16.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Beyond Reform"
+            }, {
+               "name" : "House of Cards"
+            }, {
+               "name" : "Trojan Horse"
+            }, {
+               "name" : "Blind",
+               "cover" : {
+                  "mbid" : "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+                  "name" : "Korn",
+                  "sortName" : "Korn",
+                  "disambiguation" : "US nu metal band",
+                  "url" : "https://www.setlist.fm/setlists/korn-4bd6d3fe.html"
+               },
+               "info" : "Intro only"
+            }, {
+               "name" : "Summer Trend"
+            }, {
+               "name" : "Freedom Dreams"
+            }, {
+               "name" : "Commit"
+            }, {
+               "name" : "Imperialist Reign"
+            }, {
+               "name" : "Righteous Unrest"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/move/2023/bowery-ballroom-new-york-ny-7ba52e48.html"
+   }, {
+      "id" : "73a52e45",
+      "versionId" : "g1b9b3d6c",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-21T09:08:59.057+0000",
+      "artist" : {
+         "mbid" : "af25d92d-eb9f-49f2-a617-87f93cc25fd4",
+         "name" : "Bleed The Pigs",
+         "sortName" : "Bleed The Pigs",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bleed-the-pigs-43d80bd3.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Scum Fucker"
+            }, {
+               "name" : "Annihilate You"
+            }, {
+               "name" : "Supremacy"
+            }, {
+               "name" : "Demise"
+            }, {
+               "name" : "Slain Penitence"
+            }, {
+               "name" : "Born of Filth"
+            }, {
+               "name" : "Nightmare Child"
+            }, {
+               "name" : "(System) Control"
+            }, {
+               "name" : "Justified"
+            }, {
+               "name" : "White Washed"
+            }, {
+               "name" : "Dehumanize"
+            }, {
+               "name" : "Inferiority"
+            }, {
+               "name" : "Rot"
+            }, {
+               "name" : "The Obsolete"
+            }, {
+               "name" : "For This Defect, and For No Other Guilt, We Here Are Lost."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bleed-the-pigs/2023/bowery-ballroom-new-york-ny-73a52e45.html"
+   }, {
+      "id" : "6ba52e4e",
+      "versionId" : "g39b3d7f",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-21T09:01:15.913+0000",
+      "artist" : {
+         "mbid" : "93367126-add1-418d-b261-3ef3b6fa70b7",
+         "name" : "Kharma",
+         "sortName" : "Kharma",
+         "disambiguation" : "hardcore band from Illinois",
+         "url" : "https://www.setlist.fm/setlists/kharma-1bf0bdf8.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Good Riddance"
+            }, {
+               "name" : "Paper Gangster"
+            }, {
+               "name" : "Living In Vain"
+            }, {
+               "name" : "Guilty by Association"
+            }, {
+               "name" : "Overanalyzed"
+            }, {
+               "name" : "Most Dangerous Game"
+            }, {
+               "name" : "Slave 2 Society"
+            }, {
+               "name" : "Forced Out of Heaven"
+            }, {
+               "name" : "Hands of the Oppressor"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kharma/2023/bowery-ballroom-new-york-ny-6ba52e4e.html"
+   }, {
+      "id" : "3a52947",
+      "versionId" : "g23bc948b",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2024-04-22T17:31:15.580+0000",
+      "artist" : {
+         "mbid" : "d10d6441-dcc1-4202-93bf-0c0acf72913a",
+         "name" : "Soul Glo",
+         "sortName" : "Soul Glo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soul-glo-1bcbd508.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Noise Tracc"
+            }, {
+               "name" : "Coming Correct Is Cheaper"
+            }, {
+               "name" : "Jump!! (Or Get Jumped!!!)((by the future))"
+            }, {
+               "name" : "We Wants Revenge"
+            }, {
+               "name" : "1"
+            }, {
+               "name" : "Fucked Up If True"
+            }, {
+               "name" : "Driponomics"
+            }, {
+               "name" : "Gold Chain Punk (whogonbeatmyass?)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/soul-glo/2023/bowery-ballroom-new-york-ny-3a52947.html"
+   }, {
+      "id" : "23a5283f",
+      "versionId" : "g739b3a8d",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-21T15:53:27.526+0000",
+      "artist" : {
+         "mbid" : "9e5948a7-7624-4975-a565-1b4099ef7a4f",
+         "name" : "Knife Wound",
+         "sortName" : "Knife Wound",
+         "disambiguation" : "Atlanta hardcore",
+         "url" : "https://www.setlist.fm/setlists/knife-wound-3bf9d090.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/knife-wound/2023/bowery-ballroom-new-york-ny-23a5283f.html"
+   }, {
+      "id" : "23a52833",
+      "versionId" : "g1b9b3578",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-21T15:55:00.407+0000",
+      "artist" : {
+         "mbid" : "b6bc3dfb-a025-4743-935d-9fa043593628",
+         "name" : "HIDE",
+         "sortName" : "HIDE",
+         "disambiguation" : "North Carolina hardcore",
+         "url" : "https://www.setlist.fm/setlists/hide-3bf9d0bc.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hide/2023/bowery-ballroom-new-york-ny-23a52833.html"
+   }, {
+      "id" : "1ba52940",
+      "versionId" : "g1b9b398c",
+      "eventDate" : "19-08-2023",
+      "lastUpdated" : "2023-08-21T13:38:47.140+0000",
+      "artist" : {
+         "mbid" : "c37b4754-45fd-4fc1-992c-5afd3977ed0d",
+         "name" : "Buggin",
+         "sortName" : "Buggin",
+         "disambiguation" : "Chicago hardcore band / fka. Buggin Out",
+         "url" : "https://www.setlist.fm/setlists/buggin-4bf59b2a.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/buggin/2023/bowery-ballroom-new-york-ny-1ba52940.html"
+   } ]
+}

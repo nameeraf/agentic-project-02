@@ -1,0 +1,103 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 13,
+   "total" : 242,
+   "setlist" : [ {
+      "id" : "735abe29",
+      "versionId" : "g43588b8b",
+      "eventDate" : "26-01-2025",
+      "lastUpdated" : "2025-01-27T11:59:11.017+0000",
+      "artist" : {
+         "mbid" : "a384b738-ff9b-4f73-8e24-0134024f1344",
+         "name" : "Emo Night Brooklyn",
+         "sortName" : "Emo Night Brooklyn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/emo-night-brooklyn-13f85d65.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/emo-night-brooklyn/2025/irving-plaza-new-york-ny-735abe29.html"
+   }, {
+      "id" : "535b7fd1",
+      "versionId" : "g2345441b",
+      "eventDate" : "07-01-2025",
+      "lastUpdated" : "2025-03-12T05:36:42.896+0000",
+      "artist" : {
+         "mbid" : "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+         "name" : "Lil Baby",
+         "sortName" : "Lil Baby",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lil-baby-63cc4227.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Stuff",
+               "info" : "Live debut"
+            }, {
+               "name" : "Dum, Dumb, and Dumber",
+               "info" : "Live debut"
+            }, {
+               "name" : "By Myself",
+               "info" : "Live debut"
+            }, {
+               "name" : "My Shawty",
+               "info" : "Live debut"
+            }, {
+               "name" : "So Sorry",
+               "info" : "Live debut"
+            }, {
+               "name" : "Drugs Talkin",
+               "info" : "Live debut"
+            }, {
+               "name" : "Due 4A Win",
+               "info" : "Live debut"
+            }, {
+               "name" : "Freestyle"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/lil-baby/2025/irving-plaza-new-york-ny-535b7fd1.html"
+   } ]
+}

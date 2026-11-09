@@ -1,0 +1,496 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 11,
+   "setlist" : [ {
+      "id" : "2b41b8b6",
+      "versionId" : "g5b7adf24",
+      "eventDate" : "17-09-2025",
+      "lastUpdated" : "2025-09-17T01:09:30.688+0000",
+      "artist" : {
+         "mbid" : "20485631-5c2a-4cec-918a-1c7df650c072",
+         "name" : "Dummy",
+         "sortName" : "Dummy",
+         "disambiguation" : "LA experimental band",
+         "url" : "https://www.setlist.fm/setlists/dummy-3bf3c048.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dummy/2025/rumsey-playfield-new-york-ny-2b41b8b6.html"
+   }, {
+      "id" : "b478d4a",
+      "versionId" : "g3378fc61",
+      "eventDate" : "16-09-2025",
+      "lastUpdated" : "2025-09-30T22:43:34.202+0000",
+      "artist" : {
+         "mbid" : "b053efc9-e8ea-474a-981f-a3c6fffcc694",
+         "name" : "Hurray for the Riff Raff",
+         "sortName" : "Hurray for the Riff Raff",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hurray-for-the-riff-raff-43d43f3b.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "tour" : {
+         "name" : "Autumn 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Alibi"
+            }, {
+               "name" : "Hawkmoon"
+            }, {
+               "name" : "RHODODENDRON"
+            }, {
+               "name" : "Colossus of Roads"
+            }, {
+               "name" : "Dynamo"
+            }, {
+               "name" : "Buffalo"
+            }, {
+               "name" : "Snake Plant (The Past Is Still Alive)"
+            }, {
+               "name" : "Vetiver"
+            }, {
+               "name" : "Pyramid Scheme"
+            }, {
+               "name" : "The World Is Dangerous"
+            }, {
+               "name" : "Ogallala"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hurray-for-the-riff-raff/2025/rumsey-playfield-new-york-ny-b478d4a.html"
+   }, {
+      "id" : "4b41bbaa",
+      "versionId" : "g3b78fc60",
+      "eventDate" : "16-09-2025",
+      "lastUpdated" : "2025-09-30T22:44:02.426+0000",
+      "artist" : {
+         "mbid" : "20485631-5c2a-4cec-918a-1c7df650c072",
+         "name" : "Dummy",
+         "sortName" : "Dummy",
+         "disambiguation" : "LA experimental band",
+         "url" : "https://www.setlist.fm/setlists/dummy-3bf3c048.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dummy/2025/rumsey-playfield-new-york-ny-4b41bbaa.html"
+   }, {
+      "id" : "1b46655c",
+      "versionId" : "g3378fc65",
+      "eventDate" : "16-09-2025",
+      "lastUpdated" : "2025-09-30T22:44:31.184+0000",
+      "artist" : {
+         "mbid" : "84803b1d-dcb3-490d-9af5-debbba64a011",
+         "name" : "Soccer Mommy",
+         "sortName" : "Soccer Mommy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soccer-mommy-43cff3eb.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "tour" : {
+         "name" : "Evergreen"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "circle the drain"
+            }, {
+               "name" : "Driver"
+            }, {
+               "name" : "Abigail"
+            }, {
+               "name" : "Bones"
+            }, {
+               "name" : "Shotgun"
+            }, {
+               "name" : "Dreaming of Falling"
+            }, {
+               "name" : "Cool"
+            }, {
+               "name" : "bloodstream"
+            }, {
+               "name" : "Thinking of You"
+            }, {
+               "name" : "Feel It All the Time"
+            }, {
+               "name" : "M"
+            }, {
+               "name" : "Lost"
+            }, {
+               "name" : "Scorpio Rising"
+            }, {
+               "name" : "royal screw up"
+            }, {
+               "name" : "Salt in Wound"
+            }, {
+               "name" : "Your Dog"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/soccer-mommy/2025/rumsey-playfield-new-york-ny-1b46655c.html"
+   }, {
+      "id" : "b4209b2",
+      "versionId" : "g6b735656",
+      "eventDate" : "03-08-2025",
+      "lastUpdated" : "2025-07-27T00:50:05.709+0000",
+      "artist" : {
+         "mbid" : "a1168584-1163-49b5-81ce-f7c289720cac",
+         "name" : "Enno Cheng",
+         "sortName" : "Cheng, Enno",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/enno-cheng-2bdb98da.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/enno-cheng/2025/rumsey-playfield-new-york-ny-b4209b2.html"
+   }, {
+      "id" : "1b4209b0",
+      "versionId" : "g6b73564a",
+      "eventDate" : "03-08-2025",
+      "lastUpdated" : "2025-07-27T00:50:40.166+0000",
+      "artist" : {
+         "mbid" : "e1ffd1ee-3818-4f6a-9bc2-ac565a73ca0e",
+         "name" : "ABAO",
+         "sortName" : "Abao",
+         "disambiguation" : "Indigenous Taiwanese singer and songwriter",
+         "url" : "https://www.setlist.fm/setlists/abao-23f1c0a3.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/abao/2025/rumsey-playfield-new-york-ny-1b4209b0.html"
+   }, {
+      "id" : "734686cd",
+      "versionId" : "g234fe45b",
+      "eventDate" : "23-07-2025",
+      "lastUpdated" : "2025-04-24T15:37:57.078+0000",
+      "artist" : {
+         "mbid" : "21c5fb53-6fbc-4080-989a-b26d4540f4fd",
+         "name" : "Cymande",
+         "sortName" : "Cymande",
+         "disambiguation" : "British funk group",
+         "url" : "https://www.setlist.fm/setlists/cymande-7bd666b0.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cymande/2025/rumsey-playfield-new-york-ny-734686cd.html"
+   }, {
+      "id" : "634686cb",
+      "versionId" : "g2b4fe46e",
+      "eventDate" : "23-07-2025",
+      "lastUpdated" : "2025-04-24T15:37:20.607+0000",
+      "artist" : {
+         "mbid" : "6bea93d9-08e8-40af-974e-b7d066b2e0fb",
+         "name" : "Asha Puthli",
+         "sortName" : "Puthli, Asha",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/asha-puthli-73d60e3d.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/asha-puthli/2025/rumsey-playfield-new-york-ny-634686cb.html"
+   }, {
+      "id" : "63411663",
+      "versionId" : "g378fd2b",
+      "eventDate" : "02-07-2025",
+      "lastUpdated" : "2025-09-30T21:51:44.697+0000",
+      "artist" : {
+         "mbid" : "403a74a8-e22b-47c6-911b-fe58216a7e90",
+         "name" : "Julianna Riolino",
+         "sortName" : "Riolino, Julianna",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/julianna-riolino-73f00659.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/julianna-riolino/2025/rumsey-playfield-new-york-ny-63411663.html"
+   }, {
+      "id" : "4b45c3fa",
+      "versionId" : "g1b78fd20",
+      "eventDate" : "02-07-2025",
+      "lastUpdated" : "2025-09-30T21:53:50.709+0000",
+      "artist" : {
+         "mbid" : "92dc699f-fcbc-4278-afbe-40b5ad060a55",
+         "name" : "Death From Above 1979",
+         "sortName" : "Death From Above 1979",
+         "disambiguation" : "Canadian rock duo",
+         "url" : "https://www.setlist.fm/setlists/death-from-above-1979-6bd6969a.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Turn It Out"
+            }, {
+               "name" : "Modern Guy"
+            }, {
+               "name" : "Romantic Rights"
+            }, {
+               "name" : "Nomad"
+            }, {
+               "name" : "One + One"
+            }, {
+               "name" : "Free Animal"
+            }, {
+               "name" : "Virgins"
+            }, {
+               "name" : "Going Steady"
+            }, {
+               "name" : "White Is Red"
+            }, {
+               "name" : "Little Girl"
+            }, {
+               "name" : "Cold War"
+            }, {
+               "name" : "Right On, Frankenstein!"
+            }, {
+               "name" : "Caught Up"
+            }, {
+               "name" : "Crystal Ball"
+            }, {
+               "name" : "Freeze Me"
+            }, {
+               "name" : "Trainwreck 1979"
+            }, {
+               "name" : "Government Trash"
+            }, {
+               "name" : "Dead Womb"
+            }, {
+               "name" : "Pull Out"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/death-from-above-1979/2025/rumsey-playfield-new-york-ny-4b45c3fa.html"
+   }, {
+      "id" : "1b416964",
+      "versionId" : "g5b781738",
+      "eventDate" : "02-07-2025",
+      "lastUpdated" : "2025-10-03T20:42:56.369+0000",
+      "artist" : {
+         "mbid" : "c116de34-7a46-4a09-9212-28c0c0fc10d8",
+         "name" : "Martyn Bootyspoon",
+         "sortName" : "Martyn Bootyspoon",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/martyn-bootyspoon-33cc7055.html"
+      },
+      "venue" : {
+         "id" : "13d6cd6d",
+         "name" : "Rumsey Playfield",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/rumsey-playfield-new-york-ny-usa-13d6cd6d.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/martyn-bootyspoon/2025/rumsey-playfield-new-york-ny-1b416964.html"
+   } ]
+}

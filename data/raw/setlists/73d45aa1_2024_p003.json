@@ -1,0 +1,1439 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 63,
+   "setlist" : [ {
+      "id" : "7352a6c1",
+      "versionId" : "g3bac284c",
+      "eventDate" : "20-08-2024",
+      "lastUpdated" : "2024-08-21T16:45:55.751+0000",
+      "artist" : {
+         "mbid" : "00c49f40-d715-4b79-b223-432048602cce",
+         "name" : "Indigo Girls",
+         "sortName" : "Indigo Girls",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/indigo-girls-2bd6a4b2.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Shame on You"
+            }, {
+               "name" : "Least Complicated"
+            }, {
+               "name" : "Heartache for Everyone"
+            }, {
+               "name" : "Power of Two"
+            }, {
+               "name" : "Yoke"
+            }, {
+               "name" : "Trouble"
+            }, {
+               "name" : "Joking"
+            }, {
+               "name" : "Pendulum Swinger"
+            }, {
+               "name" : "Get Out the Map"
+            }, {
+               "name" : "Scooter Boys"
+            }, {
+               "name" : "Ghost"
+            }, {
+               "name" : "Tether"
+            }, {
+               "name" : "Look Long"
+            }, {
+               "name" : "Go"
+            }, {
+               "name" : "Galileo"
+            }, {
+               "name" : "Kid Fears",
+               "with" : {
+                  "mbid" : "b3ae82c2-e60b-4551-a76d-6620f1b456aa",
+                  "name" : "Melissa Etheridge",
+                  "sortName" : "Etheridge, Melissa",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/melissa-etheridge-3d6b987.html"
+               }
+            }, {
+               "name" : "Closer to Fine",
+               "with" : {
+                  "mbid" : "b3ae82c2-e60b-4551-a76d-6620f1b456aa",
+                  "name" : "Melissa Etheridge",
+                  "sortName" : "Etheridge, Melissa",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/melissa-etheridge-3d6b987.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/indigo-girls/2024/kings-theatre-brooklyn-ny-7352a6c1.html"
+   }, {
+      "id" : "73a93ac5",
+      "versionId" : "g1b09dd7c",
+      "eventDate" : "16-08-2024",
+      "lastUpdated" : "2026-10-16T03:20:59.757+0000",
+      "artist" : {
+         "mbid" : "ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1",
+         "name" : "ARTMS",
+         "sortName" : "ARTMS",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/artms-63fb16d7.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Moonshot World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "url",
+               "tape" : true,
+               "info" : "Intro VCR"
+            }, {
+               "name" : "Birth"
+            }, {
+               "name" : "The Hitchhiker’s Guide to the Galaxy"
+            }, {
+               "name" : "Distress"
+            }, {
+               "name" : "Butterfly Effect"
+            }, {
+               "name" : "Flower Rhythm"
+            }, {
+               "name" : "VCR",
+               "tape" : true
+            } ]
+         }, {
+            "name" : "HaSeul",
+            "song" : [ {
+               "name" : "Plastic Candy",
+               "cover" : {
+                  "mbid" : "16e12893-150a-41d7-aaf3-5ad23fc76b39",
+                  "name" : "HaSeul",
+                  "sortName" : "HaSeul",
+                  "disambiguation" : "South Korean singer",
+                  "url" : "https://www.setlist.fm/setlists/haseul-5bcc2324.html"
+               },
+               "info" : "Performed By HaSeul"
+            }, {
+               "name" : "Let Me In",
+               "cover" : {
+                  "mbid" : "de4feabc-cd21-4568-a09c-2086bfebe2f4",
+                  "name" : "LOONA",
+                  "sortName" : "LOONA",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/loona-1bce3d54.html"
+               },
+               "info" : "Performed By HaSeul"
+            } ]
+         }, {
+            "name" : "HeeJin",
+            "song" : [ {
+               "name" : "Girlfriend",
+               "cover" : {
+                  "mbid" : "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+                  "name" : "Avril Lavigne",
+                  "sortName" : "Lavigne, Avril",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/avril-lavigne-63d6d6bf.html"
+               },
+               "info" : "Performed By HeeJin"
+            }, {
+               "name" : "Algorithm",
+               "cover" : {
+                  "mbid" : "9fbbbcc3-f2af-4f03-a0b1-844ee5aec94f",
+                  "name" : "HeeJin",
+                  "sortName" : "HeeJin",
+                  "disambiguation" : "South Korean singer",
+                  "url" : "https://www.setlist.fm/setlists/heejin-5bcc2320.html"
+               },
+               "info" : "Performed By HeeJin"
+            } ]
+         }, {
+            "name" : "ODD EYE CIRCLE",
+            "song" : [ {
+               "name" : "Je Ne Sais Quoi",
+               "cover" : {
+                  "mbid" : "dec0f331-cb08-4c8e-9c9f-aeb1f0f6d88c",
+                  "name" : "ODD EYE CIRCLE",
+                  "sortName" : "ODD EYE CIRCLE",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/odd-eye-circle-4bcc4f36.html"
+               },
+               "info" : "Performed By ODD EYE CIRCLE"
+            }, {
+               "name" : "Air Force One",
+               "cover" : {
+                  "mbid" : "dec0f331-cb08-4c8e-9c9f-aeb1f0f6d88c",
+                  "name" : "ODD EYE CIRCLE",
+                  "sortName" : "ODD EYE CIRCLE",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/odd-eye-circle-4bcc4f36.html"
+               },
+               "info" : "Performed By ODD EYE CIRCLE"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "Cruel Summer",
+               "cover" : {
+                  "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+                  "name" : "Taylor Swift",
+                  "sortName" : "Swift, Taylor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+               }
+            }, {
+               "name" : "Stylish",
+               "cover" : {
+                  "mbid" : "de4feabc-cd21-4568-a09c-2086bfebe2f4",
+                  "name" : "LOONA",
+                  "sortName" : "LOONA",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/loona-1bce3d54.html"
+               }
+            }, {
+               "name" : "Satellite",
+               "cover" : {
+                  "mbid" : "de4feabc-cd21-4568-a09c-2086bfebe2f4",
+                  "name" : "LOONA",
+                  "sortName" : "LOONA",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/loona-1bce3d54.html"
+               }
+            }, {
+               "name" : "VCR",
+               "tape" : true
+            }, {
+               "name" : "Candy Crush"
+            }, {
+               "name" : "Unf/Air"
+            }, {
+               "name" : "Air"
+            }, {
+               "name" : "Sparkle"
+            }, {
+               "name" : "Virtual Angel"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "OURII VCR",
+               "tape" : true
+            }, {
+               "name" : "Hi High",
+               "cover" : {
+                  "mbid" : "de4feabc-cd21-4568-a09c-2086bfebe2f4",
+                  "name" : "LOONA",
+                  "sortName" : "LOONA",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/loona-1bce3d54.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/artms/2024/kings-theatre-brooklyn-ny-73a93ac5.html"
+   }, {
+      "id" : "7b5fea38",
+      "versionId" : "g2378d0a3",
+      "eventDate" : "15-06-2024",
+      "lastUpdated" : "2025-10-02T05:25:18.646+0000",
+      "artist" : {
+         "mbid" : "42321e24-42b6-4f08-b0d9-8325ee887a20",
+         "name" : "Waxahatchee",
+         "sortName" : "Waxahatchee",
+         "disambiguation" : "project by US singer‐songwriter Kathryn Crutchfield",
+         "url" : "https://www.setlist.fm/setlists/waxahatchee-4bd1373a.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Tigers Blood"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gardenia",
+               "cover" : {
+                  "mbid" : "9dc9f4b0-a7b4-43c5-8f6b-fcd43c426a4b",
+                  "name" : "Mandy Moore",
+                  "sortName" : "Moore, Mandy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mandy-moore-4bd6bfd2.html"
+               },
+               "info" : "Las Culturistas Culture Awards 2024"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/waxahatchee/2024/kings-theatre-brooklyn-ny-7b5fea38.html"
+   }, {
+      "id" : "3b57a8bc",
+      "versionId" : "g73a62e49",
+      "eventDate" : "13-06-2024",
+      "lastUpdated" : "2024-06-14T19:23:42.811+0000",
+      "artist" : {
+         "mbid" : "ecd00b8b-f697-4d90-8641-6633af356747",
+         "name" : "The Linda Lindas",
+         "sortName" : "Linda Lindas, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-linda-lindas-3f2f5ff.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Found a Job",
+               "cover" : {
+                  "mbid" : "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+                  "name" : "Talking Heads",
+                  "sortName" : "Talking Heads",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talking-heads-3bd6b808.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Performed prior to a screening of Stop Making Sense, with all core Talking Heads members in attendance for a Q&A. The song was recorded by The Linda Lindas for 'Everyone’s Getting Involved: A Tribute to Talking Heads’ Stop Making Sense'",
+      "url" : "https://www.setlist.fm/setlist/the-linda-lindas/2024/kings-theatre-brooklyn-ny-3b57a8bc.html"
+   }, {
+      "id" : "1ba85dd4",
+      "versionId" : "g1b5289a4",
+      "eventDate" : "27-04-2024",
+      "lastUpdated" : "2024-11-04T19:12:31.195+0000",
+      "artist" : {
+         "mbid" : "1df15ee0-b52b-4315-9cb9-bc5a27a685e9",
+         "name" : "Jacob Collier",
+         "sortName" : "Collier, Jacob",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jacob-collier-2bc77086.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Djesse World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "100,000 Voices"
+            }, {
+               "name" : "WELLLL"
+            }, {
+               "name" : "She Put Sunshine"
+            }, {
+               "name" : "Little Blue"
+            }, {
+               "name" : "Wherever I Go",
+               "with" : {
+                  "mbid" : "b6e422c0-7b97-4347-bd78-8d8dfade38a9",
+                  "name" : "Lawrence",
+                  "sortName" : "Lawrence",
+                  "disambiguation" : "Clyde Lawrence and Gracie Lawrence",
+                  "url" : "https://www.setlist.fm/setlists/lawrence-73c286a9.html"
+               }
+            }, {
+               "name" : "Cinnamon Crush"
+            }, {
+               "name" : "Time Alone With You"
+            }, {
+               "name" : "The Sun Is in Your Eyes"
+            }, {
+               "name" : "Bridge Over Troubled Water",
+               "cover" : {
+                  "mbid" : "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+                  "name" : "Simon & Garfunkel",
+                  "sortName" : "Simon & Garfunkel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/simon-and-garfunkel-53d6e3b9.html"
+               }
+            }, {
+               "name" : "In Too Deep"
+            }, {
+               "name" : "Mi corazón"
+            }, {
+               "name" : "Never Gonna Be Alone"
+            }, {
+               "name" : "Witness Me"
+            }, {
+               "name" : "God Only Knows",
+               "cover" : {
+                  "mbid" : "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+                  "name" : "The Beach Boys",
+                  "sortName" : "Beach Boys, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-beach-boys-3d6c17b.html"
+               },
+               "with" : {
+                  "mbid" : "3b75abce-edc8-487e-bd2a-0165d6e8aac5",
+                  "name" : "Suzie Collier",
+                  "sortName" : "Collier, Suzie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/suzie-collier-4bf97fa6.html"
+               }
+            }, {
+               "name" : "All I Need"
+            }, {
+               "name" : "Over You"
+            } ]
+         }, {
+            "name" : "Encore",
+            "song" : [ {
+               "name" : "Box of Stars Pt. 1 / In My Bones / Sleeping on My Dreams"
+            }, {
+               "name" : "Somebody to Love",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Moon River",
+               "cover" : {
+                  "mbid" : "83e71a21-caf7-4e48-8ff7-6512d51e88a3",
+                  "name" : "Henry Mancini",
+                  "sortName" : "Mancini, Henry",
+                  "disambiguation" : "US composer, conductor & arranger",
+                  "url" : "https://www.setlist.fm/setlists/henry-mancini-5bd6df6c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jacob-collier/2024/kings-theatre-brooklyn-ny-1ba85dd4.html"
+   }, {
+      "id" : "b55dd9a",
+      "versionId" : "g43ae0b47",
+      "eventDate" : "20-04-2024",
+      "lastUpdated" : "2024-08-05T23:18:49.769+0000",
+      "artist" : {
+         "mbid" : "9031aa68-f624-44d6-ab83-9a6ccb125aa2",
+         "name" : "Brandon Lake",
+         "sortName" : "Lake, Brandon",
+         "disambiguation" : "US CCM songwriter",
+         "url" : "https://www.setlist.fm/setlists/brandon-lake-4bf753e6.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "TEAR OFF THE ROOF"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brandon-lake/2024/kings-theatre-brooklyn-ny-b55dd9a.html"
+   }, {
+      "id" : "7b56a218",
+      "versionId" : "g73bb460d",
+      "eventDate" : "18-04-2024",
+      "lastUpdated" : "2024-05-23T21:28:02.202+0000",
+      "artist" : {
+         "mbid" : "c532c746-29b7-46a1-b37e-705a62827bab",
+         "name" : "Sílvia Pérez Cruz",
+         "sortName" : "Pérez Cruz, Sílvia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/silvia-perez-cruz-6bd17ace.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/silvia-perez-cruz/2024/kings-theatre-brooklyn-ny-7b56a218.html"
+   }, {
+      "id" : "73a8e219",
+      "versionId" : "g3b6b48f8",
+      "eventDate" : "18-04-2024",
+      "lastUpdated" : "2026-02-08T14:03:54.220+0000",
+      "artist" : {
+         "mbid" : "fe85367e-4036-43c1-874b-b91af81cb4f3",
+         "name" : "Snarky Puppy",
+         "sortName" : "Snarky Puppy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/snarky-puppy-5bd50f10.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "El agua y la miel",
+               "cover" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               },
+               "with" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               }
+            }, {
+               "name" : "Planetes i orenetes",
+               "cover" : {
+                  "mbid" : "c532c746-29b7-46a1-b37e-705a62827bab",
+                  "name" : "Sílvia Pérez Cruz",
+                  "sortName" : "Pérez Cruz, Sílvia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvia-perez-cruz-6bd17ace.html"
+               },
+               "with" : {
+                  "mbid" : "c532c746-29b7-46a1-b37e-705a62827bab",
+                  "name" : "Sílvia Pérez Cruz",
+                  "sortName" : "Pérez Cruz, Sílvia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvia-perez-cruz-6bd17ace.html"
+               }
+            }, {
+               "name" : "No Será Regresar",
+               "cover" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               },
+               "with" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               }
+            }, {
+               "name" : "El saber",
+               "cover" : {
+                  "mbid" : "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+                  "name" : "Gaby Moreno",
+                  "sortName" : "Moreno, Gaby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gaby-moreno-13d2617d.html"
+               },
+               "with" : {
+                  "mbid" : "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+                  "name" : "Gaby Moreno",
+                  "sortName" : "Moreno, Gaby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gaby-moreno-13d2617d.html"
+               }
+            }, {
+               "name" : "La corriente",
+               "cover" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               },
+               "with" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               }
+            }, {
+               "name" : "Mañana",
+               "cover" : {
+                  "mbid" : "c532c746-29b7-46a1-b37e-705a62827bab",
+                  "name" : "Sílvia Pérez Cruz",
+                  "sortName" : "Pérez Cruz, Sílvia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvia-perez-cruz-6bd17ace.html"
+               },
+               "with" : {
+                  "mbid" : "c532c746-29b7-46a1-b37e-705a62827bab",
+                  "name" : "Sílvia Pérez Cruz",
+                  "sortName" : "Pérez Cruz, Sílvia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvia-perez-cruz-6bd17ace.html"
+               }
+            }, {
+               "name" : "Rainy Season",
+               "cover" : {
+                  "mbid" : "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+                  "name" : "Gaby Moreno",
+                  "sortName" : "Moreno, Gaby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gaby-moreno-13d2617d.html"
+               },
+               "with" : {
+                  "mbid" : "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+                  "name" : "Gaby Moreno",
+                  "sortName" : "Moreno, Gaby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gaby-moreno-13d2617d.html"
+               }
+            }, {
+               "name" : "Ai meu Deus",
+               "cover" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               },
+               "with" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               }
+            }, {
+               "name" : "Pirita",
+               "cover" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               },
+               "with" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               }
+            }, {
+               "name" : "Negra presuntuosa",
+               "cover" : {
+                  "mbid" : "09907e62-426c-4418-a8f5-2d08b72a02f1",
+                  "name" : "Andrés Soto",
+                  "sortName" : "Soto, Andrés",
+                  "disambiguation" : "Peruvian singer songwriter",
+                  "url" : "https://www.setlist.fm/setlists/andres-soto-23f5441b.html"
+               },
+               "with" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               }
+            }, {
+               "name" : "Yo vengo a ofrecer mi corazón",
+               "cover" : {
+                  "mbid" : "54bd120a-6bac-4d7c-8b10-ba167bc7e26c",
+                  "name" : "Fito Páez",
+                  "sortName" : "Páez, Fito",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fito-paez-13d6d975.html"
+               },
+               "with" : {
+                  "mbid" : "c532c746-29b7-46a1-b37e-705a62827bab",
+                  "name" : "Sílvia Pérez Cruz",
+                  "sortName" : "Pérez Cruz, Sílvia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvia-perez-cruz-6bd17ace.html"
+               }
+            }, {
+               "name" : "Heces",
+               "cover" : {
+                  "mbid" : "176af481-a5db-4902-84e0-393e7811b8c4",
+                  "name" : "Susana Baca",
+                  "sortName" : "Baca, Susana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/susana-baca-33d75cf1.html"
+               },
+               "with" : {
+                  "mbid" : "c31d76d8-0b8b-4966-934d-12d184fc7cdc",
+                  "name" : "Fuensanta",
+                  "sortName" : "Fuensanta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fuensanta-73f83e3d.html"
+               }
+            }, {
+               "name" : "El mayoral",
+               "cover" : {
+                  "mbid" : "176af481-a5db-4902-84e0-393e7811b8c4",
+                  "name" : "Susana Baca",
+                  "sortName" : "Baca, Susana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/susana-baca-33d75cf1.html"
+               },
+               "with" : {
+                  "mbid" : "4aec1363-ab7a-4de2-a253-c529eeec55bd",
+                  "name" : "Gaby Moreno",
+                  "sortName" : "Moreno, Gaby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gaby-moreno-13d2617d.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Tenías que ser tú",
+               "cover" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               },
+               "with" : {
+                  "mbid" : "d306c4dc-f9c9-4ec6-aa74-2e2a7210537f",
+                  "name" : "Silvana Estrada",
+                  "sortName" : "Estrada, Silvana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/silvana-estrada-3f76563.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "A Special Evening with Snarky Puppy & Friends Featuring Fuensanta, Gaby Moreno, Silvana Estrada, & Silvia Pérez Cruz. All were present for the entire show. Lead vocals on songs noted with \"with\".",
+      "url" : "https://www.setlist.fm/setlist/snarky-puppy/2024/kings-theatre-brooklyn-ny-73a8e219.html"
+   }, {
+      "id" : "1babdda4",
+      "versionId" : "g4b52df7a",
+      "eventDate" : "30-03-2024",
+      "lastUpdated" : "2024-11-06T13:19:58.752+0000",
+      "artist" : {
+         "mbid" : "32e69425-f232-48d8-9472-e816f1230b2a",
+         "name" : "Re-TROS",
+         "sortName" : "Re-TROS",
+         "disambiguation" : "Chinese band",
+         "url" : "https://www.setlist.fm/setlists/re-tros-bd069ca.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/re-tros/2024/kings-theatre-brooklyn-ny-1babdda4.html"
+   }, {
+      "id" : "13abdda5",
+      "versionId" : "g23b1f45b",
+      "eventDate" : "30-03-2024",
+      "lastUpdated" : "2024-03-31T01:17:34.111+0000",
+      "artist" : {
+         "mbid" : "8522b9b6-b295-48d7-9a10-8618fb80beb8",
+         "name" : "Battles",
+         "sortName" : "Battles",
+         "disambiguation" : "experimental rock band",
+         "url" : "https://www.setlist.fm/setlists/battles-73d6f29d.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/battles/2024/kings-theatre-brooklyn-ny-13abdda5.html"
+   }, {
+      "id" : "7b561ed8",
+      "versionId" : "g13b9f1f1",
+      "eventDate" : "29-03-2024",
+      "lastUpdated" : "2024-06-04T02:13:11.365+0000",
+      "artist" : {
+         "mbid" : "2de9f057-67d8-429d-b899-759be13131a9",
+         "name" : "Tamia",
+         "sortName" : "Tamia",
+         "disambiguation" : "Canadian R&B and soul singer",
+         "url" : "https://www.setlist.fm/setlists/tamia-7bd6b600.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tamia/2024/kings-theatre-brooklyn-ny-7b561ed8.html"
+   }, {
+      "id" : "73561ed1",
+      "versionId" : "g13b9f1e9",
+      "eventDate" : "29-03-2024",
+      "lastUpdated" : "2024-06-04T02:15:02.248+0000",
+      "artist" : {
+         "mbid" : "d6864f27-532d-4912-af81-d710d58b1f01",
+         "name" : "Joe",
+         "sortName" : "Joe",
+         "disambiguation" : "American R&B singer",
+         "url" : "https://www.setlist.fm/setlists/joe-33d6bc85.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joe/2024/kings-theatre-brooklyn-ny-73561ed1.html"
+   }, {
+      "id" : "baa7d9a",
+      "versionId" : "g6bbf6a46",
+      "eventDate" : "20-03-2024",
+      "lastUpdated" : "2024-04-20T02:36:51.983+0000",
+      "artist" : {
+         "mbid" : "b2029169-2574-4305-820f-252a5fde3697",
+         "name" : "Meghan Trainor",
+         "sortName" : "Trainor, Meghan",
+         "disambiguation" : "American singer",
+         "url" : "https://www.setlist.fm/setlists/meghan-trainor-7bd8e27c.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "All About That Bass"
+            }, {
+               "name" : "Just a Friend to You"
+            }, {
+               "name" : "Like I'm Gonna Lose You",
+               "info" : "Original version, never performed live before"
+            }, {
+               "name" : "Made You Look"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/meghan-trainor/2024/kings-theatre-brooklyn-ny-baa7d9a.html"
+   }, {
+      "id" : "7baa02fc",
+      "versionId" : "g4b58bf16",
+      "eventDate" : "20-03-2024",
+      "lastUpdated" : "2025-01-26T00:11:57.108+0000",
+      "artist" : {
+         "mbid" : "779d1126-e48c-43f2-8b51-005f3b116d7e",
+         "name" : "Kelsea Ballerini",
+         "sortName" : "Ballerini, Kelsea",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kelsea-ballerini-4bd9a3d2.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "IF YOU GO DOWN (I'M GOIN' DOWN TOO)"
+            }, {
+               "name" : "Blindsided"
+            }, {
+               "name" : "Dreams",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               }
+            }, {
+               "name" : "Penthouse"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kelsea-ballerini/2024/kings-theatre-brooklyn-ny-7baa02fc.html"
+   }, {
+      "id" : "3aa7d9f",
+      "versionId" : "g34db957",
+      "eventDate" : "20-03-2024",
+      "lastUpdated" : "2025-05-06T11:14:00.305+0000",
+      "artist" : {
+         "mbid" : "38d363c7-fdcb-4308-9474-a0d14ab8d9b7",
+         "name" : "Christina Perri",
+         "sortName" : "Perri, Christina",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/christina-perri-6bd50252.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jar of Hearts"
+            }, {
+               "name" : "Blue"
+            }, {
+               "name" : "You Are My Sunshine",
+               "cover" : {
+                  "mbid" : "06ed4e1e-4416-4a7c-b14b-bc68dfd252aa",
+                  "name" : "Jimmie Davis",
+                  "sortName" : "Davis, Jimmie",
+                  "disambiguation" : "American politician, singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jimmie-davis-4bd78776.html"
+               }
+            }, {
+               "name" : "Roses in the Rain"
+            }, {
+               "name" : "A Thousand Years"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/christina-perri/2024/kings-theatre-brooklyn-ny-3aa7d9f.html"
+   }, {
+      "id" : "3aa7d9b",
+      "versionId" : "g5b719724",
+      "eventDate" : "20-03-2024",
+      "lastUpdated" : "2025-08-05T12:00:14.308+0000",
+      "artist" : {
+         "mbid" : "e7287972-ca8d-4133-a1d6-5446486ed075",
+         "name" : "Elle King",
+         "sortName" : "King, Elle",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/elle-king-3df114f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "America's Sweetheart"
+            }, {
+               "name" : "Ex's & Oh's"
+            }, {
+               "name" : "The Let Go"
+            }, {
+               "name" : "Drunk (and I Don't Wanna Go Home)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elle-king/2024/kings-theatre-brooklyn-ny-3aa7d9b.html"
+   }, {
+      "id" : "1baa7d9c",
+      "versionId" : "g63b0b687",
+      "eventDate" : "20-03-2024",
+      "lastUpdated" : "2024-03-22T03:26:54.911+0000",
+      "artist" : {
+         "mbid" : "070c2401-1474-477d-b377-3e5827992fbf",
+         "name" : "Rachel Platten",
+         "sortName" : "Platten, Rachel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rachel-platten-1bd199ec.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Girls"
+            }, {
+               "name" : "Mercy"
+            }, {
+               "name" : "Bad Thoughts",
+               "info" : "New song coming in April 2024"
+            }, {
+               "name" : "Fight Song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rachel-platten/2024/kings-theatre-brooklyn-ny-1baa7d9c.html"
+   }, {
+      "id" : "3bad0ca4",
+      "versionId" : "g6bb582aa",
+      "eventDate" : "28-02-2024",
+      "lastUpdated" : "2024-02-26T00:00:50.210+0000",
+      "artist" : {
+         "mbid" : "db8451ab-9f03-4668-87c7-1dbb66aa1e6b",
+         "name" : "Sunny War",
+         "sortName" : "Sunny War",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sunny-war-bf7fdea.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sunny-war/2024/kings-theatre-brooklyn-ny-3bad0ca4.html"
+   }, {
+      "id" : "2bad0c9a",
+      "versionId" : "g1bb1b998",
+      "eventDate" : "28-02-2024",
+      "lastUpdated" : "2024-03-29T00:25:24.204+0000",
+      "artist" : {
+         "mbid" : "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+         "name" : "Mitski",
+         "sortName" : "Mitski",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mitski-7bd9f2e0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Land Is Inhospitable and So Are We"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Everyone"
+            }, {
+               "name" : "Buffalo Replaced"
+            }, {
+               "name" : "Working for the Knife"
+            }, {
+               "name" : "The Frost"
+            }, {
+               "name" : "The Deal"
+            }, {
+               "name" : "Valentine, Texas"
+            }, {
+               "name" : "I Bet on Losing Dogs"
+            }, {
+               "name" : "Thursday Girl"
+            }, {
+               "name" : "Geyser"
+            }, {
+               "name" : "I Love Me After You"
+            }, {
+               "name" : "First Love/Late Spring"
+            }, {
+               "name" : "Star"
+            }, {
+               "name" : "Heaven"
+            }, {
+               "name" : "I Don’t Like My Mind"
+            }, {
+               "name" : "Happy"
+            }, {
+               "name" : "My Love Mine All Mine"
+            }, {
+               "name" : "Last Words of a Shooting Star"
+            }, {
+               "name" : "Pink in the Night"
+            }, {
+               "name" : "I’m Your Man"
+            }, {
+               "name" : "I Don't Smoke"
+            }, {
+               "name" : "Bug Like an Angel"
+            }, {
+               "name" : "Love Me More"
+            }, {
+               "name" : "Fireworks"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Nobody"
+            }, {
+               "name" : "Washing Machine Heart"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mitski/2024/kings-theatre-brooklyn-ny-2bad0c9a.html"
+   }, {
+      "id" : "33ad180d",
+      "versionId" : "g3b1b9df",
+      "eventDate" : "27-02-2024",
+      "lastUpdated" : "2024-03-29T00:19:21.963+0000",
+      "artist" : {
+         "mbid" : "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+         "name" : "Mitski",
+         "sortName" : "Mitski",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mitski-7bd9f2e0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Land Is Inhospitable and So Are We"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Everyone"
+            }, {
+               "name" : "Buffalo Replaced"
+            }, {
+               "name" : "Working for the Knife"
+            }, {
+               "name" : "The Frost"
+            }, {
+               "name" : "The Deal"
+            }, {
+               "name" : "Valentine, Texas"
+            }, {
+               "name" : "I Bet on Losing Dogs"
+            }, {
+               "name" : "Thursday Girl"
+            }, {
+               "name" : "Geyser"
+            }, {
+               "name" : "I Love Me After You"
+            }, {
+               "name" : "First Love/Late Spring"
+            }, {
+               "name" : "Star"
+            }, {
+               "name" : "Heaven"
+            }, {
+               "name" : "I Don’t Like My Mind"
+            }, {
+               "name" : "Happy"
+            }, {
+               "name" : "My Love Mine All Mine"
+            }, {
+               "name" : "Last Words of a Shooting Star"
+            }, {
+               "name" : "Pink in the Night"
+            }, {
+               "name" : "I’m Your Man"
+            }, {
+               "name" : "I Don't Smoke"
+            }, {
+               "name" : "Bug Like an Angel"
+            }, {
+               "name" : "Love Me More"
+            }, {
+               "name" : "Fireworks"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Nobody"
+            }, {
+               "name" : "Washing Machine Heart"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mitski/2024/kings-theatre-brooklyn-ny-33ad180d.html"
+   } ]
+}

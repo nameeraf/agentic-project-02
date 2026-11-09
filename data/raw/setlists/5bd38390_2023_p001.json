@@ -1,0 +1,1564 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 66,
+   "setlist" : [ {
+      "id" : "ba2e5b6",
+      "versionId" : "gb99d152",
+      "eventDate" : "05-09-2023",
+      "lastUpdated" : "2023-09-05T23:44:30.525+0000",
+      "artist" : {
+         "mbid" : "8395b942-cc14-4f15-b88b-50bbeed2c541",
+         "name" : "Bernie Williams",
+         "sortName" : "Williams, Bernie",
+         "disambiguation" : "jazz musician & baseball player",
+         "url" : "https://www.setlist.fm/setlists/bernie-williams-63d5ba07.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Star-Spangled Banner",
+               "cover" : {
+                  "mbid" : "6aebec4f-db27-4280-805b-5dd81d5c63cb",
+                  "name" : "John Stafford Smith & Francis Scott Key",
+                  "sortName" : "Smith, John Stafford & Key, Francis Scott",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-stafford-smith-and-francis-scott-key-73f6d6c9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bernie-williams/2023/yankee-stadium-the-bronx-ny-ba2e5b6.html"
+   }, {
+      "id" : "5ba5a794",
+      "versionId" : "g6b88e2ee",
+      "eventDate" : "13-08-2023",
+      "lastUpdated" : "2024-01-11T04:52:36.844+0000",
+      "artist" : {
+         "mbid" : "b6e422c0-7b97-4347-bd78-8d8dfade38a9",
+         "name" : "Lawrence",
+         "sortName" : "Lawrence",
+         "disambiguation" : "Clyde Lawrence and Gracie Lawrence",
+         "url" : "https://www.setlist.fm/setlists/lawrence-73c286a9.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Heartburn Song"
+            }, {
+               "name" : "Casualty"
+            }, {
+               "name" : "i'm confident that i'm insecure"
+            }, {
+               "name" : "Get Busy",
+               "cover" : {
+                  "mbid" : "c3da3346-2643-48a7-93cd-011f6834b3d7",
+                  "name" : "Sean Paul",
+                  "sortName" : "Sean Paul",
+                  "disambiguation" : "Jamaican reggae/dancehall",
+                  "url" : "https://www.setlist.fm/setlists/sean-paul-53d6f795.html"
+               }
+            }, {
+               "name" : "Do You Wanna Do Nothing With Me?"
+            }, {
+               "name" : "Don't Lose Sight"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lawrence/2023/yankee-stadium-the-bronx-ny-5ba5a794.html"
+   }, {
+      "id" : "13a5b9ad",
+      "versionId" : "g5ba937cc",
+      "eventDate" : "13-08-2023",
+      "lastUpdated" : "2024-10-01T21:58:43.240+0000",
+      "artist" : {
+         "mbid" : "6e019bc6-5c23-4935-94f0-4a896631d846",
+         "name" : "Jonas Brothers",
+         "sortName" : "Jonas Brothers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jonas-brothers-43d6d3d7.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "tour" : {
+         "name" : "Five Albums. One Night. The World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wings",
+               "tape" : true,
+               "info" : "Band plays instrumental"
+            } ]
+         }, {
+            "name" : "Intro",
+            "song" : [ {
+               "name" : "Celebrate!"
+            }, {
+               "name" : "What a Man Gotta Do"
+            } ]
+         }, {
+            "name" : "Jonas Brothers",
+            "song" : [ {
+               "name" : "S.O.S."
+            }, {
+               "name" : "Hold On"
+            }, {
+               "name" : "Goodnight and Goodbye"
+            }, {
+               "name" : "That's Just the Way We Roll"
+            }, {
+               "name" : "Still in Love With You / Australia / Hollywood / Just Friends / Games"
+            }, {
+               "name" : "Hello Beautiful / Inseparable / Take a Breath",
+               "info" : "Acoustic"
+            }, {
+               "name" : "When You Look Me in the Eyes"
+            }, {
+               "name" : "Year 3000",
+               "cover" : {
+                  "mbid" : "35b9706f-a6bb-4876-acf3-94fb82c62388",
+                  "name" : "Busted",
+                  "sortName" : "Busted",
+                  "disambiguation" : "English band",
+                  "url" : "https://www.setlist.fm/setlists/busted-13d6bd09.html"
+               }
+            } ]
+         }, {
+            "name" : "The Album",
+            "song" : [ {
+               "name" : "Summer Baby"
+            }, {
+               "name" : "Vacation Eyes"
+            }, {
+               "name" : "Sail Away"
+            }, {
+               "name" : "Little Bird"
+            } ]
+         }, {
+            "name" : "A Little Bit Longer",
+            "song" : [ {
+               "name" : "A Little Bit Longer"
+            }, {
+               "name" : "Can't Have You / Sorry / BB Good / Shelf / Got Me Going Crazy / Video Girl / One Man Show / Pushin' Me Away / Tonight"
+            }, {
+               "name" : "Lovebug"
+            }, {
+               "name" : "Burnin' Up",
+               "with" : {
+                  "mbid" : "b9c0fc9c-6cde-4955-993e-4263a0656425",
+                  "name" : "Big Rob",
+                  "sortName" : "Big Rob",
+                  "disambiguation" : "Jonas Brothers bodyguard",
+                  "url" : "https://www.setlist.fm/setlists/big-rob-3fe01fb.html"
+               }
+            } ]
+         }, {
+            "name" : "Intermission",
+            "song" : [ {
+               "name" : "Mr. Brightside",
+               "cover" : {
+                  "mbid" : "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                  "name" : "The Killers",
+                  "sortName" : "Killers, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-killers-23d6e097.html"
+               },
+               "info" : "Jimmy Fallon leads a karaoke part and introduces the Jonas Brothers before they come back onstage.",
+               "with" : {
+                  "mbid" : "78b7c31c-97cb-4f06-be5c-5c2e5a7c87bc",
+                  "name" : "Jimmy Fallon",
+                  "sortName" : "Fallon, Jimmy",
+                  "disambiguation" : "comedian",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-fallon-bd7f996.html"
+               }
+            }, {
+               "name" : "Americana",
+               "tape" : true,
+               "info" : "Band plays instrumental and choir sings backing vocals from track"
+            }, {
+               "name" : "Summer in the Hamptons",
+               "tape" : true,
+               "info" : "Band plays instrumental and choir sings backing vocals from track"
+            } ]
+         }, {
+            "name" : "The Album (continued)",
+            "song" : [ {
+               "name" : "Waffle House"
+            }, {
+               "name" : "Montana Sky"
+            }, {
+               "name" : "Miracle"
+            } ]
+         }, {
+            "name" : "Lines, Vines and Trying Times",
+            "song" : [ {
+               "name" : "Fly With Me"
+            }, {
+               "name" : "Hey Baby / Poison Ivy / Don't Speak / Much Better / World War III / What Did I Do to Your Heart / Paranoid"
+            }, {
+               "name" : "Turn Right / Before the Storm / Black Keys",
+               "info" : "Nick Jonas introduced \"Turn Right\" by playing a part of \"Critical\" from 'Jonas'"
+            } ]
+         }, {
+            "name" : "Side project songs",
+            "song" : [ {
+               "name" : "Jealous",
+               "cover" : {
+                  "mbid" : "943e3724-27e7-4e23-9b1c-cc5d46b5bcc7",
+                  "name" : "Nick Jonas",
+                  "sortName" : "Jonas, Nick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-jonas-53dceb59.html"
+               }
+            }, {
+               "name" : "Cake by the Ocean",
+               "cover" : {
+                  "mbid" : "b02dc689-7859-461d-b70e-9fe1f64fddce",
+                  "name" : "DNCE",
+                  "sortName" : "DNCE",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dnce-3c4a9e3.html"
+               }
+            }, {
+               "name" : "Walls",
+               "info" : "also with Kirk Franklin",
+               "with" : {
+                  "mbid" : "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e",
+                  "name" : "Jon Bellion",
+                  "sortName" : "Bellion, Jon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jon-bellion-7bdd067c.html"
+               }
+            } ]
+         }, {
+            "name" : "Happiness Begins",
+            "song" : [ {
+               "name" : "Comeback / Rollercoaster / Strangers / Used to Be"
+            }, {
+               "name" : "Cool"
+            }, {
+               "name" : "Trust / Every Single Time / Happy When I'm Sad / Don't Throw It Away"
+            }, {
+               "name" : "Love Her / Hesitate"
+            }, {
+               "name" : "I Believe"
+            }, {
+               "name" : "Only Human"
+            }, {
+               "name" : "Sucker"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Leave Before You Love Me",
+               "cover" : {
+                  "mbid" : "6b4a556b-5e61-4d96-918b-62bfd866e753",
+                  "name" : "Marshmello & Jonas Brothers",
+                  "sortName" : "Marshmello & Jonas Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-and-jonas-brothers-7bf2fa04.html"
+               }
+            } ]
+         }, {
+            "name" : "Outro",
+            "song" : [ {
+               "name" : "Lonely / Who's In Your Head",
+               "tape" : true,
+               "info" : "Band plays instrumentals"
+            }, {
+               "name" : "Remember This",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jonas-brothers/2023/yankee-stadium-the-bronx-ny-13a5b9ad.html"
+   }, {
+      "id" : "13a1b9f5",
+      "versionId" : "g63807acf",
+      "eventDate" : "13-08-2023",
+      "lastUpdated" : "2023-11-02T18:34:56.205+0000",
+      "artist" : {
+         "mbid" : "78b7c31c-97cb-4f06-be5c-5c2e5a7c87bc",
+         "name" : "Jimmy Fallon",
+         "sortName" : "Fallon, Jimmy",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/jimmy-fallon-bd7f996.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mr. Brightside",
+               "cover" : {
+                  "mbid" : "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                  "name" : "The Killers",
+                  "sortName" : "Killers, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-killers-23d6e097.html"
+               },
+               "info" : "Karaoke with the crowd during intermission at the Jonas Brother's concert."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jimmy-fallon/2023/yankee-stadium-the-bronx-ny-13a1b9f5.html"
+   }, {
+      "id" : "7ba44afc",
+      "versionId" : "g53a937b9",
+      "eventDate" : "12-08-2023",
+      "lastUpdated" : "2024-10-01T22:01:39.053+0000",
+      "artist" : {
+         "mbid" : "6e019bc6-5c23-4935-94f0-4a896631d846",
+         "name" : "Jonas Brothers",
+         "sortName" : "Jonas Brothers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jonas-brothers-43d6d3d7.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "tour" : {
+         "name" : "Five Albums. One Night. The World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wings",
+               "tape" : true,
+               "info" : "Band plays instrumental"
+            } ]
+         }, {
+            "name" : "Intro",
+            "song" : [ {
+               "name" : "Celebrate!"
+            }, {
+               "name" : "What a Man Gotta Do"
+            } ]
+         }, {
+            "name" : "Jonas Brothers",
+            "song" : [ {
+               "name" : "S.O.S."
+            }, {
+               "name" : "Hold On"
+            }, {
+               "name" : "Goodnight and Goodbye"
+            }, {
+               "name" : "That's Just the Way We Roll"
+            }, {
+               "name" : "Still in Love With You / Australia / Hollywood / Just Friends / Games"
+            }, {
+               "name" : "Hello Beautiful / Inseparable / Take a Breath",
+               "info" : "Acoustic"
+            }, {
+               "name" : "When You Look Me in the Eyes"
+            }, {
+               "name" : "Year 3000",
+               "cover" : {
+                  "mbid" : "35b9706f-a6bb-4876-acf3-94fb82c62388",
+                  "name" : "Busted",
+                  "sortName" : "Busted",
+                  "disambiguation" : "English band",
+                  "url" : "https://www.setlist.fm/setlists/busted-13d6bd09.html"
+               }
+            } ]
+         }, {
+            "name" : "The Album",
+            "song" : [ {
+               "name" : "Summer Baby"
+            }, {
+               "name" : "Vacation Eyes"
+            }, {
+               "name" : "Sail Away"
+            }, {
+               "name" : "Little Bird"
+            } ]
+         }, {
+            "name" : "A Little Bit Longer",
+            "song" : [ {
+               "name" : "A Little Bit Longer"
+            }, {
+               "name" : "Can't Have You / Sorry / BB Good / Shelf / Got Me Going Crazy / Video Girl / One Man Show / Pushin' Me Away / Tonight"
+            }, {
+               "name" : "Lovebug"
+            }, {
+               "name" : "Burnin' Up",
+               "with" : {
+                  "mbid" : "b9c0fc9c-6cde-4955-993e-4263a0656425",
+                  "name" : "Big Rob",
+                  "sortName" : "Big Rob",
+                  "disambiguation" : "Jonas Brothers bodyguard",
+                  "url" : "https://www.setlist.fm/setlists/big-rob-3fe01fb.html"
+               }
+            } ]
+         }, {
+            "name" : "Intermission",
+            "song" : [ {
+               "name" : "Americana",
+               "tape" : true,
+               "info" : "Band plays instrumental and choir sings backing vocals from track"
+            }, {
+               "name" : "Summer in the Hamptons",
+               "tape" : true,
+               "info" : "Band plays instrumental and choir sings backing vocals from track"
+            } ]
+         }, {
+            "name" : "The Album (continued)",
+            "song" : [ {
+               "name" : "Waffle House"
+            }, {
+               "name" : "Montana Sky"
+            }, {
+               "name" : "Miracle",
+               "info" : "Live debut"
+            } ]
+         }, {
+            "name" : "Lines, Vines and Trying Times",
+            "song" : [ {
+               "name" : "Fly With Me"
+            }, {
+               "name" : "Hey Baby / Poison Ivy / Don't Speak / Much Better / World War III / What Did I Do to Your Heart / Paranoid"
+            }, {
+               "name" : "Turn Right / Before the Storm / Black Keys"
+            } ]
+         }, {
+            "name" : "Side project songs",
+            "song" : [ {
+               "name" : "Jealous",
+               "cover" : {
+                  "mbid" : "943e3724-27e7-4e23-9b1c-cc5d46b5bcc7",
+                  "name" : "Nick Jonas",
+                  "sortName" : "Jonas, Nick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-jonas-53dceb59.html"
+               }
+            }, {
+               "name" : "Cake by the Ocean",
+               "cover" : {
+                  "mbid" : "b02dc689-7859-461d-b70e-9fe1f64fddce",
+                  "name" : "DNCE",
+                  "sortName" : "DNCE",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dnce-3c4a9e3.html"
+               }
+            }, {
+               "name" : "Walls",
+               "info" : "also with Kirk Franklin",
+               "with" : {
+                  "mbid" : "2bd8101a-11c3-42d5-a9bd-6a3b26445f7e",
+                  "name" : "Jon Bellion",
+                  "sortName" : "Bellion, Jon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jon-bellion-7bdd067c.html"
+               }
+            } ]
+         }, {
+            "name" : "Happiness Begins",
+            "song" : [ {
+               "name" : "Comeback / Rollercoaster / Strangers / Used to Be"
+            }, {
+               "name" : "Cool"
+            }, {
+               "name" : "Trust / Every Single Time / Happy When I'm Sad / Don't Throw It Away",
+               "info" : "Nick Jonas hands the microphone to a fan to sing a little bit of \"Trust\""
+            }, {
+               "name" : "Love Her / Hesitate"
+            }, {
+               "name" : "I Believe"
+            }, {
+               "name" : "Only Human"
+            }, {
+               "name" : "Sucker"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Leave Before You Love Me",
+               "cover" : {
+                  "mbid" : "6b4a556b-5e61-4d96-918b-62bfd866e753",
+                  "name" : "Marshmello & Jonas Brothers",
+                  "sortName" : "Marshmello & Jonas Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-and-jonas-brothers-7bf2fa04.html"
+               }
+            } ]
+         }, {
+            "name" : "Outro",
+            "song" : [ {
+               "name" : "Lonely / Who's In Your Head",
+               "tape" : true,
+               "info" : "Band plays instrumentals"
+            }, {
+               "name" : "Remember This",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jonas-brothers/2023/yankee-stadium-the-bronx-ny-7ba44afc.html"
+   }, {
+      "id" : "4ba5a746",
+      "versionId" : "g2b8f205a",
+      "eventDate" : "12-08-2023",
+      "lastUpdated" : "2023-11-25T12:26:50.233+0000",
+      "artist" : {
+         "mbid" : "b6e422c0-7b97-4347-bd78-8d8dfade38a9",
+         "name" : "Lawrence",
+         "sortName" : "Lawrence",
+         "disambiguation" : "Clyde Lawrence and Gracie Lawrence",
+         "url" : "https://www.setlist.fm/setlists/lawrence-73c286a9.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Heartburn Song"
+            }, {
+               "name" : "Casualty"
+            }, {
+               "name" : "i'm confident that i'm insecure"
+            }, {
+               "name" : "Get Busy",
+               "cover" : {
+                  "mbid" : "c3da3346-2643-48a7-93cd-011f6834b3d7",
+                  "name" : "Sean Paul",
+                  "sortName" : "Sean Paul",
+                  "disambiguation" : "Jamaican reggae/dancehall",
+                  "url" : "https://www.setlist.fm/setlists/sean-paul-53d6f795.html"
+               }
+            }, {
+               "name" : "Do You Wanna Do Nothing With Me?"
+            }, {
+               "name" : "Don't Lose Sight"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lawrence/2023/yankee-stadium-the-bronx-ny-4ba5a746.html"
+   }, {
+      "id" : "ba5ad4a",
+      "versionId" : "g2baf2c3a",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2024-08-13T02:18:26.593+0000",
+      "artist" : {
+         "mbid" : "94ff7d3c-27e1-4628-9b81-477f911295cd",
+         "name" : "Kool Moe Dee",
+         "sortName" : "Kool Moe Dee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kool-moe-dee-5bd64b6c.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Otis",
+               "cover" : {
+                  "mbid" : "8d0c80d9-c49c-4af0-97d1-aeea9d5f4b19",
+                  "name" : "Rihanna feat. Jay-Z and Kanye West",
+                  "sortName" : "Rihanna feat. JAY‐Z and West, Kanye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rihanna-feat-jay-z-and-kanye-west-53f547a1.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "special guest during Grandmaster Caz’s set",
+      "url" : "https://www.setlist.fm/setlist/kool-moe-dee/2023/yankee-stadium-the-bronx-ny-ba5ad4a.html"
+   }, {
+      "id" : "ba5ad36",
+      "versionId" : "g3b9a3c80",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-14T05:41:39.023+0000",
+      "artist" : {
+         "mbid" : "029c683d-4e0f-4264-a563-ca7743b33b07",
+         "name" : "Doug E. Fresh",
+         "sortName" : "Fresh, Doug E.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/doug-e-fresh-63d786a3.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Teach Me How to Dougie",
+               "cover" : {
+                  "mbid" : "b26ddbb6-a066-4b1c-be18-aed6ef6cba9b",
+                  "name" : "Cali Swag District",
+                  "sortName" : "Cali Swag District",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cali-swag-district-1bd5618c.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "special guest was Busy Bee Starski",
+      "url" : "https://www.setlist.fm/setlist/doug-e-fresh/2023/yankee-stadium-the-bronx-ny-ba5ad36.html"
+   }, {
+      "id" : "ba5a56e",
+      "versionId" : "g539aeb9d",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T18:31:50.979+0000",
+      "artist" : {
+         "mbid" : "ee7bc3a1-9683-446f-82ac-73f7ea2131f0",
+         "name" : "Crazy Legs",
+         "sortName" : "Crazy Legs",
+         "disambiguation" : "breakdancer",
+         "url" : "https://www.setlist.fm/setlists/crazy-legs-3bf23c00.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/crazy-legs/2023/yankee-stadium-the-bronx-ny-ba5a56e.html"
+   }, {
+      "id" : "7ba456dc",
+      "versionId" : "g2b9af406",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T08:06:12.964+0000",
+      "artist" : {
+         "mbid" : "cfbc0924-0035-4d6c-8197-f024653af823",
+         "name" : "Nas",
+         "sortName" : "Nas",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/nas-33d69c59.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Genesis",
+               "tape" : true
+            }, {
+               "name" : "N.Y. State of Mind"
+            }, {
+               "name" : "Represent"
+            }, {
+               "name" : "The Message"
+            }, {
+               "name" : "Street Dreams"
+            }, {
+               "name" : "Fast Life",
+               "cover" : {
+                  "mbid" : "852665bd-7089-4119-a77d-251162346b4c",
+                  "name" : "Kool G Rap",
+                  "sortName" : "Kool G Rap",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-g-rap-23d69ce3.html"
+               },
+               "with" : {
+                  "mbid" : "852665bd-7089-4119-a77d-251162346b4c",
+                  "name" : "Kool G Rap",
+                  "sortName" : "Kool G Rap",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-g-rap-23d69ce3.html"
+               }
+            }, {
+               "name" : "ILL Street Blues",
+               "cover" : {
+                  "mbid" : "852665bd-7089-4119-a77d-251162346b4c",
+                  "name" : "Kool G Rap",
+                  "sortName" : "Kool G Rap",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-g-rap-23d69ce3.html"
+               },
+               "with" : {
+                  "mbid" : "852665bd-7089-4119-a77d-251162346b4c",
+                  "name" : "Kool G Rap",
+                  "sortName" : "Kool G Rap",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kool-g-rap-23d69ce3.html"
+               }
+            }, {
+               "name" : "Hate Me Now"
+            }, {
+               "name" : "Hot Boyz",
+               "cover" : {
+                  "mbid" : "a0b8cb9e-7532-45fe-a74c-30e7c4009a39",
+                  "name" : "Missy Elliott",
+                  "sortName" : "Elliott, Missy",
+                  "disambiguation" : "American rapper, singer, dancer & record producer",
+                  "url" : "https://www.setlist.fm/setlists/missy-elliott-73d68605.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "Oochie Wally",
+               "cover" : {
+                  "mbid" : "cf7afdb9-ee6c-4478-af32-828ce76e1286",
+                  "name" : "Bravehearts",
+                  "sortName" : "Bravehearts",
+                  "disambiguation" : "QB hip hop group & Nas affiliates",
+                  "url" : "https://www.setlist.fm/setlists/bravehearts-43d75b97.html"
+               }
+            }, {
+               "name" : "You Owe Me",
+               "info" : "Shoutouts DJ Kool Herc",
+               "with" : {
+                  "mbid" : "8ecc4c7e-9482-4557-bf0f-d74783a9e670",
+                  "name" : "DJ Kool Herc",
+                  "sortName" : "Kool Herc, DJ",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dj-kool-herc-2bdd64fa.html"
+               }
+            }, {
+               "name" : "Made You Look"
+            }, {
+               "name" : "Nobody",
+               "with" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               }
+            }, {
+               "name" : "If I Ruled the World (Imagine That)",
+               "with" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               }
+            }, {
+               "name" : "Ready or Not",
+               "cover" : {
+                  "mbid" : "ea321799-9b1d-4e74-a074-a5facf597d82",
+                  "name" : "Fugees",
+                  "sortName" : "Fugees",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fugees-5bd66be4.html"
+               },
+               "with" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               }
+            }, {
+               "name" : "Doo Wop (That Thing)",
+               "cover" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               },
+               "with" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               }
+            }, {
+               "name" : "Killing Me Softly With His Song",
+               "cover" : {
+                  "mbid" : "7c3cf006-3352-43f4-acc0-252310b327da",
+                  "name" : "Lori Lieberman",
+                  "sortName" : "Lieberman, Lori",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lori-lieberman-2bd7acb6.html"
+               },
+               "with" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               }
+            }, {
+               "name" : "Fu-Gee-La",
+               "cover" : {
+                  "mbid" : "ea321799-9b1d-4e74-a074-a5facf597d82",
+                  "name" : "Fugees",
+                  "sortName" : "Fugees",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fugees-5bd66be4.html"
+               },
+               "with" : {
+                  "mbid" : "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
+                  "name" : "Ms. Lauryn Hill",
+                  "sortName" : "Hill, Lauryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ms-lauryn-hill-3bd688cc.html"
+               }
+            }, {
+               "name" : "One Mic"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/nas/2023/yankee-stadium-the-bronx-ny-7ba456dc.html"
+   }, {
+      "id" : "7ba456d0",
+      "versionId" : "g239af45b",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T07:25:57.911+0000",
+      "artist" : {
+         "mbid" : "1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2",
+         "name" : "Ice Cube",
+         "sortName" : "Ice Cube",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ice-cube-7bd686c0.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Nigga Ya Love to Hate"
+            }, {
+               "name" : "Straight Outta Compton",
+               "cover" : {
+                  "mbid" : "3a54bffa-2314-44a2-927b-60144119c780",
+                  "name" : "N.W.A",
+                  "sortName" : "N.W.A",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/nwa-63d68637.html"
+               }
+            }, {
+               "name" : "Gangsta Gangsta",
+               "cover" : {
+                  "mbid" : "3a54bffa-2314-44a2-927b-60144119c780",
+                  "name" : "N.W.A",
+                  "sortName" : "N.W.A",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/nwa-63d68637.html"
+               }
+            }, {
+               "name" : "Check Yo' Self"
+            }, {
+               "name" : "You Know How We Do It"
+            }, {
+               "name" : "We Be Clubbin'"
+            }, {
+               "name" : "It Was a Good Day"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ice-cube/2023/yankee-stadium-the-bronx-ny-7ba456d0.html"
+   }, {
+      "id" : "7ba456b4",
+      "versionId" : "g739ada81",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-13T05:16:19.843+0000",
+      "artist" : {
+         "mbid" : "72eafbba-ff08-4257-9594-267d4a6fcdca",
+         "name" : "Kurtis Blow",
+         "sortName" : "Kurtis Blow",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kurtis-blow-13d681fd.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "If I Ruled the World"
+            }, {
+               "name" : "The Bronx"
+            }, {
+               "name" : "The Breaks"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kurtis-blow/2023/yankee-stadium-the-bronx-ny-7ba456b4.html"
+   }, {
+      "id" : "7ba456b0",
+      "versionId" : "g3b9d58b4",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-09T00:36:31.175+0000",
+      "artist" : {
+         "mbid" : "55065790-b209-42e4-9e12-6801f3c3246c",
+         "name" : "DJ Battlecat",
+         "sortName" : "Battlecat, DJ",
+         "disambiguation" : "hip hop producer",
+         "url" : "https://www.setlist.fm/setlists/dj-battlecat-13de21d9.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-battlecat/2023/yankee-stadium-the-bronx-ny-7ba456b0.html"
+   }, {
+      "id" : "7ba456a0",
+      "versionId" : "g1b9af5a0",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T07:11:14.393+0000",
+      "artist" : {
+         "mbid" : "c1708d03-8a66-46eb-848e-fe0d233ffb39",
+         "name" : "A Boogie Wit da Hoodie",
+         "sortName" : "Boogie Wit da Hoodie, A",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/a-boogie-wit-da-hoodie-2bc03ce2.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Remember the Time",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name" : "Michael Jackson",
+                  "sortName" : "Jackson, Michael",
+                  "disambiguation" : "“King of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+               }
+            }, {
+               "name" : "Look Back at It"
+            }, {
+               "name" : "My Shit"
+            }, {
+               "name" : "Jungle"
+            }, {
+               "name" : "Hello",
+               "cover" : {
+                  "mbid" : "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                  "name" : "Pop Smoke",
+                  "sortName" : "Pop Smoke",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pop-smoke-7bf64620.html"
+               }
+            }, {
+               "name" : "Drowning"
+            } ]
+         } ]
+      },
+      "info" : "Received proclamation from the New York City Council during set",
+      "url" : "https://www.setlist.fm/setlist/a-boogie-wit-da-hoodie/2023/yankee-stadium-the-bronx-ny-7ba456a0.html"
+   }, {
+      "id" : "73a456d9",
+      "versionId" : "g7bac3e5c",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2024-08-20T23:26:35.909+0000",
+      "artist" : {
+         "mbid" : "f90e8b26-9e52-4669-a5c9-e28529c47894",
+         "name" : "Snoop Dogg",
+         "sortName" : "Snoop Dogg",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/snoop-dogg-13d68175.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "tour" : {
+         "name" : "High School Reunion"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Drop It Like It's Hot"
+            }, {
+               "name" : "The Next Episode",
+               "cover" : {
+                  "mbid" : "5f6ab597-f57a-40da-be9e-adad48708203",
+                  "name" : "Dr. Dre",
+                  "sortName" : "Dre, Dr.",
+                  "disambiguation" : "Andre Young, rap producer",
+                  "url" : "https://www.setlist.fm/setlists/dr-dre-33d69cf5.html"
+               }
+            }, {
+               "name" : "Nuthin' but a \"G\" Thang",
+               "cover" : {
+                  "mbid" : "5f6ab597-f57a-40da-be9e-adad48708203",
+                  "name" : "Dr. Dre",
+                  "sortName" : "Dre, Dr.",
+                  "disambiguation" : "Andre Young, rap producer",
+                  "url" : "https://www.setlist.fm/setlists/dr-dre-33d69cf5.html"
+               }
+            }, {
+               "name" : "Deep Cover / Pump Pump"
+            }, {
+               "name" : "Strictly Business",
+               "cover" : {
+                  "mbid" : "4fa39dc8-c695-4e0e-ba04-92c63d99c9f9",
+                  "name" : "EPMD",
+                  "sortName" : "EPMD",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/epmd-7bd686ac.html"
+               },
+               "with" : {
+                  "mbid" : "4fa39dc8-c695-4e0e-ba04-92c63d99c9f9",
+                  "name" : "EPMD",
+                  "sortName" : "EPMD",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/epmd-7bd686ac.html"
+               }
+            }, {
+               "name" : "Blow the Whistle",
+               "cover" : {
+                  "mbid" : "8e0fe7bd-bd17-4d25-9b68-1e6a60705477",
+                  "name" : "Too $hort",
+                  "sortName" : "Too Short",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/too-hort-6bd6869e.html"
+               },
+               "info" : "also with Flo Milli",
+               "with" : {
+                  "mbid" : "8e0fe7bd-bd17-4d25-9b68-1e6a60705477",
+                  "name" : "Too $hort",
+                  "sortName" : "Too Short",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/too-hort-6bd6869e.html"
+               }
+            }, {
+               "name" : "This Is New York",
+               "cover" : {
+                  "mbid" : "2fba2cb6-4f34-44fb-aadb-66c3af77f2a5",
+                  "name" : "Scar Lip",
+                  "sortName" : "Scar Lip",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/scar-lip-6bfb76ee.html"
+               },
+               "with" : {
+                  "mbid" : "2fba2cb6-4f34-44fb-aadb-66c3af77f2a5",
+                  "name" : "Scar Lip",
+                  "sortName" : "Scar Lip",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/scar-lip-6bfb76ee.html"
+               }
+            }, {
+               "name" : "Hollywood's World",
+               "cover" : {
+                  "mbid" : "3a83820f-e0f0-4bf5-ab60-058b310732b5",
+                  "name" : "DJ Hollywood",
+                  "sortName" : "Hollywood, DJ",
+                  "disambiguation" : "Anthony Holloway",
+                  "url" : "https://www.setlist.fm/setlists/dj-hollywood-2bdf18a6.html"
+               },
+               "with" : {
+                  "mbid" : "3a83820f-e0f0-4bf5-ab60-058b310732b5",
+                  "name" : "DJ Hollywood",
+                  "sortName" : "Hollywood, DJ",
+                  "disambiguation" : "Anthony Holloway",
+                  "url" : "https://www.setlist.fm/setlists/dj-hollywood-2bdf18a6.html"
+               }
+            }, {
+               "name" : "Gin and Juice"
+            }, {
+               "name" : "2 of Amerikaz Most Wanted",
+               "cover" : {
+                  "mbid" : "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+                  "name" : "2Pac",
+                  "sortName" : "2Pac",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/2pac-1bd6b904.html"
+               }
+            }, {
+               "name" : "Young, Wild & Free",
+               "cover" : {
+                  "mbid" : "1d6ae749-0562-442f-8427-4593657fd9a9",
+                  "name" : "Snoop Dogg & Wiz Khalifa",
+                  "sortName" : "Snoop Dogg & Wiz Khalifa",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/snoop-dogg-and-wiz-khalifa-bd3f18e.html"
+               },
+               "with" : {
+                  "mbid" : "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                  "name" : "Wiz Khalifa",
+                  "sortName" : "Wiz Khalifa",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/wiz-khalifa-5bd42798.html"
+               }
+            }, {
+               "name" : "We Dem Boyz",
+               "cover" : {
+                  "mbid" : "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                  "name" : "Wiz Khalifa",
+                  "sortName" : "Wiz Khalifa",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/wiz-khalifa-5bd42798.html"
+               },
+               "with" : {
+                  "mbid" : "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                  "name" : "Wiz Khalifa",
+                  "sortName" : "Wiz Khalifa",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/wiz-khalifa-5bd42798.html"
+               }
+            }, {
+               "name" : "Lodi Dodi",
+               "info" : "also with Slick Rick",
+               "with" : {
+                  "mbid" : "029c683d-4e0f-4264-a563-ca7743b33b07",
+                  "name" : "Doug E. Fresh",
+                  "sortName" : "Fresh, Doug E.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/doug-e-fresh-63d786a3.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/snoop-dogg/2023/yankee-stadium-the-bronx-ny-73a456d9.html"
+   }, {
+      "id" : "73a456d5",
+      "versionId" : "g339ae8ad",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T17:37:54.135+0000",
+      "artist" : {
+         "mbid" : "8ecc4c7e-9482-4557-bf0f-d74783a9e670",
+         "name" : "DJ Kool Herc",
+         "sortName" : "Kool Herc, DJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-kool-herc-2bdd64fa.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "made three appearances: introduced the start of the evening with sister, Cindy Campbell, as well as a mid-show award ceremony, and a shout out during Nas’ set",
+      "url" : "https://www.setlist.fm/setlist/dj-kool-herc/2023/yankee-stadium-the-bronx-ny-73a456d5.html"
+   }, {
+      "id" : "73a456cd",
+      "versionId" : "g239d58cb",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-09T00:33:08.361+0000",
+      "artist" : {
+         "mbid" : "1ac10f5e-2079-4435-b78f-dda6ecdeba15",
+         "name" : "Eve",
+         "sortName" : "Eve",
+         "disambiguation" : "US rapper/singer",
+         "url" : "https://www.setlist.fm/setlists/eve-13d681e5.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/eve/2023/yankee-stadium-the-bronx-ny-73a456cd.html"
+   }, {
+      "id" : "73a456c5",
+      "versionId" : "g2b9afc4e",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T00:53:39.533+0000",
+      "artist" : {
+         "mbid" : "cf15719f-51f9-4db8-a15d-5eed9664ce69",
+         "name" : "Lupe Fiasco",
+         "sortName" : "Fiasco, Lupe",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lupe-fiasco-1bd6d504.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kick, Push"
+            }, {
+               "name" : "Hip-Hop Saved My Life"
+            }, {
+               "name" : "Superstar"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lupe-fiasco/2023/yankee-stadium-the-bronx-ny-73a456c5.html"
+   }, {
+      "id" : "73a456c1",
+      "versionId" : "g239af457",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T07:31:04.662+0000",
+      "artist" : {
+         "mbid" : "f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62",
+         "name" : "T.I.",
+         "sortName" : "T.I.",
+         "disambiguation" : "Atlanta US rapper & producer Clifford Harris",
+         "url" : "https://www.setlist.fm/setlists/ti-4bd6bfa6.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Top Back"
+            }, {
+               "name" : "Rubber Band Man"
+            }, {
+               "name" : "24's"
+            }, {
+               "name" : "U Don't Know Me"
+            }, {
+               "name" : "Whatever You Like"
+            }, {
+               "name" : "Bring Em Out"
+            }, {
+               "name" : "Swagga Like Us"
+            }, {
+               "name" : "Live Your Life"
+            }, {
+               "name" : "What You Know"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ti/2023/yankee-stadium-the-bronx-ny-73a456c1.html"
+   }, {
+      "id" : "73a456bd",
+      "versionId" : "g3b9d58bc",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-09T00:35:51.978+0000",
+      "artist" : {
+         "mbid" : "8e7f5842-de5e-4eab-8d5f-0a55c84f4cb1",
+         "name" : "Marley Marl",
+         "sortName" : "Marley Marl",
+         "disambiguation" : "QB hip hop producer & DJ of Juice Crew",
+         "url" : "https://www.setlist.fm/setlists/marley-marl-13d6c9b1.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/marley-marl/2023/yankee-stadium-the-bronx-ny-73a456bd.html"
+   } ]
+}

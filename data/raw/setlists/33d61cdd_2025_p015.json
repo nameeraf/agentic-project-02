@@ -1,0 +1,703 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 15,
+   "total" : 285,
+   "setlist" : [ {
+      "id" : "2b514836",
+      "versionId" : "g134a652d",
+      "eventDate" : "13-01-2025",
+      "lastUpdated" : "2025-05-21T01:07:13.440+0000",
+      "artist" : {
+         "mbid" : "6ca6f49f-41f3-49ae-8403-44d07bc6f564",
+         "name" : "Geordie Greep",
+         "sortName" : "Greep, Geordie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/geordie-greep-5bf2cb04.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "USA & Canada Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Long Good Friday — Main Title",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "6a0dd112-ff5f-488b-a6ac-398eb3b6c860",
+                  "name" : "Francis Monkman",
+                  "sortName" : "Monkman, Francis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/francis-monkman-2bd6a086.html"
+               }
+            }, {
+               "name" : "Walk Up"
+            }, {
+               "name" : "Terra"
+            }, {
+               "name" : "The New Sound"
+            }, {
+               "name" : "Through a War"
+            }, {
+               "name" : "As If Waltz"
+            }, {
+               "name" : "Holy, Holy"
+            }, {
+               "name" : "Cua cua ra, cua cua",
+               "cover" : {
+                  "mbid" : "f1edfbed-9315-4550-859c-599cc3fdee57",
+                  "name" : "Willie Colón",
+                  "sortName" : "Colón, Willie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/willie-colon-33d64c51.html"
+               }
+            }, {
+               "name" : "Blues"
+            }, {
+               "name" : "Bongo Season",
+               "info" : "Extended Jam"
+            }, {
+               "name" : "The Magician"
+            }, {
+               "name" : "We're All Alone",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "name" : "Boz Scaggs",
+                  "sortName" : "Scaggs, Boz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/boz-scaggs-13d6b9dd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/geordie-greep/2025/bowery-ballroom-new-york-ny-2b514836.html"
+   }, {
+      "id" : "7b5df218",
+      "versionId" : "g635a0647",
+      "eventDate" : "11-01-2025",
+      "lastUpdated" : "2025-01-13T17:47:08.923+0000",
+      "artist" : {
+         "mbid" : "356e6d5c-bb93-47fb-a334-b2a529ed7749",
+         "name" : "The Solids",
+         "sortName" : "Solids, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-solids-13d3c9c1.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "First Set",
+            "song" : [ {
+               "name" : "Hey Beautiful"
+            }, {
+               "name" : "Back on the Chain Gang",
+               "cover" : {
+                  "mbid" : "e9c832b0-384b-4ee6-aec0-111372784aac",
+                  "name" : "Pretenders",
+                  "sortName" : "Pretenders",
+                  "disambiguation" : "English‐American rock band",
+                  "url" : "https://www.setlist.fm/setlists/pretenders-33d6b815.html"
+               }
+            }, {
+               "name" : "Simple Song",
+               "cover" : {
+                  "mbid" : "6c8b9855-ba8b-48f9-ac1d-42167f7f7b18",
+                  "name" : "The Shins",
+                  "sortName" : "Shins, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-shins-6bd6ae4e.html"
+               }
+            }, {
+               "name" : "Sandcastles in the Sand"
+            }, {
+               "name" : "You Just Got Slapped"
+            }, {
+               "name" : "Victoria",
+               "cover" : {
+                  "mbid" : "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                  "name" : "The Kinks",
+                  "sortName" : "Kinks, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-kinks-23d6ac37.html"
+               },
+               "info" : "with Ashley Williams"
+            }, {
+               "name" : "Soul Meets Body",
+               "cover" : {
+                  "mbid" : "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
+                  "name" : "Death Cab for Cutie",
+                  "sortName" : "Death Cab for Cutie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/death-cab-for-cutie-7bd6aea4.html"
+               },
+               "info" : "with Ashley Williams"
+            }, {
+               "name" : "Voices",
+               "cover" : {
+                  "mbid" : "9f870653-72b0-4c6d-8c59-439a95963e09",
+                  "name" : "Cheap Trick",
+                  "sortName" : "Cheap Trick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cheap-trick-23d6d4b3.html"
+               }
+            }, {
+               "name" : "Best Night Ever",
+               "info" : "with Elliot Thomas on drums"
+            }, {
+               "name" : "Food Delivery/Cat Sitting/Cat Funeral",
+               "info" : "with Elliot Thomas on drums"
+            }, {
+               "name" : "Night Night Little Marvin",
+               "info" : "with Elliot Thomas on drums & appearance by J.P. Manoux"
+            }, {
+               "name" : "Superdate",
+               "with" : {
+                  "mbid" : "8af7fcc2-7984-4856-a711-110d9337c9b8",
+                  "name" : "Josh Radnor",
+                  "sortName" : "Radnor, Josh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/josh-radnor-2bdfd4ce.html"
+               }
+            }, {
+               "name" : "You Were Born",
+               "cover" : {
+                  "mbid" : "a33a9cd6-8c03-4047-b62d-59f76f494c20",
+                  "name" : "Cloud Cult",
+                  "sortName" : "Cloud Cult",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cloud-cult-2bd650de.html"
+               },
+               "with" : {
+                  "mbid" : "8af7fcc2-7984-4856-a711-110d9337c9b8",
+                  "name" : "Josh Radnor",
+                  "sortName" : "Radnor, Josh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/josh-radnor-2bdfd4ce.html"
+               }
+            } ]
+         }, {
+            "name" : "Second Set",
+            "song" : [ {
+               "name" : "Dirty Deeds Done Dirt Cheap",
+               "cover" : {
+                  "mbid" : "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name" : "AC/DC",
+                  "sortName" : "AC/DC",
+                  "disambiguation" : "Australian hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/acdc-23d6807b.html"
+               },
+               "with" : {
+                  "mbid" : "db0d887b-df7a-48ed-8e0e-793ad3f22eca",
+                  "name" : "Will Forte",
+                  "sortName" : "Forte, Will",
+                  "disambiguation" : "actor / comedian",
+                  "url" : "https://www.setlist.fm/setlists/will-forte-6bc5927e.html"
+               }
+            }, {
+               "name" : "You Give Love a Bad Name",
+               "cover" : {
+                  "mbid" : "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+                  "name" : "Bon Jovi",
+                  "sortName" : "Bon Jovi",
+                  "disambiguation" : "group",
+                  "url" : "https://www.setlist.fm/setlists/bon-jovi-33d6b851.html"
+               },
+               "with" : {
+                  "mbid" : "db0d887b-df7a-48ed-8e0e-793ad3f22eca",
+                  "name" : "Will Forte",
+                  "sortName" : "Forte, Will",
+                  "disambiguation" : "actor / comedian",
+                  "url" : "https://www.setlist.fm/setlists/will-forte-6bc5927e.html"
+               }
+            }, {
+               "name" : "The Longest Time",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               },
+               "info" : "\"Bang Bang Bangity Bang\" snippet at end of song",
+               "with" : {
+                  "mbid" : "db0d887b-df7a-48ed-8e0e-793ad3f22eca",
+                  "name" : "Will Forte",
+                  "sortName" : "Forte, Will",
+                  "disambiguation" : "actor / comedian",
+                  "url" : "https://www.setlist.fm/setlists/will-forte-6bc5927e.html"
+               }
+            }, {
+               "name" : "The Funeral",
+               "cover" : {
+                  "mbid" : "07b6020a-c539-4d68-aeef-f159f3befc76",
+                  "name" : "Band of Horses",
+                  "sortName" : "Band of Horses",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/band-of-horses-3bd6982c.html"
+               }
+            }, {
+               "name" : "This Modern Love",
+               "cover" : {
+                  "mbid" : "8c538f11-c141-4588-8ecb-931083524186",
+                  "name" : "Bloc Party",
+                  "sortName" : "Bloc Party",
+                  "disambiguation" : "English indie rock band",
+                  "url" : "https://www.setlist.fm/setlists/bloc-party-13d6bdc1.html"
+               }
+            }, {
+               "name" : "Where Are They Now?",
+               "cover" : {
+                  "mbid" : "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                  "name" : "The Kinks",
+                  "sortName" : "Kinks, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-kinks-23d6ac37.html"
+               },
+               "info" : "Appearance by J.P. Manoux"
+            }, {
+               "name" : "Inside of Love",
+               "cover" : {
+                  "mbid" : "b9a2a9a6-7a40-48a6-bcb1-8eff5b89ad5b",
+                  "name" : "Nada Surf",
+                  "sortName" : "Nada Surf",
+                  "disambiguation" : "US alternative rock band",
+                  "url" : "https://www.setlist.fm/setlists/nada-surf-43d69b63.html"
+               },
+               "with" : {
+                  "mbid" : "95d8acc0-7023-47e0-a998-20d4e05e1ea7",
+                  "name" : "Matthew Caws",
+                  "sortName" : "Caws, Matthew",
+                  "disambiguation" : "US singer-songwriter/guitarist, member of Nada Surf",
+                  "url" : "https://www.setlist.fm/setlists/matthew-caws-4bd69b32.html"
+               }
+            }, {
+               "name" : "Always Love",
+               "cover" : {
+                  "mbid" : "b9a2a9a6-7a40-48a6-bcb1-8eff5b89ad5b",
+                  "name" : "Nada Surf",
+                  "sortName" : "Nada Surf",
+                  "disambiguation" : "US alternative rock band",
+                  "url" : "https://www.setlist.fm/setlists/nada-surf-43d69b63.html"
+               },
+               "with" : {
+                  "mbid" : "95d8acc0-7023-47e0-a998-20d4e05e1ea7",
+                  "name" : "Matthew Caws",
+                  "sortName" : "Caws, Matthew",
+                  "disambiguation" : "US singer-songwriter/guitarist, member of Nada Surf",
+                  "url" : "https://www.setlist.fm/setlists/matthew-caws-4bd69b32.html"
+               }
+            }, {
+               "name" : "In Front of Me Now",
+               "cover" : {
+                  "mbid" : "b9a2a9a6-7a40-48a6-bcb1-8eff5b89ad5b",
+                  "name" : "Nada Surf",
+                  "sortName" : "Nada Surf",
+                  "disambiguation" : "US alternative rock band",
+                  "url" : "https://www.setlist.fm/setlists/nada-surf-43d69b63.html"
+               },
+               "with" : {
+                  "mbid" : "95d8acc0-7023-47e0-a998-20d4e05e1ea7",
+                  "name" : "Matthew Caws",
+                  "sortName" : "Caws, Matthew",
+                  "disambiguation" : "US singer-songwriter/guitarist, member of Nada Surf",
+                  "url" : "https://www.setlist.fm/setlists/matthew-caws-4bd69b32.html"
+               }
+            }, {
+               "name" : "I'm Gonna Be (500 Miles)",
+               "cover" : {
+                  "mbid" : "1303b976-b862-4f04-94fd-a8d444e06714",
+                  "name" : "The Proclaimers",
+                  "sortName" : "Proclaimers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-proclaimers-63d61efb.html"
+               },
+               "info" : "Appearance by J.P. Manoux",
+               "with" : {
+                  "mbid" : "95d8acc0-7023-47e0-a998-20d4e05e1ea7",
+                  "name" : "Matthew Caws",
+                  "sortName" : "Caws, Matthew",
+                  "disambiguation" : "US singer-songwriter/guitarist, member of Nada Surf",
+                  "url" : "https://www.setlist.fm/setlists/matthew-caws-4bd69b32.html"
+               }
+            }, {
+               "name" : "Shake It Out",
+               "cover" : {
+                  "mbid" : "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+                  "name" : "Florence + the Machine",
+                  "sortName" : "Florence and the Machine",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/florence-the-machine-7bd646f8.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Baba O'Riley / Let's Go to the Mall",
+               "info" : "\"Hey Beautiful\" snippet at end of song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-solids/2025/bowery-ballroom-new-york-ny-7b5df218.html"
+   }, {
+      "id" : "4b5dbfaa",
+      "versionId" : "g135d41b5",
+      "eventDate" : "10-01-2025",
+      "lastUpdated" : "2025-01-06T22:03:58.677+0000",
+      "artist" : {
+         "mbid" : "c6a8d206-053c-4cfe-991a-bb78dfff31d8",
+         "name" : "SKORTS",
+         "sortName" : "SKORTS",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/skorts-5be05fa8.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/skorts/2025/bowery-ballroom-new-york-ny-4b5dbfaa.html"
+   }, {
+      "id" : "335c78ed",
+      "versionId" : "g6b5d620e",
+      "eventDate" : "01-01-2025",
+      "lastUpdated" : "2025-01-05T14:50:55.499+0000",
+      "artist" : {
+         "mbid" : "39cb09fb-0a41-4f76-a616-62d1d65304c9",
+         "name" : "Antietam",
+         "sortName" : "Antietam",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/antietam-7bd4dae0.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Clarion"
+            }, {
+               "name" : "Stomp"
+            }, {
+               "name" : "1-2-1"
+            }, {
+               "name" : "Needle and the Eye"
+            }, {
+               "name" : "Pitch & Yaw"
+            }, {
+               "name" : "Stowaway"
+            }, {
+               "name" : "Wake Up, Sleepy T"
+            }, {
+               "name" : "Birdwatching"
+            }, {
+               "name" : "Hands Down",
+               "info" : "with Trixie Madell on guitar",
+               "with" : {
+                  "mbid" : "9223ef7b-b746-41ad-bd36-e3d4be793a2c",
+                  "name" : "Ira Kaplan",
+                  "sortName" : "Kaplan, Ira",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ira-kaplan-43d6db1f.html"
+               }
+            }, {
+               "name" : "I'm So Tired",
+               "info" : "with Trixie Madell on guitar",
+               "with" : {
+                  "mbid" : "9223ef7b-b746-41ad-bd36-e3d4be793a2c",
+                  "name" : "Ira Kaplan",
+                  "sortName" : "Kaplan, Ira",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ira-kaplan-43d6db1f.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening act for last night of Yo La Tengo's Hanukkah residency. Ira Kaplan introduced them as the band they opened for at their first show in 1984, then joined them on organ for the last two songs. Trixie Madell also joined on the last two songs. Tara Key later joined Yo La Tengo for part of their set.",
+      "url" : "https://www.setlist.fm/setlist/antietam/2025/bowery-ballroom-new-york-ny-335c78ed.html"
+   }, {
+      "id" : "335378d9",
+      "versionId" : "g5b4a4fe8",
+      "eventDate" : "01-01-2025",
+      "lastUpdated" : "2025-05-21T17:40:11.983+0000",
+      "artist" : {
+         "mbid" : "3f542031-b054-454d-b57b-812fa2a81b11",
+         "name" : "Yo La Tengo",
+         "sortName" : "Yo La Tengo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/yo-la-tengo-7bd6ae90.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "2024 Hanukkah Residency"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Surfin' With the Shah",
+               "cover" : {
+                  "mbid" : "60672b21-6ee9-4b37-9039-97ac5df5b4ce",
+                  "name" : "Urinals",
+                  "sortName" : "Urinals",
+                  "disambiguation" : "Southern California punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/urinals-7bd6e6c0.html"
+               },
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "Five-Cornered Drone (Crispy Duck)",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "We're an American Band",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "Demons",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "Three Blocks From Groove Street",
+               "info" : "with Dave Rick) (first time since 2013"
+            }, {
+               "name" : "Tears Are in Your Eyes",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "Nothing to Hide",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "Why Don't You Smile",
+               "cover" : {
+                  "mbid" : "64771234-7259-4218-b1da-d6a26fec67e3",
+                  "name" : "The All Night Workers",
+                  "sortName" : "All Night Workers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-all-night-workers-63d3babb.html"
+               },
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "I Should Have Known Better",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "From a Motel 6",
+               "info" : "with Dave Rick"
+            }, {
+               "name" : "I Know You Rider",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "Hot Tuna arrangement; first time since 1984) (with Dave Rick)",
+               "with" : {
+                  "mbid" : "8d9a564a-abbf-4b6f-9291-d97f8809a567",
+                  "name" : "Tara Key",
+                  "sortName" : "Key, Tara",
+                  "disambiguation" : "photographer",
+                  "url" : "https://www.setlist.fm/setlists/tara-key-7bfc7a94.html"
+               }
+            }, {
+               "name" : "E.T.I. (Extra Terrestrial Intelligence)",
+               "cover" : {
+                  "mbid" : "c7423e0c-ab3e-4ab4-be10-cdff5a9d3062",
+                  "name" : "Blue Öyster Cult",
+                  "sortName" : "Blue Öyster Cult",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/blue-oyster-cult-3bd6b814.html"
+               },
+               "info" : "with Dave Rick",
+               "with" : {
+                  "mbid" : "8d9a564a-abbf-4b6f-9291-d97f8809a567",
+                  "name" : "Tara Key",
+                  "sortName" : "Key, Tara",
+                  "disambiguation" : "photographer",
+                  "url" : "https://www.setlist.fm/setlists/tara-key-7bfc7a94.html"
+               }
+            }, {
+               "name" : "Today Is the Day",
+               "info" : "fast version) (with Dave Rick",
+               "with" : {
+                  "mbid" : "8d9a564a-abbf-4b6f-9291-d97f8809a567",
+                  "name" : "Tara Key",
+                  "sortName" : "Key, Tara",
+                  "disambiguation" : "photographer",
+                  "url" : "https://www.setlist.fm/setlists/tara-key-7bfc7a94.html"
+               }
+            }, {
+               "name" : "Tom Courtenay",
+               "info" : "with Dave Rick",
+               "with" : {
+                  "mbid" : "8d9a564a-abbf-4b6f-9291-d97f8809a567",
+                  "name" : "Tara Key",
+                  "sortName" : "Key, Tara",
+                  "disambiguation" : "photographer",
+                  "url" : "https://www.setlist.fm/setlists/tara-key-7bfc7a94.html"
+               }
+            }, {
+               "name" : "The Evil That Men Do",
+               "info" : "Pablo's Version) (first time since 2018) (with Dave Rick",
+               "with" : {
+                  "mbid" : "8d9a564a-abbf-4b6f-9291-d97f8809a567",
+                  "name" : "Tara Key",
+                  "sortName" : "Key, Tara",
+                  "disambiguation" : "photographer",
+                  "url" : "https://www.setlist.fm/setlists/tara-key-7bfc7a94.html"
+               }
+            }, {
+               "name" : "Our Way to Fall"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Happy New Year",
+               "cover" : {
+                  "mbid" : "bd69f9fb-4213-4646-a5f8-57f60f7d9be4",
+                  "name" : "Kimberley Rew",
+                  "sortName" : "Rew, Kimberley",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kimberley-rew-73d68641.html"
+               },
+               "info" : "with Kimberley Rew & Lee Cave-Berry"
+            }, {
+               "name" : "Stomping All Over the World",
+               "cover" : {
+                  "mbid" : "bd69f9fb-4213-4646-a5f8-57f60f7d9be4",
+                  "name" : "Kimberley Rew",
+                  "sortName" : "Rew, Kimberley",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kimberley-rew-73d68641.html"
+               },
+               "info" : "with Kimberley Rew & Lee Cave-Berry"
+            }, {
+               "name" : "Straighten Up and Fly Right",
+               "cover" : {
+                  "mbid" : "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+                  "name" : "Nat King Cole",
+                  "sortName" : "Cole, Nat King",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nat-king-cole-13d6b5c9.html"
+               },
+               "info" : "with Kimberley Rew & Lee Cave-Berry"
+            }, {
+               "name" : "Going Down to Liverpool",
+               "cover" : {
+                  "mbid" : "a57505c9-6b43-4861-a498-fe00b349d591",
+                  "name" : "Katrina and the Waves",
+                  "sortName" : "Katrina and the Waves",
+                  "disambiguation" : "British‐American rock band",
+                  "url" : "https://www.setlist.fm/setlists/katrina-and-the-waves-7bd686ec.html"
+               },
+               "info" : "with Kimberley Rew & Lee Cave-Berry"
+            }, {
+               "name" : "Walking on Sunshine",
+               "cover" : {
+                  "mbid" : "a57505c9-6b43-4861-a498-fe00b349d591",
+                  "name" : "Katrina and the Waves",
+                  "sortName" : "Katrina and the Waves",
+                  "disambiguation" : "British‐American rock band",
+                  "url" : "https://www.setlist.fm/setlists/katrina-and-the-waves-7bd686ec.html"
+               },
+               "info" : "with Kimberley Rew & Lee Cave-Berry"
+            }, {
+               "name" : "My Little Corner of the World",
+               "cover" : {
+                  "mbid" : "7017d69b-ed82-4605-9d71-9be749d3667a",
+                  "name" : "Anita Bryant",
+                  "sortName" : "Bryant, Anita",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anita-bryant-2bd7d44e.html"
+               },
+               "info" : "with Marilyn Kaplan and Georgia on vocals"
+            } ]
+         } ]
+      },
+      "info" : "Last night of 2024 Hanukkah residency. Opening act: Antietam (joined by Ira Kaplan for last two songs). Comedian: Emily Catalano. Charity: Hitops. After-Show DJ: Matt Clarke. Mix CD: Ira Kaplan. Special guests: Dave Rick (guitar/bass, past member of Yo La Tengo), Tara Key (of Antietam, guitar), Kimberley Rew (guitar, vocals), Lee Cave-Berry (guitar, vocals), Trixie Madell (guitar, also guested for Antietam set), and Marilyn Kaplan (vocals, Ira's mother).",
+      "url" : "https://www.setlist.fm/setlist/yo-la-tengo/2025/bowery-ballroom-new-york-ny-335378d9.html"
+   } ]
+}

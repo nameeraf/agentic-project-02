@@ -1,0 +1,2607 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 211,
+   "setlist" : [ {
+      "id" : "1babd5b4",
+      "versionId" : "g1b5115f4",
+      "eventDate" : "29-11-2024",
+      "lastUpdated" : "2024-11-30T17:06:08.321+0000",
+      "artist" : {
+         "mbid" : "49a6efb9-9b52-44ce-8167-7cb1c21a8c45",
+         "name" : "Mammoth",
+         "sortName" : "Mammoth",
+         "disambiguation" : "fka Mammoth WVH; Wolfgang Van Halen’s band",
+         "url" : "https://www.setlist.fm/setlists/mammoth-bf43142.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Mammoth II"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Another Celebration at the End of the World"
+            }, {
+               "name" : "You're to Blame"
+            }, {
+               "name" : "Like a Pastime"
+            }, {
+               "name" : "Distance"
+            }, {
+               "name" : "Take a Bow"
+            }, {
+               "name" : "Don't Back Down"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mammoth/2024/madison-square-garden-new-york-ny-1babd5b4.html"
+   }, {
+      "id" : "6353fec3",
+      "versionId" : "g33640c19",
+      "eventDate" : "26-11-2024",
+      "lastUpdated" : "2025-11-04T10:04:43.362+0000",
+      "artist" : {
+         "mbid" : "79c67eb5-3851-4b28-bfe0-3adfcd6f58d7",
+         "name" : "Pentatonix",
+         "sortName" : "Pentatonix",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pentatonix-33d344a5.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Hallelujah! It's a Christmas Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Carol of the Bells",
+               "cover" : {
+                  "mbid" : "02861daf-f923-49fb-90e3-3ec44a600433",
+                  "name" : "Mykola Leontovych",
+                  "sortName" : "Leontovych, Mykola Dmytrovych",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mykola-leontovych-4bd3676e.html"
+               }
+            }, {
+               "name" : "Hark! The Herald Angels Sing",
+               "cover" : {
+                  "mbid" : "0e85eb79-1c05-44ba-827c-7b259a3d941a",
+                  "name" : "Felix Mendelssohn",
+                  "sortName" : "Mendelssohn, Felix",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/felix-mendelssohn-63d6eaeb.html"
+               }
+            }, {
+               "name" : "Let It Snow! Let It Snow! Let It Snow!",
+               "cover" : {
+                  "mbid" : "9591fd72-f700-49aa-9a91-cc39ccaf9f9e",
+                  "name" : "Vaughn Monroe and His Orchestra",
+                  "sortName" : "Monroe, Vaughn and Orchestra, His",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vaughn-monroe-and-his-orchestra-63d4ee03.html"
+               }
+            }, {
+               "name" : "My Favorite Things",
+               "cover" : {
+                  "mbid" : "0f939cec-d707-4c8e-950d-aa751a834b9a",
+                  "name" : "Rodgers & Hammerstein",
+                  "sortName" : "Rodgers, Richard & Hammerstein, Oscar, II",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rodgers-and-hammerstein-63d1aaaf.html"
+               }
+            }, {
+               "name" : "God Rest Ye Merry, Gentlemen",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "The Twelve Days of Christmas",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         }, {
+            "name" : "Wheel of Christmas",
+            "song" : [ {
+               "name" : "? Mystery Song",
+               "info" : "Improv song about snow in NYC"
+            }, {
+               "name" : "Rockin' Around the Christmas Tree",
+               "cover" : {
+                  "mbid" : "6ca4886a-8f77-4133-b404-46fb3908e24a",
+                  "name" : "Brenda Lee",
+                  "sortName" : "Lee, Brenda",
+                  "disambiguation" : "1960s American singer",
+                  "url" : "https://www.setlist.fm/setlists/brenda-lee-63d69a5f.html"
+               }
+            }, {
+               "name" : "Jingle Bells",
+               "cover" : {
+                  "mbid" : "ff98b821-de0d-4a0e-9002-507bf323a97d",
+                  "name" : "James Lord Pierpont",
+                  "sortName" : "Pierpont, James Lord",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-lord-pierpont-3bd2986c.html"
+               }
+            }, {
+               "name" : "You're a Mean One, Mr. Grinch",
+               "cover" : {
+                  "mbid" : "f666ee36-5c6c-46d2-923a-39ce7f02ca34",
+                  "name" : "Thurl Ravenscroft",
+                  "sortName" : "Ravenscroft, Thurl",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thurl-ravenscroft-2bd7a8de.html"
+               }
+            }, {
+               "name" : "Mary, Did You Know?",
+               "cover" : {
+                  "mbid" : "ca73f8ff-57c7-4c77-a771-a668195e13da",
+                  "name" : "Buddy Greene",
+                  "sortName" : "Greene, Buddy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/buddy-greene-2bd0f0fe.html"
+               }
+            }, {
+               "name" : "What Christmas Means to Me",
+               "cover" : {
+                  "mbid" : "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+                  "name" : "Stevie Wonder",
+                  "sortName" : "Wonder, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-wonder-13d6b955.html"
+               }
+            }, {
+               "name" : "",
+               "tape" : true
+            }, {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Meet Me Next Christmas"
+            }, {
+               "name" : "What is This Feeling?",
+               "cover" : {
+                  "mbid" : "745862cb-ce96-4557-b4bb-17dc0220ca27",
+                  "name" : "Wicked Cast",
+                  "sortName" : "Wicked Cast",
+                  "disambiguation" : "Broadway",
+                  "url" : "https://www.setlist.fm/setlists/wicked-cast-4bf043ee.html"
+               }
+            }, {
+               "name" : "Thank You",
+               "info" : "Scott solo while the audience harmonize for TikTok"
+            }, {
+               "name" : "Dance of the Sugar Plum Fairy",
+               "cover" : {
+                  "mbid" : "9ddd7abc-9e1b-471d-8031-583bc6bc8be9",
+                  "name" : "Pyotr Ilyich Tchaikovsky",
+                  "sortName" : "Tchaikovsky, Pyotr Ilyich",
+                  "disambiguation" : "Russian romantic composer",
+                  "url" : "https://www.setlist.fm/setlists/pyotr-ilyich-tchaikovsky-13d7c165.html"
+               },
+               "info" : "Cello & Drums Solo"
+            }, {
+               "name" : "Let It Go Cam",
+               "tape" : true
+            }, {
+               "name" : "Hallelujah",
+               "cover" : {
+                  "mbid" : "65314b12-0e08-43fa-ba33-baaa7b874c15",
+                  "name" : "Leonard Cohen",
+                  "sortName" : "Cohen, Leonard",
+                  "disambiguation" : "Canadian singer‐songwriter and poet",
+                  "url" : "https://www.setlist.fm/setlists/leonard-cohen-bd6d12a.html"
+               }
+            }, {
+               "name" : "White Winter Hymnal",
+               "cover" : {
+                  "mbid" : "fa97dd36-1b82-43d7-a6e4-2adeafd59cef",
+                  "name" : "Fleet Foxes",
+                  "sortName" : "Fleet Foxes",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleet-foxes-7bd64ec0.html"
+               }
+            }, {
+               "name" : "I Saw Three Ships (Come Sailing In)",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Evergreen"
+            }, {
+               "name" : "That's Christmas to Me"
+            }, {
+               "name" : "O Come, All Ye Faithful",
+               "cover" : {
+                  "mbid" : "997ccbe8-1820-4ee8-851f-a62ab571e226",
+                  "name" : "John Francis Wade",
+                  "sortName" : "Wade, John Francis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-francis-wade-4bd48722.html"
+               }
+            }, {
+               "name" : "Kid on Christmas"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Pure Imagination / Christmas Time Is Here"
+            }, {
+               "name" : "Joyful, Joyful"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pentatonix/2024/madison-square-garden-new-york-ny-6353fec3.html"
+   }, {
+      "id" : "b5e516e",
+      "versionId" : "g4b5e53c6",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-12-10T16:40:14.546+0000",
+      "artist" : {
+         "mbid" : "a44ec89f-740c-4a18-a459-142781c7fe9f",
+         "name" : "Warren Haynes Band",
+         "sortName" : "Haynes, Warren Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/warren-haynes-band-5bdebfd4.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Million Voices Whisper"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Man in Motion",
+               "cover" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               },
+               "with" : {
+                  "mbid" : "cae4fd51-4d58-4d48-92c1-6198cc2e45ed",
+                  "name" : "Trombone Shorty",
+                  "sortName" : "Trombone Shorty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/trombone-shorty-53d5e709.html"
+               }
+            }, {
+               "name" : "This Life as We Know It",
+               "cover" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               },
+               "with" : {
+                  "mbid" : "1bfae567-61d5-4dbc-b368-198e547fe729",
+                  "name" : "Robert Randolph",
+                  "sortName" : "Randolph, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-randolph-4bd64be2.html"
+               }
+            }, {
+               "name" : "Shakedown Street",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "with" : {
+                  "mbid" : "6e97618e-410a-49f5-b50a-4a8a54c08694",
+                  "name" : "Joe Russo",
+                  "sortName" : "Russo, Joe",
+                  "disambiguation" : "drummer",
+                  "url" : "https://www.setlist.fm/setlists/joe-russo-73d69e41.html"
+               }
+            }, {
+               "name" : "These Changes",
+               "cover" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               },
+               "with" : {
+                  "mbid" : "954a45e0-5e21-44ae-8d56-44b79b4f1cb3",
+                  "name" : "Derek Trucks",
+                  "sortName" : "Trucks, Derek",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/derek-trucks-13d6ad6d.html"
+               }
+            }, {
+               "name" : "Whipping Post",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "and Joe Russo; followed by band introductions",
+               "with" : {
+                  "mbid" : "954a45e0-5e21-44ae-8d56-44b79b4f1cb3",
+                  "name" : "Derek Trucks",
+                  "sortName" : "Trucks, Derek",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/derek-trucks-13d6ad6d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/warren-haynes-band/2024/madison-square-garden-new-york-ny-b5e516e.html"
+   }, {
+      "id" : "b5e5146",
+      "versionId" : "g63504af7",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-11-25T12:05:29.410+0000",
+      "artist" : {
+         "mbid" : "deabe097-2a03-49ce-9ae3-c9645bc778c7",
+         "name" : "Susan Tedeschi",
+         "sortName" : "Tedeschi, Susan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/susan-tedeschi-3d6ad23.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Angel From Montgomery",
+               "cover" : {
+                  "mbid" : "e86492c1-0376-4df0-8042-8ba058c83960",
+                  "name" : "John Prine",
+                  "sortName" : "Prine, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-prine-7bd656f4.html"
+               },
+               "with" : {
+                  "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+                  "name" : "Dave Matthews",
+                  "sortName" : "Matthews, Dave",
+                  "disambiguation" : "of Dave Matthews Band",
+                  "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/susan-tedeschi/2024/madison-square-garden-new-york-ny-b5e5146.html"
+   }, {
+      "id" : "4b51cb7e",
+      "versionId" : "g5344c3b9",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2025-02-27T23:59:39.939+0000",
+      "artist" : {
+         "mbid" : "b925a474-d245-4217-bc13-2e153d82bebb",
+         "name" : "Goose",
+         "sortName" : "Goose",
+         "disambiguation" : "Norwalk, Connecticut jam band",
+         "url" : "https://www.setlist.fm/setlists/goose-4bc92f72.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Arcadia"
+            }, {
+               "name" : "Give It Time",
+               "with" : {
+                  "mbid" : "1bfae567-61d5-4dbc-b368-198e547fe729",
+                  "name" : "Robert Randolph",
+                  "sortName" : "Randolph, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-randolph-4bd64be2.html"
+               }
+            }, {
+               "name" : "Hungersite",
+               "with" : {
+                  "mbid" : "954a45e0-5e21-44ae-8d56-44b79b4f1cb3",
+                  "name" : "Derek Trucks",
+                  "sortName" : "Trucks, Derek",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/derek-trucks-13d6ad6d.html"
+               }
+            }, {
+               "name" : "Baby Don't You Do It",
+               "cover" : {
+                  "mbid" : "afdb7919-059d-43c1-b668-ba1d265e7e42",
+                  "name" : "Marvin Gaye",
+                  "sortName" : "Gaye, Marvin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marvin-gaye-bd6b99e.html"
+               },
+               "with" : {
+                  "mbid" : "639ff94b-d314-4d2c-8495-f49c1a906e76",
+                  "name" : "Susan Tedeschi & Derek Trucks",
+                  "sortName" : "Tedeschi, Susan & Trucks, Derek",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/susan-tedeschi-and-derek-trucks-bd6ad2e.html"
+               }
+            }, {
+               "name" : "The Way It Is",
+               "cover" : {
+                  "mbid" : "b548040e-b631-4bdd-ab75-045293e448b7",
+                  "name" : "Bruce Hornsby & the Range",
+                  "sortName" : "Hornsby, Bruce & the Range",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-hornsby-and-the-range-63d6562b.html"
+               },
+               "with" : {
+                  "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+                  "name" : "Dave Matthews",
+                  "sortName" : "Matthews, Dave",
+                  "disambiguation" : "of Dave Matthews Band",
+                  "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Streamed live on YouTube and nugs.net.",
+      "url" : "https://www.setlist.fm/setlist/goose/2024/madison-square-garden-new-york-ny-4b51cb7e.html"
+   }, {
+      "id" : "4351cb7f",
+      "versionId" : "g2b5044fa",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-11-25T13:23:32.156+0000",
+      "artist" : {
+         "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+         "name" : "Warren Haynes",
+         "sortName" : "Haynes, Warren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Soulshine",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "with" : {
+                  "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+                  "name" : "Dave Matthews",
+                  "sortName" : "Matthews, Dave",
+                  "disambiguation" : "of Dave Matthews Band",
+                  "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/warren-haynes/2024/madison-square-garden-new-york-ny-4351cb7f.html"
+   }, {
+      "id" : "3b51c880",
+      "versionId" : "g2b5044ca",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-11-25T13:38:45.792+0000",
+      "artist" : {
+         "mbid" : "52a4de43-92f5-4995-9a71-07d67dd35b7d",
+         "name" : "Nathaniel Rateliff & The Night Sweats",
+         "sortName" : "Rateliff, Nathaniel & The Night Sweats",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nathaniel-rateliff-and-the-night-sweats-4bcd273a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Look It Here"
+            }, {
+               "name" : "You Worry Me"
+            }, {
+               "name" : "Call Me (Whatever You Like)"
+            }, {
+               "name" : "Intro"
+            }, {
+               "name" : "I Need Never Get Old"
+            }, {
+               "name" : "Heartless"
+            }, {
+               "name" : "Friendship",
+               "cover" : {
+                  "mbid" : "28012497-21da-4f35-9ecf-a4e2ac34bd99",
+                  "name" : "J. Blackfoot",
+                  "sortName" : "Blackfoot, J.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/j-blackfoot-73d4aad1.html"
+               },
+               "with" : {
+                  "mbid" : "04f57a2d-2449-400e-8fff-5b1c5af9560b",
+                  "name" : "Mavis Staples",
+                  "sortName" : "Staples, Mavis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mavis-staples-23d6b83f.html"
+               }
+            }, {
+               "name" : "I'll Be Damned"
+            }, {
+               "name" : "Love Don't"
+            }, {
+               "name" : "S.O.B.",
+               "info" : "and Robert Randolph & Ben Jaffe",
+               "with" : {
+                  "mbid" : "cae4fd51-4d58-4d48-92c1-6198cc2e45ed",
+                  "name" : "Trombone Shorty",
+                  "sortName" : "Trombone Shorty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/trombone-shorty-53d5e709.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nathaniel-rateliff-and-the-night-sweats/2024/madison-square-garden-new-york-ny-3b51c880.html"
+   }, {
+      "id" : "35e5167",
+      "versionId" : "g4350538b",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-11-25T01:42:06.729+0000",
+      "artist" : {
+         "mbid" : "639ff94b-d314-4d2c-8495-f49c1a906e76",
+         "name" : "Susan Tedeschi & Derek Trucks",
+         "sortName" : "Tedeschi, Susan & Trucks, Derek",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/susan-tedeschi-and-derek-trucks-bd6ad2e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "700 Houses",
+               "cover" : {
+                  "mbid" : "deabe097-2a03-49ce-9ae3-c9645bc778c7",
+                  "name" : "Susan Tedeschi",
+                  "sortName" : "Tedeschi, Susan",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/susan-tedeschi-3d6ad23.html"
+               },
+               "with" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/susan-tedeschi-and-derek-trucks/2024/madison-square-garden-new-york-ny-35e5167.html"
+   }, {
+      "id" : "2b51c882",
+      "versionId" : "g3b5ec440",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-12-07T06:13:20.696+0000",
+      "artist" : {
+         "mbid" : "07e748f1-075e-428d-85dc-ce3be434e906",
+         "name" : "Dave Matthews Band",
+         "sortName" : "Matthews, Dave, Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-matthews-band-43d6e713.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Weight",
+               "cover" : {
+                  "mbid" : "8c90ad8c-9150-4c51-a1eb-342232e99d06",
+                  "name" : "The Band",
+                  "sortName" : "Band, The",
+                  "disambiguation" : "Canadian-American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-band-3d6ad4b.html"
+               },
+               "info" : "+ Nathaniel Rateliff and Susan Tedeschi",
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Pantala Naga Pampa",
+               "info" : ">"
+            }, {
+               "name" : "Rapunzel"
+            }, {
+               "name" : "So Much to Say",
+               "info" : ">"
+            }, {
+               "name" : "Anyone Seen the Bridge",
+               "info" : "with Richard Strauss' \"Also Sprach Zarathustra\", and Heartbreaker interpolations) (>"
+            }, {
+               "name" : "Too Much"
+            }, {
+               "name" : "So Damn Lucky",
+               "cover" : {
+                  "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+                  "name" : "Dave Matthews",
+                  "sortName" : "Matthews, Dave",
+                  "disambiguation" : "of Dave Matthews Band",
+                  "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+               },
+               "info" : "with Sly & the Family Stone's \"Thank You (Falettinme Be Mice Elf Agin)\" interpolation"
+            }, {
+               "name" : "Jimi Thing",
+               "info" : "and Ben Jaffe) (>",
+               "with" : {
+                  "mbid" : "cae4fd51-4d58-4d48-92c1-6198cc2e45ed",
+                  "name" : "Trombone Shorty",
+                  "sortName" : "Trombone Shorty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/trombone-shorty-53d5e709.html"
+               }
+            }, {
+               "name" : "Brick House",
+               "cover" : {
+                  "mbid" : "900ab237-327b-44e2-87e4-73250bbe025a",
+                  "name" : "Commodores",
+                  "sortName" : "Commodores",
+                  "disambiguation" : "US funk/soul band with Lionel Richie",
+                  "url" : "https://www.setlist.fm/setlists/commodores-bd6b97e.html"
+               },
+               "info" : "and Trombone Shorty",
+               "with" : {
+                  "mbid" : "6a849bbc-e2cc-422d-95ca-d3230d802a47",
+                  "name" : "Benjamin Jaffe",
+                  "sortName" : "Jaffe, Benjamin",
+                  "disambiguation" : "tuba, bass",
+                  "url" : "https://www.setlist.fm/setlists/benjamin-jaffe-3d40133.html"
+               }
+            }, {
+               "name" : "Lie in Our Graves",
+               "info" : "with Eric Clapton's \"Wonderful Tonight\" interpolation",
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Melissa",
+               "cover" : {
+                  "mbid" : "72359492-22be-4ed9-aaa0-efa434fb2b01",
+                  "name" : "The Allman Brothers Band",
+                  "sortName" : "Allman Brothers Band, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-allman-brothers-band-1bd6ad7c.html"
+               },
+               "info" : "+ Derek Trucks and Trey Anastasio",
+               "with" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               }
+            }, {
+               "name" : "Come Together",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "and the ensemble",
+               "with" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-matthews-band/2024/madison-square-garden-new-york-ny-2b51c882.html"
+   }, {
+      "id" : "135e510d",
+      "versionId" : "g335044f9",
+      "eventDate" : "24-11-2024",
+      "lastUpdated" : "2024-11-25T13:24:22.581+0000",
+      "artist" : {
+         "mbid" : "2fa95b32-3c11-42d7-b495-12fc6be0a024",
+         "name" : "Dave Matthews",
+         "sortName" : "Matthews, Dave",
+         "disambiguation" : "of Dave Matthews Band",
+         "url" : "https://www.setlist.fm/setlists/dave-matthews-5bd6e7dc.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Carolina in My Mind",
+               "cover" : {
+                  "mbid" : "107d0c22-d051-4d98-8206-4e14de02132a",
+                  "name" : "James Taylor",
+                  "sortName" : "Taylor, James",
+                  "disambiguation" : "singer-songwriter and guitarist",
+                  "url" : "https://www.setlist.fm/setlists/james-taylor-43d6b383.html"
+               },
+               "with" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               }
+            }, {
+               "name" : "Southern Accents",
+               "cover" : {
+                  "mbid" : "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
+                  "name" : "Tom Petty and the Heartbreakers",
+                  "sortName" : "Petty, Tom and the Heartbreakers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tom-petty-and-the-heartbreakers-6bd6e20a.html"
+               },
+               "info" : "and Warren Haynes",
+               "with" : {
+                  "mbid" : "954a45e0-5e21-44ae-8d56-44b79b4f1cb3",
+                  "name" : "Derek Trucks",
+                  "sortName" : "Trucks, Derek",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/derek-trucks-13d6ad6d.html"
+               }
+            }, {
+               "name" : "Waste",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-matthews/2024/madison-square-garden-new-york-ny-135e510d.html"
+   }, {
+      "id" : "73513a5d",
+      "versionId" : "g6b51a23a",
+      "eventDate" : "23-11-2024",
+      "lastUpdated" : "2024-11-26T20:00:48.141+0000",
+      "artist" : {
+         "mbid" : "07e748f1-075e-428d-85dc-ce3be434e906",
+         "name" : "Dave Matthews Band",
+         "sortName" : "Matthews, Dave, Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-matthews-band-43d6e713.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Squirm"
+            }, {
+               "name" : "The Maker",
+               "cover" : {
+                  "mbid" : "ca0489a4-3a7b-4def-b66e-e00b2f579ae0",
+                  "name" : "Daniel Lanois",
+                  "sortName" : "Lanois, Daniel",
+                  "disambiguation" : "Canadian record producer, guitarist, vocalist, and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/daniel-lanois-1bd66d28.html"
+               }
+            }, {
+               "name" : "The Stone",
+               "info" : "“Can’t Help Falling in Love”"
+            }, {
+               "name" : "Sweet"
+            }, {
+               "name" : "Walk Around the Moon"
+            }, {
+               "name" : "Grace Is Gone"
+            }, {
+               "name" : "The Only Thing"
+            }, {
+               "name" : "Black and Blue Bird"
+            }, {
+               "name" : "Funny the Way It Is"
+            }, {
+               "name" : "#27"
+            }, {
+               "name" : "Let's Dance",
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               }
+            }, {
+               "name" : "The Ocean and the Butterfly"
+            }, {
+               "name" : "Ants Marching",
+               "with" : {
+                  "mbid" : "e1a889b7-5e45-447f-baa0-b9c6cbc0d39f",
+                  "name" : "Béla Fleck",
+                  "sortName" : "Fleck, Béla",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bela-fleck-bd6b1ae.html"
+               }
+            }, {
+               "name" : "#41",
+               "with" : {
+                  "mbid" : "e1a889b7-5e45-447f-baa0-b9c6cbc0d39f",
+                  "name" : "Béla Fleck",
+                  "sortName" : "Fleck, Béla",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bela-fleck-bd6b1ae.html"
+               }
+            }, {
+               "name" : "You Might Die Trying"
+            }, {
+               "name" : "Stolen Away on 55th & 3rd"
+            }, {
+               "name" : "Minarets"
+            }, {
+               "name" : "Grey Street"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sister"
+            }, {
+               "name" : "The Last Stop",
+               "with" : {
+                  "mbid" : "e1a889b7-5e45-447f-baa0-b9c6cbc0d39f",
+                  "name" : "Béla Fleck",
+                  "sortName" : "Fleck, Béla",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bela-fleck-bd6b1ae.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-matthews-band/2024/madison-square-garden-new-york-ny-73513a5d.html"
+   }, {
+      "id" : "6b50a25a",
+      "versionId" : "g33504425",
+      "eventDate" : "22-11-2024",
+      "lastUpdated" : "2024-11-25T13:14:23.902+0000",
+      "artist" : {
+         "mbid" : "07e748f1-075e-428d-85dc-ce3be434e906",
+         "name" : "Dave Matthews Band",
+         "sortName" : "Matthews, Dave, Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-matthews-band-43d6e713.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Old Dirt Hill (Bring That Beat Back)"
+            }, {
+               "name" : "Tripping Billies"
+            }, {
+               "name" : "The Dreaming Tree"
+            }, {
+               "name" : "When the World Ends"
+            }, {
+               "name" : "Madman's Eyes"
+            }, {
+               "name" : "Looking for a Vein"
+            }, {
+               "name" : "What Would You Say"
+            }, {
+               "name" : "Dancing Nancies"
+            }, {
+               "name" : "Spaceman"
+            }, {
+               "name" : "Down by the River",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               },
+               "info" : "first time played since 2015",
+               "with" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               }
+            }, {
+               "name" : "Cortez the Killer",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               },
+               "with" : {
+                  "mbid" : "4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e",
+                  "name" : "Warren Haynes",
+                  "sortName" : "Haynes, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-haynes-bd6ad66.html"
+               }
+            }, {
+               "name" : "I'll Back You Up"
+            }, {
+               "name" : "Don't Drink the Water"
+            }, {
+               "name" : "Kill the Preacher"
+            }, {
+               "name" : "Why I Am"
+            }, {
+               "name" : "Digging a Ditch"
+            }, {
+               "name" : "Rooftop"
+            }, {
+               "name" : "Warehouse"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Here on Out",
+               "info" : "Dave solo"
+            }, {
+               "name" : "Crush",
+               "info" : "with Stefan solo intro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-matthews-band/2024/madison-square-garden-new-york-ny-6b50a25a.html"
+   }, {
+      "id" : "1ba95988",
+      "versionId" : "g4350ef07",
+      "eventDate" : "10-11-2024",
+      "lastUpdated" : "2024-11-20T00:32:35.076+0000",
+      "artist" : {
+         "mbid" : "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+         "name" : "David Gilmour",
+         "sortName" : "Gilmour, David",
+         "disambiguation" : "Pink Floyd",
+         "url" : "https://www.setlist.fm/setlists/david-gilmour-7bd6ba00.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Luck and Strange"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "5 A.M."
+            }, {
+               "name" : "Black Cat"
+            }, {
+               "name" : "Luck and Strange"
+            }, {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (In the Air)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Time",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (Reprise)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Fat Old Sun",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Marooned",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Single Spark"
+            }, {
+               "name" : "Wish You Were Here",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "followed by band introductions"
+            }, {
+               "name" : "Vita Brevis",
+               "with" : {
+                  "mbid" : "bb8b9d73-ad64-4a22-950d-026aa3525820",
+                  "name" : "Romany Gilmour",
+                  "sortName" : "Gilmour, Romany",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/romany-gilmour-13f4f585.html"
+               }
+            }, {
+               "name" : "Between Two Points",
+               "cover" : {
+                  "mbid" : "252729ac-60f4-4d99-978f-402a788da9a4",
+                  "name" : "The Montgolfier Brothers",
+                  "sortName" : "Montgolfier Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-montgolfier-brothers-bd7edfe.html"
+               },
+               "with" : {
+                  "mbid" : "bb8b9d73-ad64-4a22-950d-026aa3525820",
+                  "name" : "Romany Gilmour",
+                  "sortName" : "Gilmour, Romany",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/romany-gilmour-13f4f585.html"
+               }
+            }, {
+               "name" : "High Hopes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sorrow",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "The Piper's Call"
+            }, {
+               "name" : "A Great Day for Freedom",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "In Any Tongue"
+            }, {
+               "name" : "The Great Gig in the Sky",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "stripped down version"
+            }, {
+               "name" : "A Boat Lies Waiting"
+            }, {
+               "name" : "Coming Back to Life",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "dedicated to Polly Samson"
+            }, {
+               "name" : "Dark and Velvet Nights"
+            }, {
+               "name" : "Sings"
+            }, {
+               "name" : "Scattered"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Comfortably Numb",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Final show of the tour",
+      "url" : "https://www.setlist.fm/setlist/david-gilmour/2024/madison-square-garden-new-york-ny-1ba95988.html"
+   }, {
+      "id" : "ba9714a",
+      "versionId" : "g4b5267da",
+      "eventDate" : "09-11-2024",
+      "lastUpdated" : "2024-11-10T04:55:32.585+0000",
+      "artist" : {
+         "mbid" : "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+         "name" : "David Gilmour",
+         "sortName" : "Gilmour, David",
+         "disambiguation" : "Pink Floyd",
+         "url" : "https://www.setlist.fm/setlists/david-gilmour-7bd6ba00.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Luck and Strange"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "5 A.M."
+            }, {
+               "name" : "Black Cat"
+            }, {
+               "name" : "Luck and Strange"
+            }, {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (In the Air)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Time",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (Reprise)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Fat Old Sun",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Marooned",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Single Spark"
+            }, {
+               "name" : "Wish You Were Here",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "followed by band introductions"
+            }, {
+               "name" : "Vita Brevis"
+            }, {
+               "name" : "Between Two Points",
+               "cover" : {
+                  "mbid" : "252729ac-60f4-4d99-978f-402a788da9a4",
+                  "name" : "The Montgolfier Brothers",
+                  "sortName" : "Montgolfier Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-montgolfier-brothers-bd7edfe.html"
+               },
+               "with" : {
+                  "mbid" : "bb8b9d73-ad64-4a22-950d-026aa3525820",
+                  "name" : "Romany Gilmour",
+                  "sortName" : "Gilmour, Romany",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/romany-gilmour-13f4f585.html"
+               }
+            }, {
+               "name" : "High Hopes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sorrow",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "The Piper's Call",
+               "with" : {
+                  "mbid" : "bb8b9d73-ad64-4a22-950d-026aa3525820",
+                  "name" : "Romany Gilmour",
+                  "sortName" : "Gilmour, Romany",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/romany-gilmour-13f4f585.html"
+               }
+            }, {
+               "name" : "A Great Day for Freedom",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "In Any Tongue"
+            }, {
+               "name" : "The Great Gig in the Sky",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Boat Lies Waiting"
+            }, {
+               "name" : "Coming Back to Life",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "Dedicated to Polly Samson"
+            }, {
+               "name" : "Dark and Velvet Nights"
+            }, {
+               "name" : "Sings"
+            }, {
+               "name" : "Scattered"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Comfortably Numb",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-gilmour/2024/madison-square-garden-new-york-ny-ba9714a.html"
+   }, {
+      "id" : "1ba97dbc",
+      "versionId" : "g6b52ce86",
+      "eventDate" : "06-11-2024",
+      "lastUpdated" : "2024-11-07T05:00:34.989+0000",
+      "artist" : {
+         "mbid" : "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+         "name" : "David Gilmour",
+         "sortName" : "Gilmour, David",
+         "disambiguation" : "Pink Floyd",
+         "url" : "https://www.setlist.fm/setlists/david-gilmour-7bd6ba00.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Luck and Strange"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "5 A.M."
+            }, {
+               "name" : "Black Cat"
+            }, {
+               "name" : "Luck and Strange"
+            }, {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (In the Air)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Time",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (Reprise)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Fat Old Sun",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Marooned",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Single Spark"
+            }, {
+               "name" : "Wish You Were Here",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Vita Brevis"
+            }, {
+               "name" : "Between Two Points",
+               "cover" : {
+                  "mbid" : "252729ac-60f4-4d99-978f-402a788da9a4",
+                  "name" : "The Montgolfier Brothers",
+                  "sortName" : "Montgolfier Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-montgolfier-brothers-bd7edfe.html"
+               }
+            }, {
+               "name" : "High Hopes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sorrow",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "The Piper's Call"
+            }, {
+               "name" : "In Any Tongue"
+            }, {
+               "name" : "The Great Gig in the Sky",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Boat Lies Waiting"
+            }, {
+               "name" : "Coming Back to Life",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Dark and Velvet Nights"
+            }, {
+               "name" : "Sings"
+            }, {
+               "name" : "Scattered"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Comfortably Numb",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-gilmour/2024/madison-square-garden-new-york-ny-1ba97dbc.html"
+   }, {
+      "id" : "13a91591",
+      "versionId" : "g5b52e71c",
+      "eventDate" : "05-11-2024",
+      "lastUpdated" : "2024-11-06T04:19:52.595+0000",
+      "artist" : {
+         "mbid" : "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+         "name" : "David Gilmour",
+         "sortName" : "Gilmour, David",
+         "disambiguation" : "Pink Floyd",
+         "url" : "https://www.setlist.fm/setlists/david-gilmour-7bd6ba00.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Luck and Strange"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "5 A.M."
+            }, {
+               "name" : "Black Cat"
+            }, {
+               "name" : "Luck and Strange"
+            }, {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (In the Air)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Time",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (Reprise)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Fat Old Sun",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Marooned",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Single Spark"
+            }, {
+               "name" : "Wish You Were Here",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Vita Brevis"
+            }, {
+               "name" : "Between Two Points",
+               "cover" : {
+                  "mbid" : "252729ac-60f4-4d99-978f-402a788da9a4",
+                  "name" : "The Montgolfier Brothers",
+                  "sortName" : "Montgolfier Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-montgolfier-brothers-bd7edfe.html"
+               },
+               "info" : "on vocals and harp",
+               "with" : {
+                  "mbid" : "bb8b9d73-ad64-4a22-950d-026aa3525820",
+                  "name" : "Romany Gilmour",
+                  "sortName" : "Gilmour, Romany",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/romany-gilmour-13f4f585.html"
+               }
+            }, {
+               "name" : "High Hopes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sorrow",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "The Piper's Call",
+               "info" : "shared vocals",
+               "with" : {
+                  "mbid" : "bb8b9d73-ad64-4a22-950d-026aa3525820",
+                  "name" : "Romany Gilmour",
+                  "sortName" : "Gilmour, Romany",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/romany-gilmour-13f4f585.html"
+               }
+            }, {
+               "name" : "A Great Day for Freedom",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "In Any Tongue"
+            }, {
+               "name" : "The Great Gig in the Sky",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Boat Lies Waiting"
+            }, {
+               "name" : "Coming Back to Life",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "Dedicated to Polly Samson"
+            }, {
+               "name" : "Dark and Velvet Nights"
+            }, {
+               "name" : "Sings"
+            }, {
+               "name" : "Scattered"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Comfortably Numb",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-gilmour/2024/madison-square-garden-new-york-ny-13a91591.html"
+   }, {
+      "id" : "1ba9159c",
+      "versionId" : "g7b52e610",
+      "eventDate" : "04-11-2024",
+      "lastUpdated" : "2024-11-06T05:17:10.635+0000",
+      "artist" : {
+         "mbid" : "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+         "name" : "David Gilmour",
+         "sortName" : "Gilmour, David",
+         "disambiguation" : "Pink Floyd",
+         "url" : "https://www.setlist.fm/setlists/david-gilmour-7bd6ba00.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Luck and Strange"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "5 A.M."
+            }, {
+               "name" : "Black Cat"
+            }, {
+               "name" : "Luck and Strange"
+            }, {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (In the Air)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Time",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (Reprise)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Fat Old Sun",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Marooned",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Single Spark"
+            }, {
+               "name" : "Wish You Were Here",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Vita Brevis"
+            }, {
+               "name" : "Between Two Points",
+               "cover" : {
+                  "mbid" : "252729ac-60f4-4d99-978f-402a788da9a4",
+                  "name" : "The Montgolfier Brothers",
+                  "sortName" : "Montgolfier Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-montgolfier-brothers-bd7edfe.html"
+               }
+            }, {
+               "name" : "High Hopes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sorrow",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "The Piper's Call"
+            }, {
+               "name" : "A Great Day for Freedom",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "In Any Tongue"
+            }, {
+               "name" : "The Great Gig in the Sky",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "A Boat Lies Waiting"
+            }, {
+               "name" : "Coming Back to Life",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "info" : "Dedicated to Polly Samson"
+            }, {
+               "name" : "Dark and Velvet Nights"
+            }, {
+               "name" : "Sings"
+            }, {
+               "name" : "Scattered"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Comfortably Numb",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-gilmour/2024/madison-square-garden-new-york-ny-1ba9159c.html"
+   }, {
+      "id" : "63549633",
+      "versionId" : "g43751b43",
+      "eventDate" : "31-10-2024",
+      "lastUpdated" : "2025-07-09T23:17:47.514+0000",
+      "artist" : {
+         "mbid" : "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+         "name" : "Duran Duran",
+         "sortName" : "Duran Duran",
+         "disambiguation" : "English rock band",
+         "url" : "https://www.setlist.fm/setlists/duran-duran-73d6ba3d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "MASQUE OF THE PINK DEATH",
+               "tape" : true
+            }, {
+               "name" : "Night Boat",
+               "info" : "DANSE MACABRE version NIGHTBOAT"
+            }, {
+               "name" : "DANSE MACABRE"
+            }, {
+               "name" : "The James Bond Theme",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "661e20c8-3d82-4da2-94a2-97d9e11691c0",
+                  "name" : "John Barry",
+                  "sortName" : "Barry, John",
+                  "disambiguation" : "English score composer",
+                  "url" : "https://www.setlist.fm/setlists/john-barry-1bd6b97c.html"
+               },
+               "info" : "with new Halloween arrangements"
+            }, {
+               "name" : "A View to a Kill"
+            }, {
+               "name" : "Hungry Like the Wolf"
+            }, {
+               "name" : "Ghost Town",
+               "cover" : {
+                  "mbid" : "07eb40a2-2914-439c-a01d-15a685b84ddf",
+                  "name" : "The Specials",
+                  "sortName" : "Specials, The",
+                  "disambiguation" : "ska band",
+                  "url" : "https://www.setlist.fm/setlists/the-specials-bd6b12e.html"
+               }
+            }, {
+               "name" : "Lonely in Your Nightmare / Super Freak",
+               "info" : "aka SUPER LONELY FREAK"
+            }, {
+               "name" : "Supernature",
+               "cover" : {
+                  "mbid" : "9ec90f51-2c4a-495b-b478-2dfc9c07f8bc",
+                  "name" : "Cerrone",
+                  "sortName" : "Cerrone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cerrone-6bd626da.html"
+               }
+            }, {
+               "name" : "Notorious"
+            }, {
+               "name" : "Love Voodoo",
+               "info" : "DANSE MACABRE version LOVE VOUDOU"
+            }, {
+               "name" : "Evil Woman",
+               "cover" : {
+                  "mbid" : "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+                  "name" : "Electric Light Orchestra",
+                  "sortName" : "Electric Light Orchestra",
+                  "disambiguation" : "British rock group",
+                  "url" : "https://www.setlist.fm/setlists/electric-light-orchestra-63d6be6b.html"
+               }
+            }, {
+               "name" : "Union of the Snake"
+            }, {
+               "name" : "Spooky",
+               "cover" : {
+                  "mbid" : "5bbfd400-d976-4f44-82c0-7b5f07b2e36a",
+                  "name" : "Mike Sharpe",
+                  "sortName" : "Sharpe, Mike",
+                  "disambiguation" : "saxophonist",
+                  "url" : "https://www.setlist.fm/setlists/mike-sharpe-5be4a340.html"
+               },
+               "info" : "Backing singers Rachael O'Connor on lead vocals along with Anna Ross"
+            }, {
+               "name" : "CONFESSION IN THE AFTERLIFE"
+            }, {
+               "name" : "Missing",
+               "cover" : {
+                  "mbid" : "0f4e6cc8-8a38-4741-b344-9d388def0060",
+                  "name" : "Arcadia",
+                  "sortName" : "Arcadia",
+                  "disambiguation" : "Duran Duran splinter group: Le Bon, Rhodes and Taylor",
+                  "url" : "https://www.setlist.fm/setlists/arcadia-bd6b186.html"
+               }
+            }, {
+               "name" : "Secret Oktober",
+               "info" : "DANSE MACABRE version SECRET OKTOBER 31st"
+            }, {
+               "name" : "The Reflex",
+               "info" : "with band introductions"
+            }, {
+               "name" : "bury a friend",
+               "cover" : {
+                  "mbid" : "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+                  "name" : "Billie Eilish",
+                  "sortName" : "Eilish, Billie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billie-eilish-1bc3b540.html"
+               }
+            }, {
+               "name" : "New Moon on Monday",
+               "info" : "DANSE MACABRE version NEW MOON 'DARK PHASE'"
+            }, {
+               "name" : "BLACK MOONLIGHT"
+            }, {
+               "name" : "Spellbound",
+               "cover" : {
+                  "mbid" : "78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2",
+                  "name" : "Siouxsie and the Banshees",
+                  "sortName" : "Siouxsie and the Banshees",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/siouxsie-and-the-banshees-63d6b22f.html"
+               }
+            }, {
+               "name" : "White Lines (Don't Don't Do It)",
+               "cover" : {
+                  "mbid" : "faaf4f84-7751-4613-9903-32c9d6a49741",
+                  "name" : "Grandmaster Melle Mel",
+                  "sortName" : "Grandmaster Melle Mel",
+                  "disambiguation" : "Melvin Glover aka Melle Mel",
+                  "url" : "https://www.setlist.fm/setlists/grandmaster-melle-mel-3bd5ec88.html"
+               }
+            }, {
+               "name" : "Planet Earth"
+            }, {
+               "name" : "Girls on Film / Psycho Killer",
+               "info" : "original  / Talking Heads cover"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Wild Boys"
+            }, {
+               "name" : "Rio"
+            } ]
+         } ]
+      },
+      "info" : "DANSE MACABRE: Halloween Show",
+      "url" : "https://www.setlist.fm/setlist/duran-duran/2024/madison-square-garden-new-york-ny-63549633.html"
+   }, {
+      "id" : "33570831",
+      "versionId" : "g334eb80d",
+      "eventDate" : "30-10-2024",
+      "lastUpdated" : "2025-04-15T05:36:39.916+0000",
+      "artist" : {
+         "mbid" : "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+         "name" : "Cyndi Lauper",
+         "sortName" : "Lauper, Cyndi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cyndi-lauper-1bd6b9e8.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Girls Just Wanna Have Fun Farewell Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "One Way or Another",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4d2956d1-a3f7-44bb-9a41-67563e1a0c94",
+                  "name" : "Blondie",
+                  "sortName" : "Blondie",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/blondie-4bd68b26.html"
+               }
+            }, {
+               "name" : "She Bop"
+            }, {
+               "name" : "The Goonies 'R' Good Enough"
+            }, {
+               "name" : "When You Were Mine",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               }
+            }, {
+               "name" : "I Drove All Night"
+            }, {
+               "name" : "Who Let in the Rain",
+               "info" : "Followed by band member introductions"
+            }, {
+               "name" : "Iko Iko",
+               "cover" : {
+                  "mbid" : "e2082d57-ca91-4cfc-b1e7-6ec336bf9764",
+                  "name" : "Sugar Boy and His Cane Cutters",
+                  "sortName" : "Sugar Boy and His Cane Cutters",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sugar-boy-and-his-cane-cutters-33d00815.html"
+               }
+            }, {
+               "name" : "Funnel of Love",
+               "cover" : {
+                  "mbid" : "550fbe01-42e9-4006-bcd0-6a1854dceb8f",
+                  "name" : "Wanda Jackson",
+                  "sortName" : "Jackson, Wanda",
+                  "disambiguation" : "aka the Female Elvis",
+                  "url" : "https://www.setlist.fm/setlists/wanda-jackson-4bd68766.html"
+               }
+            }, {
+               "name" : "Sally's Pigeons"
+            }, {
+               "name" : "I'm Gonna Be Strong",
+               "cover" : {
+                  "mbid" : "bb56bf3b-053d-470a-945e-fb6943c03214",
+                  "name" : "Frankie Laine",
+                  "sortName" : "Laine, Frankie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/frankie-laine-33d6102d.html"
+               }
+            }, {
+               "name" : "Sisters of Avalon"
+            }, {
+               "name" : "Change of Heart"
+            }, {
+               "name" : "Time After Time",
+               "with" : {
+                  "mbid" : "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+                  "name" : "Sam Smith",
+                  "sortName" : "Smith, Sam",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sam-smith-33d6703d.html"
+               }
+            }, {
+               "name" : "Money Changes Everything",
+               "cover" : {
+                  "mbid" : "2f179135-b60c-4f8c-bfaf-8cf170bede4b",
+                  "name" : "The Brains",
+                  "sortName" : "Brains, The",
+                  "disambiguation" : "American new wave band, 1980’s",
+                  "url" : "https://www.setlist.fm/setlists/the-brains-7bd46ed8.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Shine"
+            }, {
+               "name" : "True Colors"
+            }, {
+               "name" : "Girls Just Want to Have Fun"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cyndi-lauper/2024/madison-square-garden-new-york-ny-33570831.html"
+   }, {
+      "id" : "13534df5",
+      "versionId" : "g3b71a088",
+      "eventDate" : "30-10-2024",
+      "lastUpdated" : "2025-08-05T00:03:44.382+0000",
+      "artist" : {
+         "mbid" : "e7287972-ca8d-4133-a1d6-5446486ed075",
+         "name" : "Elle King",
+         "sortName" : "King, Elle",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/elle-king-3df114f.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hard to Handle",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+                  "name" : "Otis Redding",
+                  "sortName" : "Redding, Otis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/otis-redding-2bd6b83a.html"
+               }
+            }, {
+               "name" : "Ain't Country by Choice"
+            }, {
+               "name" : "Out Yonder",
+               "info" : "Elle announced after the song that she’s pregnant"
+            }, {
+               "name" : "Chain Smokin, Hard Drinkin, Woman"
+            }, {
+               "name" : "Tulsa"
+            }, {
+               "name" : "Ex's & Oh's"
+            }, {
+               "name" : "Stop Draggin' My Heart Around",
+               "cover" : {
+                  "mbid" : "b7f2cca2-72c6-41fb-ae33-53370fc62fe7",
+                  "name" : "Stevie Nicks",
+                  "sortName" : "Nicks, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stevie-nicks-5bd6d740.html"
+               }
+            }, {
+               "name" : "Love Go By"
+            }, {
+               "name" : "High Road"
+            }, {
+               "name" : "America's Sweetheart"
+            }, {
+               "name" : "Drunk (and I Don't Wanna Go Home)"
+            } ]
+         } ]
+      },
+      "info" : "Opened for Cyndi Lauper",
+      "url" : "https://www.setlist.fm/setlist/elle-king/2024/madison-square-garden-new-york-ny-13534df5.html"
+   } ]
+}

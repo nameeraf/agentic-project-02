@@ -1,0 +1,1753 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 268,
+   "setlist" : [ {
+      "id" : "13bcf949",
+      "versionId" : "g7beb3ad8",
+      "eventDate" : "18-12-2022",
+      "lastUpdated" : "2023-03-27T14:38:26.141+0000",
+      "artist" : {
+         "mbid" : "3f542031-b054-454d-b57b-812fa2a81b11",
+         "name" : "Yo La Tengo",
+         "sortName" : "Yo La Tengo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/yo-la-tengo-7bd6ae90.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "2022 Hanukkah Residency"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Seven Day Weekend",
+               "cover" : {
+                  "mbid" : "0f1083d8-fca9-40e3-b7bb-6cca7f15eff0",
+                  "name" : "Gary “U.S.” Bonds",
+                  "sortName" : "Bonds, Gary “U.S.”",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gary-us-bonds-4bd74312.html"
+               },
+               "info" : "Performed as \"Eight Day Weekend,\" with CJ Camerieri and Mick McGinnis on horns"
+            }, {
+               "name" : "Moby Octopad",
+               "info" : "with CJ Camerieri and Mike McGinnis, horns"
+            }, {
+               "name" : "Before We Run",
+               "info" : "with CJ Camerieri and Mike McGinnis, horns"
+            }, {
+               "name" : "She May, She Might"
+            }, {
+               "name" : "Tiny Birds"
+            }, {
+               "name" : "Aselestine",
+               "info" : "Live debut, with CJ Camerieri on horns"
+            }, {
+               "name" : "Eight Candles",
+               "info" : "with CJ Camerieri and Mike McGinnis, horns"
+            }, {
+               "name" : "Or Thousands of Prizes",
+               "cover" : {
+                  "mbid" : "f75150f0-d80d-4c34-903b-6acfb47b63ee",
+                  "name" : "Lambchop",
+                  "sortName" : "Lambchop",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lambchop-6bd6960a.html"
+               },
+               "info" : "with CJ Camerieri and Mike McGinnis, horns",
+               "with" : {
+                  "mbid" : "1fb3ef7d-c947-4f7e-8627-69e93ef4bdd0",
+                  "name" : "Kurt Wagner",
+                  "sortName" : "Wagner, Kurt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kurt-wagner-43d6db87.html"
+               }
+            }, {
+               "name" : "Season of the Shark"
+            }, {
+               "name" : "The Ballad of Red Buckets"
+            }, {
+               "name" : "Styles of the Times"
+            }, {
+               "name" : "Some Kinda Fatigue"
+            }, {
+               "name" : "Sugarcube"
+            }, {
+               "name" : "Ohm"
+            }, {
+               "name" : "Point That Thing Somewhere Else",
+               "cover" : {
+                  "mbid" : "d10c7c90-54b1-4855-a9f5-1099a8dd7f54",
+                  "name" : "The Clean",
+                  "sortName" : "Clean, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-clean-3bd6e458.html"
+               },
+               "with" : {
+                  "mbid" : "003db9eb-2a01-4ece-a5e0-87000aa502d7",
+                  "name" : "Mark Ibold",
+                  "sortName" : "Ibold, Mark",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mark-ibold-4bd6d786.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Long Gone",
+               "cover" : {
+                  "mbid" : "992f4826-8ce0-4641-bd1c-1fd28c78efb7",
+                  "name" : "The Customs",
+                  "sortName" : "Customs, The",
+                  "disambiguation" : "Cincinnati, OH punk band",
+                  "url" : "https://www.setlist.fm/setlists/the-customs-3bdff86c.html"
+               },
+               "info" : "with Peter Greenberg"
+            }, {
+               "name" : "I Smell a Rat",
+               "cover" : {
+                  "mbid" : "2993f855-403f-4c6a-bea9-088cd5d354dc",
+                  "name" : "Big Mama Thornton",
+                  "sortName" : "Thornton, Big Mama",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/big-mama-thornton-1bd70548.html"
+               },
+               "info" : "with Barrence Whitfield, Steve Lagrega and Peter Greenberg"
+            }, {
+               "name" : "One Bad Stud",
+               "cover" : {
+                  "mbid" : "bfeaf836-6135-4dfe-ab7a-8450cfd71098",
+                  "name" : "The Honey Bears",
+                  "sortName" : "Honey Bears, The",
+                  "disambiguation" : "1950s US R&B/doo‐wop",
+                  "url" : "https://www.setlist.fm/setlists/the-honey-bears-33faa059.html"
+               },
+               "info" : "with Barrence Whitfield, Steve Lagrega and Peter Greenberg"
+            }, {
+               "name" : "Shopping for Clothes",
+               "cover" : {
+                  "mbid" : "c174f353-4666-4dfb-af54-5cc70b8afd55",
+                  "name" : "The Coasters",
+                  "sortName" : "Coasters, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-coasters-53d6577d.html"
+               },
+               "info" : "with Kurt Wagner, Barrence Whitfield, Steve Lagrega and Peter Greenberg"
+            } ]
+         } ]
+      },
+      "info" : "Opener: Barrence Whitfield and the Savages/Comedian: Liz Miele",
+      "url" : "https://www.setlist.fm/setlist/yo-la-tengo/2022/bowery-ballroom-new-york-ny-13bcf949.html"
+   }, {
+      "id" : "3bbcf44c",
+      "versionId" : "g53e3d70d",
+      "eventDate" : "16-12-2022",
+      "lastUpdated" : "2022-12-19T18:15:21.240+0000",
+      "artist" : {
+         "mbid" : "4747fe60-6bac-45fb-b88d-acaa8f3bef93",
+         "name" : "Jeff & Laura",
+         "sortName" : "Rosenstock, Jeff & Stevenson, Laura",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jeff-and-laura-23fd8cdb.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "playing some neil young songs and also some other songs"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "O Holy Night",
+               "tape" : true,
+               "info" : "Cartman version"
+            }, {
+               "name" : "Razor Love",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Comes a Time",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "9/10",
+               "cover" : {
+                  "mbid" : "14892f45-a103-44f2-bb18-ee4a20d7876e",
+                  "name" : "Jeff Rosenstock",
+                  "sortName" : "Rosenstock, Jeff",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jeff-rosenstock-7bd68ac0.html"
+               }
+            }, {
+               "name" : "A Shine to It",
+               "cover" : {
+                  "mbid" : "10c95300-8405-4754-920f-03a177119c52",
+                  "name" : "Laura Stevenson and The Cans",
+                  "sortName" : "Stevenson, Laura and Cans, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/laura-stevenson-and-the-cans-73d59ae5.html"
+               }
+            }, {
+               "name" : "After the Gold Rush",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Hey Babe",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "Living Room, NY",
+               "cover" : {
+                  "mbid" : "70b166d1-b511-49f1-ad15-8b94603515d5",
+                  "name" : "Laura Stevenson",
+                  "sortName" : "Stevenson, Laura",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/laura-stevenson-3ddf977.html"
+               }
+            }, {
+               "name" : "The Beauty of Breathing",
+               "cover" : {
+                  "mbid" : "14892f45-a103-44f2-bb18-ee4a20d7876e",
+                  "name" : "Jeff Rosenstock",
+                  "sortName" : "Rosenstock, Jeff",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jeff-rosenstock-7bd68ac0.html"
+               }
+            }, {
+               "name" : "Harvest Moon",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Everybody Knows This Is Nowhere",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "Emily in Half",
+               "cover" : {
+                  "mbid" : "70b166d1-b511-49f1-ad15-8b94603515d5",
+                  "name" : "Laura Stevenson",
+                  "sortName" : "Stevenson, Laura",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/laura-stevenson-3ddf977.html"
+               }
+            }, {
+               "name" : "All Ages Shows",
+               "cover" : {
+                  "mbid" : "deaddf4e-1209-4d93-bb75-f53780d1c0c4",
+                  "name" : "Bomb the Music Industry!",
+                  "sortName" : "Bomb the Music Industry!",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bomb-the-music-industry-73d68a29.html"
+               }
+            }, {
+               "name" : "Through My Sails",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "Ambulance Blues",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Wednesday Night Drinkball",
+               "cover" : {
+                  "mbid" : "deaddf4e-1209-4d93-bb75-f53780d1c0c4",
+                  "name" : "Bomb the Music Industry!",
+                  "sortName" : "Bomb the Music Industry!",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bomb-the-music-industry-73d68a29.html"
+               }
+            }, {
+               "name" : "Rockin' in the Free World",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opened for by Gladie.",
+      "url" : "https://www.setlist.fm/setlist/jeff-and-laura/2022/bowery-ballroom-new-york-ny-3bbcf44c.html"
+   }, {
+      "id" : "2bbcf442",
+      "versionId" : "g43b16fd7",
+      "eventDate" : "16-12-2022",
+      "lastUpdated" : "2024-04-04T09:34:48.662+0000",
+      "artist" : {
+         "mbid" : "702dfb4f-0049-4ccf-86fa-39cbe50bfd40",
+         "name" : "Gladie",
+         "sortName" : "Gladie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gladie-63cb2aef.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "When You Leave the Sun"
+            }, {
+               "name" : "thank you card"
+            }, {
+               "name" : "Mud"
+            }, {
+               "name" : "20/20"
+            }, {
+               "name" : "Fixer"
+            }, {
+               "name" : "Hit the Ground Running"
+            }, {
+               "name" : "Nothing"
+            }, {
+               "name" : "Born Yesterday"
+            } ]
+         } ]
+      },
+      "info" : "Opening for Jeff & Laura.",
+      "url" : "https://www.setlist.fm/setlist/gladie/2022/bowery-ballroom-new-york-ny-2bbcf442.html"
+   }, {
+      "id" : "bbc9176",
+      "versionId" : "g73934af5",
+      "eventDate" : "15-12-2022",
+      "lastUpdated" : "2023-06-17T14:32:59.207+0000",
+      "artist" : {
+         "mbid" : "a9a0f2ad-9081-4e68-8407-53808d665f4c",
+         "name" : "Harry Teardrop",
+         "sortName" : "Teardrop, Harry",
+         "disambiguation" : "rock singer-songwriter from New York, NY",
+         "url" : "https://www.setlist.fm/setlists/harry-teardrop-3f0d9e7.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro"
+            }, {
+               "name" : "Ryley"
+            }, {
+               "name" : "My Funny Girl"
+            }, {
+               "name" : "Blue Numbers"
+            }, {
+               "name" : "Whatever Makes You Happy"
+            }, {
+               "name" : "Midtown"
+            }, {
+               "name" : "Above or Below"
+            }, {
+               "name" : "Satin Heart"
+            }, {
+               "name" : "Balcony"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/harry-teardrop/2022/bowery-ballroom-new-york-ny-bbc9176.html"
+   }, {
+      "id" : "bbc9172",
+      "versionId" : "g43e383a7",
+      "eventDate" : "15-12-2022",
+      "lastUpdated" : "2022-12-17T13:56:31.692+0000",
+      "artist" : {
+         "mbid" : "90744b3e-363a-458e-8da1-e3e392a489c4",
+         "name" : "Wet Leg",
+         "sortName" : "Wet Leg",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wet-leg-33f20085.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Being in Love"
+            }, {
+               "name" : "Wet Dream"
+            }, {
+               "name" : "Supermarket"
+            }, {
+               "name" : "Convincing"
+            }, {
+               "name" : "I Don't Wanna Go Out"
+            }, {
+               "name" : "Obvious"
+            }, {
+               "name" : "Oh No"
+            }, {
+               "name" : "Ur Mum"
+            }, {
+               "name" : "Piece of Shit"
+            }, {
+               "name" : "Too Late Now"
+            }, {
+               "name" : "Angelica"
+            }, {
+               "name" : "Chaise Longue"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wet-leg/2022/bowery-ballroom-new-york-ny-bbc9172.html"
+   }, {
+      "id" : "13bc812d",
+      "versionId" : "g396b143",
+      "eventDate" : "14-12-2022",
+      "lastUpdated" : "2023-04-22T08:02:15.540+0000",
+      "artist" : {
+         "mbid" : "c75b226d-d643-41dc-a2b7-00c0ff8c8e7b",
+         "name" : "Pomme",
+         "sortName" : "Pomme",
+         "disambiguation" : "Claire Pommet",
+         "url" : "https://www.setlist.fm/setlists/pomme-73dbea4d.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "anxiété"
+            }, {
+               "name" : "je sais pas danser"
+            }, {
+               "name" : "les séquoias"
+            }, {
+               "name" : "when I c u"
+            }, {
+               "name" : "White Christmas",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               }
+            }, {
+               "name" : "On brûlera"
+            }, {
+               "name" : "puppy"
+            }, {
+               "name" : "very bad"
+            }, {
+               "name" : "soleil soleil"
+            }, {
+               "name" : "Ceux qui rêvent"
+            }, {
+               "name" : "Nelly"
+            }, {
+               "name" : "jardin"
+            }, {
+               "name" : "Sans toi"
+            }, {
+               "name" : "grandiose"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pomme/2022/bowery-ballroom-new-york-ny-13bc812d.html"
+   }, {
+      "id" : "2bbca0d6",
+      "versionId" : "g3bec6030",
+      "eventDate" : "13-12-2022",
+      "lastUpdated" : "2023-03-01T21:20:58.928+0000",
+      "artist" : {
+         "mbid" : "f6fe6f58-bd28-411f-8df1-b13210cc9639",
+         "name" : "Nick Perri & the Underground Thieves",
+         "sortName" : "Perri, Nick & Underground Thieves, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-perri-and-the-underground-thieves-5bf23b7c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Let You Know"
+            }, {
+               "name" : "Feeling Good"
+            }, {
+               "name" : "I Want You"
+            }, {
+               "name" : "Modern Mann"
+            }, {
+               "name" : "My My, Hey Hey (Out of the Blue)",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "Excess"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-perri-and-the-underground-thieves/2022/bowery-ballroom-new-york-ny-2bbca0d6.html"
+   }, {
+      "id" : "2bbca0d2",
+      "versionId" : "g1b13ad74",
+      "eventDate" : "13-12-2022",
+      "lastUpdated" : "2026-04-04T04:09:47.511+0000",
+      "artist" : {
+         "mbid" : "54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+         "name" : "The Pretty Reckless",
+         "sortName" : "Pretty Reckless, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-pretty-reckless-7bd5924c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Death By Rock and Roll"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Death by Rock and Roll"
+            }, {
+               "name" : "Since You're Gone"
+            }, {
+               "name" : "Only Love Can Save Me Now"
+            }, {
+               "name" : "And So It Went"
+            }, {
+               "name" : "Make Me Wanna Die"
+            }, {
+               "name" : "Turning Gold"
+            }, {
+               "name" : "Sweet Things"
+            }, {
+               "name" : "Witches Burn"
+            }, {
+               "name" : "My Medicine"
+            }, {
+               "name" : "My Bones"
+            }, {
+               "name" : "Going to Hell"
+            }, {
+               "name" : "Heaven Knows"
+            }, {
+               "name" : "Take Me Down"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Loud Love",
+               "cover" : {
+                  "mbid" : "153c9281-268f-4cf3-8938-f5a4593e5df4",
+                  "name" : "Soundgarden",
+                  "sortName" : "Soundgarden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/soundgarden-3d689eb.html"
+               },
+               "info" : "not on setlist"
+            }, {
+               "name" : "Rockin' in the Free World",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Fucked Up World"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-pretty-reckless/2022/bowery-ballroom-new-york-ny-2bbca0d2.html"
+   }, {
+      "id" : "53bcb7fd",
+      "versionId" : "g1313ad75",
+      "eventDate" : "12-12-2022",
+      "lastUpdated" : "2026-04-04T04:09:47.470+0000",
+      "artist" : {
+         "mbid" : "54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+         "name" : "The Pretty Reckless",
+         "sortName" : "Pretty Reckless, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-pretty-reckless-7bd5924c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Death By Rock and Roll"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Death by Rock and Roll"
+            }, {
+               "name" : "Since You're Gone"
+            }, {
+               "name" : "Only Love Can Save Me Now"
+            }, {
+               "name" : "Loud Love",
+               "cover" : {
+                  "mbid" : "153c9281-268f-4cf3-8938-f5a4593e5df4",
+                  "name" : "Soundgarden",
+                  "sortName" : "Soundgarden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/soundgarden-3d689eb.html"
+               }
+            }, {
+               "name" : "Make Me Wanna Die"
+            }, {
+               "name" : "Turning Gold",
+               "info" : "Live debut"
+            }, {
+               "name" : "Sweet Things"
+            }, {
+               "name" : "Witches Burn"
+            }, {
+               "name" : "My Medicine"
+            }, {
+               "name" : "My Bones"
+            }, {
+               "name" : "Going to Hell"
+            }, {
+               "name" : "Heaven Knows",
+               "info" : "with extended jam"
+            }, {
+               "name" : "Take Me Down",
+               "info" : "with Taylor on guitar"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Rockin' in the Free World",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Fucked Up World",
+               "info" : "with drum solo"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-pretty-reckless/2022/bowery-ballroom-new-york-ny-53bcb7fd.html"
+   }, {
+      "id" : "43bcb7f3",
+      "versionId" : "g2bec6036",
+      "eventDate" : "12-12-2022",
+      "lastUpdated" : "2023-03-01T21:21:18.799+0000",
+      "artist" : {
+         "mbid" : "f6fe6f58-bd28-411f-8df1-b13210cc9639",
+         "name" : "Nick Perri & the Underground Thieves",
+         "sortName" : "Perri, Nick & Underground Thieves, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-perri-and-the-underground-thieves-5bf23b7c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Let You Know"
+            }, {
+               "name" : "Feeling Good"
+            }, {
+               "name" : "I Want You"
+            }, {
+               "name" : "Modern Mann",
+               "info" : "with band introductions and solos"
+            }, {
+               "name" : "My My, Hey Hey (Out of the Blue)",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "I Want to Be Free"
+            }, {
+               "name" : "Excess"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-perri-and-the-underground-thieves/2022/bowery-ballroom-new-york-ny-43bcb7f3.html"
+   }, {
+      "id" : "7bbf429c",
+      "versionId" : "g33ec6035",
+      "eventDate" : "11-12-2022",
+      "lastUpdated" : "2023-03-01T21:21:35.339+0000",
+      "artist" : {
+         "mbid" : "f6fe6f58-bd28-411f-8df1-b13210cc9639",
+         "name" : "Nick Perri & the Underground Thieves",
+         "sortName" : "Perri, Nick & Underground Thieves, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-perri-and-the-underground-thieves-5bf23b7c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Going the Distance",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "631e2d6a-16ac-4c49-89ac-987dc81e60e9",
+                  "name" : "Bill Conti",
+                  "sortName" : "Conti, Bill",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bill-conti-3bd6dca0.html"
+               }
+            }, {
+               "name" : "Let You Know"
+            }, {
+               "name" : "Excess"
+            }, {
+               "name" : "I Want You"
+            }, {
+               "name" : "Modern Mann"
+            }, {
+               "name" : "My My, Hey Hey (Out of the Blue)",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "Feeling Good"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-perri-and-the-underground-thieves/2022/bowery-ballroom-new-york-ny-7bbf429c.html"
+   }, {
+      "id" : "6bbf429e",
+      "versionId" : "gb13ad6e",
+      "eventDate" : "11-12-2022",
+      "lastUpdated" : "2026-04-05T18:20:20.851+0000",
+      "artist" : {
+         "mbid" : "54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+         "name" : "The Pretty Reckless",
+         "sortName" : "Pretty Reckless, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-pretty-reckless-7bd5924c.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Death By Rock and Roll"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Death by Rock and Roll"
+            }, {
+               "name" : "Since You're Gone"
+            }, {
+               "name" : "Only Love Can Save Me Now"
+            }, {
+               "name" : "And So It Went"
+            }, {
+               "name" : "Make Me Wanna Die"
+            }, {
+               "name" : "Sweet Things"
+            }, {
+               "name" : "Witches Burn"
+            }, {
+               "name" : "My Medicine"
+            }, {
+               "name" : "My Bones"
+            }, {
+               "name" : "Going to Hell"
+            }, {
+               "name" : "Heaven Knows"
+            }, {
+               "name" : "Take Me Down"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Rockin' in the Free World",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Fucked Up World"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-pretty-reckless/2022/bowery-ballroom-new-york-ny-6bbf429e.html"
+   }, {
+      "id" : "7bbf4290",
+      "versionId" : "gbe235aa",
+      "eventDate" : "08-12-2022",
+      "lastUpdated" : "2022-12-09T01:58:43.457+0000",
+      "artist" : {
+         "mbid" : "d10d6441-dcc1-4202-93bf-0c0acf72913a",
+         "name" : "Soul Glo",
+         "sortName" : "Soul Glo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soul-glo-1bcbd508.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/soul-glo/2022/bowery-ballroom-new-york-ny-7bbf4290.html"
+   }, {
+      "id" : "3bcb9e3",
+      "versionId" : "g23e228e3",
+      "eventDate" : "08-12-2022",
+      "lastUpdated" : "2022-12-09T13:45:47.133+0000",
+      "artist" : {
+         "mbid" : "cb0a7ee8-69fe-409c-85ae-820e3f1e46d4",
+         "name" : "Special Interest",
+         "sortName" : "Special Interest",
+         "disambiguation" : "New Orleans punk band",
+         "url" : "https://www.setlist.fm/setlists/special-interest-6bc9a23a.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/special-interest/2022/bowery-ballroom-new-york-ny-3bcb9e3.html"
+   }, {
+      "id" : "33bf48ed",
+      "versionId" : "g3e2c58f",
+      "eventDate" : "07-12-2022",
+      "lastUpdated" : "2022-12-08T12:29:03.073+0000",
+      "artist" : {
+         "mbid" : "79c976f6-0a85-42d6-9e01-8ae2c5592bc2",
+         "name" : "Arkells",
+         "sortName" : "Arkells",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/arkells-bd761da.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Blink Once/Blink Twice"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Liberation"
+            }, {
+               "name" : "You Can Get It"
+            }, {
+               "name" : "All Roads"
+            }, {
+               "name" : "Strong"
+            }, {
+               "name" : "One Thing I Know"
+            }, {
+               "name" : "Truce"
+            }, {
+               "name" : "Nobody Gets Me Like You Do"
+            }, {
+               "name" : "No Regrets"
+            }, {
+               "name" : "Swing Swing Swing"
+            }, {
+               "name" : "Years in the Making"
+            }, {
+               "name" : "Arm in Arm"
+            }, {
+               "name" : "Reckoning"
+            }, {
+               "name" : "Past Life"
+            }, {
+               "name" : "Take Back Everything",
+               "info" : "Live debut"
+            }, {
+               "name" : "Human Being"
+            }, {
+               "name" : "Teenage Tears"
+            }, {
+               "name" : "Miracle",
+               "info" : "Live debut"
+            }, {
+               "name" : "Nowhere to Go",
+               "with" : {
+                  "mbid" : "5c64226c-d673-4d23-a612-2bfb704edd66",
+                  "name" : "Jake Clemons",
+                  "sortName" : "Clemons, Jake",
+                  "disambiguation" : "singer‐songwriter, saxophonist and nephew of Clarence Clemons",
+                  "url" : "https://www.setlist.fm/setlists/jake-clemons-7bd88e70.html"
+               }
+            }, {
+               "name" : "Dance With You"
+            }, {
+               "name" : "Running Scared",
+               "info" : "Live debut"
+            }, {
+               "name" : "Something's Gotta Give"
+            }, {
+               "name" : "Floating Like",
+               "info" : "Live debut"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Pub Crawl",
+               "info" : "Acoustic, live debut"
+            }, {
+               "name" : "Quitting You"
+            }, {
+               "name" : "Leather Jacket"
+            }, {
+               "name" : "Knocking at the Door"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arkells/2022/bowery-ballroom-new-york-ny-33bf48ed.html"
+   }, {
+      "id" : "43bf6fab",
+      "versionId" : "g4b970bae",
+      "eventDate" : "06-12-2022",
+      "lastUpdated" : "2023-05-09T06:33:14.542+0000",
+      "artist" : {
+         "mbid" : "deefd67b-c917-4b0d-ab48-c5af7f92cd82",
+         "name" : "Lovejoy",
+         "sortName" : "Lovejoy",
+         "disambiguation" : "UK indie band with Wilbur Soot",
+         "url" : "https://www.setlist.fm/setlists/lovejoy-bf29146.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Tomorrow",
+               "cover" : {
+                  "mbid" : "eb26d72f-b820-4b9d-a2ad-6d88057b2ab3",
+                  "name" : "Anvil Cat",
+                  "sortName" : "Anvil Cat",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anvil-cat-5bfb33c8.html"
+               }
+            }, {
+               "name" : "You'll Understand When You're Older"
+            }, {
+               "name" : "Oh Yeah, You Gonna Cry?"
+            }, {
+               "name" : "Taunt"
+            }, {
+               "name" : "Consequences"
+            }, {
+               "name" : "Your New Boyfriend",
+               "cover" : {
+                  "mbid" : "3ed8ee52-b58f-4332-8452-b6608bc90328",
+                  "name" : "Wilbur Soot",
+                  "sortName" : "Soot, Wilbur",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wilbur-soot-43f42b17.html"
+               }
+            }, {
+               "name" : "Model Buses"
+            }, {
+               "name" : "Cause for Concern"
+            }, {
+               "name" : "The Fall"
+            }, {
+               "name" : "It's Golden Hour Somewhere"
+            }, {
+               "name" : "One Day"
+            }, {
+               "name" : "Sex Sells"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Perfume"
+            }, {
+               "name" : "It's All Futile! It's All Pointless!",
+               "cover" : {
+                  "mbid" : "3ed8ee52-b58f-4332-8452-b6608bc90328",
+                  "name" : "Wilbur Soot",
+                  "sortName" : "Soot, Wilbur",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wilbur-soot-43f42b17.html"
+               }
+            }, {
+               "name" : "Concrete"
+            } ]
+         } ]
+      },
+      "info" : "\"Your New Boyfriend\" originally not on the setlist.",
+      "url" : "https://www.setlist.fm/setlist/lovejoy/2022/bowery-ballroom-new-york-ny-43bf6fab.html"
+   }, {
+      "id" : "1bbf6150",
+      "versionId" : "g43ebefbb",
+      "eventDate" : "05-12-2022",
+      "lastUpdated" : "2023-03-25T15:40:44.061+0000",
+      "artist" : {
+         "mbid" : "baaf92f5-f2b2-4f51-9723-abed41a257f8",
+         "name" : "Local H",
+         "sortName" : "Local H",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/local-h-6bd6d6f6.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Here Comes The Zoo 20th Anniversery Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Acoustic",
+            "song" : [ {
+               "name" : "Fine and Good"
+            }, {
+               "name" : "Disgruntled Christmas"
+            }, {
+               "name" : "Buffalo Trace"
+            }, {
+               "name" : "All the Kids Are Right",
+               "info" : "Scott solo"
+            }, {
+               "name" : "Everybody Hurts",
+               "cover" : {
+                  "mbid" : "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+                  "name" : "R.E.M.",
+                  "sortName" : "R.E.M.",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/rem-33d6b859.html"
+               },
+               "info" : "Scott only sings the first verse, but does so twice, the second time using a Marge Simpson voice"
+            }, {
+               "name" : "The Summer of Boats",
+               "info" : "Scott solo, audience request"
+            }, {
+               "name" : "Joey",
+               "cover" : {
+                  "mbid" : "701fc524-b5f2-42f2-9db7-8198cdd6839c",
+                  "name" : "Concrete Blonde",
+                  "sortName" : "Concrete Blonde",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/concrete-blonde-1bd64d2c.html"
+               },
+               "info" : "Scott solo, audience request"
+            }, {
+               "name" : "Eddie Vedder",
+               "info" : "Scott solo"
+            } ]
+         }, {
+            "name" : "Electric",
+            "song" : [ {
+               "name" : "Big Log",
+               "cover" : {
+                  "mbid" : "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc",
+                  "name" : "Robert Plant",
+                  "sortName" : "Plant, Robert",
+                  "disambiguation" : "of Led Zeppelin",
+                  "url" : "https://www.setlist.fm/setlists/robert-plant-3d6b19b.html"
+               }
+            }, {
+               "name" : "All-Right (Oh, Yeah)"
+            }, {
+               "name" : "High Wide and Stupid"
+            }, {
+               "name" : "Fritz's Corner"
+            } ]
+         }, {
+            "name" : "Here Comes the Zoo",
+            "song" : [ {
+               "name" : "Hands on the Bible"
+            }, {
+               "name" : "Half-Life"
+            }, {
+               "name" : "Son of \"Cha!\""
+            }, {
+               "name" : "5th Ave. Crazy"
+            }, {
+               "name" : "(Baby Wants To) Tame Me"
+            }, {
+               "name" : "Keep Your Girlfriend"
+            }, {
+               "name" : "Rock & Roll Professionals"
+            }, {
+               "name" : "Creature Comforted"
+            }, {
+               "name" : "Bryn-Mawr Stomp"
+            }, {
+               "name" : "What Would You Have Me Do?"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "California Songs"
+            }, {
+               "name" : "Born to Lose",
+               "cover" : {
+                  "mbid" : "ddf271e5-3505-4e08-8d08-d488b22550f7",
+                  "name" : "The Heartbreakers",
+                  "sortName" : "Heartbreakers, The",
+                  "disambiguation" : "1970’s punk band",
+                  "url" : "https://www.setlist.fm/setlists/the-heartbreakers-53d7b719.html"
+               },
+               "info" : "Herb Rosen guest vocals"
+            }, {
+               "name" : "Bound for the Floor",
+               "info" : "with Chicago's '25 or 6 to 4' tease"
+            }, {
+               "name" : "Static Age",
+               "cover" : {
+                  "mbid" : "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name" : "Misfits",
+                  "sortName" : "Misfits",
+                  "disambiguation" : "New Jersey punk band",
+                  "url" : "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+               },
+               "info" : "Herb Rosen guest vocals"
+            }, {
+               "name" : "High-Fiving MF",
+               "info" : "with Dio's 'Rainbow in the Dark' tease"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/local-h/2022/bowery-ballroom-new-york-ny-1bbf6150.html"
+   }, {
+      "id" : "7bbf6a34",
+      "versionId" : "gbef450e",
+      "eventDate" : "04-12-2022",
+      "lastUpdated" : "2023-02-20T12:27:54.344+0000",
+      "artist" : {
+         "mbid" : "bc8e20de-b670-4530-a443-519f5c8e74af",
+         "name" : "RINI",
+         "sortName" : "RINI",
+         "disambiguation" : "Australian RnB artist",
+         "url" : "https://www.setlist.fm/setlists/rini-3bf40868.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "tour" : {
+         "name" : "Past the Naked Eye"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Out of the Blue"
+            }, {
+               "name" : "Bedtime Story"
+            }, {
+               "name" : "Red Lights"
+            }, {
+               "name" : "Talk to Me",
+               "info" : "Shortened"
+            }, {
+               "name" : "Over Some Wine"
+            }, {
+               "name" : "Camped"
+            }, {
+               "name" : "Emerald"
+            }, {
+               "name" : "Mimosa"
+            }, {
+               "name" : "For Days"
+            }, {
+               "name" : "Aphrodite"
+            }, {
+               "name" : "Need It"
+            }, {
+               "name" : "Haunt Me"
+            }, {
+               "name" : "Selfish"
+            }, {
+               "name" : "Pressure"
+            }, {
+               "name" : "Your Eyes"
+            }, {
+               "name" : "Strawberry Blossom"
+            }, {
+               "name" : "Ultraviolet"
+            }, {
+               "name" : "Meet Me in Amsterdam"
+            }, {
+               "name" : "A Starry Night in Apollo Bay"
+            }, {
+               "name" : "My Favourite Clothes",
+               "info" : "Encore"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rini/2022/bowery-ballroom-new-york-ny-7bbf6a34.html"
+   }, {
+      "id" : "7bbf72d0",
+      "versionId" : "g3e29d03",
+      "eventDate" : "03-12-2022",
+      "lastUpdated" : "2022-12-04T01:47:25.568+0000",
+      "artist" : {
+         "mbid" : "1d08a49a-fe68-4965-8f29-9c304fb940b0",
+         "name" : "The Sweet Remains",
+         "sortName" : "Sweet Remains, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-sweet-remains-43c51b5f.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Into the Mystic",
+               "cover" : {
+                  "mbid" : "a41ac10f-0a56-4672-9161-b83f9b223559",
+                  "name" : "Van Morrison",
+                  "sortName" : "Morrison, Van",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/van-morrison-1bd6adc4.html"
+               }
+            }, {
+               "name" : "Dance With Me"
+            }, {
+               "name" : "When the World Slowed Down"
+            }, {
+               "name" : "Howling Wolf"
+            }, {
+               "name" : "Night Song"
+            }, {
+               "name" : "Printemps a Paris"
+            }, {
+               "name" : "Moving in Slow Motion"
+            }, {
+               "name" : "Janie Come"
+            }, {
+               "name" : "So Lonely",
+               "cover" : {
+                  "mbid" : "9e0e2b01-41db-4008-bd8b-988977d6019a",
+                  "name" : "The Police",
+                  "sortName" : "Police, The",
+                  "disambiguation" : "British rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-police-2bd6b80a.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opened for Stephen Kellogg",
+      "url" : "https://www.setlist.fm/setlist/the-sweet-remains/2022/bowery-ballroom-new-york-ny-7bbf72d0.html"
+   }, {
+      "id" : "73bf7a9d",
+      "versionId" : "g6be29e3a",
+      "eventDate" : "03-12-2022",
+      "lastUpdated" : "2022-12-04T04:27:40.429+0000",
+      "artist" : {
+         "mbid" : "74dc2e73-9d7a-4d78-b151-0b4c14b08f50",
+         "name" : "Stephen Kellogg",
+         "sortName" : "Kellogg, Stephen",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/stephen-kellogg-5bd6e3b4.html"
+      },
+      "venue" : {
+         "id" : "33d61cdd",
+         "name" : "Bowery Ballroom",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/bowery-ballroom-new-york-ny-usa-33d61cdd.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Thanksgiving / Objects in the Mirror / Symphony of Joy / All the Love (That Comes to Me) / Got Soul / Maria / Caroline the Wrecking Ball / Those Kids / Last Man Standing / H-O-M-E / The Best",
+               "tape" : true
+            }, {
+               "name" : "High Highs, Low Lows",
+               "info" : "Sk started in the crowd before getting on stage to join the band"
+            }, {
+               "name" : "Keep It Up, Kid"
+            }, {
+               "name" : "I Could Forgive"
+            }, {
+               "name" : "4th of July",
+               "cover" : {
+                  "mbid" : "f88ef092-73cf-4397-9678-c2e1e6d09889",
+                  "name" : "Stephen Kellogg and the Sixers",
+                  "sortName" : "Kellogg, Stephen and the Sixers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stephen-kellogg-and-the-sixers-1bd665b0.html"
+               }
+            }, {
+               "name" : "Good Red Wine"
+            }, {
+               "name" : "Sweet Sophia",
+               "cover" : {
+                  "mbid" : "f88ef092-73cf-4397-9678-c2e1e6d09889",
+                  "name" : "Stephen Kellogg and the Sixers",
+                  "sortName" : "Kellogg, Stephen and the Sixers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stephen-kellogg-and-the-sixers-1bd665b0.html"
+               },
+               "info" : "With Sophia on keys"
+            }, {
+               "name" : "Almost Woke You Up",
+               "info" : "With Sophia and Adeline"
+            }, {
+               "name" : "Last Man Standing",
+               "info" : "As Last One Standing with Sophia Adeline Noelle"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "With Sophia Adeline Noelle and Greta, for Noelle"
+            }, {
+               "name" : "If Anyone Is Listening",
+               "info" : "Sk solo"
+            }, {
+               "name" : "Lost and Found"
+            }, {
+               "name" : "It Goes Fast"
+            }, {
+               "name" : "Lean on Me",
+               "cover" : {
+                  "mbid" : "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+                  "name" : "Bill Withers",
+                  "sortName" : "Withers, Bill",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bill-withers-2bd60842.html"
+               }
+            }, {
+               "name" : "To the Ones Who Need It Most"
+            }, {
+               "name" : "My Favorite Place",
+               "cover" : {
+                  "mbid" : "f88ef092-73cf-4397-9678-c2e1e6d09889",
+                  "name" : "Stephen Kellogg and the Sixers",
+                  "sortName" : "Kellogg, Stephen and the Sixers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stephen-kellogg-and-the-sixers-1bd665b0.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Start the Day Early",
+               "cover" : {
+                  "mbid" : "f88ef092-73cf-4397-9678-c2e1e6d09889",
+                  "name" : "Stephen Kellogg and the Sixers",
+                  "sortName" : "Kellogg, Stephen and the Sixers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stephen-kellogg-and-the-sixers-1bd665b0.html"
+               },
+               "with" : {
+                  "mbid" : "1d08a49a-fe68-4965-8f29-9c304fb940b0",
+                  "name" : "The Sweet Remains",
+                  "sortName" : "Sweet Remains, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-sweet-remains-43c51b5f.html"
+               }
+            }, {
+               "name" : "See You Later, See You Soon",
+               "cover" : {
+                  "mbid" : "f88ef092-73cf-4397-9678-c2e1e6d09889",
+                  "name" : "Stephen Kellogg and the Sixers",
+                  "sortName" : "Kellogg, Stephen and the Sixers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stephen-kellogg-and-the-sixers-1bd665b0.html"
+               },
+               "info" : "And Sophia Adeline and Noelle",
+               "with" : {
+                  "mbid" : "1d08a49a-fe68-4965-8f29-9c304fb940b0",
+                  "name" : "The Sweet Remains",
+                  "sortName" : "Sweet Remains, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-sweet-remains-43c51b5f.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Sweet Remains opened; David Chalfant, Danny Black, Jason Wexler, and Boots Factor accompany; VIP: Oh Adeline; Diamond",
+      "url" : "https://www.setlist.fm/setlist/stephen-kellogg/2022/bowery-ballroom-new-york-ny-73bf7a9d.html"
+   } ]
+}

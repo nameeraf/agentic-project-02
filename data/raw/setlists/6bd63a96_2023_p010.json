@@ -1,0 +1,1473 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 10,
+   "total" : 211,
+   "setlist" : [ {
+      "id" : "7b5f0a5c",
+      "versionId" : "g735fb2a9",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2024-12-11T20:04:57.255+0000",
+      "artist" : {
+         "mbid" : "281d48ef-8e22-4082-8290-b3a2693f4415",
+         "name" : "Cait O’Riordan",
+         "sortName" : "O’Riordan, Cait",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cait-oriordan-3d609db.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Shane",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cait-oriordan/2023/webster-hall-new-york-ny-7b5f0a5c.html"
+   }, {
+      "id" : "73bbc671",
+      "versionId" : "g33141839",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2026-03-17T16:03:20.715+0000",
+      "artist" : {
+         "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+         "name" : "Jesse Malin",
+         "sortName" : "Malin, Jesse",
+         "disambiguation" : "US alt-country singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Pre-Show Set",
+            "song" : [ {
+               "name" : "Shane",
+               "info" : "Cait O’Riordan vocals with Jesse Malin Band"
+            }, {
+               "name" : "Swinging Man",
+               "info" : "Catherine Popper vocals with Jesse Malin Band"
+            }, {
+               "name" : "Shining Down",
+               "info" : "Aaron Lee Tasjan vocals with Jesse Malin Band"
+            } ]
+         }, {
+            "name" : "Main Set",
+            "song" : [ {
+               "name" : "The Way We Used to Roll"
+            }, {
+               "name" : "If I Should Fall From Grace With God",
+               "cover" : {
+                  "mbid" : "d41a6875-b626-4c0f-89a1-aecb643d29ff",
+                  "name" : "The Pogues",
+                  "sortName" : "Pogues, The",
+                  "disambiguation" : "Irish‐British Celtic punk band",
+                  "url" : "https://www.setlist.fm/setlists/the-pogues-23d6dcbf.html"
+               }
+            }, {
+               "name" : "Death Star"
+            }, {
+               "name" : "Queen of the Underworld"
+            }, {
+               "name" : "TKO"
+            }, {
+               "name" : "Downliner"
+            }, {
+               "name" : "Wendy"
+            }, {
+               "name" : "Brooklyn",
+               "cover" : {
+                  "mbid" : "16bf6fdb-ec84-48d5-a1b3-ca98dcabbb5b",
+                  "name" : "Bellvue",
+                  "sortName" : "Bellvue",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bellvue-1bd6d9c0.html"
+               }
+            }, {
+               "name" : "Bastards of Young",
+               "cover" : {
+                  "mbid" : "dc0d05ce-2f47-4962-b4fa-8631a0a51987",
+                  "name" : "The Replacements",
+                  "sortName" : "Replacements, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-replacements-33d6a425.html"
+               }
+            }, {
+               "name" : "Prisoners of Paradise"
+            }, {
+               "name" : "Turn Up the Mains",
+               "with" : {
+                  "mbid" : "6a93ba4c-ba73-4644-bcfd-f60291a70e29",
+                  "name" : "Adam Weiner",
+                  "sortName" : "Weiner, Adam",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/adam-weiner-63cafe9b.html"
+               }
+            }, {
+               "name" : "The Fine Art of Self Destruction"
+            }, {
+               "name" : "Riding on the Subway"
+            }, {
+               "name" : "High Lonesome"
+            }, {
+               "name" : "Solitaire",
+               "cover" : {
+                  "mbid" : "16bf6fdb-ec84-48d5-a1b3-ca98dcabbb5b",
+                  "name" : "Bellvue",
+                  "sortName" : "Bellvue",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bellvue-1bd6d9c0.html"
+               }
+            }, {
+               "name" : "Almost Grown"
+            }, {
+               "name" : "Xmas"
+            }, {
+               "name" : "She Don't Love Me Now"
+            }, {
+               "name" : "All the Way From Moscow",
+               "cover" : {
+                  "mbid" : "00e0df98-c007-428f-92df-7e4f07cf73ec",
+                  "name" : "Jesse Malin & The Saint Marks Social",
+                  "sortName" : "Malin, Jesse & The Saint Marks Social",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-and-the-saint-marks-social-1bd5e9c0.html"
+               }
+            }, {
+               "name" : "State of the Art",
+               "with" : {
+                  "mbid" : "3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24",
+                  "name" : "Tommy Stinson",
+                  "sortName" : "Stinson, Tommy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tommy-stinson-23d6843b.html"
+               }
+            }, {
+               "name" : "Meet Me at the End of the World Again",
+               "with" : {
+                  "mbid" : "3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24",
+                  "name" : "Tommy Stinson",
+                  "sortName" : "Stinson, Tommy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tommy-stinson-23d6843b.html"
+               }
+            }, {
+               "name" : "In the Modern World",
+               "with" : {
+                  "mbid" : "30e8e6e2-7b79-4eef-ba91-8435d4ba0fac",
+                  "name" : "Butch Walker",
+                  "sortName" : "Walker, Butch",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/butch-walker-5bd62354.html"
+               }
+            }, {
+               "name" : "Cigarettes and Violets",
+               "with" : {
+                  "mbid" : "db35b679-5b78-409b-b1e1-f198f96f17f4",
+                  "name" : "Diane Gentile",
+                  "sortName" : "Gentile, Diane",
+                  "disambiguation" : "NYC rock vocalist",
+                  "url" : "https://www.setlist.fm/setlists/diane-gentile-73c13a51.html"
+               }
+            }, {
+               "name" : "Room 13",
+               "with" : {
+                  "mbid" : "21685b15-3074-446e-aa1d-ff7157014f53",
+                  "name" : "Lucinda Williams",
+                  "sortName" : "Williams, Lucinda",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lucinda-williams-bd6b1f2.html"
+               }
+            }, {
+               "name" : "Jukebox",
+               "with" : {
+                  "mbid" : "21685b15-3074-446e-aa1d-ff7157014f53",
+                  "name" : "Lucinda Williams",
+                  "sortName" : "Williams, Lucinda",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lucinda-williams-bd6b1f2.html"
+               }
+            }, {
+               "name" : "You Can't Put Your Arms Round a Memory",
+               "cover" : {
+                  "mbid" : "3b14b1a7-2235-4fcf-a718-383beb79e856",
+                  "name" : "Johnny Thunders",
+                  "sortName" : "Thunders, Johnny",
+                  "disambiguation" : "US punk guitarist & singer",
+                  "url" : "https://www.setlist.fm/setlists/johnny-thunders-3d68193.html"
+               },
+               "with" : {
+                  "mbid" : "4563adb2-e4cd-4b20-8b27-bce64170b4c8",
+                  "name" : "Guests",
+                  "sortName" : "Guests",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/guests-2bc92c0a.html"
+               }
+            }, {
+               "name" : "Rudie Can't Fail",
+               "cover" : {
+                  "mbid" : "8f92558c-2baa-4758-8c38-615519e9deda",
+                  "name" : "The Clash",
+                  "sortName" : "Clash, The",
+                  "disambiguation" : "70s–80s British punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-clash-bd6a53e.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jesse-malin/2023/webster-hall-new-york-ny-73bbc671.html"
+   }, {
+      "id" : "735f0a61",
+      "versionId" : "g735fb2cd",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2024-12-11T19:58:57.770+0000",
+      "artist" : {
+         "mbid" : "db35b679-5b78-409b-b1e1-f198f96f17f4",
+         "name" : "Diane Gentile",
+         "sortName" : "Gentile, Diane",
+         "disambiguation" : "NYC rock vocalist",
+         "url" : "https://www.setlist.fm/setlists/diane-gentile-73c13a51.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cigarettes and Violets",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/diane-gentile/2023/webster-hall-new-york-ny-735f0a61.html"
+   }, {
+      "id" : "6b5f0a6e",
+      "versionId" : "g735fb2d1",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2024-12-11T19:56:39.879+0000",
+      "artist" : {
+         "mbid" : "30e8e6e2-7b79-4eef-ba91-8435d4ba0fac",
+         "name" : "Butch Walker",
+         "sortName" : "Walker, Butch",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/butch-walker-5bd62354.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "State of the Art",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/butch-walker/2023/webster-hall-new-york-ny-6b5f0a6e.html"
+   }, {
+      "id" : "6b5f0a6a",
+      "versionId" : "g7b5fb2c4",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2024-12-11T20:00:45.612+0000",
+      "artist" : {
+         "mbid" : "3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24",
+         "name" : "Tommy Stinson",
+         "sortName" : "Stinson, Tommy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tommy-stinson-23d6843b.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "State of the Art",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            }, {
+               "name" : "Meet Me at the End of the World Again",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tommy-stinson/2023/webster-hall-new-york-ny-6b5f0a6a.html"
+   }, {
+      "id" : "6b5f0a5a",
+      "versionId" : "g635fb2b3",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2024-12-11T20:02:21.133+0000",
+      "artist" : {
+         "mbid" : "21685b15-3074-446e-aa1d-ff7157014f53",
+         "name" : "Lucinda Williams",
+         "sortName" : "Williams, Lucinda",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lucinda-williams-bd6b1f2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Room 13",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            }, {
+               "name" : "Jukebox"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lucinda-williams/2023/webster-hall-new-york-ny-6b5f0a5a.html"
+   }, {
+      "id" : "6b5f0a52",
+      "versionId" : "g6b5fb2a6",
+      "eventDate" : "25-03-2023",
+      "lastUpdated" : "2024-12-11T20:06:45.245+0000",
+      "artist" : {
+         "mbid" : "20227147-c3aa-44e5-aaf4-4bc5baa1ffaf",
+         "name" : "Aaron Lee Tasjan",
+         "sortName" : "Tasjan, Aaron Lee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/aaron-lee-tasjan-53def379.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Shining Down",
+               "cover" : {
+                  "mbid" : "db0fc330-1fa1-43f8-a33f-33eaf6a97d78",
+                  "name" : "Jesse Malin",
+                  "sortName" : "Malin, Jesse",
+                  "disambiguation" : "US alt-country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jesse-malin-bd6d9c2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/aaron-lee-tasjan/2023/webster-hall-new-york-ny-6b5f0a52.html"
+   }, {
+      "id" : "7bbb3ea4",
+      "versionId" : "g4378ff9f",
+      "eventDate" : "24-03-2023",
+      "lastUpdated" : "2025-10-01T00:46:21.589+0000",
+      "artist" : {
+         "mbid" : "d360e36b-de85-451e-b442-3bb101b78887",
+         "name" : "Death to All",
+         "sortName" : "Death to All",
+         "disambiguation" : "tribute to band Death with some of its original members",
+         "url" : "https://www.setlist.fm/setlists/death-to-all-7bc7f67c.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Celebrating 30 Years Of Individual Thought Patterns"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Infernal Death",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               },
+               "info" : "Intro Only"
+            }, {
+               "name" : "Overactive Imagination",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "The Philosopher",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Bite the Pain",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Zero Tolerance",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Spiritual Healing",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Evil Dead",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Trapped in a Corner",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Lack of Comprehension",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Leprosy",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Jealousy",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Suicide Machine",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Living Monstrosity",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Secret Face",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Symbolic",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Voice of the Soul",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Flattening of Emotions",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Zombie Ritual",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Spirit Crusher",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Crystal Mountain",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            }, {
+               "name" : "Pull the Plug",
+               "cover" : {
+                  "mbid" : "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+                  "name" : "Death",
+                  "sortName" : "Death",
+                  "disambiguation" : "US death metal band",
+                  "url" : "https://www.setlist.fm/setlists/death-bd6fdda.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/death-to-all/2023/webster-hall-new-york-ny-7bbb3ea4.html"
+   }, {
+      "id" : "63bb36f7",
+      "versionId" : "g7bebc264",
+      "eventDate" : "24-03-2023",
+      "lastUpdated" : "2023-03-27T03:56:15.211+0000",
+      "artist" : {
+         "mbid" : "8ab24b93-0df4-42ed-a184-7524dc5f3891",
+         "name" : "Nukem",
+         "sortName" : "Nukem",
+         "disambiguation" : "Thrash Metal from San Diego",
+         "url" : "https://www.setlist.fm/setlists/nukem-43fa47db.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lethal Injection"
+            }, {
+               "name" : "D.O.I."
+            }, {
+               "name" : "Empress of Evil"
+            }, {
+               "name" : "WarWolf"
+            }, {
+               "name" : "The Atomic Age"
+            }, {
+               "name" : "The Deceiver"
+            }, {
+               "name" : "Evelyn's Awakening"
+            }, {
+               "name" : "Nukem All"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nukem/2023/webster-hall-new-york-ny-63bb36f7.html"
+   }, {
+      "id" : "13bbe5b5",
+      "versionId" : "g73ebc251",
+      "eventDate" : "24-03-2023",
+      "lastUpdated" : "2023-03-27T03:59:35.561+0000",
+      "artist" : {
+         "mbid" : "5db9f569-cadd-4f8b-b460-d4031b0b3716",
+         "name" : "Suffocation",
+         "sortName" : "Suffocation",
+         "disambiguation" : "New York death metal",
+         "url" : "https://www.setlist.fm/setlists/suffocation-43d6a7d7.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Thrones of Blood"
+            }, {
+               "name" : "Jesus Wept"
+            }, {
+               "name" : "Catatonia"
+            }, {
+               "name" : "Funeral Inception"
+            }, {
+               "name" : "Pierced From Within"
+            }, {
+               "name" : "Bind Torture Kill"
+            }, {
+               "name" : "Liege of Inveracity"
+            }, {
+               "name" : "Infecting the Crypts"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/suffocation/2023/webster-hall-new-york-ny-13bbe5b5.html"
+   }, {
+      "id" : "23bba0ab",
+      "versionId" : "g13ea41ed",
+      "eventDate" : "17-03-2023",
+      "lastUpdated" : "2023-03-22T14:45:25.613+0000",
+      "artist" : {
+         "mbid" : "045494aa-e913-4e62-bf4e-dcc276e0075a",
+         "name" : "Kelela",
+         "sortName" : "Kelela",
+         "disambiguation" : "US | R&B",
+         "url" : "https://www.setlist.fm/setlists/kelela-bc7f132.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "RAVE:N"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Washed Away"
+            }, {
+               "name" : "Bluff"
+            }, {
+               "name" : "Happy Ending"
+            }, {
+               "name" : "On the Run"
+            }, {
+               "name" : "Missed Call"
+            }, {
+               "name" : "Contact"
+            }, {
+               "name" : "Fooley",
+               "info" : "Live debut"
+            }, {
+               "name" : "Go All Night"
+            }, {
+               "name" : "Let It Go"
+            }, {
+               "name" : "Bank Head"
+            }, {
+               "name" : "Waitin"
+            }, {
+               "name" : "Rewind"
+            }, {
+               "name" : "Raven"
+            }, {
+               "name" : "Bruises"
+            }, {
+               "name" : "Enough for Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "All the Way Down",
+               "info" : "Total Freedom Edit"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kelela/2023/webster-hall-new-york-ny-23bba0ab.html"
+   }, {
+      "id" : "33ba68a5",
+      "versionId" : "g13ed2965",
+      "eventDate" : "11-03-2023",
+      "lastUpdated" : "2023-03-09T01:25:13.983+0000",
+      "artist" : {
+         "mbid" : "ec5436c4-c44a-47f5-a640-da8d376a3871",
+         "name" : "Larkin Poe",
+         "sortName" : "Larkin Poe",
+         "disambiguation" : "formerly known as Lovell Sisters",
+         "url" : "https://www.setlist.fm/setlists/larkin-poe-6bd5ea5e.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Blood Harmony"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/larkin-poe/2023/webster-hall-new-york-ny-33ba68a5.html"
+   }, {
+      "id" : "23ba689b",
+      "versionId" : "g13ed5509",
+      "eventDate" : "11-03-2023",
+      "lastUpdated" : "2023-03-12T01:49:27.605+0000",
+      "artist" : {
+         "mbid" : "08b5f897-6c61-414a-836f-200c0d22fb36",
+         "name" : "Tall Heights",
+         "sortName" : "Tall Heights",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tall-heights-13dc61e5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Back to Autumn"
+            }, {
+               "name" : "Horse to Water"
+            }, {
+               "name" : "Dammit",
+               "cover" : {
+                  "mbid" : "0743b15a-3c32-48c8-ad58-cb325350befa",
+                  "name" : "blink‐182",
+                  "sortName" : "blink‐182",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/blink182-4bd68fae.html"
+               }
+            }, {
+               "name" : "Spirit Cold"
+            }, {
+               "name" : "Hear It Again"
+            }, {
+               "name" : "The Mountain"
+            }, {
+               "name" : "No Man Alive"
+            }, {
+               "name" : "To Be Young"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Larkin Poe",
+      "url" : "https://www.setlist.fm/setlist/tall-heights/2023/webster-hall-new-york-ny-23ba689b.html"
+   }, {
+      "id" : "1bba6924",
+      "versionId" : "g1bed2db8",
+      "eventDate" : "09-03-2023",
+      "lastUpdated" : "2023-03-08T23:27:47.634+0000",
+      "artist" : {
+         "mbid" : "327b3122-80e0-4ade-b1f5-1a4c78c2bad6",
+         "name" : "Matt Bennett",
+         "sortName" : "Bennett, Matt",
+         "disambiguation" : "American actor",
+         "url" : "https://www.setlist.fm/setlists/matt-bennett-6bf3da96.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/matt-bennett/2023/webster-hall-new-york-ny-1bba6924.html"
+   }, {
+      "id" : "73ba2af5",
+      "versionId" : "gb81cd42",
+      "eventDate" : "04-03-2023",
+      "lastUpdated" : "2023-11-07T15:42:30.226+0000",
+      "artist" : {
+         "mbid" : "b53b9322-7d65-4b17-ae4c-9190d347fcea",
+         "name" : "Margo Price",
+         "sortName" : "Price, Margo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/margo-price-33c2c841.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Been to the Mountain"
+            }, {
+               "name" : "Letting Me Down"
+            }, {
+               "name" : "Four Years of Chances"
+            }, {
+               "name" : "Hell in the Heartland"
+            }, {
+               "name" : "White Rabbit",
+               "cover" : {
+                  "mbid" : "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
+                  "name" : "Jefferson Airplane",
+                  "sortName" : "Jefferson Airplane",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jefferson-airplane-73d6a299.html"
+               }
+            }, {
+               "name" : "Change of Heart"
+            }, {
+               "name" : "County Road"
+            }, {
+               "name" : "Light Me Up"
+            }, {
+               "name" : "Tennessee Song"
+            }, {
+               "name" : "Loner"
+            }, {
+               "name" : "Landfill"
+            }, {
+               "name" : "That's How Rumors Get Started"
+            }, {
+               "name" : "Twinkle Twinkle"
+            }, {
+               "name" : "Don't Say It"
+            }, {
+               "name" : "Radio"
+            }, {
+               "name" : "Shelter Me"
+            }, {
+               "name" : "Heartless Mind"
+            }, {
+               "name" : "Hurtin' (on the Bottle) / I Think I'll Just Stay Here and Drink / Whiskey River"
+            } ]
+         } ]
+      },
+      "info" : "No encore - 10:30 curfew. Song 10 on the stage setlist was a choice slot of Hands of Time/Loner/Cocaine Cowboys.",
+      "url" : "https://www.setlist.fm/setlist/margo-price/2023/webster-hall-new-york-ny-73ba2af5.html"
+   }, {
+      "id" : "3ba0ddb",
+      "versionId" : "g7bedda18",
+      "eventDate" : "04-03-2023",
+      "lastUpdated" : "2023-03-07T00:58:06.309+0000",
+      "artist" : {
+         "mbid" : "b53b9322-7d65-4b17-ae4c-9190d347fcea",
+         "name" : "Margo Price",
+         "sortName" : "Price, Margo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/margo-price-33c2c841.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "'Til the Wheels Fall Off  (VIP Meet & Greet)"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "All American Made",
+               "with" : {
+                  "mbid" : "6cecc3d7-78c5-48d4-b975-5d90af045905",
+                  "name" : "Jeremy Ivey",
+                  "sortName" : "Ivey, Jeremy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jeremy-ivey-53cebfd9.html"
+               }
+            }, {
+               "name" : "Your Memory Is Out Tonight",
+               "with" : {
+                  "mbid" : "6cecc3d7-78c5-48d4-b975-5d90af045905",
+                  "name" : "Jeremy Ivey",
+                  "sortName" : "Ivey, Jeremy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jeremy-ivey-53cebfd9.html"
+               }
+            }, {
+               "name" : "Devil's in the Details"
+            }, {
+               "name" : "Everybody Wants to Go to Heaven",
+               "cover" : {
+                  "mbid" : "613260c3-d620-4645-94cd-33cd55f29b1e",
+                  "name" : "Loretta Lynn",
+                  "sortName" : "Lynn, Loretta",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/loretta-lynn-33d638c9.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Early VIP set",
+      "url" : "https://www.setlist.fm/setlist/margo-price/2023/webster-hall-new-york-ny-3ba0ddb.html"
+   }, {
+      "id" : "2bba0c36",
+      "versionId" : "g4bed8b8a",
+      "eventDate" : "04-03-2023",
+      "lastUpdated" : "2023-03-05T05:54:44.050+0000",
+      "artist" : {
+         "mbid" : "fc71764b-0b47-412f-afc1-d55760eee9bb",
+         "name" : "Tré Burt",
+         "sortName" : "Burt, Tré",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tre-burt-53f793cd.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "(Sittin' On) The Dock of the Bay",
+               "cover" : {
+                  "mbid" : "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+                  "name" : "Otis Redding",
+                  "sortName" : "Redding, Otis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/otis-redding-2bd6b83a.html"
+               }
+            }, {
+               "name" : "The Late John Garfield Blues",
+               "cover" : {
+                  "mbid" : "e86492c1-0376-4df0-8042-8ba058c83960",
+                  "name" : "John Prine",
+                  "sortName" : "Prine, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-prine-7bd656f4.html"
+               }
+            }, {
+               "name" : "Bout Now"
+            }, {
+               "name" : "By the Jasmine"
+            }, {
+               "name" : "Caught It From the Rye"
+            }, {
+               "name" : "Solo"
+            }, {
+               "name" : "Me Oh My"
+            }, {
+               "name" : "I Cannot Care",
+               "with" : {
+                  "mbid" : "b53b9322-7d65-4b17-ae4c-9190d347fcea",
+                  "name" : "Margo Price",
+                  "sortName" : "Price, Margo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/margo-price-33c2c841.html"
+               }
+            }, {
+               "name" : "Dixie Red"
+            }, {
+               "name" : "Sweet Misery"
+            } ]
+         } ]
+      },
+      "info" : "Opened for Margo Price",
+      "url" : "https://www.setlist.fm/setlist/tre-burt/2023/webster-hall-new-york-ny-2bba0c36.html"
+   }, {
+      "id" : "73ba0285",
+      "versionId" : "gbede10a",
+      "eventDate" : "03-03-2023",
+      "lastUpdated" : "2023-03-06T14:53:34.604+0000",
+      "artist" : {
+         "mbid" : "43a65e0c-98eb-4b6b-8931-1ea3dab0e8eb",
+         "name" : "KANGDANIEL",
+         "sortName" : "KANGDANIEL",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kangdaniel-6bcc8e22.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "First Parade"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Who U Are"
+            }, {
+               "name" : "Don't Tell"
+            }, {
+               "name" : "Waves",
+               "info" : "Short version"
+            }, {
+               "name" : "Parade"
+            }, {
+               "name" : "TOUCHIN'"
+            }, {
+               "name" : "Antidote",
+               "info" : "Rock version"
+            }, {
+               "name" : "Nirvana"
+            }, {
+               "name" : "PARANOIA"
+            }, {
+               "name" : "Upside Down"
+            }, {
+               "name" : "2U"
+            }, {
+               "name" : "Save U"
+            }, {
+               "name" : "Selfish"
+            }, {
+               "name" : "Ghost"
+            }, {
+               "name" : "1000x"
+            }, {
+               "name" : "Jealous"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Story"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kangdaniel/2023/webster-hall-new-york-ny-73ba0285.html"
+   }, {
+      "id" : "1bb81948",
+      "versionId" : "g63879ebf",
+      "eventDate" : "28-02-2023",
+      "lastUpdated" : "2023-09-20T14:16:52.675+0000",
+      "artist" : {
+         "mbid" : "56a55378-f155-48de-80a5-d80104221267",
+         "name" : "Chappell Roan",
+         "sortName" : "Roan, Chappell",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/chappell-roan-6bcad6ce.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Naked in North America Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Naked in Manhattan"
+            }, {
+               "name" : "Love Me Anyway"
+            }, {
+               "name" : "Femininomenon"
+            }, {
+               "name" : "After Midnight"
+            }, {
+               "name" : "Coffee"
+            }, {
+               "name" : "Bitter"
+            }, {
+               "name" : "Red Wine Supernova"
+            }, {
+               "name" : "You Oughta Know",
+               "cover" : {
+                  "mbid" : "4bdcee62-4902-4773-8cd1-e252e2e31225",
+                  "name" : "Alanis Morissette",
+                  "sortName" : "Morissette, Alanis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alanis-morissette-13d6b961.html"
+               }
+            }, {
+               "name" : "HOT TO GO!"
+            }, {
+               "name" : "Kaleidoscope"
+            }, {
+               "name" : "Casual"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "California"
+            }, {
+               "name" : "Pink Pony Club"
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: \"Coffee\" and \"The Climb (Miley Cyrus)\".",
+      "url" : "https://www.setlist.fm/setlist/chappell-roan/2023/webster-hall-new-york-ny-1bb81948.html"
+   }, {
+      "id" : "43baa3e7",
+      "versionId" : "g23ef28b7",
+      "eventDate" : "18-02-2023",
+      "lastUpdated" : "2023-02-16T15:39:16.856+0000",
+      "artist" : {
+         "mbid" : "092ca127-2e07-4cbd-9cba-e412b4ddddd9",
+         "name" : "Paul van Dyk",
+         "sortName" : "Dyk, van, Paul",
+         "disambiguation" : "German DJ, record producer and musician",
+         "url" : "https://www.setlist.fm/setlists/paul-van-dyk-53d683f5.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "VENTURE X"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paul-van-dyk/2023/webster-hall-new-york-ny-43baa3e7.html"
+   } ]
+}

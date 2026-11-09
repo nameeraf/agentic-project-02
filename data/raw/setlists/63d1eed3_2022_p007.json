@@ -1,0 +1,943 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 137,
+   "setlist" : [ {
+      "id" : "5bb43710",
+      "versionId" : "g43916f4b",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.587+0000",
+      "artist" : {
+         "mbid" : "88d17133-abbc-42db-9526-4e2c1db60336",
+         "name" : "beabadoobee",
+         "sortName" : "beabadoobee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/beabadoobee-6bc8be2e.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Care"
+            }, {
+               "name" : "He Gets Me So High"
+            }, {
+               "name" : "Coffee"
+            }, {
+               "name" : "Sorry"
+            }, {
+               "name" : "She Plays Bass"
+            }, {
+               "name" : "See You Soon"
+            }, {
+               "name" : "Dye It Red"
+            }, {
+               "name" : "Talk"
+            }, {
+               "name" : "Charlie Brown"
+            }, {
+               "name" : "Back to Mars"
+            }, {
+               "name" : "Last Day on Earth"
+            }, {
+               "name" : "Cologne"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/beabadoobee/2022/citi-field-queens-ny-5bb43710.html"
+   }, {
+      "id" : "5bb4370c",
+      "versionId" : "g43916f4f",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.615+0000",
+      "artist" : {
+         "mbid" : "a9d53ca9-6c28-4be9-ab10-6c936a11d70b",
+         "name" : "Channel Tres",
+         "sortName" : "Channel Tres",
+         "disambiguation" : "US | rapper/DJ",
+         "url" : "https://www.setlist.fm/setlists/channel-tres-43cd330f.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/channel-tres/2022/citi-field-queens-ny-5bb4370c.html"
+   }, {
+      "id" : "5bb43708",
+      "versionId" : "g5b916f48",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.611+0000",
+      "artist" : {
+         "mbid" : "e1115c6a-6705-4d17-bbf2-0efd2ef1bbb2",
+         "name" : "Coi Leray",
+         "sortName" : "Leray, Coi",
+         "disambiguation" : "rapper and singer",
+         "url" : "https://www.setlist.fm/setlists/coi-leray-4bc93366.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/coi-leray/2022/citi-field-queens-ny-5bb43708.html"
+   }, {
+      "id" : "53b437fd",
+      "versionId" : "g4b6e775e",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2025-12-20T00:16:49.715+0000",
+      "artist" : {
+         "mbid" : "279ae894-037e-4058-a21a-e44dc8a8ca7d",
+         "name" : "Samia",
+         "sortName" : "Samia",
+         "disambiguation" : "New York singer-songwriter Samia Finnerty",
+         "url" : "https://www.setlist.fm/setlists/samia-2bf23c06.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Triptych"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/samia/2022/citi-field-queens-ny-53b437fd.html"
+   }, {
+      "id" : "53b437e9",
+      "versionId" : "g4b916f42",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.643+0000",
+      "artist" : {
+         "mbid" : "c2a41668-983f-4f73-af00-45000a252811",
+         "name" : "Paris Texas",
+         "sortName" : "Paris Texas",
+         "disambiguation" : "Los Angeles hip-hop duo",
+         "url" : "https://www.setlist.fm/setlists/paris-texas-4bf523e6.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "CASINO"
+            }, {
+               "name" : "SITUATIONS"
+            }, {
+               "name" : "PACK 4 DA LOW"
+            }, {
+               "name" : "HEAVY METAL"
+            }, {
+               "name" : "BULLSEYE"
+            }, {
+               "name" : "girls like drugs"
+            }, {
+               "name" : "FORCE OF HABIT"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paris-texas/2022/citi-field-queens-ny-53b437e9.html"
+   }, {
+      "id" : "53b43721",
+      "versionId" : "g1b0fd528",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2026-09-03T02:35:16.909+0000",
+      "artist" : {
+         "mbid" : "134cb0bc-06fa-42f7-8078-b0c858349975",
+         "name" : "Jack Harlow",
+         "sortName" : "Harlow, Jack",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jack-harlow-53cedff1.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dua Lipa"
+            }, {
+               "name" : "Young Harleezy"
+            }, {
+               "name" : "I WANNA SEE SOME ASS"
+            }, {
+               "name" : "Tyler Herro"
+            }, {
+               "name" : "I’d Do Anything to Make You Smile"
+            }, {
+               "name" : "SUVs (Black on Black)"
+            }, {
+               "name" : "21C/Delta"
+            }, {
+               "name" : "Side Piece"
+            }, {
+               "name" : "Movie Star"
+            }, {
+               "name" : "INDUSTRY BABY",
+               "cover" : {
+                  "mbid" : "0b30341b-b59d-4979-8130-b66c0e475321",
+                  "name" : "Lil Nas X",
+                  "sortName" : "Lil Nas X",
+                  "disambiguation" : "American rapper and singer",
+                  "url" : "https://www.setlist.fm/setlists/lil-nas-x-3f6c163.html"
+               }
+            }, {
+               "name" : "First Class"
+            }, {
+               "name" : "WHATS POPPIN"
+            } ]
+         } ]
+      },
+      "info" : "Incomplete and might be out of order.",
+      "url" : "https://www.setlist.fm/setlist/jack-harlow/2022/citi-field-queens-ny-53b43721.html"
+   }, {
+      "id" : "53b43715",
+      "versionId" : "g6b9f9e3e",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-15T07:15:48.755+0000",
+      "artist" : {
+         "mbid" : "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+         "name" : "JPEGMAFIA",
+         "sortName" : "JPEGMAFIA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jpegmafia-4bc54f1e.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jesus Forgive Me, I Am a Thot"
+            }, {
+               "name" : "HAZARD DUTY PAY!"
+            }, {
+               "name" : "BALD!"
+            }, {
+               "name" : "NEMO!"
+            }, {
+               "name" : "DIRTY!"
+            }, {
+               "name" : "Call Me Maybe",
+               "cover" : {
+                  "mbid" : "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
+                  "name" : "Carly Rae Jepsen",
+                  "sortName" : "Jepsen, Carly Rae",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/carly-rae-jepsen-3d48d93.html"
+               }
+            }, {
+               "name" : "1539 N. Calvert"
+            }, {
+               "name" : "BMT!"
+            }, {
+               "name" : "Puff Daddy"
+            }, {
+               "name" : "Real Nega"
+            }, {
+               "name" : "Thug Tears"
+            }, {
+               "name" : "CHAIN ON",
+               "cover" : {
+                  "mbid" : "3ac96b4c-4f42-48c8-b793-84dbf54d7ac6",
+                  "name" : "BROCKHAMPTON",
+                  "sortName" : "BROCKHAMPTON",
+                  "disambiguation" : "American boyband",
+                  "url" : "https://www.setlist.fm/setlists/brockhampton-63c222a3.html"
+               }
+            }, {
+               "name" : "TRUST!"
+            }, {
+               "name" : "I Cannot Fucking Wait Until Morrissey Dies"
+            }, {
+               "name" : "GANGSHIT",
+               "cover" : {
+                  "mbid" : "333e76b4-9606-4fd3-bcb3-8e7660bb4d96",
+                  "name" : "slowthai",
+                  "sortName" : "slowthai",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/slowthai-3cad51b.html"
+               }
+            }, {
+               "name" : "Baby I'm Bleeding"
+            }, {
+               "name" : "Rainbow Six"
+            }, {
+               "name" : "Free the Frail"
+            }, {
+               "name" : "Curb Stomp"
+            }, {
+               "name" : "WHAT KIND OF RAPPIN' IS THIS?"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jpegmafia/2022/citi-field-queens-ny-53b43715.html"
+   }, {
+      "id" : "4bb437ee",
+      "versionId" : "g53916f41",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.646+0000",
+      "artist" : {
+         "mbid" : "b89456e0-cf8d-4a29-baed-4b2d1fe3ef6a",
+         "name" : "Julia Wolf",
+         "sortName" : "Wolf, Julia",
+         "disambiguation" : "design",
+         "url" : "https://www.setlist.fm/setlists/julia-wolf-63f2c693.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/julia-wolf/2022/citi-field-queens-ny-4bb437ee.html"
+   }, {
+      "id" : "4bb437da",
+      "versionId" : "g4b916f46",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.667+0000",
+      "artist" : {
+         "mbid" : "55026302-23d9-4666-8682-e67374dd0378",
+         "name" : "Plastic Picnic",
+         "sortName" : "Plastic Picnic",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/plastic-picnic-4bcc4b52.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Berkeley"
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Futile"
+            }, {
+               "name" : "",
+               "info" : "New song off their upcoming debut album"
+            }, {
+               "name" : "Better Coast",
+               "info" : "New song off their upcoming debut album"
+            }, {
+               "name" : "Pixie"
+            }, {
+               "name" : ""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/plastic-picnic/2022/citi-field-queens-ny-4bb437da.html"
+   }, {
+      "id" : "4bb4372e",
+      "versionId" : "g73809e69",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-10-29T11:54:35.379+0000",
+      "artist" : {
+         "mbid" : "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+         "name" : "Kid Cudi",
+         "sortName" : "Kid Cudi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kid-cudi-3bd6406c.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Tequila Shots"
+            }, {
+               "name" : "She Knows This"
+            }, {
+               "name" : "Dive"
+            }, {
+               "name" : "REVOFEV"
+            }, {
+               "name" : "Marijuana",
+               "info" : "with Extended Piano Intro"
+            }, {
+               "name" : "Just What I Am",
+               "with" : {
+                  "mbid" : "80c69d16-ccfe-4ee9-b02a-1aaba5db26d1",
+                  "name" : "Chip tha Ripper",
+                  "sortName" : "Chip tha Ripper",
+                  "disambiguation" : "Cleveland, OH rapper, aka King Chip",
+                  "url" : "https://www.setlist.fm/setlists/chip-tha-ripper-2bdffc4a.html"
+               }
+            }, {
+               "name" : "Up Up & Away"
+            }, {
+               "name" : "GHOST!"
+            }, {
+               "name" : "Mr. Rager"
+            }, {
+               "name" : "Mojo So Dope"
+            }, {
+               "name" : "Sad People"
+            }, {
+               "name" : "THE SCOTTS",
+               "cover" : {
+                  "mbid" : "a09e9c56-7827-444c-9277-90950455bb30",
+                  "name" : "THE SCOTTS",
+                  "sortName" : "SCOTTS, THE",
+                  "disambiguation" : "American hip hop duo",
+                  "url" : "https://www.setlist.fm/setlists/the-scotts-2bf4a0a2.html"
+               },
+               "info" : "Live debut by Cudi"
+            }, {
+               "name" : "Do What I Want"
+            }, {
+               "name" : "Surfin'"
+            }, {
+               "name" : "Memories",
+               "cover" : {
+                  "mbid" : "302bd7b9-d012-4360-897a-93b00c855680",
+                  "name" : "David Guetta",
+                  "sortName" : "Guetta, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-guetta-bd6bd96.html"
+               }
+            }, {
+               "name" : "Pursuit of Happiness (Nightmare)",
+               "info" : "Steve Aoki Remix"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kid-cudi/2022/citi-field-queens-ny-4bb4372e.html"
+   }, {
+      "id" : "4bb43726",
+      "versionId" : "g53916f55",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.573+0000",
+      "artist" : {
+         "mbid" : "dd569857-d15e-4dbe-baad-b46a5ffe34a0",
+         "name" : "Black Pumas",
+         "sortName" : "Black Pumas",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/black-pumas-3bca6c3c.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Next to You"
+            }, {
+               "name" : "I'm Ready"
+            }, {
+               "name" : "Know You Better"
+            }, {
+               "name" : "Black Moon Rising"
+            }, {
+               "name" : "Touch the Sky"
+            }, {
+               "name" : "Sugar Man",
+               "cover" : {
+                  "mbid" : "8898cd01-b0c5-41bd-9699-0845fc73efc1",
+                  "name" : "Rodriguez",
+                  "sortName" : "Rodriguez",
+                  "disambiguation" : "Sixto Rodriguez, Mexican‐American folk musician, “Sugar Man”",
+                  "url" : "https://www.setlist.fm/setlists/rodriguez-1bd7d958.html"
+               }
+            }, {
+               "name" : "Confines"
+            }, {
+               "name" : "Fire"
+            }, {
+               "name" : "OCT 33"
+            }, {
+               "name" : "Colors"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/black-pumas/2022/citi-field-queens-ny-4bb43726.html"
+   }, {
+      "id" : "4bb4371e",
+      "versionId" : "g5b916f54",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.578+0000",
+      "artist" : {
+         "mbid" : "38474d18-9204-4f60-a137-1fcc6750b869",
+         "name" : "Skepta",
+         "sortName" : "Skepta",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/skepta-33d6bcad.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/skepta/2022/citi-field-queens-ny-4bb4371e.html"
+   }, {
+      "id" : "4bb43716",
+      "versionId" : "g4b916f4a",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.596+0000",
+      "artist" : {
+         "mbid" : "20749ae2-4e7b-4b12-bf58-4436afe33385",
+         "name" : "Quinn XCII",
+         "sortName" : "Quinn XCII",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/quinn-xcii-23c54c17.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Full Circle"
+            }, {
+               "name" : "Stacy"
+            }, {
+               "name" : "Fake Denim"
+            }, {
+               "name" : "Candle"
+            }, {
+               "name" : "Always Been You"
+            }, {
+               "name" : "Another Day In Paradise"
+            }, {
+               "name" : "Straightjacket"
+            }, {
+               "name" : "Look How Far We’ve Come"
+            }, {
+               "name" : "Coffee"
+            }, {
+               "name" : "Flare Guns",
+               "with" : {
+                  "mbid" : "ae34b97a-83ae-423c-bc2d-9cc7c0e4244d",
+                  "name" : "Chelsea Cutler",
+                  "sortName" : "Cutler, Chelsea",
+                  "disambiguation" : "US pop",
+                  "url" : "https://www.setlist.fm/setlists/chelsea-cutler-2bc778de.html"
+               }
+            }, {
+               "name" : "Stay Next To Me",
+               "with" : {
+                  "mbid" : "ae34b97a-83ae-423c-bc2d-9cc7c0e4244d",
+                  "name" : "Chelsea Cutler",
+                  "sortName" : "Cutler, Chelsea",
+                  "disambiguation" : "US pop",
+                  "url" : "https://www.setlist.fm/setlists/chelsea-cutler-2bc778de.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/quinn-xcii/2022/citi-field-queens-ny-4bb43716.html"
+   }, {
+      "id" : "4bb43706",
+      "versionId" : "g4b916f4e",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.621+0000",
+      "artist" : {
+         "mbid" : "9157ad72-3893-47da-986a-0aa7313f7429",
+         "name" : "The Knocks",
+         "sortName" : "Knocks, The",
+         "disambiguation" : "US electronic music duo; Ben Ruttner & James Patterson",
+         "url" : "https://www.setlist.fm/setlists/the-knocks-63d272a7.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-knocks/2022/citi-field-queens-ny-4bb43706.html"
+   }, {
+      "id" : "43b437f7",
+      "versionId" : "g5b916f4c",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.633+0000",
+      "artist" : {
+         "mbid" : "fa4ad5f5-568e-498f-ba98-9ffc18e54ff3",
+         "name" : "Aly & AJ",
+         "sortName" : "Aly & AJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/aly-and-aj-33d6bcf1.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "tour" : {
+         "name" : "A Touch of the Beat Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pretty Places"
+            }, {
+               "name" : "Listen!!!"
+            }, {
+               "name" : "Lost Cause"
+            }, {
+               "name" : "Slow Dancing",
+               "info" : "Hazel English Remix"
+            }, {
+               "name" : "Take Me"
+            }, {
+               "name" : "Paradise"
+            }, {
+               "name" : "Don't Need Nothing"
+            }, {
+               "name" : "Get Over Here"
+            }, {
+               "name" : "Break Yourself"
+            } ]
+         } ]
+      },
+      "info" : "Potential Breakup Song was on the printed Set List but it wasn't performed",
+      "url" : "https://www.setlist.fm/setlist/aly-and-aj/2022/citi-field-queens-ny-43b437f7.html"
+   }, {
+      "id" : "43b437e7",
+      "versionId" : "g43916f47",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2023-07-03T16:35:31.660+0000",
+      "artist" : {
+         "mbid" : "f427a0fa-097b-40e9-a68f-000d0fe20709",
+         "name" : "Ultra Q",
+         "sortName" : "Ultra Q",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ultra-q-4bf7c782.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ultra-q/2022/citi-field-queens-ny-43b437e7.html"
+   }, {
+      "id" : "43b437e3",
+      "versionId" : "g73590a31",
+      "eventDate" : "10-06-2022",
+      "lastUpdated" : "2025-02-09T11:38:50.632+0000",
+      "artist" : {
+         "mbid" : "77ec6c49-66f9-46ff-9179-a63511e345d8",
+         "name" : "BETWEEN FRIENDS",
+         "sortName" : "BETWEEN FRIENDS",
+         "disambiguation" : "indie pop-rock duo",
+         "url" : "https://www.setlist.fm/setlists/between-friends-2bf4748a.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "shiny"
+            }, {
+               "name" : "stay with it bby"
+            }, {
+               "name" : "more"
+            }, {
+               "name" : "orange juice"
+            }, {
+               "name" : "laurel"
+            }, {
+               "name" : "tired of your love"
+            }, {
+               "name" : "iloveyou"
+            }, {
+               "name" : "What's up",
+               "info" : "New song"
+            }, {
+               "name" : "baby girl"
+            }, {
+               "name" : "stay inside remix"
+            }, {
+               "name" : "try"
+            }, {
+               "name" : "tall"
+            }, {
+               "name" : "affection"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/between-friends/2022/citi-field-queens-ny-43b437e3.html"
+   } ]
+}

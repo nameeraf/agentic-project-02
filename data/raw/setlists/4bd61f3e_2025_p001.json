@@ -1,0 +1,1558 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 242,
+   "setlist" : [ {
+      "id" : "4b4d3fae",
+      "versionId" : "g6b6fcafe",
+      "eventDate" : "27-12-2025",
+      "lastUpdated" : "2025-12-28T07:20:00.159+0000",
+      "artist" : {
+         "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+         "name" : "Che",
+         "sortName" : "Che",
+         "disambiguation" : "Atlanta rapper",
+         "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "DIRTY SPRITE",
+               "info" : "Live debut"
+            }, {
+               "name" : "RIRI",
+               "info" : "Live debut"
+            }, {
+               "name" : "KING OF ROCK",
+               "info" : "Live debut"
+            }, {
+               "name" : "MAKE OUT WITH MY CHOPPA",
+               "info" : "Live debut"
+            }, {
+               "name" : "IM SORRY",
+               "info" : "Live debut"
+            }, {
+               "name" : "DIOR LEOPARD"
+            }, {
+               "name" : "HOLY MOLY",
+               "info" : "Live debut"
+            }, {
+               "name" : "MANNEQUIN"
+            }, {
+               "name" : "SERVE DA BA$$",
+               "info" : "Live debut"
+            }, {
+               "name" : "MONSTER",
+               "info" : "Live debut"
+            }, {
+               "name" : "MARCELINE"
+            }, {
+               "name" : "WHATS LOVE",
+               "info" : "Live debut"
+            }, {
+               "name" : "DIE HARD",
+               "info" : "Live debut"
+            }, {
+               "name" : "ON FLEEK"
+            }, {
+               "name" : "FREAK NEEK",
+               "info" : "Live debut"
+            }, {
+               "name" : "ROLLING STONE"
+            }, {
+               "name" : "UAV",
+               "info" : "Live debut"
+            }, {
+               "name" : "STAGEDIVIN"
+            }, {
+               "name" : "BA$$"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "DIRTY SPRITE",
+               "info" : "Played again"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/che/2025/irving-plaza-new-york-ny-4b4d3fae.html"
+   }, {
+      "id" : "3b4d9468",
+      "versionId" : "g436f9f5b",
+      "eventDate" : "21-12-2025",
+      "lastUpdated" : "2025-12-23T14:22:31.366+0000",
+      "artist" : {
+         "mbid" : "51b7f46f-6c0f-46f2-9496-08c9ec2624d4",
+         "name" : "Ben Folds",
+         "sortName" : "Folds, Ben",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ben-folds-73d6d6e1.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Tis The Season Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Little Drummer Bolero"
+            }, {
+               "name" : "Sleepwalking Through Christmas"
+            }, {
+               "name" : "Christmas Time Rhyme"
+            }, {
+               "name" : "You Don't Have to Be a Santa Claus (When Christmas Comes Around)",
+               "cover" : {
+                  "mbid" : "fb1080d4-aaf7-430e-b588-6a6ce79e2eb3",
+                  "name" : "The Mills Brothers",
+                  "sortName" : "Mills Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-mills-brothers-6bd60ade.html"
+               }
+            }, {
+               "name" : "Bizarre Christmas Incident"
+            }, {
+               "name" : "Lonely Christmas Eve"
+            }, {
+               "name" : "Picture Window"
+            }, {
+               "name" : "Me and Maurice"
+            }, {
+               "name" : "We Could Have This"
+            }, {
+               "name" : "You to Thank"
+            }, {
+               "name" : "Brick",
+               "cover" : {
+                  "mbid" : "abe2669a-a612-4bf6-9193-bb4f4b8a9088",
+                  "name" : "Ben Folds Five",
+                  "sortName" : "Folds, Ben, Five",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ben-folds-five-23d6a4fb.html"
+               }
+            }, {
+               "name" : "Bitch Went Nutz"
+            }, {
+               "name" : "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+               "cover" : {
+                  "mbid" : "4439c2fd-a754-4f6a-b3a6-791b47726156",
+                  "name" : "Mel Tormé",
+                  "sortName" : "Tormé, Mel",
+                  "disambiguation" : "“The Velvet Fog”",
+                  "url" : "https://www.setlist.fm/setlists/mel-torme-53d637e9.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Philosophy",
+               "cover" : {
+                  "mbid" : "abe2669a-a612-4bf6-9193-bb4f4b8a9088",
+                  "name" : "Ben Folds Five",
+                  "sortName" : "Folds, Ben, Five",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ben-folds-five-23d6a4fb.html"
+               },
+               "info" : "Incl Miserlou"
+            }, {
+               "name" : "Hava Nagila",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Annie Waits"
+            }, {
+               "name" : "The Luckiest"
+            }, {
+               "name" : "Army",
+               "cover" : {
+                  "mbid" : "abe2669a-a612-4bf6-9193-bb4f4b8a9088",
+                  "name" : "Ben Folds Five",
+                  "sortName" : "Folds, Ben, Five",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ben-folds-five-23d6a4fb.html"
+               }
+            }, {
+               "name" : "Christmas Time Is Here",
+               "cover" : {
+                  "mbid" : "744b52c8-509b-4451-abfd-a17d18d4bd1d",
+                  "name" : "Vince Guaraldi Trio",
+                  "sortName" : "Guaraldi, Vince, Trio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vince-guaraldi-trio-53d67f9d.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/ben-folds/2025/irving-plaza-new-york-ny-3b4d9468.html"
+   }, {
+      "id" : "7b4d824c",
+      "versionId" : "g3b6e1408",
+      "eventDate" : "17-12-2025",
+      "lastUpdated" : "2025-12-18T21:58:50.254+0000",
+      "artist" : {
+         "mbid" : "1dfbb258-b699-40c7-a8f9-0487130a03f5",
+         "name" : "Jeryko",
+         "sortName" : "Jeryko",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jeryko-73e26af5.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "On the Bowery"
+            }, {
+               "name" : "Two Thousand Five"
+            }, {
+               "name" : "Golden"
+            }, {
+               "name" : "Freefalling"
+            }, {
+               "name" : "How to Fly"
+            }, {
+               "name" : "Maoz Tzur",
+               "info" : "Jewish Traditional Song"
+            }, {
+               "name" : "Machrozet",
+               "info" : "Jewish/Israeli Misc cover"
+            }, {
+               "name" : "Hug You Like This"
+            }, {
+               "name" : "What Will Your Mother Say"
+            }, {
+               "name" : "How to Save a Life",
+               "cover" : {
+                  "mbid" : "2ddd167f-5b8a-4372-b350-6ad50493bac0",
+                  "name" : "The Fray",
+                  "sortName" : "Fray, The",
+                  "disambiguation" : "US alternative rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-fray-53d6bfe9.html"
+               }
+            }, {
+               "name" : "Do It Again",
+               "with" : {
+                  "mbid" : "06200b99-8561-42ce-9d61-365c5b75240c",
+                  "name" : "EKEV",
+                  "sortName" : "EKEV",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ekev-3be41838.html"
+               }
+            }, {
+               "name" : "From You, for me",
+               "info" : "EKEV"
+            }, {
+               "name" : "Shadow"
+            }, {
+               "name" : "Remedy"
+            }, {
+               "name" : "Find You"
+            }, {
+               "name" : "Young",
+               "with" : {
+                  "mbid" : "908a0148-c106-402e-9c37-1b8238016789",
+                  "name" : "Alnev",
+                  "sortName" : "Alnev",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alnev-73f19ef1.html"
+               }
+            }, {
+               "name" : "Bulletproof"
+            }, {
+               "name" : "Sunrise"
+            }, {
+               "name" : "All We’ve Got"
+            }, {
+               "name" : "On the Bowery",
+               "with" : {
+                  "mbid" : "e250eb08-2f88-40e5-8442-5c4101d023c1",
+                  "name" : "Gelf",
+                  "sortName" : "Gelf",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gelf-63e26af7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jeryko/2025/irving-plaza-new-york-ny-7b4d824c.html"
+   }, {
+      "id" : "6b4d824e",
+      "versionId" : "g2b6e142a",
+      "eventDate" : "17-12-2025",
+      "lastUpdated" : "2025-12-18T21:43:21.000+0000",
+      "artist" : {
+         "mbid" : "908a0148-c106-402e-9c37-1b8238016789",
+         "name" : "Alnev",
+         "sortName" : "Alnev",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alnev-73f19ef1.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Young",
+               "with" : {
+                  "mbid" : "1dfbb258-b699-40c7-a8f9-0487130a03f5",
+                  "name" : "Jeryko",
+                  "sortName" : "Jeryko",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jeryko-73e26af5.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alnev/2025/irving-plaza-new-york-ny-6b4d824e.html"
+   }, {
+      "id" : "634ddeab",
+      "versionId" : "g2b6fac5e",
+      "eventDate" : "17-12-2025",
+      "lastUpdated" : "2025-12-22T21:01:00.958+0000",
+      "artist" : {
+         "mbid" : "216a888d-7fff-4f3c-93e2-90feb81b1d3c",
+         "name" : "LAIVY",
+         "sortName" : "LAIVY",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laivy-4be6af82.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/laivy/2025/irving-plaza-new-york-ny-634ddeab.html"
+   }, {
+      "id" : "2b760822",
+      "versionId" : "gb10b1ae",
+      "eventDate" : "13-12-2025",
+      "lastUpdated" : "2026-04-12T02:10:14.266+0000",
+      "artist" : {
+         "mbid" : "9157ad72-3893-47da-986a-0aa7313f7429",
+         "name" : "The Knocks",
+         "sortName" : "Knocks, The",
+         "disambiguation" : "US electronic music duo; Ben Ruttner & James Patterson",
+         "url" : "https://www.setlist.fm/setlists/the-knocks-63d272a7.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-knocks/2025/irving-plaza-new-york-ny-2b760822.html"
+   }, {
+      "id" : "1b4dad0c",
+      "versionId" : "g136edda9",
+      "eventDate" : "13-12-2025",
+      "lastUpdated" : "2025-12-15T22:38:13.366+0000",
+      "artist" : {
+         "mbid" : "f932e2e4-e14e-4d38-a1ce-268c30aaee41",
+         "name" : "The Knocks & Dragonette",
+         "sortName" : "Knocks, The & Dragonette",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-knocks-and-dragonette-3ede193.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Revelation Intro",
+               "tape" : true,
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Revelation",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Dreams",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "No Requests",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9157ad72-3893-47da-986a-0aa7313f7429",
+                  "name" : "The Knocks",
+                  "sortName" : "Knocks, The",
+                  "disambiguation" : "US electronic music duo; Ben Ruttner & James Patterson",
+                  "url" : "https://www.setlist.fm/setlists/the-knocks-63d272a7.html"
+               }
+            }, {
+               "name" : "Rush",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "Friday Night"
+            }, {
+               "name" : "Foolish Pleasure",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Classic",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9157ad72-3893-47da-986a-0aa7313f7429",
+                  "name" : "The Knocks",
+                  "sortName" : "Knocks, The",
+                  "disambiguation" : "US electronic music duo; Ben Ruttner & James Patterson",
+                  "url" : "https://www.setlist.fm/setlists/the-knocks-63d272a7.html"
+               }
+            }, {
+               "name" : "House Party",
+               "cover" : {
+                  "mbid" : "9157ad72-3893-47da-986a-0aa7313f7429",
+                  "name" : "The Knocks",
+                  "sortName" : "Knocks, The",
+                  "disambiguation" : "US electronic music duo; Ben Ruttner & James Patterson",
+                  "url" : "https://www.setlist.fm/setlists/the-knocks-63d272a7.html"
+               }
+            }, {
+               "name" : "Vogue",
+               "cover" : {
+                  "mbid" : "79239441-bfd5-4981-a70c-55c3f15c1287",
+                  "name" : "Madonna",
+                  "sortName" : "Madonna",
+                  "disambiguation" : "“Queen of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/madonna-bd6bdbe.html"
+               },
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "New York Luau",
+               "cover" : {
+                  "mbid" : "9157ad72-3893-47da-986a-0aa7313f7429",
+                  "name" : "The Knocks",
+                  "sortName" : "Knocks, The",
+                  "disambiguation" : "US electronic music duo; Ben Ruttner & James Patterson",
+                  "url" : "https://www.setlist.fm/setlists/the-knocks-63d272a7.html"
+               },
+               "info" : "KC Lights Remix"
+            }, {
+               "name" : "Smalltown Boy",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "27acebf2-5440-42a7-9db6-19ad2c9dea38",
+                  "name" : "Bronski Beat",
+                  "sortName" : "Bronski Beat",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bronski-beat-4bd6e7b6.html"
+               },
+               "info" : "Bronski Beat, Perfume Genius, and The Knocks Version"
+            }, {
+               "name" : "All the time",
+               "cover" : {
+                  "mbid" : "ac2948c4-ced5-41d5-97b4-be82f2c9aeef",
+                  "name" : "The Knocks & Yelle",
+                  "sortName" : "Knocks, The & Yelle",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-knocks-and-yelle-4b9fb786.html"
+               },
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "One on One",
+               "cover" : {
+                  "mbid" : "211e35bf-11d4-43c8-8973-ef099368b1b2",
+                  "name" : "The Knocks & Sofi Tukker",
+                  "sortName" : "Knocks, The & Sofi Tukker",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-knocks-and-sofi-tukker-73e7da75.html"
+               },
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Pick Up the Phone",
+               "cover" : {
+                  "mbid" : "00ef5e52-582b-4d53-a03a-bbd5b3084197",
+                  "name" : "Dragonette",
+                  "sortName" : "Dragonette",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dragonette-3bd6544c.html"
+               }
+            }, {
+               "name" : "Hello",
+               "cover" : {
+                  "mbid" : "96de5691-9a5e-4615-bcca-29f74ee9565c",
+                  "name" : "Martin Solveig with Dragonette",
+                  "sortName" : "Solveig, Martin with Dragonette",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/martin-solveig-with-dragonette-3bd10cd8.html"
+               }
+            }, {
+               "name" : "Keynote",
+               "tape" : true,
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "The Hero",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Thorn",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Love Me Alive",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            }, {
+               "name" : "Let My Love Open the Door",
+               "cover" : {
+                  "mbid" : "fb147b8f-0144-4418-acaa-90b2d9779840",
+                  "name" : "Pete Townshend",
+                  "sortName" : "Townshend, Pete",
+                  "disambiguation" : "of The Who",
+                  "url" : "https://www.setlist.fm/setlists/pete-townshend-bd6a192.html"
+               },
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Slow Song",
+               "with" : {
+                  "mbid" : "987b25da-e2e0-4455-ad9b-1ed23231b080",
+                  "name" : "Aquaria",
+                  "sortName" : "Aquaria",
+                  "disambiguation" : "drag queen",
+                  "url" : "https://www.setlist.fm/setlists/aquaria-13f1ad51.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "The Knocks x Dragonette x Aquaria - REVELATION",
+      "url" : "https://www.setlist.fm/setlist/the-knocks-and-dragonette/2025/irving-plaza-new-york-ny-1b4dad0c.html"
+   }, {
+      "id" : "4b4dbf5a",
+      "versionId" : "g2b6ec0a6",
+      "eventDate" : "12-12-2025",
+      "lastUpdated" : "2025-12-17T02:36:20.389+0000",
+      "artist" : {
+         "mbid" : "1fc494a1-9109-4081-a455-2d05bea9d2bf",
+         "name" : "Ingrid Michaelson",
+         "sortName" : "Michaelson, Ingrid",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ingrid-michaelson-53d6bfed.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Rockin' Around the Christmas Tree",
+               "cover" : {
+                  "mbid" : "6ca4886a-8f77-4133-b404-46fb3908e24a",
+                  "name" : "Brenda Lee",
+                  "sortName" : "Lee, Brenda",
+                  "disambiguation" : "1960s American singer",
+                  "url" : "https://www.setlist.fm/setlists/brenda-lee-63d69a5f.html"
+               }
+            }, {
+               "name" : "Winter Wonderland",
+               "cover" : {
+                  "mbid" : "e13ca4b9-8077-4bd8-8260-19723d25b61a",
+                  "name" : "Richard Himber and His Orchestra",
+                  "sortName" : "Himber, Richard and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/richard-himber-and-his-orchestra-3bd4b0dc.html"
+               }
+            }, {
+               "name" : "Mele Kalikimaka",
+               "cover" : {
+                  "mbid" : "f5f22a9c-a00c-49f9-8123-329b632da79c",
+                  "name" : "The Andrews Sisters",
+                  "sortName" : "Andrews Sisters, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-andrews-sisters-6bd69aca.html"
+               }
+            }, {
+               "name" : "Christmas Valentine"
+            }, {
+               "name" : "Christmas Lights"
+            }, {
+               "name" : "Song for a Winter's Night",
+               "cover" : {
+                  "mbid" : "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
+                  "name" : "Gordon Lightfoot",
+                  "sortName" : "Lightfoot, Gordon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gordon-lightfoot-73d6ba9d.html"
+               }
+            }, {
+               "name" : "Hallelujah"
+            }, {
+               "name" : "Winter Song"
+            }, {
+               "name" : "You and I"
+            }, {
+               "name" : "Be OK"
+            }, {
+               "name" : "Maybe"
+            }, {
+               "name" : "Merry Christmas, Happy New Year"
+            }, {
+               "name" : "The Way I Am"
+            }, {
+               "name" : "Girls Chase Boys"
+            }, {
+               "name" : "Jingle Bells",
+               "cover" : {
+                  "mbid" : "ff98b821-de0d-4a0e-9002-507bf323a97d",
+                  "name" : "James Lord Pierpont",
+                  "sortName" : "Pierpont, James Lord",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-lord-pierpont-3bd2986c.html"
+               }
+            }, {
+               "name" : "Jingle Bells / White Christmas / I Have a Little Dreidel / Rudolph the Red-Nosed Reindeer / Jingle Bells / White Christmas / I Have a Little Dreidel / Rudolph the Red-Nosed Reindeer / The Christmas Song)"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Have Yourself a Merry Little Christmas",
+               "cover" : {
+                  "mbid" : "46f29ffe-7479-4365-bfd0-fd8f2bb1c7bf",
+                  "name" : "Hugh Martin",
+                  "sortName" : "Martin, Hugh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugh-martin-33d27405.html"
+               }
+            }, {
+               "name" : "I'll Be Home for Christmas (If Only in My Dreams)",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               }
+            }, {
+               "name" : "Auld Lang Syne",
+               "cover" : {
+                  "mbid" : "56e7d9b7-174b-4e29-a50d-f164030d197f",
+                  "name" : "Robert Burns",
+                  "sortName" : "Burns, Robert",
+                  "disambiguation" : "18th century Scottish poet/lyricist",
+                  "url" : "https://www.setlist.fm/setlists/robert-burns-4bd23756.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/ingrid-michaelson/2025/irving-plaza-new-york-ny-4b4dbf5a.html"
+   }, {
+      "id" : "34d8963",
+      "versionId" : "gb6e2daa",
+      "eventDate" : "12-12-2025",
+      "lastUpdated" : "2025-12-17T20:42:10.216+0000",
+      "artist" : {
+         "mbid" : "b05aff9d-b302-44ab-889b-d1b4d4337307",
+         "name" : "Hannah Winkler",
+         "sortName" : "Winkler, Hannah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hannah-winkler-63f56aff.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hannah-winkler/2025/irving-plaza-new-york-ny-34d8963.html"
+   }, {
+      "id" : "b4c55ee",
+      "versionId" : "g4b610b6e",
+      "eventDate" : "10-12-2025",
+      "lastUpdated" : "2025-12-10T19:57:15.909+0000",
+      "artist" : {
+         "mbid" : "4c33904b-1c93-4f63-bb23-69d3544eaf77",
+         "name" : "Pom Pom Squad",
+         "sortName" : "Pom Pom Squad",
+         "disambiguation" : "Alternative Rock band from New York",
+         "url" : "https://www.setlist.fm/setlists/pom-pom-squad-73ca82d5.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pom-pom-squad/2025/irving-plaza-new-york-ny-b4c55ee.html"
+   }, {
+      "id" : "4b4c931e",
+      "versionId" : "g3b615800",
+      "eventDate" : "10-12-2025",
+      "lastUpdated" : "2025-12-11T15:19:16.289+0000",
+      "artist" : {
+         "mbid" : "6ea62ebc-6372-4850-bb37-e21f0e7e7f14",
+         "name" : "The Happy Fits",
+         "sortName" : "Happy Fits, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-happy-fits-3ceadd7.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cruel Power"
+            }, {
+               "name" : "Everything You Do"
+            }, {
+               "name" : "She Wants Me (To Be Loved)"
+            }, {
+               "name" : "Moving"
+            }, {
+               "name" : "Lovesick #1 (Misery)"
+            }, {
+               "name" : "Dirty Imbecile"
+            }, {
+               "name" : "Do Your Worst"
+            }, {
+               "name" : "The Nerve"
+            }, {
+               "name" : "Cold Turkey"
+            }, {
+               "name" : "I Could Stare at You for Hours"
+            }, {
+               "name" : "Shake Me"
+            }, {
+               "name" : "Go Your Own Way",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               }
+            }, {
+               "name" : "Hold Me Down"
+            }, {
+               "name" : "So Alright, Cool, Whatever"
+            }, {
+               "name" : "Black Hole"
+            }, {
+               "name" : "Mary"
+            }, {
+               "name" : "Do You See Me?"
+            }, {
+               "name" : "Heart of a Dancer"
+            }, {
+               "name" : "Too Late"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-happy-fits/2025/irving-plaza-new-york-ny-4b4c931e.html"
+   }, {
+      "id" : "334c4c39",
+      "versionId" : "g636e865f",
+      "eventDate" : "10-12-2025",
+      "lastUpdated" : "2025-12-14T14:28:01.812+0000",
+      "artist" : {
+         "mbid" : "745150ba-6e90-4a0f-a5ac-281ee5631e17",
+         "name" : "Double Standard",
+         "sortName" : "Double Standard",
+         "disambiguation" : "indie girl band",
+         "url" : "https://www.setlist.fm/setlists/double-standard-1390a54d.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "nvr c u again"
+            }, {
+               "name" : "Sweat"
+            }, {
+               "name" : "American Psycho"
+            }, {
+               "name" : "DYWKMON"
+            }, {
+               "name" : "To maine"
+            }, {
+               "name" : "Butterfly Bomb"
+            }, {
+               "name" : "Crush"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/double-standard/2025/irving-plaza-new-york-ny-334c4c39.html"
+   }, {
+      "id" : "4b432712",
+      "versionId" : "g3611197",
+      "eventDate" : "09-12-2025",
+      "lastUpdated" : "2025-12-10T13:40:36.219+0000",
+      "artist" : {
+         "mbid" : "38d929d1-502d-486e-947a-00d6e4194039",
+         "name" : "BIG SPECIAL",
+         "sortName" : "BIG SPECIAL",
+         "disambiguation" : "UK post-punk duo",
+         "url" : "https://www.setlist.fm/setlists/big-special-5bfa4f50.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "BLACK COUNTRY GOTHIC"
+            }, {
+               "name" : "HUG A BASTARD."
+            }, {
+               "name" : "GOD SAVE THE PONY."
+            }, {
+               "name" : "THIS HERE AIN'T WATER"
+            }, {
+               "name" : "MONGREL"
+            }, {
+               "name" : "BLACK DOG/WHITE HORSE"
+            }, {
+               "name" : "DRAGGED UP A HILL (and thrown down the other side)",
+               "info" : "New song"
+            }, {
+               "name" : "THIN HORSES."
+            }, {
+               "name" : "PLAINTIVE NATIVE"
+            }, {
+               "name" : "SHITHOUSE"
+            }, {
+               "name" : "DiG!"
+            } ]
+         } ]
+      },
+      "info" : "Their first New York gig",
+      "url" : "https://www.setlist.fm/setlist/big-special/2025/irving-plaza-new-york-ny-4b432712.html"
+   }, {
+      "id" : "234750d3",
+      "versionId" : "g3b616440",
+      "eventDate" : "09-12-2025",
+      "lastUpdated" : "2025-12-11T04:46:47.889+0000",
+      "artist" : {
+         "mbid" : "93834e82-3a0b-4ec2-a2e4-6eca0a497e6d",
+         "name" : "Public Service Broadcasting",
+         "sortName" : "Public Service Broadcasting",
+         "disambiguation" : "British rock four‐piece",
+         "url" : "https://www.setlist.fm/setlists/public-service-broadcasting-33d15861.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Last Flight"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Towards the Dawn"
+            }, {
+               "name" : "The Fun of It"
+            }, {
+               "name" : "Electra"
+            }, {
+               "name" : "Progress"
+            }, {
+               "name" : "Night Mail"
+            }, {
+               "name" : "Sputnik"
+            }, {
+               "name" : "Korolev"
+            }, {
+               "name" : "White Star Liner"
+            }, {
+               "name" : "Arabian Flight"
+            }, {
+               "name" : "Spitfire"
+            }, {
+               "name" : "All Out"
+            }, {
+               "name" : "The Other Side"
+            }, {
+               "name" : "Go!"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "People, Let's Dance"
+            }, {
+               "name" : "Gagarin"
+            }, {
+               "name" : "Qomolangma"
+            }, {
+               "name" : "Everest"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/public-service-broadcasting/2025/irving-plaza-new-york-ny-234750d3.html"
+   }, {
+      "id" : "734c6ec5",
+      "versionId" : "g1b61c1b8",
+      "eventDate" : "07-12-2025",
+      "lastUpdated" : "2025-12-09T05:37:07.814+0000",
+      "artist" : {
+         "mbid" : "8d1e7c48-f997-4ec4-ab86-864afdbeb932",
+         "name" : "Elena Rose",
+         "sortName" : "Rose, Elena",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/elena-rose-43f58743.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elena-rose/2025/irving-plaza-new-york-ny-734c6ec5.html"
+   }, {
+      "id" : "3344e0c9",
+      "versionId" : "g3349e0b1",
+      "eventDate" : "06-12-2025",
+      "lastUpdated" : "2025-06-09T14:10:56.031+0000",
+      "artist" : {
+         "mbid" : "b49f4036-78ab-42f7-8b35-1159ade51500",
+         "name" : "Raw Brigade",
+         "sortName" : "Raw Brigade",
+         "disambiguation" : "Bogota hardcore",
+         "url" : "https://www.setlist.fm/setlists/raw-brigade-13f17109.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/raw-brigade/2025/irving-plaza-new-york-ny-3344e0c9.html"
+   }, {
+      "id" : "2b44e0ce",
+      "versionId" : "g1b61d130",
+      "eventDate" : "06-12-2025",
+      "lastUpdated" : "2025-12-08T18:35:41.480+0000",
+      "artist" : {
+         "mbid" : "cdb68eb1-c61c-4a19-ab84-1651793a9a02",
+         "name" : "Violent Way",
+         "sortName" : "Violent Way",
+         "disambiguation" : "Oi Punk band from Buffalo / New York, USA.",
+         "url" : "https://www.setlist.fm/setlists/violent-way-13f3f17d.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A Need for Something More"
+            }, {
+               "name" : "I'll Ask You"
+            }, {
+               "name" : "Forever Be Unheard"
+            }, {
+               "name" : "Don't Worry 'Bout Me"
+            }, {
+               "name" : "My dearest friend"
+            }, {
+               "name" : "Choke"
+            }, {
+               "name" : "It’s No Longer You"
+            }, {
+               "name" : "Scum Like You"
+            }, {
+               "name" : "All Talk"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/violent-way/2025/irving-plaza-new-york-ny-2b44e0ce.html"
+   }, {
+      "id" : "2b44e0ca",
+      "versionId" : "g3b6138e8",
+      "eventDate" : "06-12-2025",
+      "lastUpdated" : "2025-12-09T14:32:34.950+0000",
+      "artist" : {
+         "mbid" : "40b8a690-94e4-4c82-ad0f-73f4b841e46a",
+         "name" : "Agnostic Front",
+         "sortName" : "Agnostic Front",
+         "disambiguation" : "American hardcore punk band",
+         "url" : "https://www.setlist.fm/setlists/agnostic-front-2bd6383e.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Echoes in Eternity"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Eliminator"
+            }, {
+               "name" : "Victim in Pain"
+            }, {
+               "name" : "Your Mistake"
+            }, {
+               "name" : "Blind Justice"
+            }, {
+               "name" : "Matter of Life & Death",
+               "with" : {
+                  "mbid" : "20d21992-d063-456d-a069-04d9044871f0",
+                  "name" : "DMC",
+                  "sortName" : "DMC",
+                  "disambiguation" : "rapper Darryl McDaniels",
+                  "url" : "https://www.setlist.fm/setlists/dmc-23d61497.html"
+               }
+            }, {
+               "name" : "For My Family"
+            }, {
+               "name" : "Friend or Foe"
+            }, {
+               "name" : "Discriminate Me"
+            }, {
+               "name" : "Power",
+               "info" : "Vinnie Stigma on Vocals"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "sang by crowd to Vinnie with a cake"
+            }, {
+               "name" : "Crucified",
+               "cover" : {
+                  "mbid" : "13afe528-54f1-4955-bbec-a4bafb590edb",
+                  "name" : "Iron Cross",
+                  "sortName" : "Iron Cross",
+                  "disambiguation" : "Arlington VA, oi-punk/hardcore band, early 80s",
+                  "url" : "https://www.setlist.fm/setlists/iron-cross-23d7a42b.html"
+               },
+               "info" : "With Violent Way and Jon Watson"
+            }, {
+               "name" : "Way of War"
+            }, {
+               "name" : "Peace"
+            }, {
+               "name" : "Toxic Shock"
+            }, {
+               "name" : "United Blood",
+               "info" : "with Carlos Chavarriaga"
+            }, {
+               "name" : "With Time"
+            }, {
+               "name" : "Gotta Go",
+               "with" : {
+                  "mbid" : "e4ef7224-dc50-49da-a5bd-fd9308b91aec",
+                  "name" : "Jimmy Gestapo",
+                  "sortName" : "Gestapo, Jimmy",
+                  "disambiguation" : "of Murphy's Law (real name is James Drescher)",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-gestapo-63d8b2e7.html"
+               }
+            }, {
+               "name" : "Police State"
+            }, {
+               "name" : "Addiction"
+            }, {
+               "name" : "Blitzkrieg Bop",
+               "cover" : {
+                  "mbid" : "d6ed7887-a401-47a8-893c-34b967444d26",
+                  "name" : "Ramones",
+                  "sortName" : "Ramones",
+                  "disambiguation" : "US punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/agnostic-front/2025/irving-plaza-new-york-ny-2b44e0ca.html"
+   }, {
+      "id" : "6b425a02",
+      "versionId" : "g3b61b0d8",
+      "eventDate" : "05-12-2025",
+      "lastUpdated" : "2025-12-06T01:18:40.729+0000",
+      "artist" : {
+         "mbid" : "4666ad3e-455d-4443-af03-b53d9466a4da",
+         "name" : "Vana",
+         "sortName" : "Vana",
+         "disambiguation" : "Metalcore / Alt Metal singer from New Zealand",
+         "url" : "https://www.setlist.fm/setlists/vana-43fa1f43.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pray"
+            }, {
+               "name" : "NOXIOUS"
+            }, {
+               "name" : "PLEASER"
+            }, {
+               "name" : "Serpentine"
+            }, {
+               "name" : "BITE BACK"
+            }, {
+               "name" : "BEG!"
+            }, {
+               "name" : "Clandestine"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vana/2025/irving-plaza-new-york-ny-6b425a02.html"
+   }, {
+      "id" : "63425a03",
+      "versionId" : "g4b61b3d2",
+      "eventDate" : "05-12-2025",
+      "lastUpdated" : "2025-12-06T02:10:14.104+0000",
+      "artist" : {
+         "mbid" : "b677acfe-003a-409a-aa1d-3bf8d91ab0e5",
+         "name" : "Fame on Fire",
+         "sortName" : "Fame on Fire",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fame-on-fire-73c0965d.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nothing Left (The Fool)"
+            }, {
+               "name" : "Nightmare (The Devil)"
+            }, {
+               "name" : "No Tomorrow (The Death Card)",
+               "info" : "Not 100% sure it was this song; heard the lyrics \"It can't get much worse\""
+            }, {
+               "name" : "Welcome to the Chaos"
+            }, {
+               "name" : "Spiral (Justice)"
+            }, {
+               "name" : "Plastic Heart"
+            }, {
+               "name" : "Cut Throat"
+            }, {
+               "name" : "Chains (The Tower)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fame-on-fire/2025/irving-plaza-new-york-ny-63425a03.html"
+   } ]
+}

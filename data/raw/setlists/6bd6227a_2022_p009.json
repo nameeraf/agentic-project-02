@@ -1,0 +1,412 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 9,
+   "total" : 166,
+   "setlist" : [ {
+      "id" : "1b887dc4",
+      "versionId" : "g6bcf2eb6",
+      "eventDate" : "11-02-2022",
+      "lastUpdated" : "2022-03-18T21:11:59.507+0000",
+      "artist" : {
+         "mbid" : "669b08a0-2144-4800-a446-1522cfef228c",
+         "name" : "Palaye Royale",
+         "sortName" : "Palaye Royale",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/palaye-royale-5bccbb10.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nightmares"
+            }, {
+               "name" : "You'll Be Fine"
+            }, {
+               "name" : "Hang On to Yourself"
+            }, {
+               "name" : "Fucking With My Head"
+            }, {
+               "name" : "Get Higher"
+            }, {
+               "name" : "Lonely"
+            }, {
+               "name" : "Teenagers",
+               "cover" : {
+                  "mbid" : "c07f0676-9143-4217-8a9f-4c26bd636f13",
+                  "name" : "My Chemical Romance",
+                  "sortName" : "My Chemical Romance",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/my-chemical-romance-3bd6bcd4.html"
+               }
+            }, {
+               "name" : "Mr. Doctor Man"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/palaye-royale/2022/terminal-5-new-york-ny-1b887dc4.html"
+   }, {
+      "id" : "3b8828a4",
+      "versionId" : "g7bc04274",
+      "eventDate" : "08-02-2022",
+      "lastUpdated" : "2022-02-09T02:32:49.910+0000",
+      "artist" : {
+         "mbid" : "5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
+         "name" : "August Burns Red",
+         "sortName" : "August Burns Red",
+         "disambiguation" : "US metalcore band",
+         "url" : "https://www.setlist.fm/setlists/august-burns-red-7bd6f66c.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Truth of a Liar"
+            }, {
+               "name" : "Meddler"
+            }, {
+               "name" : "Paramount"
+            }, {
+               "name" : "Provision"
+            }, {
+               "name" : "Invisible Enemy"
+            }, {
+               "name" : "Defender"
+            }, {
+               "name" : "Bloodletter"
+            }, {
+               "name" : "The Legend of Zelda Theme",
+               "cover" : {
+                  "mbid" : "c376498a-cdf6-422b-9055-3fce84424402",
+                  "name" : "Koji Kondo",
+                  "sortName" : "Kondo, Koji",
+                  "disambiguation" : "Nintendo composer",
+                  "url" : "https://www.setlist.fm/setlists/koji-kondo-73d3d669.html"
+               }
+            }, {
+               "name" : "Marianas Trench"
+            }, {
+               "name" : "Composure"
+            }, {
+               "name" : "White Washed"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/august-burns-red/2022/terminal-5-new-york-ny-3b8828a4.html"
+   }, {
+      "id" : "3882967",
+      "versionId" : "g63c1a64b",
+      "eventDate" : "08-02-2022",
+      "lastUpdated" : "2022-02-10T09:58:42.533+0000",
+      "artist" : {
+         "mbid" : "e35d3678-25e6-48e3-a40d-3059b9831bf3",
+         "name" : "Light the Torch",
+         "sortName" : "Light the Torch",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/light-the-torch-3db513b.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "You Will Be the Death of Me"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "More Than Dreaming"
+            }, {
+               "name" : "Calm Before the Storm"
+            }, {
+               "name" : "Let Me Fall Apart"
+            }, {
+               "name" : "The Bitter End"
+            }, {
+               "name" : "Death of Me"
+            }, {
+               "name" : "Living With a Ghost"
+            }, {
+               "name" : "Become the Martyr"
+            }, {
+               "name" : "The Safety of Disbelief"
+            }, {
+               "name" : "Wilting in the Light"
+            }, {
+               "name" : "Die Alone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/light-the-torch/2022/terminal-5-new-york-ny-3882967.html"
+   }, {
+      "id" : "338828a5",
+      "versionId" : "g63372a0f",
+      "eventDate" : "08-02-2022",
+      "lastUpdated" : "2026-11-03T02:31:53.651+0000",
+      "artist" : {
+         "mbid" : "8295ee00-0096-461d-95c7-c2263d2a4c6d",
+         "name" : "Killswitch Engage",
+         "sortName" : "Killswitch Engage",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/killswitch-engage-63d6b28b.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Atonement"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Unleashed"
+            }, {
+               "name" : "Hate by Design"
+            }, {
+               "name" : "The Crownless King"
+            }, {
+               "name" : "My Last Serenade"
+            }, {
+               "name" : "I Am Broken Too"
+            }, {
+               "name" : "Rise Inside"
+            }, {
+               "name" : "In Due Time"
+            }, {
+               "name" : "Daylight Dies"
+            }, {
+               "name" : "This Fire"
+            }, {
+               "name" : "Take This Oath"
+            }, {
+               "name" : "Soilborn"
+            }, {
+               "name" : "Always"
+            }, {
+               "name" : "My Curse"
+            }, {
+               "name" : "Strength of the Mind"
+            }, {
+               "name" : "Breathe Life"
+            }, {
+               "name" : "Rose of Sharyn",
+               "with" : {
+                  "mbid" : "72448711-5c5c-4b45-a607-99336456029a",
+                  "name" : "Howard Jones",
+                  "sortName" : "Jones, Howard",
+                  "disambiguation" : "American heavy metal singer",
+                  "url" : "https://www.setlist.fm/setlists/howard-jones-7bd6ba30.html"
+               }
+            }, {
+               "name" : "The End of Heartache",
+               "with" : {
+                  "mbid" : "72448711-5c5c-4b45-a607-99336456029a",
+                  "name" : "Howard Jones",
+                  "sortName" : "Jones, Howard",
+                  "disambiguation" : "American heavy metal singer",
+                  "url" : "https://www.setlist.fm/setlists/howard-jones-7bd6ba30.html"
+               }
+            }, {
+               "name" : "The Signal Fire",
+               "with" : {
+                  "mbid" : "72448711-5c5c-4b45-a607-99336456029a",
+                  "name" : "Howard Jones",
+                  "sortName" : "Jones, Howard",
+                  "disambiguation" : "American heavy metal singer",
+                  "url" : "https://www.setlist.fm/setlists/howard-jones-7bd6ba30.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Joel caught Covid prior to this show, so members of August Burns Red and Light the Torch filled in throughout the whole set.",
+      "url" : "https://www.setlist.fm/setlist/killswitch-engage/2022/terminal-5-new-york-ny-338828a5.html"
+   }, {
+      "id" : "b88e126",
+      "versionId" : "g7bc08208",
+      "eventDate" : "25-01-2022",
+      "lastUpdated" : "2022-01-25T15:11:08.288+0000",
+      "artist" : {
+         "mbid" : "951518d6-53ad-4503-807d-3f14416769b9",
+         "name" : "Clubhouse",
+         "sortName" : "Clubhouse",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/clubhouse-23f24c57.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clubhouse/2022/terminal-5-new-york-ny-b88e126.html"
+   }, {
+      "id" : "1b88ed18",
+      "versionId" : "g1b76c930",
+      "eventDate" : "25-01-2022",
+      "lastUpdated" : "2025-06-17T18:20:58.749+0000",
+      "artist" : {
+         "mbid" : "e105c272-b5d7-4135-82ef-d60bded54345",
+         "name" : "The Wombats",
+         "sortName" : "Wombats, The",
+         "disambiguation" : "UK indie rock band",
+         "url" : "https://www.setlist.fm/setlists/the-wombats-2bd6bcea.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Fix Yourself, Not the World"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Flip Me Upside Down"
+            }, {
+               "name" : "This Car Drives All by Itself"
+            }, {
+               "name" : "Moving to New York"
+            }, {
+               "name" : "Cheetah Tongue"
+            }, {
+               "name" : "Techno Fan"
+            }, {
+               "name" : "Ready for the High"
+            }, {
+               "name" : "Pink Lemonade"
+            }, {
+               "name" : "Everything I Love Is Going to Die"
+            }, {
+               "name" : "Kill the Director"
+            }, {
+               "name" : "People Don't Change People, Time Does"
+            }, {
+               "name" : "Lemon to a Knife Fight"
+            }, {
+               "name" : "Worry"
+            }, {
+               "name" : "Jump Into the Fog"
+            }, {
+               "name" : "Don't Poke the Bear"
+            }, {
+               "name" : "Tokyo (Vampires & Wolves)"
+            }, {
+               "name" : "If You Ever Leave, I'm Coming With You"
+            }, {
+               "name" : "Greek Tragedy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Method to the Madness"
+            }, {
+               "name" : "Let's Dance to Joy Division"
+            }, {
+               "name" : "Turn"
+            }, {
+               "name" : "Fix Yourself, Then the World (Reach Beyond Your Fingers)",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-wombats/2022/terminal-5-new-york-ny-1b88ed18.html"
+   } ]
+}

@@ -1,0 +1,941 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 114,
+   "setlist" : [ {
+      "id" : "53b7c341",
+      "versionId" : "g3c861c7",
+      "eventDate" : "14-05-2022",
+      "lastUpdated" : "2022-05-15T16:28:22.554+0000",
+      "artist" : {
+         "mbid" : "25b42db3-2be3-47c3-93f5-eeac9695e010",
+         "name" : "Inter Arma",
+         "sortName" : "Inter Arma",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/inter-arma-3bdc08e0.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hot for Teacher",
+               "cover" : {
+                  "mbid" : "b665b768-0d83-4363-950c-31ed39317c15",
+                  "name" : "Van Halen",
+                  "sortName" : "Van Halen",
+                  "disambiguation" : "American hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/van-halen-2bd68066.html"
+               },
+               "info" : "Intro"
+            }, {
+               "name" : "Citadel"
+            }, {
+               "name" : "Howling Lands"
+            }, {
+               "name" : "A Waxen Sea"
+            }, {
+               "name" : "Transfiguration"
+            }, {
+               "name" : "The Summer Drones"
+            }, {
+               "name" : "Southern Man",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Ohio",
+               "cover" : {
+                  "mbid" : "46a782ea-4308-476b-abd1-a91b197f3037",
+                  "name" : "Crosby, Stills, Nash & Young",
+                  "sortName" : "Crosby, Stills, Nash & Young",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crosby-stills-nash-and-young-63d6b61b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/inter-arma/2022/knockdown-center-queens-ny-53b7c341.html"
+   }, {
+      "id" : "53b7c33d",
+      "versionId" : "g33c820f1",
+      "eventDate" : "14-05-2022",
+      "lastUpdated" : "2022-05-12T14:09:49.395+0000",
+      "artist" : {
+         "mbid" : "d8cce98f-de81-4eb6-b5be-b68f97effe91",
+         "name" : "Brume",
+         "sortName" : "Brume",
+         "disambiguation" : "stoner/doom/metal/psychedelic band from San Francisco, CA",
+         "url" : "https://www.setlist.fm/setlists/brume-23c648ef.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brume/2022/knockdown-center-queens-ny-53b7c33d.html"
+   }, {
+      "id" : "4bb7c342",
+      "versionId" : "g3bef447c",
+      "eventDate" : "14-05-2022",
+      "lastUpdated" : "2023-02-20T13:17:48.241+0000",
+      "artist" : {
+         "mbid" : "17216b16-e706-4082-b0ba-e409a3097844",
+         "name" : "King Buffalo",
+         "sortName" : "King Buffalo",
+         "disambiguation" : "stoner rock group",
+         "url" : "https://www.setlist.fm/setlists/king-buffalo-23da004f.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ecliptic",
+               "tape" : true
+            }, {
+               "name" : "Silverfish"
+            }, {
+               "name" : "Grifter"
+            }, {
+               "name" : "Shadows"
+            }, {
+               "name" : "Burning"
+            }, {
+               "name" : "Quickening"
+            }, {
+               "name" : "Orion"
+            }, {
+               "name" : "Loam"
+            }, {
+               "name" : "Cerberus"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/king-buffalo/2022/knockdown-center-queens-ny-4bb7c342.html"
+   }, {
+      "id" : "43b7c33b",
+      "versionId" : "g2bc820fa",
+      "eventDate" : "14-05-2022",
+      "lastUpdated" : "2022-05-12T14:08:21.451+0000",
+      "artist" : {
+         "mbid" : "598a6f62-c632-4ef2-8f95-e79599da0692",
+         "name" : "Silvertomb",
+         "sortName" : "Silvertomb",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/silvertomb-13cdb9a5.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/silvertomb/2022/knockdown-center-queens-ny-43b7c33b.html"
+   }, {
+      "id" : "43b7c333",
+      "versionId" : "gbc871ee",
+      "eventDate" : "14-05-2022",
+      "lastUpdated" : "2022-05-14T20:19:31.641+0000",
+      "artist" : {
+         "mbid" : "bc09d328-33f9-47ff-8ccd-0ef58dfbc245",
+         "name" : "Green Druid",
+         "sortName" : "Green Druid",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/green-druid-2bcc948a.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Forest Dark"
+            }, {
+               "name" : "A Throne Abandoned"
+            }, {
+               "name" : "Pale Blood Sky"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/green-druid/2022/knockdown-center-queens-ny-43b7c333.html"
+   }, {
+      "id" : "73b7d23d",
+      "versionId" : "g5bc86fc8",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-15T03:03:31.685+0000",
+      "artist" : {
+         "mbid" : "0f6e80ef-1972-4dee-8896-dc9955f1beeb",
+         "name" : "Corrosion of Conformity",
+         "sortName" : "Corrosion of Conformity",
+         "disambiguation" : "American heavy metal band",
+         "url" : "https://www.setlist.fm/setlists/corrosion-of-conformity-63d68e9b.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "tour" : {
+         "name" : "Industrial Strength"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bottom Feeder (El que come abajo)"
+            }, {
+               "name" : "Paranoid Opioid"
+            }, {
+               "name" : "Shake Like You"
+            }, {
+               "name" : "Diablo Blvd."
+            }, {
+               "name" : "Señor Limpio"
+            }, {
+               "name" : "Seven Days"
+            }, {
+               "name" : "Who's Got the Fire"
+            }, {
+               "name" : "Vote With a Bullet"
+            }, {
+               "name" : "Born Again for the Last Time"
+            }, {
+               "name" : "The Door"
+            }, {
+               "name" : "13 Angels"
+            }, {
+               "name" : "Wiseblood"
+            }, {
+               "name" : "Albatross"
+            }, {
+               "name" : "Clean My Wounds"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/corrosion-of-conformity/2022/knockdown-center-queens-ny-73b7d23d.html"
+   }, {
+      "id" : "5bb7c354",
+      "versionId" : "g2bc82012",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T14:02:25.731+0000",
+      "artist" : {
+         "mbid" : "ab55f199-5258-4a26-86a9-5ac7ae2a0425",
+         "name" : "Geezer",
+         "sortName" : "Geezer",
+         "disambiguation" : "stoner blues",
+         "url" : "https://www.setlist.fm/setlists/geezer-1bc7b548.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/geezer/2022/knockdown-center-queens-ny-5bb7c354.html"
+   }, {
+      "id" : "53b7c35d",
+      "versionId" : "g7bc862f0",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-15T19:25:01.667+0000",
+      "artist" : {
+         "mbid" : "7b88d629-5885-41c0-9096-f21cec310692",
+         "name" : "Orange Goblin",
+         "sortName" : "Orange Goblin",
+         "disambiguation" : "English heavy metal band",
+         "url" : "https://www.setlist.fm/setlists/orange-goblin-73d68ea5.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "tour" : {
+         "name" : "USA May 2022"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/orange-goblin/2022/knockdown-center-queens-ny-53b7c35d.html"
+   }, {
+      "id" : "53b7c351",
+      "versionId" : "g2bc8201a",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T14:00:27.210+0000",
+      "artist" : {
+         "mbid" : "8a60a617-3de8-4ce9-bef1-8af7b971c064",
+         "name" : "Black Tusk",
+         "sortName" : "Black Tusk",
+         "disambiguation" : "sludge metal band from Savannah",
+         "url" : "https://www.setlist.fm/setlists/black-tusk-63d52a87.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/black-tusk/2022/knockdown-center-queens-ny-53b7c351.html"
+   }, {
+      "id" : "53b7c349",
+      "versionId" : "g2bc82016",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T14:03:14.580+0000",
+      "artist" : {
+         "mbid" : "a85ef641-ea2b-49f6-8e3b-2f0455797ecc",
+         "name" : "Howling Giant",
+         "sortName" : "Howling Giant",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/howling-giant-23c28ce7.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/howling-giant/2022/knockdown-center-queens-ny-53b7c349.html"
+   }, {
+      "id" : "4bb7c35e",
+      "versionId" : "gbb99562",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2024-06-02T23:04:58.449+0000",
+      "artist" : {
+         "mbid" : "fdff2166-c400-4786-9bcc-2000c873866c",
+         "name" : "John Garcia and the Band of Gold",
+         "sortName" : "Garcia, John and Band of Gold, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/john-garcia-and-the-band-of-gold-bc96d5a.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gardenia",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "Jim's Whiskers"
+            }, {
+               "name" : "100°",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "My Everything"
+            }, {
+               "name" : "Supa Scoopa and Mighty Scoop",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "July",
+               "cover" : {
+                  "mbid" : "08dbc17c-a723-4d04-a7b3-8739c1895dd9",
+                  "name" : "Slo Burn",
+                  "sortName" : "Slo Burn",
+                  "disambiguation" : "stoner rock group",
+                  "url" : "https://www.setlist.fm/setlists/slo-burn-bd6958e.html"
+               }
+            }, {
+               "name" : "El Rodeo",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "Tangy Zizzle",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "Conan Troutman",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "Kentucky II"
+            }, {
+               "name" : "Don't Even Think About It"
+            }, {
+               "name" : "Whitewater",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            }, {
+               "name" : "Green Machine",
+               "cover" : {
+                  "mbid" : "ea0f2a37-7007-4217-a812-396227f5013a",
+                  "name" : "Kyuss",
+                  "sortName" : "Kyuss",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kyuss-53d6afad.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/john-garcia-and-the-band-of-gold/2022/knockdown-center-queens-ny-4bb7c35e.html"
+   }, {
+      "id" : "4bb7c356",
+      "versionId" : "g3bc8201c",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T14:01:57.023+0000",
+      "artist" : {
+         "mbid" : "d4c7cef5-7dca-4f6f-8fff-bf19f07f3696",
+         "name" : "Holy Death Trio",
+         "sortName" : "Holy Death Trio",
+         "disambiguation" : "Austin Hard Rock",
+         "url" : "https://www.setlist.fm/setlists/holy-death-trio-5bf0bf9c.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/holy-death-trio/2022/knockdown-center-queens-ny-4bb7c356.html"
+   }, {
+      "id" : "4bb7c34e",
+      "versionId" : "g2bc8200a",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T14:03:45.988+0000",
+      "artist" : {
+         "mbid" : "67c4f314-3683-471e-8cf1-8302d5200767",
+         "name" : "Leather Lung",
+         "sortName" : "Leather Lung",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/leather-lung-2bd9b836.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/leather-lung/2022/knockdown-center-queens-ny-4bb7c34e.html"
+   }, {
+      "id" : "43b7c357",
+      "versionId" : "g2bc8201e",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T14:01:01.877+0000",
+      "artist" : {
+         "mbid" : "00b7c46a-8fa7-49f7-8aa4-b589511fe0c9",
+         "name" : "Sasquatch",
+         "sortName" : "Sasquatch",
+         "disambiguation" : "2000s USA stoner rock",
+         "url" : "https://www.setlist.fm/setlists/sasquatch-7bd7fa60.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sasquatch/2022/knockdown-center-queens-ny-43b7c357.html"
+   }, {
+      "id" : "43b7c353",
+      "versionId" : "g2bc82026",
+      "eventDate" : "13-05-2022",
+      "lastUpdated" : "2022-05-12T13:59:51.984+0000",
+      "artist" : {
+         "mbid" : "345acde1-1592-4025-8459-589e0224f9d1",
+         "name" : "Mothership",
+         "sortName" : "Mothership",
+         "disambiguation" : "Dallas, TX hard rock group",
+         "url" : "https://www.setlist.fm/setlists/mothership-2bdaf01a.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mothership/2022/knockdown-center-queens-ny-43b7c353.html"
+   }, {
+      "id" : "2ba22c5e",
+      "versionId" : "g2b994476",
+      "eventDate" : "15-04-2022",
+      "lastUpdated" : "2023-09-11T02:12:39.535+0000",
+      "artist" : {
+         "mbid" : "b62ecfe7-b2e6-4d40-b7d2-8f12d3f51ed6",
+         "name" : "Hercules & Love Affair",
+         "sortName" : "Hercules & Love Affair",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hercules-and-love-affair-53d6ef19.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hercules-and-love-affair/2022/knockdown-center-queens-ny-2ba22c5e.html"
+   }, {
+      "id" : "23a22c67",
+      "versionId" : "g39945a3",
+      "eventDate" : "15-04-2022",
+      "lastUpdated" : "2023-09-11T02:09:08.701+0000",
+      "artist" : {
+         "mbid" : "34c63966-445c-4613-afe1-4f0e1e53ae9a",
+         "name" : "Fatboy Slim",
+         "sortName" : "Fatboy Slim",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fatboy-slim-33d6b0ad.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fatboy-slim/2022/knockdown-center-queens-ny-23a22c67.html"
+   }, {
+      "id" : "3b69543",
+      "versionId" : "g2bcc604e",
+      "eventDate" : "01-04-2022",
+      "lastUpdated" : "2022-04-04T15:32:02.968+0000",
+      "artist" : {
+         "mbid" : "10e8f0df-90f9-4957-aedd-c4e0d187e3a8",
+         "name" : "Bicep",
+         "sortName" : "Bicep",
+         "disambiguation" : "Andrew Ferguson, and Matthew McBriar, DJ and production duo from Belfast, Northern Ireland",
+         "url" : "https://www.setlist.fm/setlists/bicep-13d42115.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bicep/2022/knockdown-center-queens-ny-3b69543.html"
+   }, {
+      "id" : "bb695ea",
+      "versionId" : "g6b5992b2",
+      "eventDate" : "26-03-2022",
+      "lastUpdated" : "2025-02-04T19:38:05.309+0000",
+      "artist" : {
+         "mbid" : "ae218235-f6ee-48ea-a0c5-f33b03bf08be",
+         "name" : "Museum of Love",
+         "sortName" : "Museum of Love",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/museum-of-love-2bdd3002.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Your Nails Have Grown"
+            }, {
+               "name" : "Life of Mammals"
+            }, {
+               "name" : "Marching Orders"
+            }, {
+               "name" : "Cluttered World"
+            }, {
+               "name" : "FATHERS"
+            }, {
+               "name" : "Flat Side"
+            }, {
+               "name" : "The Who's Who of Who Cares"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/museum-of-love/2022/knockdown-center-queens-ny-bb695ea.html"
+   }, {
+      "id" : "6b895eb2",
+      "versionId" : "g5bccf744",
+      "eventDate" : "26-03-2022",
+      "lastUpdated" : "2022-03-28T04:48:59.655+0000",
+      "artist" : {
+         "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+         "name" : "LCD Soundsystem",
+         "sortName" : "LCD Soundsystem",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Give It Up",
+               "info" : "First performance since 2007"
+            }, {
+               "name" : "Movement"
+            }, {
+               "name" : "Losing My Edge"
+            }, {
+               "name" : "Daft Punk Is Playing at My House"
+            }, {
+               "name" : "Jump Into the Fire",
+               "cover" : {
+                  "mbid" : "e5963d26-01fa-40f5-b200-e0127f410a45",
+                  "name" : "Harry Nilsson",
+                  "sortName" : "Nilsson, Harry",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/harry-nilsson-7bd6d6c8.html"
+               },
+               "info" : "First performance since 2011"
+            } ]
+         } ]
+      },
+      "info" : "Special lineup of James Murphy, Nancy Whang, Pat Mahoney, Tyler Pope and Phil Mossman. Tired was on the setlist but not played. Phil's first LCD Show since 2011",
+      "url" : "https://www.setlist.fm/setlist/lcd-soundsystem/2022/knockdown-center-queens-ny-6b895eb2.html"
+   } ]
+}

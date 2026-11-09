@@ -1,0 +1,1914 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 148,
+   "setlist" : [ {
+      "id" : "43b7238f",
+      "versionId" : "g2be480d6",
+      "eventDate" : "18-05-2022",
+      "lastUpdated" : "2022-11-15T06:15:26.952+0000",
+      "artist" : {
+         "mbid" : "c80f38a6-9980-485d-997c-5c1a9cbd0d64",
+         "name" : "Ryan Adams",
+         "sortName" : "Adams, Ryan",
+         "disambiguation" : "US singer-songwriter, multi-instrumentalist, producer & poet",
+         "url" : "https://www.setlist.fm/setlists/ryan-adams-6bd6fac2.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Northeast Megalopolis Spring 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "New York, New York"
+            }, {
+               "name" : "Crossed Out Name",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "Hard Way to Fall",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "Harder Now That It's Over"
+            }, {
+               "name" : "Why Do They Leave?"
+            }, {
+               "name" : "Withering Heights",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "The Rescue Blues",
+               "info" : "on piano"
+            }, {
+               "name" : "English Girls Approximately"
+            }, {
+               "name" : "Jacksonville Skyline",
+               "cover" : {
+                  "mbid" : "fdb40275-50df-4894-8481-573e86956e81",
+                  "name" : "Whiskeytown",
+                  "sortName" : "Whiskeytown",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/whiskeytown-2bd69082.html"
+               }
+            }, {
+               "name" : "Please Do Not Let Me Go"
+            }, {
+               "name" : "Karina",
+               "info" : "Unreleased from 48 Hours. First time ever."
+            }, {
+               "name" : "Dancing with the Women at the Bar",
+               "cover" : {
+                  "mbid" : "fdb40275-50df-4894-8481-573e86956e81",
+                  "name" : "Whiskeytown",
+                  "sortName" : "Whiskeytown",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/whiskeytown-2bd69082.html"
+               }
+            }, {
+               "name" : "Now That You're Gone",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "Call Me on Your Way Back Home"
+            }, {
+               "name" : "Cannonball Days"
+            }, {
+               "name" : "My Blue Manhattan",
+               "info" : "on piano"
+            }, {
+               "name" : "This House Is Not for Sale"
+            }, {
+               "name" : "Afraid Not Scared"
+            }, {
+               "name" : "Strawberry Wine"
+            }, {
+               "name" : "Dear John",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "Romeo & Juliet"
+            }, {
+               "name" : "Oh My God, Whatever, Etc."
+            }, {
+               "name" : "If I Am a Stranger",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "In My Time of Need"
+            }, {
+               "name" : "Wild Flowers"
+            }, {
+               "name" : "Chin Up, Cheer Up"
+            }, {
+               "name" : "Miss Sunflower"
+            }, {
+               "name" : "September",
+               "cover" : {
+                  "mbid" : "27a8ce8c-4e41-4a56-ba65-3a82662c9af9",
+                  "name" : "Ryan Adams & The Cardinals",
+                  "sortName" : "Ryan Adams & The Cardinals",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/ryan-adams-and-the-cardinals-3bd07858.html"
+               }
+            }, {
+               "name" : "Sylvia Plath",
+               "info" : "on piano"
+            }, {
+               "name" : "I See Monsters"
+            }, {
+               "name" : "It's Not That Kind of Night"
+            }, {
+               "name" : "When the Stars Go Blue"
+            }, {
+               "name" : "Do I Wait"
+            }, {
+               "name" : "Come Pick Me Up"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ryan-adams/2022/beacon-theatre-new-york-ny-43b7238f.html"
+   }, {
+      "id" : "5b518f10",
+      "versionId" : "g3354006d",
+      "eventDate" : "04-05-2022",
+      "lastUpdated" : "2024-10-25T04:19:44.618+0000",
+      "artist" : {
+         "mbid" : "feaca50a-3f80-4812-af37-92a1c505a943",
+         "name" : "Celisse",
+         "sortName" : "Celisse",
+         "disambiguation" : "guitarist & singer from Oakland, California and New York City",
+         "url" : "https://www.setlist.fm/setlists/celisse-33e32865.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/celisse/2022/beacon-theatre-new-york-ny-5b518f10.html"
+   }, {
+      "id" : "3b78573",
+      "versionId" : "g4b7ecbf6",
+      "eventDate" : "04-05-2022",
+      "lastUpdated" : "2025-08-15T06:22:33.617+0000",
+      "artist" : {
+         "mbid" : "1676172f-657a-4771-96ff-4a1c2ef1997e",
+         "name" : "Lucius",
+         "sortName" : "Lucius",
+         "disambiguation" : "US indie pop band",
+         "url" : "https://www.setlist.fm/setlists/lucius-3df2577.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Feels Like Second Nature Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Second Nature"
+            }, {
+               "name" : "Next to Normal"
+            }, {
+               "name" : "Calling Out Your Name (Muse)"
+            }, {
+               "name" : "Tempest"
+            }, {
+               "name" : "Promises"
+            }, {
+               "name" : "The Man I’ll Never Find"
+            }, {
+               "name" : "Dusty Trails"
+            }, {
+               "name" : "A Lesson in Leavin'",
+               "cover" : {
+                  "mbid" : "edfa1708-f764-43b1-867f-6dd363cca3f1",
+                  "name" : "Dottie West",
+                  "sortName" : "West, Dottie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dottie-west-bd66926.html"
+               }
+            }, {
+               "name" : "How Loud Your Heart Gets"
+            }, {
+               "name" : "Dance Around It",
+               "with" : {
+                  "mbid" : "feaca50a-3f80-4812-af37-92a1c505a943",
+                  "name" : "Celisse",
+                  "sortName" : "Celisse",
+                  "disambiguation" : "guitarist & singer from Oakland, California and New York City",
+                  "url" : "https://www.setlist.fm/setlists/celisse-33e32865.html"
+               }
+            }, {
+               "name" : "24"
+            }, {
+               "name" : "White Lies"
+            }, {
+               "name" : "Heartbursts"
+            }, {
+               "name" : "Supernatural Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mother",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               },
+               "with" : {
+                  "mbid" : "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
+                  "name" : "Roger Waters",
+                  "sortName" : "Waters, Roger",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/roger-waters-6bd6ba16.html"
+               }
+            }, {
+               "name" : "Two of Us on the Run"
+            }, {
+               "name" : "Turn It Around"
+            }, {
+               "name" : "I Feel Love",
+               "cover" : {
+                  "mbid" : "b60527cc-54f3-4bbe-a01b-dcf34c95ae14",
+                  "name" : "Donna Summer",
+                  "sortName" : "Summer, Donna",
+                  "disambiguation" : "soul/disco diva",
+                  "url" : "https://www.setlist.fm/setlists/donna-summer-6bd6be6a.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lucius/2022/beacon-theatre-new-york-ny-3b78573.html"
+   }, {
+      "id" : "3bb31444",
+      "versionId" : "g33fe5865",
+      "eventDate" : "30-04-2022",
+      "lastUpdated" : "2022-08-21T02:26:30.156+0000",
+      "artist" : {
+         "mbid" : "b3edafa8-0a78-40b9-9404-c6fc1920d2be",
+         "name" : "The Stylistics",
+         "sortName" : "Stylistics, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-stylistics-bd6b946.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-stylistics/2022/beacon-theatre-new-york-ny-3bb31444.html"
+   }, {
+      "id" : "3bb3143c",
+      "versionId" : "g33fe5855",
+      "eventDate" : "30-04-2022",
+      "lastUpdated" : "2022-08-21T02:28:48.892+0000",
+      "artist" : {
+         "mbid" : "8dce8a2d-8ed5-4672-b25e-bfe198b02b82",
+         "name" : "The Manhattans",
+         "sortName" : "Manhattans, The",
+         "disambiguation" : "New Jersey vocal group, notable for “Kiss and Say Goodbye”",
+         "url" : "https://www.setlist.fm/setlists/the-manhattans-23d6504b.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-manhattans/2022/beacon-theatre-new-york-ny-3bb3143c.html"
+   }, {
+      "id" : "33b31431",
+      "versionId" : "g3bfe584c",
+      "eventDate" : "30-04-2022",
+      "lastUpdated" : "2022-08-21T02:29:53.612+0000",
+      "artist" : {
+         "mbid" : "6ff13427-08ff-4da2-bee8-892e1fa22d3c",
+         "name" : "The Emotions",
+         "sortName" : "Emotions, The",
+         "disambiguation" : "Chicago soul, disco and R&B female vocal group",
+         "url" : "https://www.setlist.fm/setlists/the-emotions-13d6b9c5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-emotions/2022/beacon-theatre-new-york-ny-33b31431.html"
+   }, {
+      "id" : "23b3143f",
+      "versionId" : "g23fe5853",
+      "eventDate" : "30-04-2022",
+      "lastUpdated" : "2022-08-21T02:27:40.008+0000",
+      "artist" : {
+         "mbid" : "cfe0dee4-4409-46e3-bbf2-edac88971132",
+         "name" : "The Delfonics",
+         "sortName" : "Delfonics, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-delfonics-1bd6b994.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-delfonics/2022/beacon-theatre-new-york-ny-23b3143f.html"
+   }, {
+      "id" : "73b64e2d",
+      "versionId" : "g6be2c63a",
+      "eventDate" : "27-04-2022",
+      "lastUpdated" : "2022-12-08T15:02:34.554+0000",
+      "artist" : {
+         "mbid" : "64e96700-d880-452e-803d-e4d7628b0224",
+         "name" : "Joan Manuel Serrat",
+         "sortName" : "Serrat, Joan Manuel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joan-manuel-serrat-2bd68c8e.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "El vicio de cantar 1965-2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dale que dale"
+            }, {
+               "name" : "Mi niñez"
+            }, {
+               "name" : "El carrusel del Furo"
+            }, {
+               "name" : "Romance de Curro el Palmo"
+            }, {
+               "name" : "Señora"
+            }, {
+               "name" : "Lucía"
+            }, {
+               "name" : "No hago otra cosa que pensar en ti"
+            }, {
+               "name" : "Algo personal"
+            }, {
+               "name" : "Nanas de la cebolla"
+            }, {
+               "name" : "Cançó de bressol"
+            }, {
+               "name" : "Hoy por ti, mañana por mí"
+            }, {
+               "name" : "Es caprichoso el azar"
+            }, {
+               "name" : "Hoy puede ser un gran día"
+            }, {
+               "name" : "Los recuerdos"
+            }, {
+               "name" : "Aquellas pequeñas cosas"
+            }, {
+               "name" : "Mediterráneo"
+            }, {
+               "name" : "Pare"
+            }, {
+               "name" : "Cantares"
+            }, {
+               "name" : "De vez en cuando la vida"
+            }, {
+               "name" : "Penélope"
+            }, {
+               "name" : "Fiesta"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Esos locos bajitos"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/joan-manuel-serrat/2022/beacon-theatre-new-york-ny-73b64e2d.html"
+   }, {
+      "id" : "1bb6199c",
+      "versionId" : "g6be5be2a",
+      "eventDate" : "22-04-2022",
+      "lastUpdated" : "2022-11-22T22:36:29.749+0000",
+      "artist" : {
+         "mbid" : "8feb61e0-be9c-41c9-acd8-df0196783744",
+         "name" : "Jason Bonham’s Led Zeppelin Evening",
+         "sortName" : "Jason Bonham’s Led Zeppelin Evening",
+         "disambiguation" : "Often abbreviated JBLZE",
+         "url" : "https://www.setlist.fm/setlists/jason-bonhams-led-zeppelin-evening-53ff4bbd.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Immigrant Song",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Good Times Bad Times",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Over the Hills and Far Away",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "What Is and What Should Never Be",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "The Lemon Song",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Ramble On",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Thank You",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "That's the Way",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "The Ocean",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Since I've Been Loving You",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Trampled Under Foot",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Fool in the Rain",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "White Summer/Black Mountain Side",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Kashmir",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Stairway to Heaven",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Whole Lotta Love",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Rock and Roll",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jason-bonhams-led-zeppelin-evening/2022/beacon-theatre-new-york-ny-1bb6199c.html"
+   }, {
+      "id" : "53b62f2d",
+      "versionId" : "gbcacda6",
+      "eventDate" : "14-04-2022",
+      "lastUpdated" : "2022-04-24T00:10:44.410+0000",
+      "artist" : {
+         "mbid" : "332228ce-fe8c-4a5e-90e0-e1361553e5ff",
+         "name" : "Amos Lee",
+         "sortName" : "Lee, Amos",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/amos-lee-53d6e711.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dreamland"
+            }, {
+               "name" : "Colors",
+               "info" : "new version"
+            }, {
+               "name" : "Worry No More"
+            }, {
+               "name" : "Spirit"
+            }, {
+               "name" : "All You Got Is a Song"
+            }, {
+               "name" : "Walls"
+            }, {
+               "name" : "Madison"
+            }, {
+               "name" : "Violin",
+               "info" : "acoustic solo"
+            }, {
+               "name" : "Kid",
+               "info" : "acoustic solo"
+            }, {
+               "name" : "Invisible Oceans"
+            }, {
+               "name" : "Keep It Loose, Keep It Tight",
+               "info" : "new version"
+            }, {
+               "name" : "Flower / O-o-o Child / Three Little Birds"
+            }, {
+               "name" : "Sweet Pea",
+               "info" : "new version"
+            }, {
+               "name" : "Southern Girl / Juicy"
+            }, {
+               "name" : "Arms of a Woman"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Someday We'll All Be Free / We Shall Overcome"
+            }, {
+               "name" : "Hang On, Hang On"
+            }, {
+               "name" : "Windows Are Rolled Down"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/amos-lee/2022/beacon-theatre-new-york-ny-53b62f2d.html"
+   }, {
+      "id" : "ba0a16e",
+      "versionId" : "g382fd07",
+      "eventDate" : "12-04-2022",
+      "lastUpdated" : "2023-10-15T05:21:53.877+0000",
+      "artist" : {
+         "mbid" : "af558762-abed-4f46-8324-34fc51f57b2b",
+         "name" : "Bettye LaVette",
+         "sortName" : "LaVette, Bettye",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bettye-lavette-5bd6b78c.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bettye-lavette/2022/beacon-theatre-new-york-ny-ba0a16e.html"
+   }, {
+      "id" : "7bb6eec8",
+      "versionId" : "g63cd126f",
+      "eventDate" : "12-04-2022",
+      "lastUpdated" : "2022-04-15T11:48:50.604+0000",
+      "artist" : {
+         "mbid" : "9b106beb-12b5-4525-8025-42e295a2b90a",
+         "name" : "Little Feat",
+         "sortName" : "Little Feat",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/little-feat-1bd6a14c.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Waiting for Columbus: 45th Anniversary Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Join the Band",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Fat Man in the Bathtub"
+            }, {
+               "name" : "All That You Dream"
+            }, {
+               "name" : "Oh Atlanta"
+            }, {
+               "name" : "Old Folks Boogie"
+            }, {
+               "name" : "Time Loves a Hero"
+            }, {
+               "name" : "Day or Night"
+            }, {
+               "name" : "Mercenary Territory"
+            }, {
+               "name" : "Spanish Moon",
+               "with" : {
+                  "mbid" : "f17f5164-ef7a-4ad2-97a3-3400162fbb7b",
+                  "name" : "Steve Kimock",
+                  "sortName" : "Kimock, Steve",
+                  "disambiguation" : "rock guitarist",
+                  "url" : "https://www.setlist.fm/setlists/steve-kimock-23d4e80f.html"
+               }
+            }, {
+               "name" : "Dixie Chicken",
+               "info" : ">",
+               "with" : {
+                  "mbid" : "50c629c6-6f22-4bf9-a3c2-f2855e6704be",
+                  "name" : "Tommy Emmanuel",
+                  "sortName" : "Emmanuel, Tommy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tommy-emmanuel-2bd61062.html"
+               }
+            }, {
+               "name" : "Tripe Face Boogie",
+               "with" : {
+                  "mbid" : "50c629c6-6f22-4bf9-a3c2-f2855e6704be",
+                  "name" : "Tommy Emmanuel",
+                  "sortName" : "Emmanuel, Tommy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tommy-emmanuel-2bd61062.html"
+               }
+            }, {
+               "name" : "Rocket in My Pocket"
+            }, {
+               "name" : "Willin'",
+               "with" : {
+                  "mbid" : "685ec09c-79ee-43eb-b197-aa102fca0adc",
+                  "name" : "John Leventhal",
+                  "sortName" : "Leventhal, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-leventhal-3d12d47.html"
+               }
+            }, {
+               "name" : "Don't Bogart Me",
+               "cover" : {
+                  "mbid" : "64cbcf4d-ecc6-4ce7-ad25-aacef2fc6f51",
+                  "name" : "The Fraternity of Man",
+                  "sortName" : "Fraternity of Man, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-fraternity-of-man-73d72a85.html"
+               }
+            }, {
+               "name" : "A Apolitical Blues",
+               "with" : {
+                  "mbid" : "af558762-abed-4f46-8324-34fc51f57b2b",
+                  "name" : "Bettye LaVette",
+                  "sortName" : "LaVette, Bettye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bettye-lavette-5bd6b78c.html"
+               }
+            }, {
+               "name" : "Sailin' Shoes"
+            }, {
+               "name" : "Feats Don't Fail Me Now",
+               "with" : {
+                  "mbid" : "f17f5164-ef7a-4ad2-97a3-3400162fbb7b",
+                  "name" : "Steve Kimock",
+                  "sortName" : "Kimock, Steve",
+                  "disambiguation" : "rock guitarist",
+                  "url" : "https://www.setlist.fm/setlists/steve-kimock-23d4e80f.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "On Your Way Down",
+               "cover" : {
+                  "mbid" : "ec21cced-2d22-4883-9ee3-f642e6e52f58",
+                  "name" : "Allen Toussaint",
+                  "sortName" : "Toussaint, Allen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/allen-toussaint-7bd6ce7c.html"
+               },
+               "with" : {
+                  "mbid" : "af558762-abed-4f46-8324-34fc51f57b2b",
+                  "name" : "Bettye LaVette",
+                  "sortName" : "LaVette, Bettye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bettye-lavette-5bd6b78c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/little-feat/2022/beacon-theatre-new-york-ny-7bb6eec8.html"
+   }, {
+      "id" : "6bb6eec2",
+      "versionId" : "g3bf6e064",
+      "eventDate" : "12-04-2022",
+      "lastUpdated" : "2022-05-31T01:48:21.828+0000",
+      "artist" : {
+         "mbid" : "00daff08-6cd1-4f91-b1ec-2f8ce8603442",
+         "name" : "David Bromberg",
+         "sortName" : "Bromberg, David",
+         "disambiguation" : "American multi-instrumentalist, singer, and songwriter",
+         "url" : "https://www.setlist.fm/setlists/david-bromberg-2bd7a0ae.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Big Road Blues",
+               "cover" : {
+                  "mbid" : "b86d8c69-c57e-4b15-9ba5-9e7c62779271",
+                  "name" : "Tommy Johnson",
+                  "sortName" : "Johnson, Tommy",
+                  "disambiguation" : "American Delta blues musician",
+                  "url" : "https://www.setlist.fm/setlists/tommy-johnson-1bd60154.html"
+               }
+            }, {
+               "name" : "I'll Take You Back",
+               "cover" : {
+                  "mbid" : "86ea23fb-bc2b-406a-bd68-db677794e98c",
+                  "name" : "David Bromberg Band",
+                  "sortName" : "David Bromberg Band",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-bromberg-band-2bd7d80e.html"
+               }
+            }, {
+               "name" : "Maiden's Prayer / Blackberry Blossom / Katy Hill"
+            }, {
+               "name" : "Standing in the Need of Prayer",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Tennessee Waltz",
+               "cover" : {
+                  "mbid" : "83f1bede-d825-4539-baca-94003495b1ba",
+                  "name" : "Pee Wee King & His Golden West Cowboys",
+                  "sortName" : "King, Pee Wee & His Golden West Cowboys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pee-wee-king-and-his-golden-west-cowboys-43d70327.html"
+               }
+            }, {
+               "name" : "The New Lee Highway Blues",
+               "info" : ""
+            } ]
+         } ]
+      },
+      "info" : "David Bromberg Quintet; Opening act for Little Feat",
+      "url" : "https://www.setlist.fm/setlist/david-bromberg/2022/beacon-theatre-new-york-ny-6bb6eec2.html"
+   }, {
+      "id" : "63b68e6b",
+      "versionId" : "g3cd9daf",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2022-04-08T03:49:42.146+0000",
+      "artist" : {
+         "mbid" : "c4ff10e0-ae5a-467d-a409-6e0b4bf241eb",
+         "name" : "Perfume Genius",
+         "sortName" : "Perfume Genius",
+         "disambiguation" : "US singer-songwriter Mike Hadreas",
+         "url" : "https://www.setlist.fm/setlists/perfume-genius-53d5b795.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Your Body Changes Everything"
+            }, {
+               "name" : "Without You"
+            }, {
+               "name" : "Describe"
+            }, {
+               "name" : "Wreath"
+            }, {
+               "name" : "Jason"
+            }, {
+               "name" : "Fool"
+            }, {
+               "name" : "Valley"
+            }, {
+               "name" : "Normal Song"
+            }, {
+               "name" : "Learning"
+            }, {
+               "name" : "Katie"
+            }, {
+               "name" : "Hood"
+            }, {
+               "name" : "On the Floor"
+            }, {
+               "name" : "Slip Away"
+            }, {
+               "name" : "Otherside"
+            }, {
+               "name" : "Some Dream"
+            }, {
+               "name" : "Photograph"
+            }, {
+               "name" : "My Body"
+            }, {
+               "name" : "Nothing at All"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Grid"
+            }, {
+               "name" : "Queen"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/perfume-genius/2022/beacon-theatre-new-york-ny-63b68e6b.html"
+   }, {
+      "id" : "3b6f9df",
+      "versionId" : "g1bcd9df4",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2022-04-08T03:03:52.300+0000",
+      "artist" : {
+         "mbid" : "a92d48e1-40a9-457d-971c-ddb748d78759",
+         "name" : "Hand Habits",
+         "sortName" : "Hand Habits",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hand-habits-3c0212b.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hand-habits/2022/beacon-theatre-new-york-ny-3b6f9df.html"
+   }, {
+      "id" : "3bb6805c",
+      "versionId" : "g1bcdedac",
+      "eventDate" : "06-04-2022",
+      "lastUpdated" : "2022-04-10T14:31:42.510+0000",
+      "artist" : {
+         "mbid" : "9c8cbbb3-aa96-41f3-8e52-3c238c944ad4",
+         "name" : "Mondo Cozmo",
+         "sortName" : "Mondo Cozmo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mondo-cozmo-2bcea8a2.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Electrify My Love"
+            }, {
+               "name" : "Shine"
+            }, {
+               "name" : "Plastic Soul"
+            }, {
+               "name" : "Bitter Sweet Symphony",
+               "cover" : {
+                  "mbid" : "d4d17620-fd97-4574-92a8-a2cb7e72ce42",
+                  "name" : "The Verve",
+                  "sortName" : "Verve, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-verve-bd6bd5a.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/mondo-cozmo/2022/beacon-theatre-new-york-ny-3bb6805c.html"
+   }, {
+      "id" : "1bb681f4",
+      "versionId" : "g5b1d3704",
+      "eventDate" : "06-04-2022",
+      "lastUpdated" : "2026-05-22T19:54:00.344+0000",
+      "artist" : {
+         "mbid" : "892fb2e4-0af4-42be-9e60-22898de51d32",
+         "name" : "The Airborne Toxic Event",
+         "sortName" : "Airborne Toxic Event, The",
+         "disambiguation" : "American indie band",
+         "url" : "https://www.setlist.fm/setlists/the-airborne-toxic-event-13d7c9bd.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Hollywood Park Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hollywood Park"
+            }, {
+               "name" : "Brother How Was the War?"
+            }, {
+               "name" : "Faithless"
+            }, {
+               "name" : "All at Once"
+            }, {
+               "name" : "Numb"
+            }, {
+               "name" : "All These Engagements"
+            }, {
+               "name" : "The Place We Meet a Thousand Feet Beneath the Racetrack"
+            }, {
+               "name" : "Wishing Well"
+            }, {
+               "name" : "Gasoline"
+            }, {
+               "name" : "Changing"
+            }, {
+               "name" : "Hell and Back"
+            }, {
+               "name" : "Come On Out"
+            }, {
+               "name" : "Sometime Around Midnight"
+            }, {
+               "name" : "All I Ever Wanted"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Graveyard Near the House"
+            }, {
+               "name" : "Elizabeth"
+            }, {
+               "name" : "The Common Touch"
+            }, {
+               "name" : "Does This Mean You're Moving On?"
+            }, {
+               "name" : "Happiness Is Overrated"
+            }, {
+               "name" : "Missy / Head On / Ring of Fire / Drum Solo / Missy"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-airborne-toxic-event/2022/beacon-theatre-new-york-ny-1bb681f4.html"
+   }, {
+      "id" : "3b6a1b7",
+      "versionId" : "g6bcdbeb2",
+      "eventDate" : "05-04-2022",
+      "lastUpdated" : "2022-04-06T17:33:43.230+0000",
+      "artist" : {
+         "mbid" : "e9e93250-b122-4d4c-b48c-4d4f67a19ba2",
+         "name" : "Brit Floyd",
+         "sortName" : "Brit Floyd",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brit-floyd-73dffaa9.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "World Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "Cluster One",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Learning to Fly",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "High Hopes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Welcome to the Machine",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Time",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Breathe (Reprise)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Another Brick in the Wall, Part 2",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "One of These Days",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "name" : "Set  2",
+            "song" : [ {
+               "name" : "Echoes",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "The Final Cut",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Set the Controls for the Heart of the Sun",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Money",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Shine On You Crazy Diamond (Parts VI-IX)",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Wish You Were Here",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Comfortably Numb",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "One Slip",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Run Like Hell",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/brit-floyd/2022/beacon-theatre-new-york-ny-3b6a1b7.html"
+   }, {
+      "id" : "3b6b12b",
+      "versionId" : "g538eaffd",
+      "eventDate" : "03-04-2022",
+      "lastUpdated" : "2023-11-12T15:09:42.540+0000",
+      "artist" : {
+         "mbid" : "f4eb8346-052d-4a5c-8393-cba3aeadb4d9",
+         "name" : "Steve Hackett",
+         "sortName" : "Hackett, Steve",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/steve-hackett-43d6b3a3.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Genesis Revisited 2022 - Seconds Out + More!"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Clocks - The Angel of Mons"
+            }, {
+               "name" : "Held in the Shadows"
+            }, {
+               "name" : "Every Day"
+            }, {
+               "name" : "The Devil's Cathedral"
+            }, {
+               "name" : "Shadow of the Hierophant",
+               "info" : "instrumental closing section only"
+            } ]
+         }, {
+            "name" : "Set 2 (Seconds Out):",
+            "song" : [ {
+               "name" : "Squonk",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "Carpet Crawlers",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "Robbery, Assault and Battery",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "Afterglow",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "Firth of Fifth",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "I Know What I Like (In Your Wardrobe)",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "The Lamb Lies Down on Broadway",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "The Musical Box",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               },
+               "info" : "final verse only"
+            }, {
+               "name" : "Supper's Ready",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "The Cinema Show",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "Aisle of Plenty",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Dance on a Volcano",
+               "cover" : {
+                  "mbid" : "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+                  "name" : "Genesis",
+                  "sortName" : "Genesis",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/genesis-1bd6b520.html"
+               }
+            }, {
+               "name" : "Drum Solo"
+            }, {
+               "name" : "Los Endos / Slogans"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/steve-hackett/2022/beacon-theatre-new-york-ny-3b6b12b.html"
+   }, {
+      "id" : "438963b3",
+      "versionId" : "g53ccd315",
+      "eventDate" : "28-03-2022",
+      "lastUpdated" : "2022-03-30T07:25:15.624+0000",
+      "artist" : {
+         "mbid" : "fe8bcbbb-2a47-406c-bbe1-66f5f088eadc",
+         "name" : "Nick Cave & Warren Ellis",
+         "sortName" : "Cave, Nick & Ellis, Warren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-cave-and-warren-ellis-3f7713f.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Carnage"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Spinning Song",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Bright Horses",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Night Raid",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Carnage"
+            }, {
+               "name" : "White Elephant"
+            }, {
+               "name" : "Ghosteen",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Lavender Fields"
+            }, {
+               "name" : "Waiting for You",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "I Need You",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Cosmic Dancer",
+               "cover" : {
+                  "mbid" : "c842d29f-a297-48cd-bb71-4f77fd672b16",
+                  "name" : "T. Rex",
+                  "sortName" : "T. Rex",
+                  "disambiguation" : "UK band",
+                  "url" : "https://www.setlist.fm/setlists/t-rex-73d6ee31.html"
+               }
+            }, {
+               "name" : "God Is in the House",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Hand of God"
+            }, {
+               "name" : "Shattered Ground"
+            }, {
+               "name" : "Galleon Ship",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Leviathan",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Balcony Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hollywood",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Henry Lee",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Into My Arms",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Jubilee Street",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Ghosteen Speaks",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-cave-and-warren-ellis/2022/beacon-theatre-new-york-ny-438963b3.html"
+   } ]
+}

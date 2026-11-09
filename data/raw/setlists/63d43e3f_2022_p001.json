@@ -1,0 +1,985 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 114,
+   "setlist" : [ {
+      "id" : "6bbcd23a",
+      "versionId" : "g2be334b2",
+      "eventDate" : "16-12-2022",
+      "lastUpdated" : "2022-12-21T20:12:08.557+0000",
+      "artist" : {
+         "mbid" : "740c6238-3f5d-4e63-8836-826ad6c611ab",
+         "name" : "Honey Dijon",
+         "sortName" : "Honey Dijon",
+         "disambiguation" : "house producer",
+         "url" : "https://www.setlist.fm/setlists/honey-dijon-33c79871.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/honey-dijon/2022/knockdown-center-queens-ny-6bbcd23a.html"
+   }, {
+      "id" : "7bbcfe68",
+      "versionId" : "g23e9b4b7",
+      "eventDate" : "15-12-2022",
+      "lastUpdated" : "2023-04-12T11:20:53.525+0000",
+      "artist" : {
+         "mbid" : "6e61b52a-9001-4638-9f10-f684c180a749",
+         "name" : "HXG",
+         "sortName" : "HXG",
+         "disambiguation" : "formerly Homixide Gang",
+         "url" : "https://www.setlist.fm/setlists/hxg-3bfcb838.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lifestyle"
+            }, {
+               "name" : "Can't Go"
+            }, {
+               "name" : "Guitars"
+            }, {
+               "name" : "Tatted"
+            }, {
+               "name" : "Ssn"
+            }, {
+               "name" : "Snotty Wax!"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hxg/2022/knockdown-center-queens-ny-7bbcfe68.html"
+   }, {
+      "id" : "6bbcfe6e",
+      "versionId" : "g53ed9f49",
+      "eventDate" : "15-12-2022",
+      "lastUpdated" : "2023-03-04T16:11:41.513+0000",
+      "artist" : {
+         "mbid" : "987d3d86-0d7a-4292-ae96-a8d59e456436",
+         "name" : "Destroy Lonely",
+         "sortName" : "Destroy Lonely",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/destroy-lonely-3f3412b.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "tour" : {
+         "name" : "NO STYLIST"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bane"
+            }, {
+               "name" : "BLITZ"
+            }, {
+               "name" : "NEVEREVER"
+            }, {
+               "name" : "Oh Yeah"
+            }, {
+               "name" : "FAKENGGAS"
+            }, {
+               "name" : "In The Air"
+            }, {
+               "name" : "JETLGGD"
+            }, {
+               "name" : "<3MYGNG"
+            }, {
+               "name" : "TURNINUP"
+            }, {
+               "name" : "DANGEROUS"
+            }, {
+               "name" : "MKEITSTOP"
+            }, {
+               "name" : "CRYSTLCSTLES"
+            }, {
+               "name" : "SWGSKOOL"
+            }, {
+               "name" : "BERGDORF"
+            }, {
+               "name" : "Dover Street Market"
+            }, {
+               "name" : "SOARIN"
+            }, {
+               "name" : "ONTHETABLE"
+            }, {
+               "name" : "PRSSURE"
+            }, {
+               "name" : "LNLY"
+            }, {
+               "name" : "VTMNTSCOAT"
+            }, {
+               "name" : "NOSTYLIST"
+            }, {
+               "name" : "VETERAN",
+               "with" : {
+                  "mbid" : "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                  "name" : "Ken Carson",
+                  "sortName" : "Carson, Ken",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/ken-carson-bf3f9a6.html"
+               }
+            }, {
+               "name" : "Freestyle 2",
+               "cover" : {
+                  "mbid" : "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                  "name" : "Ken Carson",
+                  "sortName" : "Carson, Ken",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/ken-carson-bf3f9a6.html"
+               },
+               "with" : {
+                  "mbid" : "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                  "name" : "Ken Carson",
+                  "sortName" : "Carson, Ken",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/ken-carson-bf3f9a6.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/destroy-lonely/2022/knockdown-center-queens-ny-6bbcfe6e.html"
+   }, {
+      "id" : "3bc8563",
+      "versionId" : "g43e3bba3",
+      "eventDate" : "09-12-2022",
+      "lastUpdated" : "2022-12-14T19:18:28.315+0000",
+      "artist" : {
+         "mbid" : "f55859c9-0642-47dc-8c68-4aa2db484b23",
+         "name" : "Yaya Bey",
+         "sortName" : "Bey, Yaya",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/yaya-bey-23f35827.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yaya-bey/2022/knockdown-center-queens-ny-3bc8563.html"
+   }, {
+      "id" : "1bbc856c",
+      "versionId" : "g53e3bbad",
+      "eventDate" : "09-12-2022",
+      "lastUpdated" : "2022-12-14T19:17:31.956+0000",
+      "artist" : {
+         "mbid" : "c4ff10e0-ae5a-467d-a409-6e0b4bf241eb",
+         "name" : "Perfume Genius",
+         "sortName" : "Perfume Genius",
+         "disambiguation" : "US singer-songwriter Mike Hadreas",
+         "url" : "https://www.setlist.fm/setlists/perfume-genius-53d5b795.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/perfume-genius/2022/knockdown-center-queens-ny-1bbc856c.html"
+   }, {
+      "id" : "13bc856d",
+      "versionId" : "g4be3bbae",
+      "eventDate" : "09-12-2022",
+      "lastUpdated" : "2022-12-14T19:16:36.385+0000",
+      "artist" : {
+         "mbid" : "4717b4d8-00b9-4f55-aead-ae501d359f6f",
+         "name" : "Tomberlin",
+         "sortName" : "Tomberlin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tomberlin-7bcdca74.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tomberlin/2022/knockdown-center-queens-ny-13bc856d.html"
+   }, {
+      "id" : "33bf68ad",
+      "versionId" : "g7ba53e58",
+      "eventDate" : "04-12-2022",
+      "lastUpdated" : "2024-07-04T20:52:24.831+0000",
+      "artist" : {
+         "mbid" : "757ed661-fbad-4e45-b1cd-a6b09f06f54a",
+         "name" : "Yung Lean",
+         "sortName" : "Yung Lean",
+         "disambiguation" : "Swedish rapper",
+         "url" : "https://www.setlist.fm/setlists/yung-lean-53dd3b79.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "tour" : {
+         "name" : "Stardust Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Agenda"
+            }, {
+               "name" : "Pikachu"
+            }, {
+               "name" : "Afghanistan"
+            }, {
+               "name" : "Bliss"
+            }, {
+               "name" : "Diamonds",
+               "cover" : {
+                  "mbid" : "68d311c0-525f-4f72-a044-84e54565d02d",
+                  "name" : "Thaiboy Digital",
+                  "sortName" : "Thaiboy Digital",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thaiboy-digital-53d98fc5.html"
+               }
+            }, {
+               "name" : "Muddy Sea"
+            }, {
+               "name" : "Boylife in EU"
+            }, {
+               "name" : "Sippin"
+            }, {
+               "name" : "Smirnoff Ice"
+            }, {
+               "name" : "Sunrise Angel"
+            }, {
+               "name" : "Hennessy & Sailor Moon"
+            }, {
+               "name" : "Bender++Girlfriend"
+            }, {
+               "name" : "French Hotel"
+            }, {
+               "name" : "Red Bottom Sky"
+            } ]
+         }, {
+            "name" : "Megamix",
+            "song" : [ {
+               "name" : "Gatorade"
+            }, {
+               "name" : "Hurt"
+            }, {
+               "name" : "Ginseng Strip 2002"
+            }, {
+               "name" : "Ghosttown"
+            }, {
+               "name" : "Yoshi City"
+            } ]
+         }, {
+            "name" : "Encore 1",
+            "song" : [ {
+               "name" : "Hotel in Minsk",
+               "cover" : {
+                  "mbid" : "a64cc1d7-656c-44e0-9102-96a2bbf6d692",
+                  "name" : "jonatan leandoer96",
+                  "sortName" : "leandoer96, jonatan",
+                  "disambiguation" : "a.k.a. jonatan leandoer127",
+                  "url" : "https://www.setlist.fm/setlists/jonatan-leandoer96-53c143ed.html"
+               }
+            }, {
+               "name" : "Put Me in a Spell"
+            }, {
+               "name" : "Leanworld"
+            }, {
+               "name" : "Agony"
+            }, {
+               "name" : "Yellowman"
+            } ]
+         }, {
+            "name" : "Encore 2",
+            "song" : [ {
+               "name" : "Kyoto"
+            }, {
+               "name" : "Miami Ultras"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yung-lean/2022/knockdown-center-queens-ny-33bf68ad.html"
+   }, {
+      "id" : "33bf68a1",
+      "versionId" : "g234c549f",
+      "eventDate" : "04-12-2022",
+      "lastUpdated" : "2025-05-05T15:51:15.220+0000",
+      "artist" : {
+         "mbid" : "7dad5b65-b163-40ad-b0b6-ae533c699187",
+         "name" : "Nation",
+         "sortName" : "Nation",
+         "disambiguation" : "US pop duo",
+         "url" : "https://www.setlist.fm/setlists/nation-3fa79ab.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nation/2022/knockdown-center-queens-ny-33bf68a1.html"
+   }, {
+      "id" : "3bbf68a8",
+      "versionId" : "g2be2f86a",
+      "eventDate" : "03-12-2022",
+      "lastUpdated" : "2022-12-05T19:47:11.326+0000",
+      "artist" : {
+         "mbid" : "757ed661-fbad-4e45-b1cd-a6b09f06f54a",
+         "name" : "Yung Lean",
+         "sortName" : "Yung Lean",
+         "disambiguation" : "Swedish rapper",
+         "url" : "https://www.setlist.fm/setlists/yung-lean-53dd3b79.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Agenda"
+            }, {
+               "name" : "Pikachu"
+            }, {
+               "name" : "Afghanistan"
+            }, {
+               "name" : "Bliss"
+            }, {
+               "name" : "Diamonds",
+               "cover" : {
+                  "mbid" : "68d311c0-525f-4f72-a044-84e54565d02d",
+                  "name" : "Thaiboy Digital",
+                  "sortName" : "Thaiboy Digital",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thaiboy-digital-53d98fc5.html"
+               }
+            }, {
+               "name" : "Muddy Sea"
+            }, {
+               "name" : "Boylife in EU"
+            }, {
+               "name" : "Solarflare"
+            }, {
+               "name" : "Smirnoff Ice"
+            }, {
+               "name" : "Sunrise Angel"
+            }, {
+               "name" : "Hennessy & Sailor Moon"
+            }, {
+               "name" : "Bender++Girlfriend"
+            }, {
+               "name" : "Immortal"
+            }, {
+               "name" : "Red Bottom Sky"
+            } ]
+         }, {
+            "name" : "Megamix",
+            "song" : [ {
+               "name" : "Gatorade"
+            }, {
+               "name" : "Hurt"
+            }, {
+               "name" : "Ginseng Strip 2002"
+            }, {
+               "name" : "Ghosttown"
+            }, {
+               "name" : "Yoshi City"
+            } ]
+         }, {
+            "name" : "Encore 1",
+            "song" : [ {
+               "name" : "Hotel in Minsk",
+               "cover" : {
+                  "mbid" : "a64cc1d7-656c-44e0-9102-96a2bbf6d692",
+                  "name" : "jonatan leandoer96",
+                  "sortName" : "leandoer96, jonatan",
+                  "disambiguation" : "a.k.a. jonatan leandoer127",
+                  "url" : "https://www.setlist.fm/setlists/jonatan-leandoer96-53c143ed.html"
+               }
+            }, {
+               "name" : "Put Me in a Spell"
+            }, {
+               "name" : "Leanworld"
+            }, {
+               "name" : "Agony"
+            }, {
+               "name" : "Yellowman"
+            } ]
+         }, {
+            "name" : "Encore 2",
+            "song" : [ {
+               "name" : "Miami Ultras"
+            }, {
+               "name" : "Kyoto"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yung-lean/2022/knockdown-center-queens-ny-3bbf68a8.html"
+   }, {
+      "id" : "2bbf68a2",
+      "versionId" : "g2b4c54a6",
+      "eventDate" : "03-12-2022",
+      "lastUpdated" : "2025-05-05T15:51:01.361+0000",
+      "artist" : {
+         "mbid" : "7dad5b65-b163-40ad-b0b6-ae533c699187",
+         "name" : "Nation",
+         "sortName" : "Nation",
+         "disambiguation" : "US pop duo",
+         "url" : "https://www.setlist.fm/setlists/nation-3fa79ab.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nation/2022/knockdown-center-queens-ny-2bbf68a2.html"
+   }, {
+      "id" : "3bbf10f0",
+      "versionId" : "g5be57b54",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:38:11.742+0000",
+      "artist" : {
+         "mbid" : "482ea950-0b49-4f1d-8e8f-56bbdc283532",
+         "name" : "Catherine Moan",
+         "sortName" : "Moan, Catherine",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/catherine-moan-2bf3d82e.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/catherine-moan/2022/knockdown-center-queens-ny-3bbf10f0.html"
+   }, {
+      "id" : "33bf10fd",
+      "versionId" : "g4be57b52",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:37:20.287+0000",
+      "artist" : {
+         "mbid" : "1380fdf9-2b9a-45ff-8a96-5a921c627111",
+         "name" : "BOAN",
+         "sortName" : "BOAN",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/boan-43c43393.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/boan/2022/knockdown-center-queens-ny-33bf10fd.html"
+   }, {
+      "id" : "33bf10f5",
+      "versionId" : "g43e57b4f",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:38:57.070+0000",
+      "artist" : {
+         "mbid" : "2bee3483-b5c0-486c-ac49-41d2318c5760",
+         "name" : "NGHTCRWLR",
+         "sortName" : "NGHTCRWLR",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nghtcrwlr-1bf2bdf8.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nghtcrwlr/2022/knockdown-center-queens-ny-33bf10f5.html"
+   }, {
+      "id" : "33bf10ed",
+      "versionId" : "g43e57b3b",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:43:16.445+0000",
+      "artist" : {
+         "mbid" : "1882dd5c-e9d8-4655-a41e-909499ab8e58",
+         "name" : "Night Sins",
+         "sortName" : "Night Sins",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/night-sins-5bdaff9c.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/night-sins/2022/knockdown-center-queens-ny-33bf10ed.html"
+   }, {
+      "id" : "33bf100d",
+      "versionId" : "g13e0f1b9",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2023-01-04T02:09:32.398+0000",
+      "artist" : {
+         "mbid" : "6dc9bc09-a0c7-40f9-b491-f90845927533",
+         "name" : "Boy Harsher",
+         "sortName" : "Boy Harsher",
+         "disambiguation" : "American synthpop/darkwave band",
+         "url" : "https://www.setlist.fm/setlists/boy-harsher-23c1705f.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Keep Driving"
+            }, {
+               "name" : "Give Me a Reason"
+            }, {
+               "name" : "Morphine"
+            }, {
+               "name" : "Fate"
+            }, {
+               "name" : "Westerners"
+            }, {
+               "name" : "Come Closer"
+            }, {
+               "name" : "Tower"
+            }, {
+               "name" : "Tears"
+            }, {
+               "name" : "LA"
+            }, {
+               "name" : "Modulations"
+            }, {
+               "name" : "Machina",
+               "info" : "",
+               "with" : {
+                  "mbid" : "4bc4082c-1fa7-48f1-abba-d2ca3d888667",
+                  "name" : "Mariana Saldaña",
+                  "sortName" : "Saldaña, Mariana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mariana-saldana-2bc3ec86.html"
+               }
+            }, {
+               "name" : "Pain"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/boy-harsher/2022/knockdown-center-queens-ny-33bf100d.html"
+   }, {
+      "id" : "2bbf10ee",
+      "versionId" : "g5be57b44",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:42:29.428+0000",
+      "artist" : {
+         "mbid" : "bf270b87-6da7-485b-8c5b-0d02c9c47f41",
+         "name" : "A Split‐Second",
+         "sortName" : "Split‐Second, A",
+         "disambiguation" : "Belgian new beat / EBM band",
+         "url" : "https://www.setlist.fm/setlists/a-splitsecond-73d61665.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/a-splitsecond/2022/knockdown-center-queens-ny-2bbf10ee.html"
+   }, {
+      "id" : "2bbf10ea",
+      "versionId" : "g43e57b43",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:40:41.783+0000",
+      "artist" : {
+         "mbid" : "e2261327-2274-475c-bbaa-0fb899a1e262",
+         "name" : "Das Ding",
+         "sortName" : "Ding, Das",
+         "disambiguation" : "1980s cold wave artist",
+         "url" : "https://www.setlist.fm/setlists/das-ding-3d56187.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/das-ding/2022/knockdown-center-queens-ny-2bbf10ea.html"
+   }, {
+      "id" : "23bf10ef",
+      "versionId" : "g5be57b40",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:41:36.817+0000",
+      "artist" : {
+         "mbid" : "2c5cad00-be97-4b81-898d-518ad10f4fbd",
+         "name" : "Ghost Cop",
+         "sortName" : "Ghost Cop",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ghost-cop-2bc57caa.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ghost-cop/2022/knockdown-center-queens-ny-23bf10ef.html"
+   }, {
+      "id" : "23bf10eb",
+      "versionId" : "g53e57b4d",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:39:50.269+0000",
+      "artist" : {
+         "mbid" : "84003e23-7306-47aa-afbb-b6dc96faebd5",
+         "name" : "Confines",
+         "sortName" : "Confines",
+         "disambiguation" : "NYC electronic/industrial producer",
+         "url" : "https://www.setlist.fm/setlists/confines-13cb0975.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/confines/2022/knockdown-center-queens-ny-23bf10eb.html"
+   }, {
+      "id" : "23bf1007",
+      "versionId" : "g43e57b67",
+      "eventDate" : "02-12-2022",
+      "lastUpdated" : "2022-11-30T14:35:23.723+0000",
+      "artist" : {
+         "mbid" : "5cbbe1e5-38ca-4cb7-82b2-787114935034",
+         "name" : "Soft Crash",
+         "sortName" : "Crash, Soft",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soft-crash-23f0243b.html"
+      },
+      "venue" : {
+         "id" : "63d43e3f",
+         "name" : "Knockdown Center",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/knockdown-center-queens-ny-usa-63d43e3f.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/soft-crash/2022/knockdown-center-queens-ny-23bf1007.html"
+   } ]
+}

@@ -1,0 +1,1343 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 116,
+   "setlist" : [ {
+      "id" : "1ba4dd84",
+      "versionId" : "g73b6c649",
+      "eventDate" : "29-07-2023",
+      "lastUpdated" : "2024-02-01T10:23:02.213+0000",
+      "artist" : {
+         "mbid" : "ea3552ed-715d-42e8-b1ad-116c2605e03c",
+         "name" : "Andrew Cushin",
+         "sortName" : "Cushin, Andrew",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/andrew-cushin-73f3825d.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "You Don't Belong"
+            }, {
+               "name" : "Dream for a Moment"
+            }, {
+               "name" : "It's Coming Round Again"
+            }, {
+               "name" : "Wor Flags"
+            }, {
+               "name" : "4.5%"
+            }, {
+               "name" : "You'll Be Free"
+            }, {
+               "name" : "Where's My Family Gone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/andrew-cushin/2023/forest-hills-stadium-queens-ny-1ba4dd84.html"
+   }, {
+      "id" : "43a4e3c7",
+      "versionId" : "g43570b33",
+      "eventDate" : "27-07-2023",
+      "lastUpdated" : "2024-10-17T16:20:50.570+0000",
+      "artist" : {
+         "mbid" : "dde26295-8cd4-474c-8740-3edb801b2776",
+         "name" : "Maggie Rogers",
+         "sortName" : "Rogers, Maggie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maggie-rogers-3bc3d4b4.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "Summer of '23"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Anywhere With You"
+            }, {
+               "name" : "Want Want"
+            }, {
+               "name" : "Say It"
+            }, {
+               "name" : "The Kill"
+            }, {
+               "name" : "Give a Little"
+            }, {
+               "name" : "So Sick of Dreaming"
+            }, {
+               "name" : "Overnight"
+            }, {
+               "name" : "Dog Years"
+            }, {
+               "name" : "Shatter"
+            }, {
+               "name" : "Don't Forget Me"
+            }, {
+               "name" : "Symphony"
+            }, {
+               "name" : "Alaska"
+            }, {
+               "name" : "Retrograde / I Wanna Dance With Somebody (Who Loves Me)"
+            }, {
+               "name" : "Love You for a Long Time"
+            }, {
+               "name" : "Light On"
+            }, {
+               "name" : "That's Where I Am"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Back in My Body"
+            }, {
+               "name" : "Different Kind of World"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maggie-rogers/2023/forest-hills-stadium-queens-ny-43a4e3c7.html"
+   }, {
+      "id" : "1ba4f144",
+      "versionId" : "g534477fd",
+      "eventDate" : "27-07-2023",
+      "lastUpdated" : "2025-03-02T03:57:47.136+0000",
+      "artist" : {
+         "mbid" : "84803b1d-dcb3-490d-9af5-debbba64a011",
+         "name" : "Soccer Mommy",
+         "sortName" : "Soccer Mommy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soccer-mommy-43cff3eb.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bones"
+            }, {
+               "name" : "circle the drain"
+            }, {
+               "name" : "crawling in my skin"
+            }, {
+               "name" : "Darkness Forever"
+            }, {
+               "name" : "Shotgun"
+            }, {
+               "name" : "Soak Up the Sun",
+               "cover" : {
+                  "mbid" : "80ccfede-c258-4575-a7ad-c982e9932e0f",
+                  "name" : "Sheryl Crow",
+                  "sortName" : "Crow, Sheryl",
+                  "disambiguation" : "American singer-songwriter and musician",
+                  "url" : "https://www.setlist.fm/setlists/sheryl-crow-73d6be4d.html"
+               }
+            }, {
+               "name" : "Your Dog"
+            }, {
+               "name" : "Don’t Ask Me"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/soccer-mommy/2023/forest-hills-stadium-queens-ny-1ba4f144.html"
+   }, {
+      "id" : "3ba710ec",
+      "versionId" : "gb9fb95e",
+      "eventDate" : "13-07-2023",
+      "lastUpdated" : "2023-07-14T03:52:39.293+0000",
+      "artist" : {
+         "mbid" : "74963434-dcb6-4b14-98cc-99873b06db66",
+         "name" : "Future Islands",
+         "sortName" : "Future Islands",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/future-islands-43d7cb97.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "For Sure"
+            }, {
+               "name" : "Hit the Coast"
+            }, {
+               "name" : "Plastic Beach"
+            }, {
+               "name" : "Peach"
+            }, {
+               "name" : "Walking Through That Door"
+            }, {
+               "name" : "Light House"
+            }, {
+               "name" : "A Dream of You and Me"
+            }, {
+               "name" : "Before the Bridge"
+            }, {
+               "name" : "Long Flight"
+            }, {
+               "name" : "King of Sweden"
+            }, {
+               "name" : "Seasons (Waiting on You)"
+            }, {
+               "name" : "Vireo's Eye"
+            }, {
+               "name" : "Little Dreamer"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/future-islands/2023/forest-hills-stadium-queens-ny-3ba710ec.html"
+   }, {
+      "id" : "2ba71006",
+      "versionId" : "g6b99a63a",
+      "eventDate" : "13-07-2023",
+      "lastUpdated" : "2023-09-03T14:22:25.627+0000",
+      "artist" : {
+         "mbid" : "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+         "name" : "Weezer",
+         "sortName" : "Weezer",
+         "disambiguation" : "American rock band",
+         "url" : "https://www.setlist.fm/setlists/weezer-33d6a4f9.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "Indie Rock Road Trip"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Africa",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "aab5c954-cabe-432e-899e-1c4f99757327",
+                  "name" : "Toto",
+                  "sortName" : "Toto",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/toto-bd6b5f6.html"
+               }
+            }, {
+               "name" : "My Name Is Jonas"
+            }, {
+               "name" : "Beverly Hills",
+               "info" : "Rivers substituted Beverly Hills with Forest Hills in a few lines"
+            }, {
+               "name" : "Return to Ithaka"
+            }, {
+               "name" : "The Good Life"
+            }, {
+               "name" : "Pork and Beans",
+               "info" : "with “1 More Hit” intro"
+            }, {
+               "name" : "Pink Triangle"
+            }, {
+               "name" : "El Scorcho",
+               "with" : {
+                  "mbid" : "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+                  "name" : "Snail Mail",
+                  "sortName" : "Snail Mail",
+                  "disambiguation" : "US indie rock solo project by Lindsey Erin Jordan",
+                  "url" : "https://www.setlist.fm/setlists/snail-mail-73c34a49.html"
+               }
+            }, {
+               "name" : "I Just Threw Out the Love of My Dreams",
+               "with" : {
+                  "mbid" : "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+                  "name" : "Snail Mail",
+                  "sortName" : "Snail Mail",
+                  "disambiguation" : "US indie rock solo project by Lindsey Erin Jordan",
+                  "url" : "https://www.setlist.fm/setlists/snail-mail-73c34a49.html"
+               }
+            }, {
+               "name" : "Blast Off!",
+               "cover" : {
+                  "mbid" : "87b6344f-c874-49ce-a8b3-e467ed6e05d0",
+                  "name" : "Rivers Cuomo",
+                  "sortName" : "Cuomo, Rivers",
+                  "disambiguation" : "US singer, guitarist & songwriter of Weezer",
+                  "url" : "https://www.setlist.fm/setlists/rivers-cuomo-43d66fb3.html"
+               }
+            }, {
+               "name" : "Undone - The Sweater Song"
+            }, {
+               "name" : "Falling for You",
+               "info" : "Tour debut; Rivers solo acoustic"
+            }, {
+               "name" : "Susanne",
+               "info" : "Acoustic; Rivers, Brian, and Scott all sang into the same microphone"
+            }, {
+               "name" : "Only in Dreams",
+               "info" : "Acoustic into full band"
+            }, {
+               "name" : "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)"
+            }, {
+               "name" : "Island in the Sun"
+            }, {
+               "name" : "Perfect Situation",
+               "info" : "Rivers on piano"
+            }, {
+               "name" : "All My Favorite Songs",
+               "info" : "Rivers on piano; Brian sang additional verse from the AJR remix"
+            }, {
+               "name" : "Say It Ain't So"
+            }, {
+               "name" : "Run, Raven, Run",
+               "info" : "Solo section only"
+            }, {
+               "name" : "Hash Pipe"
+            }, {
+               "name" : "Thank You and Good Night"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Waste Land"
+            }, {
+               "name" : "Surf Wax America"
+            }, {
+               "name" : "Buddy Holly"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/weezer/2023/forest-hills-stadium-queens-ny-2ba71006.html"
+   }, {
+      "id" : "23a710e3",
+      "versionId" : "g5b9fbfa0",
+      "eventDate" : "13-07-2023",
+      "lastUpdated" : "2023-07-14T02:48:26.516+0000",
+      "artist" : {
+         "mbid" : "945d3b69-27cd-45fa-b491-52553a63dead",
+         "name" : "Joyce Manor",
+         "sortName" : "Joyce Manor",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joyce-manor-6bd2e232.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Heart Tattoo"
+            }, {
+               "name" : "Beach Community"
+            }, {
+               "name" : "Gotta Let It Go"
+            }, {
+               "name" : "Ashtray Petting Zoo"
+            }, {
+               "name" : "Don't Try"
+            }, {
+               "name" : "Schley"
+            }, {
+               "name" : "Falling in Love Again"
+            }, {
+               "name" : "NBTSA"
+            }, {
+               "name" : "Big Lie"
+            }, {
+               "name" : "Victoria"
+            }, {
+               "name" : "Constant Headache"
+            }, {
+               "name" : "Christmas Card"
+            }, {
+               "name" : "Catalina Fight Song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joyce-manor/2023/forest-hills-stadium-queens-ny-23a710e3.html"
+   }, {
+      "id" : "6ba7227a",
+      "versionId" : "g239e34c7",
+      "eventDate" : "08-07-2023",
+      "lastUpdated" : "2023-07-09T18:28:41.858+0000",
+      "artist" : {
+         "mbid" : "aed038fc-d060-4f47-9956-6476d3adbc8b",
+         "name" : "NOTD",
+         "sortName" : "NOTD",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/notd-33cbd80d.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Wanna Know"
+            }, {
+               "name" : "So Close"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/notd/2023/forest-hills-stadium-queens-ny-6ba7227a.html"
+   }, {
+      "id" : "4ba72386",
+      "versionId" : "g5b12ef38",
+      "eventDate" : "08-07-2023",
+      "lastUpdated" : "2026-03-29T17:47:47.163+0000",
+      "artist" : {
+         "mbid" : "c394e9ff-888f-4c03-a494-147d5aa53ccb",
+         "name" : "Two Friends",
+         "sortName" : "Two Friends",
+         "disambiguation" : "DJ duo Matt Halper + Eli Sones",
+         "url" : "https://www.setlist.fm/setlists/two-friends-43d85f3b.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "If Only I",
+               "cover" : {
+                  "mbid" : "3d1f3ce4-2591-4f79-aa11-8621d4754090",
+                  "name" : "Loud Luxury, Two Friends & Bebe Rexha",
+                  "sortName" : "Loud Luxury, Two Friends & Rexha, Bebe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/loud-luxury-two-friends-and-bebe-rexha-3bf818f4.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/two-friends/2023/forest-hills-stadium-queens-ny-4ba72386.html"
+   }, {
+      "id" : "63a736d7",
+      "versionId" : "g639eee57",
+      "eventDate" : "07-07-2023",
+      "lastUpdated" : "2023-07-07T23:57:06.908+0000",
+      "artist" : {
+         "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+         "name" : "Robert Stillman",
+         "sortName" : "Stillman, Robert",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/robert-stillman/2023/forest-hills-stadium-queens-ny-63a736d7.html"
+   }, {
+      "id" : "33a7d4f1",
+      "versionId" : "g4350cbbf",
+      "eventDate" : "07-07-2023",
+      "lastUpdated" : "2024-11-21T04:18:05.467+0000",
+      "artist" : {
+         "mbid" : "9055fca5-69bc-4d47-b569-ab2012a19565",
+         "name" : "The Smile",
+         "sortName" : "Smile, The",
+         "disambiguation" : "side group of Radiohead",
+         "url" : "https://www.setlist.fm/setlists/the-smile-43f21f13.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "A Light for Attracting Attention"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pana-Vision",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "Thin Thing"
+            }, {
+               "name" : "The Opposite"
+            }, {
+               "name" : "Speech Bubbles"
+            }, {
+               "name" : "A Hairdryer",
+               "info" : "improvised intro"
+            }, {
+               "name" : "Waving a White Flag"
+            }, {
+               "name" : "Under Our Pillows"
+            }, {
+               "name" : "We Don't Know What Tomorrow Brings"
+            }, {
+               "name" : "Colours Fly",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "Teleharmonic",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "Skrting on the Surface"
+            }, {
+               "name" : "The Same"
+            }, {
+               "name" : "Read the Room"
+            }, {
+               "name" : "The Smoke",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "You Will Never Work in Television Again",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Free in the Knowledge"
+            }, {
+               "name" : "Friend of a Friend",
+               "with" : {
+                  "mbid" : "40d5952b-4e63-48c2-b17d-2c9e90a09953",
+                  "name" : "Robert Stillman",
+                  "sortName" : "Stillman, Robert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-stillman-5bdee7f0.html"
+               }
+            }, {
+               "name" : "Bending Hectic"
+            }, {
+               "name" : "FeelingPulledApartByHorses",
+               "cover" : {
+                  "mbid" : "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+                  "name" : "Thom Yorke",
+                  "sortName" : "Yorke, Thom",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thom-yorke-2bd69012.html"
+               }
+            }, {
+               "name" : "Peace Piece",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
+                  "name" : "Bill Evans",
+                  "sortName" : "Evans, Bill",
+                  "disambiguation" : "pianist",
+                  "url" : "https://www.setlist.fm/setlists/bill-evans-3d6b55b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-smile/2023/forest-hills-stadium-queens-ny-33a7d4f1.html"
+   }, {
+      "id" : "ba661aa",
+      "versionId" : "gb905962",
+      "eventDate" : "24-06-2023",
+      "lastUpdated" : "2023-06-25T03:29:51.029+0000",
+      "artist" : {
+         "mbid" : "51e90731-08c0-4f60-89b6-5b78e5844de8",
+         "name" : "Zach Bryan",
+         "sortName" : "Bryan, Zach",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/zach-bryan-2bf2d0b6.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "The Burn, Burn, Burn Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Open the Gate"
+            }, {
+               "name" : "God Speed"
+            }, {
+               "name" : "Fifth of May"
+            }, {
+               "name" : "Highway Boys"
+            }, {
+               "name" : "Quittin' Time"
+            }, {
+               "name" : "Tishomingo"
+            }, {
+               "name" : "Dawns"
+            }, {
+               "name" : "Condemned"
+            }, {
+               "name" : "Sweet DeAnn"
+            }, {
+               "name" : "Sun to Me"
+            }, {
+               "name" : "Oklahoma Smokeshow"
+            }, {
+               "name" : "The Good I'll Do"
+            }, {
+               "name" : "Something in the Orange"
+            }, {
+               "name" : "Heavy Eyes"
+            }, {
+               "name" : "Snow"
+            }, {
+               "name" : "Deep Satin"
+            }, {
+               "name" : "Billy Stay"
+            }, {
+               "name" : "Heading South"
+            }, {
+               "name" : "Burn, Burn, Burn"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Revival"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zach-bryan/2023/forest-hills-stadium-queens-ny-ba661aa.html"
+   }, {
+      "id" : "13a661a9",
+      "versionId" : "g1b9035b0",
+      "eventDate" : "24-06-2023",
+      "lastUpdated" : "2023-06-22T02:05:49.015+0000",
+      "artist" : {
+         "mbid" : "082e1531-e8ff-43ef-8f1c-7c6600b0c00d",
+         "name" : "Charles Wesley Godwin",
+         "sortName" : "Godwin, Charles Wesley",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charles-wesley-godwin-7bf722b8.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charles-wesley-godwin/2023/forest-hills-stadium-queens-ny-13a661a9.html"
+   }, {
+      "id" : "3ba66c74",
+      "versionId" : "g539077bd",
+      "eventDate" : "23-06-2023",
+      "lastUpdated" : "2023-06-24T12:11:12.800+0000",
+      "artist" : {
+         "mbid" : "51e90731-08c0-4f60-89b6-5b78e5844de8",
+         "name" : "Zach Bryan",
+         "sortName" : "Bryan, Zach",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/zach-bryan-2bf2d0b6.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "tour" : {
+         "name" : "The Burn, Burn, Burn Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Open the Gate"
+            }, {
+               "name" : "God Speed"
+            }, {
+               "name" : "Fifth of May"
+            }, {
+               "name" : "Highway Boys"
+            }, {
+               "name" : "All the Time"
+            }, {
+               "name" : "Quittin' Time"
+            }, {
+               "name" : "Tishomingo"
+            }, {
+               "name" : "Dawns"
+            }, {
+               "name" : "Condemned"
+            }, {
+               "name" : "No Rest Til Brooklyn"
+            }, {
+               "name" : "Oklahoma Smokeshow"
+            }, {
+               "name" : "The Good I'll Do"
+            }, {
+               "name" : "Something in the Orange"
+            }, {
+               "name" : "Heavy Eyes"
+            }, {
+               "name" : "Snow"
+            }, {
+               "name" : "Heading South"
+            }, {
+               "name" : "Burn, Burn, Burn"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Revival"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zach-bryan/2023/forest-hills-stadium-queens-ny-3ba66c74.html"
+   }, {
+      "id" : "33a66c69",
+      "versionId" : "gb90d132",
+      "eventDate" : "23-06-2023",
+      "lastUpdated" : "2023-06-21T00:01:31.112+0000",
+      "artist" : {
+         "mbid" : "082e1531-e8ff-43ef-8f1c-7c6600b0c00d",
+         "name" : "Charles Wesley Godwin",
+         "sortName" : "Godwin, Charles Wesley",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charles-wesley-godwin-7bf722b8.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charles-wesley-godwin/2023/forest-hills-stadium-queens-ny-33a66c69.html"
+   }, {
+      "id" : "3ba61cf4",
+      "versionId" : "g4b901382",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-06-23T12:55:10.098+0000",
+      "artist" : {
+         "mbid" : "a298565e-d43e-46c4-b35c-bfe131258815",
+         "name" : "Fousheé",
+         "sortName" : "Fousheé",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/foushee-33f4349d.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "stupid bitch"
+            }, {
+               "name" : "deep end"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/foushee/2023/forest-hills-stadium-queens-ny-3ba61cf4.html"
+   }, {
+      "id" : "3ba61cf0",
+      "versionId" : "g4b9b972e",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-08-19T09:33:12.681+0000",
+      "artist" : {
+         "mbid" : "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+         "name" : "James Blake",
+         "sortName" : "Blake, James",
+         "disambiguation" : "English singer and producer",
+         "url" : "https://www.setlist.fm/setlists/james-blake-33d5c461.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Limit to Your Love",
+               "cover" : {
+                  "mbid" : "a670e05a-cea8-4b37-bce9-d82daf1a0fa4",
+                  "name" : "Feist",
+                  "sortName" : "Feist",
+                  "disambiguation" : "Leslie Feist – American‐Canadian indie pop singer / of Broken Social Scene",
+                  "url" : "https://www.setlist.fm/setlists/feist-2bd6a496.html"
+               }
+            }, {
+               "name" : "CMYK"
+            }, {
+               "name" : "A Case of You",
+               "cover" : {
+                  "mbid" : "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+                  "name" : "Joni Mitchell",
+                  "sortName" : "Mitchell, Joni",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joni-mitchell-33d6a4b1.html"
+               }
+            }, {
+               "name" : "Life Round Here"
+            }, {
+               "name" : "Say What You Will"
+            }, {
+               "name" : "Mile High"
+            }, {
+               "name" : "Can't Believe the Way We Flow"
+            }, {
+               "name" : "Hummingbird",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               }
+            }, {
+               "name" : "Voyeur"
+            }, {
+               "name" : "Life Round Here / Choose Me / Coming Back"
+            }, {
+               "name" : "Godspeed",
+               "cover" : {
+                  "mbid" : "e520459c-dff4-491d-a6e4-c97be35e0044",
+                  "name" : "Frank Ocean",
+                  "sortName" : "Ocean, Frank",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/frank-ocean-23d268fb.html"
+               }
+            }, {
+               "name" : "Retrograde"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/james-blake/2023/forest-hills-stadium-queens-ny-3ba61cf0.html"
+   }, {
+      "id" : "33a61cf5",
+      "versionId" : "g7346cad1",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2025-02-15T15:34:35.835+0000",
+      "artist" : {
+         "mbid" : "3a6d6481-142d-423f-91d4-55bbfff318ed",
+         "name" : "Toro y Moi",
+         "sortName" : "Toro y Moi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/toro-y-moi-4bd5a7e2.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mirage"
+            }, {
+               "name" : "9-19-17_B_Blackhole_Hifi_V3"
+            }, {
+               "name" : "The Loop"
+            }, {
+               "name" : "Magazine"
+            }, {
+               "name" : "Rose Quartz"
+            }, {
+               "name" : "So Many Details"
+            }, {
+               "name" : "Goes By So Fast"
+            }, {
+               "name" : "Ordinary Pleasure"
+            }, {
+               "name" : "Laws of the Universe"
+            }, {
+               "name" : "Freelance"
+            }, {
+               "name" : "Who I Am"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/toro-y-moi/2023/forest-hills-stadium-queens-ny-33a61cf5.html"
+   }, {
+      "id" : "33a61cf1",
+      "versionId" : "g3a58127",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2024-07-03T04:24:30.825+0000",
+      "artist" : {
+         "mbid" : "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+         "name" : "Steve Lacy",
+         "sortName" : "Lacy, Steve",
+         "disambiguation" : "guitarist and back‐up vocalist with The Internet; born 1998",
+         "url" : "https://www.setlist.fm/setlists/steve-lacy-7bce2a3c.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cody Freestyle"
+            }, {
+               "name" : "Helmet"
+            }, {
+               "name" : "Buttons"
+            }, {
+               "name" : "N Side"
+            }, {
+               "name" : "Mercury"
+            }, {
+               "name" : "Lay Me Down"
+            }, {
+               "name" : "Ryd"
+            }, {
+               "name" : "Give You the World"
+            }, {
+               "name" : "Playground"
+            }, {
+               "name" : "Hate CD"
+            }, {
+               "name" : "Infrunami"
+            }, {
+               "name" : "Some"
+            }, {
+               "name" : "Amber"
+            }, {
+               "name" : "4real"
+            }, {
+               "name" : "Love 2 Fast"
+            }, {
+               "name" : "C U Girl"
+            }, {
+               "name" : "Sunshine",
+               "with" : {
+                  "mbid" : "a298565e-d43e-46c4-b35c-bfe131258815",
+                  "name" : "Fousheé",
+                  "sortName" : "Fousheé",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/foushee-33f4349d.html"
+               }
+            }, {
+               "name" : "Static"
+            }, {
+               "name" : "Bad Habit"
+            }, {
+               "name" : "Dark Red"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/steve-lacy/2023/forest-hills-stadium-queens-ny-33a61cf1.html"
+   }, {
+      "id" : "5ba62f00",
+      "versionId" : "g339090dd",
+      "eventDate" : "17-06-2023",
+      "lastUpdated" : "2023-06-18T23:11:20.201+0000",
+      "artist" : {
+         "mbid" : "cceea21d-f3ec-4586-be7a-d2e939c15c78",
+         "name" : "Dijon",
+         "sortName" : "Dijon",
+         "disambiguation" : "R&B singer",
+         "url" : "https://www.setlist.fm/setlists/dijon-73f5ba3d.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Big Mike’s"
+            }, {
+               "name" : "coogie"
+            }, {
+               "name" : "rock n roll"
+            }, {
+               "name" : "The Dress"
+            }, {
+               "name" : "Many Times"
+            }, {
+               "name" : "Did You See It?",
+               "info" : "Extended"
+            }, {
+               "name" : "Talk Down"
+            }, {
+               "name" : "Rodeo Clown"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dijon/2023/forest-hills-stadium-queens-ny-5ba62f00.html"
+   }, {
+      "id" : "53a62f05",
+      "versionId" : "g4390bfbb",
+      "eventDate" : "17-06-2023",
+      "lastUpdated" : "2023-06-17T20:55:42.855+0000",
+      "artist" : {
+         "mbid" : "9e1ea361-c2cc-45a4-a926-00518453efc0",
+         "name" : "Bartees Strange",
+         "sortName" : "Strange, Bartees",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bartees-strange-6bf4ca8a.html"
+      },
+      "venue" : {
+         "id" : "1bd26dfc",
+         "name" : "Forest Hills Stadium",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ghostly"
+            }, {
+               "name" : "Far"
+            }, {
+               "name" : "Mustang"
+            }, {
+               "name" : "Mulholland Dr."
+            }, {
+               "name" : "Wretched"
+            }, {
+               "name" : "Flagey God"
+            }, {
+               "name" : "Cosigns"
+            }, {
+               "name" : "About Today",
+               "cover" : {
+                  "mbid" : "664c3e0e-42d8-48c1-b209-1efca19c0325",
+                  "name" : "The National",
+                  "sortName" : "National, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-national-53d69b79.html"
+               }
+            }, {
+               "name" : "Heavy Heart"
+            }, {
+               "name" : "Boomer"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bartees-strange/2023/forest-hills-stadium-queens-ny-53a62f05.html"
+   } ]
+}

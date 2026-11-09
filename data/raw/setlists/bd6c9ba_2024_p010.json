@@ -1,0 +1,89 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 10,
+   "total" : 181,
+   "setlist" : [ {
+      "id" : "5baf37b4",
+      "versionId" : "gb88b5be",
+      "eventDate" : "06-01-2024",
+      "lastUpdated" : "2024-01-07T07:10:11.127+0000",
+      "artist" : {
+         "mbid" : "0d9b88f3-054a-4f53-b447-2f3f503c8290",
+         "name" : "Googoosh",
+         "sortName" : "Googoosh",
+         "disambiguation" : "Iranian singer",
+         "url" : "https://www.setlist.fm/setlists/googoosh-43d7af93.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Final Chapter The World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Talagh"
+            }, {
+               "name" : "Pol"
+            }, {
+               "name" : "Hamsafar"
+            }, {
+               "name" : "Parandeh"
+            }, {
+               "name" : "Kooh"
+            }, {
+               "name" : "Porsesh"
+            }, {
+               "name" : "Manoto"
+            }, {
+               "name" : "Hala Bavar Bekonam / Gol Bi Goldoun"
+            }, {
+               "name" : "Jaddeh"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Bemoon ta Bemoonam"
+            }, {
+               "name" : "Do Panjereh / Mano Gonjishkaye Khooneh"
+            }, {
+               "name" : "Harf / Hejrat"
+            }, {
+               "name" : "Mah Pishooni"
+            }, {
+               "name" : "Marham"
+            }, {
+               "name" : "I Love You / I Believe in Love"
+            }, {
+               "name" : "Bavar Kon / Mordab / Shabe Shishei / Gharibe Ashena"
+            }, {
+               "name" : "Zartosht"
+            }, {
+               "name" : "Makhlough"
+            }, {
+               "name" : "Kavir"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/googoosh/2024/beacon-theatre-new-york-ny-5baf37b4.html"
+   } ]
+}

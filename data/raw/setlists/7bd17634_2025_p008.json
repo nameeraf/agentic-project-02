@@ -1,0 +1,1279 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 310,
+   "setlist" : [ {
+      "id" : "b43416e",
+      "versionId" : "g737d1e65",
+      "eventDate" : "10-09-2025",
+      "lastUpdated" : "2025-09-11T00:34:34.771+0000",
+      "artist" : {
+         "mbid" : "bac1595c-b5ae-4a4d-8956-7ee261fe7ebb",
+         "name" : "Anaka",
+         "sortName" : "Anaka",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/anaka-5bd2f7fc.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dead Of Autumn"
+            }, {
+               "name" : "Blood Of Leviathan"
+            }, {
+               "name" : "Into Daylight"
+            }, {
+               "name" : "Erase"
+            }, {
+               "name" : "The Unwavering"
+            }, {
+               "name" : "Doomsday Divide"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/anaka/2025/brooklyn-paramount-brooklyn-ny-b43416e.html"
+   }, {
+      "id" : "7b5b7a34",
+      "versionId" : "g637d0a47",
+      "eventDate" : "10-09-2025",
+      "lastUpdated" : "2025-09-11T19:23:41.426+0000",
+      "artist" : {
+         "mbid" : "50698127-f6f4-4c0c-8010-db98c21100e1",
+         "name" : "Bruce Dickinson",
+         "sortName" : "Dickinson, Bruce",
+         "disambiguation" : "Iron Maiden vocalist",
+         "url" : "https://www.setlist.fm/setlists/bruce-dickinson-63d6ba03.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The Mandrake Project"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Toltec 7 Arrival",
+               "tape" : true
+            }, {
+               "name" : "Accident of Birth"
+            }, {
+               "name" : "Abduction"
+            }, {
+               "name" : "Laughing in the Hiding Bush"
+            }, {
+               "name" : "Shadow of the Gods"
+            }, {
+               "name" : "Chemical Wedding"
+            }, {
+               "name" : "Flash of the Blade",
+               "cover" : {
+                  "mbid" : "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name" : "Iron Maiden",
+                  "sortName" : "Iron Maiden",
+                  "disambiguation" : "English heavy metal band",
+                  "url" : "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+               },
+               "info" : "w/ a capella \"Revelations\" intro"
+            }, {
+               "name" : "Resurrection Men"
+            }, {
+               "name" : "Rain on the Graves"
+            }, {
+               "name" : "Frankenstein",
+               "cover" : {
+                  "mbid" : "d1c7bef2-12cb-4fe8-b9bc-3b58e3ac0c5c",
+                  "name" : "The Edgar Winter Group",
+                  "sortName" : "Winter, Edgar, Group, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-edgar-winter-group-53d6bb7d.html"
+               },
+               "info" : "w/ drum solo"
+            }, {
+               "name" : "The Alchemist"
+            }, {
+               "name" : "Book of Thel"
+            }, {
+               "name" : "Road to Hell",
+               "info" : "w/ band introductions"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Tears of the Dragon"
+            }, {
+               "name" : "Gods of War"
+            }, {
+               "name" : "The Tower"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bruce-dickinson/2025/brooklyn-paramount-brooklyn-ny-7b5b7a34.html"
+   }, {
+      "id" : "63419e53",
+      "versionId" : "gb00c1fa",
+      "eventDate" : "09-09-2025",
+      "lastUpdated" : "2026-08-12T01:19:54.982+0000",
+      "artist" : {
+         "mbid" : "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+         "name" : "OneRepublic",
+         "sortName" : "OneRepublic",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/onerepublic-33d6bc51.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/onerepublic/2025/brooklyn-paramount-brooklyn-ny-63419e53.html"
+   }, {
+      "id" : "4b46474e",
+      "versionId" : "g334dd489",
+      "eventDate" : "07-09-2025",
+      "lastUpdated" : "2025-05-09T14:52:54.231+0000",
+      "artist" : {
+         "mbid" : "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+         "name" : "Emilia",
+         "sortName" : "Emilia",
+         "disambiguation" : "Emilia Mernes, Argentinian singer",
+         "url" : "https://www.setlist.fm/setlists/emilia-3f191e3.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Emilia Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/emilia/2025/brooklyn-paramount-brooklyn-ny-4b46474e.html"
+   }, {
+      "id" : "3b461c18",
+      "versionId" : "g7b632a6c",
+      "eventDate" : "06-09-2025",
+      "lastUpdated" : "2025-11-25T12:11:04.647+0000",
+      "artist" : {
+         "mbid" : "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+         "name" : "Emilia",
+         "sortName" : "Emilia",
+         "disambiguation" : "Emilia Mernes, Argentinian singer",
+         "url" : "https://www.setlist.fm/setlists/emilia-3f191e3.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Emilia Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Exclusive.mp3",
+               "info" : "Intro"
+            }, {
+               "name" : "Facts.mp3"
+            }, {
+               "name" : "Cuatro veinte"
+            }, {
+               "name" : "Jagger.mp3"
+            }, {
+               "name" : "JET_Set.mp3"
+            }, {
+               "name" : "Ojitos_verdes.mp3"
+            }, {
+               "name" : "IConic.mp3"
+            }, {
+               "name" : "Mi otra mitad"
+            }, {
+               "name" : "Interlude",
+               "tape" : true
+            }, {
+               "name" : "La balada"
+            }, {
+               "name" : "Guerrero.mp3"
+            }, {
+               "name" : "A_1000_Km.mp3"
+            }, {
+               "name" : "Rápido lento"
+            }, {
+               "name" : "Interlude",
+               "tape" : true
+            }, {
+               "name" : "Perdonarte ¿para qué?",
+               "cover" : {
+                  "mbid" : "dcb5e5c6-5f21-4266-b5b6-556f54a6b6b5",
+                  "name" : "Los Ángeles Azules",
+                  "sortName" : "Ángeles Azules, Los",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/los-angeles-azules-43d77b5f.html"
+               }
+            }, {
+               "name" : "Motinha 2.0 (Mete marcha)",
+               "cover" : {
+                  "mbid" : "a3beda81-3777-4520-aa8f-196684ce16ce",
+                  "name" : "DENNIS & Luísa Sonza",
+                  "sortName" : "DENNIS & Luísa Sonza",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dennis-and-luisa-sonza-1b9675e0.html"
+               }
+            }, {
+               "name" : "Alegría",
+               "cover" : {
+                  "mbid" : "5013fedb-a4aa-4467-b60e-374d704e5337",
+                  "name" : "Tiago PZK",
+                  "sortName" : "Tiago PZK",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tiago-pzk-3bf00440.html"
+               }
+            }, {
+               "name" : "Interlude",
+               "tape" : true
+            }, {
+               "name" : "Bunda"
+            }, {
+               "name" : "Blackout"
+            }, {
+               "name" : "Pasarella"
+            }, {
+               "name" : "Beautiful"
+            }, {
+               "name" : "Servidora"
+            }, {
+               "name" : "Perfectas"
+            }, {
+               "name" : "Genio atrapado",
+               "cover" : {
+                  "mbid" : "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
+                  "name" : "Christina Aguilera",
+                  "sortName" : "Aguilera, Christina",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/christina-aguilera-2bd6ecbe.html"
+               }
+            }, {
+               "name" : "La_original.mp3"
+            }, {
+               "name" : "GTA.mp3"
+            }, {
+               "name" : "No_se_ve.mp3"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/emilia/2025/brooklyn-paramount-brooklyn-ny-3b461c18.html"
+   }, {
+      "id" : "3459937",
+      "versionId" : "g7b6f822c",
+      "eventDate" : "05-09-2025",
+      "lastUpdated" : "2025-12-25T08:20:02.505+0000",
+      "artist" : {
+         "mbid" : "6b49dc39-cb6f-465f-980b-bc17a271da34",
+         "name" : "Kruder & Dorfmeister",
+         "sortName" : "Kruder & Dorfmeister",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kruder-and-dorfmeister-4bd6ab76.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The K&D Sessions Live 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Boogie Woogie"
+            }, {
+               "name" : "Heroes",
+               "cover" : {
+                  "mbid" : "45e00f0f-f52b-4db8-a480-cf87b71c4800",
+                  "name" : "Roni Size / Reprazent",
+                  "sortName" : "Roni Size / Reprazent",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/roni-size-reprazent-3d6f1df.html"
+               }
+            }, {
+               "name" : "Gotta Jazz",
+               "cover" : {
+                  "mbid" : "152cfd61-07f8-4559-a64c-a93201a91418",
+                  "name" : "Count Basic",
+                  "sortName" : "Count Basic",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/count-basic-5bd6ab40.html"
+               }
+            }, {
+               "name" : "Trans Fatty Acid",
+               "cover" : {
+                  "mbid" : "0d4bc6e5-2a3e-4fdf-8bbf-59ad0bc374d7",
+                  "name" : "Lamb",
+                  "sortName" : "Lamb",
+                  "disambiguation" : "English electronic music duo from Manchester",
+                  "url" : "https://www.setlist.fm/setlists/lamb-3bd6b090.html"
+               }
+            }, {
+               "name" : "Sofa Rockers"
+            }, {
+               "name" : "Rollin' on Chrome",
+               "cover" : {
+                  "mbid" : "2b7278c0-b48d-47ff-9a74-84b8b7dcb10e",
+                  "name" : "Aphrodelics",
+                  "sortName" : "Aphrodelics",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aphrodelics-7bd66ac8.html"
+               }
+            }, {
+               "name" : "Going Under (Evil Love Insanity Dub)",
+               "info" : "Snippet"
+            }, {
+               "name" : "Going Under",
+               "cover" : {
+                  "mbid" : "84fa3311-9037-47a5-aaf8-1ad073eb771e",
+                  "name" : "Rockers Hi‐Fi",
+                  "sortName" : "Rockers Hi‐Fi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rockers-hifi-43d6abe7.html"
+               }
+            }, {
+               "name" : "Jazz Master",
+               "cover" : {
+                  "mbid" : "1c8e46d4-9343-48ce-aed8-0862e03878fd",
+                  "name" : "Alex Reece",
+                  "sortName" : "Reece, Alex",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alex-reece-bd69102.html"
+               }
+            }, {
+               "name" : "Million Town",
+               "cover" : {
+                  "mbid" : "d3cab82c-2fd7-49d5-89f0-f87f3436d0f4",
+                  "name" : "Strange Cargo",
+                  "sortName" : "Strange Cargo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/strange-cargo-6bd67a0e.html"
+               }
+            }, {
+               "name" : "Gone",
+               "cover" : {
+                  "mbid" : "a53f5eed-f9f1-4cf1-9994-4c9374904790",
+                  "name" : "David Holmes",
+                  "sortName" : "Holmes, David",
+                  "disambiguation" : "Northern Irish musician and score composer",
+                  "url" : "https://www.setlist.fm/setlists/david-holmes-bd62176.html"
+               }
+            }, {
+               "name" : "Bug Powder Dust (feat. Justin Warfield)",
+               "cover" : {
+                  "mbid" : "b2a28d4a-5f5d-49f6-b944-9f5a4bffc4d9",
+                  "name" : "Bomb the Bass",
+                  "sortName" : "Bomb the Bass",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bomb-the-bass-4bd6abe6.html"
+               }
+            }, {
+               "name" : "Bug Powder Dust (Dub)"
+            }, {
+               "name" : "Donaueschingen",
+               "cover" : {
+                  "mbid" : "b2cfebaa-0e1a-423f-b0c2-4b2ce65c6523",
+                  "name" : "Trüby Trio",
+                  "sortName" : "Trüby Trio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/truby-trio-4bd6ab42.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Useless",
+               "cover" : {
+                  "mbid" : "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+                  "name" : "Depeche Mode",
+                  "sortName" : "Depeche Mode",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/depeche-mode-73d6b235.html"
+               }
+            }, {
+               "name" : "Speechless",
+               "cover" : {
+                  "mbid" : "152cfd61-07f8-4559-a64c-a93201a91418",
+                  "name" : "Count Basic",
+                  "sortName" : "Count Basic",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/count-basic-5bd6ab40.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kruder-and-dorfmeister/2025/brooklyn-paramount-brooklyn-ny-3459937.html"
+   }, {
+      "id" : "3b40cca4",
+      "versionId" : "g1b7c05e0",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-09-02T20:22:47.779+0000",
+      "artist" : {
+         "mbid" : "93cc7819-0775-470d-99f8-5849e062a8d3",
+         "name" : "DJ WILLY WOW!",
+         "sortName" : "DJ WILLY WOW!",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-willy-wow-2be6242e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-willy-wow/2025/brooklyn-paramount-brooklyn-ny-3b40cca4.html"
+   }, {
+      "id" : "3b40cca0",
+      "versionId" : "g37c05eb",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-09-02T20:21:44.449+0000",
+      "artist" : {
+         "mbid" : "93cc7819-0775-470d-99f8-5849e062a8d3",
+         "name" : "DJ WILLY WOW!",
+         "sortName" : "DJ WILLY WOW!",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-willy-wow-2be6242e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-willy-wow/2025/brooklyn-paramount-brooklyn-ny-3b40cca0.html"
+   }, {
+      "id" : "3b40cc98",
+      "versionId" : "g37c05db",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-09-02T20:23:35.504+0000",
+      "artist" : {
+         "mbid" : "5e1b0369-a325-4499-8f6c-5654aae298eb",
+         "name" : "Gracie’s Corner",
+         "sortName" : "Gracie’s Corner",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gracies-corner-33fc8829.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gracies-corner/2025/brooklyn-paramount-brooklyn-ny-3b40cc98.html"
+   }, {
+      "id" : "3340cc9d",
+      "versionId" : "g137c05dd",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-09-02T20:24:24.908+0000",
+      "artist" : {
+         "mbid" : "5e1b0369-a325-4499-8f6c-5654aae298eb",
+         "name" : "Gracie’s Corner",
+         "sortName" : "Gracie’s Corner",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gracies-corner-33fc8829.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gracies-corner/2025/brooklyn-paramount-brooklyn-ny-3340cc9d.html"
+   }, {
+      "id" : "6b40f6c2",
+      "versionId" : "g337cf079",
+      "eventDate" : "29-08-2025",
+      "lastUpdated" : "2025-08-30T02:51:26.919+0000",
+      "artist" : {
+         "mbid" : "029eb615-539f-4f5c-ba0b-ead92f92242c",
+         "name" : "Rick Farin",
+         "sortName" : "Farin, Rick",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rick-farin-bf97102.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rick-farin/2025/brooklyn-paramount-brooklyn-ny-6b40f6c2.html"
+   }, {
+      "id" : "6340f6c3",
+      "versionId" : "g237cf07b",
+      "eventDate" : "29-08-2025",
+      "lastUpdated" : "2025-08-30T02:51:14.441+0000",
+      "artist" : {
+         "mbid" : "b12ef43e-72ad-43d0-b216-a8cd32f78852",
+         "name" : "A. G. Cook",
+         "sortName" : "Cook, A. G.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/a-g-cook-53d8bfc5.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/a-g-cook/2025/brooklyn-paramount-brooklyn-ny-6340f6c3.html"
+   }, {
+      "id" : "6b40a6de",
+      "versionId" : "g4b7f4be6",
+      "eventDate" : "26-08-2025",
+      "lastUpdated" : "2025-08-27T05:03:43.914+0000",
+      "artist" : {
+         "mbid" : "007188c6-2cd6-4060-9629-151433847ddf",
+         "name" : "Jessie Murph",
+         "sortName" : "Murph, Jessie",
+         "disambiguation" : "Nashville singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/jessie-murph-3f04527.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "WORLDWIDE HYSTERIA TOUR"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true
+            }, {
+               "name" : "Gucci Mane",
+               "info" : "Containing elements of ‘Lemonade’ by Gucci Mane"
+            }, {
+               "name" : "1965"
+            }, {
+               "name" : "Touch Me Like a Gangster"
+            }, {
+               "name" : "While You're at It / Drunk in the Bathtub"
+            }, {
+               "name" : "A Little Too Drunk",
+               "info" : "Containing elements of ‘Kiss It Better’ by Rihanna"
+            }, {
+               "name" : "I Like How I Look"
+            }, {
+               "name" : "Sex Hysteria"
+            }, {
+               "name" : "Bad as the Rest"
+            }, {
+               "name" : "Sip"
+            }, {
+               "name" : "Heroin"
+            }, {
+               "name" : "It Ain't Right"
+            }, {
+               "name" : "Dirty",
+               "info" : "Shortened"
+            }, {
+               "name" : "Ain’t but a Thing"
+            }, {
+               "name" : "How Could You"
+            }, {
+               "name" : "I Hope It Hurts"
+            }, {
+               "name" : "Son of a Bitch"
+            }, {
+               "name" : "The Man That Came Back"
+            }, {
+               "name" : "If I Died Last Night",
+               "info" : "Acoustic; brought fan onstage to duet"
+            }, {
+               "name" : "Cold / Cowboys and Angels / Wild Ones"
+            }, {
+               "name" : "Best Behavior"
+            }, {
+               "name" : "Donuts",
+               "info" : "Containing elements of ‘NOKIA’ by Drake"
+            }, {
+               "name" : "Couldn’t Be Worse"
+            }, {
+               "name" : "Ur Bill Is Big as Fuck"
+            }, {
+               "name" : "Blue Strips"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/jessie-murph/2025/brooklyn-paramount-brooklyn-ny-6b40a6de.html"
+   }, {
+      "id" : "73597ef5",
+      "versionId" : "g1b782960",
+      "eventDate" : "22-08-2025",
+      "lastUpdated" : "2025-10-03T06:49:40.849+0000",
+      "artist" : {
+         "mbid" : "f0be891f-6114-448a-ac55-a11bb2961f78",
+         "name" : "The Struts",
+         "sortName" : "Struts, The",
+         "disambiguation" : "UK rock band",
+         "url" : "https://www.setlist.fm/setlists/the-struts-bdca536.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Everybody Wants 10 Year Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Primadonna Like Me"
+            }, {
+               "name" : "Body Talks"
+            } ]
+         }, {
+            "name" : "Everybody Wants (Album)",
+            "song" : [ {
+               "name" : "Roll Up"
+            }, {
+               "name" : "Could Have Been Me"
+            }, {
+               "name" : "Kiss This"
+            }, {
+               "name" : "Put Your Money on Me"
+            }, {
+               "name" : "Mary Go Round"
+            }, {
+               "name" : "Dirty Sexy Money"
+            }, {
+               "name" : "The Ol' Switcheroo"
+            }, {
+               "name" : "She Makes Me Feel"
+            }, {
+               "name" : "Young Stars"
+            }, {
+               "name" : "Black Swan"
+            }, {
+               "name" : "These Times Are Changing"
+            }, {
+               "name" : "Only Just a Call Away"
+            }, {
+               "name" : "Where Did She Go"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "One Night Only"
+            }, {
+               "name" : "Pretty Vicious"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-struts/2025/brooklyn-paramount-brooklyn-ny-73597ef5.html"
+   }, {
+      "id" : "53595b09",
+      "versionId" : "g637fd657",
+      "eventDate" : "22-08-2025",
+      "lastUpdated" : "2025-08-23T04:02:38.844+0000",
+      "artist" : {
+         "mbid" : "de7ecc1f-487c-4ef9-8a0c-c18146c309c4",
+         "name" : "Dirty Honey",
+         "sortName" : "Dirty Honey",
+         "disambiguation" : "Los Angeles blues/hard rock band",
+         "url" : "https://www.setlist.fm/setlists/dirty-honey-63f61a87.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gypsy"
+            }, {
+               "name" : "California Dreamin'"
+            }, {
+               "name" : "Heartbreaker"
+            }, {
+               "name" : "Too Good at Being Bad"
+            }, {
+               "name" : "Another Last Time"
+            }, {
+               "name" : "The Wire"
+            }, {
+               "name" : "Don't Put Out the Fire"
+            }, {
+               "name" : "Guitar Solo"
+            }, {
+               "name" : "When I'm Gone"
+            }, {
+               "name" : "Won't Take Me Alive"
+            }, {
+               "name" : "Rolling 7s"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dirty-honey/2025/brooklyn-paramount-brooklyn-ny-53595b09.html"
+   }, {
+      "id" : "1340c9ad",
+      "versionId" : "g6b16a2ae",
+      "eventDate" : "16-08-2025",
+      "lastUpdated" : "2026-02-25T16:31:44.971+0000",
+      "artist" : {
+         "mbid" : "64b85e52-08db-4995-a6e3-d2a6acc5a058",
+         "name" : "Jesse & Joy",
+         "sortName" : "Jesse & Joy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jesse-and-joy-53d60311.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "El despecho"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jesse-and-joy/2025/brooklyn-paramount-brooklyn-ny-1340c9ad.html"
+   }, {
+      "id" : "63584657",
+      "versionId" : "g7b7e3270",
+      "eventDate" : "15-08-2025",
+      "lastUpdated" : "2025-08-16T04:09:16.655+0000",
+      "artist" : {
+         "mbid" : "55c03773-59ea-4d4e-9057-87c2ecab005d",
+         "name" : "Hiatus Kaiyote",
+         "sortName" : "Hiatus Kaiyote",
+         "disambiguation" : "Australian neo‐soul group",
+         "url" : "https://www.setlist.fm/setlists/hiatus-kaiyote-1bde1d2c.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love Heart Cheat Code"
+            }, {
+               "name" : "Sphynx Gate"
+            }, {
+               "name" : "Get Sun"
+            }, {
+               "name" : "Jekyll",
+               "info" : "New funky version"
+            }, {
+               "name" : "Rose Water"
+            }, {
+               "name" : "Telescope"
+            }, {
+               "name" : "Make Friends"
+            }, {
+               "name" : "Longcat"
+            }, {
+               "name" : "Red Room"
+            }, {
+               "name" : "And We Go Gentle"
+            }, {
+               "name" : "By Fire"
+            }, {
+               "name" : "Sip Into Something Soft"
+            }, {
+               "name" : "All the Words We Don't Say"
+            }, {
+               "name" : "Only Time All the Time"
+            }, {
+               "name" : "Dimitri"
+            }, {
+               "name" : "Shaolin Monk Motherfunk"
+            }, {
+               "name" : "Ocelot"
+            }, {
+               "name" : "Cinnamon Temple"
+            }, {
+               "name" : "Sparkle Tape Break Up"
+            }, {
+               "name" : "Building a Ladder"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hiatus-kaiyote/2025/brooklyn-paramount-brooklyn-ny-63584657.html"
+   }, {
+      "id" : "7b5a5634",
+      "versionId" : "g37f19b7",
+      "eventDate" : "12-08-2025",
+      "lastUpdated" : "2025-08-24T18:36:05.439+0000",
+      "artist" : {
+         "mbid" : "7f5dde96-1573-4491-9673-f03fe7c5caaa",
+         "name" : "The American Analog Set",
+         "sortName" : "American Analog Set, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-american-analog-set-4bd69b6e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Weather Report"
+            }, {
+               "name" : "Million Young"
+            }, {
+               "name" : "Magnificent Seventies"
+            }, {
+               "name" : "Punk as Fuck"
+            }, {
+               "name" : "The Only One"
+            }, {
+               "name" : "The Hatist"
+            }, {
+               "name" : "Come Home Baby Julie, Come Home"
+            }, {
+               "name" : "I Must Soon Quit the Scene"
+            }, {
+               "name" : "On My Way"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-american-analog-set/2025/brooklyn-paramount-brooklyn-ny-7b5a5634.html"
+   }, {
+      "id" : "435a5f53",
+      "versionId" : "g537cdf19",
+      "eventDate" : "12-08-2025",
+      "lastUpdated" : "2025-08-30T20:51:36.249+0000",
+      "artist" : {
+         "mbid" : "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
+         "name" : "Death Cab for Cutie",
+         "sortName" : "Death Cab for Cutie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/death-cab-for-cutie-7bd6aea4.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Plans 20th Anniversary"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Plans",
+            "song" : [ {
+               "name" : "Marching Bands of Manhattan"
+            }, {
+               "name" : "Soul Meets Body"
+            }, {
+               "name" : "Summer Skin"
+            }, {
+               "name" : "Different Names for the Same Thing"
+            }, {
+               "name" : "I Will Follow You Into the Dark",
+               "info" : "With extra chorus sung by the audience"
+            }, {
+               "name" : "Your Heart Is an Empty Room"
+            }, {
+               "name" : "Someday You Will Be Loved"
+            }, {
+               "name" : "Crooked Teeth"
+            }, {
+               "name" : "What Sarah Said"
+            }, {
+               "name" : "Brothers on a Hotel Bed"
+            }, {
+               "name" : "Stable Song"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "I Will Possess Your Heart"
+            }, {
+               "name" : "Why You'd Want to Live Here"
+            }, {
+               "name" : "The Ghosts of Beverly Drive"
+            }, {
+               "name" : "Long Division",
+               "info" : "tour debut"
+            }, {
+               "name" : "Black Sun"
+            }, {
+               "name" : "You Are a Tourist"
+            }, {
+               "name" : "Cath..."
+            }, {
+               "name" : "Here to Forever"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Don't Know How I Survive",
+               "info" : "tour debut"
+            }, {
+               "name" : "Doors Unlocked and Open",
+               "info" : "tour debut"
+            }, {
+               "name" : "Bixby Canyon Bridge"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/death-cab-for-cutie/2025/brooklyn-paramount-brooklyn-ny-435a5f53.html"
+   }, {
+      "id" : "3b5a78d8",
+      "versionId" : "g37eb5cf",
+      "eventDate" : "10-08-2025",
+      "lastUpdated" : "2025-08-11T18:47:38.437+0000",
+      "artist" : {
+         "mbid" : "7f5dde96-1573-4491-9673-f03fe7c5caaa",
+         "name" : "The American Analog Set",
+         "sortName" : "American Analog Set, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-american-analog-set-4bd69b6e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Weather Report"
+            }, {
+               "name" : "Million Young"
+            }, {
+               "name" : "Magnificent Seventies"
+            }, {
+               "name" : "Punk as Fuck"
+            }, {
+               "name" : "The Only One"
+            }, {
+               "name" : "The Hatist",
+               "info" : "\"Big Breakfast\" written on setlist"
+            }, {
+               "name" : "Come Home Baby Julie, Come Home"
+            }, {
+               "name" : "I Must Soon Quit the Scene",
+               "info" : "\"Vibeline\" written on setlist"
+            }, {
+               "name" : "On My Way"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-american-analog-set/2025/brooklyn-paramount-brooklyn-ny-3b5a78d8.html"
+   } ]
+}

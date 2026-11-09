@@ -1,0 +1,1211 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 170,
+   "setlist" : [ {
+      "id" : "1b47f9cc",
+      "versionId" : "g437be77f",
+      "eventDate" : "23-09-2025",
+      "lastUpdated" : "2025-09-24T03:52:35.199+0000",
+      "artist" : {
+         "mbid" : "298f4089-1948-44b5-b5e8-d5381f42362f",
+         "name" : "X Ambassadors",
+         "sortName" : "X Ambassadors",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/x-ambassadors-bddcde2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "The VHS(X) North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jungle"
+            }, {
+               "name" : "Loveless"
+            }, {
+               "name" : "Hang On"
+            }, {
+               "name" : "Low Life"
+            }, {
+               "name" : "Fear"
+            }, {
+               "name" : "Nervous"
+            }, {
+               "name" : "Feather"
+            }, {
+               "name" : "Superpower"
+            }, {
+               "name" : "Naked"
+            }, {
+               "name" : "Gorgeous"
+            }, {
+               "name" : "Unsteady"
+            }, {
+               "name" : "Renegades"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Friend for Life"
+            }, {
+               "name" : "Follow the Sound of My Voice"
+            }, {
+               "name" : "HOLD YOU DOWN"
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: \"Free and Lonely (Acoustic Ver.)\" and \"Unsteady (Acoustic Ver.)\" with Sam only",
+      "url" : "https://www.setlist.fm/setlist/x-ambassadors/2025/brooklyn-steel-brooklyn-ny-1b47f9cc.html"
+   }, {
+      "id" : "5b44ef14",
+      "versionId" : "g6b4986b2",
+      "eventDate" : "12-09-2025",
+      "lastUpdated" : "2025-06-08T11:15:47.180+0000",
+      "artist" : {
+         "mbid" : "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef",
+         "name" : "Spacey Jane",
+         "sortName" : "Spacey Jane",
+         "disambiguation" : "Indie rock from Western Australia",
+         "url" : "https://www.setlist.fm/setlists/spacey-jane-3bca00d8.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "If That Makes Sense"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/spacey-jane/2025/brooklyn-steel-brooklyn-ny-5b44ef14.html"
+   }, {
+      "id" : "434e0b23",
+      "versionId" : "g3b67f4dc",
+      "eventDate" : "11-09-2025",
+      "lastUpdated" : "2025-10-24T01:12:50.449+0000",
+      "artist" : {
+         "mbid" : "9f495346-8e2f-47b3-a4d9-883ba4311d64",
+         "name" : "The Belair Lip Bombs",
+         "sortName" : "Belair Lip Bombs, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-belair-lip-bombs-3fb5d1b.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Back Of My Hand"
+            }, {
+               "name" : "Stay or Go"
+            }, {
+               "name" : "Gimme Gimme"
+            }, {
+               "name" : "Look the Part"
+            }, {
+               "name" : "Price of a Man"
+            }, {
+               "name" : "Hey You"
+            }, {
+               "name" : "Say My Name"
+            }, {
+               "name" : "Don't Let Them Tell You (It's Fair)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-belair-lip-bombs/2025/brooklyn-steel-brooklyn-ny-434e0b23.html"
+   }, {
+      "id" : "2b46744e",
+      "versionId" : "g3b7a6c90",
+      "eventDate" : "11-09-2025",
+      "lastUpdated" : "2025-09-20T01:18:45.910+0000",
+      "artist" : {
+         "mbid" : "496100ef-b264-4b7b-9d7c-bf90a2f9c9ef",
+         "name" : "Spacey Jane",
+         "sortName" : "Spacey Jane",
+         "disambiguation" : "Indie rock from Western Australia",
+         "url" : "https://www.setlist.fm/setlists/spacey-jane-3bca00d8.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "If That Makes Sense"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/spacey-jane/2025/brooklyn-steel-brooklyn-ny-2b46744e.html"
+   }, {
+      "id" : "3465dab",
+      "versionId" : "g6b7ae27a",
+      "eventDate" : "10-09-2025",
+      "lastUpdated" : "2025-09-16T22:40:32.550+0000",
+      "artist" : {
+         "mbid" : "a2accb58-6099-4cb5-a3c8-f6332f364db5",
+         "name" : "James",
+         "sortName" : "James",
+         "disambiguation" : "Manchester indie rock band",
+         "url" : "https://www.setlist.fm/setlists/james-43d6ab6f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "2025 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Attention"
+            }, {
+               "name" : "Dream Thrum"
+            }, {
+               "name" : "Say Something"
+            }, {
+               "name" : "Ring the Bells"
+            }, {
+               "name" : "Hymn From a Village"
+            }, {
+               "name" : "Everybody Knows"
+            }, {
+               "name" : "One of the Three"
+            }, {
+               "name" : "Five-O"
+            }, {
+               "name" : "Interrogation"
+            }, {
+               "name" : "Low Low Low"
+            }, {
+               "name" : "Getting Away With It (All Messed Up)"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Skindiving"
+            }, {
+               "name" : "Knuckle Too Far"
+            }, {
+               "name" : "Sound"
+            }, {
+               "name" : "Way Over Your Head"
+            }, {
+               "name" : "Stay"
+            }, {
+               "name" : "P.S."
+            }, {
+               "name" : "Lullaby"
+            }, {
+               "name" : "Tomorrow"
+            }, {
+               "name" : "Heads"
+            }, {
+               "name" : "Sometimes (Lester Piggott)"
+            }, {
+               "name" : "Laid"
+            }, {
+               "name" : "Out to Get You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/james/2025/brooklyn-steel-brooklyn-ny-3465dab.html"
+   }, {
+      "id" : "73403e49",
+      "versionId" : "g2b7c585e",
+      "eventDate" : "09-09-2025",
+      "lastUpdated" : "2025-09-04T14:18:21.929+0000",
+      "artist" : {
+         "mbid" : "717d466b-36b8-4a43-86e9-e8b8c4a658d7",
+         "name" : "SE SO NEON",
+         "sortName" : "SE SO NEON",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/se-so-neon-bcc55de.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "'NOW' North American Tour 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/se-so-neon/2025/brooklyn-steel-brooklyn-ny-73403e49.html"
+   }, {
+      "id" : "3b4710a4",
+      "versionId" : "gb4bddca",
+      "eventDate" : "30-08-2025",
+      "lastUpdated" : "2025-05-25T09:32:06.112+0000",
+      "artist" : {
+         "mbid" : "f9613bbd-3007-4c8d-84f3-6fb366d4e90d",
+         "name" : "Dystinct",
+         "sortName" : "Dystinct",
+         "disambiguation" : "Belgian rapper, singer, songwriter",
+         "url" : "https://www.setlist.fm/setlists/dystinct-6bf42276.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Bababa World Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dystinct/2025/brooklyn-steel-brooklyn-ny-3b4710a4.html"
+   }, {
+      "id" : "4b43d792",
+      "versionId" : "g3b715838",
+      "eventDate" : "20-08-2025",
+      "lastUpdated" : "2025-08-10T20:40:16.397+0000",
+      "artist" : {
+         "mbid" : "d8e07579-ff5a-41f2-b7a7-c71880b8287a",
+         "name" : "d4vd",
+         "sortName" : "davd",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/d4vd-43fc2b63.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Withered"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/d4vd/2025/brooklyn-steel-brooklyn-ny-4b43d792.html"
+   }, {
+      "id" : "3436dbf",
+      "versionId" : "gb7f91f6",
+      "eventDate" : "20-08-2025",
+      "lastUpdated" : "2025-08-21T03:03:42.356+0000",
+      "artist" : {
+         "mbid" : "f3141f03-a60c-4831-8486-1d0f883001db",
+         "name" : "LAUNDRY DAY",
+         "sortName" : "LAUNDRY DAY",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laundry-day-23f6d48f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "R U READY?",
+               "info" : ">"
+            }, {
+               "name" : "I KINDA LIKE THAT"
+            }, {
+               "name" : "SUPERMODEL",
+               "info" : ">"
+            }, {
+               "name" : "Damn Shame"
+            }, {
+               "name" : "Lavender"
+            }, {
+               "name" : "APEROL SPRITZ"
+            }, {
+               "name" : "Jane"
+            }, {
+               "name" : "FRIENDS",
+               "info" : ">"
+            }, {
+               "name" : "Why is Everyone a DJ?"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/laundry-day/2025/brooklyn-steel-brooklyn-ny-3436dbf.html"
+   }, {
+      "id" : "7b43da94",
+      "versionId" : "g1b7a95f4",
+      "eventDate" : "08-08-2025",
+      "lastUpdated" : "2025-09-15T01:23:28.684+0000",
+      "artist" : {
+         "mbid" : "e6424fa5-08d3-41c6-96f3-8549f733708c",
+         "name" : "Clipse",
+         "sortName" : "Clipse",
+         "disambiguation" : "American hip hop duo",
+         "url" : "https://www.setlist.fm/setlists/clipse-13d6f115.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Let God Sort Em Out"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Chains & Whips"
+            }, {
+               "name" : "P.O.V."
+            }, {
+               "name" : "Popular Demand (Popeyes)"
+            }, {
+               "name" : "What Happened to That Boy",
+               "cover" : {
+                  "mbid" : "dcf5807c-ef1f-4291-b452-6824080ecac4",
+                  "name" : "Birdman",
+                  "sortName" : "Birdman",
+                  "disambiguation" : "rapper Bryan Williams, aka Baby",
+                  "url" : "https://www.setlist.fm/setlists/birdman-6bd6b2ca.html"
+               }
+            }, {
+               "name" : "M.T.B.T.T.F."
+            }, {
+               "name" : "Inglorious Bastards"
+            }, {
+               "name" : "Momma I'm So Sorry"
+            }, {
+               "name" : "Keys Open Doors"
+            }, {
+               "name" : "Mr. Me Too"
+            }, {
+               "name" : "Grindin'"
+            }, {
+               "name" : "F.I.C.O."
+            }, {
+               "name" : "So Be It"
+            }, {
+               "name" : "Ace Trumpets"
+            }, {
+               "name" : "The Birds Don't Sing"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cot Damn"
+            }, {
+               "name" : "So Far Ahead"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/clipse/2025/brooklyn-steel-brooklyn-ny-7b43da94.html"
+   }, {
+      "id" : "3b43343c",
+      "versionId" : "g337e8809",
+      "eventDate" : "07-08-2025",
+      "lastUpdated" : "2025-08-13T07:06:14.562+0000",
+      "artist" : {
+         "mbid" : "1560749d-5531-409c-844e-9bb021bb2e62",
+         "name" : "sweet93",
+         "sortName" : "sweet93",
+         "disambiguation" : "US dream pop musician",
+         "url" : "https://www.setlist.fm/setlists/sweet93-3bf9dc98.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Stars Above"
+            }, {
+               "name" : "Free (Afternoon Idea)"
+            }, {
+               "name" : "I Do, On and On I Wait"
+            }, {
+               "name" : "Be My Best"
+            }, {
+               "name" : "Soft"
+            }, {
+               "name" : "what's true?"
+            }, {
+               "name" : "i wanna"
+            }, {
+               "name" : "You Decide"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sweet93/2025/brooklyn-steel-brooklyn-ny-3b43343c.html"
+   }, {
+      "id" : "33449805",
+      "versionId" : "g7371c2a5",
+      "eventDate" : "07-08-2025",
+      "lastUpdated" : "2025-08-08T08:19:54.001+0000",
+      "artist" : {
+         "mbid" : "ca1dcba2-792c-4550-abf2-7b45396e81ca",
+         "name" : "bôa",
+         "sortName" : "bôa",
+         "disambiguation" : "UK alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/boa-3d631cb.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Whiplash"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Deeply"
+            }, {
+               "name" : "Whiplash"
+            }, {
+               "name" : "For Jasmine"
+            }, {
+               "name" : "A Girl"
+            }, {
+               "name" : "Strange Few"
+            }, {
+               "name" : "Get There"
+            }, {
+               "name" : "Beautiful & Broken"
+            }, {
+               "name" : "Seafarer"
+            }, {
+               "name" : "Welcome"
+            }, {
+               "name" : "Frozen",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Drinking"
+            }, {
+               "name" : "Angry"
+            }, {
+               "name" : "Worry"
+            }, {
+               "name" : "Elephant"
+            }, {
+               "name" : "Fool"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Twilight"
+            }, {
+               "name" : "Walk With Me"
+            }, {
+               "name" : "Duvet"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/boa/2025/brooklyn-steel-brooklyn-ny-33449805.html"
+   }, {
+      "id" : "5343bfc1",
+      "versionId" : "g23700413",
+      "eventDate" : "01-08-2025",
+      "lastUpdated" : "2025-08-02T00:50:46.905+0000",
+      "artist" : {
+         "mbid" : "da943be1-5611-4bf9-ac4c-0eef1bc0c16b",
+         "name" : "MIKE",
+         "sortName" : "MIKE",
+         "disambiguation" : "New York rapper, founder of 10k",
+         "url" : "https://www.setlist.fm/setlists/mike-1bcce5d0.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mike/2025/brooklyn-steel-brooklyn-ny-5343bfc1.html"
+   }, {
+      "id" : "4b43bfc6",
+      "versionId" : "g2370040b",
+      "eventDate" : "01-08-2025",
+      "lastUpdated" : "2025-08-02T00:51:30.640+0000",
+      "artist" : {
+         "mbid" : "2650f0e7-3879-4b2c-8908-d025113cbece",
+         "name" : "Kokoroko",
+         "sortName" : "Kokoroko",
+         "disambiguation" : "UK jazz ensemble",
+         "url" : "https://www.setlist.fm/setlists/kokoroko-23cacc6f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kokoroko/2025/brooklyn-steel-brooklyn-ny-4b43bfc6.html"
+   }, {
+      "id" : "1b45999c",
+      "versionId" : "g23735cdb",
+      "eventDate" : "25-07-2025",
+      "lastUpdated" : "2025-07-26T18:34:53.925+0000",
+      "artist" : {
+         "mbid" : "b76a9ede-01a5-4d1f-a0a0-3450cf508d51",
+         "name" : "UAU",
+         "sortName" : "UAU",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/uau-4befcf12.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Playlist #You Are You"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Attitude"
+            }, {
+               "name" : "Better",
+               "cover" : {
+                  "mbid" : "a16d1433-ba89-4f72-a47b-a370add0bb55",
+                  "name" : "BoA",
+                  "sortName" : "BoA",
+                  "disambiguation" : "South Korean singer and actress",
+                  "url" : "https://www.setlist.fm/setlists/boa-1bd631d4.html"
+               }
+            }, {
+               "name" : "For",
+               "cover" : {
+                  "mbid" : "a97f393a-13a7-4645-8bba-f10bd22d7228",
+                  "name" : "DREAMCATCHER",
+                  "sortName" : "DREAMCATCHER",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/dreamcatcher-33ce945d.html"
+               },
+               "info" : "Yoohyeon solo"
+            }, {
+               "name" : "Cherry (Real Miracle)",
+               "cover" : {
+                  "mbid" : "a97f393a-13a7-4645-8bba-f10bd22d7228",
+                  "name" : "DREAMCATCHER",
+                  "sortName" : "DREAMCATCHER",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/dreamcatcher-33ce945d.html"
+               },
+               "info" : "JiU solo"
+            }, {
+               "name" : "No Dot",
+               "cover" : {
+                  "mbid" : "a97f393a-13a7-4645-8bba-f10bd22d7228",
+                  "name" : "DREAMCATCHER",
+                  "sortName" : "DREAMCATCHER",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/dreamcatcher-33ce945d.html"
+               },
+               "info" : "SuA solo"
+            }, {
+               "name" : "Sacrifice"
+            }, {
+               "name" : "2 Months"
+            }, {
+               "name" : "Taki Taki",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "31445b1e-96f3-4c7f-84ec-dd02e647e690",
+                  "name" : "DJ Snake",
+                  "sortName" : "Snake, DJ",
+                  "disambiguation" : "French EDM/trap producer William Grigahcine",
+                  "url" : "https://www.setlist.fm/setlists/dj-snake-5bdf8700.html"
+               },
+               "info" : "dance cover"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Good Luck"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/uau/2025/brooklyn-steel-brooklyn-ny-1b45999c.html"
+   }, {
+      "id" : "7b4286ac",
+      "versionId" : "g2b720492",
+      "eventDate" : "17-07-2025",
+      "lastUpdated" : "2025-07-18T03:20:46.792+0000",
+      "artist" : {
+         "mbid" : "24ca022c-653e-4379-812a-71f729b900ef",
+         "name" : "Shakey Graves",
+         "sortName" : "Shakey Graves",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/shakey-graves-13dccd21.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Only Son"
+            }, {
+               "name" : "Look Alive"
+            }, {
+               "name" : "Pansy Waltz"
+            }, {
+               "name" : "Hard Wired"
+            }, {
+               "name" : "Counting Sheep"
+            }, {
+               "name" : "House of Winston"
+            }, {
+               "name" : "Big in the World"
+            }, {
+               "name" : "The Perfect Parts"
+            }, {
+               "name" : "Family and Genus"
+            }, {
+               "name" : "Word of Mouth"
+            }, {
+               "name" : "If Not for You"
+            }, {
+               "name" : "Roll the Bones"
+            }, {
+               "name" : "Call It Heaven"
+            }, {
+               "name" : "Ready or Not"
+            }, {
+               "name" : "Dearly Departed"
+            }, {
+               "name" : "Late July",
+               "info" : "Encore"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/shakey-graves/2025/brooklyn-steel-brooklyn-ny-7b4286ac.html"
+   }, {
+      "id" : "73428665",
+      "versionId" : "g73720a85",
+      "eventDate" : "17-07-2025",
+      "lastUpdated" : "2025-07-18T02:30:24.679+0000",
+      "artist" : {
+         "mbid" : "545fce1f-f8d6-46e8-8e01-60a911216541",
+         "name" : "Hovvdy",
+         "sortName" : "Hovvdy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hovvdy-2bc128c6.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mr. Lee"
+            }, {
+               "name" : "Heartstring"
+            }, {
+               "name" : "Junior Day League"
+            }, {
+               "name" : "Sudbury"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Portrait"
+            }, {
+               "name" : "Lifted"
+            }, {
+               "name" : "Blindsided"
+            }, {
+               "name" : "Around Again"
+            }, {
+               "name" : "True Love"
+            }, {
+               "name" : "Jean"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hovvdy/2025/brooklyn-steel-brooklyn-ny-73428665.html"
+   }, {
+      "id" : "342ad2b",
+      "versionId" : "g4b7267b6",
+      "eventDate" : "15-07-2025",
+      "lastUpdated" : "2025-07-19T02:02:50.418+0000",
+      "artist" : {
+         "mbid" : "a8380316-a9a4-4fd9-936b-1ede4d60f178",
+         "name" : "John Harvie",
+         "sortName" : "Harvie, John",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/john-harvie-53f0c379.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "At My Worst"
+            }, {
+               "name" : "Roses"
+            }, {
+               "name" : "Lost Cause"
+            }, {
+               "name" : "Hackysack"
+            }, {
+               "name" : "Blurry",
+               "cover" : {
+                  "mbid" : "ff460a70-fdf4-4aa2-b021-8a04da76d88e",
+                  "name" : "Puddle of Mudd",
+                  "sortName" : "Puddle of Mudd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/puddle-of-mudd-33d6bcd5.html"
+               }
+            }, {
+               "name" : "Alaina"
+            }, {
+               "name" : "Paint the Wall",
+               "info" : "with snippet of “Buddy Holly” by Weezer [unreleased song]"
+            }, {
+               "name" : "Do Your Worst"
+            }, {
+               "name" : "Figure 8"
+            }, {
+               "name" : "Bleach (On the Rocks)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/john-harvie/2025/brooklyn-steel-brooklyn-ny-342ad2b.html"
+   }, {
+      "id" : "3342b4f1",
+      "versionId" : "g73193231",
+      "eventDate" : "15-07-2025",
+      "lastUpdated" : "2026-06-22T15:44:20.085+0000",
+      "artist" : {
+         "mbid" : "b09de30a-09ac-4cc9-8812-49bb12e2bfa6",
+         "name" : "Bilmuri",
+         "sortName" : "Bilmuri",
+         "disambiguation" : "US post-hardcore/pop-punk project",
+         "url" : "https://www.setlist.fm/setlists/bilmuri-5bf6235c.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Summer Slammer Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "EMPTYHANDED"
+            }, {
+               "name" : "ALL GAS"
+            }, {
+               "name" : "ABSOLUTELYCRANKINMYMF'INHOG"
+            }, {
+               "name" : "FLUORIDEINTHEHARDSELTZERWATER"
+            }, {
+               "name" : "ACOWBOYSHEAVYLOAD"
+            }, {
+               "name" : "BLINDSIDED"
+            }, {
+               "name" : "TOO LATE"
+            }, {
+               "name" : "80/20Skybeef"
+            }, {
+               "name" : "BOUTTA CASHEW"
+            }, {
+               "name" : "2016 CAVALIERS (Ohio)"
+            }, {
+               "name" : "LIVIN' LAUGHIN' LOVIN'"
+            }, {
+               "name" : "THE END",
+               "info" : "with Joey Burcham on mandolin"
+            }, {
+               "name" : "STRAIGHT THROUGH YOU"
+            }, {
+               "name" : "CORN-FED YETIS"
+            }, {
+               "name" : "MORE THAN HATE"
+            }, {
+               "name" : "BETTER HELL (Thicc boi)"
+            } ]
+         } ]
+      },
+      "info" : "Anabolic Spudsman was printed on physical setlist but not played.",
+      "url" : "https://www.setlist.fm/setlist/bilmuri/2025/brooklyn-steel-brooklyn-ny-3342b4f1.html"
+   }, {
+      "id" : "35d2d07",
+      "versionId" : "g337c7ce1",
+      "eventDate" : "20-06-2025",
+      "lastUpdated" : "2025-09-03T03:58:14.959+0000",
+      "artist" : {
+         "mbid" : "f6621a8d-5644-460a-b0a8-9171cb2c595d",
+         "name" : "Blondshell",
+         "sortName" : "Blondshell",
+         "disambiguation" : "aka Sabrina Teitelbaum",
+         "url" : "https://www.setlist.fm/setlists/blondshell-3ff711f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "If You Asked For a Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "23's a Baby"
+            }, {
+               "name" : "Toy"
+            }, {
+               "name" : "Docket"
+            }, {
+               "name" : "Sepsis"
+            }, {
+               "name" : "Veronica Mars"
+            }, {
+               "name" : "Arms"
+            }, {
+               "name" : "T&A"
+            }, {
+               "name" : "Change"
+            }, {
+               "name" : "Berlin TV Tower",
+               "info" : "New song, unreleased"
+            }, {
+               "name" : "Thumbtack"
+            }, {
+               "name" : "Olympus"
+            }, {
+               "name" : "Diet Pepsi",
+               "cover" : {
+                  "mbid" : "610b71d9-fa78-47d6-9073-083922e73840",
+                  "name" : "Addison Rae",
+                  "sortName" : "Rae, Addison",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/addison-rae-1bf3690c.html"
+               }
+            }, {
+               "name" : "Tarmac"
+            }, {
+               "name" : "He Wants Me"
+            }, {
+               "name" : "Kiss City"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Event of a Fire"
+            }, {
+               "name" : "Salad"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blondshell/2025/brooklyn-steel-brooklyn-ny-35d2d07.html"
+   } ]
+}

@@ -1,0 +1,1585 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 82,
+   "setlist" : [ {
+      "id" : "7bb7da20",
+      "versionId" : "g53c817ed",
+      "eventDate" : "12-05-2022",
+      "lastUpdated" : "2022-05-13T03:01:00.365+0000",
+      "artist" : {
+         "mbid" : "c0b2500e-0cef-4130-869d-732b23ed9df5",
+         "name" : "Tori Amos",
+         "sortName" : "Amos, Tori",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tori-amos-13d6b9e9.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ocean to Ocean"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Juárez"
+            }, {
+               "name" : "Bouncing Off Clouds",
+               "info" : "with \"Reindeer King\" interlude"
+            }, {
+               "name" : "Crucify"
+            }, {
+               "name" : "Bliss"
+            }, {
+               "name" : "Pretty Good Year"
+            }, {
+               "name" : "Ocean to Ocean"
+            }, {
+               "name" : "Addition of Light Divided"
+            }, {
+               "name" : "Horses"
+            }, {
+               "name" : "Here. In My Head",
+               "info" : "solo) (tour debut"
+            }, {
+               "name" : "Russia"
+            }, {
+               "name" : "Mother Revolution"
+            }, {
+               "name" : "Sweet Sangria"
+            }, {
+               "name" : "Spring Haze"
+            }, {
+               "name" : "Devil's Bane"
+            }, {
+               "name" : "Space Dog",
+               "info" : "tour debut) (with elements of Soul II Soul's \"Back to Life\""
+            }, {
+               "name" : "Cornflake Girl"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Take to the Sky",
+               "info" : "with \"I Feel the Earth Move\" interlude"
+            }, {
+               "name" : "Precious Things"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tori-amos/2022/kings-theatre-brooklyn-ny-7bb7da20.html"
+   }, {
+      "id" : "7bb7c660",
+      "versionId" : "g13c82505",
+      "eventDate" : "12-05-2022",
+      "lastUpdated" : "2022-05-12T06:09:58.684+0000",
+      "artist" : {
+         "mbid" : "c5cc14ae-f59e-42bd-b0fe-a3f1a90b5ffc",
+         "name" : "Companion",
+         "sortName" : "companion",
+         "disambiguation" : "Twin duo from Colorado",
+         "url" : "https://www.setlist.fm/setlists/companion-3ff814b.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/companion/2022/kings-theatre-brooklyn-ny-7bb7c660.html"
+   }, {
+      "id" : "3b73de3",
+      "versionId" : "g43c80bc3",
+      "eventDate" : "12-05-2022",
+      "lastUpdated" : "2022-05-13T19:32:14.079+0000",
+      "artist" : {
+         "mbid" : "43979946-9186-436a-ae26-60ba7ded93f7",
+         "name" : "Gracie and Rachel",
+         "sortName" : "Gracie and Rachel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gracie-and-rachel-4bc31742.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Stranger"
+            }, {
+               "name" : "Sidelines"
+            }, {
+               "name" : "Ideas"
+            }, {
+               "name" : "Go"
+            }, {
+               "name" : "Underneath"
+            }, {
+               "name" : "Gucci Gucci",
+               "cover" : {
+                  "mbid" : "b87b38cc-b446-4a0c-968a-addb0e244c9d",
+                  "name" : "Kreayshawn",
+                  "sortName" : "Kreayshawn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kreayshawn-43d3e783.html"
+               }
+            }, {
+               "name" : "",
+               "info" : "Unreleased song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gracie-and-rachel/2022/kings-theatre-brooklyn-ny-3b73de3.html"
+   }, {
+      "id" : "6bb7c65e",
+      "versionId" : "g3c825f7",
+      "eventDate" : "11-05-2022",
+      "lastUpdated" : "2022-05-12T06:12:39.600+0000",
+      "artist" : {
+         "mbid" : "c5cc14ae-f59e-42bd-b0fe-a3f1a90b5ffc",
+         "name" : "Companion",
+         "sortName" : "companion",
+         "disambiguation" : "Twin duo from Colorado",
+         "url" : "https://www.setlist.fm/setlists/companion-3ff814b.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/companion/2022/kings-theatre-brooklyn-ny-6bb7c65e.html"
+   }, {
+      "id" : "43b7dfe7",
+      "versionId" : "g63c802ef",
+      "eventDate" : "11-05-2022",
+      "lastUpdated" : "2022-05-14T03:20:14.305+0000",
+      "artist" : {
+         "mbid" : "c0b2500e-0cef-4130-869d-732b23ed9df5",
+         "name" : "Tori Amos",
+         "sortName" : "Amos, Tori",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tori-amos-13d6b9e9.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ocean to Ocean"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Juárez"
+            }, {
+               "name" : "Bouncing Off Clouds",
+               "info" : "with \"Reindeer King\" interlude"
+            }, {
+               "name" : "A Sorta Fairytale"
+            }, {
+               "name" : "Black-Dove (January)"
+            }, {
+               "name" : "Sweet Sangria"
+            }, {
+               "name" : "Ocean to Ocean"
+            }, {
+               "name" : "Josephine"
+            }, {
+               "name" : "Past the Mission"
+            }, {
+               "name" : "Flowers Burn to Gold",
+               "info" : "solo) (live debut"
+            }, {
+               "name" : "Russia"
+            }, {
+               "name" : "Little Amsterdam"
+            }, {
+               "name" : "Addition of Light Divided"
+            }, {
+               "name" : "Take to the Sky",
+               "info" : "with \"I Feel the Earth Move\" interlude"
+            }, {
+               "name" : "Devil's Bane"
+            }, {
+               "name" : "Girl",
+               "info" : "tour debut"
+            }, {
+               "name" : "Cornflake Girl"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Precious Things"
+            }, {
+               "name" : "Tear in Your Hand"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tori-amos/2022/kings-theatre-brooklyn-ny-43b7dfe7.html"
+   }, {
+      "id" : "43b7c7ef",
+      "versionId" : "g7bc82a48",
+      "eventDate" : "11-05-2022",
+      "lastUpdated" : "2022-05-12T04:13:24.971+0000",
+      "artist" : {
+         "mbid" : "43979946-9186-436a-ae26-60ba7ded93f7",
+         "name" : "Gracie and Rachel",
+         "sortName" : "Gracie and Rachel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gracie-and-rachel-4bc31742.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gracie-and-rachel/2022/kings-theatre-brooklyn-ny-43b7c7ef.html"
+   }, {
+      "id" : "7bb7f210",
+      "versionId" : "g2b69f816",
+      "eventDate" : "06-05-2022",
+      "lastUpdated" : "2026-02-19T11:31:05.759+0000",
+      "artist" : {
+         "mbid" : "9047fd95-770f-4a8a-a6e3-3b071a882e4d",
+         "name" : "Bunbury",
+         "sortName" : "Bunbury",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bunbury-6bd662c6.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Los términos de mi rendición",
+               "tape" : true
+            }, {
+               "name" : "Cualquiera en su sano juicio (se habría vuelto loco por ti)"
+            }, {
+               "name" : "N.O.M."
+            }, {
+               "name" : "El precio que hay que pagar"
+            }, {
+               "name" : "El club de los imposibles"
+            }, {
+               "name" : "La sirena varada",
+               "cover" : {
+                  "mbid" : "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+                  "name" : "Héroes del Silencio",
+                  "sortName" : "Héroes del Silencio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/heroes-del-silencio-5bd6f3f8.html"
+               }
+            }, {
+               "name" : "Cuna de Caín"
+            }, {
+               "name" : "Despierta"
+            }, {
+               "name" : "Más alto que nosotros sólo el cielo"
+            }, {
+               "name" : "Hombre de acción"
+            }, {
+               "name" : "Porque las cosas cambian"
+            }, {
+               "name" : "La actitud correcta"
+            }, {
+               "name" : "Deshacer el mundo",
+               "cover" : {
+                  "mbid" : "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+                  "name" : "Héroes del Silencio",
+                  "sortName" : "Héroes del Silencio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/heroes-del-silencio-5bd6f3f8.html"
+               }
+            }, {
+               "name" : "Que tengas suertecita"
+            }, {
+               "name" : "Parecemos tontos"
+            }, {
+               "name" : "Los habitantes"
+            }, {
+               "name" : "El extranjero"
+            }, {
+               "name" : "Mar adentro",
+               "cover" : {
+                  "mbid" : "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+                  "name" : "Héroes del Silencio",
+                  "sortName" : "Héroes del Silencio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/heroes-del-silencio-5bd6f3f8.html"
+               }
+            }, {
+               "name" : "De todo el mundo"
+            }, {
+               "name" : "Lady Blue"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Antes de desayunar"
+            }, {
+               "name" : "Infinito"
+            }, {
+               "name" : "Maldito duende",
+               "cover" : {
+                  "mbid" : "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+                  "name" : "Héroes del Silencio",
+                  "sortName" : "Héroes del Silencio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/heroes-del-silencio-5bd6f3f8.html"
+               }
+            }, {
+               "name" : "La constante"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bunbury/2022/kings-theatre-brooklyn-ny-7bb7f210.html"
+   }, {
+      "id" : "6bb63622",
+      "versionId" : "g43cd6f9f",
+      "eventDate" : "16-04-2022",
+      "lastUpdated" : "2022-04-16T23:28:27.033+0000",
+      "artist" : {
+         "mbid" : "aabe385c-379a-467f-9a6d-2560ffa0b730",
+         "name" : "Kara‐Lis Coverdale",
+         "sortName" : "Coverdale, Kara‐Lis",
+         "disambiguation" : "Canadian composer, musician, and producer",
+         "url" : "https://www.setlist.fm/setlists/karalis-coverdale-73c76ac1.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/karalis-coverdale/2022/kings-theatre-brooklyn-ny-6bb63622.html"
+   }, {
+      "id" : "23b6389b",
+      "versionId" : "g330e84d1",
+      "eventDate" : "16-04-2022",
+      "lastUpdated" : "2026-08-24T23:28:55.710+0000",
+      "artist" : {
+         "mbid" : "9f81247f-7f57-42f3-a8ba-75bef554e591",
+         "name" : "Big Thief",
+         "sortName" : "Big Thief",
+         "disambiguation" : "US indie folk band",
+         "url" : "https://www.setlist.fm/setlists/big-thief-6bc2e2d6.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Dragon New Warm Mountain I Believe in You"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Promise Is a Pendulum",
+               "info" : "Adrianne Solo"
+            }, {
+               "name" : "Happiness",
+               "cover" : {
+                  "mbid" : "763cb144-afdb-471e-bd86-d4f5b9b58641",
+                  "name" : "Adrianne Lenker",
+                  "sortName" : "Lenker, Adrianne",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/adrianne-lenker-2bdccca2.html"
+               }
+            }, {
+               "name" : "Change"
+            }, {
+               "name" : "Time Escaping"
+            }, {
+               "name" : "Love Love Love"
+            }, {
+               "name" : "Black Diamonds"
+            }, {
+               "name" : "Masterpiece"
+            }, {
+               "name" : "Not"
+            }, {
+               "name" : "Dragon New Warm Mountain I Believe in You",
+               "info" : "heavy version"
+            }, {
+               "name" : "Sadness as a Gift",
+               "cover" : {
+                  "mbid" : "763cb144-afdb-471e-bd86-d4f5b9b58641",
+                  "name" : "Adrianne Lenker",
+                  "sortName" : "Lenker, Adrianne",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/adrianne-lenker-2bdccca2.html"
+               },
+               "info" : "Adrianne solo"
+            }, {
+               "name" : "Secret Side",
+               "cover" : {
+                  "mbid" : "b8780175-4ff4-4d87-8e54-999f70dbb5ec",
+                  "name" : "Buck Meek",
+                  "sortName" : "Meek, Buck",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/buck-meek-63c0560b.html"
+               }
+            }, {
+               "name" : "Red Moon"
+            }, {
+               "name" : "Certainty"
+            }, {
+               "name" : "Flower of Blood"
+            }, {
+               "name" : "Simulation Swarm"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cattails",
+               "info" : "aborted and restarted"
+            }, {
+               "name" : "Spud Infinity",
+               "info" : "with Noah Lenker"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/big-thief/2022/kings-theatre-brooklyn-ny-23b6389b.html"
+   }, {
+      "id" : "bb6c546",
+      "versionId" : "gb01414e",
+      "eventDate" : "15-04-2022",
+      "lastUpdated" : "2026-08-23T05:51:23.805+0000",
+      "artist" : {
+         "mbid" : "9f81247f-7f57-42f3-a8ba-75bef554e591",
+         "name" : "Big Thief",
+         "sortName" : "Big Thief",
+         "disambiguation" : "US indie folk band",
+         "url" : "https://www.setlist.fm/setlists/big-thief-6bc2e2d6.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Dragon New Warm Mountain I Believe in You"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Change"
+            }, {
+               "name" : "Dried Roses"
+            }, {
+               "name" : "Certainty"
+            }, {
+               "name" : "Cattails"
+            }, {
+               "name" : "Shoulders"
+            }, {
+               "name" : "Black Diamonds"
+            }, {
+               "name" : "Forgotten Eyes"
+            }, {
+               "name" : "Not"
+            }, {
+               "name" : "Dragon New Warm Mountain I Believe in You",
+               "info" : "Heavy version"
+            }, {
+               "name" : "Sparrow"
+            }, {
+               "name" : "Simulation Swarm"
+            }, {
+               "name" : "Flower of Blood"
+            }, {
+               "name" : "Secret Side",
+               "cover" : {
+                  "mbid" : "b8780175-4ff4-4d87-8e54-999f70dbb5ec",
+                  "name" : "Buck Meek",
+                  "sortName" : "Meek, Buck",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/buck-meek-63c0560b.html"
+               },
+               "info" : "Buck solo"
+            }, {
+               "name" : "Stay",
+               "info" : "Song debut, Adrianne solo"
+            }, {
+               "name" : "Like a Rose",
+               "cover" : {
+                  "mbid" : "21685b15-3074-446e-aa1d-ff7157014f53",
+                  "name" : "Lucinda Williams",
+                  "sortName" : "Williams, Lucinda",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lucinda-williams-bd6b1f2.html"
+               },
+               "info" : "Adrianne solo"
+            }, {
+               "name" : "Rock and Sing"
+            }, {
+               "name" : "Happy With You"
+            }, {
+               "name" : "Shark Smile"
+            }, {
+               "name" : "Real Love"
+            }, {
+               "name" : "Spud Infinity",
+               "info" : "with Noah Lenker"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/big-thief/2022/kings-theatre-brooklyn-ny-bb6c546.html"
+   }, {
+      "id" : "6bb63ed6",
+      "versionId" : "g4bcd0786",
+      "eventDate" : "15-04-2022",
+      "lastUpdated" : "2022-04-15T23:45:05.383+0000",
+      "artist" : {
+         "mbid" : "aabe385c-379a-467f-9a6d-2560ffa0b730",
+         "name" : "Kara‐Lis Coverdale",
+         "sortName" : "Coverdale, Kara‐Lis",
+         "disambiguation" : "Canadian composer, musician, and producer",
+         "url" : "https://www.setlist.fm/setlists/karalis-coverdale-73c76ac1.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/karalis-coverdale/2022/kings-theatre-brooklyn-ny-6bb63ed6.html"
+   }, {
+      "id" : "3bb78868",
+      "versionId" : "g537447a9",
+      "eventDate" : "12-04-2022",
+      "lastUpdated" : "2025-07-05T08:32:09.653+0000",
+      "artist" : {
+         "mbid" : "8a9ac1cb-faae-434e-8d60-b139a3707dfc",
+         "name" : "MIKA",
+         "sortName" : "MIKA",
+         "disambiguation" : "Lebanese-born English pop singer",
+         "url" : "https://www.setlist.fm/setlists/mika-53d6e381.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "For the Rite of Spring"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lollipop"
+            }, {
+               "name" : "Origin of Love"
+            }, {
+               "name" : "Tiny Love"
+            }, {
+               "name" : "Relax (Take It Easy)"
+            }, {
+               "name" : "Ice Cream"
+            }, {
+               "name" : "Big Girl (You Are Beautiful)"
+            }, {
+               "name" : "Blame It on the Girls"
+            }, {
+               "name" : "Promiseland"
+            }, {
+               "name" : "Underwater"
+            }, {
+               "name" : "Tomorrow"
+            }, {
+               "name" : "Happy Ending"
+            }, {
+               "name" : "Popular Song"
+            }, {
+               "name" : "Elle me dit"
+            }, {
+               "name" : "Grace Kelly"
+            }, {
+               "name" : "Love Today"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Tiny Love (reprise)"
+            }, {
+               "name" : "We Are Golden"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mika/2022/kings-theatre-brooklyn-ny-3bb78868.html"
+   }, {
+      "id" : "6bb6826a",
+      "versionId" : "g1bcd9da4",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2022-04-08T03:54:57.324+0000",
+      "artist" : {
+         "mbid" : "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+         "name" : "Snail Mail",
+         "sortName" : "Snail Mail",
+         "disambiguation" : "US indie rock solo project by Lindsey Erin Jordan",
+         "url" : "https://www.setlist.fm/setlists/snail-mail-73c34a49.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Valentine"
+            }, {
+               "name" : "Ben Franklin"
+            }, {
+               "name" : "Glory"
+            }, {
+               "name" : "Speaking Terms"
+            }, {
+               "name" : "Heat Wave"
+            }, {
+               "name" : "Automate"
+            }, {
+               "name" : "Madonna"
+            }, {
+               "name" : "Golden Dream"
+            }, {
+               "name" : "Thinning"
+            }, {
+               "name" : "Light Blue"
+            }, {
+               "name" : "Full Control"
+            }, {
+               "name" : "Headlock"
+            }, {
+               "name" : "Tonight, Tonight",
+               "cover" : {
+                  "mbid" : "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+                  "name" : "The Smashing Pumpkins",
+                  "sortName" : "Smashing Pumpkins, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-smashing-pumpkins-23d6e0ab.html"
+               }
+            }, {
+               "name" : "Forever (Sailing)"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mia"
+            }, {
+               "name" : "Pristine"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/snail-mail/2022/kings-theatre-brooklyn-ny-6bb6826a.html"
+   }, {
+      "id" : "13b7291d",
+      "versionId" : "g2392cc5f",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2023-06-04T05:06:50.067+0000",
+      "artist" : {
+         "mbid" : "2123417c-f562-4461-9873-8910ffece5d6",
+         "name" : "Joy Again",
+         "sortName" : "Joy Again",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joy-again-63c4067f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Looking Out for You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joy-again/2022/kings-theatre-brooklyn-ny-13b7291d.html"
+   }, {
+      "id" : "43897b8b",
+      "versionId" : "g63cca213",
+      "eventDate" : "25-03-2022",
+      "lastUpdated" : "2022-03-26T04:11:41.364+0000",
+      "artist" : {
+         "mbid" : "fe8bcbbb-2a47-406c-bbe1-66f5f088eadc",
+         "name" : "Nick Cave & Warren Ellis",
+         "sortName" : "Cave, Nick & Ellis, Warren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-cave-and-warren-ellis-3f7713f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Carnage"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Spinning Song",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Bright Horses",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Night Raid",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Carnage"
+            }, {
+               "name" : "White Elephant"
+            }, {
+               "name" : "Ghosteen",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Lavender Fields"
+            }, {
+               "name" : "Waiting for You",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "I Need You",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Cosmic Dancer",
+               "cover" : {
+                  "mbid" : "c842d29f-a297-48cd-bb71-4f77fd672b16",
+                  "name" : "T. Rex",
+                  "sortName" : "T. Rex",
+                  "disambiguation" : "UK band",
+                  "url" : "https://www.setlist.fm/setlists/t-rex-73d6ee31.html"
+               }
+            }, {
+               "name" : "God Is in the House",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Hand of God"
+            }, {
+               "name" : "Shattered Ground"
+            }, {
+               "name" : "Galleon Ship",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Leviathan",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Balcony Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hollywood",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Henry Lee",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Into My Arms",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Jubilee Street",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Girl in Amber",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Ghosteen Speaks",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-cave-and-warren-ellis/2022/kings-theatre-brooklyn-ny-43897b8b.html"
+   }, {
+      "id" : "4b8903fa",
+      "versionId" : "g4bccabd6",
+      "eventDate" : "24-03-2022",
+      "lastUpdated" : "2022-03-25T17:29:48.961+0000",
+      "artist" : {
+         "mbid" : "fe8bcbbb-2a47-406c-bbe1-66f5f088eadc",
+         "name" : "Nick Cave & Warren Ellis",
+         "sortName" : "Cave, Nick & Ellis, Warren",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-cave-and-warren-ellis-3f7713f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Carnage"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Spinning Song",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Bright Horses",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Night Raid",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Carnage"
+            }, {
+               "name" : "White Elephant"
+            }, {
+               "name" : "Ghosteen",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Lavender Fields"
+            }, {
+               "name" : "Waiting for You",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "I Need You",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Cosmic Dancer",
+               "cover" : {
+                  "mbid" : "c842d29f-a297-48cd-bb71-4f77fd672b16",
+                  "name" : "T. Rex",
+                  "sortName" : "T. Rex",
+                  "disambiguation" : "UK band",
+                  "url" : "https://www.setlist.fm/setlists/t-rex-73d6ee31.html"
+               }
+            }, {
+               "name" : "God Is in the House",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Hand of God"
+            }, {
+               "name" : "Shattered Ground"
+            }, {
+               "name" : "Galleon Ship",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Leviathan",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Balcony Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hollywood",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Henry Lee",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Into My Arms",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            }, {
+               "name" : "Ghosteen Speaks",
+               "cover" : {
+                  "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+                  "name" : "Nick Cave & the Bad Seeds",
+                  "sortName" : "Cave, Nick & the Bad Seeds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-cave-and-warren-ellis/2022/kings-theatre-brooklyn-ny-4b8903fa.html"
+   }, {
+      "id" : "7b893a20",
+      "versionId" : "g6b14162e",
+      "eventDate" : "17-03-2022",
+      "lastUpdated" : "2026-03-17T16:08:01.676+0000",
+      "artist" : {
+         "mbid" : "6f92929a-6381-48ac-b348-83b43b9cf646",
+         "name" : "Jazmine Sullivan",
+         "sortName" : "Sullivan, Jazmine",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jazmine-sullivan-23d6408b.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Heaux Tales Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bodies (Intro)"
+            }, {
+               "name" : "Bust Your Windows"
+            }, {
+               "name" : "Mascara"
+            }, {
+               "name" : "Put It Down"
+            }, {
+               "name" : "Price Tags"
+            }, {
+               "name" : "Roster"
+            }, {
+               "name" : "Girl Like Me"
+            }, {
+               "name" : "Holding You Down (Goin' In Circles)"
+            }, {
+               "name" : "Lost One"
+            }, {
+               "name" : "In Love With Another Man"
+            }, {
+               "name" : "Tragic"
+            }, {
+               "name" : "Insecure",
+               "cover" : {
+                  "mbid" : "275c1c1a-692a-41cd-83e9-9f2b0ac86134",
+                  "name" : "Jazmine Sullivan & Bryson Tiller",
+                  "sortName" : "Sullivan, Jazmine & Tiller, Bryson",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jazmine-sullivan-and-bryson-tiller-43f85fa3.html"
+               }
+            }, {
+               "name" : "On Me"
+            }, {
+               "name" : "BPW"
+            }, {
+               "name" : "Let It Burn"
+            }, {
+               "name" : "Need U Bad"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Pick Up Your Feelings"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jazmine-sullivan/2022/kings-theatre-brooklyn-ny-7b893a20.html"
+   }, {
+      "id" : "7b89aa84",
+      "versionId" : "g538affc1",
+      "eventDate" : "24-02-2022",
+      "lastUpdated" : "2023-12-17T20:30:06.418+0000",
+      "artist" : {
+         "mbid" : "ee0b11de-0c8a-4267-9886-198f4579e1db",
+         "name" : "Lizzy McAlpine",
+         "sortName" : "McAlpine, Lizzy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lizzy-mcalpine-73f5ee4d.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lizzy-mcalpine/2022/kings-theatre-brooklyn-ny-7b89aa84.html"
+   }, {
+      "id" : "6b884e96",
+      "versionId" : "g63ce06af",
+      "eventDate" : "24-02-2022",
+      "lastUpdated" : "2022-03-08T08:12:44.842+0000",
+      "artist" : {
+         "mbid" : "70c5a8f1-5c53-4e1c-a90a-461e11e799c1",
+         "name" : "dodie",
+         "sortName" : "dodie",
+         "disambiguation" : "English singer-songwriter, author, and YouTuber",
+         "url" : "https://www.setlist.fm/setlists/dodie-13c44da9.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Build A Problem"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Air So Sweet"
+            }, {
+               "name" : "Cool Girl"
+            }, {
+               "name" : "I Kissed Someone (It Wasn’t You)"
+            }, {
+               "name" : "Guiltless"
+            }, {
+               "name" : "Human"
+            }, {
+               "name" : "Special Girl"
+            }, {
+               "name" : "Sad Song Mashup"
+            }, {
+               "name" : "Sick of Losing Soulmates"
+            }, {
+               "name" : "?"
+            }, {
+               "name" : "Four Tequilas Down"
+            }, {
+               "name" : "."
+            }, {
+               "name" : "Sorry"
+            }, {
+               "name" : "When"
+            }, {
+               "name" : "Before the Line"
+            }, {
+               "name" : "Rainbow"
+            }, {
+               "name" : "She"
+            }, {
+               "name" : "If I'm Being Honest"
+            }, {
+               "name" : "Boys Like You"
+            }, {
+               "name" : "Monster"
+            }, {
+               "name" : "In the Middle"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hate Myself"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dodie/2022/kings-theatre-brooklyn-ny-6b884e96.html"
+   }, {
+      "id" : "53880719",
+      "versionId" : "g6bca869e",
+      "eventDate" : "12-02-2022",
+      "lastUpdated" : "2022-04-21T16:59:09.528+0000",
+      "artist" : {
+         "mbid" : "7ac1e33f-0cdf-4e81-b914-41830700d746",
+         "name" : "Gregory Porter",
+         "sortName" : "Porter, Gregory",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gregory-porter-3bd54464.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Revival"
+            }, {
+               "name" : "If Love Is Overrated"
+            }, {
+               "name" : "Liquid Spirit"
+            }, {
+               "name" : "No Love Dying"
+            }, {
+               "name" : "Holding On",
+               "cover" : {
+                  "mbid" : "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f",
+                  "name" : "Disclosure",
+                  "sortName" : "Disclosure",
+                  "disambiguation" : "UK electronic duo Guy & Howard Lawrence",
+                  "url" : "https://www.setlist.fm/setlists/disclosure-7bd01274.html"
+               }
+            }, {
+               "name" : "Take Me to the Alley"
+            }, {
+               "name" : "Papa Was a Rollin' Stone",
+               "cover" : {
+                  "mbid" : "5e676b63-5c50-4c86-88d8-54243bba76d9",
+                  "name" : "The Undisputed Truth",
+                  "sortName" : "Undisputed Truth, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-undisputed-truth-63d78e77.html"
+               }
+            }, {
+               "name" : "Musical Genocide"
+            }, {
+               "name" : "Insanity"
+            }, {
+               "name" : "Our Love"
+            }, {
+               "name" : "Free",
+               "info" : ""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gregory-porter/2022/kings-theatre-brooklyn-ny-53880719.html"
+   } ]
+}

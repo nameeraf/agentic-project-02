@@ -1,0 +1,873 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 16,
+   "total" : 310,
+   "setlist" : [ {
+      "id" : "6357be1b",
+      "versionId" : "g6b46924a",
+      "eventDate" : "11-02-2025",
+      "lastUpdated" : "2025-02-13T01:56:17.407+0000",
+      "artist" : {
+         "mbid" : "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
+         "name" : "Apocalyptica",
+         "sortName" : "Apocalyptica",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/apocalyptica-6bd63aa2.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Apocalyptica Plays Metallica Vol. 2"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ride the Lightning",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Enter Sandman",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Creeping Death",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "For Whom the Bell Tolls",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Battery",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "The Call of Ktulu",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "St. Anger",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "The Four Horsemen",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Blackened",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Master of Puppets",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Nothing Else Matters",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            }, {
+               "name" : "Seek & Destroy",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "One",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/apocalyptica/2025/brooklyn-paramount-brooklyn-ny-6357be1b.html"
+   }, {
+      "id" : "5b5effa4",
+      "versionId" : "g3593d17",
+      "eventDate" : "06-02-2025",
+      "lastUpdated" : "2025-02-07T17:56:18.368+0000",
+      "artist" : {
+         "mbid" : "dfe78af2-779e-4137-826a-3073a16e3278",
+         "name" : "Phantogram",
+         "sortName" : "Phantogram",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/phantogram-7bd4063c.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Running Through Colors"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jealousy"
+            }, {
+               "name" : "Don't Move"
+            }, {
+               "name" : "Fall in Love"
+            }, {
+               "name" : "Feedback Invisible"
+            }, {
+               "name" : "Pedestal"
+            }, {
+               "name" : "It Wasn't Meant to Be"
+            }, {
+               "name" : "Mouthful of Diamonds"
+            }, {
+               "name" : "Run Run Blood"
+            }, {
+               "name" : "Attaway"
+            }, {
+               "name" : "You Are the Ocean"
+            }, {
+               "name" : "Answer"
+            }, {
+               "name" : "All a Mystery"
+            }, {
+               "name" : "Happy Again"
+            }, {
+               "name" : "Black Out Days"
+            }, {
+               "name" : "Come Alive"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Glowing"
+            }, {
+               "name" : "You Don't Get Me High Anymore"
+            }, {
+               "name" : "When I'm Small"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/phantogram/2025/brooklyn-paramount-brooklyn-ny-5b5effa4.html"
+   }, {
+      "id" : "1b5d81ec",
+      "versionId" : "g5359d339",
+      "eventDate" : "06-02-2025",
+      "lastUpdated" : "2025-02-07T01:39:43.287+0000",
+      "artist" : {
+         "mbid" : "b44ab3f2-ed61-4633-bdab-0ff6df829336",
+         "name" : "Meija",
+         "sortName" : "Meija",
+         "disambiguation" : "DJ & Producer",
+         "url" : "https://www.setlist.fm/setlists/meija-33c36899.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/meija/2025/brooklyn-paramount-brooklyn-ny-1b5d81ec.html"
+   }, {
+      "id" : "435acf6b",
+      "versionId" : "g7346a6a5",
+      "eventDate" : "04-02-2025",
+      "lastUpdated" : "2025-02-12T12:07:35.856+0000",
+      "artist" : {
+         "mbid" : "accad36d-b637-4ede-a1b6-e71b124b8dea",
+         "name" : "Petey USA",
+         "sortName" : "Petey USA",
+         "disambiguation" : "US musician/social media personality, aka Petey USA",
+         "url" : "https://www.setlist.fm/setlists/petey-usa-7bcbdafc.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pitch a Fit!"
+            }, {
+               "name" : "Apple TV Remote"
+            }, {
+               "name" : "We Go on Walks"
+            }, {
+               "name" : "This is What it Feels Like",
+               "info" : "Unreleased song"
+            }, {
+               "name" : "I'll Wait"
+            }, {
+               "name" : "Lean Into Life"
+            }, {
+               "name" : "Model Train Town"
+            }, {
+               "name" : "I'll Believe You"
+            }, {
+               "name" : "No One Else",
+               "cover" : {
+                  "mbid" : "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                  "name" : "Weezer",
+                  "sortName" : "Weezer",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/weezer-33d6a4f9.html"
+               }
+            }, {
+               "name" : "The Freedom to Fuck Off"
+            }, {
+               "name" : "DON'T TELL THE BOYS"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/petey-usa/2025/brooklyn-paramount-brooklyn-ny-435acf6b.html"
+   }, {
+      "id" : "1b517144",
+      "versionId" : "g3359fcd9",
+      "eventDate" : "04-02-2025",
+      "lastUpdated" : "2025-02-05T13:24:44.387+0000",
+      "artist" : {
+         "mbid" : "cf9655a8-ce1e-414e-9843-de1c4a60830d",
+         "name" : "Hippo Campus",
+         "sortName" : "Hippo Campus",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hippo-campus-73c6e6e1.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Flood"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Madman"
+            }, {
+               "name" : "Paranoid"
+            }, {
+               "name" : "Tooth Fairy"
+            }, {
+               "name" : "Bambi"
+            }, {
+               "name" : "Doubt"
+            }, {
+               "name" : "Bang Bang"
+            }, {
+               "name" : "No Poms"
+            }, {
+               "name" : "South"
+            }, {
+               "name" : "Prayer Man"
+            }, {
+               "name" : "Flood"
+            }, {
+               "name" : "Corduroy"
+            }, {
+               "name" : "Everything At Once"
+            }, {
+               "name" : "Way It Goes"
+            }, {
+               "name" : "Baseball"
+            }, {
+               "name" : "Buttercup"
+            }, {
+               "name" : "Think It Over"
+            }, {
+               "name" : "Bubbles"
+            }, {
+               "name" : "Where to Now?"
+            }, {
+               "name" : "Yippie Ki Yay"
+            }, {
+               "name" : "Forget It"
+            }, {
+               "name" : "Boys"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Warm Glow",
+               "info" : ">"
+            }, {
+               "name" : "Violet"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hippo-campus/2025/brooklyn-paramount-brooklyn-ny-1b517144.html"
+   }, {
+      "id" : "635f1ec3",
+      "versionId" : "g359e1a3",
+      "eventDate" : "03-02-2025",
+      "lastUpdated" : "2025-02-06T11:15:19.090+0000",
+      "artist" : {
+         "mbid" : "40017bd7-139b-4998-8688-9b2478ad3325",
+         "name" : "tripleS",
+         "sortName" : "tripleS",
+         "disambiguation" : "South Korean girl group",
+         "url" : "https://www.setlist.fm/setlists/triples-2bfdccf6.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "tripleS Come True"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "New Look"
+            }, {
+               "name" : "24"
+            }, {
+               "name" : "Atmosphere"
+            }, {
+               "name" : "Girls' Capitalism",
+               "cover" : {
+                  "mbid" : "6e8cc39f-510a-4a9f-b922-02015065ce2f",
+                  "name" : "LOVElution",
+                  "sortName" : "LOVElution",
+                  "disambiguation" : "tripleS sub-unit",
+                  "url" : "https://www.setlist.fm/setlists/lovelution-bfb69fa.html"
+               }
+            }, {
+               "name" : "Non Scale"
+            }, {
+               "name" : "Door",
+               "cover" : {
+                  "mbid" : "6328a816-7739-4f93-982a-dedc4f9f5645",
+                  "name" : "Aria",
+                  "sortName" : "Aria",
+                  "disambiguation" : "tripleS sub‐unit",
+                  "url" : "https://www.setlist.fm/setlists/aria-3e7adbb.html"
+               }
+            }, {
+               "name" : "Just Do It",
+               "cover" : {
+                  "mbid" : "71efc2ca-01a5-49b0-b971-520279cb3fca",
+                  "name" : "NXT",
+                  "sortName" : "NXT",
+                  "disambiguation" : "tripleS sub‐unit",
+                  "url" : "https://www.setlist.fm/setlists/nxt-53e7b3ad.html"
+               }
+            }, {
+               "name" : "Inner Dance",
+               "cover" : {
+                  "mbid" : "c8e2f76e-fb35-4820-9867-c84f31661b67",
+                  "name" : "Glow",
+                  "sortName" : "Glow",
+                  "disambiguation" : "tripleS sub-unit",
+                  "url" : "https://www.setlist.fm/setlists/glow-63e41a4f.html"
+               }
+            }, {
+               "name" : "Cherry Talk",
+               "cover" : {
+                  "mbid" : "35341980-6ac0-4613-931c-4493a0868254",
+                  "name" : "+(KR)ystal Eyes",
+                  "sortName" : "+(KR)ystal Eyes",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/krystal-eyes-3fb7137.html"
+               }
+            }, {
+               "name" : "Touch",
+               "cover" : {
+                  "mbid" : "35341980-6ac0-4613-931c-4493a0868254",
+                  "name" : "+(KR)ystal Eyes",
+                  "sortName" : "+(KR)ystal Eyes",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/krystal-eyes-3fb7137.html"
+               }
+            }, {
+               "name" : "Generation",
+               "cover" : {
+                  "mbid" : "2df0469f-b49e-4e4e-bfb4-0a98b399f5e2",
+                  "name" : "Acid Angel from Asia",
+                  "sortName" : "Acid Angel from Asia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/acid-angel-from-asia-3fb7133.html"
+               }
+            }, {
+               "name" : "Rolex",
+               "cover" : {
+                  "mbid" : "2df0469f-b49e-4e4e-bfb4-0a98b399f5e2",
+                  "name" : "Acid Angel from Asia",
+                  "sortName" : "Acid Angel from Asia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/acid-angel-from-asia-3fb7133.html"
+               }
+            }, {
+               "name" : "Rising"
+            }, {
+               "name" : "Untitled",
+               "cover" : {
+                  "mbid" : "938ba282-c2f1-4193-af7a-c63a36f11175",
+                  "name" : "∞!",
+                  "sortName" : "Hatch!",
+                  "disambiguation" : "tripleS sub‐unit",
+                  "url" : "https://www.setlist.fm/setlists/--73e0ce3d.html"
+               }
+            }, {
+               "name" : "###"
+            }, {
+               "name" : "Invincible",
+               "cover" : {
+                  "mbid" : "a25af4f3-7b88-49c9-89fc-19eefcd5097f",
+                  "name" : "EVOLution",
+                  "sortName" : "EVOLution",
+                  "disambiguation" : "tripleS sub-unit",
+                  "url" : "https://www.setlist.fm/setlists/evolution-1bfb69f4.html"
+               }
+            }, {
+               "name" : "Choom",
+               "cover" : {
+                  "mbid" : "9d3c669e-3520-42c9-8263-43acdaa37d4c",
+                  "name" : "Visionary Vision",
+                  "sortName" : "Visionary Vision",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/visionary-vision-33e37815.html"
+               }
+            }, {
+               "name" : "Girls Never Die"
+            }, {
+               "name" : "Hit the Floor",
+               "cover" : {
+                  "mbid" : "9d3c669e-3520-42c9-8263-43acdaa37d4c",
+                  "name" : "Visionary Vision",
+                  "sortName" : "Visionary Vision",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/visionary-vision-33e37815.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Colorful"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/triples/2025/brooklyn-paramount-brooklyn-ny-635f1ec3.html"
+   }, {
+      "id" : "3352e019",
+      "versionId" : "g34ee5b3",
+      "eventDate" : "22-01-2025",
+      "lastUpdated" : "2025-04-17T16:32:27.586+0000",
+      "artist" : {
+         "mbid" : "73d2a9d4-de5d-4bcd-9acb-ddf67dfd71ac",
+         "name" : "Myles Smith",
+         "sortName" : "Smith, Myles",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/myles-smith-43fb0737.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "We Were Never Strangers"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wait for You"
+            }, {
+               "name" : "Behind"
+            }, {
+               "name" : "Whisper"
+            }, {
+               "name" : "Betting on Us"
+            }, {
+               "name" : "3AM"
+            }, {
+               "name" : "Made for Me"
+            }, {
+               "name" : "Solo"
+            }, {
+               "name" : "Someone New"
+            }, {
+               "name" : "Nice to Meet You"
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Waste"
+            }, {
+               "name" : "Dreamers"
+            }, {
+               "name" : "Little by Little"
+            }, {
+               "name" : "My Home"
+            }, {
+               "name" : "River"
+            }, {
+               "name" : "Stargazing"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/myles-smith/2025/brooklyn-paramount-brooklyn-ny-3352e019.html"
+   }, {
+      "id" : "b5e19e6",
+      "versionId" : "g6358ae7f",
+      "eventDate" : "21-01-2025",
+      "lastUpdated" : "2025-01-26T10:38:19.611+0000",
+      "artist" : {
+         "mbid" : "8339c0c3-7a04-4b19-8ca3-b149e0d09222",
+         "name" : "Yves",
+         "sortName" : "Yves",
+         "disambiguation" : "South Korean singer",
+         "url" : "https://www.setlist.fm/setlists/yves-33cd44cd.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "APPLE CINNAMON CRUNCH"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "LOOP"
+            }, {
+               "name" : "Tik Tok"
+            }, {
+               "name" : "Gone Girl"
+            }, {
+               "name" : "Selfish",
+               "cover" : {
+                  "mbid" : "749ef494-8518-4b49-b685-63d8e728d25c",
+                  "name" : "Madison Beer",
+                  "sortName" : "Beer, Madison",
+                  "disambiguation" : "American singer",
+                  "url" : "https://www.setlist.fm/setlists/madison-beer-63daea67.html"
+               }
+            }, {
+               "name" : "My Happy Ending",
+               "cover" : {
+                  "mbid" : "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+                  "name" : "Avril Lavigne",
+                  "sortName" : "Lavigne, Avril",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/avril-lavigne-63d6d6bf.html"
+               }
+            }, {
+               "name" : "DIORAMA"
+            }, {
+               "name" : "A Thousand Miles",
+               "cover" : {
+                  "mbid" : "c1a61bb0-e4fe-4064-bc8d-954a2dafda79",
+                  "name" : "Vanessa Carlton",
+                  "sortName" : "Carlton, Vanessa",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vanessa-carlton-43d6bfd3.html"
+               }
+            }, {
+               "name" : "Goldfish"
+            } ]
+         }, {
+            "name" : "Guest Performance",
+            "song" : [ {
+               "name" : "blah Guest Performance",
+               "tape" : true
+            } ]
+         }, {
+            "name" : "Act 2",
+            "song" : [ {
+               "name" : "Hashtag"
+            }, {
+               "name" : "Viola"
+            }, {
+               "name" : "BIRD"
+            }, {
+               "name" : "See You in Hell"
+            }, {
+               "name" : "Afterglow"
+            }, {
+               "name" : "DIM"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Viola"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yves/2025/brooklyn-paramount-brooklyn-ny-b5e19e6.html"
+   }, {
+      "id" : "b5d4d1a",
+      "versionId" : "g5b58af84",
+      "eventDate" : "21-01-2025",
+      "lastUpdated" : "2025-01-26T10:36:46.024+0000",
+      "artist" : {
+         "mbid" : "817af65f-b818-4c34-a307-9267bfecc4e5",
+         "name" : "blah",
+         "sortName" : "blah",
+         "disambiguation" : "Korean singer",
+         "url" : "https://www.setlist.fm/setlists/blah-63e062e3.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Time Slip Movie"
+            }, {
+               "name" : "Still"
+            }, {
+               "name" : "Perhaps I"
+            }, {
+               "name" : "Faded Yesterday"
+            }, {
+               "name" : "As It Was",
+               "cover" : {
+                  "mbid" : "7eb1ce54-a355-41f9-8d68-e018b096d427",
+                  "name" : "Harry Styles",
+                  "sortName" : "Styles, Harry",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harry-styles-23d294a7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blah/2025/brooklyn-paramount-brooklyn-ny-b5d4d1a.html"
+   }, {
+      "id" : "6b5eee92",
+      "versionId" : "g4b533b46",
+      "eventDate" : "18-01-2025",
+      "lastUpdated" : "2024-11-14T22:15:09.545+0000",
+      "artist" : {
+         "mbid" : "23101701-cecf-4c9b-9b4c-d6a249eac118",
+         "name" : "San Holo",
+         "sortName" : "San Holo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/san-holo-3c6554b.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "10 Year Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/san-holo/2025/brooklyn-paramount-brooklyn-ny-6b5eee92.html"
+   } ]
+}

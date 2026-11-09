@@ -1,0 +1,1370 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 129,
+   "setlist" : [ {
+      "id" : "354599f",
+      "versionId" : "g13ad918d",
+      "eventDate" : "25-07-2024",
+      "lastUpdated" : "2024-08-26T05:52:38.356+0000",
+      "artist" : {
+         "mbid" : "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+         "name" : "Fitz and the Tantrums",
+         "sortName" : "Fitz and the Tantrums",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fitz-and-the-tantrums-4bd46f2e.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sway"
+            }, {
+               "name" : "Heaven"
+            }, {
+               "name" : "OCD"
+            }, {
+               "name" : "Good Intentions"
+            }, {
+               "name" : "123456"
+            }, {
+               "name" : "Out of My League"
+            }, {
+               "name" : "Livin' for the Weekend"
+            }, {
+               "name" : "Fool"
+            }, {
+               "name" : "MoneyMaker"
+            }, {
+               "name" : "Sweet Dreams (Are Made of This)",
+               "cover" : {
+                  "mbid" : "b4d32cff-f19e-455f-86c4-f347d824ca61",
+                  "name" : "Eurythmics",
+                  "sortName" : "Eurythmics",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eurythmics-7bd6be44.html"
+               }
+            }, {
+               "name" : "I Just Wanna Shine"
+            }, {
+               "name" : "All the Feels"
+            }, {
+               "name" : "The Walker"
+            }, {
+               "name" : "MoneyGrabber"
+            }, {
+               "name" : "HandClap"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fitz-and-the-tantrums/2024/the-rooftop-at-pier-17-new-york-ny-354599f.html"
+   }, {
+      "id" : "1354599d",
+      "versionId" : "g13a071e1",
+      "eventDate" : "25-07-2024",
+      "lastUpdated" : "2024-07-25T04:56:03.558+0000",
+      "artist" : {
+         "mbid" : "54cda716-a62a-4371-8c95-76d0aa7c7f74",
+         "name" : "DJ Logic",
+         "sortName" : "Logic, DJ",
+         "disambiguation" : "US acid jazz/hip/trip hop DJ-producer Jason Kibler",
+         "url" : "https://www.setlist.fm/setlists/dj-logic-1bd6d5d8.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-logic/2024/the-rooftop-at-pier-17-new-york-ny-1354599d.html"
+   }, {
+      "id" : "1b578dc8",
+      "versionId" : "g5ba067bc",
+      "eventDate" : "24-07-2024",
+      "lastUpdated" : "2024-07-25T17:36:16.698+0000",
+      "artist" : {
+         "mbid" : "6f1de078-6684-4792-820d-2ffad64c15ed",
+         "name" : "Two Door Cinema Club",
+         "sortName" : "Two Door Cinema Club",
+         "disambiguation" : "Northern Irish rock band",
+         "url" : "https://www.setlist.fm/setlists/two-door-cinema-club-1bd70908.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "US & Canada 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Is the Life"
+            }, {
+               "name" : "I Can Talk"
+            }, {
+               "name" : "Sleep Alone"
+            }, {
+               "name" : "Wonderful Life"
+            }, {
+               "name" : "Changing of the Seasons"
+            }, {
+               "name" : "Next Year"
+            }, {
+               "name" : "Something Good Can Work"
+            }, {
+               "name" : "Satellite"
+            }, {
+               "name" : "Eat That Up, It's Good for You"
+            }, {
+               "name" : "Undercover Martyn"
+            }, {
+               "name" : "The World Is Watching"
+            }, {
+               "name" : "Happy Customers"
+            }, {
+               "name" : "Come Back Home"
+            }, {
+               "name" : "Cigarettes in the Theatre"
+            }, {
+               "name" : "Sun"
+            }, {
+               "name" : "What You Know"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/two-door-cinema-club/2024/the-rooftop-at-pier-17-new-york-ny-1b578dc8.html"
+   }, {
+      "id" : "13578dcd",
+      "versionId" : "g4ba66b8e",
+      "eventDate" : "24-07-2024",
+      "lastUpdated" : "2024-06-16T18:46:50.138+0000",
+      "artist" : {
+         "mbid" : "0c97b403-1aae-4315-93ab-af54fe2169d6",
+         "name" : "flipturn",
+         "sortName" : "flipturn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/flipturn-6bf48e76.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flipturn/2024/the-rooftop-at-pier-17-new-york-ny-13578dcd.html"
+   }, {
+      "id" : "1b578dd0",
+      "versionId" : "g6ba05afa",
+      "eventDate" : "23-07-2024",
+      "lastUpdated" : "2024-07-25T23:21:04.042+0000",
+      "artist" : {
+         "mbid" : "6f1de078-6684-4792-820d-2ffad64c15ed",
+         "name" : "Two Door Cinema Club",
+         "sortName" : "Two Door Cinema Club",
+         "disambiguation" : "Northern Irish rock band",
+         "url" : "https://www.setlist.fm/setlists/two-door-cinema-club-1bd70908.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "US & Canada 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true
+            }, {
+               "name" : "This Is the Life"
+            }, {
+               "name" : "I Can Talk"
+            }, {
+               "name" : "Sleep Alone"
+            }, {
+               "name" : "Sure Enough"
+            }, {
+               "name" : "Changing of the Seasons"
+            }, {
+               "name" : "Next Year"
+            }, {
+               "name" : "Do You Want It All?"
+            }, {
+               "name" : "Something Good Can Work"
+            }, {
+               "name" : "Costume Party"
+            }, {
+               "name" : "Bad Decisions"
+            }, {
+               "name" : "Everybody's Cool"
+            }, {
+               "name" : "Come Back Home"
+            }, {
+               "name" : "Handshake"
+            }, {
+               "name" : "Lucky"
+            }, {
+               "name" : "Lavender"
+            }, {
+               "name" : "Are We Ready? (Wreck)"
+            }, {
+               "name" : "The World Is Watching"
+            }, {
+               "name" : "Eat That Up, It's Good for You"
+            }, {
+               "name" : "Undercover Martyn"
+            }, {
+               "name" : "Cigarettes in the Theatre"
+            }, {
+               "name" : "Messenger AD (Intro)"
+            }, {
+               "name" : "Sun"
+            }, {
+               "name" : "What You Know"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/two-door-cinema-club/2024/the-rooftop-at-pier-17-new-york-ny-1b578dd0.html"
+   }, {
+      "id" : "13578dd5",
+      "versionId" : "g5ba66b98",
+      "eventDate" : "23-07-2024",
+      "lastUpdated" : "2024-06-16T18:45:08.604+0000",
+      "artist" : {
+         "mbid" : "0c97b403-1aae-4315-93ab-af54fe2169d6",
+         "name" : "flipturn",
+         "sortName" : "flipturn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/flipturn-6bf48e76.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flipturn/2024/the-rooftop-at-pier-17-new-york-ny-13578dd5.html"
+   }, {
+      "id" : "bab51c6",
+      "versionId" : "g23a0782f",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2024-07-24T22:34:06.602+0000",
+      "artist" : {
+         "mbid" : "5f4a44ab-830e-4cbd-8920-b131dad39221",
+         "name" : "Annabella’s Bow Wow Wow",
+         "sortName" : "Annabella’s Bow Wow Wow",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/annabellas-bow-wow-wow-be2ed4e.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love, Peace and Harmony",
+               "cover" : {
+                  "mbid" : "2a81f398-647b-4580-b24c-d78b3103a27b",
+                  "name" : "Bow Wow Wow",
+                  "sortName" : "Bow Wow Wow",
+                  "disambiguation" : "English 1980s new wave band",
+                  "url" : "https://www.setlist.fm/setlists/bow-wow-wow-3d68923.html"
+               }
+            }, {
+               "name" : "W.O.R.K. (N.O. Nah No! No! My Daddy Don't)",
+               "cover" : {
+                  "mbid" : "2a81f398-647b-4580-b24c-d78b3103a27b",
+                  "name" : "Bow Wow Wow",
+                  "sortName" : "Bow Wow Wow",
+                  "disambiguation" : "English 1980s new wave band",
+                  "url" : "https://www.setlist.fm/setlists/bow-wow-wow-3d68923.html"
+               }
+            }, {
+               "name" : "Do You Wanna Hold Me?",
+               "cover" : {
+                  "mbid" : "2a81f398-647b-4580-b24c-d78b3103a27b",
+                  "name" : "Bow Wow Wow",
+                  "sortName" : "Bow Wow Wow",
+                  "disambiguation" : "English 1980s new wave band",
+                  "url" : "https://www.setlist.fm/setlists/bow-wow-wow-3d68923.html"
+               }
+            }, {
+               "name" : "Quiver (Arrows in My)",
+               "cover" : {
+                  "mbid" : "2a81f398-647b-4580-b24c-d78b3103a27b",
+                  "name" : "Bow Wow Wow",
+                  "sortName" : "Bow Wow Wow",
+                  "disambiguation" : "English 1980s new wave band",
+                  "url" : "https://www.setlist.fm/setlists/bow-wow-wow-3d68923.html"
+               }
+            }, {
+               "name" : "I Want Candy",
+               "cover" : {
+                  "mbid" : "6246c9e8-043e-4434-828c-18973fd4af6c",
+                  "name" : "The Strangeloves",
+                  "sortName" : "Strangeloves, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-strangeloves-bd6e9ae.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "3rd performer of the evening. Played \"See Jungle\", \"Aphrodisiac\", and \"C30 C60 C90 Go\" during the soundcheck at 3:10pm.",
+      "url" : "https://www.setlist.fm/setlist/annabellas-bow-wow-wow/2024/the-rooftop-at-pier-17-new-york-ny-bab51c6.html"
+   }, {
+      "id" : "53574325",
+      "versionId" : "g5364c361",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2025-11-02T21:20:50.325+0000",
+      "artist" : {
+         "mbid" : "47c8a452-4efb-45b4-a0d3-df506dbe42b2",
+         "name" : "Wang Chung",
+         "sortName" : "Wang Chung",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wang-chung-23d6b073.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wait"
+            }, {
+               "name" : "To Live and Die in L.A."
+            }, {
+               "name" : "Let's Go"
+            }, {
+               "name" : "Dance Hall Days"
+            }, {
+               "name" : "Should I Stay or Should I Go / Should I Wang or Should I Chung",
+               "info" : ">"
+            }, {
+               "name" : "Everybody Have Fun Tonight"
+            } ]
+         } ]
+      },
+      "info" : "4th performer of the evening",
+      "url" : "https://www.setlist.fm/setlist/wang-chung/2024/the-rooftop-at-pier-17-new-york-ny-53574325.html"
+   }, {
+      "id" : "4b574326",
+      "versionId" : "g2b59ecb6",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2025-02-06T01:33:47.789+0000",
+      "artist" : {
+         "mbid" : "bcabb743-60ed-406b-94da-9bf82e032e58",
+         "name" : "Men Without Hats",
+         "sortName" : "Men Without Hats",
+         "disambiguation" : "Canadian new wave/synthpop group",
+         "url" : "https://www.setlist.fm/setlists/men-without-hats-13d66995.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Safety Dance"
+            }, {
+               "name" : "Moonbeam"
+            }, {
+               "name" : "Where Do the Boys Go?"
+            }, {
+               "name" : "Antarctica"
+            }, {
+               "name" : "I Got the Message"
+            }, {
+               "name" : "Pop Goes the World"
+            }, {
+               "name" : "The Safety Dance",
+               "info" : "Extended Version"
+            } ]
+         } ]
+      },
+      "info" : "5th performer of the evening",
+      "url" : "https://www.setlist.fm/setlist/men-without-hats/2024/the-rooftop-at-pier-17-new-york-ny-4b574326.html"
+   }, {
+      "id" : "3ab51c7",
+      "versionId" : "g2ba0b026",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2024-07-20T03:44:02.810+0000",
+      "artist" : {
+         "mbid" : "78605d0c-7454-456d-934c-51eb46122566",
+         "name" : "Modern English",
+         "sortName" : "Modern English",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/modern-english-6bd6d616.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gathering Dust"
+            }, {
+               "name" : "Someone's Calling"
+            }, {
+               "name" : "Long in the Tooth"
+            }, {
+               "name" : "Crazy Lovers"
+            }, {
+               "name" : "Hands Across the Sea"
+            }, {
+               "name" : "I Melt With You"
+            } ]
+         } ]
+      },
+      "info" : "6th performer of the evening",
+      "url" : "https://www.setlist.fm/setlist/modern-english/2024/the-rooftop-at-pier-17-new-york-ny-3ab51c7.html"
+   }, {
+      "id" : "3ab51bf",
+      "versionId" : "g3a065f3",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2024-07-25T15:49:48.489+0000",
+      "artist" : {
+         "mbid" : "af64b3fc-96d9-47b1-9d1e-578cade7fbe8",
+         "name" : "Tom Bailey",
+         "sortName" : "Bailey, Tom",
+         "disambiguation" : "Thompson Twins",
+         "url" : "https://www.setlist.fm/setlists/tom-bailey-5bd6b39c.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love on Your Side",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               },
+               "info" : "with instrumental snippet of \"In the Name of Love\" after the line \"all my favorite records\""
+            }, {
+               "name" : "Lay Your Hands on Me",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            }, {
+               "name" : "If You Were Here",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            }, {
+               "name" : "King for a Day",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            }, {
+               "name" : "You Take Me Up",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            }, {
+               "name" : "Lies",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            }, {
+               "name" : "Doctor! Doctor!",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            }, {
+               "name" : "Hold Me Now",
+               "cover" : {
+                  "mbid" : "228af6b5-f691-4ed2-a63b-10cc6fcc1144",
+                  "name" : "Thompson Twins",
+                  "sortName" : "Thompson Twins",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thompson-twins-63d6ba33.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "7th performer of the evening",
+      "url" : "https://www.setlist.fm/setlist/tom-bailey/2024/the-rooftop-at-pier-17-new-york-ny-3ab51bf.html"
+   }, {
+      "id" : "1bab51b8",
+      "versionId" : "g737f5641",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2025-08-26T19:48:16.716+0000",
+      "artist" : {
+         "mbid" : "80038a3c-d174-4cd8-85d6-bd2599d078c5",
+         "name" : "Tommy Tutone",
+         "sortName" : "Tommy Tutone",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tommy-tutone-3bd60020.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Trust My Memory"
+            }, {
+               "name" : "Angel Say No / Cheap Date / Which Man Are You"
+            }, {
+               "name" : "Wild World",
+               "cover" : {
+                  "mbid" : "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+                  "name" : "Cat Stevens",
+                  "sortName" : "Stevens, Cat",
+                  "disambiguation" : "now known as Yusuf Islam",
+                  "url" : "https://www.setlist.fm/setlists/cat-stevens-33c6d855.html"
+               }
+            }, {
+               "name" : "867-5309/Jenny"
+            } ]
+         } ]
+      },
+      "info" : "2nd performer of the evening",
+      "url" : "https://www.setlist.fm/setlist/tommy-tutone/2024/the-rooftop-at-pier-17-new-york-ny-1bab51b8.html"
+   }, {
+      "id" : "13ab51c1",
+      "versionId" : "g23a0b013",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2024-07-20T03:45:17.269+0000",
+      "artist" : {
+         "mbid" : "5a8cc407-7efb-4e94-9637-d5896395e754",
+         "name" : "Thomas Dolby",
+         "sortName" : "Dolby, Thomas",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/thomas-dolby-63d6b64b.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Blue Monday",
+               "cover" : {
+                  "mbid" : "f1106b17-dcbb-45f6-b938-199ccfab50cc",
+                  "name" : "New Order",
+                  "sortName" : "New Order",
+                  "disambiguation" : "UK synth pop band",
+                  "url" : "https://www.setlist.fm/setlists/new-order-63d6b237.html"
+               }
+            }, {
+               "name" : "Europa and the Pirate Twins"
+            }, {
+               "name" : "One of Our Submarines",
+               "info" : "with instrumental snippet of Gary Numan's \"Cars\" during chorus"
+            }, {
+               "name" : "\"Heroes\"",
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               },
+               "info" : "preceded by story and footage of playing with Bowie at 'Live Aid' in 1985"
+            }, {
+               "name" : "Hyperactive!"
+            }, {
+               "name" : "She Blinded Me With Science"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hot Sauce"
+            } ]
+         } ]
+      },
+      "info" : "8th and final performer of the evening",
+      "url" : "https://www.setlist.fm/setlist/thomas-dolby/2024/the-rooftop-at-pier-17-new-york-ny-13ab51c1.html"
+   }, {
+      "id" : "13ab51b9",
+      "versionId" : "g23a0b0f7",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2024-07-20T03:51:04.878+0000",
+      "artist" : {
+         "mbid" : "f7967e11-c21b-4fed-b673-1b89761960da",
+         "name" : "Eddie Muñoz of The Plimsouls",
+         "sortName" : "Eddie Muñoz of The Plimsouls",
+         "disambiguation" : "Touring band name of Eddie Muñoz",
+         "url" : "https://www.setlist.fm/setlists/eddie-munoz-of-the-plimsouls-63e2b297.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Totally Tubular Festival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Zero Hour",
+               "cover" : {
+                  "mbid" : "43670151-f762-4c71-b560-d279d389eb44",
+                  "name" : "The Plimsouls",
+                  "sortName" : "Plimsouls, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-plimsouls-23d684df.html"
+               }
+            }, {
+               "name" : "Oldest Story in the World",
+               "cover" : {
+                  "mbid" : "43670151-f762-4c71-b560-d279d389eb44",
+                  "name" : "The Plimsouls",
+                  "sortName" : "Plimsouls, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-plimsouls-23d684df.html"
+               }
+            }, {
+               "name" : "Now",
+               "cover" : {
+                  "mbid" : "43670151-f762-4c71-b560-d279d389eb44",
+                  "name" : "The Plimsouls",
+                  "sortName" : "Plimsouls, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-plimsouls-23d684df.html"
+               }
+            }, {
+               "name" : "A Million Miles Away",
+               "cover" : {
+                  "mbid" : "43670151-f762-4c71-b560-d279d389eb44",
+                  "name" : "The Plimsouls",
+                  "sortName" : "Plimsouls, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-plimsouls-23d684df.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Played \"Now\" during the soundcheck at 3:45pm.",
+      "url" : "https://www.setlist.fm/setlist/eddie-munoz-of-the-plimsouls/2024/the-rooftop-at-pier-17-new-york-ny-13ab51b9.html"
+   }, {
+      "id" : "354391f",
+      "versionId" : "g1ba339c4",
+      "eventDate" : "17-07-2024",
+      "lastUpdated" : "2024-07-16T18:31:00.327+0000",
+      "artist" : {
+         "mbid" : "41e8fdb6-4fe4-403d-98fe-d1a7f4de0457",
+         "name" : "Molly Tuttle & Golden Highway",
+         "sortName" : "Tuttle, Molly & Golden Highway",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/molly-tuttle-and-golden-highway-53feabf1.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Down The Rabbit Hole Tour 2024"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/molly-tuttle-and-golden-highway/2024/the-rooftop-at-pier-17-new-york-ny-354391f.html"
+   }, {
+      "id" : "1b543918",
+      "versionId" : "g2b47c05a",
+      "eventDate" : "17-07-2024",
+      "lastUpdated" : "2025-02-21T14:58:36.174+0000",
+      "artist" : {
+         "mbid" : "0202af38-ac32-48d0-a546-87caaef2dee2",
+         "name" : "Old Crow Medicine Show",
+         "sortName" : "Old Crow Medicine Show",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/old-crow-medicine-show-1bd669f8.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Tell It to Me",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Alabama High-Test"
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Proud Mary",
+               "cover" : {
+                  "mbid" : "109958eb-a335-4c5e-907e-597ff4c6af46",
+                  "name" : "Creedence Clearwater Revival",
+                  "sortName" : "Creedence Clearwater Revival",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/creedence-clearwater-revival-5bd69794.html"
+               }
+            }, {
+               "name" : "Carry Me Back to Virginia"
+            }, {
+               "name" : "O Cumberland River"
+            }, {
+               "name" : "Lord Willing and the Creek Don't Rise"
+            }, {
+               "name" : "Great Balls of Fire",
+               "cover" : {
+                  "mbid" : "778f22a1-236d-44e2-8e77-bbe17bc8f0f1",
+                  "name" : "Otis Blackwell",
+                  "sortName" : "Blackwell, Otis",
+                  "disambiguation" : "American pianist, singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/otis-blackwell-6bd782a6.html"
+               }
+            }, {
+               "name" : "Take 'Em Away"
+            }, {
+               "name" : "Dixie Avenue"
+            }, {
+               "name" : "A World Away"
+            }, {
+               "name" : "Centerfield",
+               "cover" : {
+                  "mbid" : "c3649208-0ebe-449b-b1d7-4bd6c560f109",
+                  "name" : "John Fogerty",
+                  "sortName" : "Fogerty, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-fogerty-53d63fc1.html"
+               }
+            }, {
+               "name" : "Paint This Town"
+            }, {
+               "name" : "",
+               "info" : "…shake the devils hand…"
+            }, {
+               "name" : "Boatman's Dance",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "",
+               "info" : "Violin instrumental with Golden Highway violinist Bronwyn Keith-Hynes"
+            }, {
+               "name" : "Wagon Wheel",
+               "with" : {
+                  "mbid" : "968fb129-2c95-4fd5-b195-86552ba45c94",
+                  "name" : "Molly Tuttle",
+                  "sortName" : "Tuttle, Molly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/molly-tuttle-23cedc23.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/old-crow-medicine-show/2024/the-rooftop-at-pier-17-new-york-ny-1b543918.html"
+   }, {
+      "id" : "1b54b5e0",
+      "versionId" : "g3b5c88f8",
+      "eventDate" : "12-07-2024",
+      "lastUpdated" : "2024-12-20T10:47:06.231+0000",
+      "artist" : {
+         "mbid" : "e23eac42-f904-47da-8599-823ff431bea4",
+         "name" : "Michael Franti & Spearhead",
+         "sortName" : "Franti, Michael & Spearhead",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/michael-franti-and-spearhead-13d64d29.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Meet Me When The Sun Goes Down"
+            }, {
+               "name" : "I'm Alive"
+            }, {
+               "name" : "Good Life"
+            }, {
+               "name" : "Summertime Is In Our Hands"
+            }, {
+               "name" : "Life Is Better With You"
+            }, {
+               "name" : "The Sound of Sunshine"
+            }, {
+               "name" : "Vibe Check (My Kinda Party)"
+            }, {
+               "name" : "People Need People"
+            }, {
+               "name" : "I Got You"
+            }, {
+               "name" : "Good Day for a Good Day"
+            }, {
+               "name" : "Work Hard and Be Nice"
+            }, {
+               "name" : "Big Big Love"
+            }, {
+               "name" : "Life Is Better With You"
+            }, {
+               "name" : "Lost But Not Alone"
+            }, {
+               "name" : "Brighter Day"
+            }, {
+               "name" : "I Hope I Come Back as a Song"
+            }, {
+               "name" : "Happy Is The New Sexy"
+            }, {
+               "name" : "Hands Up To The Sky"
+            }, {
+               "name" : "Say Hey (I Love You)"
+            }, {
+               "name" : "Imagine",
+               "cover" : {
+                  "mbid" : "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "name" : "John Lennon",
+                  "sortName" : "Lennon, John",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/john-lennon-33d68875.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Acoustic Medley",
+               "info" : "Acoustic Song in front of stage w/Three Little Birds, Can’t Always Get What You Want,"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michael-franti-and-spearhead/2024/the-rooftop-at-pier-17-new-york-ny-1b54b5e0.html"
+   }, {
+      "id" : "5b574718",
+      "versionId" : "g43a38b23",
+      "eventDate" : "11-07-2024",
+      "lastUpdated" : "2024-07-14T19:17:19.745+0000",
+      "artist" : {
+         "mbid" : "64c08e7f-48ba-4a49-a18f-9ac648c8ac63",
+         "name" : "Daniel Donato",
+         "sortName" : "Donato, Daniel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/daniel-donato-bc871e2.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Workin' Man Blues",
+               "cover" : {
+                  "mbid" : "deb2448c-6fdf-4d31-921e-757630515dbd",
+                  "name" : "Merle Haggard",
+                  "sortName" : "Haggard, Merle",
+                  "disambiguation" : "US country singer, guitarist, fiddler & songwriter",
+                  "url" : "https://www.setlist.fm/setlists/merle-haggard-73d6de21.html"
+               }
+            }, {
+               "name" : "Lady Justice"
+            }, {
+               "name" : "The Arkansas Traveler",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Dance in the Desert"
+            }, {
+               "name" : "Lose Your Mind"
+            }, {
+               "name" : "Luck of the Draw",
+               "info" : ">"
+            }, {
+               "name" : "Sugar Leg Rag"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/daniel-donato/2024/the-rooftop-at-pier-17-new-york-ny-5b574718.html"
+   }, {
+      "id" : "1bab8184",
+      "versionId" : "g6ba276de",
+      "eventDate" : "11-07-2024",
+      "lastUpdated" : "2024-07-12T02:17:06.660+0000",
+      "artist" : {
+         "mbid" : "5fab339d-5dd4-42b0-8d70-496a4493ed59",
+         "name" : "moe.",
+         "sortName" : "moe.",
+         "disambiguation" : "US jam band",
+         "url" : "https://www.setlist.fm/setlists/moe-3d6ade7.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Best.Summer.Ever 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "New York City"
+            }, {
+               "name" : "Understand"
+            }, {
+               "name" : "Shoot First"
+            }, {
+               "name" : "Californ IA"
+            }, {
+               "name" : "No Rain",
+               "cover" : {
+                  "mbid" : "38c5cdab-5d6d-43d1-85b0-dac41bde186e",
+                  "name" : "Blind Melon",
+                  "sortName" : "Blind Melon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/blind-melon-bd689f6.html"
+               }
+            }, {
+               "name" : "Mexico",
+               "with" : {
+                  "mbid" : "64c08e7f-48ba-4a49-a18f-9ac648c8ac63",
+                  "name" : "Daniel Donato",
+                  "sortName" : "Donato, Daniel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/daniel-donato-bc871e2.html"
+               }
+            }, {
+               "name" : "Haze"
+            }, {
+               "name" : "Can't Find My Way Home",
+               "cover" : {
+                  "mbid" : "53fa91ca-a2b9-463d-b78e-daca9894082a",
+                  "name" : "Blind Faith",
+                  "sortName" : "Blind Faith",
+                  "disambiguation" : "English rock supergroup",
+                  "url" : "https://www.setlist.fm/setlists/blind-faith-3d6ad77.html"
+               }
+            }, {
+               "name" : "Jazz Wank"
+            }, {
+               "name" : "Spine of a Dog"
+            }, {
+               "name" : "Rebubula"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Gone"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/moe/2024/the-rooftop-at-pier-17-new-york-ny-1bab8184.html"
+   }, {
+      "id" : "4b54ffc2",
+      "versionId" : "gbad5132",
+      "eventDate" : "10-07-2024",
+      "lastUpdated" : "2024-09-01T20:24:12.049+0000",
+      "artist" : {
+         "mbid" : "bd2386cf-1696-4d38-8690-0723e92e41df",
+         "name" : "Meet Me @ the Altar",
+         "sortName" : "Meet Me at the Altar",
+         "disambiguation" : "American pop punk band",
+         "url" : "https://www.setlist.fm/setlists/meet-me-the-altar-6bf50a56.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Mother Mother x Cavetown"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Say It (to My Face)"
+            }, {
+               "name" : "Now or Never"
+            }, {
+               "name" : "Beyond My Control"
+            }, {
+               "name" : "Try"
+            }, {
+               "name" : "Same Language"
+            }, {
+               "name" : "T.M.I"
+            }, {
+               "name" : "Kool"
+            } ]
+         } ]
+      },
+      "info" : "Jill Beckett of the band Pollyanna played guitar in the absence of Téa Campbell",
+      "url" : "https://www.setlist.fm/setlist/meet-me-the-altar/2024/the-rooftop-at-pier-17-new-york-ny-4b54ffc2.html"
+   } ]
+}

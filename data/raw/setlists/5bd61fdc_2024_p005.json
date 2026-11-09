@@ -1,0 +1,1310 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 197,
+   "setlist" : [ {
+      "id" : "7ba87298",
+      "versionId" : "g43ac6b7b",
+      "eventDate" : "20-08-2024",
+      "lastUpdated" : "2024-08-23T20:41:04.024+0000",
+      "artist" : {
+         "mbid" : "62162215-b023-4f0e-84bd-1e9412d5b32c",
+         "name" : "All Time Low",
+         "sortName" : "All Time Low",
+         "disambiguation" : "pop punk from Maryland",
+         "url" : "https://www.setlist.fm/setlists/all-time-low-2bd6b8d2.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "All Time Low Forever Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Tell Me I'm Alive"
+            }, {
+               "name" : "Some Kind of Disaster"
+            }, {
+               "name" : "Weightless"
+            }, {
+               "name" : "Lost in Stereo"
+            }, {
+               "name" : "Six Feet Under the Stars"
+            }, {
+               "name" : "Poppin' Champagne"
+            }, {
+               "name" : "Damned If I Do Ya (Damned If I Don't)"
+            }, {
+               "name" : "Do You Want Me (Dead?) / Runaways"
+            }, {
+               "name" : "Somewhere in Neverland"
+            }, {
+               "name" : "Old Scars / Future Hearts"
+            }, {
+               "name" : "Glitter & Crimson"
+            }, {
+               "name" : "Missing You"
+            }, {
+               "name" : "Therapy"
+            }, {
+               "name" : "Sleepwalking"
+            }, {
+               "name" : "Are You There? / Melancholy Kaleidoscope"
+            }, {
+               "name" : "Dirty Laundry"
+            }, {
+               "name" : "Monsters"
+            }, {
+               "name" : "Calm Down",
+               "info" : "A Little Bit Louder Now version"
+            }, {
+               "name" : "My Own Worst Enemy",
+               "cover" : {
+                  "mbid" : "5ccb9a53-092d-4806-b337-470a582893d7",
+                  "name" : "Lit",
+                  "sortName" : "Lit",
+                  "disambiguation" : "rock band",
+                  "url" : "https://www.setlist.fm/setlists/lit-6bd6b6ee.html"
+               }
+            }, {
+               "name" : "Teenage Dirtbag",
+               "cover" : {
+                  "mbid" : "741a2892-1c5d-402f-a769-2096356c77d7",
+                  "name" : "Wheatus",
+                  "sortName" : "Wheatus",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wheatus-bd639ae.html"
+               }
+            }, {
+               "name" : "Dear Maria, Count Me In"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/all-time-low/2024/music-hall-of-williamsburg-brooklyn-ny-7ba87298.html"
+   }, {
+      "id" : "5b571318",
+      "versionId" : "g7bafe248",
+      "eventDate" : "07-08-2024",
+      "lastUpdated" : "2024-08-11T14:41:18.863+0000",
+      "artist" : {
+         "mbid" : "df3e84e8-c3bc-4ab5-9995-d90da46b0b57",
+         "name" : "Princess Goes",
+         "sortName" : "Princess Goes",
+         "disambiguation" : "formerly \"Princess Goes to the Butterfly Museum\"",
+         "url" : "https://www.setlist.fm/setlists/princess-goes-13f5e945.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Come of Age"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Offering"
+            }, {
+               "name" : "Vicious"
+            }, {
+               "name" : "Love American Style"
+            }, {
+               "name" : "Blur"
+            }, {
+               "name" : "Let It Go"
+            }, {
+               "name" : "The Deeper Down"
+            }, {
+               "name" : "Eat An Eraser"
+            }, {
+               "name" : "Nevertheless"
+            }, {
+               "name" : "Sideways"
+            }, {
+               "name" : "Glasswing"
+            }, {
+               "name" : "Beija"
+            }, {
+               "name" : "Jetpack"
+            }, {
+               "name" : "Tomorrow's Screams"
+            }, {
+               "name" : "Come Talk To Me"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Thanks for Coming"
+            }, {
+               "name" : "Cruel World",
+               "cover" : {
+                  "mbid" : "dfe78af2-779e-4137-826a-3073a16e3278",
+                  "name" : "Phantogram",
+                  "sortName" : "Phantogram",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/phantogram-7bd4063c.html"
+               }
+            }, {
+               "name" : "Come of Age"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/princess-goes/2024/music-hall-of-williamsburg-brooklyn-ny-5b571318.html"
+   }, {
+      "id" : "53551fd5",
+      "versionId" : "g6bafe242",
+      "eventDate" : "07-08-2024",
+      "lastUpdated" : "2024-08-11T14:42:12.005+0000",
+      "artist" : {
+         "mbid" : "74f2add6-e8b6-4323-a21b-443600379d16",
+         "name" : "Lydia Lunch",
+         "sortName" : "Lunch, Lydia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lydia-lunch-23d6942f.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lydia-lunch/2024/music-hall-of-williamsburg-brooklyn-ny-53551fd5.html"
+   }, {
+      "id" : "354a973",
+      "versionId" : "g33ae60c5",
+      "eventDate" : "06-08-2024",
+      "lastUpdated" : "2024-08-07T04:54:22.840+0000",
+      "artist" : {
+         "mbid" : "2faee3c1-74f7-4778-903f-c24b1293860d",
+         "name" : "Nai Palm",
+         "sortName" : "Palm, Nai",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nai-palm-3d8992f.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Get Sun",
+               "cover" : {
+                  "mbid" : "55c03773-59ea-4d4e-9057-87c2ecab005d",
+                  "name" : "Hiatus Kaiyote",
+                  "sortName" : "Hiatus Kaiyote",
+                  "disambiguation" : "Australian neo‐soul group",
+                  "url" : "https://www.setlist.fm/setlists/hiatus-kaiyote-1bde1d2c.html"
+               },
+               "info" : "Acoustic"
+            }, {
+               "name" : "Haiku",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Blackstar/Pyramid Song",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Breathing Underwater",
+               "cover" : {
+                  "mbid" : "55c03773-59ea-4d4e-9057-87c2ecab005d",
+                  "name" : "Hiatus Kaiyote",
+                  "sortName" : "Hiatus Kaiyote",
+                  "disambiguation" : "Australian neo‐soul group",
+                  "url" : "https://www.setlist.fm/setlists/hiatus-kaiyote-1bde1d2c.html"
+               },
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Everythings Beautiful",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Have You Ever Been (to Electric Ladyland)",
+               "cover" : {
+                  "mbid" : "33b3c323-77c2-417c-a5b4-af7e6a111cc9",
+                  "name" : "The Jimi Hendrix Experience",
+                  "sortName" : "Hendrix, Jimi, Experience, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-jimi-hendrix-experience-3d6ad57.html"
+               },
+               "info" : "Acoustic",
+               "with" : {
+                  "mbid" : "a099e90a-d08b-4d31-beb9-830cb0cc214a",
+                  "name" : "Elliott Skinner",
+                  "sortName" : "Skinner, Elliott",
+                  "disambiguation" : "singer, songwriter, producer, and multi‐instrumentalist from Brooklyn, NY",
+                  "url" : "https://www.setlist.fm/setlists/elliott-skinner-33fc2cc5.html"
+               }
+            }, {
+               "name" : "Otherside",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "When the Knife",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Atoll",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Molasses",
+               "cover" : {
+                  "mbid" : "55c03773-59ea-4d4e-9057-87c2ecab005d",
+                  "name" : "Hiatus Kaiyote",
+                  "sortName" : "Hiatus Kaiyote",
+                  "disambiguation" : "Australian neo‐soul group",
+                  "url" : "https://www.setlist.fm/setlists/hiatus-kaiyote-1bde1d2c.html"
+               },
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Baby Brother",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Crossfire / So Into You",
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "They All Go",
+               "cover" : {
+                  "mbid" : "55c03773-59ea-4d4e-9057-87c2ecab005d",
+                  "name" : "Hiatus Kaiyote",
+                  "sortName" : "Hiatus Kaiyote",
+                  "disambiguation" : "Australian neo‐soul group",
+                  "url" : "https://www.setlist.fm/setlists/hiatus-kaiyote-1bde1d2c.html"
+               },
+               "info" : "Acoustic solo"
+            }, {
+               "name" : "Borderline With My Atoms",
+               "cover" : {
+                  "mbid" : "55c03773-59ea-4d4e-9057-87c2ecab005d",
+                  "name" : "Hiatus Kaiyote",
+                  "sortName" : "Hiatus Kaiyote",
+                  "disambiguation" : "Australian neo‐soul group",
+                  "url" : "https://www.setlist.fm/setlists/hiatus-kaiyote-1bde1d2c.html"
+               },
+               "info" : "Acoustic solo"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Homebody",
+               "info" : "Acoustic",
+               "with" : {
+                  "mbid" : "a099e90a-d08b-4d31-beb9-830cb0cc214a",
+                  "name" : "Elliott Skinner",
+                  "sortName" : "Skinner, Elliott",
+                  "disambiguation" : "singer, songwriter, producer, and multi‐instrumentalist from Brooklyn, NY",
+                  "url" : "https://www.setlist.fm/setlists/elliott-skinner-33fc2cc5.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nai-palm/2024/music-hall-of-williamsburg-brooklyn-ny-354a973.html"
+   }, {
+      "id" : "1b54a970",
+      "versionId" : "g3ba56c1c",
+      "eventDate" : "06-08-2024",
+      "lastUpdated" : "2024-07-06T17:19:51.357+0000",
+      "artist" : {
+         "mbid" : "a099e90a-d08b-4d31-beb9-830cb0cc214a",
+         "name" : "Elliott Skinner",
+         "sortName" : "Skinner, Elliott",
+         "disambiguation" : "singer, songwriter, producer, and multi‐instrumentalist from Brooklyn, NY",
+         "url" : "https://www.setlist.fm/setlists/elliott-skinner-33fc2cc5.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elliott-skinner/2024/music-hall-of-williamsburg-brooklyn-ny-1b54a970.html"
+   }, {
+      "id" : "7b5642a0",
+      "versionId" : "g3a6f99b",
+      "eventDate" : "02-08-2024",
+      "lastUpdated" : "2024-06-12T06:54:41.248+0000",
+      "artist" : {
+         "mbid" : "afd55c72-d123-4237-9818-fa3ce634b3dd",
+         "name" : "Highly Suspect",
+         "sortName" : "Highly Suspect",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/highly-suspect-33d89819.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Summertime Voodoo"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/highly-suspect/2024/music-hall-of-williamsburg-brooklyn-ny-7b5642a0.html"
+   }, {
+      "id" : "6b545a9e",
+      "versionId" : "g1ba18524",
+      "eventDate" : "26-07-2024",
+      "lastUpdated" : "2024-07-27T16:34:07.319+0000",
+      "artist" : {
+         "mbid" : "d3a4e499-19cf-4676-8aff-4a326b47cdb2",
+         "name" : "Redd Kross",
+         "sortName" : "Redd Kross",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/redd-kross-7bd68e30.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Switchblade Sister"
+            }, {
+               "name" : "Stay Away From Downtown"
+            }, {
+               "name" : "Stunt Queen"
+            }, {
+               "name" : "Uglier"
+            }, {
+               "name" : "Huge Wonder"
+            }, {
+               "name" : "Annie's Gone"
+            }, {
+               "name" : "Pretty Please Me",
+               "cover" : {
+                  "mbid" : "d85545b5-76b5-4cd7-a87e-c5c5a6346fd4",
+                  "name" : "The Quick",
+                  "sortName" : "Quick, The",
+                  "disambiguation" : "USA punk band",
+                  "url" : "https://www.setlist.fm/setlists/the-quick-73d68ab1.html"
+               }
+            }, {
+               "name" : "I’ll Take Your Word for It"
+            }, {
+               "name" : "Mess Around"
+            }, {
+               "name" : "Candy Coloured Catastrophe"
+            }, {
+               "name" : "Jimmy's Fantasy"
+            }, {
+               "name" : "Lady in the Front Row"
+            }, {
+               "name" : "Neurotica"
+            }, {
+               "name" : "Peach Kelli Pop"
+            }, {
+               "name" : "Born Innocent"
+            }, {
+               "name" : "Linda Blair",
+               "info" : "1984 version"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Annette's Got the Hits"
+            }, {
+               "name" : "Standing in Front of Poseur"
+            }, {
+               "name" : "S & M Party"
+            }, {
+               "name" : "Crazy Horses",
+               "cover" : {
+                  "mbid" : "be96eda1-7e36-44f6-affe-80780400fae0",
+                  "name" : "The Osmonds",
+                  "sortName" : "Osmonds, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-osmonds-5bd7bb38.html"
+               }
+            }, {
+               "name" : "Deuce",
+               "cover" : {
+                  "mbid" : "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name" : "KISS",
+                  "sortName" : "KISS",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/redd-kross/2024/music-hall-of-williamsburg-brooklyn-ny-6b545a9e.html"
+   }, {
+      "id" : "63545a93",
+      "versionId" : "g436053db",
+      "eventDate" : "26-07-2024",
+      "lastUpdated" : "2025-12-05T00:30:51.767+0000",
+      "artist" : {
+         "mbid" : "9b93a71b-1484-4bea-b096-f660c1161f8a",
+         "name" : "Dale Crover",
+         "sortName" : "Crover, Dale",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dale-crover-63d68a17.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "DJ",
+            "song" : [ {
+               "name" : "Chantilly Lace",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "fa77efc7-e40a-438e-9521-a85e64e26044",
+                  "name" : "The Big Bopper",
+                  "sortName" : "Big Bopper, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-big-bopper-7bd64248.html"
+               }
+            }, {
+               "name" : "Fly Trouble",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "906bddec-bc73-49f8-ac1e-eaee691c6cf9",
+                  "name" : "Hank Williams",
+                  "sortName" : "Williams, Hank",
+                  "disambiguation" : "country music legend",
+                  "url" : "https://www.setlist.fm/setlists/hank-williams-6bd68a9a.html"
+               }
+            }, {
+               "name" : "Don't Bogart Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "64cbcf4d-ecc6-4ce7-ad25-aacef2fc6f51",
+                  "name" : "The Fraternity of Man",
+                  "sortName" : "Fraternity of Man, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-fraternity-of-man-73d72a85.html"
+               }
+            }, {
+               "name" : "Mah Na Ma Nah",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "c58e0afd-c093-4e8f-befe-090615708e5a",
+                  "name" : "Mahna Mahna and The Two Snowths",
+                  "sortName" : "Mahna Mahna and Two Snowths, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mahna-mahna-and-the-two-snowths-4bddbba2.html"
+               }
+            }, {
+               "name" : "Concrete and Clay",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4450f24a-5e5f-4508-acf6-ca526e252dc8",
+                  "name" : "Unit 4+2",
+                  "sortName" : "Unit 4+2",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/unit-42-33d7a8b9.html"
+               }
+            }, {
+               "name" : "I Wanna Be Your Man",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "Peanut Butter & Jelly",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "3df61bdc-6191-4021-82f0-74bcc70846b6",
+                  "name" : "The Buckwheat Boyz",
+                  "sortName" : "Buckwheat Boyz, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-buckwheat-boyz-5bd727cc.html"
+               }
+            }, {
+               "name" : "Bad To Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "86d312b4-3081-4a47-9679-10e9660886bc",
+                  "name" : "Billy J. Kramer",
+                  "sortName" : "Kramer, Billy J.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billy-j-kramer-43d62bb7.html"
+               }
+            }, {
+               "name" : "Not Fade Away",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "991231e0-95ce-46e0-9ec5-90b80ffac1e7",
+                  "name" : "Buddy Holly and The Crickets",
+                  "sortName" : "Holly, Buddy and The Crickets",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/buddy-holly-and-the-crickets-43e4e383.html"
+               }
+            }, {
+               "name" : "Saperlipopette",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9a126435-6a1d-45f5-b2c1-c72ed40ac2f8",
+                  "name" : "Clothilde",
+                  "sortName" : "Clothilde",
+                  "disambiguation" : "French singer, active in 1967",
+                  "url" : "https://www.setlist.fm/setlists/clothilde-bd6cdae.html"
+               }
+            }, {
+               "name" : "The Stripper",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "d11d5e00-faa5-4c52-986d-d95ceeaa8cb5",
+                  "name" : "David Rose",
+                  "sortName" : "Rose, David",
+                  "disambiguation" : "an American Violinist",
+                  "url" : "https://www.setlist.fm/setlists/david-rose-23cb7c13.html"
+               }
+            } ]
+         }, {
+            "name" : "Acoustic",
+            "song" : [ {
+               "name" : "I Can't Help You There"
+            }, {
+               "name" : "Doug Yuletide"
+            }, {
+               "name" : "Kitten Knife"
+            }, {
+               "name" : "The Bit",
+               "cover" : {
+                  "mbid" : "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+                  "name" : "Melvins",
+                  "sortName" : "Melvins",
+                  "disambiguation" : "US band",
+                  "url" : "https://www.setlist.fm/setlists/melvins-63d68a43.html"
+               }
+            }, {
+               "name" : "I'll Never Say"
+            }, {
+               "name" : "Jane"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dale-crover/2024/music-hall-of-williamsburg-brooklyn-ny-63545a93.html"
+   }, {
+      "id" : "53546305",
+      "versionId" : "g7ba00a44",
+      "eventDate" : "24-07-2024",
+      "lastUpdated" : "2024-07-24T12:55:00.299+0000",
+      "artist" : {
+         "mbid" : "904cc1c8-021e-45ac-bbe9-95c01a1f8099",
+         "name" : "Jah Wobble",
+         "sortName" : "Jah Wobble",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jah-wobble-53d6d701.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jah-wobble/2024/music-hall-of-williamsburg-brooklyn-ny-53546305.html"
+   }, {
+      "id" : "7b546664",
+      "versionId" : "g3ba00c38",
+      "eventDate" : "23-07-2024",
+      "lastUpdated" : "2024-07-24T05:14:30.396+0000",
+      "artist" : {
+         "mbid" : "e3f139c7-11bc-4803-82be-2bac85ca3c61",
+         "name" : "Fruit Bats",
+         "sortName" : "Fruit Bats",
+         "disambiguation" : "US indie/folk rock band",
+         "url" : "https://www.setlist.fm/setlists/fruit-bats-53d69b69.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "From a Soon-to-Be Ghost Town"
+            }, {
+               "name" : "My Sweet Midwest"
+            }, {
+               "name" : "Good Will Come to You"
+            }, {
+               "name" : "Waking Up in Los Angeles"
+            }, {
+               "name" : "On the Avalon Stairs"
+            }, {
+               "name" : "The Balcony"
+            }, {
+               "name" : "Shane"
+            }, {
+               "name" : "Rips Me Up"
+            }, {
+               "name" : "The Ruminant Band"
+            }, {
+               "name" : "The Pet Parade"
+            }, {
+               "name" : "Absolute Loser"
+            }, {
+               "name" : "The Rock Doc"
+            }, {
+               "name" : "A Lingering Love"
+            }, {
+               "name" : "Cazadera"
+            }, {
+               "name" : "Flamingo"
+            }, {
+               "name" : "Rushin’ River Valley"
+            }, {
+               "name" : "When U Love Somebody"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "You're Too Weird"
+            }, {
+               "name" : "Drawn Away"
+            }, {
+               "name" : "Humbug Mountain Song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fruit-bats/2024/music-hall-of-williamsburg-brooklyn-ny-7b546664.html"
+   }, {
+      "id" : "4b5463ce",
+      "versionId" : "g1ba0056c",
+      "eventDate" : "23-07-2024",
+      "lastUpdated" : "2024-07-24T13:11:41.493+0000",
+      "artist" : {
+         "mbid" : "e24bca91-8106-464a-bc42-757f1ab24af3",
+         "name" : "Jenny Owen Youngs",
+         "sortName" : "Youngs, Jenny Owen",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jenny-owen-youngs-43d6531b.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jenny-owen-youngs/2024/music-hall-of-williamsburg-brooklyn-ny-4b5463ce.html"
+   }, {
+      "id" : "b54c142",
+      "versionId" : "g33a3d421",
+      "eventDate" : "19-07-2024",
+      "lastUpdated" : "2024-07-15T21:03:33.691+0000",
+      "artist" : {
+         "mbid" : "b580b305-105c-40d4-a361-580de8973cd0",
+         "name" : "guccihighwaters",
+         "sortName" : "guccihighwaters",
+         "disambiguation" : "Rapper",
+         "url" : "https://www.setlist.fm/setlists/guccihighwaters-3f6c1ef.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/guccihighwaters/2024/music-hall-of-williamsburg-brooklyn-ny-b54c142.html"
+   }, {
+      "id" : "635472ab",
+      "versionId" : "gba039a2",
+      "eventDate" : "18-07-2024",
+      "lastUpdated" : "2024-07-23T04:12:31.884+0000",
+      "artist" : {
+         "mbid" : "6ddbdf87-fd35-4a72-b3ff-8eabdc2ce46e",
+         "name" : "Brijean",
+         "sortName" : "Brijean",
+         "disambiguation" : "pop duo Brijean Murphy & Doug Stuart",
+         "url" : "https://www.setlist.fm/setlists/brijean-33f740c1.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brijean/2024/music-hall-of-williamsburg-brooklyn-ny-635472ab.html"
+   }, {
+      "id" : "3b548c50",
+      "versionId" : "g4b55afd2",
+      "eventDate" : "08-07-2024",
+      "lastUpdated" : "2024-10-27T18:06:38.748+0000",
+      "artist" : {
+         "mbid" : "c9e13fbc-4eba-4eeb-96ff-b26262aba894",
+         "name" : "Elliot Lee",
+         "sortName" : "Lee, Elliot",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/elliot-lee-3f1a12b.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sicko"
+            }, {
+               "name" : "Fun"
+            }, {
+               "name" : "54321"
+            }, {
+               "name" : "Funny Bunny"
+            }, {
+               "name" : "Pink (Freak)"
+            }, {
+               "name" : "Exalt",
+               "info" : "New song"
+            }, {
+               "name" : "Easy to Be You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elliot-lee/2024/music-hall-of-williamsburg-brooklyn-ny-3b548c50.html"
+   }, {
+      "id" : "33548c41",
+      "versionId" : "gb548522",
+      "eventDate" : "08-07-2024",
+      "lastUpdated" : "2024-10-21T05:54:50.544+0000",
+      "artist" : {
+         "mbid" : "b17da827-9bb0-4975-91cf-fb7cb18cab2e",
+         "name" : "Brooke Alexx",
+         "sortName" : "Alexx, Brooke",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/brooke-alexx-53fcabb1.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Never Liked Your Name"
+            }, {
+               "name" : "Move to LA (I Don't Wanna)"
+            }, {
+               "name" : "Grace"
+            }, {
+               "name" : "Hot Like You"
+            }, {
+               "name" : "I'm Sorry, Tokyo"
+            }, {
+               "name" : "Girlfriend"
+            }, {
+               "name" : "Intimidate You"
+            }, {
+               "name" : "Oldest"
+            }, {
+               "name" : "Summer in the Hamptons"
+            }, {
+               "name" : "Younger Guys"
+            }, {
+               "name" : "All My Exes' Moms"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brooke-alexx/2024/music-hall-of-williamsburg-brooklyn-ny-33548c41.html"
+   }, {
+      "id" : "2b548c62",
+      "versionId" : "g5b5f07e0",
+      "eventDate" : "08-07-2024",
+      "lastUpdated" : "2024-12-16T11:47:44.207+0000",
+      "artist" : {
+         "mbid" : "43bce2bc-b4b3-413a-95d1-eae2fc6bb86f",
+         "name" : "Arrows in Action",
+         "sortName" : "Arrows in Action",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/arrows-in-action-1bf77d78.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "The Back To Life Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Time"
+            }, {
+               "name" : "The Credits"
+            }, {
+               "name" : "Cold"
+            }, {
+               "name" : "Entropy"
+            }, {
+               "name" : "Learned My Lesson"
+            }, {
+               "name" : "Endeavor"
+            }, {
+               "name" : "Checking In"
+            }, {
+               "name" : "Only Be Mine"
+            }, {
+               "name" : "Permanent Vacation"
+            }, {
+               "name" : "All The Ways I Could Die"
+            }, {
+               "name" : "Failing on Purpose"
+            }, {
+               "name" : "Over it / Beautiful Soul"
+            }, {
+               "name" : "Forfeit / Denim / Three Night Stand / Close Enough"
+            }, {
+               "name" : "Head in the Clouds"
+            }, {
+               "name" : "High"
+            }, {
+               "name" : "Hello Sunlight!"
+            }, {
+               "name" : "Put You Through Me"
+            }, {
+               "name" : "Uncomfortably Numb"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arrows-in-action/2024/music-hall-of-williamsburg-brooklyn-ny-2b548c62.html"
+   }, {
+      "id" : "73ab32f9",
+      "versionId" : "g4bb11fca",
+      "eventDate" : "01-07-2024",
+      "lastUpdated" : "2024-04-03T00:42:36.191+0000",
+      "artist" : {
+         "mbid" : "2f360fd9-6440-4896-9f45-8156e8b0b204",
+         "name" : "Pedro the Lion",
+         "sortName" : "Pedro the Lion",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pedro-the-lion-53d69b21.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Santa Cruz Tour 2024"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pedro-the-lion/2024/music-hall-of-williamsburg-brooklyn-ny-73ab32f9.html"
+   }, {
+      "id" : "6354729f",
+      "versionId" : "g3ba03868",
+      "eventDate" : "01-07-2024",
+      "lastUpdated" : "2024-07-23T04:23:06.046+0000",
+      "artist" : {
+         "mbid" : "4ecf50fc-b788-4d67-9972-ff6e1aed5295",
+         "name" : "Flock of Dimes",
+         "sortName" : "Flock of Dimes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/flock-of-dimes-23dfd4a7.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flock-of-dimes/2024/music-hall-of-williamsburg-brooklyn-ny-6354729f.html"
+   }, {
+      "id" : "b576552",
+      "versionId" : "g6ba442ca",
+      "eventDate" : "30-06-2024",
+      "lastUpdated" : "2024-07-01T14:47:13.454+0000",
+      "artist" : {
+         "mbid" : "e7807164-6ae4-41d4-bdae-c5f475022e96",
+         "name" : "runo plum",
+         "sortName" : "runo plum",
+         "disambiguation" : "indie folk/rock artist from Minnesota",
+         "url" : "https://www.setlist.fm/setlists/runo-plum-73fe0279.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pond"
+            }, {
+               "name" : "Elephant"
+            }, {
+               "name" : "Butterflies"
+            }, {
+               "name" : "Wallowing"
+            }, {
+               "name" : "Simple Things"
+            }, {
+               "name" : "The Quiet One"
+            }, {
+               "name" : "band aids"
+            }, {
+               "name" : "gathering"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/runo-plum/2024/music-hall-of-williamsburg-brooklyn-ny-b576552.html"
+   }, {
+      "id" : "1b576544",
+      "versionId" : "g6b1cca3a",
+      "eventDate" : "30-06-2024",
+      "lastUpdated" : "2026-05-14T03:31:33.702+0000",
+      "artist" : {
+         "mbid" : "c1401838-551f-4176-8594-86f0ce28d3c2",
+         "name" : "Searows",
+         "sortName" : "Searows",
+         "disambiguation" : "indie folk project of Alec Duckart from Portland, Oregon",
+         "url" : "https://www.setlist.fm/setlists/searows-3fde507.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Older"
+            }, {
+               "name" : "Collector"
+            }, {
+               "name" : "Keep the Rain"
+            }, {
+               "name" : "Roadkill"
+            }, {
+               "name" : "Used to Be Friends"
+            }, {
+               "name" : "End of the World"
+            }, {
+               "name" : "Hunter",
+               "info" : "New song"
+            }, {
+               "name" : "Villain"
+            }, {
+               "name" : "Coming Clean"
+            }, {
+               "name" : "",
+               "info" : "Unreleased, New song"
+            }, {
+               "name" : "I Can and I Will"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "House Song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/searows/2024/music-hall-of-williamsburg-brooklyn-ny-1b576544.html"
+   } ]
+}

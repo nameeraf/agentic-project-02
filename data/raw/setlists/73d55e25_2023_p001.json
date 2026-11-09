@@ -1,0 +1,1976 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 175,
+   "setlist" : [ {
+      "id" : "6baff226",
+      "versionId" : "g738b9e11",
+      "eventDate" : "31-12-2023",
+      "lastUpdated" : "2023-12-30T01:34:08.491+0000",
+      "artist" : {
+         "mbid" : "ffa12b9b-3842-443c-8da2-3e06dace2970",
+         "name" : "Maxo Kream",
+         "sortName" : "Maxo Kream",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maxo-kream-53da431d.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maxo-kream/2023/brooklyn-steel-brooklyn-ny-6baff226.html"
+   }, {
+      "id" : "6baff6be",
+      "versionId" : "g38b358f",
+      "eventDate" : "30-12-2023",
+      "lastUpdated" : "2024-01-02T13:53:04.903+0000",
+      "artist" : {
+         "mbid" : "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+         "name" : "Patti Smith",
+         "sortName" : "Smith, Patti",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/patti-smith-73d6a2c9.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "So You Want to Be a Rock 'n' Roll Star",
+               "cover" : {
+                  "mbid" : "2819834e-4e08-47b0-a2c4-b7672318e8f0",
+                  "name" : "The Byrds",
+                  "sortName" : "Byrds, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-byrds-13d6adb9.html"
+               }
+            }, {
+               "name" : "Free Money"
+            }, {
+               "name" : "Ghost Dance",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Guiding Light",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Masters of War",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Nine"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "sung to Patti, with a cake presentation"
+            }, {
+               "name" : "Dancing Barefoot",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               },
+               "with" : {
+                  "mbid" : "f0882d14-446e-4172-9736-98fbc1395fce",
+                  "name" : "Jesse Paris Smith",
+                  "sortName" : "Smith, Jesse Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-paris-smith-43d9a737.html"
+               }
+            }, {
+               "name" : "77 Sunset Strip Intro Theme Song",
+               "cover" : {
+                  "mbid" : "8f66d128-8f15-4d0a-8a83-e7d866577b6d",
+                  "name" : "The Warren Barker Orchestra",
+                  "sortName" : "Barker, Warren, Orchestra, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-warren-barker-orchestra-4bc6dfd6.html"
+               },
+               "info" : "lead vocals; snippet",
+               "with" : {
+                  "mbid" : "47455aa4-c71e-4662-a775-33b81fcf0a37",
+                  "name" : "Lenny Kaye",
+                  "sortName" : "Kaye, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kaye-23d620eb.html"
+               }
+            }, {
+               "name" : "Two Sevens Clash",
+               "cover" : {
+                  "mbid" : "dda3f50d-2205-40c6-8f70-223f2eacd92a",
+                  "name" : "Culture",
+                  "sortName" : "Culture",
+                  "disambiguation" : "Jamaican reggae band",
+                  "url" : "https://www.setlist.fm/setlists/culture-4bd6cfba.html"
+               },
+               "info" : "Lenny Kaye lead vocal, lyrics changed to cover Lenny's life, for his and Patti's 77th birthdays"
+            }, {
+               "name" : "Ain't It Strange",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Work",
+               "cover" : {
+                  "mbid" : "a78f1671-3ebf-4822-b2bd-70ccc3088c2d",
+                  "name" : "Charlotte Day Wilson",
+                  "sortName" : "Wilson, Charlotte Day",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlotte-day-wilson-3c2cd87.html"
+               }
+            }, {
+               "name" : "Beneath the Southern Cross",
+               "info" : "with The Pogues' “Fairytale of New York” instrumental snippet"
+            }, {
+               "name" : "Vissi d'arte (\"I Lived for Art\")",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               }
+            }, {
+               "name" : "Pissing in a River",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Land",
+               "info" : ">"
+            }, {
+               "name" : "Gloria",
+               "cover" : {
+                  "mbid" : "dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6",
+                  "name" : "Them",
+                  "sortName" : "Them",
+                  "disambiguation" : "Northern Irish group originally feat. Van Morrison",
+                  "url" : "https://www.setlist.fm/setlists/them-33d6ac81.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Because the Night",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "People Have the Power",
+               "info" : "and Rich Rybinski",
+               "with" : {
+                  "mbid" : "f0882d14-446e-4172-9736-98fbc1395fce",
+                  "name" : "Jesse Paris Smith",
+                  "sortName" : "Smith, Jesse Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-paris-smith-43d9a737.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Patti Smith's 77th birthday",
+      "url" : "https://www.setlist.fm/setlist/patti-smith/2023/brooklyn-steel-brooklyn-ny-6baff6be.html"
+   }, {
+      "id" : "23af882b",
+      "versionId" : "g1b8bf994",
+      "eventDate" : "29-12-2023",
+      "lastUpdated" : "2023-12-31T08:09:00.052+0000",
+      "artist" : {
+         "mbid" : "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+         "name" : "Patti Smith",
+         "sortName" : "Smith, Patti",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/patti-smith-73d6a2c9.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "So You Want to Be a Rock 'n' Roll Star",
+               "cover" : {
+                  "mbid" : "2819834e-4e08-47b0-a2c4-b7672318e8f0",
+                  "name" : "The Byrds",
+                  "sortName" : "Byrds, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-byrds-13d6adb9.html"
+               }
+            }, {
+               "name" : "Free Money"
+            }, {
+               "name" : "Ghost Dance",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Guiding Light",
+               "cover" : {
+                  "mbid" : "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+                  "name" : "Television",
+                  "sortName" : "Television",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/television-7bd6ae1c.html"
+               }
+            }, {
+               "name" : "Masters of War",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Nine"
+            }, {
+               "name" : "Dancing Barefoot",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "77 Sunset Strip Intro Theme Song",
+               "cover" : {
+                  "mbid" : "8f66d128-8f15-4d0a-8a83-e7d866577b6d",
+                  "name" : "The Warren Barker Orchestra",
+                  "sortName" : "Barker, Warren, Orchestra, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-warren-barker-orchestra-4bc6dfd6.html"
+               },
+               "info" : "lead vocal, Snippet",
+               "with" : {
+                  "mbid" : "47455aa4-c71e-4662-a775-33b81fcf0a37",
+                  "name" : "Lenny Kaye",
+                  "sortName" : "Kaye, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kaye-23d620eb.html"
+               }
+            }, {
+               "name" : "Two Sevens Clash",
+               "cover" : {
+                  "mbid" : "dda3f50d-2205-40c6-8f70-223f2eacd92a",
+                  "name" : "Culture",
+                  "sortName" : "Culture",
+                  "disambiguation" : "Jamaican reggae band",
+                  "url" : "https://www.setlist.fm/setlists/culture-4bd6cfba.html"
+               },
+               "info" : "Lenny Kaye lead vocal, lyrics changed to cover Lenny's life, for his and Patti's 77th Birthdays"
+            }, {
+               "name" : "Ain't It Strange",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Work",
+               "cover" : {
+                  "mbid" : "a78f1671-3ebf-4822-b2bd-70ccc3088c2d",
+                  "name" : "Charlotte Day Wilson",
+                  "sortName" : "Wilson, Charlotte Day",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlotte-day-wilson-3c2cd87.html"
+               }
+            }, {
+               "name" : "Beneath the Southern Cross",
+               "info" : "with “Fairytale of New York”"
+            }, {
+               "name" : "Vissi d'arte (\"I Lived for Art\")",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               },
+               "info" : "Maria Callas aria from Tosca, Translated to English and spoken"
+            }, {
+               "name" : "Pissing in a River",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "Land",
+               "info" : ">"
+            }, {
+               "name" : "Gloria",
+               "cover" : {
+                  "mbid" : "dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6",
+                  "name" : "Them",
+                  "sortName" : "Them",
+                  "disambiguation" : "Northern Irish group originally feat. Van Morrison",
+                  "url" : "https://www.setlist.fm/setlists/them-33d6ac81.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Because the Night",
+               "cover" : {
+                  "mbid" : "26638df8-ef34-40d1-8d93-616836b72878",
+                  "name" : "Patti Smith Group",
+                  "sortName" : "Smith, Patti, Group",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/patti-smith-group-53d657bd.html"
+               }
+            }, {
+               "name" : "People Have the Power",
+               "info" : "and her high school friend Laura",
+               "with" : {
+                  "mbid" : "f0882d14-446e-4172-9736-98fbc1395fce",
+                  "name" : "Jesse Paris Smith",
+                  "sortName" : "Smith, Jesse Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-paris-smith-43d9a737.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Patti Smith, Lenny Kaye, Tony Shanahan, Jay Dee Daugherty, and Jackson Smith",
+      "url" : "https://www.setlist.fm/setlist/patti-smith/2023/brooklyn-steel-brooklyn-ny-23af882b.html"
+   }, {
+      "id" : "3ae0def",
+      "versionId" : "g538ddf85",
+      "eventDate" : "12-12-2023",
+      "lastUpdated" : "2023-12-10T15:39:57.914+0000",
+      "artist" : {
+         "mbid" : "abaa7001-0d80-4e58-be5d-d2d246fd9d87",
+         "name" : "Majid Jordan",
+         "sortName" : "Majid Jordan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/majid-jordan-4bdaa362.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Good People Live"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/majid-jordan/2023/brooklyn-steel-brooklyn-ny-3ae0def.html"
+   }, {
+      "id" : "13ae0de1",
+      "versionId" : "g6b8dde7e",
+      "eventDate" : "12-12-2023",
+      "lastUpdated" : "2023-12-10T15:40:27.509+0000",
+      "artist" : {
+         "mbid" : "9b2643ae-216c-44a9-9ccf-d548eb7391d7",
+         "name" : "Alex Lustig",
+         "sortName" : "Lustig, Alex",
+         "disambiguation" : "Belgian producer, keyboardist, songwriter",
+         "url" : "https://www.setlist.fm/setlists/alex-lustig-6bcb2e76.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alex-lustig/2023/brooklyn-steel-brooklyn-ny-13ae0de1.html"
+   }, {
+      "id" : "1bae0de8",
+      "versionId" : "g338a2405",
+      "eventDate" : "11-12-2023",
+      "lastUpdated" : "2023-12-22T02:01:00.811+0000",
+      "artist" : {
+         "mbid" : "abaa7001-0d80-4e58-be5d-d2d246fd9d87",
+         "name" : "Majid Jordan",
+         "sortName" : "Majid Jordan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/majid-jordan-4bdaa362.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Good People Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Alex Lustig",
+            "song" : [ {
+               "name" : "Glow",
+               "with" : {
+                  "mbid" : "9b2643ae-216c-44a9-9ccf-d548eb7391d7",
+                  "name" : "Alex Lustig",
+                  "sortName" : "Lustig, Alex",
+                  "disambiguation" : "Belgian producer, keyboardist, songwriter",
+                  "url" : "https://www.setlist.fm/setlists/alex-lustig-6bcb2e76.html"
+               }
+            }, {
+               "name" : "Dream"
+            }, {
+               "name" : "Energy (Extended)"
+            }, {
+               "name" : "Stardust"
+            }, {
+               "name" : "Midnight (Ambient Extended Edit)"
+            }, {
+               "name" : "Serenity"
+            }, {
+               "name" : "Fade (Extended)"
+            }, {
+               "name" : "Falling Back (Extended Edit)",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "N 2 Deep",
+               "cover" : {
+                  "mbid" : "6879120b-d6c0-4a99-a639-f38fb7f9683d",
+                  "name" : "Drake feat. Future",
+                  "sortName" : "Drake feat. Future",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-feat-future-2bdec07e.html"
+               }
+            }, {
+               "name" : "One in A Million (Remix)",
+               "cover" : {
+                  "mbid" : "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
+                  "name" : "Aaliyah",
+                  "sortName" : "Aaliyah",
+                  "disambiguation" : "American R&B singer",
+                  "url" : "https://www.setlist.fm/setlists/aaliyah-2bd69c16.html"
+               }
+            }, {
+               "name" : "NEVER AGAIN",
+               "cover" : {
+                  "mbid" : "f23ef341-33bd-47c1-b83c-846a78581f05",
+                  "name" : "PARTYNEXTDOOR",
+                  "sortName" : "PARTYNEXTDOOR",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/partynextdoor-4bdd6b2a.html"
+               }
+            }, {
+               "name" : "Neo"
+            }, {
+               "name" : "In Vain"
+            }, {
+               "name" : "Holding in Place",
+               "cover" : {
+                  "mbid" : "35a65ea0-61ee-4763-b657-951931e5fa9a",
+                  "name" : "Naomi Sharon",
+                  "sortName" : "Sharon, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-sharon-63fa361f.html"
+               }
+            }, {
+               "name" : "If This Is Love",
+               "cover" : {
+                  "mbid" : "35a65ea0-61ee-4763-b657-951931e5fa9a",
+                  "name" : "Naomi Sharon",
+                  "sortName" : "Sharon, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-sharon-63fa361f.html"
+               }
+            }, {
+               "name" : "7969 (Extended Edit)",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Eyes Closed (Remix)"
+            } ]
+         }, {
+            "name" : "Majid Jordan",
+            "song" : [ {
+               "name" : "Tears in Your Eyes"
+            }, {
+               "name" : "Waiting for You"
+            }, {
+               "name" : "Eyes Closed"
+            }, {
+               "name" : "Hands Tied"
+            }, {
+               "name" : "Slip"
+            }, {
+               "name" : "Violet"
+            }, {
+               "name" : "The Message"
+            }, {
+               "name" : "Cyanide"
+            }, {
+               "name" : "Sunset"
+            }, {
+               "name" : "Far Away"
+            }, {
+               "name" : "Tea & Coffee"
+            }, {
+               "name" : "Her"
+            }, {
+               "name" : "Gave Your Love Away"
+            }, {
+               "name" : "Small Talk"
+            }, {
+               "name" : "Every Step Every Way"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Waves of Blue"
+            }, {
+               "name" : "OG Heartthrob"
+            }, {
+               "name" : "Give Me A Reason"
+            }, {
+               "name" : "Chill Pad Deluxe"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Summers Over Interlude",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "King City"
+            } ]
+         } ]
+      },
+      "info" : "First show",
+      "url" : "https://www.setlist.fm/setlist/majid-jordan/2023/brooklyn-steel-brooklyn-ny-1bae0de8.html"
+   }, {
+      "id" : "5baef720",
+      "versionId" : "g138c6da9",
+      "eventDate" : "29-11-2023",
+      "lastUpdated" : "2023-12-05T23:44:43.016+0000",
+      "artist" : {
+         "mbid" : "f59a5dac-939a-4f12-a35c-9a49676f6898",
+         "name" : "Flatbush ZOMBiES",
+         "sortName" : "Flatbush Zombies",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/flatbush-zombies-2bdf9012.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "BetterOffDead 10 Year Anniversary tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "AmeriKKKan Pie"
+            }, {
+               "name" : "MRAZ"
+            }, {
+               "name" : "G Tearz"
+            }, {
+               "name" : "My Team, SUPREME"
+            }, {
+               "name" : "Minephuck"
+            }, {
+               "name" : "Dizzy",
+               "cover" : {
+                  "mbid" : "2865b7e0-0dc3-42d4-b37b-eda317621434",
+                  "name" : "Zombie Juice",
+                  "sortName" : "Zombie Juice",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zombie-juice-33cc5cb1.html"
+               }
+            }, {
+               "name" : "Death 1"
+            }, {
+               "name" : "Death 2"
+            }, {
+               "name" : "222"
+            }, {
+               "name" : "Shook Up",
+               "cover" : {
+                  "mbid" : "dbfff37c-146d-4415-b765-9a76d48c749c",
+                  "name" : "Erick the Architect",
+                  "sortName" : "Erick the Architect",
+                  "disambiguation" : "fka Erick Arc Elliott",
+                  "url" : "https://www.setlist.fm/setlists/erick-the-architect-5bdc675c.html"
+               }
+            }, {
+               "name" : "Survival Tactics"
+            }, {
+               "name" : "No Ice",
+               "cover" : {
+                  "mbid" : "dbfff37c-146d-4415-b765-9a76d48c749c",
+                  "name" : "Erick the Architect",
+                  "sortName" : "Erick the Architect",
+                  "disambiguation" : "fka Erick Arc Elliott",
+                  "url" : "https://www.setlist.fm/setlists/erick-the-architect-5bdc675c.html"
+               }
+            }, {
+               "name" : "Bath Salt",
+               "cover" : {
+                  "mbid" : "938bbcc7-3c04-4209-85fb-fa8b3dcd2672",
+                  "name" : "A$AP Mob",
+                  "sortName" : "ASAP Mob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aap-mob-23df9023.html"
+               }
+            }, {
+               "name" : "Bliss"
+            }, {
+               "name" : "Bounce"
+            }, {
+               "name" : "Palm Trees"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flatbush-zombies/2023/brooklyn-steel-brooklyn-ny-5baef720.html"
+   }, {
+      "id" : "73aeb6c9",
+      "versionId" : "g1b8f259c",
+      "eventDate" : "27-11-2023",
+      "lastUpdated" : "2023-11-25T08:45:39.041+0000",
+      "artist" : {
+         "mbid" : "1395c84b-2e84-4f25-9962-f1c0d5aa31ed",
+         "name" : "Noname",
+         "sortName" : "Noname",
+         "disambiguation" : "Chicago rapper",
+         "url" : "https://www.setlist.fm/setlists/noname-13c34535.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Sundial Tour 2023"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noname/2023/brooklyn-steel-brooklyn-ny-73aeb6c9.html"
+   }, {
+      "id" : "5baeafb8",
+      "versionId" : "g53a19f69",
+      "eventDate" : "25-11-2023",
+      "lastUpdated" : "2024-07-27T01:14:55.648+0000",
+      "artist" : {
+         "mbid" : "d3db61cb-8699-4dea-9aa3-54a4a3ca4c70",
+         "name" : "Andrew McMahon in the Wilderness",
+         "sortName" : "McMahon, Andrew, in the Wilderness",
+         "disambiguation" : "Andrew McMahon project started in 2014",
+         "url" : "https://www.setlist.fm/setlists/andrew-mcmahon-in-the-wilderness-3bf8a474.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "New Friends"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nobody Tells You When You're Young"
+            }, {
+               "name" : "The Mixed Tape",
+               "cover" : {
+                  "mbid" : "2b6514cd-d424-45fe-ab85-bd8719f4492d",
+                  "name" : "Jack’s Mannequin",
+                  "sortName" : "Jack’s Mannequin",
+                  "disambiguation" : "US | pop-rock",
+                  "url" : "https://www.setlist.fm/setlists/jacks-mannequin-23d6b843.html"
+               }
+            }, {
+               "name" : "Stars"
+            }, {
+               "name" : "Fire Escape"
+            }, {
+               "name" : "Submarine"
+            }, {
+               "name" : "I Woke Up in a Car",
+               "cover" : {
+                  "mbid" : "8dacf242-9bf7-44f5-b2eb-18305b904551",
+                  "name" : "Something Corporate",
+                  "sortName" : "Something Corporate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/something-corporate-23d6b84f.html"
+               }
+            }, {
+               "name" : "The Resolution",
+               "cover" : {
+                  "mbid" : "2b6514cd-d424-45fe-ab85-bd8719f4492d",
+                  "name" : "Jack’s Mannequin",
+                  "sortName" : "Jack’s Mannequin",
+                  "disambiguation" : "US | pop-rock",
+                  "url" : "https://www.setlist.fm/setlists/jacks-mannequin-23d6b843.html"
+               }
+            }, {
+               "name" : "Dead Man's Dollar"
+            }, {
+               "name" : "Smoke & Ribbons",
+               "info" : "Performed with Cecilia McMahon"
+            }, {
+               "name" : "Bruised",
+               "cover" : {
+                  "mbid" : "2b6514cd-d424-45fe-ab85-bd8719f4492d",
+                  "name" : "Jack’s Mannequin",
+                  "sortName" : "Jack’s Mannequin",
+                  "disambiguation" : "US | pop-rock",
+                  "url" : "https://www.setlist.fm/setlists/jacks-mannequin-23d6b843.html"
+               }
+            }, {
+               "name" : "High Dive"
+            }, {
+               "name" : "Me and the Moon",
+               "cover" : {
+                  "mbid" : "8dacf242-9bf7-44f5-b2eb-18305b904551",
+                  "name" : "Something Corporate",
+                  "sortName" : "Something Corporate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/something-corporate-23d6b84f.html"
+               }
+            }, {
+               "name" : "Skywriting"
+            }, {
+               "name" : "La La Lie",
+               "cover" : {
+                  "mbid" : "2b6514cd-d424-45fe-ab85-bd8719f4492d",
+                  "name" : "Jack’s Mannequin",
+                  "sortName" : "Jack’s Mannequin",
+                  "disambiguation" : "US | pop-rock",
+                  "url" : "https://www.setlist.fm/setlists/jacks-mannequin-23d6b843.html"
+               },
+               "info" : "Performed with karaoke contest winner"
+            }, {
+               "name" : "Rainy Girl"
+            }, {
+               "name" : "Punk Rock Princess",
+               "cover" : {
+                  "mbid" : "8dacf242-9bf7-44f5-b2eb-18305b904551",
+                  "name" : "Something Corporate",
+                  "sortName" : "Something Corporate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/something-corporate-23d6b84f.html"
+               },
+               "info" : "Originally Watch the Sky, changed because of a heckler"
+            }, {
+               "name" : "Hurricane",
+               "cover" : {
+                  "mbid" : "8dacf242-9bf7-44f5-b2eb-18305b904551",
+                  "name" : "Something Corporate",
+                  "sortName" : "Something Corporate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/something-corporate-23d6b84f.html"
+               }
+            }, {
+               "name" : "Cecilia and the Satellite",
+               "info" : "Performed with Cecilia McMahon"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "New Friends",
+               "with" : {
+                  "mbid" : "b9e99b79-ea52-48c3-920a-7bfcf8098a58",
+                  "name" : "Michigander",
+                  "sortName" : "Michigander",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/michigander-7bf4fe50.html"
+               }
+            }, {
+               "name" : "Dark Blue",
+               "cover" : {
+                  "mbid" : "2b6514cd-d424-45fe-ab85-bd8719f4492d",
+                  "name" : "Jack’s Mannequin",
+                  "sortName" : "Jack’s Mannequin",
+                  "disambiguation" : "US | pop-rock",
+                  "url" : "https://www.setlist.fm/setlists/jacks-mannequin-23d6b843.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2023/brooklyn-steel-brooklyn-ny-5baeafb8.html"
+   }, {
+      "id" : "4baeafbe",
+      "versionId" : "gb8f1586",
+      "eventDate" : "25-11-2023",
+      "lastUpdated" : "2023-11-25T22:01:43.527+0000",
+      "artist" : {
+         "mbid" : "d3db61cb-8699-4dea-9aa3-54a4a3ca4c70",
+         "name" : "Andrew McMahon in the Wilderness",
+         "sortName" : "McMahon, Andrew, in the Wilderness",
+         "disambiguation" : "Andrew McMahon project started in 2014",
+         "url" : "https://www.setlist.fm/setlists/andrew-mcmahon-in-the-wilderness-3bf8a474.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Submarine"
+            }, {
+               "name" : "Amelia Jean",
+               "cover" : {
+                  "mbid" : "2b6514cd-d424-45fe-ab85-bd8719f4492d",
+                  "name" : "Jack’s Mannequin",
+                  "sortName" : "Jack’s Mannequin",
+                  "disambiguation" : "US | pop-rock",
+                  "url" : "https://www.setlist.fm/setlists/jacks-mannequin-23d6b843.html"
+               }
+            }, {
+               "name" : "Little Disaster"
+            }, {
+               "name" : "Smoke & Ribbons"
+            } ]
+         } ]
+      },
+      "info" : "ticketed soundcheck",
+      "url" : "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2023/brooklyn-steel-brooklyn-ny-4baeafbe.html"
+   }, {
+      "id" : "3bae9cd8",
+      "versionId" : "g1ba19db4",
+      "eventDate" : "25-11-2023",
+      "lastUpdated" : "2024-07-27T01:14:50.447+0000",
+      "artist" : {
+         "mbid" : "b9e99b79-ea52-48c3-920a-7bfcf8098a58",
+         "name" : "Michigander",
+         "sortName" : "Michigander",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/michigander-7bf4fe50.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michigander/2023/brooklyn-steel-brooklyn-ny-3bae9cd8.html"
+   }, {
+      "id" : "33ae9cd9",
+      "versionId" : "g38f69a7",
+      "eventDate" : "25-11-2023",
+      "lastUpdated" : "2023-11-27T05:16:23.545+0000",
+      "artist" : {
+         "mbid" : "5034284a-7109-4bb6-b4e0-9624a4918979",
+         "name" : "Wildermiss",
+         "sortName" : "Wildermiss",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wildermiss-73f46ecd.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wildermiss/2023/brooklyn-steel-brooklyn-ny-33ae9cd9.html"
+   }, {
+      "id" : "ba1691e",
+      "versionId" : "g7b67b6c8",
+      "eventDate" : "22-11-2023",
+      "lastUpdated" : "2025-10-21T22:03:54.001+0000",
+      "artist" : {
+         "mbid" : "dc27feba-9de8-4fdb-8caa-a5885261bdfc",
+         "name" : "Earl Sweatshirt & The Alchemist",
+         "sortName" : "Earl Sweatshirt & Alchemist, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-and-the-alchemist-23f9c0d7.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Voir Dire Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "E. Coli",
+               "cover" : {
+                  "mbid" : "03f3deb7-0419-4bf9-a1e7-511946385717",
+                  "name" : "The Alchemist",
+                  "sortName" : "Alchemist, The",
+                  "disambiguation" : "hip hop DJ & producer",
+                  "url" : "https://www.setlist.fm/setlists/the-alchemist-1bd7a1f0.html"
+               }
+            }, {
+               "name" : "45",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "RIP Tracy",
+               "cover" : {
+                  "mbid" : "03f3deb7-0419-4bf9-a1e7-511946385717",
+                  "name" : "The Alchemist",
+                  "sortName" : "Alchemist, The",
+                  "disambiguation" : "hip hop DJ & producer",
+                  "url" : "https://www.setlist.fm/setlists/the-alchemist-1bd7a1f0.html"
+               }
+            }, {
+               "name" : "Vin Skully"
+            }, {
+               "name" : "Mac Deuce"
+            }, {
+               "name" : "Wind In My Sails",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Geb"
+            }, {
+               "name" : "Sirius Blac"
+            }, {
+               "name" : "Heat Check"
+            }, {
+               "name" : "The Caliphate"
+            }, {
+               "name" : "Nobles",
+               "cover" : {
+                  "mbid" : "03f3deb7-0419-4bf9-a1e7-511946385717",
+                  "name" : "The Alchemist",
+                  "sortName" : "Alchemist, The",
+                  "disambiguation" : "hip hop DJ & producer",
+                  "url" : "https://www.setlist.fm/setlists/the-alchemist-1bd7a1f0.html"
+               },
+               "info" : "Also with Earl Sweatshirt",
+               "with" : {
+                  "mbid" : "304c731f-ea4f-407c-b4fc-65131b1b2b37",
+                  "name" : "Navy Blue",
+                  "sortName" : "Navy Blue",
+                  "disambiguation" : "US skateboarder & rapper",
+                  "url" : "https://www.setlist.fm/setlists/navy-blue-73c91a6d.html"
+               }
+            }, {
+               "name" : "GHOST",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               },
+               "with" : {
+                  "mbid" : "304c731f-ea4f-407c-b4fc-65131b1b2b37",
+                  "name" : "Navy Blue",
+                  "sortName" : "Navy Blue",
+                  "disambiguation" : "US skateboarder & rapper",
+                  "url" : "https://www.setlist.fm/setlists/navy-blue-73c91a6d.html"
+               }
+            }, {
+               "name" : "The Mint",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               },
+               "with" : {
+                  "mbid" : "304c731f-ea4f-407c-b4fc-65131b1b2b37",
+                  "name" : "Navy Blue",
+                  "sortName" : "Navy Blue",
+                  "disambiguation" : "US skateboarder & rapper",
+                  "url" : "https://www.setlist.fm/setlists/navy-blue-73c91a6d.html"
+               }
+            }, {
+               "name" : "Real hiphop",
+               "cover" : {
+                  "mbid" : "f82718b9-abf9-4dc1-8c0e-eea218c2b973",
+                  "name" : "Niontay",
+                  "sortName" : "Niontay",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/niontay-33fa7445.html"
+               },
+               "info" : "Also with Earl Sweatshirt & MIKE"
+            }, {
+               "name" : "Making the Band (Danity Kane)",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Trenches",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               },
+               "info" : "Unreleased"
+            }, {
+               "name" : "Proud Of Me",
+               "cover" : {
+                  "mbid" : "89ff440d-8d5d-45e7-b5ba-a672ad11f1e7",
+                  "name" : "BNYX",
+                  "sortName" : "BNYX",
+                  "disambiguation" : "Philadelphia hip hop producer",
+                  "url" : "https://www.setlist.fm/setlists/bnyx-1bf37574.html"
+               }
+            }, {
+               "name" : "2010",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Static",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "The Bends",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "All I Need",
+               "cover" : {
+                  "mbid" : "383b0514-362e-4aeb-9950-04a75fc0210c",
+                  "name" : "Wiki",
+                  "sortName" : "Wiki",
+                  "disambiguation" : "rapper",
+                  "url" : "https://www.setlist.fm/setlists/wiki-43d8bf53.html"
+               },
+               "info" : "Also with Earl Sweatshirt",
+               "with" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "AM // Radio",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               },
+               "info" : "Also with Earl Sweatshirt",
+               "with" : {
+                  "mbid" : "383b0514-362e-4aeb-9950-04a75fc0210c",
+                  "name" : "Wiki",
+                  "sortName" : "Wiki",
+                  "disambiguation" : "rapper",
+                  "url" : "https://www.setlist.fm/setlists/wiki-43d8bf53.html"
+               }
+            }, {
+               "name" : "Tabula Rasa",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               },
+               "info" : "Also with Earl Sweatshirt",
+               "with" : {
+                  "mbid" : "167a6f86-2c26-43fe-82f0-e4c8a39ea490",
+                  "name" : "Armand Hammer",
+                  "sortName" : "Armand Hammer",
+                  "disambiguation" : "experimental hip hop duo",
+                  "url" : "https://www.setlist.fm/setlists/armand-hammer-33da6031.html"
+               }
+            }, {
+               "name" : "Gamma (need the <3)",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Heaven Knows (Chariot)",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               },
+               "info" : "Unreleased"
+            }, {
+               "name" : "Grief",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Molasses",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "EAST",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "NOWHERE2GO",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Shattered Dreams",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Quest/Power",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            }, {
+               "name" : "Fire in the Hole",
+               "cover" : {
+                  "mbid" : "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+                  "name" : "Earl Sweatshirt",
+                  "sortName" : "Earl Sweatshirt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earl-sweatshirt-43d20f3f.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/earl-sweatshirt-and-the-alchemist/2023/brooklyn-steel-brooklyn-ny-ba1691e.html"
+   }, {
+      "id" : "3a16913",
+      "versionId" : "g2b8fb052",
+      "eventDate" : "22-11-2023",
+      "lastUpdated" : "2023-11-20T06:29:22.678+0000",
+      "artist" : {
+         "mbid" : "da943be1-5611-4bf9-ac4c-0eef1bc0c16b",
+         "name" : "MIKE",
+         "sortName" : "MIKE",
+         "disambiguation" : "New York rapper, founder of 10k",
+         "url" : "https://www.setlist.fm/setlists/mike-1bcce5d0.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mike/2023/brooklyn-steel-brooklyn-ny-3a16913.html"
+   }, {
+      "id" : "63a10ecb",
+      "versionId" : "g338f988d",
+      "eventDate" : "19-11-2023",
+      "lastUpdated" : "2023-11-21T02:03:34.411+0000",
+      "artist" : {
+         "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+         "name" : "LCD Soundsystem",
+         "sortName" : "LCD Soundsystem",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Tri Boro Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Us v Them"
+            }, {
+               "name" : "American Dream"
+            }, {
+               "name" : "I Can Change"
+            }, {
+               "name" : "Emotional Haircut"
+            }, {
+               "name" : "Time to Get Away"
+            }, {
+               "name" : "Daft Punk Is Playing at My House"
+            }, {
+               "name" : "One Touch"
+            }, {
+               "name" : "Yr City's a Sucker"
+            }, {
+               "name" : "You Wanted a Hit"
+            }, {
+               "name" : "Tribulations"
+            }, {
+               "name" : "Movement"
+            }, {
+               "name" : "Tonite"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Yeah",
+               "info" : "with \"Synths!\" outro"
+            }, {
+               "name" : "Someone Great"
+            }, {
+               "name" : "Losing My Edge"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Jump Into the Fire",
+               "cover" : {
+                  "mbid" : "e5963d26-01fa-40f5-b200-e0127f410a45",
+                  "name" : "Harry Nilsson",
+                  "sortName" : "Nilsson, Harry",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/harry-nilsson-7bd6d6c8.html"
+               }
+            }, {
+               "name" : "New York, I Love You but You're Bringing Me Down"
+            }, {
+               "name" : "Dance Yrself Clean"
+            }, {
+               "name" : "All My Friends"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lcd-soundsystem/2023/brooklyn-steel-brooklyn-ny-63a10ecb.html"
+   }, {
+      "id" : "53a11b1d",
+      "versionId" : "g1b8d11f0",
+      "eventDate" : "18-11-2023",
+      "lastUpdated" : "2023-12-12T18:32:24.962+0000",
+      "artist" : {
+         "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+         "name" : "LCD Soundsystem",
+         "sortName" : "LCD Soundsystem",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Tri Boro Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "United",
+               "tape" : true,
+               "info" : "Throbbing Gristle"
+            }, {
+               "name" : "You Wanted a Hit"
+            }, {
+               "name" : "Tribulations"
+            }, {
+               "name" : "Movement"
+            }, {
+               "name" : "One Touch"
+            }, {
+               "name" : "American Dream"
+            }, {
+               "name" : "I Can Change"
+            }, {
+               "name" : "Thrills"
+            }, {
+               "name" : "Yr City's a Sucker"
+            }, {
+               "name" : "Daft Punk Is Playing at My House"
+            }, {
+               "name" : "Tonite"
+            }, {
+               "name" : "Someone Great"
+            }, {
+               "name" : "Losing My Edge"
+            }, {
+               "name" : "Home"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "new body rhumba"
+            }, {
+               "name" : "Oh Baby"
+            }, {
+               "name" : "Jump Into the Fire",
+               "cover" : {
+                  "mbid" : "e5963d26-01fa-40f5-b200-e0127f410a45",
+                  "name" : "Harry Nilsson",
+                  "sortName" : "Nilsson, Harry",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/harry-nilsson-7bd6d6c8.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Dance Yrself Clean"
+            }, {
+               "name" : "New York, I Love You but You're Bringing Me Down"
+            }, {
+               "name" : "All My Friends"
+            } ]
+         } ]
+      },
+      "info" : "Emotional Haircut was on the setlist but was not played.",
+      "url" : "https://www.setlist.fm/setlist/lcd-soundsystem/2023/brooklyn-steel-brooklyn-ny-53a11b1d.html"
+   }, {
+      "id" : "13a121ed",
+      "versionId" : "g7b8e7690",
+      "eventDate" : "17-11-2023",
+      "lastUpdated" : "2023-11-18T05:19:33.646+0000",
+      "artist" : {
+         "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+         "name" : "LCD Soundsystem",
+         "sortName" : "LCD Soundsystem",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Tri Boro Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Get Innocuous!"
+            }, {
+               "name" : "American Dream"
+            }, {
+               "name" : "Daft Punk Is Playing at My House"
+            }, {
+               "name" : "Other Voices"
+            }, {
+               "name" : "Thrills"
+            }, {
+               "name" : "Yr City's a Sucker"
+            }, {
+               "name" : "new body rhumba"
+            }, {
+               "name" : "Oh Baby"
+            }, {
+               "name" : "On Repeat"
+            }, {
+               "name" : "Someone Great"
+            }, {
+               "name" : "Losing My Edge"
+            }, {
+               "name" : "Home"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "You Wanted a Hit"
+            }, {
+               "name" : "Tonite"
+            }, {
+               "name" : "Jump Into the Fire",
+               "cover" : {
+                  "mbid" : "e5963d26-01fa-40f5-b200-e0127f410a45",
+                  "name" : "Harry Nilsson",
+                  "sortName" : "Nilsson, Harry",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/harry-nilsson-7bd6d6c8.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "One Touch"
+            }, {
+               "name" : "New York, I Love You but You're Bringing Me Down"
+            }, {
+               "name" : "Dance Yrself Clean"
+            }, {
+               "name" : "All My Friends"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lcd-soundsystem/2023/brooklyn-steel-brooklyn-ny-13a121ed.html"
+   }, {
+      "id" : "5ba11780",
+      "versionId" : "g38e29b3",
+      "eventDate" : "16-11-2023",
+      "lastUpdated" : "2023-11-16T15:49:24.267+0000",
+      "artist" : {
+         "mbid" : "64ba761f-f24d-4bee-a9d6-ce0378c22ae9",
+         "name" : "Alan Palomo",
+         "sortName" : "Palomo, Alan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alan-palomo-3d469bb.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "World of Hassle"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opening DJ Set for LCD Soundsystem",
+      "url" : "https://www.setlist.fm/setlist/alan-palomo/2023/brooklyn-steel-brooklyn-ny-5ba11780.html"
+   }, {
+      "id" : "53a12f55",
+      "versionId" : "g38e597f",
+      "eventDate" : "16-11-2023",
+      "lastUpdated" : "2023-11-19T01:46:16.431+0000",
+      "artist" : {
+         "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+         "name" : "LCD Soundsystem",
+         "sortName" : "LCD Soundsystem",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Tri Boro Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Us v Them"
+            }, {
+               "name" : "I Can Change"
+            }, {
+               "name" : "Time to Get Away"
+            }, {
+               "name" : "Other Voices"
+            }, {
+               "name" : "You Wanted a Hit"
+            }, {
+               "name" : "Tribulations"
+            }, {
+               "name" : "Movement"
+            }, {
+               "name" : "Tonite"
+            }, {
+               "name" : "Yr City's a Sucker"
+            }, {
+               "name" : "new body rhumba"
+            }, {
+               "name" : "Someone Great"
+            }, {
+               "name" : "Losing My Edge"
+            }, {
+               "name" : "Home"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Oh Baby"
+            }, {
+               "name" : "Thrills"
+            }, {
+               "name" : "Jump Into the Fire",
+               "cover" : {
+                  "mbid" : "e5963d26-01fa-40f5-b200-e0127f410a45",
+                  "name" : "Harry Nilsson",
+                  "sortName" : "Nilsson, Harry",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/harry-nilsson-7bd6d6c8.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "One Touch",
+               "info" : "Live debut"
+            }, {
+               "name" : "New York, I Love You but You're Bringing Me Down"
+            }, {
+               "name" : "Dance Yrself Clean"
+            }, {
+               "name" : "All My Friends"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lcd-soundsystem/2023/brooklyn-steel-brooklyn-ny-53a12f55.html"
+   }, {
+      "id" : "33a1d469",
+      "versionId" : "g43815beb",
+      "eventDate" : "10-11-2023",
+      "lastUpdated" : "2023-11-11T08:29:04.810+0000",
+      "artist" : {
+         "mbid" : "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219",
+         "name" : "Blonde Redhead",
+         "sortName" : "Blonde Redhead",
+         "disambiguation" : "US alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/blonde-redhead-73d6f2f5.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Sit Down for Dinner"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Falling Man"
+            }, {
+               "name" : "Dr. Strangeluv"
+            }, {
+               "name" : "Doll Is Mine"
+            }, {
+               "name" : "Elephant Woman"
+            }, {
+               "name" : "Snowman"
+            }, {
+               "name" : "Melody Experiment"
+            }, {
+               "name" : "SW"
+            }, {
+               "name" : "Sit Down for Dinner, Pt. 1"
+            }, {
+               "name" : "Sit Down for Dinner, Pt. 2"
+            }, {
+               "name" : "Maddening Cloud"
+            }, {
+               "name" : "Bipolar"
+            }, {
+               "name" : "Spring and by Summer Fall"
+            }, {
+               "name" : "23"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Here Sometimes",
+               "info" : "Encore"
+            }, {
+               "name" : "Not for Me",
+               "info" : "Encore"
+            }, {
+               "name" : "Kiss Her Kiss Her",
+               "info" : "Encore"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blonde-redhead/2023/brooklyn-steel-brooklyn-ny-33a1d469.html"
+   } ]
+}

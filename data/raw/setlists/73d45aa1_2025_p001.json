@@ -1,0 +1,1394 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 72,
+   "setlist" : [ {
+      "id" : "235b34cb",
+      "versionId" : "g344d5b7",
+      "eventDate" : "31-12-2025",
+      "lastUpdated" : "2025-02-27T00:02:19.973+0000",
+      "artist" : {
+         "mbid" : "d1f26bba-2ef1-452a-82e9-22012944a098",
+         "name" : "Louis C.K.",
+         "sortName" : "C.K., Louis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/louis-ck-53d4a3e5.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ridiculous"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/louis-ck/2025/kings-theatre-brooklyn-ny-235b34cb.html"
+   }, {
+      "id" : "33409831",
+      "versionId" : "g36141f7",
+      "eventDate" : "10-12-2025",
+      "lastUpdated" : "2025-12-12T11:46:48.062+0000",
+      "artist" : {
+         "mbid" : "4e848ea9-d9d3-4608-b5ee-baa29acf4cca",
+         "name" : "KEY",
+         "sortName" : "KEY",
+         "disambiguation" : "Kim Ki-bum, member of SHINee",
+         "url" : "https://www.setlist.fm/setlists/key-63de56fb.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "KEYLAND: Uncanny Valley"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Strange"
+            }, {
+               "name" : "Helium"
+            }, {
+               "name" : "CoolAs"
+            }, {
+               "name" : "Want Another"
+            }, {
+               "name" : "Killer"
+            }, {
+               "name" : "Guilty Pleasure"
+            }, {
+               "name" : "HUNTER"
+            }, {
+               "name" : "Heartless"
+            }, {
+               "name" : "Good & Great"
+            }, {
+               "name" : "Pleasure Shop"
+            }, {
+               "name" : "Picture Frame"
+            }, {
+               "name" : "Another Life"
+            }, {
+               "name" : "BAD LOVE"
+            }, {
+               "name" : "Gasoline"
+            }, {
+               "name" : "Imagine"
+            }, {
+               "name" : "GLAM"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "This Life"
+            }, {
+               "name" : "Lavender Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/key/2025/kings-theatre-brooklyn-ny-33409831.html"
+   }, {
+      "id" : "3b4c7cfc",
+      "versionId" : "g4b6153c6",
+      "eventDate" : "06-12-2025",
+      "lastUpdated" : "2025-12-11T22:06:26.952+0000",
+      "artist" : {
+         "mbid" : "321531fc-db73-4ffa-a959-61a61a2908c1",
+         "name" : "Erykah Badu",
+         "sortName" : "Badu, Erykah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/erykah-badu-3bd6885c.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Return of Automatic Slim Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jam",
+               "info" : "without Erykah"
+            }, {
+               "name" : "Since You Been Away So Long",
+               "cover" : {
+                  "mbid" : "20e5ca41-9bc6-44df-a55f-63ff2b5edaa8",
+                  "name" : "Don Blackman",
+                  "sortName" : "Blackman, Don",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/don-blackman-7bd7d6cc.html"
+               },
+               "info" : "without Erykah"
+            }, {
+               "name" : "Penitentiary Philosophy"
+            }, {
+               "name" : "Didn't Cha Know"
+            }, {
+               "name" : "My Life"
+            }, {
+               "name" : "One Two S**t",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+                  "name" : "A Tribe Called Quest",
+                  "sortName" : "Tribe Called Quest, A",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/a-tribe-called-quest-63d6daa3.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "... & On"
+            }, {
+               "name" : "Cleva",
+               "info" : ">"
+            }, {
+               "name" : "It's Gonna Be Alright",
+               "cover" : {
+                  "mbid" : "4d3811ca-46a6-4409-a8f9-54a9a153e523",
+                  "name" : "Donald Lawrence & The Tri-City Singers",
+                  "sortName" : "Lawrence, Donald & Tri-City Singers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/donald-lawrence-and-the-tri-city-singers-3bd6606c.html"
+               }
+            }, {
+               "name" : "Hey Sugah"
+            }, {
+               "name" : "Kiss Me on My Neck (Hesi)"
+            }, {
+               "name" : "Black Box",
+               "cover" : {
+                  "mbid" : "8d39ab38-bd50-4247-b2e3-4a23488d215a",
+                  "name" : "Erykah Badu & The Alchemist",
+                  "sortName" : "Badu, Erykah & Alchemist, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/erykah-badu-and-the-alchemist-b90d56a.html"
+               }
+            }, {
+               "name" : "Booty",
+               "info" : ">"
+            }, {
+               "name" : "Annie (Don't Wear No Panties)",
+               "info" : "Cleva Reprise Outro"
+            }, {
+               "name" : "A.D. 2000"
+            }, {
+               "name" : "In Love With You"
+            }, {
+               "name" : "Orange Moon"
+            }, {
+               "name" : "Bag Lady"
+            }, {
+               "name" : "Time's a Wastin"
+            }, {
+               "name" : "Green Eyes"
+            } ]
+         } ]
+      },
+      "info" : "Set was live streamed on Veeps",
+      "url" : "https://www.setlist.fm/setlist/erykah-badu/2025/kings-theatre-brooklyn-ny-3b4c7cfc.html"
+   }, {
+      "id" : "234cd40f",
+      "versionId" : "g4361fbf7",
+      "eventDate" : "05-12-2025",
+      "lastUpdated" : "2025-12-07T15:53:42.890+0000",
+      "artist" : {
+         "mbid" : "321531fc-db73-4ffa-a959-61a61a2908c1",
+         "name" : "Erykah Badu",
+         "sortName" : "Badu, Erykah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/erykah-badu-3bd6885c.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Return of Automatic Slim Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Penitentiary Philosophy"
+            }, {
+               "name" : "Didn't Cha Know"
+            }, {
+               "name" : "My Life"
+            }, {
+               "name" : "... & On"
+            }, {
+               "name" : "Cleva"
+            }, {
+               "name" : "It's Gonna Be Alright",
+               "cover" : {
+                  "mbid" : "4d3811ca-46a6-4409-a8f9-54a9a153e523",
+                  "name" : "Donald Lawrence & The Tri-City Singers",
+                  "sortName" : "Lawrence, Donald & Tri-City Singers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/donald-lawrence-and-the-tri-city-singers-3bd6606c.html"
+               }
+            }, {
+               "name" : "Hey Sugah"
+            }, {
+               "name" : "Kiss Me On My Neck"
+            }, {
+               "name" : "Black Box",
+               "cover" : {
+                  "mbid" : "8d39ab38-bd50-4247-b2e3-4a23488d215a",
+                  "name" : "Erykah Badu & The Alchemist",
+                  "sortName" : "Badu, Erykah & Alchemist, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/erykah-badu-and-the-alchemist-b90d56a.html"
+               }
+            }, {
+               "name" : "Booty"
+            }, {
+               "name" : "Annie (Don't Wear No Panties)"
+            }, {
+               "name" : "A.D. 2000"
+            }, {
+               "name" : "In Love With You"
+            }, {
+               "name" : "Orange Moon"
+            }, {
+               "name" : "Bag Lady"
+            }, {
+               "name" : "Time's a Wastin"
+            }, {
+               "name" : "Green Eyes"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/erykah-badu/2025/kings-theatre-brooklyn-ny-234cd40f.html"
+   }, {
+      "id" : "b4c99fe",
+      "versionId" : "g3175513",
+      "eventDate" : "23-11-2025",
+      "lastUpdated" : "2026-03-11T21:00:37.455+0000",
+      "artist" : {
+         "mbid" : "54bd120a-6bac-4d7c-8b10-ba167bc7e26c",
+         "name" : "Fito Páez",
+         "sortName" : "Páez, Fito",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fito-paez-13d6d975.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "El amor después del amor"
+            }, {
+               "name" : "Dos días en la vida"
+            }, {
+               "name" : "11 y 6"
+            }, {
+               "name" : "Cuando el circo llega al pueblo"
+            }, {
+               "name" : "Circo Beat"
+            }, {
+               "name" : "Llueve sobre mojado",
+               "cover" : {
+                  "mbid" : "22918024-6967-4c35-b2c3-ee5cbe8173d2",
+                  "name" : "Sabina y Páez",
+                  "sortName" : "Sabina, Joaquín y Páez, Fito",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sabina-y-paez-6bd6d28e.html"
+               }
+            }, {
+               "name" : "Un vestido y un amor"
+            }, {
+               "name" : "Tráfico por Katmandú"
+            }, {
+               "name" : "Cable a tierra"
+            }, {
+               "name" : "La canción de las bestias"
+            }, {
+               "name" : "La buena estrella / Y dale alegría a mi corazón"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Maldivina y Turbialuz"
+            }, {
+               "name" : "Tumbas de la gloria"
+            }, {
+               "name" : "Paranoica fierita suite",
+               "info" : "Salsa version"
+            }, {
+               "name" : "Al lado del camino"
+            }, {
+               "name" : "La rueda mágica"
+            }, {
+               "name" : "Brillante sobre el mic"
+            }, {
+               "name" : "Ciudad de pobres corazones"
+            }, {
+               "name" : "A rodar mi vida"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sale el sol"
+            }, {
+               "name" : "Mariposa tecknicolor"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/fito-paez/2025/kings-theatre-brooklyn-ny-b4c99fe.html"
+   }, {
+      "id" : "3b5b34d8",
+      "versionId" : "g1344d5c1",
+      "eventDate" : "22-11-2025",
+      "lastUpdated" : "2025-02-26T23:59:34.826+0000",
+      "artist" : {
+         "mbid" : "d1f26bba-2ef1-452a-82e9-22012944a098",
+         "name" : "Louis C.K.",
+         "sortName" : "C.K., Louis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/louis-ck-53d4a3e5.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ridiculous"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/louis-ck/2025/kings-theatre-brooklyn-ny-3b5b34d8.html"
+   }, {
+      "id" : "335b34d9",
+      "versionId" : "gb44d5c2",
+      "eventDate" : "21-11-2025",
+      "lastUpdated" : "2025-02-26T23:59:20.064+0000",
+      "artist" : {
+         "mbid" : "d1f26bba-2ef1-452a-82e9-22012944a098",
+         "name" : "Louis C.K.",
+         "sortName" : "C.K., Louis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/louis-ck-53d4a3e5.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ridiculous"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/louis-ck/2025/kings-theatre-brooklyn-ny-335b34d9.html"
+   }, {
+      "id" : "7b4f4278",
+      "versionId" : "g363bdcf",
+      "eventDate" : "20-11-2025",
+      "lastUpdated" : "2025-11-21T03:19:28.352+0000",
+      "artist" : {
+         "mbid" : "365ebd05-b209-4bb2-a7e7-012e899f0f45",
+         "name" : "Jim Norton",
+         "sortName" : "Norton, Jim",
+         "disambiguation" : "US comedian/actor",
+         "url" : "https://www.setlist.fm/setlists/jim-norton-5bd70770.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jim-norton/2025/kings-theatre-brooklyn-ny-7b4f4278.html"
+   }, {
+      "id" : "2b5b34da",
+      "versionId" : "g344d5c3",
+      "eventDate" : "20-11-2025",
+      "lastUpdated" : "2025-02-26T23:59:07.317+0000",
+      "artist" : {
+         "mbid" : "d1f26bba-2ef1-452a-82e9-22012944a098",
+         "name" : "Louis C.K.",
+         "sortName" : "C.K., Louis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/louis-ck-53d4a3e5.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ridiculous"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/louis-ck/2025/kings-theatre-brooklyn-ny-2b5b34da.html"
+   }, {
+      "id" : "3b4f8004",
+      "versionId" : "g1b647188",
+      "eventDate" : "13-11-2025",
+      "lastUpdated" : "2025-11-05T00:50:15.522+0000",
+      "artist" : {
+         "mbid" : "2ac0f4e0-ce3c-454b-b734-89d549c3b387",
+         "name" : "Total",
+         "sortName" : "Total",
+         "disambiguation" : "American R&B group",
+         "url" : "https://www.setlist.fm/setlists/total-53d61fb5.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/total/2025/kings-theatre-brooklyn-ny-3b4f8004.html"
+   }, {
+      "id" : "334f80f9",
+      "versionId" : "g1364718d",
+      "eventDate" : "13-11-2025",
+      "lastUpdated" : "2025-11-05T00:51:07.256+0000",
+      "artist" : {
+         "mbid" : "67f911f6-dbf7-4ad9-a2ed-82484a1f9902",
+         "name" : "Case",
+         "sortName" : "Case",
+         "disambiguation" : "US R&B vocalist Case Woodard",
+         "url" : "https://www.setlist.fm/setlists/case-3bd6cce4.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/case/2025/kings-theatre-brooklyn-ny-334f80f9.html"
+   }, {
+      "id" : "234f8007",
+      "versionId" : "g13647195",
+      "eventDate" : "13-11-2025",
+      "lastUpdated" : "2025-11-05T00:49:23.415+0000",
+      "artist" : {
+         "mbid" : "9132d515-dc0e-4494-85ae-20f06eed14f9",
+         "name" : "112",
+         "sortName" : "112",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/112-3bd69c54.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/112/2025/kings-theatre-brooklyn-ny-234f8007.html"
+   }, {
+      "id" : "3b401048",
+      "versionId" : "g6362aab3",
+      "eventDate" : "09-11-2025",
+      "lastUpdated" : "2025-11-14T11:41:15.312+0000",
+      "artist" : {
+         "mbid" : "c27f4400-6fc4-41bc-bdb9-e847e8370ea5",
+         "name" : "WENDY",
+         "sortName" : "WENDY",
+         "disambiguation" : "Red Velvet",
+         "url" : "https://www.setlist.fm/setlists/wendy-73d90ebd.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "W:EALIVE"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fireproof"
+            }, {
+               "name" : "Hate²"
+            }, {
+               "name" : "Queen of the Party"
+            }, {
+               "name" : "Why Can’t You Love Me?"
+            }, {
+               "name" : "Best Ever"
+            }, {
+               "name" : "Chapter You"
+            }, {
+               "name" : "His Car Isn’t Yours"
+            }, {
+               "name" : "Better Judgement"
+            }, {
+               "name" : "Vermilion"
+            }, {
+               "name" : "Like Water"
+            }, {
+               "name" : "When This Rain Stops"
+            }, {
+               "name" : "Believe"
+            }, {
+               "name" : "Goodbye"
+            }, {
+               "name" : "Because I Love You"
+            }, {
+               "name" : "What If Love"
+            }, {
+               "name" : "Two Words"
+            }, {
+               "name" : "Airport Goodbyes",
+               "cover" : {
+                  "mbid" : "53c62304-ef69-4704-a834-28d4634f96ff",
+                  "name" : "The Black Skirts x WENDY",
+                  "sortName" : "Black Skirts, The x WENDY",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-black-skirts-x-wendy-5b941f6c.html"
+               }
+            }, {
+               "name" : "Light Me Up",
+               "cover" : {
+                  "mbid" : "4f0cb3b7-6c06-4317-ae35-ddf3106a17ee",
+                  "name" : "Red Velvet",
+                  "sortName" : "Red Velvet",
+                  "disambiguation" : "South Korean girl group",
+                  "url" : "https://www.setlist.fm/setlists/red-velvet-43d83b1b.html"
+               }
+            }, {
+               "name" : "Wish You Hell"
+            }, {
+               "name" : "Sunkiss"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Best Friend"
+            }, {
+               "name" : "The Road"
+            }, {
+               "name" : "EXISTENTIAL CRISIS"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wendy/2025/kings-theatre-brooklyn-ny-3b401048.html"
+   }, {
+      "id" : "634f420b",
+      "versionId" : "g6b6e2eaa",
+      "eventDate" : "08-11-2025",
+      "lastUpdated" : "2025-12-17T23:58:20.201+0000",
+      "artist" : {
+         "mbid" : "2b37ba5e-2162-46ca-bbad-f076f6a333bd",
+         "name" : "Asake",
+         "sortName" : "Asake",
+         "disambiguation" : "Nigerian singer–songwriter",
+         "url" : "https://www.setlist.fm/setlists/asake-63ff02df.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dull"
+            }, {
+               "name" : "WHY LOVE"
+            }, {
+               "name" : "Sunmomi"
+            }, {
+               "name" : "Organise"
+            }, {
+               "name" : "Joha"
+            }, {
+               "name" : "Nzaza"
+            }, {
+               "name" : "Ototo"
+            }, {
+               "name" : "Muse"
+            }, {
+               "name" : "Worldwide"
+            }, {
+               "name" : "BADMAN GANGSTA",
+               "with" : {
+                  "mbid" : "2bd0c272-dd22-4395-8381-18fa2fa59f1e",
+                  "name" : "Tiakola",
+                  "sortName" : "Tiakola",
+                  "disambiguation" : "French rapper, 4Keus",
+                  "url" : "https://www.setlist.fm/setlists/tiakola-13f3e921.html"
+               }
+            }, {
+               "name" : "Blessings (Remix)",
+               "cover" : {
+                  "mbid" : "cb9c2a2b-96c2-44d7-bd31-04ef87572b57",
+                  "name" : "Fridayy",
+                  "sortName" : "Fridayy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fridayy-73f3ee35.html"
+               },
+               "with" : {
+                  "mbid" : "cb9c2a2b-96c2-44d7-bd31-04ef87572b57",
+                  "name" : "Fridayy",
+                  "sortName" : "Fridayy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fridayy-73f3ee35.html"
+               }
+            }, {
+               "name" : "Worship",
+               "info" : "Unreleased collaboration with DJ Snake/Live Debut"
+            }, {
+               "name" : "MMS",
+               "with" : {
+                  "mbid" : "efc5d365-a448-4e2f-9b5f-4a7c84be725c",
+                  "name" : "Wizkid",
+                  "sortName" : "Wizkid",
+                  "disambiguation" : "alias for Ayodeji Ibrahim Balogun. Nigerian singer and songwriter.",
+                  "url" : "https://www.setlist.fm/setlists/wizkid-2bdf6c6a.html"
+               }
+            }, {
+               "name" : "Remember"
+            }, {
+               "name" : "Lonely At The Top"
+            }, {
+               "name" : "Happiness",
+               "cover" : {
+                  "mbid" : "4396961c-d5bb-4301-8fee-07b218ddf67e",
+                  "name" : "Sarz",
+                  "sortName" : "Sarz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sarz-73f40e49.html"
+               },
+               "with" : {
+                  "mbid" : "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+                  "name" : "Gunna",
+                  "sortName" : "Gunna",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/gunna-63c65acb.html"
+               }
+            }, {
+               "name" : "Basquiat"
+            }, {
+               "name" : "Uhh Yeahh"
+            }, {
+               "name" : "Fuji Vibe"
+            }, {
+               "name" : "Wave",
+               "with" : {
+                  "mbid" : "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+                  "name" : "Central Cee",
+                  "sortName" : "Central Cee",
+                  "disambiguation" : "London rapper",
+                  "url" : "https://www.setlist.fm/setlists/central-cee-6bf4c2e2.html"
+               }
+            }, {
+               "name" : "Skating"
+            }, {
+               "name" : "Amapiano"
+            }, {
+               "name" : "Active"
+            }, {
+               "name" : "Palazzo",
+               "cover" : {
+                  "mbid" : "cbbd8643-19cf-4a01-b258-d21f2d1b2461",
+                  "name" : "Spinall",
+                  "sortName" : "Spinall",
+                  "disambiguation" : "Nigerian",
+                  "url" : "https://www.setlist.fm/setlists/spinall-3ffc943.html"
+               }
+            }, {
+               "name" : "Terminator"
+            }, {
+               "name" : "Sungba"
+            }, {
+               "name" : "Peace Be Unto You (PBUY)"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/asake/2025/kings-theatre-brooklyn-ny-634f420b.html"
+   }, {
+      "id" : "4b4fb3ba",
+      "versionId" : "g1b183940",
+      "eventDate" : "31-10-2025",
+      "lastUpdated" : "2026-06-14T20:48:49.046+0000",
+      "artist" : {
+         "mbid" : "ff1cafa3-7ed4-4ed2-afbb-d1f263d607a8",
+         "name" : "Cuco",
+         "sortName" : "Cuco",
+         "disambiguation" : "American singer-songwriter from Hawthorne, California",
+         "url" : "https://www.setlist.fm/setlists/cuco-5bcce7a8.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Ridin' Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ridin'"
+            }, {
+               "name" : "Phases"
+            }, {
+               "name" : "Piel canela",
+               "cover" : {
+                  "mbid" : "04d20a4e-1f3c-49b9-b8be-2b9447b945b7",
+                  "name" : "Bobby Capó con La Sonora Matancera",
+                  "sortName" : "Capó, Bobby con Sonora Matancera, La",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bobby-capo-con-la-sonora-matancera-6bf14e42.html"
+               }
+            }, {
+               "name" : "Amor de siempre"
+            }, {
+               "name" : "Bossa no sé"
+            }, {
+               "name" : "My 45"
+            }, {
+               "name" : "Do Better"
+            }, {
+               "name" : "First of the Year"
+            }, {
+               "name" : "Seems So"
+            }, {
+               "name" : "Hydrocodone"
+            }, {
+               "name" : "Feelings"
+            }, {
+               "name" : "Foolish / Out Of Drugs"
+            }, {
+               "name" : "Sin Un Corazón"
+            }, {
+               "name" : "Under the Sun  / Llora / Negra Tomasa"
+            }, {
+               "name" : "Homesick"
+            }, {
+               "name" : "Winter's Ballad"
+            }, {
+               "name" : "Dreamin",
+               "info" : "Live debut of Cuco on drums"
+            }, {
+               "name" : "Para ti"
+            }, {
+               "name" : "Keeping Tabs"
+            }, {
+               "name" : "[Mindwinder Outro]"
+            }, {
+               "name" : "Lover is a Day"
+            }, {
+               "name" : "Lava Lamp"
+            }, {
+               "name" : "Ego Death in Thailand"
+            }, {
+               "name" : "Junkies and Rarities"
+            }, {
+               "name" : "Far Away From Home",
+               "cover" : {
+                  "mbid" : "5d4b47ee-903c-47ef-a59c-113d172d96e0",
+                  "name" : "Paratone",
+                  "sortName" : "Paratone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/paratone-3cdb1c7.html"
+               }
+            }, {
+               "name" : "Lo que siento"
+            }, {
+               "name" : "We Had to End It"
+            } ]
+         } ]
+      },
+      "info" : "Last Show",
+      "url" : "https://www.setlist.fm/setlist/cuco/2025/kings-theatre-brooklyn-ny-4b4fb3ba.html"
+   }, {
+      "id" : "2b4404fe",
+      "versionId" : "g731eb295",
+      "eventDate" : "25-10-2025",
+      "lastUpdated" : "2026-04-26T20:18:15.293+0000",
+      "artist" : {
+         "mbid" : "7441014f-f8f5-494f-81db-ff166fbc078d",
+         "name" : "PinkPantheress",
+         "sortName" : "PinkPantheress",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pinkpantheress-4bf213fe.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "An Evening with… PinkPantheress"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Illegal",
+               "tape" : true,
+               "info" : "Snippet"
+            }, {
+               "name" : "Stateside"
+            }, {
+               "name" : "Noises",
+               "info" : "JT Remix",
+               "with" : {
+                  "mbid" : "4b0e0fcf-87ac-4e40-bb3e-50edc88eae20",
+                  "name" : "JT",
+                  "sortName" : "JT",
+                  "disambiguation" : "member of City Girls",
+                  "url" : "https://www.setlist.fm/setlists/jt-73ff0e6d.html"
+               }
+            }, {
+               "name" : "Close To You"
+            }, {
+               "name" : "Nice to Know You"
+            }, {
+               "name" : "I must apologise"
+            }, {
+               "name" : "Just for me"
+            }, {
+               "name" : "Take Me Home"
+            }, {
+               "name" : "Pain"
+            }, {
+               "name" : "The aisle"
+            }, {
+               "name" : "Capable of love"
+            }, {
+               "name" : "Another life"
+            }, {
+               "name" : "Feel complete"
+            }, {
+               "name" : "True romance"
+            }, {
+               "name" : "CRAZY",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+                  "name" : "LE SSERAFIM",
+                  "sortName" : "LE SSERAFIM",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/le-sserafim-bfe2d2e.html"
+               }
+            }, {
+               "name" : "Girl Like Me"
+            }, {
+               "name" : "Tonight"
+            }, {
+               "name" : "Stars"
+            }, {
+               "name" : "Angel"
+            }, {
+               "name" : "Mosquito"
+            }, {
+               "name" : "Romeo"
+            }, {
+               "name" : "Boy's a liar Pt. 2"
+            }, {
+               "name" : "Passion"
+            }, {
+               "name" : "Picture in My Mind"
+            }, {
+               "name" : "Illegal"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Attracted to You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pinkpantheress/2025/kings-theatre-brooklyn-ny-2b4404fe.html"
+   }, {
+      "id" : "6b48a67e",
+      "versionId" : "g6369164f",
+      "eventDate" : "24-10-2025",
+      "lastUpdated" : "2026-02-22T15:53:50.182+0000",
+      "artist" : {
+         "mbid" : "e6e6c3ba-7940-4996-980c-f81d2f60deb8",
+         "name" : "Nick Cheo",
+         "sortName" : "Cheo, Nick",
+         "disambiguation" : "DJ",
+         "url" : "https://www.setlist.fm/setlists/nick-cheo-539a6f39.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nick-cheo/2025/kings-theatre-brooklyn-ny-6b48a67e.html"
+   }, {
+      "id" : "334404f9",
+      "versionId" : "g2b6734a2",
+      "eventDate" : "24-10-2025",
+      "lastUpdated" : "2025-10-26T01:22:14.083+0000",
+      "artist" : {
+         "mbid" : "7441014f-f8f5-494f-81db-ff166fbc078d",
+         "name" : "PinkPantheress",
+         "sortName" : "PinkPantheress",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pinkpantheress-4bf213fe.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "An Evening with… PinkPantheress"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Illegal",
+               "tape" : true
+            }, {
+               "name" : "Stateside"
+            }, {
+               "name" : "Noises"
+            }, {
+               "name" : "Close To You"
+            }, {
+               "name" : "Nice to Know You"
+            }, {
+               "name" : "I must apologise"
+            }, {
+               "name" : "Break it off"
+            }, {
+               "name" : "Last valentines"
+            }, {
+               "name" : "Just for me"
+            }, {
+               "name" : "Take Me Home"
+            }, {
+               "name" : "Gymnopédie No. 1",
+               "tape" : true,
+               "info" : "By Erik Satie"
+            }, {
+               "name" : "Pain"
+            }, {
+               "name" : "The aisle"
+            }, {
+               "name" : "Nice to meet you"
+            }, {
+               "name" : "Capable of love"
+            }, {
+               "name" : "Another life"
+            }, {
+               "name" : "Feel complete"
+            }, {
+               "name" : "True romance",
+               "info" : "Appearance by Zohran Mamdani"
+            }, {
+               "name" : "Stateside remix / Snap My Finger / Turn it up / CRAZY",
+               "tape" : true
+            }, {
+               "name" : "Girl Like Me"
+            }, {
+               "name" : "Tonight"
+            }, {
+               "name" : "Stars"
+            }, {
+               "name" : "Mosquito"
+            }, {
+               "name" : "Angel"
+            }, {
+               "name" : "Romeo"
+            }, {
+               "name" : "Boy's a liar Pt. 2"
+            }, {
+               "name" : "Passion"
+            }, {
+               "name" : "Picture in My Mind"
+            }, {
+               "name" : "Illegal"
+            }, {
+               "name" : "Illegal",
+               "tape" : true,
+               "info" : "Nia Archives Remix"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Attracted to You"
+            } ]
+         } ]
+      },
+      "info" : "Fill in missing songs please",
+      "url" : "https://www.setlist.fm/setlist/pinkpantheress/2025/kings-theatre-brooklyn-ny-334404f9.html"
+   }, {
+      "id" : "2b4a90d2",
+      "versionId" : "g6b6c76ba",
+      "eventDate" : "17-10-2025",
+      "lastUpdated" : "2026-01-12T01:40:17.969+0000",
+      "artist" : {
+         "mbid" : "9385a1bf-4e40-442c-84d0-f51fe1b668e0",
+         "name" : "Tom Segura",
+         "sortName" : "Tom Segura",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/tom-segura-3c63123.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tom-segura/2025/kings-theatre-brooklyn-ny-2b4a90d2.html"
+   }, {
+      "id" : "334ed4f5",
+      "versionId" : "g5366df9d",
+      "eventDate" : "16-10-2025",
+      "lastUpdated" : "2025-10-17T04:26:07.112+0000",
+      "artist" : {
+         "mbid" : "545fce1f-f8d6-46e8-8e01-60a911216541",
+         "name" : "Hovvdy",
+         "sortName" : "Hovvdy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hovvdy-2bc128c6.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Feel Tall"
+            }, {
+               "name" : "Cathedral"
+            }, {
+               "name" : "Portrait"
+            }, {
+               "name" : "Junior Day League"
+            }, {
+               "name" : "Bubba"
+            }, {
+               "name" : "Heartstring"
+            }, {
+               "name" : "Make Ya Proud"
+            }, {
+               "name" : "Blindsided"
+            }, {
+               "name" : "Jean"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "True Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hovvdy/2025/kings-theatre-brooklyn-ny-334ed4f5.html"
+   } ]
+}

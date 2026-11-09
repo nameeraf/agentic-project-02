@@ -1,0 +1,2480 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 211,
+   "setlist" : [ {
+      "id" : "2350a0c3",
+      "versionId" : "g1356a985",
+      "eventDate" : "06-10-2024",
+      "lastUpdated" : "2024-10-05T22:34:57.207+0000",
+      "artist" : {
+         "mbid" : "26a4ac8f-d8c0-4543-83a4-51f3bfcbecb9",
+         "name" : "The Brothers Macklovitch",
+         "sortName" : "Brothers Macklovitch, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-brothers-macklovitch-1bfee134.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-brothers-macklovitch/2024/madison-square-garden-new-york-ny-2350a0c3.html"
+   }, {
+      "id" : "1bab4550",
+      "versionId" : "gb49d96e",
+      "eventDate" : "06-10-2024",
+      "lastUpdated" : "2025-06-09T17:10:54.684+0000",
+      "artist" : {
+         "mbid" : "af37c51c-0790-4a29-b995-456f98a6b8c9",
+         "name" : "Vampire Weekend",
+         "sortName" : "Vampire Weekend",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/vampire-weekend-33d6bc79.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Only God Was Above Us"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hold You Now"
+            }, {
+               "name" : "Campus"
+            }, {
+               "name" : "Bryn"
+            }, {
+               "name" : "Ice Cream Piano"
+            }, {
+               "name" : "Classical",
+               "info" : "with a crew member dancing during sax solo"
+            }, {
+               "name" : "Connect"
+            }, {
+               "name" : "Unbelievers"
+            }, {
+               "name" : "Cape Cod Kwassa Kwassa"
+            }, {
+               "name" : "This Life"
+            }, {
+               "name" : "Everlasting Arms",
+               "info" : "Tour debut"
+            }, {
+               "name" : "Sunflower",
+               "info" : "\"Skaflower\" version with Super Mario Bros. \"Underground\" theme interpolated"
+            }, {
+               "name" : "M79"
+            }, {
+               "name" : "Pravda",
+               "info" : "Tiecoon (a closed down store in Penn Station) sign was brought onstage"
+            }, {
+               "name" : "Run"
+            }, {
+               "name" : "Diplomat's Son"
+            }, {
+               "name" : "Sweet Child o' Mine",
+               "cover" : {
+                  "mbid" : "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name" : "Guns N’ Roses",
+                  "sortName" : "Guns N’ Roses",
+                  "disambiguation" : "American hard rock band from Los Angeles",
+                  "url" : "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+               },
+               "info" : "guitar intro and lyric snippet; Ariel referencing his cover request from the previous show",
+               "with" : {
+                  "mbid" : "53ba7b2d-06c4-432a-81cc-ca7525adfec1",
+                  "name" : "Ariel Rechtshaid",
+                  "sortName" : "Rechtshaid, Ariel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ariel-rechtshaid-3bdd508c.html"
+               }
+            }, {
+               "name" : "Capricorn",
+               "with" : {
+                  "mbid" : "53ba7b2d-06c4-432a-81cc-ca7525adfec1",
+                  "name" : "Ariel Rechtshaid",
+                  "sortName" : "Rechtshaid, Ariel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ariel-rechtshaid-3bdd508c.html"
+               }
+            }, {
+               "name" : "Cousins"
+            }, {
+               "name" : "A-Punk"
+            }, {
+               "name" : "Married in a Gold Rush / All the Gold in California / Sin City / Cumberland Blues / Possum",
+               "info" : "\"Cocaine Cowboys\" medley, Ezra gave $700 to a fan during the song for playing cornhole"
+            }, {
+               "name" : "Prep-School Gangsters"
+            }, {
+               "name" : "Horchata"
+            }, {
+               "name" : "Mary Boone",
+               "info" : "Ezra singing from the stairs"
+            }, {
+               "name" : "Hannah Hunt",
+               "info" : "Ezra unintentionally sang the wrong lyrics for the third verse"
+            }, {
+               "name" : "Harmony Hall"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Seinfeld Theme",
+               "cover" : {
+                  "mbid" : "08f0a361-f027-4b01-8592-74c232ac5e44",
+                  "name" : "Jonathan Wolff",
+                  "sortName" : "Wolff, Jonathan",
+                  "disambiguation" : "American television composer",
+                  "url" : "https://www.setlist.fm/setlists/jonathan-wolff-7bd6ca44.html"
+               }
+            }, {
+               "name" : "Monster Mash",
+               "cover" : {
+                  "mbid" : "58dd5fa6-6eed-432a-90a5-6df1ae8d2b8d",
+                  "name" : "Bobby “Boris” Pickett",
+                  "sortName" : "Pickett, Bobby \"Boris\"",
+                  "disambiguation" : "novelty musician, known for “Monster Mash”",
+                  "url" : "https://www.setlist.fm/setlists/bobby-boris-pickett-63d646a7.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Santeria",
+               "cover" : {
+                  "mbid" : "95f5b748-d370-47fe-85bd-0af2dc450bc0",
+                  "name" : "Sublime",
+                  "sortName" : "Sublime",
+                  "disambiguation" : "ska punk",
+                  "url" : "https://www.setlist.fm/setlists/sublime-3d689bb.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Theme From New York, New York",
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Mr. Brightside",
+               "cover" : {
+                  "mbid" : "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                  "name" : "The Killers",
+                  "sortName" : "Killers, The",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-killers-23d6e097.html"
+               },
+               "info" : "video request from Brandon Flowers; first verse and chorus"
+            }, {
+               "name" : "Blitzkrieg Bop",
+               "cover" : {
+                  "mbid" : "d6ed7887-a401-47a8-893c-34b967444d26",
+                  "name" : "Ramones",
+                  "sortName" : "Ramones",
+                  "disambiguation" : "US punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/ramones-13d6a5cd.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Burning Down the House",
+               "cover" : {
+                  "mbid" : "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+                  "name" : "Talking Heads",
+                  "sortName" : "Talking Heads",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talking-heads-3bd6b808.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Wipe Out",
+               "cover" : {
+                  "mbid" : "ea9889a3-539d-4549-bff3-cb721b989aa2",
+                  "name" : "The Surfaris",
+                  "sortName" : "Surfaris, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-surfaris-4bd66fe2.html"
+               },
+               "info" : "Phish’s \"Maze\" tease on drums; audience did \"the wave\" around the arena per Ezra's request"
+            }, {
+               "name" : "Wuthering Heights",
+               "cover" : {
+                  "mbid" : "4b585938-f271-45e2-b19a-91c634b5e396",
+                  "name" : "Kate Bush",
+                  "sortName" : "Bush, Kate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kate-bush-23d6a4bf.html"
+               },
+               "info" : "chorus only, Ezra solo"
+            }, {
+               "name" : "The Boys Are Back in Town",
+               "cover" : {
+                  "mbid" : "6a726ac6-019e-455c-8bbb-571a77bed52e",
+                  "name" : "Thin Lizzy",
+                  "sortName" : "Thin Lizzy",
+                  "disambiguation" : "Irish hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/thin-lizzy-33d6802d.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Worship You"
+            }, {
+               "name" : "Ya Hey"
+            }, {
+               "name" : "Theme From New York, New York",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               },
+               "info" : "Frank Sinatra version"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vampire-weekend/2024/madison-square-garden-new-york-ny-1bab4550.html"
+   }, {
+      "id" : "7b50a688",
+      "versionId" : "g1b5559f4",
+      "eventDate" : "05-10-2024",
+      "lastUpdated" : "2024-11-02T08:17:07.766+0000",
+      "artist" : {
+         "mbid" : "c3c82bdc-d9e7-4836-9746-c24ead47ca19",
+         "name" : "Mark Ronson",
+         "sortName" : "Ronson, Mark",
+         "disambiguation" : "British DJ and producer",
+         "url" : "https://www.setlist.fm/setlists/mark-ronson-3d6bd8b.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "50 Ways to Leave Your Lover",
+               "cover" : {
+                  "mbid" : "05517043-ff78-4988-9c22-88c68588ebb9",
+                  "name" : "Paul Simon",
+                  "sortName" : "Simon, Paul",
+                  "disambiguation" : "of Simon & Garfunkel",
+                  "url" : "https://www.setlist.fm/setlists/paul-simon-5bd6e3a8.html"
+               }
+            }, {
+               "name" : "Tom's Diner",
+               "cover" : {
+                  "mbid" : "cf119120-7df5-47d7-9dec-49f8837a4e40",
+                  "name" : "Suzanne Vega",
+                  "sortName" : "Vega, Suzanne",
+                  "disambiguation" : "American singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/suzanne-vega-33d6a44d.html"
+               }
+            }, {
+               "name" : "Never Leave You (Uh Oooh, Uh Oooh)",
+               "cover" : {
+                  "mbid" : "0fc6441d-ee08-4088-8a70-1d6ed2ad5a35",
+                  "name" : "Lumidee",
+                  "sortName" : "Lumidee",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lumidee-73d652c9.html"
+               }
+            }, {
+               "name" : "A Milli",
+               "cover" : {
+                  "mbid" : "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+                  "name" : "Lil Wayne",
+                  "sortName" : "Lil Wayne",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lil-wayne-bd6bdb2.html"
+               }
+            }, {
+               "name" : "Heads Will Roll",
+               "cover" : {
+                  "mbid" : "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
+                  "name" : "Yeah Yeah Yeahs",
+                  "sortName" : "Yeah Yeah Yeahs",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/yeah-yeah-yeahs-2bd6982a.html"
+               }
+            }, {
+               "name" : "I'm Just Ken",
+               "cover" : {
+                  "mbid" : "a992d757-1207-499c-8be9-6537da8db2a8",
+                  "name" : "Ryan Gosling",
+                  "sortName" : "Gosling, Ryan",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ryan-gosling-33d28c09.html"
+               }
+            }, {
+               "name" : "New Person, Same Old Mistakes",
+               "cover" : {
+                  "mbid" : "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+                  "name" : "Tame Impala",
+                  "sortName" : "Tame Impala",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tame-impala-53d727d9.html"
+               }
+            }, {
+               "name" : "1901",
+               "cover" : {
+                  "mbid" : "8d455809-96b3-4bb6-8829-ea4beb580d35",
+                  "name" : "Phoenix",
+                  "sortName" : "Phoenix",
+                  "disambiguation" : "French indie band",
+                  "url" : "https://www.setlist.fm/setlists/phoenix-53d65301.html"
+               }
+            }, {
+               "name" : "Touch of Grey",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "Oh Boy",
+               "cover" : {
+                  "mbid" : "ea6b7199-901d-4c0e-8242-6d7bc2bf62b7",
+                  "name" : "Cam’ron",
+                  "sortName" : "Cam’ron",
+                  "disambiguation" : "US rapper Cameron Giles, fka Killa Cam",
+                  "url" : "https://www.setlist.fm/setlists/camron-33d69c65.html"
+               }
+            }, {
+               "name" : "Shallow",
+               "cover" : {
+                  "mbid" : "25c0b25e-db3c-4acf-be77-ed3b1b02e4fc",
+                  "name" : "Lady Gaga & Bradley Cooper",
+                  "sortName" : "Lady Gaga & Cooper, Bradley",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lady-gaga-and-bradley-cooper-4bc9af46.html"
+               }
+            }, {
+               "name" : "Time to Pretend",
+               "cover" : {
+                  "mbid" : "c485632c-b784-4ee9-8ea1-c5fb365681fc",
+                  "name" : "MGMT",
+                  "sortName" : "MGMT",
+                  "disambiguation" : "US pop rock group",
+                  "url" : "https://www.setlist.fm/setlists/mgmt-23d6b85f.html"
+               }
+            }, {
+               "name" : "Someday",
+               "cover" : {
+                  "mbid" : "f181961b-20f7-459e-89de-920ef03c7ed0",
+                  "name" : "The Strokes",
+                  "sortName" : "Strokes, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-strokes-23d6982f.html"
+               },
+               "info" : "Interpolation of \"I Want You Back\" by The Jackson 5"
+            }, {
+               "name" : "Dancing Queen",
+               "cover" : {
+                  "mbid" : "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+                  "name" : "ABBA",
+                  "sortName" : "ABBA",
+                  "disambiguation" : "Swedish pop group",
+                  "url" : "https://www.setlist.fm/setlists/abba-7bd6be74.html"
+               }
+            }, {
+               "name" : "Valerie",
+               "cover" : {
+                  "mbid" : "6290b769-173d-49d1-990e-660a4e333877",
+                  "name" : "The Zutons",
+                  "sortName" : "Zutons, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-zutons-23d6bc73.html"
+               }
+            }, {
+               "name" : "Uptown Funk"
+            }, {
+               "name" : "Maps",
+               "cover" : {
+                  "mbid" : "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
+                  "name" : "Yeah Yeah Yeahs",
+                  "sortName" : "Yeah Yeah Yeahs",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/yeah-yeah-yeahs-2bd6982a.html"
+               }
+            }, {
+               "name" : "Hold Up",
+               "cover" : {
+                  "mbid" : "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name" : "Beyoncé",
+                  "sortName" : "Beyoncé",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beyonce-33d69c3d.html"
+               }
+            }, {
+               "name" : "Slow Burn",
+               "cover" : {
+                  "mbid" : "d1393ecb-431b-4fde-a6ea-d769f2f040cb",
+                  "name" : "Kacey Musgraves",
+                  "sortName" : "Musgraves, Kacey",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kacey-musgraves-73dfe69d.html"
+               }
+            }, {
+               "name" : "Paper Planes",
+               "cover" : {
+                  "mbid" : "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+                  "name" : "M.I.A.",
+                  "sortName" : "M.I.A.",
+                  "disambiguation" : "hip hop artist Maya Arulpragasam",
+                  "url" : "https://www.setlist.fm/setlists/mia-5bd7bfd4.html"
+               }
+            }, {
+               "name" : "I Got 5 on It",
+               "cover" : {
+                  "mbid" : "a8863d65-6f1e-43b0-b480-7dd85fd8339e",
+                  "name" : "Luniz",
+                  "sortName" : "Luniz",
+                  "disambiguation" : "US hip hop duo from Oakland",
+                  "url" : "https://www.setlist.fm/setlists/luniz-3d6814f.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "DJ set",
+      "url" : "https://www.setlist.fm/setlist/mark-ronson/2024/madison-square-garden-new-york-ny-7b50a688.html"
+   }, {
+      "id" : "6350a68f",
+      "versionId" : "g5b561794",
+      "eventDate" : "05-10-2024",
+      "lastUpdated" : "2024-10-10T04:21:41.844+0000",
+      "artist" : {
+         "mbid" : "97b6f42c-0b08-4640-a6e3-5d28be4615d2",
+         "name" : "Turnstiles",
+         "sortName" : "Turnstiles",
+         "disambiguation" : "Billy Joel tribute band from Florida",
+         "url" : "https://www.setlist.fm/setlists/turnstiles-3be30c68.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Miami 2017 (Seen the Lights Go Out on Broadway)",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "Pressure",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "My Life",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "New York State of Mind",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "We Didn't Start the Fire",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "You May Be Right",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "It's Still Rock and Roll to Me",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "Big Shot",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "Only the Good Die Young",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "Piano Man",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            }, {
+               "name" : "Movin' Out (Anthony's Song)",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/turnstiles/2024/madison-square-garden-new-york-ny-6350a68f.html"
+   }, {
+      "id" : "13ab4551",
+      "versionId" : "g356d543",
+      "eventDate" : "05-10-2024",
+      "lastUpdated" : "2024-10-08T10:34:39.711+0000",
+      "artist" : {
+         "mbid" : "af37c51c-0790-4a29-b995-456f98a6b8c9",
+         "name" : "Vampire Weekend",
+         "sortName" : "Vampire Weekend",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/vampire-weekend-33d6bc79.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Only God Was Above Us"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mansard Roof"
+            }, {
+               "name" : "Holiday"
+            }, {
+               "name" : "One (Blake's Got a New Face)"
+            }, {
+               "name" : "Ice Cream Piano"
+            }, {
+               "name" : "Classical",
+               "info" : "Crew member dances during sax solo"
+            }, {
+               "name" : "Connect"
+            }, {
+               "name" : "White Sky"
+            }, {
+               "name" : "Step"
+            }, {
+               "name" : "This Life"
+            }, {
+               "name" : "Sympathy",
+               "info" : ">"
+            }, {
+               "name" : "New Dorp. New York",
+               "cover" : {
+                  "mbid" : "7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7",
+                  "name" : "SBTRKT",
+                  "sortName" : "SBTRKT",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sbtrkt-23d4607b.html"
+               }
+            }, {
+               "name" : "The Surfer"
+            }, {
+               "name" : "Bambina",
+               "info" : "Grunge version"
+            }, {
+               "name" : "Giving Up the Gun"
+            }, {
+               "name" : "Oxford Comma"
+            }, {
+               "name" : "Capricorn",
+               "with" : {
+                  "mbid" : "53ba7b2d-06c4-432a-81cc-ca7525adfec1",
+                  "name" : "Ariel Rechtshaid",
+                  "sortName" : "Rechtshaid, Ariel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ariel-rechtshaid-3bdd508c.html"
+               }
+            }, {
+               "name" : "Gen-X Cops"
+            }, {
+               "name" : "Diane Young"
+            }, {
+               "name" : "A-Punk"
+            }, {
+               "name" : "Scenes From an Italian Restaurant",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               },
+               "info" : "with candlelit table, chairs, two diners, and a tuxedoed waiter on stage"
+            }, {
+               "name" : "Mary Boone"
+            }, {
+               "name" : "Harmony Hall"
+            }, {
+               "name" : "Hope"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "This Will Be Our Year",
+               "cover" : {
+                  "mbid" : "230ca093-1d00-4c57-9235-147942f66930",
+                  "name" : "The Zombies",
+                  "sortName" : "Zombies, The",
+                  "disambiguation" : "British band",
+                  "url" : "https://www.setlist.fm/setlists/the-zombies-13d6a9e1.html"
+               },
+               "info" : "first verse only"
+            }, {
+               "name" : "Dirty Work",
+               "cover" : {
+                  "mbid" : "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+                  "name" : "Steely Dan",
+                  "sortName" : "Steely Dan",
+                  "disambiguation" : "group founded by Walter Becker and Donald Fagen",
+                  "url" : "https://www.setlist.fm/setlists/steely-dan-7bd6be38.html"
+               },
+               "info" : "partial"
+            }, {
+               "name" : "Sugar, We're Goin Down",
+               "cover" : {
+                  "mbid" : "516cef4d-0718-4007-9939-f9b38af3f784",
+                  "name" : "Fall Out Boy",
+                  "sortName" : "Fall Out Boy",
+                  "disambiguation" : "pop punk band",
+                  "url" : "https://www.setlist.fm/setlists/fall-out-boy-33d6bc71.html"
+               },
+               "info" : "chorus only"
+            }, {
+               "name" : "Don't Stop Believin'",
+               "cover" : {
+                  "mbid" : "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
+                  "name" : "Journey",
+                  "sortName" : "Journey",
+                  "disambiguation" : "American rock band",
+                  "url" : "https://www.setlist.fm/setlists/journey-3d6b507.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Jolene",
+               "cover" : {
+                  "mbid" : "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+                  "name" : "Dolly Parton",
+                  "sortName" : "Parton, Dolly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dolly-parton-4bd6e7ae.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "London Calling",
+               "cover" : {
+                  "mbid" : "8f92558c-2baa-4758-8c38-615519e9deda",
+                  "name" : "The Clash",
+                  "sortName" : "Clash, The",
+                  "disambiguation" : "70s–80s British punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-clash-bd6a53e.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Karma Chameleon",
+               "cover" : {
+                  "mbid" : "81435053-e1a2-48a4-adfd-e89f310c7b38",
+                  "name" : "Culture Club",
+                  "sortName" : "Culture Club",
+                  "disambiguation" : "English pop group",
+                  "url" : "https://www.setlist.fm/setlists/culture-club-6bd6be1a.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Jokerman",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "My Life",
+               "cover" : {
+                  "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+                  "name" : "Billy Joel",
+                  "sortName" : "Joel, Billy",
+                  "disambiguation" : "American singer‐songwriter and pianist",
+                  "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+               },
+               "info" : "first verse/chorus; Ariel req'd \"Sweet Child O' Mine\" next, but the band did not know how to play it"
+            }, {
+               "name" : "Viva la Vida",
+               "cover" : {
+                  "mbid" : "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+                  "name" : "Coldplay",
+                  "sortName" : "Coldplay",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/coldplay-3d6bde3.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "I'm Goin' Down",
+               "cover" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               },
+               "info" : "first verse and chorus"
+            }, {
+               "name" : "Walcott"
+            }, {
+               "name" : "SNL Closing Theme (A Waltz in A) / Flower Moon"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vampire-weekend/2024/madison-square-garden-new-york-ny-13ab4551.html"
+   }, {
+      "id" : "63a9a66b",
+      "versionId" : "g7355f6fd",
+      "eventDate" : "04-10-2024",
+      "lastUpdated" : "2024-10-28T22:49:07.721+0000",
+      "artist" : {
+         "mbid" : "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+         "name" : "Bleachers",
+         "sortName" : "Bleachers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bleachers-33db709d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "From The Studio To The Stage"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Am Right on Time"
+            }, {
+               "name" : "Modern Girl"
+            }, {
+               "name" : "Jesus Is Dead"
+            }, {
+               "name" : "How Dare You Want More",
+               "info" : "restarted",
+               "with" : {
+                  "mbid" : "4c1bec9d-019f-4961-9e51-2be3321686b9",
+                  "name" : "Ricky Antonoff",
+                  "sortName" : "Antonoff, Ricky",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ricky-antonoff-1bcd15c0.html"
+               }
+            }, {
+               "name" : "Wake Me"
+            }, {
+               "name" : "Everybody Lost Somebody"
+            }, {
+               "name" : "Goodmorning"
+            }, {
+               "name" : "Call Me After Midnight"
+            }, {
+               "name" : "Me Before You"
+            }, {
+               "name" : "Chinatown"
+            }, {
+               "name" : "Don't Go Dark"
+            }, {
+               "name" : "Self Respect"
+            }, {
+               "name" : "Wild Heart"
+            }, {
+               "name" : "Juno Interlude",
+               "tape" : true
+            }, {
+               "name" : "Rollercoaster"
+            }, {
+               "name" : "Let's Get Married"
+            }, {
+               "name" : "91",
+               "info" : "Jack solo acoustic ‘in studio’"
+            }, {
+               "name" : "Dream of Mickey Mantle",
+               "info" : "Jack solo acoustic ‘in studio’"
+            }, {
+               "name" : "Ordinary Heaven"
+            }, {
+               "name" : "Tiny Moves"
+            }, {
+               "name" : "I Wanna Get Better",
+               "info" : "Jack down to the barrier"
+            }, {
+               "name" : "Don't Take the Money",
+               "info" : "Jack down to the barrier"
+            }, {
+               "name" : "Stop Making This Hurt",
+               "info" : "John Boutté's \"Treme Song\" saxophone outro as the band exited the stage"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bleachers/2024/madison-square-garden-new-york-ny-63a9a66b.html"
+   }, {
+      "id" : "3b50b8fc",
+      "versionId" : "g4b56bbfe",
+      "eventDate" : "04-10-2024",
+      "lastUpdated" : "2024-10-05T16:16:35.111+0000",
+      "artist" : {
+         "mbid" : "4d41868f-8901-4e77-bbd9-ead5bb7831ee",
+         "name" : "Amy Allen",
+         "sortName" : "Allen, Amy",
+         "disambiguation" : "US indie-pop songwriter",
+         "url" : "https://www.setlist.fm/setlists/amy-allen-bc891ba.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "unafraid"
+            }, {
+               "name" : "pillar"
+            }, {
+               "name" : "kind sadness"
+            }, {
+               "name" : "break"
+            }, {
+               "name" : "darkside"
+            }, {
+               "name" : "Without Me"
+            }, {
+               "name" : "Adore You"
+            }, {
+               "name" : "weirdo"
+            }, {
+               "name" : "even forever"
+            } ]
+         } ]
+      },
+      "info" : "Supporting act for Bleachers.",
+      "url" : "https://www.setlist.fm/setlist/amy-allen/2024/madison-square-garden-new-york-ny-3b50b8fc.html"
+   }, {
+      "id" : "5ba88320",
+      "versionId" : "g5357db95",
+      "eventDate" : "30-09-2024",
+      "lastUpdated" : "2024-10-14T20:36:47.247+0000",
+      "artist" : {
+         "mbid" : "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+         "name" : "Conan Gray",
+         "sortName" : "Gray, Conan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/conan-gray-1bcd6130.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Found Heaven on Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fainted Love"
+            }, {
+               "name" : "Never Ending Song"
+            }, {
+               "name" : "Wish You Were Sober"
+            }, {
+               "name" : "Eye of the Night"
+            }, {
+               "name" : "Killing Me"
+            }, {
+               "name" : "The Exit"
+            }, {
+               "name" : "People Watching"
+            }, {
+               "name" : "The Cut That Always Bleeds"
+            }, {
+               "name" : "Jigsaw"
+            }, {
+               "name" : "Family Line"
+            }, {
+               "name" : "The Story",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Holidays",
+               "info" : "New song; unreleased"
+            }, {
+               "name" : "Astronomy"
+            }, {
+               "name" : "Found Heaven"
+            }, {
+               "name" : "Boys & Girls"
+            }, {
+               "name" : "Lonely Dancers"
+            }, {
+               "name" : "Winner"
+            }, {
+               "name" : "Heather",
+               "info" : "+ Original Verse at the end"
+            }, {
+               "name" : "Memories"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Bourgeoisieses",
+               "info" : "(MSGeses shirt)"
+            }, {
+               "name" : "Maniac"
+            }, {
+               "name" : "Alley Rose"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/conan-gray/2024/madison-square-garden-new-york-ny-5ba88320.html"
+   }, {
+      "id" : "53a88325",
+      "versionId" : "g73179251",
+      "eventDate" : "30-09-2024",
+      "lastUpdated" : "2026-03-06T03:50:35.159+0000",
+      "artist" : {
+         "mbid" : "c2f6c57f-27ba-4c0d-b2fd-3348961e79a1",
+         "name" : "Maisie Peters",
+         "sortName" : "Peters, Maisie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maisie-peters-1bccf1d0.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "You're Just a Boy (and I'm Kinda the Man)"
+            }, {
+               "name" : "Body Better"
+            }, {
+               "name" : "Love Him I Don't"
+            }, {
+               "name" : "John Hughes Movie"
+            }, {
+               "name" : "Not Another Rockstar"
+            }, {
+               "name" : "Holding Out for a Hero",
+               "cover" : {
+                  "mbid" : "0aa8294b-6332-4b65-b677-e3a1f8591d3b",
+                  "name" : "Bonnie Tyler",
+                  "sortName" : "Tyler, Bonnie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bonnie-tyler-3d60913.html"
+               }
+            }, {
+               "name" : "The Band and I"
+            }, {
+               "name" : "Blonde"
+            }, {
+               "name" : "There It Goes"
+            }, {
+               "name" : "History of Man"
+            }, {
+               "name" : "Lost the Breakup"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maisie-peters/2024/madison-square-garden-new-york-ny-53a88325.html"
+   }, {
+      "id" : "7357eaa9",
+      "versionId" : "g4b6ef346",
+      "eventDate" : "29-09-2024",
+      "lastUpdated" : "2025-12-15T06:59:39.339+0000",
+      "artist" : {
+         "mbid" : "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+         "name" : "Sabrina Carpenter",
+         "sortName" : "Carpenter, Sabrina",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sabrina-carpenter-4bdd3b6a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Short n' Sweet Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'm Coming Out",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "60d41417-feda-4734-bbbf-7dcc30e08a83",
+                  "name" : "Diana Ross",
+                  "sortName" : "Ross, Diana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/diana-ross-73d6bef9.html"
+               }
+            } ]
+         }, {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "The Short n' Sweet Show",
+               "tape" : true,
+               "info" : "video intro"
+            }, {
+               "name" : "Taste"
+            }, {
+               "name" : "Good Graces"
+            }, {
+               "name" : "Slim Pickins"
+            }, {
+               "name" : "Tornado Warnings"
+            }, {
+               "name" : "Lie to Girls"
+            }, {
+               "name" : "decode",
+               "info" : "shortened"
+            }, {
+               "name" : "Bed Chem"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Sabrina After Dark",
+               "tape" : true,
+               "info" : "contained names of singers and band"
+            }, {
+               "name" : "Feather",
+               "info" : "jazz remix; said “I’m playing MSG and you’re not!”"
+            }, {
+               "name" : "Fast Times"
+            }, {
+               "name" : "Read your Mind"
+            }, {
+               "name" : "Sharpest Tool"
+            }, {
+               "name" : "opposite",
+               "info" : "shortened"
+            }, {
+               "name" : "because i liked a boy"
+            }, {
+               "name" : "Coincidence"
+            }, {
+               "name" : "Mamma Mia",
+               "cover" : {
+                  "mbid" : "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+                  "name" : "ABBA",
+                  "sortName" : "ABBA",
+                  "disambiguation" : "Swedish pop group",
+                  "url" : "https://www.setlist.fm/setlists/abba-7bd6be74.html"
+               },
+               "info" : "Spin The Bottle cover"
+            }, {
+               "name" : "Nonsense"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Don't Touch That Dial!",
+               "tape" : true
+            }, {
+               "name" : "Dumb & Poetic"
+            }, {
+               "name" : "Juno"
+            }, {
+               "name" : "Please Please Please"
+            }, {
+               "name" : "Don't Smile"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Espresso"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sabrina-carpenter/2024/madison-square-garden-new-york-ny-7357eaa9.html"
+   }, {
+      "id" : "b547dd6",
+      "versionId" : "gba9f912",
+      "eventDate" : "28-09-2024",
+      "lastUpdated" : "2024-09-29T17:14:55.755+0000",
+      "artist" : {
+         "mbid" : "5bbf0f10-4355-42cb-9d08-6b777a8a300d",
+         "name" : "Mt. Joy",
+         "sortName" : "Mt. Joy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mt-joy-3cf8d17.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "2024 Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "Sheep"
+            }, {
+               "name" : "Jenny Jenkins"
+            }, {
+               "name" : "Orange Blood"
+            }, {
+               "name" : "Let Loose",
+               "info" : "w/ “Mrs. Robinson” by Simon & Garfunkel snippet"
+            }, {
+               "name" : "Phenomenon"
+            }, {
+               "name" : "Bug Eyes"
+            }, {
+               "name" : "Dirty Love",
+               "with" : {
+                  "mbid" : "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                  "name" : "Lindsey Stirling",
+                  "sortName" : "Stirling, Lindsey",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lindsey-stirling-33d0f071.html"
+               }
+            }, {
+               "name" : "Witness"
+            }, {
+               "name" : "Lemon Tree"
+            }, {
+               "name" : "She Wants to Go Dancing",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Roly Poly"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "I'm Your Wreck"
+            }, {
+               "name" : "Rearrange Us"
+            }, {
+               "name" : "Evergreen"
+            }, {
+               "name" : "Mt. Joy",
+               "info" : "w/ “Dancing Queen” by ABBA snippet"
+            }, {
+               "name" : "Highway Queen",
+               "with" : {
+                  "mbid" : "109357f0-eb37-4672-9697-dca8c83a61b5",
+                  "name" : "Maren Morris",
+                  "sortName" : "Morris, Maren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/maren-morris-2bc5c022.html"
+               }
+            }, {
+               "name" : "Johnson Song",
+               "info" : "Matt, Sam, and Jackie move to second stage"
+            }, {
+               "name" : "Bathroom Light",
+               "info" : "played on second stage; Matt, Sam, and Jackie only"
+            }, {
+               "name" : "Younger Days",
+               "info" : "played on second stage; Matt and Jackie only"
+            }, {
+               "name" : "Strangers"
+            }, {
+               "name" : "Astrovan"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Julia",
+               "info" : "w/ “You’re So Vain” by Carly Simon and “Levels” by Avicii snippets"
+            }, {
+               "name" : "Silver Lining"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mt-joy/2024/madison-square-garden-new-york-ny-b547dd6.html"
+   }, {
+      "id" : "63522acb",
+      "versionId" : "g6b52464e",
+      "eventDate" : "27-09-2024",
+      "lastUpdated" : "2024-11-10T22:07:47.638+0000",
+      "artist" : {
+         "mbid" : "6d9e7506-8b53-4dd8-992a-512b18f3b6ba",
+         "name" : "Warren Zeiders",
+         "sortName" : "Warren Zeiders",
+         "disambiguation" : "country artist",
+         "url" : "https://www.setlist.fm/setlists/warren-zeiders-5bf247f4.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Take it to the Grave",
+               "info" : "Unreleased Single"
+            }, {
+               "name" : "Intoxicated"
+            }, {
+               "name" : "Betrayal"
+            }, {
+               "name" : "Best I've Ever Had",
+               "info" : "Unreleased Single"
+            }, {
+               "name" : "Heartbreaker"
+            }, {
+               "name" : "Relapse"
+            }, {
+               "name" : "Sin So Sweet"
+            }, {
+               "name" : "Pretty Little Poison"
+            }, {
+               "name" : "Ride the Lightning"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/warren-zeiders/2024/madison-square-garden-new-york-ny-63522acb.html"
+   }, {
+      "id" : "3352d461",
+      "versionId" : "g1b4b1d90",
+      "eventDate" : "27-09-2024",
+      "lastUpdated" : "2025-05-26T23:54:26.065+0000",
+      "artist" : {
+         "mbid" : "ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32",
+         "name" : "Jelly Roll",
+         "sortName" : "Jelly Roll",
+         "disambiguation" : "Tennessean country rapper",
+         "url" : "https://www.setlist.fm/setlists/jelly-roll-13db61a5.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Beautifully Broken Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Am Not Okay"
+            }, {
+               "name" : "Halfway to Hell"
+            }, {
+               "name" : "Get By"
+            }, {
+               "name" : "Burning"
+            }, {
+               "name" : "Son of a Sinner"
+            }, {
+               "name" : "Should've Been a Cowboy",
+               "cover" : {
+                  "mbid" : "2f951906-5629-4fef-a260-5033151c162a",
+                  "name" : "Toby Keith",
+                  "sortName" : "Keith, Toby",
+                  "disambiguation" : "US country singer & guitarist",
+                  "url" : "https://www.setlist.fm/setlists/toby-keith-33d6bc81.html"
+               },
+               "with" : {
+                  "mbid" : "5e8644da-39d5-4f3d-ab43-02515dbc63c1",
+                  "name" : "Alexandra Kay",
+                  "sortName" : "Kay, Alexandra",
+                  "disambiguation" : "US | pop",
+                  "url" : "https://www.setlist.fm/setlists/alexandra-kay-1bf4e594.html"
+               }
+            }, {
+               "name" : "Man! I Feel Like a Woman!",
+               "cover" : {
+                  "mbid" : "faabb55d-3c9e-4c23-8779-732ac2ee2c0d",
+                  "name" : "Shania Twain",
+                  "sortName" : "Twain, Shania",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/shania-twain-53d6bf3d.html"
+               },
+               "with" : {
+                  "mbid" : "5e8644da-39d5-4f3d-ab43-02515dbc63c1",
+                  "name" : "Alexandra Kay",
+                  "sortName" : "Kay, Alexandra",
+                  "disambiguation" : "US | pop",
+                  "url" : "https://www.setlist.fm/setlists/alexandra-kay-1bf4e594.html"
+               }
+            }, {
+               "name" : "Friends in Low Places",
+               "cover" : {
+                  "mbid" : "6f7c222a-3880-4c68-ba86-2ddeba2f0432",
+                  "name" : "Dewayne Blackwell",
+                  "sortName" : "Blackwell, Dewayne",
+                  "disambiguation" : "American songwriter",
+                  "url" : "https://www.setlist.fm/setlists/dewayne-blackwell-33d9b0f5.html"
+               },
+               "with" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               }
+            }, {
+               "name" : "Losers",
+               "cover" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               }
+            }, {
+               "name" : "I Had Some Help",
+               "cover" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               },
+               "with" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               }
+            }, {
+               "name" : "Creature / Same Asshole / Fall in the Fall"
+            }, {
+               "name" : "Wild Ones",
+               "cover" : {
+                  "mbid" : "007188c6-2cd6-4060-9629-151433847ddf",
+                  "name" : "Jessie Murph",
+                  "sortName" : "Murph, Jessie",
+                  "disambiguation" : "Nashville singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jessie-murph-3f04527.html"
+               },
+               "with" : {
+                  "mbid" : "007188c6-2cd6-4060-9629-151433847ddf",
+                  "name" : "Jessie Murph",
+                  "sortName" : "Murph, Jessie",
+                  "disambiguation" : "Nashville singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jessie-murph-3f04527.html"
+               }
+            }, {
+               "name" : "She"
+            }, {
+               "name" : "Liar"
+            }, {
+               "name" : "Look at Me Now",
+               "cover" : {
+                  "mbid" : "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                  "name" : "Chris Brown",
+                  "sortName" : "Brown, Chris",
+                  "disambiguation" : "US R&B/pop singer and dancer",
+                  "url" : "https://www.setlist.fm/setlists/chris-brown-3bd6bc40.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+                  "name" : "Busta Rhymes",
+                  "sortName" : "Busta Rhymes",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/busta-rhymes-1bd6bd9c.html"
+               }
+            }, {
+               "name" : "Bottle and Mary Jane"
+            }, {
+               "name" : "Need a Favor"
+            }, {
+               "name" : "Smoking Section"
+            }, {
+               "name" : "Heart of Stone"
+            }, {
+               "name" : "Save Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jelly-roll/2024/madison-square-garden-new-york-ny-3352d461.html"
+   }, {
+      "id" : "1353793d",
+      "versionId" : "g53a9b3ad",
+      "eventDate" : "27-09-2024",
+      "lastUpdated" : "2024-09-28T05:59:36.414+0000",
+      "artist" : {
+         "mbid" : "5e8644da-39d5-4f3d-ab43-02515dbc63c1",
+         "name" : "Alexandra Kay",
+         "sortName" : "Kay, Alexandra",
+         "disambiguation" : "US | pop",
+         "url" : "https://www.setlist.fm/setlists/alexandra-kay-1bf4e594.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Easy"
+            }, {
+               "name" : "Backroad Therapy"
+            }, {
+               "name" : "I Hate Airplanes"
+            }, {
+               "name" : "All I've Ever Known"
+            }, {
+               "name" : "Skip This Part"
+            }, {
+               "name" : "More Than You"
+            }, {
+               "name" : "Everleave"
+            }, {
+               "name" : "Painted Him Perfect"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alexandra-kay/2024/madison-square-garden-new-york-ny-1353793d.html"
+   }, {
+      "id" : "ba959b2",
+      "versionId" : "g7b57b294",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-10-12T18:31:01.140+0000",
+      "artist" : {
+         "mbid" : "b2029169-2574-4305-820f-252a5fde3697",
+         "name" : "Meghan Trainor",
+         "sortName" : "Trainor, Meghan",
+         "disambiguation" : "American singer",
+         "url" : "https://www.setlist.fm/setlists/meghan-trainor-7bd8e27c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Timeless Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Mother"
+            }, {
+               "name" : "Don't I Make It Look Easy"
+            }, {
+               "name" : "Lips Are Movin"
+            }, {
+               "name" : "No Excuses"
+            }, {
+               "name" : "Crushin’"
+            }, {
+               "name" : "Bestie"
+            }, {
+               "name" : "Better When I'm Dancin'"
+            }, {
+               "name" : "Title"
+            }, {
+               "name" : "Forget How to Love"
+            }, {
+               "name" : "Superwoman"
+            }, {
+               "name" : "Like I'm Gonna Lose You"
+            }, {
+               "name" : "Dear Future Husband"
+            }, {
+               "name" : "Criminals"
+            }, {
+               "name" : "Crowded Room"
+            }, {
+               "name" : "Doin' It All For You"
+            }, {
+               "name" : "All About That Bass"
+            }, {
+               "name" : "Wave"
+            }, {
+               "name" : "Genetics"
+            }, {
+               "name" : "NO"
+            }, {
+               "name" : "Hate It Here"
+            }, {
+               "name" : "Chasin'",
+               "cover" : {
+                  "mbid" : "0d9ff9c7-394e-4228-93aa-c4afd4765324",
+                  "name" : "Paris Hilton",
+                  "sortName" : "Hilton, Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/paris-hilton-7bd60228.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "0d9ff9c7-394e-4228-93aa-c4afd4765324",
+                  "name" : "Paris Hilton",
+                  "sortName" : "Hilton, Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/paris-hilton-7bd60228.html"
+               }
+            }, {
+               "name" : "Stars Are Blind",
+               "cover" : {
+                  "mbid" : "0d9ff9c7-394e-4228-93aa-c4afd4765324",
+                  "name" : "Paris Hilton",
+                  "sortName" : "Hilton, Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/paris-hilton-7bd60228.html"
+               },
+               "with" : {
+                  "mbid" : "0d9ff9c7-394e-4228-93aa-c4afd4765324",
+                  "name" : "Paris Hilton",
+                  "sortName" : "Hilton, Paris",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/paris-hilton-7bd60228.html"
+               }
+            }, {
+               "name" : "Me Too"
+            }, {
+               "name" : "Whoops"
+            }, {
+               "name" : "To the Moon"
+            }, {
+               "name" : "Been Like This"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Timeless"
+            }, {
+               "name" : "I Wanna Thank Me"
+            }, {
+               "name" : "Made You Look"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/meghan-trainor/2024/madison-square-garden-new-york-ny-ba959b2.html"
+   }, {
+      "id" : "235310d3",
+      "versionId" : "g3ba85888",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-09-26T22:34:23.330+0000",
+      "artist" : {
+         "mbid" : "8b477559-946e-4ef2-9fe1-446cff8fdd79",
+         "name" : "Natasha Bedingfield",
+         "sortName" : "Bedingfield, Natasha",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/natasha-bedingfield-bd6bd06.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love Like This"
+            }, {
+               "name" : "Roller Skate"
+            }, {
+               "name" : "Single"
+            }, {
+               "name" : "Soulmate"
+            }, {
+               "name" : "Pocketful of Sunshine"
+            }, {
+               "name" : "Purple Rain",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               }
+            }, {
+               "name" : "These Words"
+            }, {
+               "name" : "Unwritten"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete, Opening Act for Meghan Trainor",
+      "url" : "https://www.setlist.fm/setlist/natasha-bedingfield/2024/madison-square-garden-new-york-ny-235310d3.html"
+   }, {
+      "id" : "1b53ede4",
+      "versionId" : "g3ba86c10",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-09-26T03:15:24.070+0000",
+      "artist" : {
+         "mbid" : "40d7eee0-577a-41ce-b2db-766aea5a8894",
+         "name" : "Chris Olsen",
+         "sortName" : "Olsen, Chris",
+         "disambiguation" : "experimental pop artist",
+         "url" : "https://www.setlist.fm/setlists/chris-olsen-6be57e86.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Setlist Incomplete, Opening Act for Meghan Trainor",
+      "url" : "https://www.setlist.fm/setlist/chris-olsen/2024/madison-square-garden-new-york-ny-1b53ede4.html"
+   }, {
+      "id" : "1353edd9",
+      "versionId" : "g4b79c372",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2025-10-09T21:27:53.151+0000",
+      "artist" : {
+         "mbid" : "61a48dab-a214-4760-94a7-28267a2725a9",
+         "name" : "Paul Russell",
+         "sortName" : "Russell, Paul",
+         "disambiguation" : "LA based rapper and singer",
+         "url" : "https://www.setlist.fm/setlists/paul-russell-53fccf15.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Party in the U.S.A.",
+               "cover" : {
+                  "mbid" : "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+                  "name" : "MILEY",
+                  "sortName" : "MILEY",
+                  "disambiguation" : "Cyrus",
+                  "url" : "https://www.setlist.fm/setlists/miley-3bd6bc54.html"
+               }
+            }, {
+               "name" : "Say Cheese"
+            }, {
+               "name" : "Keeper"
+            }, {
+               "name" : "My Girl",
+               "cover" : {
+                  "mbid" : "d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e",
+                  "name" : "The Temptations",
+                  "sortName" : "Temptations, The",
+                  "disambiguation" : "Motown soul vocal group",
+                  "url" : "https://www.setlist.fm/setlists/the-temptations-13d6b941.html"
+               }
+            }, {
+               "name" : "Slippin'"
+            }, {
+               "name" : "Homecoming"
+            }, {
+               "name" : "Eat Pray Love"
+            }, {
+               "name" : "Lil Boo Thang"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete, Opening Act fot Meghan Trainor",
+      "url" : "https://www.setlist.fm/setlist/paul-russell/2024/madison-square-garden-new-york-ny-1353edd9.html"
+   }, {
+      "id" : "2b538cf2",
+      "versionId" : "g4ba86386",
+      "eventDate" : "23-09-2024",
+      "lastUpdated" : "2024-09-26T15:40:46.442+0000",
+      "artist" : {
+         "mbid" : "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+         "name" : "Shygirl",
+         "sortName" : "Shygirl",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/shygirl-73ccf6b1.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "THICC"
+            }, {
+               "name" : "4eva",
+               "info" : "X-coast remix"
+            }, {
+               "name" : "TASTY"
+            }, {
+               "name" : "SIREN"
+            }, {
+               "name" : "Missin u"
+            }, {
+               "name" : "Nike"
+            }, {
+               "name" : "BDE"
+            }, {
+               "name" : "tell me",
+               "info" : "K edit"
+            }, {
+               "name" : "mr useless"
+            }, {
+               "name" : "FREAK"
+            }, {
+               "name" : "f@k€"
+            }, {
+               "name" : "encore"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/shygirl/2024/madison-square-garden-new-york-ny-2b538cf2.html"
+   }, {
+      "id" : "13a8edd9",
+      "versionId" : "g435d6fdb",
+      "eventDate" : "23-09-2024",
+      "lastUpdated" : "2025-01-05T01:41:48.962+0000",
+      "artist" : {
+         "mbid" : "496c01e8-e16a-4fad-8369-3ea1dc07a75c",
+         "name" : "Charli XCX & Troye Sivan",
+         "sortName" : "Charli xcx & Sivan, Troye",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charli-xcx-and-troye-sivan-23c984ab.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "SWEAT"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I — Troye Sivan:",
+            "song" : [ {
+               "name" : "Got Me Started",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "What's the Time Where You Are?",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "My My My!",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            } ]
+         }, {
+            "name" : "Act I — Charli XCX:",
+            "song" : [ {
+               "name" : "365",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "Remix",
+               "with" : {
+                  "mbid" : "9385f1a7-8623-4d0c-b171-f1e6e87220c5",
+                  "name" : "Shygirl",
+                  "sortName" : "Shygirl",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/shygirl-73ccf6b1.html"
+               }
+            }, {
+               "name" : "360",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Von dutch",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            } ]
+         }, {
+            "name" : "Act II — Troye Sivan:",
+            "song" : [ {
+               "name" : "In My Room",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "Dance to This",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "Rager teenager!",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            } ]
+         }, {
+            "name" : "Act II — Charli XCX:",
+            "song" : [ {
+               "name" : "Club classics",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Unlock It",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Sympathy is a knife",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Guess",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            } ]
+         }, {
+            "name" : "Act III — Troye Sivan:",
+            "song" : [ {
+               "name" : "Bloom",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            } ]
+         }, {
+            "name" : "Act III — Charli XCX:",
+            "song" : [ {
+               "name" : "Spring breakers",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Diet Pepsi",
+               "cover" : {
+                  "mbid" : "610b71d9-fa78-47d6-9073-083922e73840",
+                  "name" : "Addison Rae",
+                  "sortName" : "Rae, Addison",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/addison-rae-1bf3690c.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "610b71d9-fa78-47d6-9073-083922e73840",
+                  "name" : "Addison Rae",
+                  "sortName" : "Rae, Addison",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/addison-rae-1bf3690c.html"
+               }
+            }, {
+               "name" : "Von dutch",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "a.g. cook remix",
+               "with" : {
+                  "mbid" : "610b71d9-fa78-47d6-9073-083922e73840",
+                  "name" : "Addison Rae",
+                  "sortName" : "Rae, Addison",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/addison-rae-1bf3690c.html"
+               }
+            }, {
+               "name" : "Girl, so confusing",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "\"featuring Lorde\" remix",
+               "with" : {
+                  "mbid" : "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+                  "name" : "Lorde",
+                  "sortName" : "Lorde",
+                  "disambiguation" : "New Zealand singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/lorde-6bdc4632.html"
+               }
+            } ]
+         }, {
+            "name" : "Act IV — Troye Sivan:",
+            "song" : [ {
+               "name" : "The Call",
+               "tape" : true,
+               "info" : "video interlude"
+            }, {
+               "name" : "One of Your Girls",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            } ]
+         }, {
+            "name" : "Act IV — Charli XCX:",
+            "song" : [ {
+               "name" : "Everything is romantic",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Speed Drive",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Apple",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "with Kelley Heyer"
+            } ]
+         }, {
+            "name" : "Act V — Troye Sivan:",
+            "song" : [ {
+               "name" : "Silly",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "You",
+               "cover" : {
+                  "mbid" : "cb1b481b-c535-4176-87b3-6cbadc75cbfd",
+                  "name" : "Regard, Troye Sivan & Tate McRae",
+                  "sortName" : "Regard, Sivan, Troye & McRae, Tate",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/regard-troye-sivan-and-tate-mcrae-3bf2b858.html"
+               }
+            }, {
+               "name" : "STUD",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            } ]
+         }, {
+            "name" : "Act V — Charli XCX:",
+            "song" : [ {
+               "name" : "365",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Vroom Vroom",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            } ]
+         }, {
+            "name" : "Act V — Charli XCX & Troye Sivan:",
+            "song" : [ {
+               "name" : "1999",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "EASYFUN remix"
+            } ]
+         }, {
+            "name" : "Encore — Charli XCX:",
+            "song" : [ {
+               "name" : "Track 10",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "I Love It",
+               "cover" : {
+                  "mbid" : "c5f259d0-abd8-418e-81ee-3965fd4e4e9a",
+                  "name" : "Icona Pop",
+                  "sortName" : "Icona Pop",
+                  "disambiguation" : "Swedish dance/electropop duo",
+                  "url" : "https://www.setlist.fm/setlists/icona-pop-33d2d8a9.html"
+               }
+            } ]
+         }, {
+            "name" : "Encore — Troye Sivan:",
+            "song" : [ {
+               "name" : "Honey",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            }, {
+               "name" : "Rush",
+               "cover" : {
+                  "mbid" : "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+                  "name" : "Troye Sivan",
+                  "sortName" : "Sivan, Troye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/troye-sivan-43d24feb.html"
+               }
+            } ]
+         }, {
+            "name" : "Encore — Charli XCX & Troye Sivan:",
+            "song" : [ {
+               "name" : "Talk talk",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "\"featuring troye sivan\" remix"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charli-xcx-and-troye-sivan/2024/madison-square-garden-new-york-ny-13a8edd9.html"
+   } ]
+}

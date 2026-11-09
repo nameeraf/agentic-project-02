@@ -1,0 +1,1184 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 158,
+   "setlist" : [ {
+      "id" : "5baef788",
+      "versionId" : "g4b8cf316",
+      "eventDate" : "30-11-2023",
+      "lastUpdated" : "2023-12-01T05:07:49.291+0000",
+      "artist" : {
+         "mbid" : "eb04cb4e-9a20-4f89-9b73-652653844cab",
+         "name" : "Allison Russell",
+         "sortName" : "Russell, Allison",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/allison-russell-43d617f3.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "The Returner Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Space Jam/Calling in Ancestors"
+            }, {
+               "name" : "4th Day Prayer"
+            }, {
+               "name" : "Springtime"
+            }, {
+               "name" : "All Without Within"
+            }, {
+               "name" : "Stay Right Here"
+            }, {
+               "name" : "Eve Was Black"
+            }, {
+               "name" : "Snakelife"
+            }, {
+               "name" : "The Returner"
+            }, {
+               "name" : "Shadowlands"
+            }, {
+               "name" : "Demons"
+            }, {
+               "name" : "Take Me to Church",
+               "cover" : {
+                  "mbid" : "b4691384-50c3-4afd-9988-51d3ec5db65d",
+                  "name" : "Hozier",
+                  "sortName" : "Hozier",
+                  "disambiguation" : "Irish singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/hozier-63da4a6f.html"
+               },
+               "info" : "with RR Choir"
+            }, {
+               "name" : "Rag Child"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Superlover",
+               "cover" : {
+                  "mbid" : "c2ca4e82-016c-4498-83e9-1d90e3811a7b",
+                  "name" : "Birds of Chicago",
+                  "sortName" : "Birds of Chicago",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/birds-of-chicago-23de70ab.html"
+               },
+               "info" : "acoustic"
+            }, {
+               "name" : "Poison Arrow",
+               "info" : "acoustic"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/allison-russell/2023/music-hall-of-williamsburg-brooklyn-ny-5baef788.html"
+   }, {
+      "id" : "23ae901b",
+      "versionId" : "g6b8f4aa2",
+      "eventDate" : "22-11-2023",
+      "lastUpdated" : "2023-11-28T15:41:46.007+0000",
+      "artist" : {
+         "mbid" : "09a91c31-d6fb-4356-9d2f-ca9c8ce6de37",
+         "name" : "Zack Fox",
+         "sortName" : "Fox, Zack",
+         "disambiguation" : "US rapper and comedian",
+         "url" : "https://www.setlist.fm/setlists/zack-fox-6bf40a2a.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Bean Kicked In"
+            }, {
+               "name" : "uhhh"
+            }, {
+               "name" : "Stick!"
+            }, {
+               "name" : "let's kick his ass",
+               "info" : "Unreleased"
+            }, {
+               "name" : "mind your business"
+            }, {
+               "name" : "get off my dick"
+            }, {
+               "name" : "Marinate"
+            }, {
+               "name" : "IHY2LN"
+            }, {
+               "name" : "shut the fuck up talking to me"
+            }, {
+               "name" : "Daytona 500",
+               "info" : "Unreleased"
+            }, {
+               "name" : "sipping my tea"
+            }, {
+               "name" : "bane"
+            }, {
+               "name" : "Square Up"
+            }, {
+               "name" : "Doin 2 Much",
+               "info" : "Unreleased"
+            }, {
+               "name" : "dummy"
+            }, {
+               "name" : "fafo"
+            }, {
+               "name" : "Thank You for Being a Friend",
+               "cover" : {
+                  "mbid" : "10876f5a-9ac7-49c7-a2b6-46a3f1ac3523",
+                  "name" : "Andrew Gold",
+                  "sortName" : "Gold, Andrew",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/andrew-gold-1bd66ddc.html"
+               },
+               "info" : "Accapella"
+            }, {
+               "name" : "Jesus Is The One (I Got Depression)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zack-fox/2023/music-hall-of-williamsburg-brooklyn-ny-23ae901b.html"
+   }, {
+      "id" : "13ae050d",
+      "versionId" : "g5b8dc3f4",
+      "eventDate" : "18-11-2023",
+      "lastUpdated" : "2023-12-11T09:13:34.975+0000",
+      "artist" : {
+         "mbid" : "3bfbe43b-dfb7-4e6a-bdee-1a554f168f1c",
+         "name" : "Helena Deland",
+         "sortName" : "Deland, Helena",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/helena-deland-13c00d85.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/helena-deland/2023/music-hall-of-williamsburg-brooklyn-ny-13ae050d.html"
+   }, {
+      "id" : "baa914a",
+      "versionId" : "g1bb23dfc",
+      "eventDate" : "17-11-2023",
+      "lastUpdated" : "2024-03-08T03:24:59.594+0000",
+      "artist" : {
+         "mbid" : "b48e0b4e-587b-4fb4-9706-78dfd1a5ea92",
+         "name" : "Half Moon Run",
+         "sortName" : "Half Moon Run",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/half-moon-run-3de395b.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "The Salt Tour 2023"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/half-moon-run/2023/music-hall-of-williamsburg-brooklyn-ny-baa914a.html"
+   }, {
+      "id" : "73a10eb9",
+      "versionId" : "g338f7449",
+      "eventDate" : "16-11-2023",
+      "lastUpdated" : "2023-11-26T21:33:28.519+0000",
+      "artist" : {
+         "mbid" : "e79dde40-8b35-4105-89f8-a5b0afbfd43c",
+         "name" : "Emperor X",
+         "sortName" : "Emperor X",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/emperor-x-3bd780b0.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hummingbird",
+               "info" : "With extended jam intro, >"
+            }, {
+               "name" : "A Violent Translation of the Concordia Headscarp"
+            }, {
+               "name" : "Oversleepers International"
+            }, {
+               "name" : "Sad React"
+            }, {
+               "name" : "Daytrader Stadium"
+            }, {
+               "name" : "False Metal"
+            }, {
+               "name" : "Freeway in Heaven"
+            }, {
+               "name" : "The Crows of Emmerich"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/emperor-x/2023/music-hall-of-williamsburg-brooklyn-ny-73a10eb9.html"
+   }, {
+      "id" : "3a12d43",
+      "versionId" : "g5b8f634c",
+      "eventDate" : "16-11-2023",
+      "lastUpdated" : "2023-11-27T15:45:37.962+0000",
+      "artist" : {
+         "mbid" : "b990fb27-aeed-4058-ad69-c5a4ae76f750",
+         "name" : "Foxing",
+         "sortName" : "Foxing",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/foxing-63da526b.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "The Albatross",
+            "song" : [ {
+               "name" : "Bloodhound"
+            }, {
+               "name" : "Inuit"
+            }, {
+               "name" : "The Medic"
+            }, {
+               "name" : "Pent Up in a Blind"
+            }, {
+               "name" : "Rory"
+            }, {
+               "name" : "Bit by a Dead Bee Pt 1"
+            }, {
+               "name" : "Bit by a Dead Bee Pt 2"
+            }, {
+               "name" : "Den Mother"
+            }, {
+               "name" : "Calm Before"
+            }, {
+               "name" : "Quietus"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Grand Paradise"
+            }, {
+               "name" : "Draw Down the Moon"
+            }, {
+               "name" : "Lich Prince"
+            }, {
+               "name" : "Nearer My God"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/foxing/2023/music-hall-of-williamsburg-brooklyn-ny-3a12d43.html"
+   }, {
+      "id" : "1ba12d4c",
+      "versionId" : "g538f6329",
+      "eventDate" : "16-11-2023",
+      "lastUpdated" : "2023-11-27T15:50:47.334+0000",
+      "artist" : {
+         "mbid" : "af63ec4d-9fe4-4001-bcb6-8dd160ee6451",
+         "name" : "The Hotelier",
+         "sortName" : "Hotelier, The",
+         "disambiguation" : "US emo band",
+         "url" : "https://www.setlist.fm/setlists/the-hotelier-3db316b.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "\"Home…\" 10th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Home, Like Noplace Is There",
+            "song" : [ {
+               "name" : "An Introduction to the Album"
+            }, {
+               "name" : "The Scope of All of This Rebuilding"
+            }, {
+               "name" : "In Framing"
+            }, {
+               "name" : "Your Deep Rest"
+            }, {
+               "name" : "Among the Wildflowers"
+            }, {
+               "name" : "Life in Drag"
+            }, {
+               "name" : "Housebroken"
+            }, {
+               "name" : "Discomfort Revisited"
+            }, {
+               "name" : "Dendron"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-hotelier/2023/music-hall-of-williamsburg-brooklyn-ny-1ba12d4c.html"
+   }, {
+      "id" : "5ba13f58",
+      "versionId" : "g6b1b3e6e",
+      "eventDate" : "15-11-2023",
+      "lastUpdated" : "2026-06-06T17:24:29.518+0000",
+      "artist" : {
+         "mbid" : "9bb06c9f-31d7-4809-9e95-2e647a23a735",
+         "name" : "The Big Moon",
+         "sortName" : "Big Moon, The",
+         "disambiguation" : "London-based four-girl band",
+         "url" : "https://www.setlist.fm/setlists/the-big-moon-63d95a97.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "UK, EU and North American Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Daydreaming"
+            }, {
+               "name" : "Your Light"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/the-big-moon/2023/music-hall-of-williamsburg-brooklyn-ny-5ba13f58.html"
+   }, {
+      "id" : "1ba12d90",
+      "versionId" : "g338ee8fd",
+      "eventDate" : "15-11-2023",
+      "lastUpdated" : "2023-11-14T17:36:14.579+0000",
+      "artist" : {
+         "mbid" : "254aa233-c942-4e45-a1c1-49c9ac970bac",
+         "name" : "May Rio",
+         "sortName" : "Rio, May",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/may-rio-73f23695.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Supporting The Big Moon.",
+      "url" : "https://www.setlist.fm/setlist/may-rio/2023/music-hall-of-williamsburg-brooklyn-ny-1ba12d90.html"
+   }, {
+      "id" : "13a12d95",
+      "versionId" : "g3b8ee8f0",
+      "eventDate" : "15-11-2023",
+      "lastUpdated" : "2023-11-14T17:37:38.451+0000",
+      "artist" : {
+         "mbid" : "6f845f88-0dfb-408c-8d10-74d317785e24",
+         "name" : "Fiona Silver",
+         "sortName" : "Silver, Fiona",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fiona-silver-2bcf104e.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Supporting The Big Moon.",
+      "url" : "https://www.setlist.fm/setlist/fiona-silver/2023/music-hall-of-williamsburg-brooklyn-ny-13a12d95.html"
+   }, {
+      "id" : "4ba1f792",
+      "versionId" : "g238deca7",
+      "eventDate" : "11-11-2023",
+      "lastUpdated" : "2023-12-10T01:28:07.081+0000",
+      "artist" : {
+         "mbid" : "a181595e-5b84-4439-a5f4-f548ddfb64df",
+         "name" : "Wild Nothing",
+         "sortName" : "Wild Nothing",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wild-nothing-3d5d56b.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Hold Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Alex"
+            }, {
+               "name" : "Suburban Solutions"
+            }, {
+               "name" : "Shallow Water"
+            }, {
+               "name" : "TV Queen"
+            }, {
+               "name" : "Headlights On"
+            }, {
+               "name" : "Live in Dreams"
+            }, {
+               "name" : "Dial Tone"
+            }, {
+               "name" : "Basement El Dorado"
+            }, {
+               "name" : "Paradise"
+            }, {
+               "name" : "Chinatown"
+            }, {
+               "name" : "Histrion"
+            }, {
+               "name" : "Alien"
+            }, {
+               "name" : "Pulling Down the Moon (Before You)"
+            }, {
+               "name" : "Letting Go"
+            }, {
+               "name" : "Prima"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Shadow"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wild-nothing/2023/music-hall-of-williamsburg-brooklyn-ny-4ba1f792.html"
+   }, {
+      "id" : "3a1d56b",
+      "versionId" : "g4b8eab16",
+      "eventDate" : "10-11-2023",
+      "lastUpdated" : "2023-11-12T18:16:32.910+0000",
+      "artist" : {
+         "mbid" : "12a43a61-e31a-4cac-92a6-c95ce9cdfe3c",
+         "name" : "ATARASHII GAKKO!",
+         "sortName" : "Atarashii Gakkou no Leaders",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/atarashii-gakko-bcbb1e2.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "The Seishun Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "SEISHUN WO KIRISAKU HADO"
+            }, {
+               "name" : "Saishuu Jinrui"
+            }, {
+               "name" : "CANDY"
+            }, {
+               "name" : "The Edge"
+            }, {
+               "name" : "Suki Lie"
+            }, {
+               "name" : "Fantastico"
+            }, {
+               "name" : "Pineapple Kryptonite"
+            }, {
+               "name" : "Pineapple Kryptonite",
+               "info" : "Yohji Igarashi Remix"
+            }, {
+               "name" : "Tokyo Calling"
+            }, {
+               "name" : "Otona Blue"
+            }, {
+               "name" : "Intergalactic",
+               "cover" : {
+                  "mbid" : "9beb62b2-88db-4cea-801e-162cd344ee53",
+                  "name" : "Beastie Boys",
+                  "sortName" : "Beastie Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beastie-boys-13d689c5.html"
+               }
+            }, {
+               "name" : "NAINAINAI"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Free Your Mind",
+               "info" : "mix of original English/Japanese version and Spanish/English version"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/atarashii-gakko/2023/music-hall-of-williamsburg-brooklyn-ny-3a1d56b.html"
+   }, {
+      "id" : "3ba184c0",
+      "versionId" : "g2b81705e",
+      "eventDate" : "09-11-2023",
+      "lastUpdated" : "2023-11-10T15:47:23.339+0000",
+      "artist" : {
+         "mbid" : "0cbf3b43-f6f0-4d70-a545-1c9f71f13cc1",
+         "name" : "modernlove.",
+         "sortName" : "modernlove.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/modernlove-1bfdc934.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "world headline tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Plans"
+            }, {
+               "name" : "Ruin Your Night"
+            }, {
+               "name" : "until my heart stops beating"
+            }, {
+               "name" : "Shades of Blue"
+            }, {
+               "name" : "Don't Feel Myself"
+            }, {
+               "name" : "Islands"
+            }, {
+               "name" : "Only Ever Only You"
+            }, {
+               "name" : "come over x"
+            }, {
+               "name" : "Solipsis"
+            }, {
+               "name" : "Take Me Far Away"
+            }, {
+               "name" : "2 Missed Calls"
+            }, {
+               "name" : "Liquorice"
+            }, {
+               "name" : "Don't Wanna"
+            }, {
+               "name" : "Us"
+            }, {
+               "name" : "Follow You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/modernlove/2023/music-hall-of-williamsburg-brooklyn-ny-3ba184c0.html"
+   }, {
+      "id" : "ba07df6",
+      "versionId" : "g3803def",
+      "eventDate" : "30-10-2023",
+      "lastUpdated" : "2023-10-31T04:05:15.767+0000",
+      "artist" : {
+         "mbid" : "a073967d-2663-4bff-9a51-e9139e6896f5",
+         "name" : "Royal & the Serpent",
+         "sortName" : "Royal and The Serpent",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/royal-and-the-serpent-53f42fed.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "I’ll Never Give Up on You Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Welcome to Heaven",
+            "song" : [ {
+               "name" : "ASTROTURF"
+            }, {
+               "name" : "ONE NATION UNDERDOGS"
+            }, {
+               "name" : "THAT SUX"
+            }, {
+               "name" : "I DONT EVEN LIKE U"
+            }, {
+               "name" : "SLUG"
+            }, {
+               "name" : "JUNKIE"
+            } ]
+         }, {
+            "name" : "Welcome to Hell",
+            "song" : [ {
+               "name" : "IM FINE"
+            }, {
+               "name" : "GO F*CK URSELF"
+            }, {
+               "name" : "Choke"
+            }, {
+               "name" : "i can't get high / BETTER"
+            }, {
+               "name" : "FUCKBOI REJECTS"
+            }, {
+               "name" : "Love Abuser (Save Me)"
+            }, {
+               "name" : "No Regrets"
+            }, {
+               "name" : "Happier in Hell"
+            }, {
+               "name" : "EAT SPIT!",
+               "cover" : {
+                  "mbid" : "5b366d5c-03c2-47d8-8dec-828048fde637",
+                  "name" : "Slush Puppy",
+                  "sortName" : "Slush Puppy",
+                  "disambiguation" : "Moniker for Sam Catelano out of San Diego, CA",
+                  "url" : "https://www.setlist.fm/setlists/slush-puppy-6bf376f2.html"
+               },
+               "with" : {
+                  "mbid" : "290385cf-ad84-4127-966d-5cc029a5aea4",
+                  "name" : "Oxymorrons",
+                  "sortName" : "Oxymorrons",
+                  "disambiguation" : "New York rap-rock band",
+                  "url" : "https://www.setlist.fm/setlists/oxymorrons-bdd55ce.html"
+               }
+            }, {
+               "name" : "overwhelmed"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Weddings & Funerals",
+               "info" : "Acoustic"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/royal-and-the-serpent/2023/music-hall-of-williamsburg-brooklyn-ny-ba07df6.html"
+   }, {
+      "id" : "23a05447",
+      "versionId" : "g538037b9",
+      "eventDate" : "30-10-2023",
+      "lastUpdated" : "2023-10-31T16:38:29.322+0000",
+      "artist" : {
+         "mbid" : "0340dcbd-e5fb-45e9-b597-0047180c371f",
+         "name" : "Jutes",
+         "sortName" : "Jutes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jutes-2bdf3892.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Quitter"
+            }, {
+               "name" : "Hot Trash"
+            }, {
+               "name" : "Static"
+            }, {
+               "name" : "Ladybug"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/jutes/2023/music-hall-of-williamsburg-brooklyn-ny-23a05447.html"
+   }, {
+      "id" : "23a05443",
+      "versionId" : "g538037c1",
+      "eventDate" : "30-10-2023",
+      "lastUpdated" : "2023-10-31T16:35:01.537+0000",
+      "artist" : {
+         "mbid" : "434c47ce-ca17-49cd-aeba-0e0f14cd3292",
+         "name" : "Baby Fisher",
+         "sortName" : "Fisher, Baby",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/baby-fisher-43f83fc7.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jesus and Mary Jane"
+            }, {
+               "name" : "Madonna"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/baby-fisher/2023/music-hall-of-williamsburg-brooklyn-ny-23a05443.html"
+   }, {
+      "id" : "4ba06bee",
+      "versionId" : "g13678d9d",
+      "eventDate" : "29-10-2023",
+      "lastUpdated" : "2025-10-23T03:06:47.100+0000",
+      "artist" : {
+         "mbid" : "c7df5ec5-380a-40f9-856f-28fb4a33d946",
+         "name" : "Machine Girl",
+         "sortName" : "Machine Girl",
+         "disambiguation" : "digital hardcore duo",
+         "url" : "https://www.setlist.fm/setlists/machine-girl-7bd5ee20.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ginger Claps"
+            }, {
+               "name" : "This is Your Face on Dogs"
+            }, {
+               "name" : "DUMBASS!!!"
+            }, {
+               "name" : "Blood Magic"
+            }, {
+               "name" : "Scroll of Sorrow"
+            }, {
+               "name" : "Just Because You Can"
+            }, {
+               "name" : "Congratulations"
+            }, {
+               "name" : "Hot Lizard"
+            }, {
+               "name" : "Dread Architect"
+            }, {
+               "name" : "Global Fandemic Track 4 (Devil in the Floor)"
+            }, {
+               "name" : "Steppin' Out",
+               "cover" : {
+                  "mbid" : "07f6d469-38f3-46da-9cfa-2f532422b84e",
+                  "name" : "Joe Jackson",
+                  "sortName" : "Jackson, Joe",
+                  "disambiguation" : "English musician",
+                  "url" : "https://www.setlist.fm/setlists/joe-jackson-4bd6b78a.html"
+               }
+            }, {
+               "name" : "ATHOTH A GO!! GO!!!"
+            }, {
+               "name" : "Out by 16, Dead on the Scene"
+            }, {
+               "name" : "Post Rave Maximalist"
+            }, {
+               "name" : "Schizodipshit"
+            }, {
+               "name" : "BITTEN TWICE"
+            }, {
+               "name" : "Psychic Attack"
+            }, {
+               "name" : "Batsu Forever"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/machine-girl/2023/music-hall-of-williamsburg-brooklyn-ny-4ba06bee.html"
+   }, {
+      "id" : "43a057cb",
+      "versionId" : "g238030bb",
+      "eventDate" : "29-10-2023",
+      "lastUpdated" : "2023-10-31T19:26:24.685+0000",
+      "artist" : {
+         "mbid" : "e931a3e9-483f-4b65-a277-fbf4153d884a",
+         "name" : "Deathpact",
+         "sortName" : "Deathpact",
+         "disambiguation" : "Kelly Lockhart & Kris Noir",
+         "url" : "https://www.setlist.fm/setlists/deathpact-5bc83bc8.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/deathpact/2023/music-hall-of-williamsburg-brooklyn-ny-43a057cb.html"
+   }, {
+      "id" : "23a07c53",
+      "versionId" : "g4b834b1e",
+      "eventDate" : "27-10-2023",
+      "lastUpdated" : "2023-10-28T20:36:08.324+0000",
+      "artist" : {
+         "mbid" : "f7f59210-8152-4da9-90c5-b7ece400c8d2",
+         "name" : "A Great Big Pile of Leaves",
+         "sortName" : "Great Big Pile of Leaves, A",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/a-great-big-pile-of-leaves-33d280dd.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Snack Attack"
+            }, {
+               "name" : "Alligator Bop"
+            }, {
+               "name" : "Pet Mouse"
+            }, {
+               "name" : "Hit Reset"
+            }, {
+               "name" : "Kitchen Concert"
+            }, {
+               "name" : "Race Car Driving"
+            }, {
+               "name" : "Meet Me at the Mall, Bring Your Swim Trunks"
+            }, {
+               "name" : "Pizzanomics"
+            }, {
+               "name" : "Great Fun"
+            }, {
+               "name" : "Locus of Control"
+            }, {
+               "name" : "Back to School"
+            }, {
+               "name" : "Halloween"
+            }, {
+               "name" : "workeatsleep"
+            }, {
+               "name" : "A Few Screws Loose"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "User's Guide to a Coloring Book"
+            }, {
+               "name" : "Vampires in Love"
+            }, {
+               "name" : "We Don't Need Our Heads"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/a-great-big-pile-of-leaves/2023/music-hall-of-williamsburg-brooklyn-ny-23a07c53.html"
+   }, {
+      "id" : "13a079b5",
+      "versionId" : "g238358b3",
+      "eventDate" : "27-10-2023",
+      "lastUpdated" : "2023-10-28T13:30:55.390+0000",
+      "artist" : {
+         "mbid" : "a244733a-bb19-442e-9cd8-ba02d68bdad9",
+         "name" : "Sweet Pill",
+         "sortName" : "Sweet Pill",
+         "disambiguation" : "American emo/indie rock band",
+         "url" : "https://www.setlist.fm/setlists/sweet-pill-7bff3a5c.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sweet-pill/2023/music-hall-of-williamsburg-brooklyn-ny-13a079b5.html"
+   } ]
+}

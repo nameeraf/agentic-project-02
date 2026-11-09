@@ -1,0 +1,1669 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 233,
+   "setlist" : [ {
+      "id" : "7ba1faa8",
+      "versionId" : "g1b812d30",
+      "eventDate" : "05-11-2023",
+      "lastUpdated" : "2023-11-08T16:54:48.690+0000",
+      "artist" : {
+         "mbid" : "bdf11ee8-701b-4c53-93d4-697da14e0235",
+         "name" : "KidCutUp",
+         "sortName" : "KidCutUp",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kidcutup-13c88929.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kidcutup/2023/madison-square-garden-new-york-ny-7ba1faa8.html"
+   }, {
+      "id" : "63a192a7",
+      "versionId" : "gb81e906",
+      "eventDate" : "05-11-2023",
+      "lastUpdated" : "2023-11-06T13:42:05.673+0000",
+      "artist" : {
+         "mbid" : "d8e41375-bd8d-4e39-9da7-f0c171e97086",
+         "name" : "Grouplove",
+         "sortName" : "Grouplove",
+         "disambiguation" : "American alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/grouplove-43d2377f.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Deleter"
+            }, {
+               "name" : "Cheese"
+            }, {
+               "name" : "Itchin' on a Photograph"
+            }, {
+               "name" : "I'm With You"
+            }, {
+               "name" : "Hello"
+            }, {
+               "name" : "All",
+               "with" : {
+                  "mbid" : "5c64226c-d673-4d23-a612-2bfb704edd66",
+                  "name" : "Jake Clemons",
+                  "sortName" : "Clemons, Jake",
+                  "disambiguation" : "singer‐songwriter, saxophonist and nephew of Clarence Clemons",
+                  "url" : "https://www.setlist.fm/setlists/jake-clemons-7bd88e70.html"
+               }
+            }, {
+               "name" : "Tongue Tied / Space Oddity",
+               "info" : "/  David Bowie cover"
+            }, {
+               "name" : "Sabotage",
+               "cover" : {
+                  "mbid" : "9beb62b2-88db-4cea-801e-162cd344ee53",
+                  "name" : "Beastie Boys",
+                  "sortName" : "Beastie Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beastie-boys-13d689c5.html"
+               },
+               "info" : "with elements of Led Zeppelin’s “Whole Lotta Love” interpolated"
+            }, {
+               "name" : "Ways to Go"
+            }, {
+               "name" : "Colours"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for P!nk",
+      "url" : "https://www.setlist.fm/setlist/grouplove/2023/madison-square-garden-new-york-ny-63a192a7.html"
+   }, {
+      "id" : "5ba1b318",
+      "versionId" : "g4381dba7",
+      "eventDate" : "05-11-2023",
+      "lastUpdated" : "2023-11-07T02:41:29.183+0000",
+      "artist" : {
+         "mbid" : "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+         "name" : "P!nk",
+         "sortName" : "Pink",
+         "disambiguation" : "American singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/pnk-73d6d6bd.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Trustfall Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Intro Montage",
+               "tape" : true,
+               "info" : "video intro; elements of “ Raise Your Glass,” “TRUSTFALL,” “What About Us” & “Get the Party Started\""
+            }, {
+               "name" : "Get the Party Started",
+               "info" : "aerial stunt, w/Eurythmics \" Sweet Dreams\"& C+C Music Factory's\"Gonna Make You Sweat\" snippets"
+            }, {
+               "name" : "Raise Your Glass"
+            }, {
+               "name" : "Who Knew"
+            }, {
+               "name" : "Just Like a Pill"
+            }, {
+               "name" : "Try"
+            }, {
+               "name" : "What About Us",
+               "info" : "Dance remix"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Heartbeat",
+               "tape" : true,
+               "info" : "dance sequence to tape"
+            }, {
+               "name" : "Turbulence",
+               "info" : "Aerial stunt"
+            }, {
+               "name" : "Nobody Knows",
+               "info" : "shortened piano version during \"Name That Tune\" game with pianist"
+            }, {
+               "name" : "Make You Feel My Love",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Our Song"
+            }, {
+               "name" : "Just Give Me a Reason"
+            }, {
+               "name" : "F**kin' Perfect"
+            }, {
+               "name" : "Just Like Fire / Heartbreaker"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Please Don't Leave Me",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Cover Me in Sunshine",
+               "with" : {
+                  "mbid" : "9193bb79-a196-4931-a461-68a3fa3cbeb3",
+                  "name" : "Willow Sage Hart",
+                  "sortName" : "Hart, Willow Sage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/willow-sage-hart-5bc9df44.html"
+               }
+            }, {
+               "name" : "Don't Let Me Get Me",
+               "info" : "Acoustic"
+            }, {
+               "name" : "When I Get There"
+            }, {
+               "name" : "I Am Here"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "Are You Gonna Fall?",
+               "tape" : true,
+               "info" : "spoken word interlude"
+            }, {
+               "name" : "TRUSTFALL"
+            }, {
+               "name" : "Blow Me (One Last Kiss)",
+               "info" : "with band introductions; extended intro"
+            }, {
+               "name" : "Never Gonna Not Dance Again",
+               "info" : "with dancer introductions; extended outro"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "So What",
+               "info" : "aerial stunt; extended intro & outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pnk/2023/madison-square-garden-new-york-ny-5ba1b318.html"
+   }, {
+      "id" : "63a1a253",
+      "versionId" : "g1381f995",
+      "eventDate" : "04-11-2023",
+      "lastUpdated" : "2023-11-06T00:05:04.063+0000",
+      "artist" : {
+         "mbid" : "d8e41375-bd8d-4e39-9da7-f0c171e97086",
+         "name" : "Grouplove",
+         "sortName" : "Grouplove",
+         "disambiguation" : "American alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/grouplove-43d2377f.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Deleter"
+            }, {
+               "name" : "Cheese"
+            }, {
+               "name" : "Itchin' on a Photograph"
+            }, {
+               "name" : "I'm With You"
+            }, {
+               "name" : "Hello"
+            }, {
+               "name" : "All",
+               "with" : {
+                  "mbid" : "5c64226c-d673-4d23-a612-2bfb704edd66",
+                  "name" : "Jake Clemons",
+                  "sortName" : "Clemons, Jake",
+                  "disambiguation" : "singer‐songwriter, saxophonist and nephew of Clarence Clemons",
+                  "url" : "https://www.setlist.fm/setlists/jake-clemons-7bd88e70.html"
+               }
+            }, {
+               "name" : "Tongue Tied / Space Oddity",
+               "info" : "/  David Bowie cover"
+            }, {
+               "name" : "Sabotage",
+               "cover" : {
+                  "mbid" : "9beb62b2-88db-4cea-801e-162cd344ee53",
+                  "name" : "Beastie Boys",
+                  "sortName" : "Beastie Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beastie-boys-13d689c5.html"
+               },
+               "info" : "with elements of Led Zeppelin’s “Whole Lotta Love” interpolated"
+            }, {
+               "name" : "Ways to Go"
+            }, {
+               "name" : "Colours"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for P!nk",
+      "url" : "https://www.setlist.fm/setlist/grouplove/2023/madison-square-garden-new-york-ny-63a1a253.html"
+   }, {
+      "id" : "4ba1b31a",
+      "versionId" : "g2381f857",
+      "eventDate" : "04-11-2023",
+      "lastUpdated" : "2023-11-06T00:12:53.905+0000",
+      "artist" : {
+         "mbid" : "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+         "name" : "P!nk",
+         "sortName" : "Pink",
+         "disambiguation" : "American singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/pnk-73d6d6bd.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Trustfall Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Intro Montage",
+               "tape" : true,
+               "info" : "video intro; elements of “ Raise Your Glass,” “TRUSTFALL,” “What About Us” & “Get the Party Started\""
+            }, {
+               "name" : "Get the Party Started",
+               "info" : "aerial stunt, w/Eurythmics \"Sweet Dreams\"& C+C Music Factory's\"Gonna Make You Sweat\" snippets"
+            }, {
+               "name" : "Raise Your Glass"
+            }, {
+               "name" : "Who Knew"
+            }, {
+               "name" : "Just Like a Pill"
+            }, {
+               "name" : "Try"
+            }, {
+               "name" : "What About Us",
+               "info" : "dance remix"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Heartbeat",
+               "tape" : true,
+               "info" : "dance sequence to tape"
+            }, {
+               "name" : "Turbulence",
+               "info" : "aerial stunt"
+            }, {
+               "name" : "Glitter in the Air",
+               "info" : "shortened piano version during \"Name That Tune\" game with pianist"
+            }, {
+               "name" : "Make You Feel My Love",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Our Song"
+            }, {
+               "name" : "Just Give Me a Reason"
+            }, {
+               "name" : "F**kin' Perfect"
+            }, {
+               "name" : "Just Like Fire / Heartbreaker",
+               "info" : "/  Pat Benatar cover"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Please Don't Leave Me",
+               "info" : "acoustic"
+            }, {
+               "name" : "Cover Me in Sunshine",
+               "info" : "acoustic",
+               "with" : {
+                  "mbid" : "9193bb79-a196-4931-a461-68a3fa3cbeb3",
+                  "name" : "Willow Sage Hart",
+                  "sortName" : "Hart, Willow Sage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/willow-sage-hart-5bc9df44.html"
+               }
+            }, {
+               "name" : "Don't Let Me Get Me",
+               "info" : "acoustic"
+            }, {
+               "name" : "When I Get There"
+            }, {
+               "name" : "I Am Here"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "No Ordinary Love",
+               "cover" : {
+                  "mbid" : "67930b3e-e00b-469f-8c74-fd69f20522ec",
+                  "name" : "Sade",
+                  "sortName" : "Sade",
+                  "disambiguation" : "band led by the eponymous singer",
+                  "url" : "https://www.setlist.fm/setlists/sade-7bd6be90.html"
+               }
+            }, {
+               "name" : "Are You Gonna Fall?",
+               "tape" : true,
+               "info" : "spoken word interlude"
+            }, {
+               "name" : "TRUSTFALL"
+            }, {
+               "name" : "Blow Me (One Last Kiss)",
+               "info" : "with band introductions; extended intro"
+            }, {
+               "name" : "Never Gonna Not Dance Again",
+               "info" : "with dancer introductions; extended outro"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "So What",
+               "info" : "aerial stunt; extended intro & outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pnk/2023/madison-square-garden-new-york-ny-4ba1b31a.html"
+   }, {
+      "id" : "33a19cc1",
+      "versionId" : "g1b81a584",
+      "eventDate" : "04-11-2023",
+      "lastUpdated" : "2023-11-05T05:42:09.352+0000",
+      "artist" : {
+         "mbid" : "bdf11ee8-701b-4c53-93d4-697da14e0235",
+         "name" : "KidCutUp",
+         "sortName" : "KidCutUp",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kidcutup-13c88929.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Performed before Grouplove and between Grouplove and P!nk.",
+      "url" : "https://www.setlist.fm/setlist/kidcutup/2023/madison-square-garden-new-york-ny-33a19cc1.html"
+   }, {
+      "id" : "7ba01ed0",
+      "versionId" : "g6b807262",
+      "eventDate" : "28-10-2023",
+      "lastUpdated" : "2023-11-02T23:40:58.300+0000",
+      "artist" : {
+         "mbid" : "b5ff61dd-0154-4e80-b46b-c733f87db602",
+         "name" : "DIIV",
+         "sortName" : "DIIV",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/diiv-1bde9110.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Like Before You Were Born"
+            }, {
+               "name" : "Under the Sun"
+            }, {
+               "name" : "Between Tides"
+            }, {
+               "name" : "Doused"
+            }, {
+               "name" : "Take Your Time"
+            }, {
+               "name" : "Taker"
+            }, {
+               "name" : "Blankenship"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Depeche Mode",
+      "url" : "https://www.setlist.fm/setlist/diiv/2023/madison-square-garden-new-york-ny-7ba01ed0.html"
+   }, {
+      "id" : "73a01edd",
+      "versionId" : "g2b819866",
+      "eventDate" : "28-10-2023",
+      "lastUpdated" : "2023-11-05T13:42:03.554+0000",
+      "artist" : {
+         "mbid" : "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+         "name" : "Depeche Mode",
+         "sortName" : "Depeche Mode",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/depeche-mode-73d6b235.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Memento Mori"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Speak to Me",
+               "tape" : true,
+               "info" : "instrumental outro"
+            }, {
+               "name" : "My Cosmos Is Mine"
+            }, {
+               "name" : "Wagging Tongue"
+            }, {
+               "name" : "Walking in My Shoes"
+            }, {
+               "name" : "It's No Good"
+            }, {
+               "name" : "Policy of Truth"
+            }, {
+               "name" : "In Your Room",
+               "info" : "Zephyr Mix"
+            }, {
+               "name" : "Everything Counts"
+            }, {
+               "name" : "Precious"
+            }, {
+               "name" : "My Favourite Stranger"
+            }, {
+               "name" : "A Question of Lust"
+            }, {
+               "name" : "Dressed in Black",
+               "info" : "First time since 2010; Acoustic, sung by Martin"
+            }, {
+               "name" : "Ghosts Again"
+            }, {
+               "name" : "I Feel You"
+            }, {
+               "name" : "A Pain That I'm Used To",
+               "info" : "Jacques Lu Cont Remix"
+            }, {
+               "name" : "World in My Eyes",
+               "info" : "Dedicated to Andrew Fletcher"
+            }, {
+               "name" : "Black Celebration"
+            }, {
+               "name" : "Stripped"
+            }, {
+               "name" : "John the Revelator"
+            }, {
+               "name" : "Enjoy the Silence"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Waiting for the Night",
+               "info" : "Peter and Christian on keyboards"
+            }, {
+               "name" : "Just Can't Get Enough"
+            }, {
+               "name" : "Never Let Me Down Again"
+            }, {
+               "name" : "Personal Jesus"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/depeche-mode/2023/madison-square-garden-new-york-ny-73a01edd.html"
+   }, {
+      "id" : "7ba01e24",
+      "versionId" : "g3b83684c",
+      "eventDate" : "27-10-2023",
+      "lastUpdated" : "2023-10-28T03:05:47.817+0000",
+      "artist" : {
+         "mbid" : "35f866dc-c061-48ba-8157-cf2e0eac4857",
+         "name" : "Enrique Iglesias",
+         "sortName" : "Iglesias, Enrique",
+         "disambiguation" : "Spanish pop singer",
+         "url" : "https://www.setlist.fm/setlists/enrique-iglesias-7bd62e44.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/enrique-iglesias/2023/madison-square-garden-new-york-ny-7ba01e24.html"
+   }, {
+      "id" : "7ba01e1c",
+      "versionId" : "g33832879",
+      "eventDate" : "27-10-2023",
+      "lastUpdated" : "2023-10-25T23:27:21.001+0000",
+      "artist" : {
+         "mbid" : "d262ea27-3ffe-40f7-b922-85c42d625e67",
+         "name" : "Pitbull",
+         "sortName" : "Pitbull",
+         "disambiguation" : "American rapper",
+         "url" : "https://www.setlist.fm/setlists/pitbull-6bd6dab6.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pitbull/2023/madison-square-garden-new-york-ny-7ba01e1c.html"
+   }, {
+      "id" : "63a01e17",
+      "versionId" : "g2b832872",
+      "eventDate" : "27-10-2023",
+      "lastUpdated" : "2023-10-25T23:28:24.504+0000",
+      "artist" : {
+         "mbid" : "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
+         "name" : "Ricky Martin",
+         "sortName" : "Martin, Ricky",
+         "disambiguation" : "Puerto Rican singer, actor, author & king of Latin pop",
+         "url" : "https://www.setlist.fm/setlists/ricky-martin-4bd6ffbe.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ricky-martin/2023/madison-square-garden-new-york-ny-63a01e17.html"
+   }, {
+      "id" : "73a01e25",
+      "versionId" : "gb83298a",
+      "eventDate" : "26-10-2023",
+      "lastUpdated" : "2023-10-25T23:25:12.124+0000",
+      "artist" : {
+         "mbid" : "35f866dc-c061-48ba-8157-cf2e0eac4857",
+         "name" : "Enrique Iglesias",
+         "sortName" : "Iglesias, Enrique",
+         "disambiguation" : "Spanish pop singer",
+         "url" : "https://www.setlist.fm/setlists/enrique-iglesias-7bd62e44.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/enrique-iglesias/2023/madison-square-garden-new-york-ny-73a01e25.html"
+   }, {
+      "id" : "73a01e11",
+      "versionId" : "g2b83287e",
+      "eventDate" : "26-10-2023",
+      "lastUpdated" : "2023-10-25T23:27:56.942+0000",
+      "artist" : {
+         "mbid" : "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
+         "name" : "Ricky Martin",
+         "sortName" : "Martin, Ricky",
+         "disambiguation" : "Puerto Rican singer, actor, author & king of Latin pop",
+         "url" : "https://www.setlist.fm/setlists/ricky-martin-4bd6ffbe.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ricky-martin/2023/madison-square-garden-new-york-ny-73a01e11.html"
+   }, {
+      "id" : "6ba01e1e",
+      "versionId" : "g13832985",
+      "eventDate" : "26-10-2023",
+      "lastUpdated" : "2023-10-25T23:26:53.269+0000",
+      "artist" : {
+         "mbid" : "d262ea27-3ffe-40f7-b922-85c42d625e67",
+         "name" : "Pitbull",
+         "sortName" : "Pitbull",
+         "disambiguation" : "American rapper",
+         "url" : "https://www.setlist.fm/setlists/pitbull-6bd6dab6.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Trilogy Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pitbull/2023/madison-square-garden-new-york-ny-6ba01e1e.html"
+   }, {
+      "id" : "ba0cde2",
+      "versionId" : "g531b3b55",
+      "eventDate" : "21-10-2023",
+      "lastUpdated" : "2026-06-06T18:47:27.085+0000",
+      "artist" : {
+         "mbid" : "0887484d-aed1-4aa6-9862-930a25815696",
+         "name" : "El Alfa",
+         "sortName" : "Alfa, El",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/el-alfa-63c4ea1b.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "La mamá de la mamá"
+            }, {
+               "name" : "Plebada",
+               "cover" : {
+                  "mbid" : "f635e1c7-9d67-4346-a95a-690f73960bb2",
+                  "name" : "El Alfa, Peso Pluma",
+                  "sortName" : "Alfa, El, Peso Pluma",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/el-alfa-peso-pluma-53f84fc5.html"
+               }
+            }, {
+               "name" : "4K"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/el-alfa/2023/madison-square-garden-new-york-ny-ba0cde2.html"
+   }, {
+      "id" : "2ba08002",
+      "versionId" : "g2b17dc26",
+      "eventDate" : "20-10-2023",
+      "lastUpdated" : "2026-03-07T17:19:56.229+0000",
+      "artist" : {
+         "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+         "name" : "Billy Joel",
+         "sortName" : "Joel, Billy",
+         "disambiguation" : "American singer‐songwriter and pianist",
+         "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Billy Joel at The Garden"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Natural (The End Title)",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "da7bb7d8-557d-4635-9ca1-e6e985525bd5",
+                  "name" : "Randy Newman",
+                  "sortName" : "Newman, Randy",
+                  "disambiguation" : "American singer‐songwriter and score composer",
+                  "url" : "https://www.setlist.fm/setlists/randy-newman-63d68ac3.html"
+               }
+            }, {
+               "name" : "Miami 2017 (Seen the Lights Go Out on Broadway)"
+            }, {
+               "name" : "My Life",
+               "info" : "Ode to Joy Intro"
+            }, {
+               "name" : "Main Theme: The Addams Family",
+               "cover" : {
+                  "mbid" : "be654fcb-03e9-4811-a98c-6f6fa81af946",
+                  "name" : "Vic Mizzy and His Orchestra",
+                  "sortName" : "Mizzy, Vic and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vic-mizzy-and-his-orchestra-3bd37050.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "The Entertainer"
+            }, {
+               "name" : "The Downeaster \"Alexa\""
+            }, {
+               "name" : "Funeral March of a Marionette",
+               "cover" : {
+                  "mbid" : "cd4636e1-06a3-41fc-848a-624b84bbb023",
+                  "name" : "Charles Gounod",
+                  "sortName" : "Gounod, Charles",
+                  "disambiguation" : "French composer",
+                  "url" : "https://www.setlist.fm/setlists/charles-gounod-5bd70710.html"
+               }
+            }, {
+               "name" : "Theme From \"The Munsters\"",
+               "cover" : {
+                  "mbid" : "3015d83b-6ac3-4c0e-8881-a84561ed7b19",
+                  "name" : "Jack Marshall's Music",
+                  "sortName" : "Marshall, Jack, Music",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jack-marshalls-music-2bd1c016.html"
+               }
+            }, {
+               "name" : "Monster Mash",
+               "cover" : {
+                  "mbid" : "58dd5fa6-6eed-432a-90a5-6df1ae8d2b8d",
+                  "name" : "Bobby “Boris” Pickett",
+                  "sortName" : "Pickett, Bobby \"Boris\"",
+                  "disambiguation" : "novelty musician, known for “Monster Mash”",
+                  "url" : "https://www.setlist.fm/setlists/bobby-boris-pickett-63d646a7.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "Zanzibar"
+            }, {
+               "name" : "Start Me Up",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "An Innocent Man"
+            }, {
+               "name" : "So Much in Love",
+               "cover" : {
+                  "mbid" : "eaf8f2bd-ebca-4b08-814d-858dac11db0e",
+                  "name" : "The Tymes",
+                  "sortName" : "Tymes, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-tymes-33d69095.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "Barbara Ann",
+               "cover" : {
+                  "mbid" : "79efd6b5-9a82-48df-968b-9b417d355583",
+                  "name" : "The Regents",
+                  "sortName" : "Regents, The",
+                  "disambiguation" : "Doo-wop group who originally performed \"Barbara-Ann\"",
+                  "url" : "https://www.setlist.fm/setlists/the-regents-53d6a339.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "Rockin' Robin",
+               "cover" : {
+                  "mbid" : "77ad1133-3cd7-48f6-b8e0-195c6b7e97c7",
+                  "name" : "Bobby Day",
+                  "sortName" : "Day, Bobby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bobby-day-33d60801.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "The Longest Time"
+            }, {
+               "name" : "Piano Sonata no. 2 in  B♭ minor, op. 35",
+               "cover" : {
+                  "mbid" : "09ff1fe8-d61c-4b98-bb82-18487c74d7b7",
+                  "name" : "Fryderyk Chopin",
+                  "sortName" : "Chopin, Fryderyk",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/fryderyk-chopin-63d63203.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "Vienna"
+            }, {
+               "name" : "Half a Mile Away"
+            }, {
+               "name" : "Movin' Out (Anthony's Song)"
+            }, {
+               "name" : "New York State of Mind"
+            }, {
+               "name" : "Don't Ask Me Why",
+               "info" : "Joined on stage by his two youngest daughters"
+            }, {
+               "name" : "She's Always a Woman",
+               "info" : "with Syd Ruggles on flute"
+            }, {
+               "name" : "Allentown"
+            }, {
+               "name" : "Sometimes a Fantasy"
+            }, {
+               "name" : "Only the Good Die Young"
+            }, {
+               "name" : "The River of Dreams",
+               "info" : "with “River Deep Mountain High” interlude"
+            }, {
+               "name" : "Nessun dorma",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               },
+               "info" : "sung by Mike DelGuidice"
+            }, {
+               "name" : "Scenes From an Italian Restaurant"
+            }, {
+               "name" : "Piano Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "We Didn't Start the Fire"
+            }, {
+               "name" : "Uptown Girl"
+            }, {
+               "name" : "It's Still Rock and Roll to Me"
+            }, {
+               "name" : "Big Shot"
+            }, {
+               "name" : "You May Be Right",
+               "info" : "with \"Rock and Roll\" by Led Zeppelin interlude sung by Mike DelGuidice"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/billy-joel/2023/madison-square-garden-new-york-ny-2ba08002.html"
+   }, {
+      "id" : "73a03a4d",
+      "versionId" : "g7383ee1d",
+      "eventDate" : "17-10-2023",
+      "lastUpdated" : "2023-10-23T16:24:13.540+0000",
+      "artist" : {
+         "mbid" : "0b966a38-5ad9-43c1-b86b-c07079523165",
+         "name" : "Omar Apollo",
+         "sortName" : "Apollo, Omar",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/omar-apollo-3bcaec38.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/omar-apollo/2023/madison-square-garden-new-york-ny-73a03a4d.html"
+   }, {
+      "id" : "53a0f365",
+      "versionId" : "g238200a3",
+      "eventDate" : "17-10-2023",
+      "lastUpdated" : "2023-10-19T05:52:17.219+0000",
+      "artist" : {
+         "mbid" : "93998e01-ff53-4af7-ba2a-5674adcdf21e",
+         "name" : "H.E.R.",
+         "sortName" : "H.E.R.",
+         "disambiguation" : "US R&B artist",
+         "url" : "https://www.setlist.fm/setlists/her-bcef116.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Best Part",
+               "cover" : {
+                  "mbid" : "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+                  "name" : "Daniel Caesar",
+                  "sortName" : "Caesar, Daniel",
+                  "disambiguation" : "Canadian R&B/soul singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/daniel-caesar-6bd9a242.html"
+               },
+               "with" : {
+                  "mbid" : "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+                  "name" : "Daniel Caesar",
+                  "sortName" : "Caesar, Daniel",
+                  "disambiguation" : "Canadian R&B/soul singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/daniel-caesar-6bd9a242.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/her/2023/madison-square-garden-new-york-ny-53a0f365.html"
+   }, {
+      "id" : "23a0a067",
+      "versionId" : "gbb8ad42",
+      "eventDate" : "17-10-2023",
+      "lastUpdated" : "2024-05-24T18:02:11.561+0000",
+      "artist" : {
+         "mbid" : "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+         "name" : "Daniel Caesar",
+         "sortName" : "Caesar, Daniel",
+         "disambiguation" : "Canadian R&B/soul singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/daniel-caesar-6bd9a242.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Superpowers World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ocho Rios"
+            }, {
+               "name" : "Let Me Go"
+            }, {
+               "name" : "Disillusioned"
+            }, {
+               "name" : "Toronto 2014",
+               "with" : {
+                  "mbid" : "987c5b70-b132-483f-8e0f-7bca4dca617f",
+                  "name" : "Mustafa",
+                  "sortName" : "Mustafa",
+                  "disambiguation" : "Canadian singer/songwriter aka Mustafa the Poet",
+                  "url" : "https://www.setlist.fm/setlists/mustafa-7bce9230.html"
+               }
+            }, {
+               "name" : "CYANIDE"
+            }, {
+               "name" : "Loose"
+            }, {
+               "name" : "Violet"
+            }, {
+               "name" : "Do You Like Me?"
+            }, {
+               "name" : "ENTROPY"
+            }, {
+               "name" : "OPEN UP"
+            }, {
+               "name" : "Japanese Denim"
+            }, {
+               "name" : "Best Part",
+               "with" : {
+                  "mbid" : "93998e01-ff53-4af7-ba2a-5674adcdf21e",
+                  "name" : "H.E.R.",
+                  "sortName" : "H.E.R.",
+                  "disambiguation" : "US R&B artist",
+                  "url" : "https://www.setlist.fm/setlists/her-bcef116.html"
+               }
+            }, {
+               "name" : "Please Do Not Lean"
+            }, {
+               "name" : "Pain Is Inevitable"
+            }, {
+               "name" : "Shot My Baby"
+            }, {
+               "name" : "Superpowers"
+            }, {
+               "name" : "Creep",
+               "cover" : {
+                  "mbid" : "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name" : "Radiohead",
+                  "sortName" : "Radiohead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/radiohead-bd6bd12.html"
+               },
+               "info" : "Acoustic"
+            }, {
+               "name" : "Get You"
+            }, {
+               "name" : "Always"
+            }, {
+               "name" : "Street Lights",
+               "cover" : {
+                  "mbid" : "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name" : "Ye",
+                  "sortName" : "Ye",
+                  "disambiguation" : "formerly Kanye West",
+                  "url" : "https://www.setlist.fm/setlists/ye-bd6bd8a.html"
+               },
+               "info" : "Streetcar; backstage"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/daniel-caesar/2023/madison-square-garden-new-york-ny-23a0a067.html"
+   }, {
+      "id" : "1ba355d0",
+      "versionId" : "g23a56407",
+      "eventDate" : "13-10-2023",
+      "lastUpdated" : "2024-07-06T20:08:17.421+0000",
+      "artist" : {
+         "mbid" : "7e07a487-5438-4128-b2d0-f0f18ac08384",
+         "name" : "Queen + Adam Lambert",
+         "sortName" : "Queen + Lambert, Adam",
+         "disambiguation" : "Brian May, Roger Taylor + Adam Lambert",
+         "url" : "https://www.setlist.fm/setlists/queen-adam-lambert-23c93ca7.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Rhapsody Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "Machines (Or 'Back to Humans') / Radio Ga Ga",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "\"Machines\" intro on tape; segues into \"Hammer to Fall\""
+            }, {
+               "name" : "Hammer to Fall",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Stone Cold Crazy",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Another One Bites the Dust",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            } ]
+         }, {
+            "name" : "Act 2",
+            "song" : [ {
+               "name" : "I'm in Love With My Car",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Bicycle Race",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "instrumental section not played; segues into \"Fat Bottomed Girls\""
+            }, {
+               "name" : "Fat Bottomed Girls",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "a cappella intro not played"
+            }, {
+               "name" : "I Want It All",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "preceded by vocal-guitar call and response"
+            } ]
+         }, {
+            "name" : "Act 3",
+            "song" : [ {
+               "name" : "A Kind of Magic",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Killer Queen",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "shortened; followed by band intros"
+            }, {
+               "name" : "Don't Stop Me Now",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Somebody to Love",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            } ]
+         }, {
+            "name" : "Act 4 - B-Stage",
+            "song" : [ {
+               "name" : "Love of My Life",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "Brian on vocals; Freddie onscreen at end"
+            }, {
+               "name" : "'39",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Timpani Solo",
+               "tape" : true,
+               "info" : "Roger live in Montreal, 1981"
+            }, {
+               "name" : "Drum Solo",
+               "info" : "Roger on drums, Tyler Warren on timpani"
+            }, {
+               "name" : "Under Pressure",
+               "cover" : {
+                  "mbid" : "25f54bb7-c393-44e4-8e26-e4f4cd7aa61c",
+                  "name" : "Queen & David Bowie",
+                  "sortName" : "Queen & Bowie, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/queen-and-david-bowie-6bd6ee46.html"
+               },
+               "info" : "Roger & Adam on co-lead vocals"
+            }, {
+               "name" : "Tie Your Mother Down",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "1st verse played slow & \"straight\""
+            }, {
+               "name" : "Crazy Little Thing Called Love",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            } ]
+         }, {
+            "name" : "Act 5",
+            "song" : [ {
+               "name" : "I Want to Break Free",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "You Take My Breath Away",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "intro only"
+            }, {
+               "name" : "Who Wants to Live Forever",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "segues into Brian's guitar solo"
+            }, {
+               "name" : "Guitar Solo",
+               "info" : "featuring part of Dvorak's \"New World Symphony\" Mov. 2"
+            }, {
+               "name" : "Is This the World We Created...?",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "B-Stage"
+            }, {
+               "name" : "Bohemian Rhapsody",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "operatic section played from tape"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ay‐Oh",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "live at Wembley, 12 July 1986"
+            }, {
+               "name" : "We Will Rock You",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "Radio Ga Ga",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               },
+               "info" : "reprise; preceded by Humans-Machines battle"
+            }, {
+               "name" : "We Are the Champions",
+               "cover" : {
+                  "mbid" : "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name" : "Queen",
+                  "sortName" : "Queen",
+                  "disambiguation" : "UK rock group",
+                  "url" : "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+               }
+            }, {
+               "name" : "God Save the Queen",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "bows"
+            }, {
+               "name" : "\"Heroes\"",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               },
+               "info" : "exit music"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/queen-adam-lambert/2023/madison-square-garden-new-york-ny-1ba355d0.html"
+   } ]
+}

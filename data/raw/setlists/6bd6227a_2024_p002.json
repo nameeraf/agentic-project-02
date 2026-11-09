@@ -1,0 +1,1409 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 105,
+   "setlist" : [ {
+      "id" : "13534975",
+      "versionId" : "g43a91ff7",
+      "eventDate" : "25-10-2024",
+      "lastUpdated" : "2024-10-02T16:02:42.558+0000",
+      "artist" : {
+         "mbid" : "ccc7033a-15ad-4adb-b547-3a93dee4abc0",
+         "name" : "La Goony Chonga",
+         "sortName" : "Goony Chonga, La",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/la-goony-chonga-bcdd166.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/la-goony-chonga/2024/terminal-5-new-york-ny-13534975.html"
+   }, {
+      "id" : "6b463ee6",
+      "versionId" : "g4b4ca792",
+      "eventDate" : "20-10-2024",
+      "lastUpdated" : "2025-04-30T03:13:42.522+0000",
+      "artist" : {
+         "mbid" : "a69b643d-2cd9-4914-8a1a-3f3797a7323c",
+         "name" : "María Becerra",
+         "sortName" : "Becerra, María",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maria-becerra-3f2f527.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Tour 24"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maria-becerra/2024/terminal-5-new-york-ny-6b463ee6.html"
+   }, {
+      "id" : "6b40be06",
+      "versionId" : "g2b7f289e",
+      "eventDate" : "18-10-2024",
+      "lastUpdated" : "2025-08-24T11:53:00.822+0000",
+      "artist" : {
+         "mbid" : "dff72d7d-751c-4b59-8aaa-7c61136191a3",
+         "name" : "Baby Rose",
+         "sortName" : "Baby Rose",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/baby-rose-3fb6183.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/baby-rose/2024/terminal-5-new-york-ny-6b40be06.html"
+   }, {
+      "id" : "135065f5",
+      "versionId" : "g73372a7d",
+      "eventDate" : "18-10-2024",
+      "lastUpdated" : "2026-11-03T02:11:25.129+0000",
+      "artist" : {
+         "mbid" : "78e854b8-9713-4ff2-9218-6b3784893bff",
+         "name" : "Vince Staples",
+         "sortName" : "Staples, Vince",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/vince-staples-5bdfbf28.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Black In America"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Black&Blue"
+            }, {
+               "name" : "Government Cheese"
+            }, {
+               "name" : "Blue Suede"
+            }, {
+               "name" : "Yeah Right"
+            }, {
+               "name" : "FUN!"
+            }, {
+               "name" : "MHM"
+            }, {
+               "name" : "THE SHINING"
+            }, {
+               "name" : "ARE YOU WITH THAT?"
+            }, {
+               "name" : "SUNDOWN TOWN"
+            }, {
+               "name" : "LAW OF AVERAGES"
+            }, {
+               "name" : "THE BEACH"
+            }, {
+               "name" : "AYE! (FREE THE HOMIES)"
+            }, {
+               "name" : "MAGIC"
+            }, {
+               "name" : "PAPERCUTS"
+            }, {
+               "name" : "MAMA'S BOY"
+            }, {
+               "name" : "LEMONADE"
+            }, {
+               "name" : "ROSE STREET"
+            }, {
+               "name" : "WHEN SPARKS FLY"
+            }, {
+               "name" : "Freeman"
+            }, {
+               "name" : "Children's Song"
+            }, {
+               "name" : "Shame on the Devil"
+            }, {
+               "name" : "\"Radio\""
+            }, {
+               "name" : "Nothing Matters"
+            }, {
+               "name" : "Little Homies"
+            }, {
+               "name" : "Big Fish"
+            }, {
+               "name" : "Norf Norf"
+            }, {
+               "name" : "Étouffée"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vince-staples/2024/terminal-5-new-york-ny-135065f5.html"
+   }, {
+      "id" : "5b500310",
+      "versionId" : "g7b001658",
+      "eventDate" : "16-10-2024",
+      "lastUpdated" : "2026-08-13T10:52:39.002+0000",
+      "artist" : {
+         "mbid" : "e4b87494-a5eb-439d-b3bf-5f1b46d4dc6b",
+         "name" : "Tori Kelly",
+         "sortName" : "Kelly, Tori",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tori-kelly-bdd55c6.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Purple Skies Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "thing u do"
+            }, {
+               "name" : "unbelievable"
+            }, {
+               "name" : "Should've Been Us"
+            }, {
+               "name" : "Nobody Love"
+            }, {
+               "name" : "spruce"
+            }, {
+               "name" : "cut"
+            }, {
+               "name" : "diamonds"
+            }, {
+               "name" : "Dear No One / Unbreakable Smile"
+            }, {
+               "name" : "Confetti",
+               "info" : "(fan request)"
+            }, {
+               "name" : "Paper Hearts / All In My Head / Thinkin Bout You",
+               "info" : "(fan request)"
+            }, {
+               "name" : "P.Y.T. (Pretty Young Thing)",
+               "cover" : {
+                  "mbid" : "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name" : "Michael Jackson",
+                  "sortName" : "Jackson, Michael",
+                  "disambiguation" : "“King of Pop”",
+                  "url" : "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "oceans"
+            }, {
+               "name" : "high water"
+            }, {
+               "name" : "Never Alone / I'll Find You / Bridge Over Troubled Water"
+            }, {
+               "name" : "same girl"
+            }, {
+               "name" : "Hollow"
+            }, {
+               "name" : "distance"
+            }, {
+               "name" : "shine on"
+            }, {
+               "name" : "shelter"
+            }, {
+               "name" : "alive if i die"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "missin u (r&b edit)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tori-kelly/2024/terminal-5-new-york-ny-5b500310.html"
+   }, {
+      "id" : "73503255",
+      "versionId" : "g3b57fcc8",
+      "eventDate" : "11-10-2024",
+      "lastUpdated" : "2024-10-13T20:23:02.382+0000",
+      "artist" : {
+         "mbid" : "ff1cafa3-7ed4-4ed2-afbb-d1f263d607a8",
+         "name" : "Cuco",
+         "sortName" : "Cuco",
+         "disambiguation" : "American singer-songwriter from Hawthorne, California",
+         "url" : "https://www.setlist.fm/setlists/cuco-5bcce7a8.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ego Death in Thailand"
+            }, {
+               "name" : "Junkies and Rarities"
+            }, {
+               "name" : "Under the Sun"
+            }, {
+               "name" : "Aura"
+            }, {
+               "name" : "Summer Time High Time"
+            }, {
+               "name" : "Foolish"
+            }, {
+               "name" : "Hydrocodone"
+            }, {
+               "name" : "Feelings"
+            }, {
+               "name" : "Bossa no sé"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cuco/2024/terminal-5-new-york-ny-73503255.html"
+   }, {
+      "id" : "63508a9f",
+      "versionId" : "g3564dbb",
+      "eventDate" : "08-10-2024",
+      "lastUpdated" : "2024-10-12T00:01:45.828+0000",
+      "artist" : {
+         "mbid" : "12a43a61-e31a-4cac-92a6-c95ce9cdfe3c",
+         "name" : "ATARASHII GAKKO!",
+         "sortName" : "Atarashii Gakkou no Leaders",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/atarashii-gakko-bcbb1e2.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "2024 World Tour Part II"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Toryanse"
+            }, {
+               "name" : "Omakase"
+            }, {
+               "name" : "Giri Giri"
+            }, {
+               "name" : "Pineapple Kryptonite",
+               "info" : "Yohji Igarashi remix"
+            }, {
+               "name" : "Otona Blue",
+               "info" : "Introduction from 80's Intersection"
+            }, {
+               "name" : "Arigato"
+            }, {
+               "name" : "Suki Lie"
+            }, {
+               "name" : "Solo Dance Break",
+               "tape" : true,
+               "info" : "the girls showing dance moves one-by-one"
+            }, {
+               "name" : "WOO! GO!"
+            }, {
+               "name" : "Maji Yoroshiku"
+            }, {
+               "name" : "Essa Hoisa"
+            }, {
+               "name" : "Saishuu Jinrui",
+               "info" : "remix"
+            }, {
+               "name" : "Koi Geba",
+               "info" : "remix"
+            }, {
+               "name" : "Change"
+            }, {
+               "name" : "Fly High"
+            }, {
+               "name" : "Tokyo Calling"
+            }, {
+               "name" : "NAINAINAI"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "CANDY"
+            }, {
+               "name" : "Forever Sisters"
+            }, {
+               "name" : "Que Sera, Sera"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/atarashii-gakko/2024/terminal-5-new-york-ny-63508a9f.html"
+   }, {
+      "id" : "335574d1",
+      "versionId" : "g3356ecad",
+      "eventDate" : "06-10-2024",
+      "lastUpdated" : "2024-10-07T15:54:42.346+0000",
+      "artist" : {
+         "mbid" : "8067c102-4996-42bc-9980-06ce2e644eae",
+         "name" : "Soul Coughing",
+         "sortName" : "Soul Coughing",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/soul-coughing-1bd6cd3c.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "We Said It Would Never Happen"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bus to Beelzebub"
+            }, {
+               "name" : "I Miss the Girl"
+            }, {
+               "name" : "Casiotone Nation"
+            }, {
+               "name" : "Sugar Free Jazz"
+            }, {
+               "name" : "Collapse"
+            }, {
+               "name" : "True Dreams of Wichita"
+            }, {
+               "name" : "Blue Eyed Devil"
+            }, {
+               "name" : "St. Louise Is Listening"
+            }, {
+               "name" : "Misinformed"
+            }, {
+               "name" : "Uh, Zoom Zip"
+            }, {
+               "name" : "Lazybones"
+            }, {
+               "name" : "Moon Sammy"
+            }, {
+               "name" : "White Girl"
+            }, {
+               "name" : "The Idiot Kings"
+            }, {
+               "name" : "$300"
+            }, {
+               "name" : "Rolling"
+            }, {
+               "name" : "Janine",
+               "with" : {
+                  "mbid" : "5518b4aa-1779-40e2-bee3-74cf608e19af",
+                  "name" : "Rachel Benbow Murdy",
+                  "sortName" : "Murdy, Rachel Benbow",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rachel-benbow-murdy-bfa117a.html"
+               }
+            }, {
+               "name" : "Circles"
+            }, {
+               "name" : "Screenwriter's Blues"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Is Chicago, Is Not Chicago"
+            }, {
+               "name" : "Super Bon Bon"
+            } ]
+         } ]
+      },
+      "info" : "Last show of the tour",
+      "url" : "https://www.setlist.fm/setlist/soul-coughing/2024/terminal-5-new-york-ny-335574d1.html"
+   }, {
+      "id" : "2b56a016",
+      "versionId" : "g7356c63d",
+      "eventDate" : "04-10-2024",
+      "lastUpdated" : "2024-10-08T21:38:47.840+0000",
+      "artist" : {
+         "mbid" : "647221d0-f6b1-4e03-924c-c59b8059536f",
+         "name" : "Chromeo",
+         "sortName" : "Chromeo",
+         "disambiguation" : "electronic/disco duo, Dave 1 and P-Thugg",
+         "url" : "https://www.setlist.fm/setlists/chromeo-23d68817.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Chrome Nights"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro"
+            }, {
+               "name" : "Fancy Footwork"
+            }, {
+               "name" : "Juice"
+            }, {
+               "name" : "Bonafied Lovin' / BTS"
+            }, {
+               "name" : "Must've Been"
+            }, {
+               "name" : "Momma's Boy"
+            }, {
+               "name" : "Hot Mess"
+            }, {
+               "name" : "Replacements"
+            }, {
+               "name" : "Night by Night"
+            }, {
+               "name" : "Come Alive"
+            }, {
+               "name" : "Bad Decision"
+            }, {
+               "name" : "Over Your Shoulder"
+            }, {
+               "name" : "Old 45's"
+            }, {
+               "name" : "Lost and Found"
+            }, {
+               "name" : "Jealous (I Ain't With It)"
+            }, {
+               "name" : "Personal Effects"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chromeo/2024/terminal-5-new-york-ny-2b56a016.html"
+   }, {
+      "id" : "2b56a012",
+      "versionId" : "g4b56c71e",
+      "eventDate" : "04-10-2024",
+      "lastUpdated" : "2024-10-08T21:09:33.004+0000",
+      "artist" : {
+         "mbid" : "46eb0fb7-9725-43af-97d7-6c717682a799",
+         "name" : "The Midnight",
+         "sortName" : "Midnight, The",
+         "disambiguation" : "synthwave duo",
+         "url" : "https://www.setlist.fm/setlists/the-midnight-2bc7bc72.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Chrome Nights"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Days of Thunder"
+            }, {
+               "name" : "Shadows"
+            }, {
+               "name" : "Good in Red"
+            }, {
+               "name" : "Deep Blue"
+            }, {
+               "name" : "Change Your Heart or Die"
+            }, {
+               "name" : "Chariot"
+            }, {
+               "name" : "Gloria"
+            }, {
+               "name" : "Lost Boy"
+            }, {
+               "name" : "Heartbeat"
+            }, {
+               "name" : "Jason"
+            }, {
+               "name" : "Sunset"
+            }, {
+               "name" : "Vampires"
+            }, {
+               "name" : "Los Angeles"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-midnight/2024/terminal-5-new-york-ny-2b56a012.html"
+   }, {
+      "id" : "1b50bd38",
+      "versionId" : "g4b56c7e2",
+      "eventDate" : "04-10-2024",
+      "lastUpdated" : "2024-10-08T21:19:24.794+0000",
+      "artist" : {
+         "mbid" : "722c286b-39aa-4757-ad40-d2e5550bd254",
+         "name" : "Girl Ultra",
+         "sortName" : "Girl Ultra",
+         "disambiguation" : "Nan De Miguel",
+         "url" : "https://www.setlist.fm/setlists/girl-ultra-5bcbd7f0.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "lalala"
+            }, {
+               "name" : "rimel"
+            }, {
+               "name" : "blush"
+            }, {
+               "name" : "Morena mía",
+               "cover" : {
+                  "mbid" : "98ad7a28-1949-4786-b1f6-4fa05b9b440c",
+                  "name" : "Miguel Bosé",
+                  "sortName" : "Bosé, Miguel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/miguel-bose-53d69fb5.html"
+               }
+            }, {
+               "name" : "blu"
+            }, {
+               "name" : "5to elemento"
+            }, {
+               "name" : "bruce willisss"
+            }, {
+               "name" : "Punk"
+            }, {
+               "name" : "DameLove"
+            }, {
+               "name" : "BOMBAY"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/girl-ultra/2024/terminal-5-new-york-ny-1b50bd38.html"
+   }, {
+      "id" : "4b534f8a",
+      "versionId" : "g63a91e9f",
+      "eventDate" : "01-10-2024",
+      "lastUpdated" : "2024-10-02T16:48:49.489+0000",
+      "artist" : {
+         "mbid" : "89ccd7c3-b4f8-45a6-a53f-e903eaaf96be",
+         "name" : "Jess Glynne",
+         "sortName" : "Glynne, Jess",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jess-glynne-7bdbf284.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "The US Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro (Jess)"
+            }, {
+               "name" : "Silly Me"
+            }, {
+               "name" : "I'll Be There"
+            }, {
+               "name" : "123"
+            }, {
+               "name" : "My Love",
+               "cover" : {
+                  "mbid" : "e2d1f228-3aff-4e6d-8932-032f4036131b",
+                  "name" : "Route 94",
+                  "sortName" : "Route 94",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/route-94-2bda2c22.html"
+               }
+            }, {
+               "name" : "Don't Be So Hard on Yourself"
+            }, {
+               "name" : "Do You Know About Love?"
+            }, {
+               "name" : "Thursday"
+            }, {
+               "name" : "Enough"
+            }, {
+               "name" : "Love Me"
+            }, {
+               "name" : "Ain't Got Far to Go"
+            }, {
+               "name" : "Lying"
+            }, {
+               "name" : "Right Here"
+            }, {
+               "name" : "You Can Find Me"
+            }, {
+               "name" : "Save Your Tears"
+            }, {
+               "name" : "Easy"
+            }, {
+               "name" : "Friend of Mine"
+            }, {
+               "name" : "Take Me Home"
+            }, {
+               "name" : "Rather Be",
+               "cover" : {
+                  "mbid" : "dacc2d64-7e59-42a8-87a9-10c53919aff2",
+                  "name" : "Clean Bandit",
+                  "sortName" : "Clean Bandit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/clean-bandit-4bd1b3f6.html"
+               }
+            }, {
+               "name" : "Hold My Hand"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jess-glynne/2024/terminal-5-new-york-ny-4b534f8a.html"
+   }, {
+      "id" : "135355b1",
+      "versionId" : "gba91d6a",
+      "eventDate" : "01-10-2024",
+      "lastUpdated" : "2024-10-02T14:07:25.627+0000",
+      "artist" : {
+         "mbid" : "1daa6d4d-a626-427a-a779-0da18e349494",
+         "name" : "Leah Kate",
+         "sortName" : "Leah Kate",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/leah-kate-13fe25cd.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "911"
+            }, {
+               "name" : "Super Over"
+            }, {
+               "name" : "Space"
+            }, {
+               "name" : "What Girls Do"
+            }, {
+               "name" : "Fuck Up the Friendship"
+            }, {
+               "name" : "Hot All the Time"
+            }, {
+               "name" : "But I Lied"
+            }, {
+               "name" : "Hollaback Girl",
+               "cover" : {
+                  "mbid" : "2e41ae9c-afd2-4f20-8f1e-17281ce9b472",
+                  "name" : "Gwen Stefani",
+                  "sortName" : "Stefani, Gwen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gwen-stefani-2bd6b85e.html"
+               }
+            }, {
+               "name" : "Bored"
+            }, {
+               "name" : "Nasty"
+            }, {
+               "name" : "I Forgot"
+            }, {
+               "name" : "10 Things I Hate About You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/leah-kate/2024/terminal-5-new-york-ny-135355b1.html"
+   }, {
+      "id" : "5ba9bb78",
+      "versionId" : "g4ba97f8e",
+      "eventDate" : "28-09-2024",
+      "lastUpdated" : "2024-10-03T15:09:37.709+0000",
+      "artist" : {
+         "mbid" : "40b7efb7-1268-4a80-b354-600afdcbe9e2",
+         "name" : "Hatebreed",
+         "sortName" : "Hatebreed",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hatebreed-bd699d2.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "30th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Destroy Everything"
+            }, {
+               "name" : "A Call for Blood"
+            }, {
+               "name" : "This Is Now"
+            }, {
+               "name" : "To the Threshold"
+            }, {
+               "name" : "Empty Promises"
+            }, {
+               "name" : "Smash Your Enemies"
+            }, {
+               "name" : "Live for This"
+            }, {
+               "name" : "Before Dishonor"
+            }, {
+               "name" : "As Diehard as They Come"
+            }, {
+               "name" : "Everyone Bleeds Now"
+            }, {
+               "name" : "Burn the Lies"
+            }, {
+               "name" : "Hollow Ground"
+            }, {
+               "name" : "Looking Down the Barrel of Today"
+            }, {
+               "name" : "Last Breath"
+            }, {
+               "name" : "Driven by Suffering"
+            }, {
+               "name" : "Perseverance"
+            }, {
+               "name" : "Tear It Down"
+            }, {
+               "name" : "Proven"
+            }, {
+               "name" : "I Will Be Heard"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hatebreed/2024/terminal-5-new-york-ny-5ba9bb78.html"
+   }, {
+      "id" : "53a9bb79",
+      "versionId" : "g2b54dc46",
+      "eventDate" : "28-09-2024",
+      "lastUpdated" : "2024-10-22T12:27:37.423+0000",
+      "artist" : {
+         "mbid" : "d50a4b89-ff1f-4659-9fde-f76f8d5b3c89",
+         "name" : "Carcass",
+         "sortName" : "Carcass",
+         "disambiguation" : "British grindcore/technical death metal",
+         "url" : "https://www.setlist.fm/setlists/carcass-1bd6fdbc.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Torn Arteries"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Buried Dreams"
+            }, {
+               "name" : "Kelly's Meat Emporium"
+            }, {
+               "name" : "Incarnated Solvent Abuse"
+            }, {
+               "name" : "No Love Lost"
+            }, {
+               "name" : "Tomorrow Belongs to Nobody / Death Certificate"
+            }, {
+               "name" : "Dance of Ixtab (Psychopomp & Circumstance March No. 1 in B)"
+            }, {
+               "name" : "Genital Grinder"
+            }, {
+               "name" : "Exhume to Consume"
+            }, {
+               "name" : "Corporal Jigsore Quandary"
+            }, {
+               "name" : "Heartwork",
+               "info" : "“Carneous Cacoffiny” Outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carcass/2024/terminal-5-new-york-ny-53a9bb79.html"
+   }, {
+      "id" : "4ba9bb7a",
+      "versionId" : "g5ba9f774",
+      "eventDate" : "28-09-2024",
+      "lastUpdated" : "2024-09-29T21:04:04.064+0000",
+      "artist" : {
+         "mbid" : "70d9fdd1-7c7e-4dfd-be7a-8f606a71c9a2",
+         "name" : "Harm’s Way",
+         "sortName" : "Harm’s Way",
+         "disambiguation" : "US hardcore punk band from Chicago, IL",
+         "url" : "https://www.setlist.fm/setlists/harms-way-63dcce0f.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/harms-way/2024/terminal-5-new-york-ny-4ba9bb7a.html"
+   }, {
+      "id" : "2ba9b886",
+      "versionId" : "g63770e07",
+      "eventDate" : "28-09-2024",
+      "lastUpdated" : "2025-06-26T13:10:55.626+0000",
+      "artist" : {
+         "mbid" : "3b5bc4eb-d60e-406c-a5e4-f08197d4c9de",
+         "name" : "Crypta",
+         "sortName" : "Crypta",
+         "disambiguation" : "Brazilian death metal fourpiece",
+         "url" : "https://www.setlist.fm/setlists/crypta-43f217eb.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Aftermath",
+               "tape" : true
+            }, {
+               "name" : "The Other Side of Anger"
+            }, {
+               "name" : "Lord of Ruins"
+            }, {
+               "name" : "The Outsider"
+            }, {
+               "name" : "Trial of Traitors"
+            }, {
+               "name" : "From the Ashes"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/crypta/2024/terminal-5-new-york-ny-2ba9b886.html"
+   }, {
+      "id" : "7b537ec8",
+      "versionId" : "g7ba9fac8",
+      "eventDate" : "27-09-2024",
+      "lastUpdated" : "2024-09-29T19:43:45.243+0000",
+      "artist" : {
+         "mbid" : "27c8c7f6-0609-433e-bbf7-398da6ba2d12",
+         "name" : "BAYNK",
+         "sortName" : "BAYNK",
+         "disambiguation" : "Jock Nowell-Usticke",
+         "url" : "https://www.setlist.fm/setlists/baynk-3bcc04a8.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro"
+            }, {
+               "name" : "Grin"
+            }, {
+               "name" : "Feel"
+            }, {
+               "name" : "Mr. Jocko"
+            }, {
+               "name" : "Fool for You"
+            }, {
+               "name" : "What You Need"
+            }, {
+               "name" : "Go with U"
+            }, {
+               "name" : "How Does It Feel?",
+               "with" : {
+                  "mbid" : "6862b120-13b4-40e4-9136-b78aa23af0cb",
+                  "name" : "Cosmo’s Midnight",
+                  "sortName" : "Cosmo’s Midnight",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cosmos-midnight-bdd197a.html"
+               }
+            }, {
+               "name" : "What If He Put His Hands on You"
+            }, {
+               "name" : "Till It's Even",
+               "with" : {
+                  "mbid" : "67237485-3b9d-41b8-97af-2dd8f1b6c0f7",
+                  "name" : "Golden Vessel",
+                  "sortName" : "Golden Vessel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/golden-vessel-6bceeef6.html"
+               }
+            }, {
+               "name" : "High"
+            }, {
+               "name" : "Find You"
+            }, {
+               "name" : "Poolside"
+            }, {
+               "name" : "Esther"
+            }, {
+               "name" : "Tessellate"
+            }, {
+               "name" : "Settle"
+            }, {
+               "name" : "Mine"
+            }, {
+               "name" : "Older"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lonely World"
+            }, {
+               "name" : "Water"
+            }, {
+               "name" : "Down"
+            }, {
+               "name" : "Go with U"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/baynk/2024/terminal-5-new-york-ny-7b537ec8.html"
+   }, {
+      "id" : "2b521c86",
+      "versionId" : "g13a86969",
+      "eventDate" : "25-09-2024",
+      "lastUpdated" : "2024-09-26T05:53:25.316+0000",
+      "artist" : {
+         "mbid" : "262cf0ce-2af2-4686-a8cc-d6b33e97336d",
+         "name" : "Mk.gee",
+         "sortName" : "Mk.gee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mkgee-4bc8ebba.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dream police"
+            }, {
+               "name" : "How many miles"
+            }, {
+               "name" : "You got it"
+            }, {
+               "name" : "Candy"
+            }, {
+               "name" : "Lonely Fight"
+            }, {
+               "name" : "Little Bit More"
+            }, {
+               "name" : "New Low"
+            }, {
+               "name" : "cz"
+            }, {
+               "name" : "I Want"
+            }, {
+               "name" : "Rylee & I"
+            }, {
+               "name" : "DNM"
+            }, {
+               "name" : "DNM",
+               "info" : "2nd performance"
+            }, {
+               "name" : "DNM",
+               "info" : "3rd performance"
+            }, {
+               "name" : "DNM",
+               "info" : "4th performance"
+            }, {
+               "name" : "Breakthespell"
+            }, {
+               "name" : "Are You Looking Up",
+               "info" : "replayed the second verse after broken guitar string"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Alesis"
+            }, {
+               "name" : "DNM",
+               "info" : "5th performance"
+            }, {
+               "name" : "Candy"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/mkgee/2024/terminal-5-new-york-ny-2b521c86.html"
+   }, {
+      "id" : "4b53c346",
+      "versionId" : "g431e93b3",
+      "eventDate" : "20-09-2024",
+      "lastUpdated" : "2026-04-27T17:51:17.746+0000",
+      "artist" : {
+         "mbid" : "5623ae6e-fd11-48d5-8a03-7b2e89d865e3",
+         "name" : "Mitchell Tenpenny",
+         "sortName" : "Tenpenny, Mitchell",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mitchell-tenpenny-3bc7849c.html"
+      },
+      "venue" : {
+         "id" : "6bd6227a",
+         "name" : "Terminal 5",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/terminal-5-new-york-ny-usa-6bd6227a.html"
+      },
+      "tour" : {
+         "name" : "Woke Up In A Dream"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Got History"
+            }, {
+               "name" : "Bigger Mistakes"
+            }, {
+               "name" : "Broken Up"
+            }, {
+               "name" : "Anything She Says",
+               "info" : "Dylan Schneider Sings the Duet Verses that  Seaforth sang"
+            }, {
+               "name" : "I Won't"
+            }, {
+               "name" : "Breaking My Heart"
+            }, {
+               "name" : "Woke Up in a Dream"
+            }, {
+               "name" : "Bucket List"
+            }, {
+               "name" : "Not Today"
+            }, {
+               "name" : "Truth About You"
+            }, {
+               "name" : "Started Stoppin'"
+            }, {
+               "name" : "Goner",
+               "info" : "By Request and Acoustic, snippet"
+            }, {
+               "name" : "Happy and I Hate It",
+               "info" : "By Request and Acoustic, snippet"
+            }, {
+               "name" : "Mixed Drinks",
+               "info" : "By Request and Acoustic, snippet"
+            }, {
+               "name" : "Somebody's Got Me",
+               "info" : "By Request and Acoustic, snippet"
+            }, {
+               "name" : "All On You",
+               "info" : "By Request and Acoustic, snippet"
+            }, {
+               "name" : "Make It Rain"
+            }, {
+               "name" : "Bitches / Three Little Birds"
+            }, {
+               "name" : "California Love",
+               "cover" : {
+                  "mbid" : "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+                  "name" : "2Pac",
+                  "sortName" : "2Pac",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/2pac-1bd6b904.html"
+               }
+            }, {
+               "name" : "Demon or Ghost"
+            }, {
+               "name" : "Alcohol You Later"
+            }, {
+               "name" : "Drunk Me / Iris"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mitchell-tenpenny/2024/terminal-5-new-york-ny-4b53c346.html"
+   } ]
+}

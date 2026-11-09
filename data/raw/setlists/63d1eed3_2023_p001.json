@@ -1,0 +1,1156 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 8,
+   "setlist" : [ {
+      "id" : "4baaa302",
+      "versionId" : "g6bb2de7e",
+      "eventDate" : "03-09-2023",
+      "lastUpdated" : "2024-03-07T01:43:07.155+0000",
+      "artist" : {
+         "mbid" : "e8993e9d-9313-4447-ad23-791459a3790d",
+         "name" : "Matisyahu",
+         "sortName" : "Matisyahu",
+         "disambiguation" : "US reggae singer, rapper & beatboxer",
+         "url" : "https://www.setlist.fm/setlists/matisyahu-7bd64eb4.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jerusalem"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/matisyahu/2023/citi-field-queens-ny-4baaa302.html"
+   }, {
+      "id" : "7ba42aa4",
+      "versionId" : "g139a357d",
+      "eventDate" : "03-08-2023",
+      "lastUpdated" : "2023-08-14T14:24:48.946+0000",
+      "artist" : {
+         "mbid" : "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+         "name" : "P!nk",
+         "sortName" : "Pink",
+         "disambiguation" : "American singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/pnk-73d6d6bd.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "tour" : {
+         "name" : "Summer Carnival"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "Intro Montage",
+               "tape" : true,
+               "info" : "includes elements of \"Raise Your Glass\", \"TRUSTFALL\", \"What About Us\" and \"Get the Party Started\""
+            }, {
+               "name" : "Get the Party Started",
+               "info" : "includes elements of \"Sweet Dreams\" by Eurythmics and \"Gonna Make You Sweat\" by C&C Music Factory"
+            }, {
+               "name" : "Raise Your Glass"
+            }, {
+               "name" : "Who Knew"
+            }, {
+               "name" : "Just Like a Pill"
+            }, {
+               "name" : "Try"
+            }, {
+               "name" : "What About Us",
+               "info" : "Dance remix"
+            } ]
+         }, {
+            "name" : "Act 2",
+            "song" : [ {
+               "name" : "Heartbeat",
+               "tape" : true,
+               "info" : "Interlude"
+            }, {
+               "name" : "Turbulence",
+               "info" : "Aerial stunt"
+            }, {
+               "name" : "Don't Let Me Get Me",
+               "info" : "Instrumental snippet played as a part of her nightly game of \"Name That Tune\" with her pianist"
+            }, {
+               "name" : "Make You Feel My Love",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               },
+               "info" : "P!nk played the piano"
+            }, {
+               "name" : "Nothing Compares 2 U",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               },
+               "info" : "Tribute to Sinéad O'Connor",
+               "with" : {
+                  "mbid" : "baf05baf-69fb-47dd-93c2-033536b8c385",
+                  "name" : "Brandi Carlile",
+                  "sortName" : "Carlile, Brandi",
+                  "disambiguation" : "American country singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/brandi-carlile-3d6bdab.html"
+               }
+            }, {
+               "name" : "Just Give Me a Reason"
+            }, {
+               "name" : "F**kin' Perfect"
+            }, {
+               "name" : "Just Like Fire / Heartbreaker",
+               "info" : "Partial cover of Pat Benatar song; extended outro"
+            } ]
+         }, {
+            "name" : "Act 3",
+            "song" : [ {
+               "name" : "Please Don't Leave Me",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Kids in Love"
+            }, {
+               "name" : "When I Get There"
+            }, {
+               "name" : "I Am Here"
+            }, {
+               "name" : "Irrelevant",
+               "info" : "Extended outro"
+            } ]
+         }, {
+            "name" : "Act 4",
+            "song" : [ {
+               "name" : "Smoke",
+               "tape" : true,
+               "info" : "Instrumental"
+            }, {
+               "name" : "No Ordinary Love",
+               "cover" : {
+                  "mbid" : "67930b3e-e00b-469f-8c74-fd69f20522ec",
+                  "name" : "Sade",
+                  "sortName" : "Sade",
+                  "disambiguation" : "band led by the eponymous singer",
+                  "url" : "https://www.setlist.fm/setlists/sade-7bd6be90.html"
+               },
+               "info" : "Extended outro"
+            }, {
+               "name" : "Are You Gonna Fall?",
+               "tape" : true,
+               "info" : "Spoken word interlude"
+            }, {
+               "name" : "TRUSTFALL"
+            }, {
+               "name" : "Blow Me (One Last Kiss)",
+               "info" : "with band introductions"
+            }, {
+               "name" : "Never Gonna Not Dance Again",
+               "info" : "with dancer introductions; extended outro"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Last Call",
+               "info" : "Extended outro"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "So What",
+               "info" : "Aerial stunt; extended intro and outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pnk/2023/citi-field-queens-ny-7ba42aa4.html"
+   }, {
+      "id" : "7ba4022c",
+      "versionId" : "g39dd1e7",
+      "eventDate" : "03-08-2023",
+      "lastUpdated" : "2023-08-04T22:16:23.187+0000",
+      "artist" : {
+         "mbid" : "bdf11ee8-701b-4c53-93d4-697da14e0235",
+         "name" : "KidCutUp",
+         "sortName" : "KidCutUp",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kidcutup-13c88929.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kidcutup/2023/citi-field-queens-ny-7ba4022c.html"
+   }, {
+      "id" : "4ba42b2a",
+      "versionId" : "g439ddb9b",
+      "eventDate" : "03-08-2023",
+      "lastUpdated" : "2023-08-04T18:40:49.225+0000",
+      "artist" : {
+         "mbid" : "baf05baf-69fb-47dd-93c2-033536b8c385",
+         "name" : "Brandi Carlile",
+         "sortName" : "Carlile, Brandi",
+         "disambiguation" : "American country singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/brandi-carlile-3d6bdab.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "tour" : {
+         "name" : "Summer Carnival"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Broken Horses"
+            }, {
+               "name" : "You and Me on the Rock"
+            }, {
+               "name" : "The Story"
+            }, {
+               "name" : "Right on Time"
+            }, {
+               "name" : "Creep",
+               "cover" : {
+                  "mbid" : "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+                  "name" : "Radiohead",
+                  "sortName" : "Radiohead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/radiohead-bd6bd12.html"
+               }
+            }, {
+               "name" : "The Eye"
+            }, {
+               "name" : "Sinners, Saints and Fools"
+            }, {
+               "name" : "The Joke"
+            }, {
+               "name" : "Woodstock",
+               "cover" : {
+                  "mbid" : "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+                  "name" : "Joni Mitchell",
+                  "sortName" : "Mitchell, Joni",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joni-mitchell-33d6a4b1.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/brandi-carlile/2023/citi-field-queens-ny-4ba42b2a.html"
+   }, {
+      "id" : "1ba409bc",
+      "versionId" : "g139dcd2d",
+      "eventDate" : "03-08-2023",
+      "lastUpdated" : "2023-08-05T01:02:52.340+0000",
+      "artist" : {
+         "mbid" : "d8e41375-bd8d-4e39-9da7-f0c171e97086",
+         "name" : "Grouplove",
+         "sortName" : "Grouplove",
+         "disambiguation" : "American alternative rock band",
+         "url" : "https://www.setlist.fm/setlists/grouplove-43d2377f.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Deleter"
+            }, {
+               "name" : "Cheese"
+            }, {
+               "name" : "Malachi"
+            }, {
+               "name" : "Hello"
+            }, {
+               "name" : "Tongue Tied"
+            }, {
+               "name" : "Space Oddity",
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               }
+            }, {
+               "name" : "Ways to Go"
+            }, {
+               "name" : "Colours"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/grouplove/2023/citi-field-queens-ny-1ba409bc.html"
+   }, {
+      "id" : "53a67729",
+      "versionId" : "g2b916cc2",
+      "eventDate" : "22-06-2023",
+      "lastUpdated" : "2023-07-03T16:35:28.341+0000",
+      "artist" : {
+         "mbid" : "94f8947c-2d9c-4519-bcf9-6d11a24ad006",
+         "name" : "Dead & Company",
+         "sortName" : "Dead & Company",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "tour" : {
+         "name" : "The Final Tour: Summer 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Feel Like a Stranger",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "Franklin's Tower",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "John Mayer on vocals"
+            }, {
+               "name" : "Mama Tried",
+               "cover" : {
+                  "mbid" : "deb2448c-6fdf-4d31-921e-757630515dbd",
+                  "name" : "Merle Haggard",
+                  "sortName" : "Haggard, Merle",
+                  "disambiguation" : "US country singer, guitarist, fiddler & songwriter",
+                  "url" : "https://www.setlist.fm/setlists/merle-haggard-73d6de21.html"
+               }
+            }, {
+               "name" : "Alabama Getaway",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "John Mayer on vocals"
+            }, {
+               "name" : "Dear Mr. Fantasy",
+               "cover" : {
+                  "mbid" : "9fadfba9-ecae-4383-a4d8-47b043cea19a",
+                  "name" : "Traffic",
+                  "sortName" : "Traffic",
+                  "disambiguation" : "English rock band",
+                  "url" : "https://www.setlist.fm/setlists/traffic-13d6ada9.html"
+               },
+               "info" : "John and Bob shared vocals) (>"
+            }, {
+               "name" : "Hey Jude",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "Coda) (everyone on vocals"
+            }, {
+               "name" : "Truckin'",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Deal",
+               "cover" : {
+                  "mbid" : "1ecff755-607d-4130-9a8a-8873f27e5de5",
+                  "name" : "Jerry Garcia",
+                  "sortName" : "Garcia, Jerry",
+                  "disambiguation" : "guitarist / vocalist in Grateful Dead",
+                  "url" : "https://www.setlist.fm/setlists/jerry-garcia-bd6adce.html"
+               },
+               "info" : "John Mayer on vocals"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Scarlet Begonias",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Fire on the Mountain",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "Oteil on vocals"
+            }, {
+               "name" : "Estimated Prophet",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "with 'Get Up, Stand Up' by The Wailers tease) (>"
+            }, {
+               "name" : "Eyes of the World",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Drums",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "with Oteil) (>"
+            }, {
+               "name" : "Space",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "All Blues",
+               "cover" : {
+                  "mbid" : "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+                  "name" : "Miles Davis",
+                  "sortName" : "Davis, Miles",
+                  "disambiguation" : "jazz trumpeter, bandleader, songwriter",
+                  "url" : "https://www.setlist.fm/setlists/miles-davis-3d6b58b.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Cumberland Blues",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "Bob and John shared vocals) (>"
+            }, {
+               "name" : "All Along the Watchtower",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            }, {
+               "name" : "Morning Dew",
+               "cover" : {
+                  "mbid" : "f469afbc-132f-4a6a-b10b-bc31ab5288e2",
+                  "name" : "Bonnie Dobson",
+                  "sortName" : "Dobson, Bonnie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bonnie-dobson-3d7a1ef.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Brokedown Palace",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "Bob and John shared vocals"
+            } ]
+         } ]
+      },
+      "info" : "'All Blues' was not on the original setlist",
+      "url" : "https://www.setlist.fm/setlist/dead-and-company/2023/citi-field-queens-ny-53a67729.html"
+   }, {
+      "id" : "33a67c49",
+      "versionId" : "g3b8a93f",
+      "eventDate" : "21-06-2023",
+      "lastUpdated" : "2024-05-24T20:23:26.146+0000",
+      "artist" : {
+         "mbid" : "94f8947c-2d9c-4519-bcf9-6d11a24ad006",
+         "name" : "Dead & Company",
+         "sortName" : "Dead & Company",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "tour" : {
+         "name" : "The Final Tour: Summer 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Shakedown Street",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Bertha",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Ramble On Rose",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "It Hurts Me Too",
+               "cover" : {
+                  "mbid" : "1b62df85-00d2-464f-81bc-a5c0cdcad278",
+                  "name" : "Tampa Red",
+                  "sortName" : "Tampa Red",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tampa-red-6bd6269e.html"
+               }
+            }, {
+               "name" : "Dancing in the Street",
+               "cover" : {
+                  "mbid" : "9d1bc10a-24fe-4b41-8338-ea92d8101a09",
+                  "name" : "Martha Reeves and the Vandellas",
+                  "sortName" : "Reeves, Martha and the Vandellas",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/martha-reeves-and-the-vandellas-1bd2b1a4.html"
+               }
+            }, {
+               "name" : "Althea",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "Let It Grow",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "China Cat Sunflower",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "I Know You Rider",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "St. Stephen",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Uncle John's Band",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Drums",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">",
+               "with" : {
+                  "mbid" : "6e97618e-410a-49f5-b50a-4a8a54c08694",
+                  "name" : "Joe Russo",
+                  "sortName" : "Russo, Joe",
+                  "disambiguation" : "drummer",
+                  "url" : "https://www.setlist.fm/setlists/joe-russo-73d69e41.html"
+               }
+            }, {
+               "name" : "Space",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "The Eleven",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Stella Blue",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "U.S. Blues",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "Black Muddy River",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "John Mayer sat down for the 2nd set due to a back injury. Joe Russo joined them during 'Drums'. 'Black Muddy River' was the intended encore, but was played immediately after 'U.S. Blues' without leaving the stage.",
+      "url" : "https://www.setlist.fm/setlist/dead-and-company/2023/citi-field-queens-ny-33a67c49.html"
+   }, {
+      "id" : "1ba6d968",
+      "versionId" : "g5b1b6b34",
+      "eventDate" : "09-06-2023",
+      "lastUpdated" : "2026-06-09T01:36:53.502+0000",
+      "artist" : {
+         "mbid" : "35f343df-3b87-4475-b0e4-d2ba5cc26eea",
+         "name" : "Romeo Santos",
+         "sortName" : "Santos, Romeo",
+         "disambiguation" : "lead vocalist of Aventura",
+         "url" : "https://www.setlist.fm/setlists/romeo-santos-4bd3ebce.html"
+      },
+      "venue" : {
+         "id" : "63d1eed3",
+         "name" : "Citi Field",
+         "city" : {
+            "id" : "5133266",
+            "name" : "Queens",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7498243,
+               "long" : -73.7976337
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/citi-field-queens-ny-usa-63d1eed3.html"
+      },
+      "tour" : {
+         "name" : "Fórmula, Vol. 3"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Formula, Vol. 3 Intro"
+            }, {
+               "name" : "El pañuelo"
+            }, {
+               "name" : "La diabla"
+            }, {
+               "name" : "Eres mía"
+            }, {
+               "name" : "Mar"
+            }, {
+               "name" : "Cancioncitas de amor"
+            }, {
+               "name" : "Odio"
+            }, {
+               "name" : "Inmortal",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Ayúdame"
+            }, {
+               "name" : "Promise"
+            }, {
+               "name" : "La mejor versión de mí",
+               "info" : "remix",
+               "with" : {
+                  "mbid" : "25be91ac-7d7c-441f-a7d2-98e35d642e4c",
+                  "name" : "Natti Natasha",
+                  "sortName" : "Natti Natasha",
+                  "disambiguation" : "Natalia Alexandra Gutiérrez Batista",
+                  "url" : "https://www.setlist.fm/setlists/natti-natasha-63d1569f.html"
+               }
+            }, {
+               "name" : "Bebo"
+            }, {
+               "name" : "Imitadora"
+            }, {
+               "name" : "Necio"
+            }, {
+               "name" : "Perro"
+            }, {
+               "name" : "Llévame contigo"
+            }, {
+               "name" : "Sobredosis"
+            }, {
+               "name" : "Azarosa (BachaBow)",
+               "info" : "El Nephew"
+            }, {
+               "name" : "Aullando / Ibiza / Bella y sensual",
+               "tape" : true
+            }, {
+               "name" : "SIRI"
+            }, {
+               "name" : "Volví",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Quiere beber",
+               "cover" : {
+                  "mbid" : "87a75fc3-59e7-4598-925c-8e230bce5db9",
+                  "name" : "Anuel AA",
+                  "sortName" : "Anuel AA",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anuel-aa-43cf876b.html"
+               },
+               "info" : "remix"
+            }, {
+               "name" : "El farsante",
+               "cover" : {
+                  "mbid" : "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+                  "name" : "Ozuna",
+                  "sortName" : "Ozuna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ozuna-13dac579.html"
+               },
+               "info" : "remix"
+            }, {
+               "name" : "X SI VOLVEMOS",
+               "cover" : {
+                  "mbid" : "de22adae-f8ac-414f-b653-b0162611bd60",
+                  "name" : "KAROL G",
+                  "sortName" : "KAROL G",
+                  "disambiguation" : "Colombian singer",
+                  "url" : "https://www.setlist.fm/setlists/karol-g-4bcfd3de.html"
+               }
+            }, {
+               "name" : "Noche de sexo",
+               "cover" : {
+                  "mbid" : "3deeb747-c228-4d33-9892-f0aa081783c3",
+                  "name" : "Wisin & Yandel",
+                  "sortName" : "Wisin & Yandel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wisin-and-yandel-23d69c6f.html"
+               }
+            }, {
+               "name" : "Suegra"
+            }, {
+               "name" : "Solo conmigo"
+            }, {
+               "name" : "El beso que no le di"
+            }, {
+               "name" : "15,500 noches",
+               "info" : "With Toño Rosario, Rubby Perez, Fernando Villalona, Ramon Orlando"
+            }, {
+               "name" : "Vívora del mar",
+               "cover" : {
+                  "mbid" : "ebb22c2a-0722-480a-a6ce-14996ed90ba6",
+                  "name" : "Toño Rosario",
+                  "sortName" : "Rosario, Toño",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tono-rosario-43d69f2b.html"
+               }
+            }, {
+               "name" : "Cuando Estés Con Él",
+               "cover" : {
+                  "mbid" : "7708fd26-e83d-480b-8b35-7760a9e7bf25",
+                  "name" : "Rubby Pérez",
+                  "sortName" : "Pérez, Rubby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rubby-perez-23d77c83.html"
+               }
+            }, {
+               "name" : "Carnaval",
+               "cover" : {
+                  "mbid" : "e44ef12c-b530-40f6-bda8-185c575fa4a8",
+                  "name" : "Fernando Villalona",
+                  "sortName" : "Villalona, Fernando",
+                  "disambiguation" : "Dominican merengue singer",
+                  "url" : "https://www.setlist.fm/setlists/fernando-villalona-3d7a107.html"
+               }
+            }, {
+               "name" : "Otra como tú",
+               "cover" : {
+                  "mbid" : "ebb22c2a-0722-480a-a6ce-14996ed90ba6",
+                  "name" : "Toño Rosario",
+                  "sortName" : "Rosario, Toño",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tono-rosario-43d69f2b.html"
+               }
+            }, {
+               "name" : "Buscando tus besos",
+               "cover" : {
+                  "mbid" : "7708fd26-e83d-480b-8b35-7760a9e7bf25",
+                  "name" : "Rubby Pérez",
+                  "sortName" : "Pérez, Rubby",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rubby-perez-23d77c83.html"
+               }
+            }, {
+               "name" : "Amaneciendo",
+               "cover" : {
+                  "mbid" : "e44ef12c-b530-40f6-bda8-185c575fa4a8",
+                  "name" : "Fernando Villalona",
+                  "sortName" : "Villalona, Fernando",
+                  "disambiguation" : "Dominican merengue singer",
+                  "url" : "https://www.setlist.fm/setlists/fernando-villalona-3d7a107.html"
+               }
+            }, {
+               "name" : "El venado",
+               "cover" : {
+                  "mbid" : "fd9335a6-4f7d-492d-912f-0d4c817386e2",
+                  "name" : "Ramón Orlando",
+                  "sortName" : "Orlando, Ramón",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ramon-orlando-5bd76348.html"
+               }
+            }, {
+               "name" : "Alegría",
+               "cover" : {
+                  "mbid" : "ebb22c2a-0722-480a-a6ce-14996ed90ba6",
+                  "name" : "Toño Rosario",
+                  "sortName" : "Rosario, Toño",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tono-rosario-43d69f2b.html"
+               }
+            }, {
+               "name" : "El africano",
+               "cover" : {
+                  "mbid" : "2eee971d-9972-474c-897f-f89ed6b18954",
+                  "name" : "Wilfrido Vargas",
+                  "sortName" : "Vargas, Wilfrido",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/wilfrido-vargas-3bd7ac1c.html"
+               },
+               "info" : "Rubby Perez"
+            }, {
+               "name" : "Dominicano soy / Utopia",
+               "cover" : {
+                  "mbid" : "e44ef12c-b530-40f6-bda8-185c575fa4a8",
+                  "name" : "Fernando Villalona",
+                  "sortName" : "Villalona, Fernando",
+                  "disambiguation" : "Dominican merengue singer",
+                  "url" : "https://www.setlist.fm/setlists/fernando-villalona-3d7a107.html"
+               }
+            }, {
+               "name" : "Cuando pise tierra dominicana",
+               "cover" : {
+                  "mbid" : "e44ef12c-b530-40f6-bda8-185c575fa4a8",
+                  "name" : "Fernando Villalona",
+                  "sortName" : "Villalona, Fernando",
+                  "disambiguation" : "Dominican merengue singer",
+                  "url" : "https://www.setlist.fm/setlists/fernando-villalona-3d7a107.html"
+               }
+            }, {
+               "name" : "Un chi chi / La guerra / Yo quisiera amarla / Su veneno / La película / Angelito / Dile al amor",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               },
+               "info" : "Acapella-Peticiones"
+            }, {
+               "name" : "El malo",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Todavía me amas",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Amor de madre",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Los infieles",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Mi corazoncito",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Un beso",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            }, {
+               "name" : "Obsesión",
+               "cover" : {
+                  "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+                  "name" : "Aventura",
+                  "sortName" : "Aventura",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sus huellas"
+            }, {
+               "name" : "Propuesta indecente"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/romeo-santos/2023/citi-field-queens-ny-1ba6d968.html"
+   } ]
+}

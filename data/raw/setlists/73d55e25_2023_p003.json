@@ -1,0 +1,1336 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 175,
+   "setlist" : [ {
+      "id" : "43a08ffb",
+      "versionId" : "g5b82c36c",
+      "eventDate" : "16-10-2023",
+      "lastUpdated" : "2023-10-17T03:31:17.538+0000",
+      "artist" : {
+         "mbid" : "c8a9ae11-63bf-409b-8bf3-a96b3712a2ff",
+         "name" : "Little Dragon",
+         "sortName" : "Little Dragon",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/little-dragon-63d6b223.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Slugs of Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Amöban"
+            }, {
+               "name" : "Disco Dangerous"
+            }, {
+               "name" : "After the Rain"
+            }, {
+               "name" : "Slugs of Love"
+            }, {
+               "name" : "Frisco"
+            }, {
+               "name" : "High"
+            }, {
+               "name" : "Slumber",
+               "with" : {
+                  "mbid" : "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+                  "name" : "April + VISTA",
+                  "sortName" : "April plus VISTA",
+                  "disambiguation" : "neo-soul/alt. pop/R&B duo based in Washington, D.C.",
+                  "url" : "https://www.setlist.fm/setlists/april-vista-5bc96fb4.html"
+               }
+            }, {
+               "name" : "Where You Belong"
+            }, {
+               "name" : "Crystalfilm"
+            }, {
+               "name" : "Blinking Pigs"
+            }, {
+               "name" : "Are You Feeling Sad?",
+               "info" : "Yukimi first did the verse acapella"
+            }, {
+               "name" : "Lover Chanting"
+            }, {
+               "name" : "Wildfire",
+               "cover" : {
+                  "mbid" : "7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7",
+                  "name" : "SBTRKT",
+                  "sortName" : "SBTRKT",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sbtrkt-23d4607b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Twice"
+            }, {
+               "name" : "Another Lover"
+            }, {
+               "name" : "Summertearz / Feather / Constant Surprises"
+            }, {
+               "name" : "Ritual Union"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/little-dragon/2023/brooklyn-steel-brooklyn-ny-43a08ffb.html"
+   }, {
+      "id" : "33a08421",
+      "versionId" : "g138231a1",
+      "eventDate" : "16-10-2023",
+      "lastUpdated" : "2023-10-17T19:01:18.826+0000",
+      "artist" : {
+         "mbid" : "2a5d430f-cb26-422a-a150-41dc4af15bf9",
+         "name" : "April + VISTA",
+         "sortName" : "April plus VISTA",
+         "disambiguation" : "neo-soul/alt. pop/R&B duo based in Washington, D.C.",
+         "url" : "https://www.setlist.fm/setlists/april-vista-5bc96fb4.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : ""
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Cooperators"
+            }, {
+               "name" : "The Receiver"
+            }, {
+               "name" : "I Hate It Here"
+            }, {
+               "name" : "FOMO"
+            }, {
+               "name" : ""
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Little Dragon",
+      "url" : "https://www.setlist.fm/setlist/april-vista/2023/brooklyn-steel-brooklyn-ny-33a08421.html"
+   }, {
+      "id" : "73a34611",
+      "versionId" : "g13855585",
+      "eventDate" : "13-10-2023",
+      "lastUpdated" : "2023-10-12T15:20:19.261+0000",
+      "artist" : {
+         "mbid" : "dfa5f56d-0878-4ddc-98c5-bf6c486b4f4f",
+         "name" : "Ric Wilson",
+         "sortName" : "Wilson, Ric",
+         "disambiguation" : "electronic",
+         "url" : "https://www.setlist.fm/setlists/ric-wilson-23ccd86b.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opening act for Chromeo",
+      "url" : "https://www.setlist.fm/setlist/ric-wilson/2023/brooklyn-steel-brooklyn-ny-73a34611.html"
+   }, {
+      "id" : "6ba3461e",
+      "versionId" : "g3b83f020",
+      "eventDate" : "13-10-2023",
+      "lastUpdated" : "2023-10-23T12:10:37.790+0000",
+      "artist" : {
+         "mbid" : "647221d0-f6b1-4e03-924c-c59b8059536f",
+         "name" : "Chromeo",
+         "sortName" : "Chromeo",
+         "disambiguation" : "electronic/disco duo, Dave 1 and P-Thugg",
+         "url" : "https://www.setlist.fm/setlists/chromeo-23d68817.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Funk Yourself"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro"
+            }, {
+               "name" : "Fancy Footwork"
+            }, {
+               "name" : "(I Don't Need A) New Girl"
+            }, {
+               "name" : "Juice"
+            }, {
+               "name" : "Somethingood"
+            }, {
+               "name" : "Tenderoni / Don't Sleep"
+            }, {
+               "name" : "Bad Decision"
+            }, {
+               "name" : "Replacements"
+            }, {
+               "name" : "Night by Night / Come Alive"
+            }, {
+               "name" : "Must've Been / Momma's Boy"
+            }, {
+               "name" : "Over Your Shoulder"
+            }, {
+               "name" : "Words With You / Needy Girl"
+            }, {
+               "name" : "Lost on the Way Home"
+            }, {
+               "name" : "Old 45's"
+            }, {
+               "name" : "Bonafied Lovin'"
+            }, {
+               "name" : "Jealous (I Ain't With It)"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Don't Turn the Lights On"
+            }, {
+               "name" : "100%"
+            }, {
+               "name" : "Personal Effects"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chromeo/2023/brooklyn-steel-brooklyn-ny-6ba3461e.html"
+   }, {
+      "id" : "6ba34616",
+      "versionId" : "g3b85547c",
+      "eventDate" : "13-10-2023",
+      "lastUpdated" : "2023-10-12T15:22:28.166+0000",
+      "artist" : {
+         "mbid" : "254aa233-c942-4e45-a1c1-49c9ac970bac",
+         "name" : "May Rio",
+         "sortName" : "Rio, May",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/may-rio-73f23695.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opening act for Chromeo",
+      "url" : "https://www.setlist.fm/setlist/may-rio/2023/brooklyn-steel-brooklyn-ny-6ba34616.html"
+   }, {
+      "id" : "73aa2a1d",
+      "versionId" : "g33b3306d",
+      "eventDate" : "12-10-2023",
+      "lastUpdated" : "2024-03-17T19:01:42.494+0000",
+      "artist" : {
+         "mbid" : "84cede0b-bc73-455e-8fc6-c3cce4b4fee1",
+         "name" : "OTG",
+         "sortName" : "OTG",
+         "disambiguation" : "UK hip-hop producer, aka Osiris the God",
+         "url" : "https://www.setlist.fm/setlists/otg-1bd93df4.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/otg/2023/brooklyn-steel-brooklyn-ny-73aa2a1d.html"
+   }, {
+      "id" : "6ba3527e",
+      "versionId" : "g4382c373",
+      "eventDate" : "12-10-2023",
+      "lastUpdated" : "2023-10-17T03:24:48.829+0000",
+      "artist" : {
+         "mbid" : "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+         "name" : "Little Simz",
+         "sortName" : "Little Simz",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/little-simz-3bd554a8.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "NO THANK YOU"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Silhouette"
+            }, {
+               "name" : "No Merci"
+            }, {
+               "name" : "Point and Kill"
+            }, {
+               "name" : "101 FM"
+            }, {
+               "name" : "Selfish"
+            }, {
+               "name" : "I Love You, I Hate You"
+            }, {
+               "name" : "Maria Maria",
+               "cover" : {
+                  "mbid" : "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+                  "name" : "Santana",
+                  "sortName" : "Santana",
+                  "disambiguation" : "US Latin, blues, & rock band",
+                  "url" : "https://www.setlist.fm/setlists/santana-5bd69ff4.html"
+               }
+            }, {
+               "name" : "Venom"
+            }, {
+               "name" : "Gorilla"
+            }, {
+               "name" : "Woman"
+            }, {
+               "name" : "Introvert"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/little-simz/2023/brooklyn-steel-brooklyn-ny-6ba3527e.html"
+   }, {
+      "id" : "ba35d86",
+      "versionId" : "g6b855a0e",
+      "eventDate" : "11-10-2023",
+      "lastUpdated" : "2023-10-12T14:19:40.904+0000",
+      "artist" : {
+         "mbid" : "48f2694e-c226-4e01-a0d4-d7ea007ccd47",
+         "name" : "The Aces",
+         "sortName" : "Aces, The",
+         "disambiguation" : "alternative guitar pop from Utah",
+         "url" : "https://www.setlist.fm/setlists/the-aces-3bcf2494.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "I've Loved You For So Long World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Always Get This Way"
+            }, {
+               "name" : "Don’t Freak"
+            }, {
+               "name" : "Solo"
+            }, {
+               "name" : "My Phone is Trying to Kill Me"
+            }, {
+               "name" : "Kelly"
+            }, {
+               "name" : "Girls Make Me Wanna Die"
+            }, {
+               "name" : "Miserable"
+            }, {
+               "name" : "Fake Nice"
+            }, {
+               "name" : "I Can Break Your Heart Too"
+            }, {
+               "name" : "Not the Same"
+            }, {
+               "name" : "Suburban Blues"
+            }, {
+               "name" : "Person"
+            }, {
+               "name" : "Stop Feeling"
+            }, {
+               "name" : "Attention"
+            }, {
+               "name" : "I've Loved You For So Long"
+            }, {
+               "name" : "Younger"
+            }, {
+               "name" : "Volcanic Love"
+            }, {
+               "name" : "Daydream"
+            }, {
+               "name" : "Stuck"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-aces/2023/brooklyn-steel-brooklyn-ny-ba35d86.html"
+   }, {
+      "id" : "3a35d87",
+      "versionId" : "g3b8544e4",
+      "eventDate" : "11-10-2023",
+      "lastUpdated" : "2023-10-13T02:29:01.291+0000",
+      "artist" : {
+         "mbid" : "5fe67b7e-2cfe-46a7-afe0-37018d579775",
+         "name" : "Carol Ades",
+         "sortName" : "Ades, Carol",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/carol-ades-63ff8ad7.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sunny Disposition"
+            }, {
+               "name" : "Crying During Sex"
+            }, {
+               "name" : "A Place You Can Meet Me"
+            }, {
+               "name" : "Stacy's Mom",
+               "cover" : {
+                  "mbid" : "0f82d6b5-12fb-4569-b047-a00194f572a7",
+                  "name" : "Fountains of Wayne",
+                  "sortName" : "Fountains of Wayne",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fountains-of-wayne-33d6a465.html"
+               }
+            }, {
+               "name" : "Save the Sad Part"
+            }, {
+               "name" : "Free"
+            }, {
+               "name" : "Unlearn Me"
+            }, {
+               "name" : "26"
+            }, {
+               "name" : "Dreams"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carol-ades/2023/brooklyn-steel-brooklyn-ny-3a35d87.html"
+   }, {
+      "id" : "5ba35780",
+      "versionId" : "gb837d3e",
+      "eventDate" : "10-10-2023",
+      "lastUpdated" : "2023-10-27T12:47:53.258+0000",
+      "artist" : {
+         "mbid" : "fee6a7fb-80d9-4290-a171-e48f1f20e381",
+         "name" : "Tom Odell",
+         "sortName" : "Odell, Tom",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tom-odell-53dfcf35.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Tom Odell And His Band Play Live In North America"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Giving a Fuck"
+            }, {
+               "name" : "numb"
+            }, {
+               "name" : "Can't Pretend"
+            }, {
+               "name" : "Sparrow"
+            }, {
+               "name" : "Black Friday"
+            }, {
+               "name" : "Just Another Thing We Don't Talk About"
+            }, {
+               "name" : "True Colors",
+               "cover" : {
+                  "mbid" : "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                  "name" : "Cyndi Lauper",
+                  "sortName" : "Lauper, Cyndi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cyndi-lauper-1bd6b9e8.html"
+               }
+            }, {
+               "name" : "Heal"
+            }, {
+               "name" : "Best Day of My Life"
+            }, {
+               "name" : "Long Way Down"
+            }, {
+               "name" : "Grow Old With Me"
+            }, {
+               "name" : "I Know"
+            }, {
+               "name" : "Hold Me"
+            }, {
+               "name" : "fighting fire with fire"
+            }, {
+               "name" : "money"
+            }, {
+               "name" : "Concrete"
+            }, {
+               "name" : "Smiling All the Way Back Home"
+            }, {
+               "name" : "Another Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tom-odell/2023/brooklyn-steel-brooklyn-ny-5ba35780.html"
+   }, {
+      "id" : "1ba1011c",
+      "versionId" : "g4bb8b7ba",
+      "eventDate" : "06-10-2023",
+      "lastUpdated" : "2024-05-24T14:08:47.355+0000",
+      "artist" : {
+         "mbid" : "27bc6f5b-4585-49ab-8d7d-c62b59f5f010",
+         "name" : "Becky Hill",
+         "sortName" : "Hill, Becky",
+         "disambiguation" : "British singer",
+         "url" : "https://www.setlist.fm/setlists/becky-hill-bdc051a.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crazy What Love Can Do"
+            }, {
+               "name" : "Gecko (Overdrive)",
+               "cover" : {
+                  "mbid" : "df679f1d-2bab-442b-bc67-02a44f9b2adf",
+                  "name" : "Oliver Heldens",
+                  "sortName" : "Heldens, Oliver",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/oliver-heldens-5bdbef60.html"
+               }
+            }, {
+               "name" : "Last Time"
+            }, {
+               "name" : "False Alarm"
+            }, {
+               "name" : "Piece of Me",
+               "cover" : {
+                  "mbid" : "b27bbecb-4c1f-4a71-bf0d-2554da32ea92",
+                  "name" : "MK",
+                  "sortName" : "MK",
+                  "disambiguation" : "Spanish hip hop",
+                  "url" : "https://www.setlist.fm/setlists/mk-6bd2fe52.html"
+               }
+            }, {
+               "name" : "Back and Forth",
+               "cover" : {
+                  "mbid" : "b27bbecb-4c1f-4a71-bf0d-2554da32ea92",
+                  "name" : "MK",
+                  "sortName" : "MK",
+                  "disambiguation" : "Spanish hip hop",
+                  "url" : "https://www.setlist.fm/setlists/mk-6bd2fe52.html"
+               }
+            }, {
+               "name" : "Hold On"
+            }, {
+               "name" : "Afterglow",
+               "cover" : {
+                  "mbid" : "c9fa114f-8426-4286-a289-9f16c8e092b5",
+                  "name" : "Wilkinson",
+                  "sortName" : "Wilkinson",
+                  "disambiguation" : "UK‐based DJ",
+                  "url" : "https://www.setlist.fm/setlists/wilkinson-53d527c1.html"
+               }
+            }, {
+               "name" : "Disconnect"
+            }, {
+               "name" : "Here For You"
+            }, {
+               "name" : "Lose Control"
+            }, {
+               "name" : "My Heart Goes (La Di La)"
+            }, {
+               "name" : "Never Be Alone"
+            }, {
+               "name" : "Heaven",
+               "cover" : {
+                  "mbid" : "4dbf5678-7a31-406a-abbe-232f8ac2cd63",
+                  "name" : "Bryan Adams",
+                  "sortName" : "Adams, Bryan",
+                  "disambiguation" : "Canadian singer/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/bryan-adams-6bd6ba76.html"
+               }
+            }, {
+               "name" : "You Got the Love",
+               "cover" : {
+                  "mbid" : "6afcc957-d742-41c6-ad0b-31b2f1967353",
+                  "name" : "Candi Staton",
+                  "sortName" : "Staton, Candi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/candi-staton-53d65745.html"
+               }
+            }, {
+               "name" : "You Make Me Feel (Mighty Real)",
+               "cover" : {
+                  "mbid" : "4d3b710b-a5f0-4772-97db-f09e47fbc6d8",
+                  "name" : "Sylvester",
+                  "sortName" : "Sylvester",
+                  "disambiguation" : "US disco and soul singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/sylvester-bd609ea.html"
+               }
+            }, {
+               "name" : "Side Effects"
+            }, {
+               "name" : "Wish You Well"
+            }, {
+               "name" : "Remember"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/becky-hill/2023/brooklyn-steel-brooklyn-ny-1ba1011c.html"
+   }, {
+      "id" : "73a32691",
+      "versionId" : "gba011d2",
+      "eventDate" : "05-10-2023",
+      "lastUpdated" : "2024-07-24T02:08:46.794+0000",
+      "artist" : {
+         "mbid" : "46eb0fb7-9725-43af-97d7-6c717682a799",
+         "name" : "The Midnight",
+         "sortName" : "Midnight, The",
+         "disambiguation" : "synthwave duo",
+         "url" : "https://www.setlist.fm/setlists/the-midnight-2bc7bc72.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Fall 2023 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Syndicate"
+            }, {
+               "name" : "Lonely City"
+            }, {
+               "name" : "Endless Summer"
+            }, {
+               "name" : "Ghost in Your Stereo"
+            }, {
+               "name" : "Neon Medusa"
+            }, {
+               "name" : "River of Darkness"
+            }, {
+               "name" : "Nighthawks"
+            }, {
+               "name" : "Deep Blue"
+            }, {
+               "name" : "Change Your Heart or Die"
+            }, {
+               "name" : "Megacorp"
+            }, {
+               "name" : "Days of Thunder",
+               "info" : "Drum & Bass Remix"
+            }, {
+               "name" : "Monsters"
+            }, {
+               "name" : "Daytona"
+            }, {
+               "name" : "Jason"
+            }, {
+               "name" : "Brooklyn. Friday. Love.",
+               "info" : "Not on setlist. Shortened, Stripped, Only first verse and chorus"
+            }, {
+               "name" : "Lost Boy"
+            }, {
+               "name" : "The Comeback Kid"
+            }, {
+               "name" : "Gloria"
+            }, {
+               "name" : "Shadows"
+            }, {
+               "name" : "Vampires"
+            }, {
+               "name" : "Los Angeles"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Good in Red"
+            }, {
+               "name" : "Lost & Found"
+            }, {
+               "name" : "America 2"
+            }, {
+               "name" : "Sunset"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-midnight/2023/brooklyn-steel-brooklyn-ny-73a32691.html"
+   }, {
+      "id" : "4b7e1b8e",
+      "versionId" : "g2b0c20d2",
+      "eventDate" : "05-10-2023",
+      "lastUpdated" : "2026-09-11T17:12:52.436+0000",
+      "artist" : {
+         "mbid" : "46eb0fb7-9725-43af-97d7-6c717682a799",
+         "name" : "The Midnight",
+         "sortName" : "Midnight, The",
+         "disambiguation" : "synthwave duo",
+         "url" : "https://www.setlist.fm/setlists/the-midnight-2bc7bc72.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Fall 2023 North American VIP Soundcheck"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "WeMoveForward"
+            }, {
+               "name" : "Memories"
+            }, {
+               "name" : "The Comeback Kid"
+            } ]
+         } ]
+      },
+      "info" : "VIP soundcheck for ticketed audience",
+      "url" : "https://www.setlist.fm/setlist/the-midnight/2023/brooklyn-steel-brooklyn-ny-4b7e1b8e.html"
+   }, {
+      "id" : "23a30cfb",
+      "versionId" : "g33859c19",
+      "eventDate" : "05-10-2023",
+      "lastUpdated" : "2023-10-06T00:11:19.226+0000",
+      "artist" : {
+         "mbid" : "325fc4f1-5bb9-4f58-a62c-b44e169f4b56",
+         "name" : "Flamingosis",
+         "sortName" : "Flamingosis",
+         "disambiguation" : "New Jersey-based beatmaker Aaron Velasquez",
+         "url" : "https://www.setlist.fm/setlists/flamingosis-23c6d4cf.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flamingosis/2023/brooklyn-steel-brooklyn-ny-23a30cfb.html"
+   }, {
+      "id" : "53a3c7a9",
+      "versionId" : "g2b858486",
+      "eventDate" : "03-10-2023",
+      "lastUpdated" : "2023-10-06T19:51:04.007+0000",
+      "artist" : {
+         "mbid" : "e105c272-b5d7-4135-82ef-d60bded54345",
+         "name" : "The Wombats",
+         "sortName" : "Wombats, The",
+         "disambiguation" : "UK indie rock band",
+         "url" : "https://www.setlist.fm/setlists/the-wombats-2bd6bcea.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "North America Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cheetah Tongue"
+            }, {
+               "name" : "Moving to New York"
+            }, {
+               "name" : "Techno Fan"
+            }, {
+               "name" : "Ready for the High"
+            }, {
+               "name" : "Kill the Director",
+               "info" : "with Tales of Girls, Boys and Marsupials intro"
+            }, {
+               "name" : "Pink Lemonade"
+            }, {
+               "name" : "People Don't Change People, Time Does"
+            }, {
+               "name" : "Jump Into the Fog"
+            }, {
+               "name" : "Is This What It Feels Like to Feel Like This?"
+            }, {
+               "name" : "I Don't Know Why I Like You but I Do"
+            }, {
+               "name" : "Lemon to a Knife Fight"
+            }, {
+               "name" : "This Car Drives All by Itself"
+            }, {
+               "name" : "Method to the Madness"
+            }, {
+               "name" : "Tokyo (Vampires & Wolves)"
+            }, {
+               "name" : "If You Ever Leave, I'm Coming With You"
+            }, {
+               "name" : "Greek Tragedy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lethal Combination",
+               "info" : "Acoustic, Murph Solo"
+            }, {
+               "name" : "Let's Dance to Joy Division"
+            }, {
+               "name" : "Turn"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/the-wombats/2023/brooklyn-steel-brooklyn-ny-53a3c7a9.html"
+   }, {
+      "id" : "43a3c7b7",
+      "versionId" : "g6b85b64e",
+      "eventDate" : "03-10-2023",
+      "lastUpdated" : "2023-10-05T04:05:23.528+0000",
+      "artist" : {
+         "mbid" : "7256401b-6b89-47cd-8d9b-401f7dd0c1c1",
+         "name" : "Red Rum Club",
+         "sortName" : "Red Rum Club",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/red-rum-club-4bcc0332.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kids Addicted"
+            }, {
+               "name" : "Ballerino"
+            }, {
+               "name" : "Nightcalling"
+            }, {
+               "name" : "Undertaker"
+            }, {
+               "name" : "Monaco"
+            }, {
+               "name" : "Vibrate"
+            }, {
+               "name" : "Honey"
+            }, {
+               "name" : "Eleanor"
+            }, {
+               "name" : "Angeline"
+            }, {
+               "name" : "Black Cat"
+            }, {
+               "name" : "Vanilla"
+            }, {
+               "name" : "Would You Rather Be Lonely?"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/red-rum-club/2023/brooklyn-steel-brooklyn-ny-43a3c7b7.html"
+   }, {
+      "id" : "63a3d21f",
+      "versionId" : "g7b75b640",
+      "eventDate" : "02-10-2023",
+      "lastUpdated" : "2025-07-05T19:12:40.124+0000",
+      "artist" : {
+         "mbid" : "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+         "name" : "Royal Blood",
+         "sortName" : "Royal Blood",
+         "disambiguation" : "Brighton UK two piece rock band",
+         "url" : "https://www.setlist.fm/setlists/royal-blood-3da6d03.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Back to the Water Below"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "War",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9eace815-06f3-487c-bf3a-1a817e248056",
+                  "name" : "Edwin Starr",
+                  "sortName" : "Starr, Edwin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/edwin-starr-3bd6984c.html"
+               }
+            }, {
+               "name" : "Mountains at Midnight"
+            }, {
+               "name" : "Boilermaker"
+            }, {
+               "name" : "Come on Over"
+            }, {
+               "name" : "Lights Out"
+            }, {
+               "name" : "Triggers"
+            }, {
+               "name" : "Trouble's Coming"
+            }, {
+               "name" : "Typhoons"
+            }, {
+               "name" : "Pull Me Through"
+            }, {
+               "name" : "Little Monster",
+               "info" : "followed by drum solo"
+            }, {
+               "name" : "How Did We Get So Dark?"
+            }, {
+               "name" : "Tell Me When It's Too Late"
+            }, {
+               "name" : "Loose Change"
+            }, {
+               "name" : "Out of the Black"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Waves",
+               "info" : "with Will Phillipson from Bad Nerves on guitar"
+            }, {
+               "name" : "Shiner in the Dark"
+            }, {
+               "name" : "Figure It Out"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/royal-blood/2023/brooklyn-steel-brooklyn-ny-63a3d21f.html"
+   }, {
+      "id" : "5ba33be0",
+      "versionId" : "g63b162b3",
+      "eventDate" : "02-10-2023",
+      "lastUpdated" : "2024-04-04T19:40:55.276+0000",
+      "artist" : {
+         "mbid" : "e3855311-3405-44e7-b942-2e50f64bfbca",
+         "name" : "Bad Nerves",
+         "sortName" : "Bad Nerves",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bad-nerves-43cadf5f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Don't Stop"
+            }, {
+               "name" : "Baby Drummer"
+            }, {
+               "name" : "Palace"
+            }, {
+               "name" : "Terminal Boy"
+            }, {
+               "name" : "Radio Punk"
+            }, {
+               "name" : "Electric 88"
+            }, {
+               "name" : "USA"
+            }, {
+               "name" : "Can't Be Mine"
+            }, {
+               "name" : "Mad Mind"
+            }, {
+               "name" : "Dreaming"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bad-nerves/2023/brooklyn-steel-brooklyn-ny-5ba33be0.html"
+   }, {
+      "id" : "53a3eb61",
+      "versionId" : "g33846415",
+      "eventDate" : "30-09-2023",
+      "lastUpdated" : "2023-10-03T09:49:40.830+0000",
+      "artist" : {
+         "mbid" : "af8e4cc5-ef54-458d-a194-7b210acf638f",
+         "name" : "Cannibal Corpse",
+         "sortName" : "Cannibal Corpse",
+         "disambiguation" : "American death metal",
+         "url" : "https://www.setlist.fm/setlists/cannibal-corpse-6bd68e96.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Scourge of Iron"
+            }, {
+               "name" : "Blood Blind"
+            }, {
+               "name" : "Disfigured"
+            }, {
+               "name" : "Evisceration Plague"
+            }, {
+               "name" : "Inhumane Harvest"
+            }, {
+               "name" : "Death Walking Terror"
+            }, {
+               "name" : "Chaos Horrific"
+            }, {
+               "name" : "I Cum Blood"
+            }, {
+               "name" : "Summoned for Sacrifice"
+            }, {
+               "name" : "Pounded Into Dust"
+            }, {
+               "name" : "Disposal of the Body"
+            }, {
+               "name" : "Pit of Zombies"
+            }, {
+               "name" : "Stripped, Raped and Strangled"
+            }, {
+               "name" : "Hammer Smashed Face"
+            }, {
+               "name" : "",
+               "tape" : true,
+               "info" : "southern nights"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cannibal-corpse/2023/brooklyn-steel-brooklyn-ny-53a3eb61.html"
+   }, {
+      "id" : "4ba3eb66",
+      "versionId" : "g4b51d3ea",
+      "eventDate" : "30-09-2023",
+      "lastUpdated" : "2024-11-29T01:36:44.119+0000",
+      "artist" : {
+         "mbid" : "a5f0f298-776a-4909-bc09-4fd56a680542",
+         "name" : "Blood Incantation",
+         "sortName" : "Blood Incantation",
+         "disambiguation" : "US progressive death metal band",
+         "url" : "https://www.setlist.fm/setlists/blood-incantation-23c5e067.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Inner Paths (to Outer Space)"
+            }, {
+               "name" : "Awakening From the Dream of Existence to the Multidimensional Nature of Our Reality (Mirror of the Soul)"
+            }, {
+               "name" : "Obliquity of the Ecliptic"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blood-incantation/2023/brooklyn-steel-brooklyn-ny-4ba3eb66.html"
+   } ]
+}

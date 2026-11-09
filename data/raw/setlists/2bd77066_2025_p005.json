@@ -1,0 +1,2044 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 98,
+   "setlist" : [ {
+      "id" : "5b467fa4",
+      "versionId" : "g3b4c4c88",
+      "eventDate" : "04-05-2025",
+      "lastUpdated" : "2025-05-05T20:25:13.535+0000",
+      "artist" : {
+         "mbid" : "5706885b-7712-4be3-b809-db026e07d3a7",
+         "name" : "Finn Keane",
+         "sortName" : "Keane, Finn",
+         "disambiguation" : "formerly Easyfun",
+         "url" : "https://www.setlist.fm/setlists/finn-keane-63c60e8f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Domino",
+               "cover" : {
+                  "mbid" : "d24fb461-dee8-41fc-bb15-2f13bb2644a6",
+                  "name" : "Jessie J",
+                  "sortName" : "Jessie J",
+                  "disambiguation" : "English singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jessie-j-23d294cf.html"
+               }
+            }, {
+               "name" : "HARDPAIN"
+            }, {
+               "name" : "Audio"
+            }, {
+               "name" : "Sugar Free Venom",
+               "cover" : {
+                  "mbid" : "9bdce94a-7c47-4b9a-8e10-f65f5fc63d32",
+                  "name" : "f5ve",
+                  "sortName" : "f5ve",
+                  "disambiguation" : "Japanese girl group",
+                  "url" : "https://www.setlist.fm/setlists/f5ve-43e5a77f.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "Britpop",
+               "cover" : {
+                  "mbid" : "b12ef43e-72ad-43d0-b216-a8cd32f78852",
+                  "name" : "A. G. Cook",
+                  "sortName" : "Cook, A. G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/a-g-cook-53d8bfc5.html"
+               }
+            }, {
+               "name" : "HARD",
+               "cover" : {
+                  "mbid" : "774b02d7-5056-4b0f-9d69-a82b6ae27cde",
+                  "name" : "SOPHIE",
+                  "sortName" : "SOPHIE",
+                  "disambiguation" : "Scottish producer, songwriter, and DJ Sophie Xeon",
+                  "url" : "https://www.setlist.fm/setlists/sophie-13dd5df5.html"
+               }
+            }, {
+               "name" : "Lost Everything",
+               "cover" : {
+                  "mbid" : "e8367e77-8847-45e2-a52f-1cf55131eaed",
+                  "name" : "Thy Slaughter",
+                  "sortName" : "Thy Slaughter",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thy-slaughter-3d87da7.html"
+               },
+               "info" : "The Finn Keane Mix"
+            }, {
+               "name" : "Backseat",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Laplander (Finn Keane Remix)"
+            }, {
+               "name" : "Femmebot",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "B2b",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "‘featuring tinashe’ remix"
+            }, {
+               "name" : "Perfect (Exceeder)",
+               "cover" : {
+                  "mbid" : "1524122d-ad9d-48e8-9d02-f7eaef15bef9",
+                  "name" : "Princess Superstar",
+                  "sortName" : "Princess Superstar",
+                  "disambiguation" : "US rapper & DJ",
+                  "url" : "https://www.setlist.fm/setlists/princess-superstar-13d6ed2d.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "Technologic",
+               "cover" : {
+                  "mbid" : "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name" : "Daft Punk",
+                  "sortName" : "Daft Punk",
+                  "disambiguation" : "French electronic duo",
+                  "url" : "https://www.setlist.fm/setlists/daft-punk-bd6d5a2.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "1999",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "Speed Drive",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "Remix"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/finn-keane/2025/barclays-center-brooklyn-ny-5b467fa4.html"
+   }, {
+      "id" : "63462a43",
+      "versionId" : "g34db93f",
+      "eventDate" : "03-05-2025",
+      "lastUpdated" : "2025-05-06T11:19:35.863+0000",
+      "artist" : {
+         "mbid" : "5706885b-7712-4be3-b809-db026e07d3a7",
+         "name" : "Finn Keane",
+         "sortName" : "Keane, Finn",
+         "disambiguation" : "formerly Easyfun",
+         "url" : "https://www.setlist.fm/setlists/finn-keane-63c60e8f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Domino",
+               "cover" : {
+                  "mbid" : "d24fb461-dee8-41fc-bb15-2f13bb2644a6",
+                  "name" : "Jessie J",
+                  "sortName" : "Jessie J",
+                  "disambiguation" : "English singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jessie-j-23d294cf.html"
+               }
+            }, {
+               "name" : "HARDPAIN"
+            }, {
+               "name" : "Audio"
+            }, {
+               "name" : "Sugar Free Venom",
+               "cover" : {
+                  "mbid" : "9bdce94a-7c47-4b9a-8e10-f65f5fc63d32",
+                  "name" : "f5ve",
+                  "sortName" : "f5ve",
+                  "disambiguation" : "Japanese girl group",
+                  "url" : "https://www.setlist.fm/setlists/f5ve-43e5a77f.html"
+               },
+               "info" : "Finn Keane Remix"
+            }, {
+               "name" : "Britpop",
+               "cover" : {
+                  "mbid" : "b12ef43e-72ad-43d0-b216-a8cd32f78852",
+                  "name" : "A. G. Cook",
+                  "sortName" : "Cook, A. G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/a-g-cook-53d8bfc5.html"
+               }
+            }, {
+               "name" : "HARD",
+               "cover" : {
+                  "mbid" : "774b02d7-5056-4b0f-9d69-a82b6ae27cde",
+                  "name" : "SOPHIE",
+                  "sortName" : "SOPHIE",
+                  "disambiguation" : "Scottish producer, songwriter, and DJ Sophie Xeon",
+                  "url" : "https://www.setlist.fm/setlists/sophie-13dd5df5.html"
+               }
+            }, {
+               "name" : "Lost Everything",
+               "cover" : {
+                  "mbid" : "e8367e77-8847-45e2-a52f-1cf55131eaed",
+                  "name" : "Thy Slaughter",
+                  "sortName" : "Thy Slaughter",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thy-slaughter-3d87da7.html"
+               },
+               "info" : "The Finn Keane Mix"
+            }, {
+               "name" : "Backseat",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Laplander (Finn Keane Remix)"
+            }, {
+               "name" : "Femmebot",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "B2b",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "‘featuring Tinashe’ remix"
+            }, {
+               "name" : "Perfect (Exceeder)",
+               "cover" : {
+                  "mbid" : "1524122d-ad9d-48e8-9d02-f7eaef15bef9",
+                  "name" : "Princess Superstar",
+                  "sortName" : "Princess Superstar",
+                  "disambiguation" : "US rapper & DJ",
+                  "url" : "https://www.setlist.fm/setlists/princess-superstar-13d6ed2d.html"
+               }
+            }, {
+               "name" : "Technologic",
+               "cover" : {
+                  "mbid" : "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name" : "Daft Punk",
+                  "sortName" : "Daft Punk",
+                  "disambiguation" : "French electronic duo",
+                  "url" : "https://www.setlist.fm/setlists/daft-punk-bd6d5a2.html"
+               }
+            }, {
+               "name" : "1999",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "easyfun remix"
+            }, {
+               "name" : "Speed Drive",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/finn-keane/2025/barclays-center-brooklyn-ny-63462a43.html"
+   }, {
+      "id" : "1b5e4198",
+      "versionId" : "g3b6b102c",
+      "eventDate" : "03-05-2025",
+      "lastUpdated" : "2026-02-06T08:05:05.804+0000",
+      "artist" : {
+         "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+         "name" : "Charli xcx",
+         "sortName" : "Charli xcx",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "BRAT"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bitter Sweet Symphony",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "d4d17620-fd97-4574-92a8-a2cb7e72ce42",
+                  "name" : "The Verve",
+                  "sortName" : "Verve, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-verve-bd6bd5a.html"
+               }
+            }, {
+               "name" : "365",
+               "info" : "\"featuring shygirl remix\""
+            }, {
+               "name" : "360"
+            }, {
+               "name" : "Von dutch"
+            }, {
+               "name" : "Rewind"
+            }, {
+               "name" : "Rewind",
+               "tape" : true,
+               "info" : "\"featuring bladee remix\""
+            }, {
+               "name" : "I might say something stupid",
+               "tape" : true,
+               "info" : "ft. the 1975 & jon hopkins remix"
+            }, {
+               "name" : "I might say something stupid"
+            }, {
+               "name" : "Club classics"
+            }, {
+               "name" : "Unlock It"
+            }, {
+               "name" : "Talk talk"
+            }, {
+               "name" : "Apple",
+               "info" : "Jenna Ortega and Romy Mars do \"The apple dance\""
+            }, {
+               "name" : "Apple",
+               "tape" : true,
+               "info" : "\"featuring the japanese house remix\""
+            }, {
+               "name" : "So I"
+            }, {
+               "name" : "So I",
+               "info" : "“featuring a. g. cook remix”"
+            }, {
+               "name" : "Spring breakers"
+            }, {
+               "name" : "Girl, so confusing",
+               "info" : "“featuring lorde remix”"
+            }, {
+               "name" : "Everything is romantic",
+               "tape" : true,
+               "info" : "\"featuring caroline polachek remix\" w/ elements of a.g cook remix from PARTYGIRL boiler room set"
+            }, {
+               "name" : "Everything is romantic"
+            }, {
+               "name" : "Speed Drive",
+               "info" : "remixed w/ elements of easyfun remix from PARTYGIRL boiler room set"
+            }, {
+               "name" : "Sympathy is a knife"
+            }, {
+               "name" : "Guess",
+               "info" : "“featuring billie eilish remix”"
+            }, {
+               "name" : "365"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "party 4 u"
+            }, {
+               "name" : "Vroom Vroom"
+            }, {
+               "name" : "Track 10"
+            }, {
+               "name" : "I Love It",
+               "cover" : {
+                  "mbid" : "c5f259d0-abd8-418e-81ee-3965fd4e4e9a",
+                  "name" : "Icona Pop",
+                  "sortName" : "Icona Pop",
+                  "disambiguation" : "Swedish dance/electropop duo",
+                  "url" : "https://www.setlist.fm/setlists/icona-pop-33d2d8a9.html"
+               }
+            }, {
+               "name" : "Dread",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "b12ef43e-72ad-43d0-b216-a8cd32f78852",
+                  "name" : "A. G. Cook",
+                  "sortName" : "Cook, A. G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/a-g-cook-53d8bfc5.html"
+               },
+               "info" : "\"you can't dread the end when it's over outro\" video"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charli-xcx/2025/barclays-center-brooklyn-ny-1b5e4198.html"
+   }, {
+      "id" : "b5e75ea",
+      "versionId" : "g2b6b1022",
+      "eventDate" : "01-05-2025",
+      "lastUpdated" : "2026-02-06T08:05:18.794+0000",
+      "artist" : {
+         "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+         "name" : "Charli xcx",
+         "sortName" : "Charli xcx",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "BRAT"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bitter Sweet Symphony",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "d4d17620-fd97-4574-92a8-a2cb7e72ce42",
+                  "name" : "The Verve",
+                  "sortName" : "Verve, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-verve-bd6bd5a.html"
+               }
+            }, {
+               "name" : "365",
+               "info" : "“featuring shygirl remix”"
+            }, {
+               "name" : "360"
+            }, {
+               "name" : "Von dutch"
+            }, {
+               "name" : "Rewind"
+            }, {
+               "name" : "Rewind",
+               "tape" : true,
+               "info" : "\"featuring bladee remix\""
+            }, {
+               "name" : "I might say something stupid",
+               "tape" : true,
+               "info" : "ft. the 1975 & jon hopkins remix"
+            }, {
+               "name" : "I might say something stupid"
+            }, {
+               "name" : "Club classics"
+            }, {
+               "name" : "Unlock It"
+            }, {
+               "name" : "Talk talk"
+            }, {
+               "name" : "Apple",
+               "info" : "Clairo and Blizzy McGuire do \"The apple dance \""
+            }, {
+               "name" : "Apple",
+               "tape" : true,
+               "info" : "\"featuring the japanese house remix\""
+            }, {
+               "name" : "So I"
+            }, {
+               "name" : "So I",
+               "info" : "“featuring a. g. cook remix”"
+            }, {
+               "name" : "Spring breakers"
+            }, {
+               "name" : "Girl, so confusing",
+               "info" : "“featuring lorde remix”"
+            }, {
+               "name" : "Everything is romantic",
+               "tape" : true,
+               "info" : "\"featuring caroline polachek remix\" w/ elements of a.g cook remix from PARTYGIRL boiler room set"
+            }, {
+               "name" : "Everything is romantic"
+            }, {
+               "name" : "Speed Drive",
+               "info" : "remixed w/ elements of easyfun remix from PARTYGIRL boiler room set"
+            }, {
+               "name" : "Sympathy is a knife"
+            }, {
+               "name" : "Guess",
+               "info" : "“featuring billie eilish remix”"
+            }, {
+               "name" : "365"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "party 4 u"
+            }, {
+               "name" : "Vroom Vroom"
+            }, {
+               "name" : "Track 10"
+            }, {
+               "name" : "Club classics",
+               "info" : "\"featuring bb trickz remix\", live debut of remix",
+               "with" : {
+                  "mbid" : "0fd0f117-1162-43d9-b23a-6f94527e0fc2",
+                  "name" : "Bb Trickz",
+                  "sortName" : "Bb Trickz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bb-trickz-63fb7243.html"
+               }
+            }, {
+               "name" : "I Love It",
+               "cover" : {
+                  "mbid" : "c5f259d0-abd8-418e-81ee-3965fd4e4e9a",
+                  "name" : "Icona Pop",
+                  "sortName" : "Icona Pop",
+                  "disambiguation" : "Swedish dance/electropop duo",
+                  "url" : "https://www.setlist.fm/setlists/icona-pop-33d2d8a9.html"
+               }
+            }, {
+               "name" : "Dread",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "b12ef43e-72ad-43d0-b216-a8cd32f78852",
+                  "name" : "A. G. Cook",
+                  "sortName" : "Cook, A. G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/a-g-cook-53d8bfc5.html"
+               },
+               "info" : "\"you can't dread the end when it's over outro\" video outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charli-xcx/2025/barclays-center-brooklyn-ny-b5e75ea.html"
+   }, {
+      "id" : "5346776d",
+      "versionId" : "g1b4db928",
+      "eventDate" : "01-05-2025",
+      "lastUpdated" : "2025-05-06T11:21:30.711+0000",
+      "artist" : {
+         "mbid" : "5706885b-7712-4be3-b809-db026e07d3a7",
+         "name" : "Finn Keane",
+         "sortName" : "Keane, Finn",
+         "disambiguation" : "formerly Easyfun",
+         "url" : "https://www.setlist.fm/setlists/finn-keane-63c60e8f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Domino",
+               "cover" : {
+                  "mbid" : "d24fb461-dee8-41fc-bb15-2f13bb2644a6",
+                  "name" : "Jessie J",
+                  "sortName" : "Jessie J",
+                  "disambiguation" : "English singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jessie-j-23d294cf.html"
+               }
+            }, {
+               "name" : "HARDPAIN"
+            }, {
+               "name" : "Audio"
+            }, {
+               "name" : "Sugar Free Venom",
+               "cover" : {
+                  "mbid" : "9bdce94a-7c47-4b9a-8e10-f65f5fc63d32",
+                  "name" : "f5ve",
+                  "sortName" : "f5ve",
+                  "disambiguation" : "Japanese girl group",
+                  "url" : "https://www.setlist.fm/setlists/f5ve-43e5a77f.html"
+               },
+               "info" : "Finn Keane Remix"
+            }, {
+               "name" : "Britpop",
+               "cover" : {
+                  "mbid" : "b12ef43e-72ad-43d0-b216-a8cd32f78852",
+                  "name" : "A. G. Cook",
+                  "sortName" : "Cook, A. G.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/a-g-cook-53d8bfc5.html"
+               }
+            }, {
+               "name" : "HARD",
+               "cover" : {
+                  "mbid" : "774b02d7-5056-4b0f-9d69-a82b6ae27cde",
+                  "name" : "SOPHIE",
+                  "sortName" : "SOPHIE",
+                  "disambiguation" : "Scottish producer, songwriter, and DJ Sophie Xeon",
+                  "url" : "https://www.setlist.fm/setlists/sophie-13dd5df5.html"
+               }
+            }, {
+               "name" : "Lost Everything",
+               "cover" : {
+                  "mbid" : "e8367e77-8847-45e2-a52f-1cf55131eaed",
+                  "name" : "Thy Slaughter",
+                  "sortName" : "Thy Slaughter",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/thy-slaughter-3d87da7.html"
+               },
+               "info" : "The Finn Keane Mix"
+            }, {
+               "name" : "Backseat",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "Laplander (Finn Keane Remix)"
+            }, {
+               "name" : "Femmebot",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            }, {
+               "name" : "B2b",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "‘featuring Tinashe’ remix"
+            }, {
+               "name" : "Perfect (Exceeder)",
+               "cover" : {
+                  "mbid" : "1524122d-ad9d-48e8-9d02-f7eaef15bef9",
+                  "name" : "Princess Superstar",
+                  "sortName" : "Princess Superstar",
+                  "disambiguation" : "US rapper & DJ",
+                  "url" : "https://www.setlist.fm/setlists/princess-superstar-13d6ed2d.html"
+               }
+            }, {
+               "name" : "Technologic",
+               "cover" : {
+                  "mbid" : "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name" : "Daft Punk",
+                  "sortName" : "Daft Punk",
+                  "disambiguation" : "French electronic duo",
+                  "url" : "https://www.setlist.fm/setlists/daft-punk-bd6d5a2.html"
+               }
+            }, {
+               "name" : "1999",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               },
+               "info" : "easyfun remix"
+            }, {
+               "name" : "Speed Drive",
+               "cover" : {
+                  "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+                  "name" : "Charli xcx",
+                  "sortName" : "Charli xcx",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/finn-keane/2025/barclays-center-brooklyn-ny-5346776d.html"
+   }, {
+      "id" : "53462b05",
+      "versionId" : "gb4ce9c2",
+      "eventDate" : "30-04-2025",
+      "lastUpdated" : "2025-05-01T15:36:43.873+0000",
+      "artist" : {
+         "mbid" : "5706885b-7712-4be3-b809-db026e07d3a7",
+         "name" : "Finn Keane",
+         "sortName" : "Keane, Finn",
+         "disambiguation" : "formerly Easyfun",
+         "url" : "https://www.setlist.fm/setlists/finn-keane-63c60e8f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/finn-keane/2025/barclays-center-brooklyn-ny-53462b05.html"
+   }, {
+      "id" : "35e75eb",
+      "versionId" : "g334c1491",
+      "eventDate" : "30-04-2025",
+      "lastUpdated" : "2025-05-03T22:37:40.113+0000",
+      "artist" : {
+         "mbid" : "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+         "name" : "Charli xcx",
+         "sortName" : "Charli xcx",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/charli-xcx-33d5dcdd.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "BRAT"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bittersweet Symphony",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "d4d17620-fd97-4574-92a8-a2cb7e72ce42",
+                  "name" : "The Verve",
+                  "sortName" : "Verve, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-verve-bd6bd5a.html"
+               }
+            }, {
+               "name" : "365",
+               "info" : "“featuring shygirl remix”"
+            }, {
+               "name" : "360"
+            }, {
+               "name" : "Von dutch"
+            }, {
+               "name" : "Rewind"
+            }, {
+               "name" : "I might say something stupid",
+               "tape" : true,
+               "info" : "“featuring the 1975 & jon hopkins remix”"
+            }, {
+               "name" : "I might say something stupid"
+            }, {
+               "name" : "Club classics"
+            }, {
+               "name" : "Unlock It"
+            }, {
+               "name" : "Talk talk"
+            }, {
+               "name" : "Apple"
+            }, {
+               "name" : "Apple",
+               "tape" : true,
+               "info" : "“featuring the japanese house remix”"
+            }, {
+               "name" : "So I"
+            }, {
+               "name" : "So I",
+               "info" : "“featuring a. g. cook remix”"
+            }, {
+               "name" : "Spring breakers"
+            }, {
+               "name" : "Girl, so confusing",
+               "info" : "“featuring lorde remix”"
+            }, {
+               "name" : "Everything is romantic",
+               "tape" : true,
+               "info" : "“featuring caroline polachek remix” w/ elements of A.G. Cook’s remix from Boiler Room PARTYGIRL set"
+            }, {
+               "name" : "Everything is romantic"
+            }, {
+               "name" : "Speed Drive",
+               "info" : "Mixed with samples of EASYFUN remix"
+            }, {
+               "name" : "Sympathy is a knife"
+            }, {
+               "name" : "Guess",
+               "info" : "“featuring billie eilish remix”"
+            }, {
+               "name" : "365"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "party 4 u"
+            }, {
+               "name" : "Vroom Vroom"
+            }, {
+               "name" : "Track 10"
+            }, {
+               "name" : "I Love It",
+               "cover" : {
+                  "mbid" : "c5f259d0-abd8-418e-81ee-3965fd4e4e9a",
+                  "name" : "Icona Pop",
+                  "sortName" : "Icona Pop",
+                  "disambiguation" : "Swedish dance/electropop duo",
+                  "url" : "https://www.setlist.fm/setlists/icona-pop-33d2d8a9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/charli-xcx/2025/barclays-center-brooklyn-ny-35e75eb.html"
+   }, {
+      "id" : "33526cd5",
+      "versionId" : "g134fad35",
+      "eventDate" : "17-04-2025",
+      "lastUpdated" : "2025-04-22T09:07:02.393+0000",
+      "artist" : {
+         "mbid" : "172e1f1a-504d-4488-b053-6344ba63e6d0",
+         "name" : "Nick Cave & the Bad Seeds",
+         "sortName" : "Cave, Nick & the Bad Seeds",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nick-cave-and-the-bad-seeds-23d6a877.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "The Wild God Tour - North America 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Frogs"
+            }, {
+               "name" : "Wild God"
+            }, {
+               "name" : "Song of the Lake"
+            }, {
+               "name" : "O Children"
+            }, {
+               "name" : "Jubilee Street"
+            }, {
+               "name" : "From Her to Eternity"
+            }, {
+               "name" : "Long Dark Night"
+            }, {
+               "name" : "Cinnamon Horses"
+            }, {
+               "name" : "Tupelo"
+            }, {
+               "name" : "Conversion"
+            }, {
+               "name" : "Bright Horses"
+            }, {
+               "name" : "Joy"
+            }, {
+               "name" : "I Need You"
+            }, {
+               "name" : "Carnage",
+               "cover" : {
+                  "mbid" : "fe8bcbbb-2a47-406c-bbe1-66f5f088eadc",
+                  "name" : "Nick Cave & Warren Ellis",
+                  "sortName" : "Cave, Nick & Ellis, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-warren-ellis-3f7713f.html"
+               }
+            }, {
+               "name" : "Final Rescue Attempt"
+            }, {
+               "name" : "Red Right Hand"
+            }, {
+               "name" : "The Mercy Seat"
+            }, {
+               "name" : "White Elephant",
+               "cover" : {
+                  "mbid" : "fe8bcbbb-2a47-406c-bbe1-66f5f088eadc",
+                  "name" : "Nick Cave & Warren Ellis",
+                  "sortName" : "Cave, Nick & Ellis, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-cave-and-warren-ellis-3f7713f.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Papa Won't Leave You, Henry"
+            }, {
+               "name" : "The Weeping Song"
+            }, {
+               "name" : "Skeleton Tree"
+            }, {
+               "name" : "Into My Arms",
+               "info" : "Nick solo"
+            } ]
+         } ]
+      },
+      "info" : "With Colin Greenwood of Radiohead sitting in on bass throughout.",
+      "url" : "https://www.setlist.fm/setlist/nick-cave-and-the-bad-seeds/2025/barclays-center-brooklyn-ny-33526cd5.html"
+   }, {
+      "id" : "23526cd7",
+      "versionId" : "g334ec4a5",
+      "eventDate" : "17-04-2025",
+      "lastUpdated" : "2025-04-18T15:42:17.215+0000",
+      "artist" : {
+         "mbid" : "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+         "name" : "St. Vincent",
+         "sortName" : "Saint Vincent",
+         "disambiguation" : "US guitarist, singer and songwriter Annie Clark",
+         "url" : "https://www.setlist.fm/setlists/st-vincent-13d6a18d.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "All Born Screaming"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Reckless"
+            }, {
+               "name" : "Broken Man"
+            }, {
+               "name" : "Fear the Future"
+            }, {
+               "name" : "Los Ageless"
+            }, {
+               "name" : "Flea"
+            }, {
+               "name" : "Cheerleader"
+            }, {
+               "name" : "Pay Your Way in Pain"
+            }, {
+               "name" : "New York"
+            }, {
+               "name" : "Sugarboy"
+            }, {
+               "name" : "All Born Screaming"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/st-vincent/2025/barclays-center-brooklyn-ny-23526cd7.html"
+   }, {
+      "id" : "4b590fb2",
+      "versionId" : "gb414dda",
+      "eventDate" : "11-04-2025",
+      "lastUpdated" : "2025-04-14T14:59:33.222+0000",
+      "artist" : {
+         "mbid" : "7cc385f3-333c-48de-b341-3d728de74973",
+         "name" : "Vybz Kartel",
+         "sortName" : "Vybz Kartel",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/vybz-kartel-6bd63256.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vybz-kartel/2025/barclays-center-brooklyn-ny-4b590fb2.html"
+   }, {
+      "id" : "235944c7",
+      "versionId" : "g234e201f",
+      "eventDate" : "03-04-2025",
+      "lastUpdated" : "2025-04-19T13:57:26.487+0000",
+      "artist" : {
+         "mbid" : "f68939ac-1ac6-40b5-ab4e-a3b0a8d494d5",
+         "name" : "Wyn Starks",
+         "sortName" : "Starks, Wyn",
+         "disambiguation" : "singer",
+         "url" : "https://www.setlist.fm/setlists/wyn-starks-2bfa58ae.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Star-Spangled Banner",
+               "cover" : {
+                  "mbid" : "6aebec4f-db27-4280-805b-5dd81d5c63cb",
+                  "name" : "John Stafford Smith & Francis Scott Key",
+                  "sortName" : "Smith, John Stafford & Key, Francis Scott",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-stafford-smith-and-francis-scott-key-73f6d6c9.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Perfomed before Brooklyn Nets game.",
+      "url" : "https://www.setlist.fm/setlist/wyn-starks/2025/barclays-center-brooklyn-ny-235944c7.html"
+   }, {
+      "id" : "1b58559c",
+      "versionId" : "g3319682d",
+      "eventDate" : "30-03-2025",
+      "lastUpdated" : "2026-06-24T21:15:09.880+0000",
+      "artist" : {
+         "mbid" : "5bdeb32d-56a5-4b6d-a768-264101fa0a0a",
+         "name" : "J Balvin",
+         "sortName" : "Balvin, J",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/j-balvin-6bd24ea6.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Back to the Rayo"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Doblexxó"
+            }, {
+               "name" : "Reggaeton"
+            }, {
+               "name" : "Amarillo"
+            }, {
+               "name" : "Morado"
+            }, {
+               "name" : "Azul"
+            }, {
+               "name" : "Loco contigo",
+               "cover" : {
+                  "mbid" : "31445b1e-96f3-4c7f-84ec-dd02e647e690",
+                  "name" : "DJ Snake",
+                  "sortName" : "Snake, DJ",
+                  "disambiguation" : "French EDM/trap producer William Grigahcine",
+                  "url" : "https://www.setlist.fm/setlists/dj-snake-5bdf8700.html"
+               }
+            }, {
+               "name" : "Con altura",
+               "cover" : {
+                  "mbid" : "cd72318a-80c3-4fe8-b098-64603d78457d",
+                  "name" : "J Balvin & ROSALÍA",
+                  "sortName" : "Balvin, J & ROSALÍA",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/j-balvin-and-rosalia-1bcbf534.html"
+               }
+            }, {
+               "name" : "Blanco"
+            }, {
+               "name" : "6 AM"
+            }, {
+               "name" : "Ay vamos"
+            }, {
+               "name" : "Safari"
+            }, {
+               "name" : "Ginza"
+            }, {
+               "name" : "Otra vez",
+               "cover" : {
+                  "mbid" : "a06afacd-7894-442e-95ba-49366b2b3e02",
+                  "name" : "Zion & Lennox",
+                  "sortName" : "Zion & Lennox",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zion-and-lennox-33d69c35.html"
+               }
+            }, {
+               "name" : "No es justo"
+            }, {
+               "name" : "Bonita"
+            }, {
+               "name" : "Polvo de tu vida",
+               "cover" : {
+                  "mbid" : "60e7a87a-2a15-42cb-831a-fd699a8d9863",
+                  "name" : "Chencho Corleone",
+                  "sortName" : "Corleone, Chencho",
+                  "disambiguation" : "Orlando Javier Valle Vega, member of reggaeton duo Plan B",
+                  "url" : "https://www.setlist.fm/setlists/chencho-corleone-5bd57f20.html"
+               }
+            }, {
+               "name" : "+57",
+               "cover" : {
+                  "mbid" : "07fcf836-ae91-48e2-986c-d19ec122f8ab",
+                  "name" : "KAROL G & Feid",
+                  "sortName" : "KAROL G & Feid",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/karol-g-and-feid-2390ccd7.html"
+               }
+            }, {
+               "name" : "No me conoce",
+               "cover" : {
+                  "mbid" : "2b67658e-429f-425a-adf5-345b13112fc1",
+                  "name" : "JHAYCO",
+                  "sortName" : "Jhayco",
+                  "disambiguation" : "Jesús Manuel Nieves Cortés, reggaeton singer/producer, formerly Jhay Cortez or Jay el Superdotado",
+                  "url" : "https://www.setlist.fm/setlists/jhayco-2bfd9ca6.html"
+               }
+            }, {
+               "name" : "El preso / Hips Don't Lie / Si antes te hubiera conocido / Según quién"
+            }, {
+               "name" : "El ritmo que nos une",
+               "cover" : {
+                  "mbid" : "2f87ff5c-dd38-4e2f-8a63-ace112b44002",
+                  "name" : "Ryan Castro",
+                  "sortName" : "Castro, Ryan",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ryan-castro-1bf325a0.html"
+               }
+            }, {
+               "name" : "Sigue",
+               "with" : {
+                  "mbid" : "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+                  "name" : "Ed Sheeran",
+                  "sortName" : "Sheeran, Ed",
+                  "disambiguation" : "UK singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/ed-sheeran-53d5f3bd.html"
+               }
+            }, {
+               "name" : "Shape of You",
+               "cover" : {
+                  "mbid" : "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+                  "name" : "Ed Sheeran",
+                  "sortName" : "Sheeran, Ed",
+                  "disambiguation" : "UK singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/ed-sheeran-53d5f3bd.html"
+               },
+               "with" : {
+                  "mbid" : "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+                  "name" : "Ed Sheeran",
+                  "sortName" : "Sheeran, Ed",
+                  "disambiguation" : "UK singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/ed-sheeran-53d5f3bd.html"
+               }
+            }, {
+               "name" : "Qué pretendes / Como un bebé / Ahora / Ambiente / Medusa / Poblado / Sigo extrañándote / X"
+            }, {
+               "name" : "I Like It",
+               "cover" : {
+                  "mbid" : "2f3c4d70-0462-40da-bba3-0aec5772c556",
+                  "name" : "Cardi B",
+                  "sortName" : "Cardi B",
+                  "disambiguation" : "American rapper",
+                  "url" : "https://www.setlist.fm/setlists/cardi-b-13c2e5ad.html"
+               }
+            }, {
+               "name" : "La canción",
+               "cover" : {
+                  "mbid" : "e1d944a4-d724-4096-a408-3ed62ed32855",
+                  "name" : "J Balvin & Bad Bunny",
+                  "sortName" : "Balvin, J & Bad Bunny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/j-balvin-and-bad-bunny-1bf67198.html"
+               }
+            }, {
+               "name" : "Rojo"
+            }, {
+               "name" : "Ahora dice"
+            }, {
+               "name" : "Rio"
+            }, {
+               "name" : "Downtown",
+               "cover" : {
+                  "mbid" : "d606b860-cc03-4959-a3fd-3a24bccf2560",
+                  "name" : "Anitta",
+                  "sortName" : "Anitta",
+                  "disambiguation" : "Brazilian singer",
+                  "url" : "https://www.setlist.fm/setlists/anitta-2bdd840a.html"
+               }
+            }, {
+               "name" : "Say My Name",
+               "cover" : {
+                  "mbid" : "302bd7b9-d012-4360-897a-93b00c855680",
+                  "name" : "David Guetta",
+                  "sortName" : "Guetta, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-guetta-bd6bd96.html"
+               }
+            }, {
+               "name" : "Qué mas pues?",
+               "cover" : {
+                  "mbid" : "a69b643d-2cd9-4914-8a1a-3f3797a7323c",
+                  "name" : "María Becerra",
+                  "sortName" : "Becerra, María",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/maria-becerra-3f2f527.html"
+               }
+            }, {
+               "name" : "Cosa de locos"
+            }, {
+               "name" : "I Adore You",
+               "cover" : {
+                  "mbid" : "eead7215-59da-45f5-b719-62f349ef4133",
+                  "name" : "HUGEL",
+                  "sortName" : "HUGEL",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugel-5bc76f30.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mi gente",
+               "cover" : {
+                  "mbid" : "6bee257e-2120-4bb8-b0c6-ce5d0e7d55a0",
+                  "name" : "J Balvin & Willy William",
+                  "sortName" : "Balvin, J & William, Willy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/j-balvin-and-willy-william-73ccd219.html"
+               }
+            }, {
+               "name" : "RITMO (Bad Boys for Life)",
+               "cover" : {
+                  "mbid" : "d5be5333-4171-427e-8e12-732087c6b78e",
+                  "name" : "Black Eyed Peas",
+                  "sortName" : "Black Eyed Peas",
+                  "disambiguation" : "US pop/hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/black-eyed-peas-33d6bca9.html"
+               }
+            }, {
+               "name" : "Qué calor",
+               "cover" : {
+                  "mbid" : "75be165a-ad83-4d12-bd28-f589a15c479f",
+                  "name" : "Major Lazer",
+                  "sortName" : "Major Lazer",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/major-lazer-1bd4d9e4.html"
+               }
+            }, {
+               "name" : "In da Getto"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/j-balvin/2025/barclays-center-brooklyn-ny-1b58559c.html"
+   }, {
+      "id" : "73587e95",
+      "versionId" : "g53432f35",
+      "eventDate" : "29-03-2025",
+      "lastUpdated" : "2025-03-26T05:00:26.668+0000",
+      "artist" : {
+         "mbid" : "7c5e567c-0f96-4623-a981-fbe67aeaa0c9",
+         "name" : "G.E.M.",
+         "sortName" : "G.E.M.",
+         "disambiguation" : "HK pop singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/gem-5bd0df90.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "I Am Gloria"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gem/2025/barclays-center-brooklyn-ny-73587e95.html"
+   }, {
+      "id" : "b5d9572",
+      "versionId" : "g342e52b",
+      "eventDate" : "14-03-2025",
+      "lastUpdated" : "2025-03-15T11:09:04.982+0000",
+      "artist" : {
+         "mbid" : "b3977da4-f899-4328-921b-ecc599a5618a",
+         "name" : "j‐hope",
+         "sortName" : "j‐hope",
+         "disambiguation" : "BTS",
+         "url" : "https://www.setlist.fm/setlists/jhope-23d984e3.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "HOPE ON THE STAGE"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "What if..."
+            }, {
+               "name" : "Pandora’s Box"
+            }, {
+               "name" : "Arson"
+            }, {
+               "name" : "STOP"
+            }, {
+               "name" : "MORE"
+            }, {
+               "name" : "on the street"
+            }, {
+               "name" : "lock/unlock"
+            }, {
+               "name" : "i don’t know"
+            }, {
+               "name" : "i wonder…"
+            }, {
+               "name" : "Trivia : Just Dance",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Sweet Dreams"
+            }, {
+               "name" : "MONA LISA"
+            }, {
+               "name" : "1 Verse"
+            }, {
+               "name" : "Base Line"
+            }, {
+               "name" : "HANGSANG"
+            }, {
+               "name" : "Airplane"
+            }, {
+               "name" : "Airplane pt.2",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "MIC Drop",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Silver Spoon",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Dis-ease",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Outro : Ego",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Daydream"
+            }, {
+               "name" : "Chicken Noodle Soup"
+            }, {
+               "name" : "Hope World"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "= (Equal Sign)"
+            }, {
+               "name" : "Future"
+            }, {
+               "name" : "NEURON"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jhope/2025/barclays-center-brooklyn-ny-b5d9572.html"
+   }, {
+      "id" : "1b5d957c",
+      "versionId" : "g1342e53d",
+      "eventDate" : "13-03-2025",
+      "lastUpdated" : "2025-03-15T11:07:49.378+0000",
+      "artist" : {
+         "mbid" : "b3977da4-f899-4328-921b-ecc599a5618a",
+         "name" : "j‐hope",
+         "sortName" : "j‐hope",
+         "disambiguation" : "BTS",
+         "url" : "https://www.setlist.fm/setlists/jhope-23d984e3.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "HOPE ON THE STAGE"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "What if..."
+            }, {
+               "name" : "Pandora’s Box"
+            }, {
+               "name" : "Arson"
+            }, {
+               "name" : "STOP"
+            }, {
+               "name" : "MORE"
+            }, {
+               "name" : "on the street",
+               "info" : "solo ver."
+            }, {
+               "name" : "lock/unlock"
+            }, {
+               "name" : "i don’t know"
+            }, {
+               "name" : "i wonder…"
+            }, {
+               "name" : "Trivia : Just Dance",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Sweet Dreams"
+            }, {
+               "name" : "MONA LISA",
+               "info" : "World Premiere"
+            }, {
+               "name" : "1 Verse"
+            }, {
+               "name" : "Base Line"
+            }, {
+               "name" : "HANGSANG"
+            }, {
+               "name" : "Airplane"
+            }, {
+               "name" : "Airplane pt.2",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "MIC Drop",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Silver Spoon",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Dis-ease",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Outro : Ego",
+               "cover" : {
+                  "mbid" : "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+                  "name" : "BTS",
+                  "sortName" : "BTS",
+                  "disambiguation" : "South Korean boy group",
+                  "url" : "https://www.setlist.fm/setlists/bts-3bdd50e4.html"
+               }
+            }, {
+               "name" : "Daydream"
+            }, {
+               "name" : "Chicken Noodle Soup"
+            }, {
+               "name" : "Hope World"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "= (Equal Sign)"
+            }, {
+               "name" : "Future"
+            }, {
+               "name" : "NEURON"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jhope/2025/barclays-center-brooklyn-ny-1b5d957c.html"
+   }, {
+      "id" : "1b5b99f0",
+      "versionId" : "g73464ea1",
+      "eventDate" : "09-03-2025",
+      "lastUpdated" : "2025-02-19T05:41:43.362+0000",
+      "artist" : {
+         "mbid" : "b8582c50-2e88-4d2e-a064-d287d6276be5",
+         "name" : "Zhou Shen",
+         "sortName" : "Zhou, Shen",
+         "disambiguation" : "mainland Chinese singer",
+         "url" : "https://www.setlist.fm/setlists/zhou-shen-73f24641.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zhou-shen/2025/barclays-center-brooklyn-ny-1b5b99f0.html"
+   }, {
+      "id" : "7b587a80",
+      "versionId" : "g334fec79",
+      "eventDate" : "22-02-2025",
+      "lastUpdated" : "2025-04-24T08:13:55.063+0000",
+      "artist" : {
+         "mbid" : "e5d8c705-8ea4-4820-b11d-fbf580d85ce4",
+         "name" : "JJ Lin",
+         "sortName" : "Lin, JJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jj-lin-1bd1a544.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "JJ20 World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "The Timekeeper",
+            "song" : [ {
+               "name" : "A Thousand Years Later"
+            }, {
+               "name" : "Brave New World"
+            }, {
+               "name" : "No.89757"
+            }, {
+               "name" : "Wonderland"
+            }, {
+               "name" : "Freeze"
+            } ]
+         }, {
+            "name" : "The Romantic",
+            "song" : [ {
+               "name" : "Wall"
+            }, {
+               "name" : "Always Online"
+            }, {
+               "name" : "The Key"
+            } ]
+         }, {
+            "name" : "The Boy",
+            "song" : [ {
+               "name" : "Dimples"
+            }, {
+               "name" : "A Song For You Till The End Of Time"
+            }, {
+               "name" : "Self Portrait"
+            }, {
+               "name" : "Whenever"
+            } ]
+         }, {
+            "name" : "The Broken",
+            "song" : [ {
+               "name" : "The Lost Ones"
+            }, {
+               "name" : "Romantic Mystery"
+            }, {
+               "name" : "Those Were The Days"
+            } ]
+         }, {
+            "name" : "The Darkness",
+            "song" : [ {
+               "name" : "The Killa"
+            }, {
+               "name" : "Cyber Ritual",
+               "with" : {
+                  "mbid" : "19f820c2-9d82-4079-990a-5ab24e36924d",
+                  "name" : "Jasmine Sokko",
+                  "sortName" : "Sokko, Jasmine",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jasmine-sokko-bcc0d82.html"
+               }
+            }, {
+               "name" : "Burnout Dynasty",
+               "info" : "(Jasmine Sokko)"
+            }, {
+               "name" : "Dust and Ashes"
+            }, {
+               "name" : "Not Tonight"
+            } ]
+         }, {
+            "name" : "The Fighter",
+            "song" : [ {
+               "name" : "Unchained"
+            }, {
+               "name" : "Shut Up"
+            }, {
+               "name" : "Sanctuary"
+            }, {
+               "name" : "Tales of the Red Cliff"
+            }, {
+               "name" : "Love Chronicles"
+            }, {
+               "name" : "Cao Cao"
+            } ]
+         }, {
+            "name" : "The Healer",
+            "song" : [ {
+               "name" : "Remember"
+            }, {
+               "name" : "She Says"
+            }, {
+               "name" : "Cloudy Day"
+            }, {
+               "name" : "By Your Side (Theme Song of ''The Secret'')"
+            }, {
+               "name" : "Love Yogurt"
+            }, {
+               "name" : "Simply"
+            }, {
+               "name" : "We Will"
+            }, {
+               "name" : "If Only"
+            }, {
+               "name" : "Back to Back"
+            }, {
+               "name" : "Practice Love"
+            }, {
+               "name" : "You N Me"
+            }, {
+               "name" : "7300+ Days"
+            }, {
+               "name" : "High Fashion"
+            }, {
+               "name" : "River South"
+            } ]
+         }, {
+            "name" : "The Turn of a Page",
+            "song" : [ {
+               "name" : "Twilight"
+            }, {
+               "name" : "Above The Fray"
+            }, {
+               "name" : "No Turning Back"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/jj-lin/2025/barclays-center-brooklyn-ny-7b587a80.html"
+   }, {
+      "id" : "b5a3926",
+      "versionId" : "g13757981",
+      "eventDate" : "06-02-2025",
+      "lastUpdated" : "2025-07-11T01:17:12.972+0000",
+      "artist" : {
+         "mbid" : "e6de1f3b-6484-491c-88dd-6d619f142abc",
+         "name" : "Hans Zimmer",
+         "sortName" : "Zimmer, Hans",
+         "disambiguation" : "German score composer",
+         "url" : "https://www.setlist.fm/setlists/hans-zimmer-73d6b675.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Hans Zimmer Live 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "A Time of Quiet Between the Storms"
+            }, {
+               "name" : "Mombasa"
+            }, {
+               "name" : "Wonder Woman Suite: Part 1"
+            }, {
+               "name" : "Wonder Woman Suite: Part 2"
+            }, {
+               "name" : "Wonder Woman Suite: Part 3"
+            }, {
+               "name" : "What Are You Going to Do When You Are Not Saving the World?"
+            }, {
+               "name" : "Man of Steel Suite: Part 2"
+            }, {
+               "name" : "Gladiator Suite: Part 1"
+            }, {
+               "name" : "Gladiator Suite: Part 2"
+            }, {
+               "name" : "Now We Are Free",
+               "info" : "Gladiator"
+            }, {
+               "name" : "Gladiator Suite: Part 4"
+            }, {
+               "name" : "Jack Sparrow"
+            }, {
+               "name" : "Pirates of the Caribbean Suite: Part 2"
+            }, {
+               "name" : "Pirates of the Caribbean Suite: Part 3"
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "House Atreides"
+            }, {
+               "name" : "The Dark Knight Suite: Part 1"
+            }, {
+               "name" : "The Dark Knight Suite: Part 2"
+            }, {
+               "name" : "The Last Samurai Suite: Part 1"
+            }, {
+               "name" : "The Last Samurai Suite: Part 2"
+            }, {
+               "name" : "The Last Samurai Suite: Part 3"
+            }, {
+               "name" : "X-MDP"
+            }, {
+               "name" : "Paul's Dream"
+            }, {
+               "name" : "Day One",
+               "info" : "Interstellar"
+            }, {
+               "name" : "No Time for Caution",
+               "info" : "Interstellar"
+            }, {
+               "name" : "The Lion King Suite: Part 1",
+               "with" : {
+                  "mbid" : "a966b097-7981-40c5-82b4-79c6fe28932c",
+                  "name" : "Lebo M",
+                  "sortName" : "M, Lebo",
+                  "disambiguation" : "producer/composer Lebohang Morake",
+                  "url" : "https://www.setlist.fm/setlists/lebo-m-43d7bff7.html"
+               }
+            }, {
+               "name" : "The Lion King Suite: Part 2"
+            }, {
+               "name" : "The Lion King Suite: Part 3",
+               "with" : {
+                  "mbid" : "a966b097-7981-40c5-82b4-79c6fe28932c",
+                  "name" : "Lebo M",
+                  "sortName" : "M, Lebo",
+                  "disambiguation" : "producer/composer Lebohang Morake",
+                  "url" : "https://www.setlist.fm/setlists/lebo-m-43d7bff7.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "No Time to Die Suite"
+            }, {
+               "name" : "Time"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hans-zimmer/2025/barclays-center-brooklyn-ny-b5a3926.html"
+   } ]
+}

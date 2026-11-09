@@ -1,0 +1,1292 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 211,
+   "setlist" : [ {
+      "id" : "73ae5ea9",
+      "versionId" : "g35b698b",
+      "eventDate" : "15-12-2023",
+      "lastUpdated" : "2025-01-24T17:10:25.594+0000",
+      "artist" : {
+         "mbid" : "1fc494a1-9109-4081-a455-2d05bea9d2bf",
+         "name" : "Ingrid Michaelson",
+         "sortName" : "Michaelson, Ingrid",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ingrid-michaelson-53d6bfed.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Rockin' Around the Christmas Tree",
+               "cover" : {
+                  "mbid" : "6ca4886a-8f77-4133-b404-46fb3908e24a",
+                  "name" : "Brenda Lee",
+                  "sortName" : "Lee, Brenda",
+                  "disambiguation" : "1960s American singer",
+                  "url" : "https://www.setlist.fm/setlists/brenda-lee-63d69a5f.html"
+               }
+            }, {
+               "name" : "Christmas Valentine"
+            }, {
+               "name" : "It's Almost Christmas",
+               "with" : {
+                  "mbid" : "6d321822-96a8-4fb3-9253-e3bd3a5634bb",
+                  "name" : "Ian Axel",
+                  "sortName" : "Axel, Ian",
+                  "disambiguation" : "singer and composer",
+                  "url" : "https://www.setlist.fm/setlists/ian-axel-6bd0fef6.html"
+               }
+            }, {
+               "name" : "Mele Kalikimaka",
+               "cover" : {
+                  "mbid" : "f5f22a9c-a00c-49f9-8123-329b632da79c",
+                  "name" : "The Andrews Sisters",
+                  "sortName" : "Andrews Sisters, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-andrews-sisters-6bd69aca.html"
+               }
+            }, {
+               "name" : "The Chain",
+               "with" : {
+                  "mbid" : "35a8601b-d0cb-4958-83ff-5547c68fba60",
+                  "name" : "Joy Woods",
+                  "sortName" : "Woods, Joy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joy-woods-33f02cf9.html"
+               }
+            }, {
+               "name" : "Christmas Lights"
+            }, {
+               "name" : "I'll Be Home for Christmas (If Only in My Dreams)",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               },
+               "with" : {
+                  "mbid" : "02ebd1ea-332d-4a6c-a487-721aa44766a0",
+                  "name" : "Will Chase",
+                  "sortName" : "Chase, Will",
+                  "disambiguation" : "American actor and singer",
+                  "url" : "https://www.setlist.fm/setlists/will-chase-7bdcba00.html"
+               }
+            }, {
+               "name" : "Snowfall"
+            }, {
+               "name" : "If This Is Love"
+            }, {
+               "name" : "Winter Song"
+            }, {
+               "name" : "You and I"
+            }, {
+               "name" : "Be OK"
+            }, {
+               "name" : "The Way I Am"
+            }, {
+               "name" : "Girls Chase Boys"
+            }, {
+               "name" : "Merry Christmas, Happy New Year"
+            }, {
+               "name" : "Jingle Bells / White Christmas / I Have a Little Dreidel / Rudolph the Red-Nosed Reindeer / The Christmas Song)"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Have Yourself a Merry Little Christmas",
+               "cover" : {
+                  "mbid" : "46f29ffe-7479-4365-bfd0-fd8f2bb1c7bf",
+                  "name" : "Hugh Martin",
+                  "sortName" : "Martin, Hugh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hugh-martin-33d27405.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "17th Annual Holiday Hop",
+      "url" : "https://www.setlist.fm/setlist/ingrid-michaelson/2023/webster-hall-new-york-ny-73ae5ea9.html"
+   }, {
+      "id" : "7bae1220",
+      "versionId" : "g5bb95308",
+      "eventDate" : "11-12-2023",
+      "lastUpdated" : "2024-06-09T11:30:24.998+0000",
+      "artist" : {
+         "mbid" : "05f3353e-e2d9-4344-a3c9-8009dd8e0427",
+         "name" : "Sky Ferreira",
+         "sortName" : "Ferreira, Sky",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sky-ferreira-2bd52c1e.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "US Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Boys"
+            }, {
+               "name" : "24 Hours"
+            }, {
+               "name" : "Ain't Your Right"
+            }, {
+               "name" : "Guardian"
+            }, {
+               "name" : "Downhill Lullaby"
+            }, {
+               "name" : "Lost in My Bedroom"
+            }, {
+               "name" : "I Blame Myself"
+            }, {
+               "name" : "I Will"
+            }, {
+               "name" : "Hands All Over Me",
+               "cover" : {
+                  "mbid" : "ec0b5da9-c023-45b7-b5ac-f53657a42938",
+                  "name" : "Tamaryn",
+                  "sortName" : "Tamaryn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tamaryn-73d5eac9.html"
+               }
+            }, {
+               "name" : "Nobody Asked Me (If I Was Okay)"
+            }, {
+               "name" : "Don't Forget"
+            }, {
+               "name" : "Voices Carry",
+               "cover" : {
+                  "mbid" : "8cf8869d-e066-4c94-b734-fe05749badf0",
+                  "name" : "’Til Tuesday",
+                  "sortName" : "Til Tuesday",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/til-tuesday-3bd6a454.html"
+               }
+            }, {
+               "name" : "Innocent Kind"
+            }, {
+               "name" : "Heavy Metal Heart"
+            }, {
+               "name" : "Night Time, My Time",
+               "info" : "Instrumental outro ended prematurely"
+            }, {
+               "name" : "You're Not the One"
+            }, {
+               "name" : "Omanko"
+            }, {
+               "name" : "All My Lovers Die"
+            }, {
+               "name" : "Sad Dream",
+               "info" : "alone with guitarist"
+            }, {
+               "name" : "Everything Is Embarrassing"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sky-ferreira/2023/webster-hall-new-york-ny-7bae1220.html"
+   }, {
+      "id" : "bae092a",
+      "versionId" : "g362c197",
+      "eventDate" : "09-12-2023",
+      "lastUpdated" : "2025-11-17T01:39:06.075+0000",
+      "artist" : {
+         "mbid" : "fc247843-807e-4a9d-bcd8-4d29ed54f296",
+         "name" : "The Backfires",
+         "sortName" : "Backfires, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-backfires-13f8c1ed.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Joyride"
+            }, {
+               "name" : "Anything"
+            }, {
+               "name" : "Preoccupied"
+            }, {
+               "name" : "Reflections on My TV"
+            }, {
+               "name" : "Song 55"
+            }, {
+               "name" : "Going Gets Easy"
+            }, {
+               "name" : "Aphrodite",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Blindsided"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-backfires/2023/webster-hall-new-york-ny-bae092a.html"
+   }, {
+      "id" : "6baa265e",
+      "versionId" : "g6bb32a2a",
+      "eventDate" : "09-12-2023",
+      "lastUpdated" : "2024-03-18T01:38:15.246+0000",
+      "artist" : {
+         "mbid" : "c10e4c24-5b1f-4933-acd3-ab2cb3a6b800",
+         "name" : "Matilda Marigolds",
+         "sortName" : "Marigolds, Matilda",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/matilda-marigolds-7bfc0ea4.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Life",
+               "with" : {
+                  "mbid" : "f3141f03-a60c-4831-8486-1d0f883001db",
+                  "name" : "LAUNDRY DAY",
+                  "sortName" : "LAUNDRY DAY",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/laundry-day-23f6d48f.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/matilda-marigolds/2023/webster-hall-new-york-ny-6baa265e.html"
+   }, {
+      "id" : "33ae0c49",
+      "versionId" : "g53b257a5",
+      "eventDate" : "09-12-2023",
+      "lastUpdated" : "2024-03-12T02:11:11.105+0000",
+      "artist" : {
+         "mbid" : "f3141f03-a60c-4831-8486-1d0f883001db",
+         "name" : "LAUNDRY DAY",
+         "sortName" : "LAUNDRY DAY",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/laundry-day-23f6d48f.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Summer Wind",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "197450cd-0124-4164-b723-3c22dd16494d",
+                  "name" : "Frank Sinatra",
+                  "sortName" : "Sinatra, Frank",
+                  "disambiguation" : "American singer and actor, “Ol’ Blue Eyes”",
+                  "url" : "https://www.setlist.fm/setlists/frank-sinatra-73d69af5.html"
+               }
+            }, {
+               "name" : "Dysmorphia"
+            }, {
+               "name" : "BULLDOG"
+            }, {
+               "name" : "FRIENDS"
+            }, {
+               "name" : "Y.K.Y.N.U.N.Y."
+            }, {
+               "name" : "Breath",
+               "info" : "Live debut"
+            }, {
+               "name" : "Bitter",
+               "info" : "Live debut"
+            }, {
+               "name" : "My Life",
+               "with" : {
+                  "mbid" : "c10e4c24-5b1f-4933-acd3-ab2cb3a6b800",
+                  "name" : "Matilda Marigolds",
+                  "sortName" : "Marigolds, Matilda",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/matilda-marigolds-7bfc0ea4.html"
+               }
+            }, {
+               "name" : "Jane"
+            }, {
+               "name" : "State of Mind",
+               "info" : "First time live since 2018; crowd request; not on printed setlist"
+            } ]
+         } ]
+      },
+      "info" : "Final show with Etai Abramovich on drums. Opening for Quarters of Change. Select songs with Jackson August on saxophone. \"Little Bird\" on the printed setlist, but not played. Set cut short due to overtime.",
+      "url" : "https://www.setlist.fm/setlist/laundry-day/2023/webster-hall-new-york-ny-33ae0c49.html"
+   }, {
+      "id" : "2bae145e",
+      "versionId" : "g3abbd6b",
+      "eventDate" : "09-12-2023",
+      "lastUpdated" : "2024-09-10T18:21:48.659+0000",
+      "artist" : {
+         "mbid" : "fa18a8d7-19e6-4ea3-a568-0bba65187698",
+         "name" : "Quarters",
+         "sortName" : "Quarters",
+         "disambiguation" : "American alt-indie rock band",
+         "url" : "https://www.setlist.fm/setlists/quarters-3bf21864.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Look Alive"
+            }, {
+               "name" : "What I Wanted"
+            }, {
+               "name" : "Chloe",
+               "info" : "Abridged; no bridge and 3rd chorus"
+            }, {
+               "name" : "Blue Copper"
+            }, {
+               "name" : "Do or Die"
+            }, {
+               "name" : "Ms. Dramatic"
+            }, {
+               "name" : "Heaven Bound"
+            }, {
+               "name" : "Sofia"
+            }, {
+               "name" : "Jaded"
+            }, {
+               "name" : "Hollywood Baby"
+            }, {
+               "name" : "Dead"
+            }, {
+               "name" : "Kiwi"
+            }, {
+               "name" : "T Love"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Die in Your Arms",
+               "info" : "Acoustic; Ben solo, dedicated to his dad"
+            }, {
+               "name" : "Rift"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/quarters/2023/webster-hall-new-york-ny-2bae145e.html"
+   }, {
+      "id" : "23ae24cf",
+      "versionId" : "g434b1b67",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2025-05-27T03:36:28.312+0000",
+      "artist" : {
+         "mbid" : "ba8520a7-e14a-4ba6-9ab5-1fab4d0a154f",
+         "name" : "Ashley McBryde",
+         "sortName" : "McBryde, Ashley",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ashley-mcbryde-63cc1e7f.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Blackout Betty"
+            }, {
+               "name" : "One Night Standards"
+            }, {
+               "name" : "Brenda Put Your Bra On"
+            }, {
+               "name" : "Whiskey and Country Music"
+            }, {
+               "name" : "Single at the Same Time"
+            }, {
+               "name" : "Rattlesnake Preacher",
+               "info" : "Often misnamed as “Ain't Enough Water in the River”"
+            }, {
+               "name" : "Made for This"
+            }, {
+               "name" : "Girl Goin' Nowhere"
+            }, {
+               "name" : "First Thing I Reach For"
+            }, {
+               "name" : "Cool Little Bars"
+            }, {
+               "name" : "Learned to Lie"
+            }, {
+               "name" : "Women Ain't Whiskey"
+            }, {
+               "name" : "Sparrow"
+            }, {
+               "name" : "6th of October"
+            }, {
+               "name" : "Coldest Beer in Town"
+            }, {
+               "name" : "El Dorado"
+            }, {
+               "name" : "Tired of Being Happy"
+            }, {
+               "name" : "A Little Dive Bar in Dahlonega"
+            }, {
+               "name" : "Light On in the Kitchen"
+            }, {
+               "name" : "The Devil I Know"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ashley-mcbryde/2023/webster-hall-new-york-ny-23ae24cf.html"
+   }, {
+      "id" : "23ae24c3",
+      "versionId" : "gb8da552",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2023-12-08T08:36:44.739+0000",
+      "artist" : {
+         "mbid" : "c7a9f284-46f6-483e-83e7-3e8a20a57382",
+         "name" : "Kasey Tyndall",
+         "sortName" : "Tyndall, Kasey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kasey-tyndall-6bcf6ea2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kasey-tyndall/2023/webster-hall-new-york-ny-23ae24c3.html"
+   }, {
+      "id" : "3ae317b",
+      "versionId" : "g738c4ab1",
+      "eventDate" : "07-12-2023",
+      "lastUpdated" : "2023-12-07T05:42:12.604+0000",
+      "artist" : {
+         "mbid" : "b46efb1e-ecd9-4044-9820-14c64c2d657e",
+         "name" : "Romy",
+         "sortName" : "Romy",
+         "disambiguation" : "Romy Madley Croft, of The xx",
+         "url" : "https://www.setlist.fm/setlists/romy-3bd55c4c.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Club Mid Air"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/romy/2023/webster-hall-new-york-ny-3ae317b.html"
+   }, {
+      "id" : "3356dc21",
+      "versionId" : "g33b82085",
+      "eventDate" : "07-12-2023",
+      "lastUpdated" : "2024-05-29T08:24:20.381+0000",
+      "artist" : {
+         "mbid" : "33c60988-ede6-4337-83e8-95825704d194",
+         "name" : "Doss",
+         "sortName" : "Doss",
+         "disambiguation" : "US electronic",
+         "url" : "https://www.setlist.fm/setlists/doss-13d8b53d.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/doss/2023/webster-hall-new-york-ny-3356dc21.html"
+   }, {
+      "id" : "13aec9c9",
+      "versionId" : "g438c5f2f",
+      "eventDate" : "04-12-2023",
+      "lastUpdated" : "2023-12-06T13:59:58.463+0000",
+      "artist" : {
+         "mbid" : "00c49f40-d715-4b79-b223-432048602cce",
+         "name" : "Indigo Girls",
+         "sortName" : "Indigo Girls",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/indigo-girls-2bd6a4b2.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fill It Up Again"
+            }, {
+               "name" : "Devotion"
+            }, {
+               "name" : "Power of Two"
+            }, {
+               "name" : "Howl at the Moon"
+            }, {
+               "name" : "When We Were Writers"
+            }, {
+               "name" : "Ozilline"
+            }, {
+               "name" : "She's Saving Me"
+            }, {
+               "name" : "Making Promises"
+            }, {
+               "name" : "Pendulum Swinger"
+            }, {
+               "name" : "Faye Tucker"
+            }, {
+               "name" : "Come on Home"
+            }, {
+               "name" : "Kid Fears"
+            }, {
+               "name" : "Shit Kickin'"
+            }, {
+               "name" : "The Wood Song"
+            }, {
+               "name" : "Get Out the Map"
+            }, {
+               "name" : "Reunion"
+            }, {
+               "name" : "Look Long"
+            }, {
+               "name" : "Go"
+            }, {
+               "name" : "Closer to Fine"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Share the Moon"
+            }, {
+               "name" : "Galileo"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/indigo-girls/2023/webster-hall-new-york-ny-13aec9c9.html"
+   }, {
+      "id" : "43aee727",
+      "versionId" : "g234ce0ef",
+      "eventDate" : "01-12-2023",
+      "lastUpdated" : "2025-05-01T20:37:25.075+0000",
+      "artist" : {
+         "mbid" : "8ef1df30-ae4f-4dbd-9351-1a32b208a01e",
+         "name" : "Alicia Keys",
+         "sortName" : "Keys, Alicia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alicia-keys-43d6bf97.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Harlem's Nocturne"
+            }, {
+               "name" : "Karma"
+            }, {
+               "name" : "Heartburn"
+            }, {
+               "name" : "If I Was Your Woman / Walk On By"
+            }, {
+               "name" : "You Don't Know My Name"
+            }, {
+               "name" : "If I Ain't Got You"
+            }, {
+               "name" : "Diary",
+               "with" : {
+                  "mbid" : "e947e4e9-fe05-4cd6-8c59-ee33b05610d9",
+                  "name" : "Jermaine Paul",
+                  "sortName" : "Paul, Jermaine",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jermaine-paul-73d142f1.html"
+               }
+            }, {
+               "name" : "Dragon Days"
+            }, {
+               "name" : "Wake Up"
+            }, {
+               "name" : "So Simple"
+            }, {
+               "name" : "When You Really Love Someone"
+            }, {
+               "name" : "Feeling U, Feeling Me"
+            }, {
+               "name" : "Slow Down"
+            }, {
+               "name" : "Samsonite Man"
+            }, {
+               "name" : "Nobody Not Really"
+            }, {
+               "name" : "Golden Child"
+            }, {
+               "name" : "Lifeline"
+            }, {
+               "name" : "Empire State of Mind (Part II) Broken Down"
+            } ]
+         } ]
+      },
+      "info" : "20th anniversary of The Diary Of Alicia Keys",
+      "url" : "https://www.setlist.fm/setlist/alicia-keys/2023/webster-hall-new-york-ny-43aee727.html"
+   }, {
+      "id" : "3baeec54",
+      "versionId" : "g4307f37b",
+      "eventDate" : "30-11-2023",
+      "lastUpdated" : "2026-07-06T04:25:12.362+0000",
+      "artist" : {
+         "mbid" : "dd158dc3-33a8-45aa-af0c-d9bf13905d0a",
+         "name" : "Gus Dapperton",
+         "sortName" : "Dapperton, Gus",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gus-dapperton-23cd1c1b.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Henge"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fly Me to the Moon (In Other Words)",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "7ea432e4-128a-4ee1-8aed-c83e2e4c40c0",
+                  "name" : "Kaye Ballard",
+                  "sortName" : "Ballard, Kaye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kaye-ballard-43d3bf6f.html"
+               }
+            }, {
+               "name" : "Sunset"
+            }, {
+               "name" : "Palms"
+            }, {
+               "name" : "Give It To Me Straight"
+            }, {
+               "name" : "Ditch"
+            }, {
+               "name" : "Prune, You Talk Funny"
+            }, {
+               "name" : "My Favorite Fish",
+               "info" : "With 'In My Feelings' by Drake intro"
+            }, {
+               "name" : "Medicine"
+            }, {
+               "name" : "Gum, Toe and Sole"
+            }, {
+               "name" : "I'm Just Snacking"
+            }, {
+               "name" : "I'm on Fire",
+               "cover" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               }
+            }, {
+               "name" : "Flatline",
+               "info" : "Mystery song"
+            }, {
+               "name" : "First Aid"
+            }, {
+               "name" : "Midnight Train"
+            }, {
+               "name" : "DONTTRUSTME",
+               "cover" : {
+                  "mbid" : "125948ec-7f91-4d1a-8b83-accbf50fae3d",
+                  "name" : "3OH!3",
+                  "sortName" : "3OH!3",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/3oh3-13d651f1.html"
+               }
+            }, {
+               "name" : "Fill Me Up Anthem"
+            }, {
+               "name" : "Wet Cement"
+            }, {
+               "name" : "Don't Let Me Down"
+            }, {
+               "name" : "Post Humorous"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Horizons"
+            }, {
+               "name" : "Twist and Shout",
+               "cover" : {
+                  "mbid" : "f18eac60-48d2-4d2b-b432-e43ce7e31d36",
+                  "name" : "The Top Notes",
+                  "sortName" : "Top Notes, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-top-notes-53d433dd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gus-dapperton/2023/webster-hall-new-york-ny-3baeec54.html"
+   }, {
+      "id" : "73aea2d1",
+      "versionId" : "g3b4528d0",
+      "eventDate" : "29-11-2023",
+      "lastUpdated" : "2025-03-08T20:15:18.225+0000",
+      "artist" : {
+         "mbid" : "d475788f-837d-4f96-9eec-2f5e32d7d163",
+         "name" : "Imperial Triumphant",
+         "sortName" : "Imperial Triumphant",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/imperial-triumphant-43dbdb2b.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/imperial-triumphant/2023/webster-hall-new-york-ny-73aea2d1.html"
+   }, {
+      "id" : "63aea2d7",
+      "versionId" : "g4b8f7376",
+      "eventDate" : "29-11-2023",
+      "lastUpdated" : "2023-11-27T01:02:14.289+0000",
+      "artist" : {
+         "mbid" : "cdf4785a-e2da-47b0-b98c-4bfac0665850",
+         "name" : "Sheer Mag",
+         "sortName" : "Sheer Mag",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sheer-mag-6bc60256.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sheer-mag/2023/webster-hall-new-york-ny-63aea2d7.html"
+   }, {
+      "id" : "63aea2d3",
+      "versionId" : "g738c96dd",
+      "eventDate" : "29-11-2023",
+      "lastUpdated" : "2023-11-30T04:43:26.502+0000",
+      "artist" : {
+         "mbid" : "eeb41a1e-4326-4d04-8c47-0f564ceecd68",
+         "name" : "Baroness",
+         "sortName" : "Baroness",
+         "disambiguation" : "metal group from Savannah, GA",
+         "url" : "https://www.setlist.fm/setlists/baroness-53d63b31.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Sweet Oblivion"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Last Word"
+            }, {
+               "name" : "The Sweetest Curse"
+            }, {
+               "name" : "A Horse Called Golgotha"
+            }, {
+               "name" : "March to the Sea"
+            }, {
+               "name" : "Beneath the Rose"
+            }, {
+               "name" : "Under the Wheel"
+            }, {
+               "name" : "Cocainium"
+            }, {
+               "name" : "Anodyne"
+            }, {
+               "name" : "Chlorine & Wine"
+            }, {
+               "name" : "Seasons"
+            }, {
+               "name" : "If I Have to Wake Up (Would You Stop the Rain?) / Fugue"
+            }, {
+               "name" : "Shock Me"
+            }, {
+               "name" : "The Gnashing"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Isak"
+            }, {
+               "name" : "Take My Bones Away"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/baroness/2023/webster-hall-new-york-ny-63aea2d3.html"
+   }, {
+      "id" : "23a1603b",
+      "versionId" : "g4b8f9b32",
+      "eventDate" : "18-11-2023",
+      "lastUpdated" : "2023-11-21T02:25:21.193+0000",
+      "artist" : {
+         "mbid" : "6f550455-03b6-4bbb-bad8-4f9ad767aad5",
+         "name" : "Lukas Nelson & Promise of the Real",
+         "sortName" : "Nelson, Lukas & Promise of the Real",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lukas-nelson-and-promise-of-the-real-1bd375a0.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sticks and Stones"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lukas-nelson-and-promise-of-the-real/2023/webster-hall-new-york-ny-23a1603b.html"
+   }, {
+      "id" : "73a10675",
+      "versionId" : "g138e7901",
+      "eventDate" : "17-11-2023",
+      "lastUpdated" : "2023-11-18T00:18:27.166+0000",
+      "artist" : {
+         "mbid" : "bbdc77fc-1ef2-4a91-b829-0f7047c62104",
+         "name" : "Bonny Doon",
+         "sortName" : "Bonny Doon",
+         "disambiguation" : "Us indie rock band",
+         "url" : "https://www.setlist.fm/setlists/bonny-doon-33cfc0e1.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bonny-doon/2023/webster-hall-new-york-ny-73a10675.html"
+   }, {
+      "id" : "63a12ecf",
+      "versionId" : "g3b8e741c",
+      "eventDate" : "17-11-2023",
+      "lastUpdated" : "2023-11-18T03:31:47.768+0000",
+      "artist" : {
+         "mbid" : "9969f247-ce03-4b25-927f-c00c51ecedbe",
+         "name" : "Slaughter Beach, Dog",
+         "sortName" : "Slaughter Beach, Dog",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/slaughter-beach-dog-33c07cb9.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "tour" : {
+         "name" : "Crying Laughing Waving Smiling Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bobcat Club"
+            }, {
+               "name" : "Strange Weather"
+            }, {
+               "name" : "Float Away"
+            }, {
+               "name" : "My Sister in Jesus Christ"
+            }, {
+               "name" : "Do You Understand (What Has Happened to You)"
+            }, {
+               "name" : "Are You There"
+            }, {
+               "name" : "My Girl"
+            }, {
+               "name" : "Black Oak"
+            }, {
+               "name" : "Tommy"
+            }, {
+               "name" : "Engine"
+            }, {
+               "name" : "Acolyte"
+            }, {
+               "name" : "Fish Fry"
+            }, {
+               "name" : "At the Moonbase"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Summer Windows"
+            }, {
+               "name" : "Your Cat"
+            }, {
+               "name" : "104 Degrees"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/slaughter-beach-dog/2023/webster-hall-new-york-ny-63a12ecf.html"
+   }, {
+      "id" : "63a1066b",
+      "versionId" : "g2b8e7822",
+      "eventDate" : "17-11-2023",
+      "lastUpdated" : "2023-11-18T00:56:54.406+0000",
+      "artist" : {
+         "mbid" : "63ff2e03-85da-4529-b046-125dfd2f5550",
+         "name" : "Erin Rae",
+         "sortName" : "Rae, Erin",
+         "disambiguation" : "Nashville singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/erin-rae-53cb4f91.html"
+      },
+      "venue" : {
+         "id" : "6bd63a96",
+         "name" : "Webster Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/webster-hall-new-york-ny-usa-6bd63a96.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : ""
+            }, {
+               "name" : "Lighten Up & Try"
+            }, {
+               "name" : ""
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Putting on Airs"
+            }, {
+               "name" : "Can’t Cut Loose"
+            }, {
+               "name" : ""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/erin-rae/2023/webster-hall-new-york-ny-63a1066b.html"
+   } ]
+}

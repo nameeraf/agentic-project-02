@@ -1,0 +1,809 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 109,
+   "setlist" : [ {
+      "id" : "335a4c3d",
+      "versionId" : "g7b46daec",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-02-15T01:07:32.536+0000",
+      "artist" : {
+         "mbid" : "78b7c31c-97cb-4f06-be5c-5c2e5a7c87bc",
+         "name" : "Jimmy Fallon",
+         "sortName" : "Fallon, Jimmy",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/jimmy-fallon-bd7f996.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Soul Man",
+               "cover" : {
+                  "mbid" : "f1d7f1fd-8883-47e9-ad2b-e9ec9ff61aac",
+                  "name" : "Sam & Dave",
+                  "sortName" : "Sam & Dave",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sam-and-dave-3bd6b838.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jimmy-fallon/2025/radio-city-music-hall-new-york-ny-335a4c3d.html"
+   }, {
+      "id" : "335a4c21",
+      "versionId" : "g346d577",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-02-15T01:35:20.461+0000",
+      "artist" : {
+         "mbid" : "2c63ab97-9552-4916-b4d2-c2ac11a2a51e",
+         "name" : "Bill Murray",
+         "sortName" : "Murray, Bill",
+         "disambiguation" : "American actor",
+         "url" : "https://www.setlist.fm/setlists/bill-murray-4bd74b2a.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "You're All I Need to Get By",
+               "cover" : {
+                  "mbid" : "d4fb481f-d9f2-4f53-9039-b6b52ec388bc",
+                  "name" : "Marvin Gaye & Tammi Terrell",
+                  "sortName" : "Gaye, Marvin & Terrell, Tammi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marvin-gaye-and-tammi-terrell-3d68d1b.html"
+               },
+               "info" : "also with Ana Gasteyer, Maya Rudolph and Cecily Strong",
+               "with" : {
+                  "mbid" : "2944725e-3dcb-432e-b575-0bed5cef3504",
+                  "name" : "Paul Shaffer",
+                  "sortName" : "Shaffer, Paul",
+                  "disambiguation" : "pianist, bandleader, Dave Letterman's sidekick",
+                  "url" : "https://www.setlist.fm/setlists/paul-shaffer-6bd666de.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "performing as Nick Valentine",
+      "url" : "https://www.setlist.fm/setlist/bill-murray/2025/radio-city-music-hall-new-york-ny-335a4c21.html"
+   }, {
+      "id" : "2b5a4c8a",
+      "versionId" : "g6b46ca56",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-02-15T15:13:25.528+0000",
+      "artist" : {
+         "mbid" : "dbd983a4-5395-41b8-98ec-56fc62412586",
+         "name" : "Will Ferrell",
+         "sortName" : "Ferrell, Will",
+         "disambiguation" : "actor",
+         "url" : "https://www.setlist.fm/setlists/will-ferrell-63d4a6b3.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Do That to Me One More Time",
+               "cover" : {
+                  "mbid" : "ae27f1d1-b8c4-4b2f-88a0-094c3333ed24",
+                  "name" : "Captain & Tennille",
+                  "sortName" : "Captain & Tennille",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/captain-and-tennille-7bd6be18.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "Work Bitch",
+               "cover" : {
+                  "mbid" : "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+                  "name" : "Britney Spears",
+                  "sortName" : "Spears, Britney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/britney-spears-23d6bc5f.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "Unholy",
+               "cover" : {
+                  "mbid" : "90377450-6c11-4ac7-8a56-930dd8006dd2",
+                  "name" : "Sam Smith & Kim Petras",
+                  "sortName" : "Smith, Sam & Petras, Kim",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sam-smith-and-kim-petras-2bfdbc6a.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "Body",
+               "cover" : {
+                  "mbid" : "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                  "name" : "Megan Thee Stallion",
+                  "sortName" : "Megan Thee Stallion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/megan-thee-stallion-3ca498f.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "DENIAL IS A RIVER",
+               "cover" : {
+                  "mbid" : "9f75277c-b283-4846-ac8c-f932255cd0ac",
+                  "name" : "Doechii",
+                  "sortName" : "Doechii",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/doechii-7bf3f24c.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "CATFISH",
+               "cover" : {
+                  "mbid" : "9f75277c-b283-4846-ac8c-f932255cd0ac",
+                  "name" : "Doechii",
+                  "sortName" : "Doechii",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/doechii-7bf3f24c.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "Not Like Us",
+               "cover" : {
+                  "mbid" : "381086ea-f511-4aba-bdf9-71c753dc5077",
+                  "name" : "Kendrick Lamar",
+                  "sortName" : "Lamar, Kendrick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kendrick-lamar-bd2f5d6.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            }, {
+               "name" : "Good Luck, Babe!",
+               "cover" : {
+                  "mbid" : "56a55378-f155-48de-80a5-d80104221267",
+                  "name" : "Chappell Roan",
+                  "sortName" : "Roan, Chappell",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chappell-roan-6bcad6ce.html"
+               },
+               "info" : "Snippet",
+               "with" : {
+                  "mbid" : "7cdeb911-b65a-42cb-a280-55449e72f3a8",
+                  "name" : "Ana Gasteyer",
+                  "sortName" : "Gasteyer, Ana",
+                  "disambiguation" : "former SNL comic, singer, performer",
+                  "url" : "https://www.setlist.fm/setlists/ana-gasteyer-3bc6bcf4.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "as Marty and Bobbi Culp",
+      "url" : "https://www.setlist.fm/setlist/will-ferrell/2025/radio-city-music-hall-new-york-ny-2b5a4c8a.html"
+   }, {
+      "id" : "2b5a4c02",
+      "versionId" : "gb46d536",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-02-15T01:50:49.427+0000",
+      "artist" : {
+         "mbid" : "2d0523b9-816f-4b4e-bae1-6a4beff50c0f",
+         "name" : "Tracy Morgan",
+         "sortName" : "Morgan, Tracy",
+         "disambiguation" : "actor / comedian",
+         "url" : "https://www.setlist.fm/setlists/tracy-morgan-4bd0df46.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Astronaut Jones Theme Song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tracy-morgan/2025/radio-city-music-hall-new-york-ny-2b5a4c02.html"
+   }, {
+      "id" : "135a5565",
+      "versionId" : "g53433ba9",
+      "eventDate" : "14-02-2025",
+      "lastUpdated" : "2025-03-25T17:27:38.735+0000",
+      "artist" : {
+         "mbid" : "f90e8b26-9e52-4669-a5c9-e28529c47894",
+         "name" : "Snoop Dogg",
+         "sortName" : "Snoop Dogg",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/snoop-dogg-13d68175.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gin and Juice"
+            }, {
+               "name" : "Last Dance With Mary Jane",
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32",
+                  "name" : "Jelly Roll",
+                  "sortName" : "Jelly Roll",
+                  "disambiguation" : "Tennessean country rapper",
+                  "url" : "https://www.setlist.fm/setlists/jelly-roll-13db61a5.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Introduced by Ana Gasteyer as Martha Stewart.",
+      "url" : "https://www.setlist.fm/setlist/snoop-dogg/2025/radio-city-music-hall-new-york-ny-135a5565.html"
+   }, {
+      "id" : "3b5d6060",
+      "versionId" : "g137185e1",
+      "eventDate" : "25-01-2025",
+      "lastUpdated" : "2025-08-05T20:19:54.744+0000",
+      "artist" : {
+         "mbid" : "7f378f19-4686-41aa-b83e-3df359ae1578",
+         "name" : "Hugh Jackman",
+         "sortName" : "Jackman, Hugh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hugh-jackman-63d5ca6f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "From New York, With Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crunchy Granola Suite",
+               "cover" : {
+                  "mbid" : "a42d3fd5-55de-4206-86c3-4fbb5404018f",
+                  "name" : "Neil Diamond",
+                  "sortName" : "Diamond, Neil",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-diamond-bd6bd42.html"
+               }
+            }, {
+               "name" : "The Greatest Show",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Come Alive",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Ya Got Trouble",
+               "cover" : {
+                  "mbid" : "b042bb3d-912b-4e3f-a12b-e98675383b82",
+                  "name" : "Meredith Willson",
+                  "sortName" : "Willson, Meredith",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/meredith-willson-53d49761.html"
+               }
+            }, {
+               "name" : "Sweet Caroline",
+               "cover" : {
+                  "mbid" : "a42d3fd5-55de-4206-86c3-4fbb5404018f",
+                  "name" : "Neil Diamond",
+                  "sortName" : "Diamond, Neil",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-diamond-bd6bd42.html"
+               }
+            }, {
+               "name" : "You Will Be Found",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "The Other Side",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Stars",
+               "cover" : {
+                  "mbid" : "e605aaba-e920-456a-9c8a-0836c46d4764",
+                  "name" : "Claude‐Michel Schönberg",
+                  "sortName" : "Schönberg, Claude‐Michel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/claudemichel-schonberg-73d6baf9.html"
+               }
+            }, {
+               "name" : "Valjean's Soliloquy",
+               "cover" : {
+                  "mbid" : "e605aaba-e920-456a-9c8a-0836c46d4764",
+                  "name" : "Claude‐Michel Schönberg",
+                  "sortName" : "Schönberg, Claude‐Michel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/claudemichel-schonberg-73d6baf9.html"
+               }
+            }, {
+               "name" : "Thank God I'm a Country Boy",
+               "cover" : {
+                  "mbid" : "34e10b51-b5c6-4bc1-b70e-f05f141eda1e",
+                  "name" : "John Denver",
+                  "sortName" : "Denver, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-denver-53d6739d.html"
+               },
+               "info" : "Aussie Boy version"
+            }, {
+               "name" : "All My Days",
+               "cover" : {
+                  "mbid" : "750e9439-2e5d-4afd-92cc-d23183cd7606",
+                  "name" : "Alexi Murdoch",
+                  "sortName" : "Murdoch, Alexi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alexi-murdoch-73d6e215.html"
+               }
+            }, {
+               "name" : "Never Enough",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               },
+               "info" : "Solo"
+            }, {
+               "name" : "Arthur's Theme (Best That You Can Do) / Don't Cry Out Loud / I Honestly Love You / Quiet Please, There's a Lady on Stage / I Go to Rio"
+            }, {
+               "name" : "A Million Dreams",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Fly Me to the Moon / That's Life / Theme From New York, New York"
+            }, {
+               "name" : "From Now On",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Once Before I Go",
+               "cover" : {
+                  "mbid" : "606a2d8e-2ac3-494d-bf6c-f903a37fc7ca",
+                  "name" : "Peter Allen",
+                  "sortName" : "Allen, Peter",
+                  "disambiguation" : "Australian singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/peter-allen-43d6bb9f.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hugh-jackman/2025/radio-city-music-hall-new-york-ny-3b5d6060.html"
+   }, {
+      "id" : "35d5d77",
+      "versionId" : "g2358ace3",
+      "eventDate" : "25-01-2025",
+      "lastUpdated" : "2025-01-26T09:09:07.369+0000",
+      "artist" : {
+         "mbid" : "7f378f19-4686-41aa-b83e-3df359ae1578",
+         "name" : "Hugh Jackman",
+         "sortName" : "Jackman, Hugh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hugh-jackman-63d5ca6f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "From New York, With Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Never Enough",
+               "info" : "Lauren solo",
+               "with" : {
+                  "mbid" : "09c28d5a-73b5-412c-aa45-b2bf6a25fbe9",
+                  "name" : "Lauren Blackman",
+                  "sortName" : "Lauren Blackman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lauren-blackman-23cbc473.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hugh-jackman/2025/radio-city-music-hall-new-york-ny-35d5d77.html"
+   }, {
+      "id" : "635d6287",
+      "versionId" : "g136bcd1d",
+      "eventDate" : "24-01-2025",
+      "lastUpdated" : "2026-02-04T10:21:28.457+0000",
+      "artist" : {
+         "mbid" : "7f378f19-4686-41aa-b83e-3df359ae1578",
+         "name" : "Hugh Jackman",
+         "sortName" : "Jackman, Hugh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hugh-jackman-63d5ca6f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "From New York, With Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Crunchy Granola Suite",
+               "cover" : {
+                  "mbid" : "a42d3fd5-55de-4206-86c3-4fbb5404018f",
+                  "name" : "Neil Diamond",
+                  "sortName" : "Diamond, Neil",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-diamond-bd6bd42.html"
+               }
+            }, {
+               "name" : "The Greatest Show",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Ya Got Trouble",
+               "cover" : {
+                  "mbid" : "b042bb3d-912b-4e3f-a12b-e98675383b82",
+                  "name" : "Meredith Willson",
+                  "sortName" : "Willson, Meredith",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/meredith-willson-53d49761.html"
+               }
+            }, {
+               "name" : "Sweet Caroline",
+               "cover" : {
+                  "mbid" : "a42d3fd5-55de-4206-86c3-4fbb5404018f",
+                  "name" : "Neil Diamond",
+                  "sortName" : "Diamond, Neil",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-diamond-bd6bd42.html"
+               },
+               "info" : "runs down the aisle"
+            }, {
+               "name" : "You Will Be Found",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "The Other Side",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               },
+               "with" : {
+                  "mbid" : "778502bb-feb0-4bae-98a6-f5bd75eba5ad",
+                  "name" : "Adam Halpin",
+                  "sortName" : "Halpin, Adam",
+                  "disambiguation" : "actor",
+                  "url" : "https://www.setlist.fm/setlists/adam-halpin-43e19b7b.html"
+               }
+            }, {
+               "name" : "Bye Bye Bye",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "603ba565-3967-4be1-931e-9cb945394e86",
+                  "name" : "*NSYNC",
+                  "sortName" : "NSYNC",
+                  "disambiguation" : "US boy band",
+                  "url" : "https://www.setlist.fm/setlists/nsync-53d6bf81.html"
+               },
+               "info" : "'Deadpool & Wolverine' jump rope sequence with trainer Beth Lewis"
+            }, {
+               "name" : "Fly Me to the Moon / That's Life / Theme From New York, New York"
+            }, {
+               "name" : "From Now On",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               },
+               "info" : "goes into the audience"
+            }, {
+               "name" : "A Million Dreams",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            }, {
+               "name" : "Thank God I'm a Country Boy",
+               "cover" : {
+                  "mbid" : "34e10b51-b5c6-4bc1-b70e-f05f141eda1e",
+                  "name" : "John Denver",
+                  "sortName" : "Denver, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-denver-53d6739d.html"
+               },
+               "info" : "Aussie Boy version"
+            }, {
+               "name" : "I Go to Rio",
+               "cover" : {
+                  "mbid" : "606a2d8e-2ac3-494d-bf6c-f903a37fc7ca",
+                  "name" : "Peter Allen",
+                  "sortName" : "Allen, Peter",
+                  "disambiguation" : "Australian singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/peter-allen-43d6bb9f.html"
+               }
+            }, {
+               "name" : "Oh, What a Beautiful Mornin'",
+               "cover" : {
+                  "mbid" : "0f939cec-d707-4c8e-950d-aa751a834b9a",
+                  "name" : "Rodgers & Hammerstein",
+                  "sortName" : "Rodgers, Richard & Hammerstein, Oscar, II",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rodgers-and-hammerstein-63d1aaaf.html"
+               }
+            }, {
+               "name" : "Never Enough",
+               "cover" : {
+                  "mbid" : "9f696af0-7f9d-4e8e-9111-2f768df842f1",
+                  "name" : "Pasek and Paul",
+                  "sortName" : "Pasek and Paul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pasek-and-paul-5bcf7b90.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order. Ryan Reynolds stood and spoke from the audience during the show.",
+      "url" : "https://www.setlist.fm/setlist/hugh-jackman/2025/radio-city-music-hall-new-york-ny-635d6287.html"
+   }, {
+      "id" : "3b5d80e8",
+      "versionId" : "g135a3905",
+      "eventDate" : "15-01-2025",
+      "lastUpdated" : "2025-01-11T18:35:12.924+0000",
+      "artist" : {
+         "mbid" : "7e37a1bf-3442-4c60-9dda-06989b869eab",
+         "name" : "Dave Chappelle",
+         "sortName" : "Chappelle, Dave",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-chappelle-73d60a59.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-chappelle/2025/radio-city-music-hall-new-york-ny-3b5d80e8.html"
+   } ]
+}

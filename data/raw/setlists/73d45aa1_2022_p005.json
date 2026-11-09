@@ -1,0 +1,77 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 82,
+   "setlist" : [ {
+      "id" : "2b889066",
+      "versionId" : "g33c37489",
+      "eventDate" : "16-01-2022",
+      "lastUpdated" : "2022-01-16T00:20:44.446+0000",
+      "artist" : {
+         "mbid" : "2e7afe0c-ec52-4c1d-9413-5d40f77922c7",
+         "name" : "The Whispers",
+         "sortName" : "Whispers, The",
+         "disambiguation" : "US R&B/dance vocal group",
+         "url" : "https://www.setlist.fm/setlists/the-whispers-13d6b9e1.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-whispers/2022/kings-theatre-brooklyn-ny-2b889066.html"
+   }, {
+      "id" : "23889067",
+      "versionId" : "g2bc3748a",
+      "eventDate" : "16-01-2022",
+      "lastUpdated" : "2022-01-16T00:20:18.586+0000",
+      "artist" : {
+         "mbid" : "3ee6b1e9-5844-4029-be18-cd7e34e9e969",
+         "name" : "Stephanie Mills",
+         "sortName" : "Mills, Stephanie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/stephanie-mills-13d6b9a5.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/stephanie-mills/2022/kings-theatre-brooklyn-ny-23889067.html"
+   } ]
+}

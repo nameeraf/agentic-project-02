@@ -1,0 +1,1347 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 120,
+   "setlist" : [ {
+      "id" : "7b5c9234",
+      "versionId" : "g5b71b3f4",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:38:53.210+0000",
+      "artist" : {
+         "mbid" : "e389160d-6d98-4657-9a75-9229b41621bc",
+         "name" : "The Vapors",
+         "sortName" : "Vapors, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-vapors-33d6b0d9.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80's Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Prisoners"
+            }, {
+               "name" : "News at Ten"
+            }, {
+               "name" : "Jimmie Jones"
+            }, {
+               "name" : "Waiting for the Weekend"
+            }, {
+               "name" : "Turning Japanese"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-vapors/2025/the-rooftop-at-pier-17-new-york-ny-7b5c9234.html"
+   }, {
+      "id" : "7b5c9220",
+      "versionId" : "gb70617a",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-03T02:23:46.983+0000",
+      "artist" : {
+         "mbid" : "663d6cd0-b275-41a4-a581-4bb3cb878eb9",
+         "name" : "Polecats",
+         "sortName" : "Polecats",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/polecats-33d68425.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80’s Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "John, I'm Only Dancing",
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               }
+            }, {
+               "name" : "Jeepster",
+               "cover" : {
+                  "mbid" : "c842d29f-a297-48cd-bb71-4f77fd672b16",
+                  "name" : "T. Rex",
+                  "sortName" : "T. Rex",
+                  "disambiguation" : "UK band",
+                  "url" : "https://www.setlist.fm/setlists/t-rex-73d6ee31.html"
+               }
+            }, {
+               "name" : "Make a Circuit With Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/polecats/2025/the-rooftop-at-pier-17-new-york-ny-7b5c9220.html"
+   }, {
+      "id" : "7b58ea90",
+      "versionId" : "g4b71b3d2",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:43:11.489+0000",
+      "artist" : {
+         "mbid" : "b9716ca2-777e-43c1-bfea-c3902add23fe",
+         "name" : "Peter Godwin",
+         "sortName" : "Godwin, Peter",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/peter-godwin-7bd68ab0.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80’s Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Emotional Disguise"
+            }, {
+               "name" : "Baby's in the Mountains"
+            }, {
+               "name" : "Images of Heaven"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/peter-godwin/2025/the-rooftop-at-pier-17-new-york-ny-7b58ea90.html"
+   }, {
+      "id" : "735c9231",
+      "versionId" : "g5b71b3a8",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:49:10.930+0000",
+      "artist" : {
+         "mbid" : "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
+         "name" : "Big Country",
+         "sortName" : "Big Country",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/big-country-73d61e15.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80’s Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Harvest Home"
+            }, {
+               "name" : "Look Away"
+            }, {
+               "name" : "Chance"
+            }, {
+               "name" : "Fields of Fire"
+            }, {
+               "name" : "In a Big Country"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/big-country/2025/the-rooftop-at-pier-17-new-york-ny-735c9231.html"
+   }, {
+      "id" : "735c9229",
+      "versionId" : "g4371b3e7",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:41:53.008+0000",
+      "artist" : {
+         "mbid" : "05ee3560-9587-4eed-bc09-bec3bdeaced2",
+         "name" : "Belouis Some",
+         "sortName" : "Some, Belouis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/belouis-some-bd645f2.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80’s Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Some People"
+            }, {
+               "name" : "Round Round"
+            }, {
+               "name" : "Imagination"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/belouis-some/2025/the-rooftop-at-pier-17-new-york-ny-735c9229.html"
+   }, {
+      "id" : "6b5c9246",
+      "versionId" : "g4371b3c7",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:45:45.408+0000",
+      "artist" : {
+         "mbid" : "8432d4a5-69c0-4a0e-8a7a-9265e863a308",
+         "name" : "China Crisis",
+         "sortName" : "China Crisis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/china-crisis-4bd697a2.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80’s Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "King in a Catholic Style"
+            }, {
+               "name" : "Arizona Sky"
+            }, {
+               "name" : "Working With Fire and Steel"
+            }, {
+               "name" : "Wishful Thinking"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/china-crisis/2025/the-rooftop-at-pier-17-new-york-ny-6b5c9246.html"
+   }, {
+      "id" : "635c9237",
+      "versionId" : "g4371b3bf",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:47:40.451+0000",
+      "artist" : {
+         "mbid" : "aaf54938-7e35-4c7d-8e06-a5094c38cb78",
+         "name" : "General Public",
+         "sortName" : "General Public",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/general-public-5bd653ec.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80's Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hot You're Cool"
+            }, {
+               "name" : "Never You Done That"
+            }, {
+               "name" : "I'll Take You There",
+               "cover" : {
+                  "mbid" : "3d49e36a-cc9e-411e-93c6-d1646ba5bd3a",
+                  "name" : "The Staple Singers",
+                  "sortName" : "Staple Singers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-staple-singers-23d6b823.html"
+               }
+            }, {
+               "name" : "Tenderness"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/general-public/2025/the-rooftop-at-pier-17-new-york-ny-635c9237.html"
+   }, {
+      "id" : "635c9233",
+      "versionId" : "g5371b39d",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:51:35.809+0000",
+      "artist" : {
+         "mbid" : "aaa436da-b331-4e58-a0fd-3d64d090c120",
+         "name" : "A Flock of Seagulls",
+         "sortName" : "Flock of Seagulls, A",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/a-flock-of-seagulls-6bd6b64a.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80's Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Say You Love Me"
+            }, {
+               "name" : "Some Dreams"
+            }, {
+               "name" : "Him"
+            }, {
+               "name" : "Space Age Love Song"
+            }, {
+               "name" : "Wishing (If I Had a Photograph of You)"
+            }, {
+               "name" : "I Ran"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/a-flock-of-seagulls/2025/the-rooftop-at-pier-17-new-york-ny-635c9233.html"
+   }, {
+      "id" : "635c922f",
+      "versionId" : "g4b71b30e",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:34:47.111+0000",
+      "artist" : {
+         "mbid" : "03143cba-d359-4bd9-8ab3-5ba6590f9933",
+         "name" : "The Icicle Works",
+         "sortName" : "Icicle Works, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-icicle-works-43d68b67.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80’s Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hollow Horse"
+            }, {
+               "name" : "Birds Fly (Whisper to a Scream)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-icicle-works/2025/the-rooftop-at-pier-17-new-york-ny-635c922f.html"
+   }, {
+      "id" : "635c9223",
+      "versionId" : "g5371b305",
+      "eventDate" : "02-08-2025",
+      "lastUpdated" : "2025-08-04T15:36:35.719+0000",
+      "artist" : {
+         "mbid" : "aa0e428a-6e55-4079-bbcb-c5aa73f1f902",
+         "name" : "Josie Cotton",
+         "sortName" : "Cotton, Josie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/josie-cotton-3d7f9b3.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Lost 80's Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "He Could Be the One"
+            }, {
+               "name" : "School Is In"
+            }, {
+               "name" : "License to Dance"
+            }, {
+               "name" : "Johnny Are You Queer?"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/josie-cotton/2025/the-rooftop-at-pier-17-new-york-ny-635c9223.html"
+   }, {
+      "id" : "b5a9d1e",
+      "versionId" : "g4b71af46",
+      "eventDate" : "01-08-2025",
+      "lastUpdated" : "2025-08-04T17:32:30.363+0000",
+      "artist" : {
+         "mbid" : "56241616-665f-4f02-ba23-67ded8b1bdf9",
+         "name" : "Yacht Rock Revue",
+         "sortName" : "Yacht Rock Revue",
+         "disambiguation" : "Atlanta, GA soft rock",
+         "url" : "https://www.setlist.fm/setlists/yacht-rock-revue-63dc3253.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Yacht Rock Forever"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'm Not in Love",
+               "cover" : {
+                  "mbid" : "f37c537b-3557-4031-bfd6-ab63ced32854",
+                  "name" : "10cc",
+                  "sortName" : "10cc",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/10cc-3d6e597.html"
+               }
+            }, {
+               "name" : "All Right",
+               "cover" : {
+                  "mbid" : "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+                  "name" : "Christopher Cross",
+                  "sortName" : "Cross, Christopher",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/christopher-cross-4bd6bb32.html"
+               }
+            }, {
+               "name" : "What a Fool Believes / Yah Mo B There"
+            }, {
+               "name" : "Somebody's Baby",
+               "cover" : {
+                  "mbid" : "88527d26-7496-47c5-8358-ebdb1868a90f",
+                  "name" : "Jackson Browne",
+                  "sortName" : "Browne, Jackson",
+                  "disambiguation" : "American singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jackson-browne-7bd6b280.html"
+               }
+            }, {
+               "name" : "I Can't Go for That (No Can Do)",
+               "cover" : {
+                  "mbid" : "debabff3-2559-46e5-862d-ef2a906d7010",
+                  "name" : "Daryl Hall & John Oates",
+                  "sortName" : "Hall, Daryl & Oates, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/daryl-hall-and-john-oates-6bd6be1e.html"
+               }
+            }, {
+               "name" : "Peg",
+               "cover" : {
+                  "mbid" : "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+                  "name" : "Steely Dan",
+                  "sortName" : "Steely Dan",
+                  "disambiguation" : "group founded by Walter Becker and Donald Fagen",
+                  "url" : "https://www.setlist.fm/setlists/steely-dan-7bd6be38.html"
+               }
+            }, {
+               "name" : "Brandy (You're a Fine Girl)",
+               "cover" : {
+                  "mbid" : "21387249-8a66-4839-903f-9f5376715320",
+                  "name" : "Looking Glass",
+                  "sortName" : "Looking Glass",
+                  "disambiguation" : "70’s US pop group, track ‘Brandy’",
+                  "url" : "https://www.setlist.fm/setlists/looking-glass-4bd7233a.html"
+               }
+            }, {
+               "name" : "Tropical Illusion"
+            }, {
+               "name" : "Africa",
+               "cover" : {
+                  "mbid" : "aab5c954-cabe-432e-899e-1c4f99757327",
+                  "name" : "Toto",
+                  "sortName" : "Toto",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/toto-bd6b5f6.html"
+               }
+            }, {
+               "name" : "Everywhere",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               }
+            }, {
+               "name" : "Sexy Eyes / The Hustle"
+            }, {
+               "name" : "Lowdown",
+               "cover" : {
+                  "mbid" : "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "name" : "Boz Scaggs",
+                  "sortName" : "Scaggs, Boz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/boz-scaggs-13d6b9dd.html"
+               }
+            }, {
+               "name" : "Heart to Heart",
+               "cover" : {
+                  "mbid" : "15042d2b-2d4c-4451-a96a-6f547642de13",
+                  "name" : "Kenny Loggins",
+                  "sortName" : "Loggins, Kenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kenny-loggins-3bd6b0d4.html"
+               }
+            }, {
+               "name" : "Lonely Boy",
+               "cover" : {
+                  "mbid" : "10876f5a-9ac7-49c7-a2b6-46a3f1ac3523",
+                  "name" : "Andrew Gold",
+                  "sortName" : "Gold, Andrew",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/andrew-gold-1bd66ddc.html"
+               }
+            }, {
+               "name" : "Escape (The Piña Colada Song)",
+               "cover" : {
+                  "mbid" : "3e7ef7ed-18c1-436d-b946-7e7e63ace408",
+                  "name" : "Rupert Holmes",
+                  "sortName" : "Holmes, Rupert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rupert-holmes-43d7a76f.html"
+               }
+            }, {
+               "name" : "My Old School",
+               "cover" : {
+                  "mbid" : "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+                  "name" : "Steely Dan",
+                  "sortName" : "Steely Dan",
+                  "disambiguation" : "group founded by Walter Becker and Donald Fagen",
+                  "url" : "https://www.setlist.fm/setlists/steely-dan-7bd6be38.html"
+               }
+            }, {
+               "name" : "What You Won't Do for Love / Just the Two of Us"
+            }, {
+               "name" : "Lotta Love",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               },
+               "info" : "Nicolette Larson version"
+            }, {
+               "name" : "Sister Golden Hair",
+               "cover" : {
+                  "mbid" : "34cf95c7-4be9-4efd-a48a-c2ea4a0bb114",
+                  "name" : "America",
+                  "sortName" : "America",
+                  "disambiguation" : "US folk/soft rock band",
+                  "url" : "https://www.setlist.fm/setlists/america-3bd67478.html"
+               }
+            }, {
+               "name" : "How Long",
+               "cover" : {
+                  "mbid" : "241a85e3-da78-437e-a511-c18c14792ccc",
+                  "name" : "Ace",
+                  "sortName" : "Ace",
+                  "disambiguation" : "1970s UK rock band",
+                  "url" : "https://www.setlist.fm/setlists/ace-33d6d02d.html"
+               },
+               "info" : "Chorus Only"
+            }, {
+               "name" : "You Can Do Magic",
+               "cover" : {
+                  "mbid" : "f0bea941-5c7e-4253-ad43-5ba3c5a5f14d",
+                  "name" : "Russ Ballard",
+                  "sortName" : "Ballard, Russ",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/russ-ballard-3bd698d0.html"
+               },
+               "info" : "Chorus Only"
+            }, {
+               "name" : "Kiss You All Over",
+               "cover" : {
+                  "mbid" : "bceba9d9-3a3c-4883-af65-e44bd5848169",
+                  "name" : "Exile",
+                  "sortName" : "Exile",
+                  "disambiguation" : "American country band",
+                  "url" : "https://www.setlist.fm/setlists/exile-1bd41d20.html"
+               }
+            }, {
+               "name" : "You Make Loving Fun",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               }
+            }, {
+               "name" : "Ride Like the Wind",
+               "cover" : {
+                  "mbid" : "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+                  "name" : "Christopher Cross",
+                  "sortName" : "Cross, Christopher",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/christopher-cross-4bd6bb32.html"
+               }
+            }, {
+               "name" : "Lido Shuffle",
+               "cover" : {
+                  "mbid" : "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "name" : "Boz Scaggs",
+                  "sortName" : "Scaggs, Boz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/boz-scaggs-13d6b9dd.html"
+               }
+            }, {
+               "name" : "She's Gone",
+               "cover" : {
+                  "mbid" : "debabff3-2559-46e5-862d-ef2a906d7010",
+                  "name" : "Daryl Hall & John Oates",
+                  "sortName" : "Hall, Daryl & Oates, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/daryl-hall-and-john-oates-6bd6be1e.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Arthur's Theme (Best That You Can Do)",
+               "cover" : {
+                  "mbid" : "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+                  "name" : "Christopher Cross",
+                  "sortName" : "Cross, Christopher",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/christopher-cross-4bd6bb32.html"
+               }
+            }, {
+               "name" : "Oh Sherrie",
+               "cover" : {
+                  "mbid" : "88b0ef74-9da8-4998-8e3b-70687575588c",
+                  "name" : "Steve Perry",
+                  "sortName" : "Perry, Steve",
+                  "disambiguation" : "former lead singer of Journey",
+                  "url" : "https://www.setlist.fm/setlists/steve-perry-23d6dccf.html"
+               }
+            }, {
+               "name" : "Baker Street",
+               "cover" : {
+                  "mbid" : "563201cb-721c-4cfb-acca-c1ba69e3d1fb",
+                  "name" : "Gerry Rafferty",
+                  "sortName" : "Rafferty, Gerry",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gerry-rafferty-5bd6b30c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yacht-rock-revue/2025/the-rooftop-at-pier-17-new-york-ny-b5a9d1e.html"
+   }, {
+      "id" : "2b4250f2",
+      "versionId" : "g3b703448",
+      "eventDate" : "28-07-2025",
+      "lastUpdated" : "2025-07-31T16:33:25.725+0000",
+      "artist" : {
+         "mbid" : "113e0972-077f-423b-9b5f-3cc8a5bafa0f",
+         "name" : "Pink Martini",
+         "sortName" : "Pink Martini",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pink-martini-23d6c417.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pink-martini/2025/the-rooftop-at-pier-17-new-york-ny-2b4250f2.html"
+   }, {
+      "id" : "7b47f6f4",
+      "versionId" : "gb4af1ee",
+      "eventDate" : "25-07-2025",
+      "lastUpdated" : "2025-05-16T18:55:50.777+0000",
+      "artist" : {
+         "mbid" : "92abed73-1789-44ad-b1f4-a9af6f3bc507",
+         "name" : "Thelma and the Sleaze",
+         "sortName" : "Thelma and the Sleaze",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/thelma-and-the-sleaze-1bc03d00.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/thelma-and-the-sleaze/2025/the-rooftop-at-pier-17-new-york-ny-7b47f6f4.html"
+   }, {
+      "id" : "7347f601",
+      "versionId" : "g6371be7b",
+      "eventDate" : "25-07-2025",
+      "lastUpdated" : "2025-08-04T05:11:55.405+0000",
+      "artist" : {
+         "mbid" : "8eae1e0a-1696-4532-9e3c-0a072217ef4c",
+         "name" : "Drive‐By Truckers",
+         "sortName" : "Drive‐By Truckers",
+         "disambiguation" : "US rock band",
+         "url" : "https://www.setlist.fm/setlists/driveby-truckers-3d6e9cf.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Charm & Decadence"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Know Your Rights",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "8f92558c-2baa-4758-8c38-615519e9deda",
+                  "name" : "The Clash",
+                  "sortName" : "Clash, The",
+                  "disambiguation" : "70s–80s British punk rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-clash-bd6a53e.html"
+               }
+            }, {
+               "name" : "Ramon Casiano"
+            }, {
+               "name" : "Puttin' People on the Moon"
+            }, {
+               "name" : "One of These Days"
+            }, {
+               "name" : "Drag the Lake Charlie"
+            }, {
+               "name" : "3 Dimes Down"
+            }, {
+               "name" : "Sink Hole"
+            }, {
+               "name" : "Uncle Frank"
+            }, {
+               "name" : "Goode's Field Road"
+            }, {
+               "name" : "Gravity's Gone"
+            }, {
+               "name" : "The Living Bubba"
+            }, {
+               "name" : "Made Up English Oceans"
+            }, {
+               "name" : "The Righteous Path"
+            }, {
+               "name" : "Self Destructive Zones"
+            }, {
+               "name" : "Let There Be Rock",
+               "info" : "Dedicated to Ozzy Osbourne"
+            }, {
+               "name" : "Marry Me"
+            }, {
+               "name" : "Road Cases"
+            }, {
+               "name" : "Women Without Whiskey"
+            }, {
+               "name" : "A World of Hurt",
+               "with" : {
+                  "mbid" : "530c4d26-5808-4994-a1b5-5aa80c3f8ac4",
+                  "name" : "John Joseph McCauley III",
+                  "sortName" : "McCauley, John Joseph III",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-joseph-mccauley-iii-63da9e07.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/driveby-truckers/2025/the-rooftop-at-pier-17-new-york-ny-7347f601.html"
+   }, {
+      "id" : "6b47f606",
+      "versionId" : "g4b70978e",
+      "eventDate" : "25-07-2025",
+      "lastUpdated" : "2025-07-28T19:56:00.554+0000",
+      "artist" : {
+         "mbid" : "c8c64bcc-48c6-47c9-8411-f5c4fd5a97bb",
+         "name" : "Deer Tick",
+         "sortName" : "Deer Tick",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/deer-tick-53d66f91.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Charm & Decadence"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "If She Could Only See Me Now"
+            }, {
+               "name" : "Forgiving Ties"
+            }, {
+               "name" : "Wasting Time"
+            }, {
+               "name" : "Art Isn't Real (City of Sin)"
+            }, {
+               "name" : "These Old Shoes"
+            }, {
+               "name" : "Hope Is Big / Tripping Up the Stairs"
+            }, {
+               "name" : "Running From Love"
+            }, {
+               "name" : "Mary Singletary"
+            }, {
+               "name" : "Once in a Lifetime"
+            }, {
+               "name" : "Woman to Woman",
+               "cover" : {
+                  "mbid" : "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+                  "name" : "Joe Cocker",
+                  "sortName" : "Cocker, Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joe-cocker-43d67b13.html"
+               }
+            }, {
+               "name" : "Jumpstarting"
+            }, {
+               "name" : "Play It All Night Long",
+               "cover" : {
+                  "mbid" : "970fb29f-e288-403e-a388-d2a7889bfa47",
+                  "name" : "Warren Zevon",
+                  "sortName" : "Zevon, Warren",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/warren-zevon-7bd67238.html"
+               }
+            }, {
+               "name" : "The Real Thing"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/deer-tick/2025/the-rooftop-at-pier-17-new-york-ny-6b47f606.html"
+   }, {
+      "id" : "7b514e6c",
+      "versionId" : "g53732301",
+      "eventDate" : "24-07-2025",
+      "lastUpdated" : "2025-07-25T00:14:15.017+0000",
+      "artist" : {
+         "mbid" : "b16c0872-31a7-4db9-8569-0e3146fcecfc",
+         "name" : "Ella Langley",
+         "sortName" : "Langley, Ella",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ella-langley-6bfde672.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "weren't for the wind"
+            }, {
+               "name" : "Country Boy's Dream Girl"
+            }, {
+               "name" : "nicotine"
+            }, {
+               "name" : "Here for the Party",
+               "cover" : {
+                  "mbid" : "11d9fc14-e6ac-4c50-81e7-062dd82566ce",
+                  "name" : "Gretchen Wilson",
+                  "sortName" : "Wilson, Gretchen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gretchen-wilson-43d6bf33.html"
+               }
+            }, {
+               "name" : "Never Met Anyone Like You"
+            }, {
+               "name" : "girl you're taking home"
+            }, {
+               "name" : "20-20"
+            }, {
+               "name" : "That's Why We Fight"
+            }, {
+               "name" : "hungover"
+            }, {
+               "name" : "paint the town blue"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ella-langley/2025/the-rooftop-at-pier-17-new-york-ny-7b514e6c.html"
+   }, {
+      "id" : "53513bad",
+      "versionId" : "g3370a879",
+      "eventDate" : "24-07-2025",
+      "lastUpdated" : "2025-07-28T02:39:00.031+0000",
+      "artist" : {
+         "mbid" : "d8c85c0e-ad88-47a7-a1df-b70608c2f52f",
+         "name" : "Riley Green",
+         "sortName" : "Green, Riley",
+         "disambiguation" : "American country music singer.",
+         "url" : "https://www.setlist.fm/setlists/riley-green-23c80007.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Damn Country Music Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Damn Country Music"
+            }, {
+               "name" : "Different 'Round Here"
+            }, {
+               "name" : "If It Wasn't for Trucks"
+            }, {
+               "name" : "Damn Good Day to Leave"
+            }, {
+               "name" : "Half of Me",
+               "cover" : {
+                  "mbid" : "bca8bfc0-9d5b-449b-b713-914596f88d56",
+                  "name" : "Thomas Rhett",
+                  "sortName" : "Rhett, Thomas",
+                  "disambiguation" : "American country music singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/thomas-rhett-6bde9a3e.html"
+               }
+            }, {
+               "name" : "In Color",
+               "cover" : {
+                  "mbid" : "8bbb18d5-69d0-465f-8f57-7b293223f02e",
+                  "name" : "Jamey Johnson",
+                  "sortName" : "Johnson, Jamey",
+                  "disambiguation" : "American country music singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jamey-johnson-2bd708f2.html"
+               }
+            }, {
+               "name" : "Georgia Time"
+            }, {
+               "name" : "Rather Be"
+            }, {
+               "name" : "When She Comes Home Tonight"
+            }, {
+               "name" : "There Was This Girl"
+            }, {
+               "name" : "Should've Been a Cowboy",
+               "cover" : {
+                  "mbid" : "2f951906-5629-4fef-a260-5033151c162a",
+                  "name" : "Toby Keith",
+                  "sortName" : "Keith, Toby",
+                  "disambiguation" : "US country singer & guitarist",
+                  "url" : "https://www.setlist.fm/setlists/toby-keith-33d6bc81.html"
+               }
+            }, {
+               "name" : "Courtesy of the Red, White and Blue (The Angry American)",
+               "cover" : {
+                  "mbid" : "2f951906-5629-4fef-a260-5033151c162a",
+                  "name" : "Toby Keith",
+                  "sortName" : "Keith, Toby",
+                  "disambiguation" : "US country singer & guitarist",
+                  "url" : "https://www.setlist.fm/setlists/toby-keith-33d6bc81.html"
+               }
+            }, {
+               "name" : "Jesus Saves"
+            }, {
+               "name" : "Don't Mind If I Do",
+               "with" : {
+                  "mbid" : "b16c0872-31a7-4db9-8569-0e3146fcecfc",
+                  "name" : "Ella Langley",
+                  "sortName" : "Langley, Ella",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ella-langley-6bfde672.html"
+               }
+            }, {
+               "name" : "Hell of a Way to Go"
+            }, {
+               "name" : "you look like you love me",
+               "cover" : {
+                  "mbid" : "b16c0872-31a7-4db9-8569-0e3146fcecfc",
+                  "name" : "Ella Langley",
+                  "sortName" : "Langley, Ella",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ella-langley-6bfde672.html"
+               },
+               "with" : {
+                  "mbid" : "b16c0872-31a7-4db9-8569-0e3146fcecfc",
+                  "name" : "Ella Langley",
+                  "sortName" : "Langley, Ella",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ella-langley-6bfde672.html"
+               }
+            }, {
+               "name" : "Change My Mind"
+            }, {
+               "name" : "Worst Way"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Wish Grandpas Never Died"
+            }, {
+               "name" : "Dixieland Delight",
+               "cover" : {
+                  "mbid" : "7ac055fa-e357-4890-9098-010b8094a900",
+                  "name" : "Alabama",
+                  "sortName" : "Alabama",
+                  "disambiguation" : "country band, aka “Wildcountry”",
+                  "url" : "https://www.setlist.fm/setlists/alabama-1bd6b1d4.html"
+               },
+               "with" : {
+                  "mbid" : "b16c0872-31a7-4db9-8569-0e3146fcecfc",
+                  "name" : "Ella Langley",
+                  "sortName" : "Langley, Ella",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ella-langley-6bfde672.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/riley-green/2025/the-rooftop-at-pier-17-new-york-ny-53513bad.html"
+   }, {
+      "id" : "334224b5",
+      "versionId" : "g23731857",
+      "eventDate" : "24-07-2025",
+      "lastUpdated" : "2025-07-25T06:39:18.702+0000",
+      "artist" : {
+         "mbid" : "483ccf02-0faf-458e-88fc-e39e03cb9875",
+         "name" : "Vincent Mason",
+         "sortName" : "Mason, Vincent",
+         "disambiguation" : "Country music singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/vincent-mason-4be5df12.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vincent-mason/2025/the-rooftop-at-pier-17-new-york-ny-334224b5.html"
+   }, {
+      "id" : "3b47a0fc",
+      "versionId" : "g6b4d6aa6",
+      "eventDate" : "23-07-2025",
+      "lastUpdated" : "2025-05-12T15:22:05.198+0000",
+      "artist" : {
+         "mbid" : "ebc0f4e7-f709-4790-a7d7-4915004927be",
+         "name" : "Trombone Shorty & Orleans Avenue",
+         "sortName" : "Trombone Shorty & Orleans Avenue",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trombone-shorty-and-orleans-avenue-53d5bfed.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Might Not Make It Home"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trombone-shorty-and-orleans-avenue/2025/the-rooftop-at-pier-17-new-york-ny-3b47a0fc.html"
+   }, {
+      "id" : "2347a0ff",
+      "versionId" : "g7b4d6aac",
+      "eventDate" : "23-07-2025",
+      "lastUpdated" : "2025-05-12T15:21:29.462+0000",
+      "artist" : {
+         "mbid" : "b11d2b63-c6da-4f52-9f62-9a166e2290f3",
+         "name" : "JJ Grey & Mofro",
+         "sortName" : "Grey, JJ & Mofro",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jj-grey-and-mofro-3bd71020.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jj-grey-and-mofro/2025/the-rooftop-at-pier-17-new-york-ny-2347a0ff.html"
+   } ]
+}

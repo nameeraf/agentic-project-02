@@ -1,0 +1,242 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 66,
+   "setlist" : [ {
+      "id" : "1ba5ad1c",
+      "versionId" : "g439a830b",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-11T23:20:14.784+0000",
+      "artist" : {
+         "mbid" : "f81e9644-acf3-46ee-be8d-f815d95766ac",
+         "name" : "Coke La Rock",
+         "sortName" : "Coke La Rock",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/coke-la-rock-3bfb240c.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "performed prior to a mid-set introduction of Kool Herc and Cindy Campbell",
+      "url" : "https://www.setlist.fm/setlist/coke-la-rock/2023/yankee-stadium-the-bronx-ny-1ba5ad1c.html"
+   }, {
+      "id" : "1ba5ad14",
+      "versionId" : "g539aeb55",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T17:53:57.312+0000",
+      "artist" : {
+         "mbid" : "de23d637-20df-4b15-ae63-263dd5a34f10",
+         "name" : "DJ Drama",
+         "sortName" : "Drama, DJ",
+         "disambiguation" : "US rap mixtape DJ Tyree Cinque Simmons",
+         "url" : "https://www.setlist.fm/setlists/dj-drama-2bd6c8d2.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "tour" : {
+         "name" : "High School Reunion"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "mini set to transition between sets",
+      "url" : "https://www.setlist.fm/setlist/dj-drama/2023/yankee-stadium-the-bronx-ny-1ba5ad14.html"
+   }, {
+      "id" : "1ba5a570",
+      "versionId" : "g439aebaf",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T18:29:15.950+0000",
+      "artist" : {
+         "mbid" : "107f5d8b-864b-462a-a67f-05b5ab78bb17",
+         "name" : "King Combs",
+         "sortName" : "King Combs",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/king-combs-3c9b93b.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "special guest during Lil’ Kim’s set",
+      "url" : "https://www.setlist.fm/setlist/king-combs/2023/yankee-stadium-the-bronx-ny-1ba5a570.html"
+   }, {
+      "id" : "13a5ad8d",
+      "versionId" : "g239a3c33",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-14T04:46:42.734+0000",
+      "artist" : {
+         "mbid" : "13745088-3637-4cd7-93bd-1f8b4d595c8a",
+         "name" : "Lola Brooke",
+         "sortName" : "Brooke, Lola",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lola-brooke-73fa2229.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Don't Play with It"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lola-brooke/2023/yankee-stadium-the-bronx-ny-13a5ad8d.html"
+   }, {
+      "id" : "13a5ad55",
+      "versionId" : "g5b985b30",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-09-02T00:57:59.677+0000",
+      "artist" : {
+         "mbid" : "0e9c2251-2d7d-4f79-9894-0fd662ed8420",
+         "name" : "Grandmaster Caz",
+         "sortName" : "Grandmaster Caz",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/grandmaster-caz-63d676bb.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "MC Delight"
+            }, {
+               "name" : "It's Us (The Cold Crush)",
+               "cover" : {
+                  "mbid" : "2467da56-31bd-42e9-89f0-a745f7377e01",
+                  "name" : "Cold Crush Brothers",
+                  "sortName" : "Cold Crush Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cold-crush-brothers-7bd676c4.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "special guests included the rest of the Cold Crush Brothers and Kool Moe Dee",
+      "url" : "https://www.setlist.fm/setlist/grandmaster-caz/2023/yankee-stadium-the-bronx-ny-13a5ad55.html"
+   }, {
+      "id" : "13a449bd",
+      "versionId" : "g339ae849",
+      "eventDate" : "11-08-2023",
+      "lastUpdated" : "2023-08-12T17:13:33.035+0000",
+      "artist" : {
+         "mbid" : "75207e08-3848-4069-b95e-e0873f8744ff",
+         "name" : "DJ Aktive",
+         "sortName" : "Aktive, DJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-aktive-4bd15792.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "DJed in between sets",
+      "url" : "https://www.setlist.fm/setlist/dj-aktive/2023/yankee-stadium-the-bronx-ny-13a449bd.html"
+   } ]
+}

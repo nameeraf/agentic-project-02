@@ -1,0 +1,1005 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 233,
+   "setlist" : [ {
+      "id" : "3a55143",
+      "versionId" : "g5b98e79c",
+      "eventDate" : "30-08-2023",
+      "lastUpdated" : "2023-08-28T02:26:18.804+0000",
+      "artist" : {
+         "mbid" : "1c4b484c-746c-48b8-88b2-40f09e15159d",
+         "name" : "Rylo Rodriguez",
+         "sortName" : "Rodriguez, Rylo",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rylo-rodriguez-1bf34570.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rylo-rodriguez/2023/madison-square-garden-new-york-ny-3a55143.html"
+   }, {
+      "id" : "1ba55148",
+      "versionId" : "g4b98e7a6",
+      "eventDate" : "30-08-2023",
+      "lastUpdated" : "2023-08-28T02:25:37.714+0000",
+      "artist" : {
+         "mbid" : "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+         "name" : "GloRilla",
+         "sortName" : "GloRilla",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/glorilla-1bff7124.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/glorilla/2023/madison-square-garden-new-york-ny-1ba55148.html"
+   }, {
+      "id" : "63a56a27",
+      "versionId" : "g5b876bd4",
+      "eventDate" : "29-08-2023",
+      "lastUpdated" : "2023-09-25T06:56:33.708+0000",
+      "artist" : {
+         "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+         "name" : "Billy Joel",
+         "sortName" : "Joel, Billy",
+         "disambiguation" : "American singer‐songwriter and pianist",
+         "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Billy Joel at The Garden"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Miami 2017 (Seen the Lights Go Out on Broadway)"
+            }, {
+               "name" : "My Life",
+               "info" : "w/ Ode to Joy intro"
+            }, {
+               "name" : "Vienna"
+            }, {
+               "name" : "The Downeaster \"Alexa\""
+            }, {
+               "name" : "Start Me Up",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "Jumpin' Jack Flash",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "An Innocent Man"
+            }, {
+               "name" : "Barbara Ann",
+               "cover" : {
+                  "mbid" : "79efd6b5-9a82-48df-968b-9b417d355583",
+                  "name" : "The Regents",
+                  "sortName" : "Regents, The",
+                  "disambiguation" : "Doo-wop group who originally performed \"Barbara-Ann\"",
+                  "url" : "https://www.setlist.fm/setlists/the-regents-53d6a339.html"
+               },
+               "info" : "snippet"
+            }, {
+               "name" : "The Longest Time"
+            }, {
+               "name" : "Your Song",
+               "cover" : {
+                  "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+                  "name" : "Elton John",
+                  "sortName" : "John, Elton",
+                  "disambiguation" : "English singer, songwriter, pianist, and composer",
+                  "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+               },
+               "info" : "partial"
+            }, {
+               "name" : "Don't Ask Me Why"
+            }, {
+               "name" : "Allentown"
+            }, {
+               "name" : "Half a Mile Away"
+            }, {
+               "name" : "Movin' Out (Anthony's Song)"
+            }, {
+               "name" : "She's Always a Woman"
+            }, {
+               "name" : "The Entertainer",
+               "with" : {
+                  "mbid" : "cc0dbdfc-9b2c-4e31-8448-808412388406",
+                  "name" : "Kevin Bacon",
+                  "sortName" : "Bacon, Kevin",
+                  "disambiguation" : "actor, member of Bacon Brothers",
+                  "url" : "https://www.setlist.fm/setlists/kevin-bacon-bd65dd2.html"
+               }
+            }, {
+               "name" : "New York State of Mind"
+            }, {
+               "name" : "Zanzibar"
+            }, {
+               "name" : "Sometimes a Fantasy"
+            }, {
+               "name" : "Only the Good Die Young"
+            }, {
+               "name" : "The River of Dreams",
+               "info" : "With \"River Deep, Mountain High\" interlude sung by Crystal Taliefero"
+            }, {
+               "name" : "Nessun dorma",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               }
+            }, {
+               "name" : "Scenes From an Italian Restaurant"
+            }, {
+               "name" : "Piano Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "We Didn't Start the Fire"
+            }, {
+               "name" : "Uptown Girl"
+            }, {
+               "name" : "It's Still Rock and Roll to Me"
+            }, {
+               "name" : "Big Shot"
+            }, {
+               "name" : "You May Be Right",
+               "with" : {
+                  "mbid" : "cc0dbdfc-9b2c-4e31-8448-808412388406",
+                  "name" : "Kevin Bacon",
+                  "sortName" : "Bacon, Kevin",
+                  "disambiguation" : "actor, member of Bacon Brothers",
+                  "url" : "https://www.setlist.fm/setlists/kevin-bacon-bd65dd2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/billy-joel/2023/madison-square-garden-new-york-ny-63a56a27.html"
+   }, {
+      "id" : "73a56235",
+      "versionId" : "g3b98804c",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-08-27T11:46:06.131+0000",
+      "artist" : {
+         "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+         "name" : "John Mayer",
+         "sortName" : "Mayer, John",
+         "disambiguation" : "US singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Who Says"
+            }, {
+               "name" : "Neon"
+            }, {
+               "name" : "Gravity"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-73a56235.html"
+   }, {
+      "id" : "5ba05b1c",
+      "versionId" : "g63803e2b",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:37:51.096+0000",
+      "artist" : {
+         "mbid" : "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+         "name" : "Common",
+         "sortName" : "Common",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/common-2bd69cf2.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/common/2023/madison-square-garden-new-york-ny-5ba05b1c.html"
+   }, {
+      "id" : "53a05b19",
+      "versionId" : "g73803e31",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:36:04.010+0000",
+      "artist" : {
+         "mbid" : "d37a3ce6-788d-4272-9af8-3eb6dd9b11a6",
+         "name" : "Pete Davidson",
+         "sortName" : "Davidson, Pete",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/pete-davidson-73cedaf1.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pete-davidson/2023/madison-square-garden-new-york-ny-53a05b19.html"
+   }, {
+      "id" : "53a05b0d",
+      "versionId" : "g6b803e12",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:52:55.160+0000",
+      "artist" : {
+         "mbid" : "91422ca7-8745-4eb4-8b4e-58a73af74d7e",
+         "name" : "Michelle Wolf",
+         "sortName" : "Wolf, Michelle",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/michelle-wolf-6bde1efa.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michelle-wolf/2023/madison-square-garden-new-york-ny-53a05b0d.html"
+   }, {
+      "id" : "53a05b09",
+      "versionId" : "g7b803e24",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:45:17.780+0000",
+      "artist" : {
+         "mbid" : "7e173734-09f2-4b3b-b0cf-cdfd1264ce6b",
+         "name" : "Michael Che",
+         "sortName" : "Che, Michael",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/michael-che-63cae637.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michael-che/2023/madison-square-garden-new-york-ny-53a05b09.html"
+   }, {
+      "id" : "4ba05b12",
+      "versionId" : "g7b803e28",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:38:28.905+0000",
+      "artist" : {
+         "mbid" : "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+         "name" : "Busta Rhymes",
+         "sortName" : "Busta Rhymes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/busta-rhymes-1bd6bd9c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/busta-rhymes/2023/madison-square-garden-new-york-ny-4ba05b12.html"
+   }, {
+      "id" : "4ba05b0e",
+      "versionId" : "g7b803e18",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:47:53.458+0000",
+      "artist" : {
+         "mbid" : "c6841a42-0b54-459b-964f-d794b594d2e7",
+         "name" : "Jeff Ross",
+         "sortName" : "Ross, Jeff",
+         "disambiguation" : "Comedian",
+         "url" : "https://www.setlist.fm/setlists/jeff-ross-33fd6c39.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jeff-ross/2023/madison-square-garden-new-york-ny-4ba05b0e.html"
+   }, {
+      "id" : "43a05b03",
+      "versionId" : "g7b803e10",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-10-31T08:54:15.397+0000",
+      "artist" : {
+         "mbid" : "f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62",
+         "name" : "T.I.",
+         "sortName" : "T.I.",
+         "disambiguation" : "Atlanta US rapper & producer Clifford Harris",
+         "url" : "https://www.setlist.fm/setlists/ti-4bd6bfa6.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ti/2023/madison-square-garden-new-york-ny-43a05b03.html"
+   }, {
+      "id" : "33a578c9",
+      "versionId" : "gb98bde6",
+      "eventDate" : "26-08-2023",
+      "lastUpdated" : "2023-08-25T19:09:28.777+0000",
+      "artist" : {
+         "mbid" : "7e37a1bf-3442-4c60-9dda-06989b869eab",
+         "name" : "Dave Chappelle",
+         "sortName" : "Chappelle, Dave",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-chappelle-73d60a59.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-chappelle/2023/madison-square-garden-new-york-ny-33a578c9.html"
+   }, {
+      "id" : "4ba517f2",
+      "versionId" : "g39b7d73",
+      "eventDate" : "25-08-2023",
+      "lastUpdated" : "2023-08-23T13:31:12.388+0000",
+      "artist" : {
+         "mbid" : "7e37a1bf-3442-4c60-9dda-06989b869eab",
+         "name" : "Dave Chappelle",
+         "sortName" : "Chappelle, Dave",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-chappelle-73d60a59.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dave-chappelle/2023/madison-square-garden-new-york-ny-4ba517f2.html"
+   }, {
+      "id" : "13a56535",
+      "versionId" : "g238424fb",
+      "eventDate" : "25-08-2023",
+      "lastUpdated" : "2023-10-01T02:59:16.860+0000",
+      "artist" : {
+         "mbid" : "596ffa74-3d08-44ef-b113-765d43d12738",
+         "name" : "Justin Timberlake",
+         "sortName" : "Timberlake, Justin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/justin-timberlake-13d6e9b9.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Theme From New York, New York",
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               }
+            }, {
+               "name" : "Suit & Tie"
+            }, {
+               "name" : "Cry Me a River",
+               "info" : "Contains elements of “fukumean” by Gunna"
+            }, {
+               "name" : "Holy Grail",
+               "cover" : {
+                  "mbid" : "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name" : "JAŸ-Z",
+                  "sortName" : "Jay-Z",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/jay-z-2bd69c72.html"
+               },
+               "info" : "shortened"
+            }, {
+               "name" : "Señorita"
+            }, {
+               "name" : "Cruisin'",
+               "cover" : {
+                  "mbid" : "c19ff12b-058f-44a8-b245-b0efb4752925",
+                  "name" : "Smokey Robinson",
+                  "sortName" : "Robinson, Smokey",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/smokey-robinson-6bd6bade.html"
+               }
+            }, {
+               "name" : "SexyBack",
+               "with" : {
+                  "mbid" : "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+                  "name" : "Timbaland",
+                  "sortName" : "Timbaland",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/timbaland-bd6bdb6.html"
+               }
+            }, {
+               "name" : "Mirrors"
+            } ]
+         } ]
+      },
+      "info" : "45 minute surprise set at Dave Chappelle's birthday event",
+      "url" : "https://www.setlist.fm/setlist/justin-timberlake/2023/madison-square-garden-new-york-ny-13a56535.html"
+   }, {
+      "id" : "7ba52acc",
+      "versionId" : "g1b99e52c",
+      "eventDate" : "23-08-2023",
+      "lastUpdated" : "2023-09-05T02:48:28.671+0000",
+      "artist" : {
+         "mbid" : "7e37a1bf-3442-4c60-9dda-06989b869eab",
+         "name" : "Dave Chappelle",
+         "sortName" : "Chappelle, Dave",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-chappelle-73d60a59.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Comedy sets by Chris Rock, Jon Stewart, Luenell and Earthquake"
+            } ]
+         } ]
+      },
+      "info" : "Nas, Ludacris, Da Baby, De La Soul, and The Roots Crew",
+      "url" : "https://www.setlist.fm/setlist/dave-chappelle/2023/madison-square-garden-new-york-ny-7ba52acc.html"
+   }, {
+      "id" : "3375e041",
+      "versionId" : "g1b1a1d5c",
+      "eventDate" : "23-08-2023",
+      "lastUpdated" : "2026-05-31T08:21:22.250+0000",
+      "artist" : {
+         "mbid" : "172805a7-6f84-4bb3-8b3b-6dc5bc33b103",
+         "name" : "Chris Rock",
+         "sortName" : "Rock, Chris",
+         "disambiguation" : "actor / comedian",
+         "url" : "https://www.setlist.fm/setlists/chris-rock-6bd60a6e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chris-rock/2023/madison-square-garden-new-york-ny-3375e041.html"
+   }, {
+      "id" : "2375e047",
+      "versionId" : "g131a1d51",
+      "eventDate" : "23-08-2023",
+      "lastUpdated" : "2026-05-31T08:22:11.877+0000",
+      "artist" : {
+         "mbid" : "3c3ebf04-68b7-4140-bef3-7ed0aeda07f0",
+         "name" : "Jon Stewart",
+         "sortName" : "Stewart, Jon",
+         "disambiguation" : "US comedian/television host",
+         "url" : "https://www.setlist.fm/setlists/jon-stewart-bd3498e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jon-stewart/2023/madison-square-garden-new-york-ny-2375e047.html"
+   }, {
+      "id" : "4ba53fda",
+      "versionId" : "gb9b059a",
+      "eventDate" : "22-08-2023",
+      "lastUpdated" : "2023-08-23T04:41:12.011+0000",
+      "artist" : {
+         "mbid" : "7e37a1bf-3442-4c60-9dda-06989b869eab",
+         "name" : "Dave Chappelle",
+         "sortName" : "Chappelle, Dave",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dave-chappelle-73d60a59.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Special Guest \"Travis Scott\"",
+      "url" : "https://www.setlist.fm/setlist/dave-chappelle/2023/madison-square-garden-new-york-ny-4ba53fda.html"
+   }, {
+      "id" : "4ba53362",
+      "versionId" : "g7b9b1688",
+      "eventDate" : "21-08-2023",
+      "lastUpdated" : "2023-08-22T19:08:24.842+0000",
+      "artist" : {
+         "mbid" : "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+         "name" : "5 Seconds of Summer",
+         "sortName" : "5 Seconds of Summer",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/5-seconds-of-summer-6bdc6e66.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The 5 Seconds of Summer Show"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bad Omens"
+            }, {
+               "name" : "2011"
+            }, {
+               "name" : "Caramel"
+            }, {
+               "name" : "BLENDER"
+            }, {
+               "name" : "Easier"
+            }, {
+               "name" : "Babylon"
+            }, {
+               "name" : "If Walls Could Talk"
+            }, {
+               "name" : "She's Kinda Hot"
+            }, {
+               "name" : "Amnesia"
+            }, {
+               "name" : "CAROUSEL"
+            }, {
+               "name" : "Who Do You Love",
+               "cover" : {
+                  "mbid" : "91a81925-92f9-4fc9-b897-93cf01226282",
+                  "name" : "The Chainsmokers",
+                  "sortName" : "Chainsmokers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-chainsmokers-33db30f9.html"
+               }
+            }, {
+               "name" : "Vapor"
+            }, {
+               "name" : "Waste the Night"
+            }, {
+               "name" : "Don't Stop"
+            }, {
+               "name" : "Voodoo Doll",
+               "info" : "Dice song"
+            }, {
+               "name" : "Ghost of You"
+            }, {
+               "name" : "Want You Back"
+            }, {
+               "name" : "Disconnected"
+            }, {
+               "name" : "You Don't Go To Parties"
+            }, {
+               "name" : "Me Myself & I"
+            }, {
+               "name" : "Why Won't You Love Me"
+            }, {
+               "name" : "Best Friends"
+            }, {
+               "name" : "Meet You There",
+               "info" : "Ashton drum battle"
+            }, {
+               "name" : "Teeth"
+            }, {
+               "name" : "Jet Black Heart"
+            }, {
+               "name" : "She Looks So Perfect"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Outer Space"
+            }, {
+               "name" : "Youngblood"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/5-seconds-of-summer/2023/madison-square-garden-new-york-ny-4ba53362.html"
+   }, {
+      "id" : "23a5240f",
+      "versionId" : "g5b8907e4",
+      "eventDate" : "21-08-2023",
+      "lastUpdated" : "2024-01-24T21:04:06.177+0000",
+      "artist" : {
+         "mbid" : "bd2386cf-1696-4d38-8690-0723e92e41df",
+         "name" : "Meet Me @ the Altar",
+         "sortName" : "Meet Me at the Altar",
+         "disambiguation" : "American pop punk band",
+         "url" : "https://www.setlist.fm/setlists/meet-me-the-altar-6bf50a56.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Same Language"
+            }, {
+               "name" : "Need Me"
+            }, {
+               "name" : "Try"
+            }, {
+               "name" : "Give It Up"
+            }, {
+               "name" : "Since U Been Gone",
+               "cover" : {
+                  "mbid" : "d339efbb-77b9-4147-ba9e-59f2f24550b2",
+                  "name" : "Kelly Clarkson",
+                  "sortName" : "Clarkson, Kelly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kelly-clarkson-5bd6bfd0.html"
+               }
+            }, {
+               "name" : "Complicated",
+               "cover" : {
+                  "mbid" : "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+                  "name" : "Avril Lavigne",
+                  "sortName" : "Lavigne, Avril",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/avril-lavigne-63d6d6bf.html"
+               }
+            }, {
+               "name" : "Burnin' Up",
+               "cover" : {
+                  "mbid" : "6e019bc6-5c23-4935-94f0-4a896631d846",
+                  "name" : "Jonas Brothers",
+                  "sortName" : "Jonas Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jonas-brothers-43d6d3d7.html"
+               }
+            }, {
+               "name" : "T.M.I"
+            }, {
+               "name" : "Say It (to My Face)"
+            }, {
+               "name" : "Kool"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/meet-me-the-altar/2023/madison-square-garden-new-york-ny-23a5240f.html"
+   } ]
+}

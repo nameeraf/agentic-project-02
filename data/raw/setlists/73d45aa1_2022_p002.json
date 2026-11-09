@@ -1,0 +1,1375 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 82,
+   "setlist" : [ {
+      "id" : "43be135f",
+      "versionId" : "g5beae7b8",
+      "eventDate" : "05-11-2022",
+      "lastUpdated" : "2023-03-16T04:31:37.978+0000",
+      "artist" : {
+         "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+         "name" : "The Avett Brothers",
+         "sortName" : "Avett Brothers, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Don't Be Scared",
+               "cover" : {
+                  "mbid" : "f8e6936e-b8df-4ca7-9627-e65eb522f8c6",
+                  "name" : "David Childers",
+                  "sortName" : "Childers, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-childers-3bcc5094.html"
+               }
+            }, {
+               "name" : "Satan Pulls the Strings"
+            }, {
+               "name" : "Morning Song"
+            }, {
+               "name" : "Laundry Room"
+            }, {
+               "name" : "Old Joe Clark",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Trouble Letting Go"
+            }, {
+               "name" : "Operator (That's Not the Way It Feels)",
+               "cover" : {
+                  "mbid" : "fcfa9543-e113-4ef9-9ef6-455ba4cbe7af",
+                  "name" : "Jim Croce",
+                  "sortName" : "Croce, Jim",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jim-croce-6bd6b282.html"
+               }
+            }, {
+               "name" : "Untitled #4"
+            }, {
+               "name" : "Live and Die"
+            }, {
+               "name" : "Go to Sleep"
+            }, {
+               "name" : "At the Beach"
+            }, {
+               "name" : "Head Full of Doubt/Road Full of Promise"
+            }, {
+               "name" : "Murder in the City"
+            }, {
+               "name" : "Sanguine"
+            }, {
+               "name" : "I Wish I Was"
+            }, {
+               "name" : "Talk on Indolence"
+            }, {
+               "name" : "Ain't No Man"
+            }, {
+               "name" : "I and Love and You"
+            }, {
+               "name" : "Slight Figure of Speech"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Prettiest Thing",
+               "cover" : {
+                  "mbid" : "9f1c549f-ac47-42f4-ad80-d371bd0a8ed3",
+                  "name" : "David Childers & The Modern Don Juans",
+                  "sortName" : "Childers, David & Modern Don Juans, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-childers-and-the-modern-don-juans-7bdffe48.html"
+               }
+            }, {
+               "name" : "No Hard Feelings"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-avett-brothers/2022/kings-theatre-brooklyn-ny-43be135f.html"
+   }, {
+      "id" : "5bbe1f00",
+      "versionId" : "g5be78704",
+      "eventDate" : "04-11-2022",
+      "lastUpdated" : "2022-11-05T16:29:46.179+0000",
+      "artist" : {
+         "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+         "name" : "The Avett Brothers",
+         "sortName" : "Avett Brothers, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Die Die Die"
+            }, {
+               "name" : "Shame"
+            }, {
+               "name" : "High Steppin'"
+            }, {
+               "name" : "Down With the Shine"
+            }, {
+               "name" : "Head Full of Doubt/Road Full of Promise"
+            }, {
+               "name" : "Vanity"
+            }, {
+               "name" : "Kick Drum Heart"
+            }, {
+               "name" : "I Go to My Heart"
+            }, {
+               "name" : "When I Drink"
+            }, {
+               "name" : "Le reel du pendu / Les bars de la prison"
+            }, {
+               "name" : "Locked Up"
+            }, {
+               "name" : "Rejects in the Attic"
+            }, {
+               "name" : "Please Pardon Yourself"
+            }, {
+               "name" : "SSS"
+            }, {
+               "name" : "Pretty Girl From Chile"
+            }, {
+               "name" : "I and Love and You"
+            }, {
+               "name" : "Murder in the City"
+            }, {
+               "name" : "Pretty Girl From Michigan"
+            }, {
+               "name" : "Open-Ended Life"
+            }, {
+               "name" : "All My Mistakes"
+            }, {
+               "name" : "Ain't No Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "A Father's First Spring"
+            }, {
+               "name" : "No Hard Feelings"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-avett-brothers/2022/kings-theatre-brooklyn-ny-5bbe1f00.html"
+   }, {
+      "id" : "1bb96170",
+      "versionId" : "g3b65553",
+      "eventDate" : "04-11-2022",
+      "lastUpdated" : "2024-02-05T02:44:16.490+0000",
+      "artist" : {
+         "mbid" : "256ef3d2-b232-4748-a391-1cc654fe363f",
+         "name" : "Seth Avett",
+         "sortName" : "Avett, Seth",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/seth-avett-63d7322b.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My New Book",
+               "cover" : {
+                  "mbid" : "8d5521d6-473d-4da0-b68d-553d4188619d",
+                  "name" : "Greg Brown",
+                  "sortName" : "Brown, Greg",
+                  "disambiguation" : "American folk singer",
+                  "url" : "https://www.setlist.fm/setlists/greg-brown-7bd63eb8.html"
+               }
+            }, {
+               "name" : "Laughing River",
+               "cover" : {
+                  "mbid" : "8d5521d6-473d-4da0-b68d-553d4188619d",
+                  "name" : "Greg Brown",
+                  "sortName" : "Brown, Greg",
+                  "disambiguation" : "American folk singer",
+                  "url" : "https://www.setlist.fm/setlists/greg-brown-7bd63eb8.html"
+               }
+            }, {
+               "name" : "You Drive Me Crazy",
+               "cover" : {
+                  "mbid" : "8d5521d6-473d-4da0-b68d-553d4188619d",
+                  "name" : "Greg Brown",
+                  "sortName" : "Brown, Greg",
+                  "disambiguation" : "American folk singer",
+                  "url" : "https://www.setlist.fm/setlists/greg-brown-7bd63eb8.html"
+               }
+            }, {
+               "name" : "Just a Bum",
+               "cover" : {
+                  "mbid" : "8d5521d6-473d-4da0-b68d-553d4188619d",
+                  "name" : "Greg Brown",
+                  "sortName" : "Brown, Greg",
+                  "disambiguation" : "American folk singer",
+                  "url" : "https://www.setlist.fm/setlists/greg-brown-7bd63eb8.html"
+               }
+            }, {
+               "name" : "The Poet Game",
+               "cover" : {
+                  "mbid" : "8d5521d6-473d-4da0-b68d-553d4188619d",
+                  "name" : "Greg Brown",
+                  "sortName" : "Brown, Greg",
+                  "disambiguation" : "American folk singer",
+                  "url" : "https://www.setlist.fm/setlists/greg-brown-7bd63eb8.html"
+               }
+            }, {
+               "name" : "Tenderhearted Child",
+               "cover" : {
+                  "mbid" : "8d5521d6-473d-4da0-b68d-553d4188619d",
+                  "name" : "Greg Brown",
+                  "sortName" : "Brown, Greg",
+                  "disambiguation" : "American folk singer",
+                  "url" : "https://www.setlist.fm/setlists/greg-brown-7bd63eb8.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Solo. Show opener.",
+      "url" : "https://www.setlist.fm/setlist/seth-avett/2022/kings-theatre-brooklyn-ny-1bb96170.html"
+   }, {
+      "id" : "3be01db",
+      "versionId" : "g6390c257",
+      "eventDate" : "03-11-2022",
+      "lastUpdated" : "2023-06-21T17:34:31.869+0000",
+      "artist" : {
+         "mbid" : "0a176d0a-ef46-4e7f-b018-9f4d65614668",
+         "name" : "The Avett Brothers",
+         "sortName" : "Avett Brothers, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-avett-brothers-33d66809.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Long Story Short"
+            }, {
+               "name" : "Bleeding White"
+            }, {
+               "name" : "The Perfect Space"
+            }, {
+               "name" : "Head Full of Doubt/Road Full of Promise"
+            }, {
+               "name" : "Paranoia in B-Flat Major"
+            }, {
+               "name" : "The Ballad of Love and Hate"
+            }, {
+               "name" : "Satan Pulls the Strings"
+            }, {
+               "name" : "Live and Die"
+            }, {
+               "name" : "Talk on Indolence"
+            }, {
+               "name" : "Winter in My Heart"
+            }, {
+               "name" : "Distraction #74"
+            }, {
+               "name" : "Will You Return?"
+            }, {
+               "name" : "I Wish I Was"
+            }, {
+               "name" : "Fisher Road to Hollywood"
+            }, {
+               "name" : "The D Bag Rag"
+            }, {
+               "name" : "Hard Worker"
+            }, {
+               "name" : "February Seven"
+            }, {
+               "name" : "Slight Figure of Speech"
+            }, {
+               "name" : "Ain't No Man"
+            }, {
+               "name" : "I and Love and You"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "C-Sections and Railway Trestles"
+            }, {
+               "name" : "Ramblin' Fever",
+               "cover" : {
+                  "mbid" : "deb2448c-6fdf-4d31-921e-757630515dbd",
+                  "name" : "Merle Haggard",
+                  "sortName" : "Haggard, Merle",
+                  "disambiguation" : "US country singer, guitarist, fiddler & songwriter",
+                  "url" : "https://www.setlist.fm/setlists/merle-haggard-73d6de21.html"
+               }
+            }, {
+               "name" : "No Hard Feelings"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-avett-brothers/2022/kings-theatre-brooklyn-ny-3be01db.html"
+   }, {
+      "id" : "5bbc9f3c",
+      "versionId" : "g23e264b7",
+      "eventDate" : "24-10-2022",
+      "lastUpdated" : "2022-12-12T07:52:30.827+0000",
+      "artist" : {
+         "mbid" : "640c918a-cbeb-4418-973e-01bc24923e28",
+         "name" : "Jesse Ahern",
+         "sortName" : "Ahern, Jesse",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jesse-ahern-2bcedcb6.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opened for Dropkick Murphys",
+      "url" : "https://www.setlist.fm/setlist/jesse-ahern/2022/kings-theatre-brooklyn-ny-5bbc9f3c.html"
+   }, {
+      "id" : "2bbe9cf2",
+      "versionId" : "g1b4971bc",
+      "eventDate" : "24-10-2022",
+      "lastUpdated" : "2025-06-12T23:32:37.514+0000",
+      "artist" : {
+         "mbid" : "e8374874-4178-4869-b92e-fef6bf30dc04",
+         "name" : "Dropkick Murphys",
+         "sortName" : "Dropkick Murphys",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dropkick-murphys-63d6d2b7.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "This Machine... Theater Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ten Times More"
+            }, {
+               "name" : "Two 6's Upside Down"
+            }, {
+               "name" : "Middle Finger"
+            }, {
+               "name" : "Talking Jukebox"
+            }, {
+               "name" : "Citizen C.I.A."
+            }, {
+               "name" : "Take 'Em Down"
+            }, {
+               "name" : "Cadillac, Cadillac"
+            }, {
+               "name" : "We Shall Overcome",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Worker's Song"
+            }, {
+               "name" : "Waters Are A'risin"
+            }, {
+               "name" : "Where Trouble Is At"
+            }, {
+               "name" : "Never Git Drunk No More",
+               "with" : {
+                  "mbid" : "c576321e-7db9-49c3-95d2-1313507c0931",
+                  "name" : "Jaime Wyatt",
+                  "sortName" : "Wyatt, Jaime",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jaime-wyatt-bd72592.html"
+               }
+            }, {
+               "name" : "All You Fonies"
+            }, {
+               "name" : "The Last One",
+               "info" : "with Cole Quest, Woody Guthrie’s grand son"
+            }, {
+               "name" : "Rose Tattoo"
+            }, {
+               "name" : "Barroom Hero"
+            }, {
+               "name" : "Skinhead on the MBTA"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I'm Shipping Up to Boston"
+            }, {
+               "name" : "Dig a Hole",
+               "info" : "with Cole Quest, Woody Guthrie’s grand son"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dropkick-murphys/2022/kings-theatre-brooklyn-ny-2bbe9cf2.html"
+   }, {
+      "id" : "23be88fb",
+      "versionId" : "g43e6835f",
+      "eventDate" : "24-10-2022",
+      "lastUpdated" : "2022-10-27T05:49:59.161+0000",
+      "artist" : {
+         "mbid" : "c576321e-7db9-49c3-95d2-1313507c0931",
+         "name" : "Jaime Wyatt",
+         "sortName" : "Wyatt, Jaime",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jaime-wyatt-bd72592.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rattlesnake Girl"
+            }, {
+               "name" : "Neon Cross"
+            }, {
+               "name" : "Just a Woman"
+            }, {
+               "name" : "Mercy"
+            }, {
+               "name" : "Fugitive",
+               "info" : "new song"
+            } ]
+         } ]
+      },
+      "info" : "played with Andrew Sovine",
+      "url" : "https://www.setlist.fm/setlist/jaime-wyatt/2022/kings-theatre-brooklyn-ny-23be88fb.html"
+   }, {
+      "id" : "3bea1d7",
+      "versionId" : "g1bf90594",
+      "eventDate" : "21-10-2022",
+      "lastUpdated" : "2022-10-22T12:48:25.453+0000",
+      "artist" : {
+         "mbid" : "ca4d7350-e835-4af6-9cbd-1e012e597de4",
+         "name" : "Jacob Banks",
+         "sortName" : "Banks, Jacob",
+         "disambiguation" : "soul singer from Birmingham, UK",
+         "url" : "https://www.setlist.fm/setlists/jacob-banks-1bdded58.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jacob-banks/2022/kings-theatre-brooklyn-ny-3bea1d7.html"
+   }, {
+      "id" : "13b14dfd",
+      "versionId" : "g1bf9fd30",
+      "eventDate" : "15-10-2022",
+      "lastUpdated" : "2022-10-18T02:07:43.083+0000",
+      "artist" : {
+         "mbid" : "91136bf7-3b12-4ae5-b93b-eddb9e561dfb",
+         "name" : "Wardruna",
+         "sortName" : "Wardruna",
+         "disambiguation" : "Norwegian neofolk",
+         "url" : "https://www.setlist.fm/setlists/wardruna-1bd4b5b0.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kvitravn"
+            }, {
+               "name" : "Skugge"
+            }, {
+               "name" : "Solringen"
+            }, {
+               "name" : "Bjarkan"
+            }, {
+               "name" : "Lyfjaberg"
+            }, {
+               "name" : "Tyr"
+            }, {
+               "name" : "Isa"
+            }, {
+               "name" : "UruR"
+            }, {
+               "name" : "Grá"
+            }, {
+               "name" : "Rotlaust tre fell"
+            }, {
+               "name" : "Fehu"
+            }, {
+               "name" : "Odal"
+            }, {
+               "name" : "Helvegen"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Voluspá (Skaldic Version)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wardruna/2022/kings-theatre-brooklyn-ny-13b14dfd.html"
+   }, {
+      "id" : "3b165e3",
+      "versionId" : "g53ad6b89",
+      "eventDate" : "14-10-2022",
+      "lastUpdated" : "2024-09-01T03:10:35.650+0000",
+      "artist" : {
+         "mbid" : "0df400cb-3a6e-4e74-8da2-1fffec0ba840",
+         "name" : "Daniel Howell",
+         "sortName" : "Howell, Daniel",
+         "disambiguation" : "British internet personality",
+         "url" : "https://www.setlist.fm/setlists/daniel-howell-3e761b3.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "We're All Doomed"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Everything Is Fine"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/daniel-howell/2022/kings-theatre-brooklyn-ny-3b165e3.html"
+   }, {
+      "id" : "5bb1f3b0",
+      "versionId" : "g739816d5",
+      "eventDate" : "03-10-2022",
+      "lastUpdated" : "2023-08-31T00:24:25.204+0000",
+      "artist" : {
+         "mbid" : "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+         "name" : "Pavement",
+         "sortName" : "Pavement",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/pavement-7bd6ae98.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Tour 2022-23"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Grounded"
+            }, {
+               "name" : "Silence Kid"
+            }, {
+               "name" : "Gold Soundz"
+            }, {
+               "name" : "Fame Throwa"
+            }, {
+               "name" : "Kennel District"
+            }, {
+               "name" : "Starlings of the Slipstream"
+            }, {
+               "name" : "Trigger Cut"
+            }, {
+               "name" : "Two States"
+            }, {
+               "name" : "Zurich Is Stained"
+            }, {
+               "name" : "Heckler Spray"
+            }, {
+               "name" : "Debris Slide"
+            }, {
+               "name" : "Type Slowly"
+            }, {
+               "name" : "Shady Lane"
+            }, {
+               "name" : "Father to a Sister of Thought"
+            }, {
+               "name" : "Serpentine Pad"
+            }, {
+               "name" : "Give It a Day"
+            }, {
+               "name" : "Harness Your Hopes"
+            }, {
+               "name" : "Pueblo"
+            }, {
+               "name" : "Stereo"
+            }, {
+               "name" : "Transport Is Arranged"
+            }, {
+               "name" : "AT&T",
+               "info" : "first time since 21 November 2010"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Grave Architecture"
+            }, {
+               "name" : "Range Life"
+            }, {
+               "name" : "Shoot the Singer (1 Sick Verse)"
+            }, {
+               "name" : "Cut Your Hair"
+            }, {
+               "name" : "Fillmore Jive"
+            } ]
+         } ]
+      },
+      "info" : "Printed setlist listed 21st song as Fin but band closed set with AT&T instead.",
+      "url" : "https://www.setlist.fm/setlist/pavement/2022/kings-theatre-brooklyn-ny-5bb1f3b0.html"
+   }, {
+      "id" : "53b1ef65",
+      "versionId" : "g4bfb37b2",
+      "eventDate" : "03-10-2022",
+      "lastUpdated" : "2022-10-01T13:08:13.183+0000",
+      "artist" : {
+         "mbid" : "a0d05bb8-3ef4-4b70-8992-5da4322afc21",
+         "name" : "Steve Gunn",
+         "sortName" : "Gunn, Steve",
+         "disambiguation" : "US singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/steve-gunn-53d2e74d.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/steve-gunn/2022/kings-theatre-brooklyn-ny-53b1ef65.html"
+   }, {
+      "id" : "bb1f9da",
+      "versionId" : "g7b9816c8",
+      "eventDate" : "02-10-2022",
+      "lastUpdated" : "2023-08-31T00:24:48.809+0000",
+      "artist" : {
+         "mbid" : "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+         "name" : "Pavement",
+         "sortName" : "Pavement",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/pavement-7bd6ae98.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Tour 2022-23"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Major Leagues"
+            }, {
+               "name" : "In the Mouth a Desert"
+            }, {
+               "name" : "Two States"
+            }, {
+               "name" : "We Dance"
+            }, {
+               "name" : "Harness Your Hopes"
+            }, {
+               "name" : "Cut Your Hair"
+            }, {
+               "name" : "Heaven Is a Truck"
+            }, {
+               "name" : "The Hexx"
+            }, {
+               "name" : "Frontwards"
+            }, {
+               "name" : "Home"
+            }, {
+               "name" : "Stereo"
+            }, {
+               "name" : "Kennel District"
+            }, {
+               "name" : "Range Life",
+               "info" : "'Fame Throwa' was written, but crossed out, on the paper setlist in this spot"
+            }, {
+               "name" : "Folk Jam"
+            }, {
+               "name" : "Embassy Row"
+            }, {
+               "name" : "Fight This Generation"
+            }, {
+               "name" : "Here",
+               "info" : "'Grounded' was written, but crossed out, on the paper setlist in this spot"
+            }, {
+               "name" : "Blue Hawaiian"
+            }, {
+               "name" : "Motion Suggests"
+            }, {
+               "name" : "Unfair"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Spizzle Trunk",
+               "info" : "not on the paper setlist"
+            }, {
+               "name" : "Spit on a Stranger"
+            }, {
+               "name" : "Gangsters & Pranksters"
+            }, {
+               "name" : "Summer Babe"
+            }, {
+               "name" : "Stop Breathin"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pavement/2022/kings-theatre-brooklyn-ny-bb1f9da.html"
+   }, {
+      "id" : "33b1f4a9",
+      "versionId" : "g2bfbcc16",
+      "eventDate" : "02-10-2022",
+      "lastUpdated" : "2022-09-30T15:33:40.175+0000",
+      "artist" : {
+         "mbid" : "4424a6e5-5232-4410-b1f0-b8b510d31ffd",
+         "name" : "Horsegirl",
+         "sortName" : "Horsegirl",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/horsegirl-63f3561b.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/horsegirl/2022/kings-theatre-brooklyn-ny-33b1f4a9.html"
+   }, {
+      "id" : "53b18751",
+      "versionId" : "g7373ba89",
+      "eventDate" : "01-10-2022",
+      "lastUpdated" : "2025-07-20T04:20:20.902+0000",
+      "artist" : {
+         "mbid" : "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+         "name" : "Pavement",
+         "sortName" : "Pavement",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/pavement-7bd6ae98.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Tour 2022-23"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Our Singer"
+            }, {
+               "name" : "Silence Kid"
+            }, {
+               "name" : "Black Out"
+            }, {
+               "name" : "Perfume-V"
+            }, {
+               "name" : "Transport Is Arranged"
+            }, {
+               "name" : "Zurich Is Stained"
+            }, {
+               "name" : "Type Slowly"
+            }, {
+               "name" : "Stereo"
+            }, {
+               "name" : "Date w/ IKEA"
+            }, {
+               "name" : "Grave Architecture"
+            }, {
+               "name" : "Gold Soundz"
+            }, {
+               "name" : "Starlings of the Slipstream"
+            }, {
+               "name" : "Summer Babe"
+            }, {
+               "name" : "Pueblo"
+            }, {
+               "name" : "Heckler Spray"
+            }, {
+               "name" : "Feed 'em to the (Linden) Lions"
+            }, {
+               "name" : "Embassy Row"
+            }, {
+               "name" : "Debris Slide"
+            }, {
+               "name" : "Grounded"
+            }, {
+               "name" : "Shady Lane"
+            }, {
+               "name" : "We Dance"
+            }, {
+               "name" : "Harness Your Hopes"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Half a Canyon"
+            }, {
+               "name" : "Spit on a Stranger"
+            }, {
+               "name" : "Cut Your Hair"
+            }, {
+               "name" : "Painted Soldiers"
+            }, {
+               "name" : "Witchitai-To",
+               "cover" : {
+                  "mbid" : "dc7c2382-e566-43e6-9250-3fe2e3c63713",
+                  "name" : "Jim Pepper",
+                  "sortName" : "Pepper, Jim",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jim-pepper-53d35311.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Printed setlist had Serpentine Pad as 25th song but band played Cut Your Hair instead.",
+      "url" : "https://www.setlist.fm/setlist/pavement/2022/kings-theatre-brooklyn-ny-53b18751.html"
+   }, {
+      "id" : "4bb1874a",
+      "versionId" : "g4bfbf7ae",
+      "eventDate" : "01-10-2022",
+      "lastUpdated" : "2022-09-29T01:31:37.007+0000",
+      "artist" : {
+         "mbid" : "2abe8e8b-4f70-4379-9348-ec559faab8e3",
+         "name" : "75 Dollar Bill",
+         "sortName" : "75 Dollar Bill",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/75-dollar-bill-43c2cb8f.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/75-dollar-bill/2022/kings-theatre-brooklyn-ny-4bb1874a.html"
+   }, {
+      "id" : "73b19251",
+      "versionId" : "g739816c5",
+      "eventDate" : "30-09-2022",
+      "lastUpdated" : "2023-08-31T00:25:53.104+0000",
+      "artist" : {
+         "mbid" : "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+         "name" : "Pavement",
+         "sortName" : "Pavement",
+         "disambiguation" : "US indie rock band",
+         "url" : "https://www.setlist.fm/setlists/pavement-7bd6ae98.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "Tour 2022-23"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Fin"
+            }, {
+               "name" : "Box Elder"
+            }, {
+               "name" : "Harness Your Hopes"
+            }, {
+               "name" : "Spit on a Stranger"
+            }, {
+               "name" : "Serpentine Pad"
+            }, {
+               "name" : "Painted Soldiers"
+            }, {
+               "name" : "Type Slowly"
+            }, {
+               "name" : "Heckler Spray"
+            }, {
+               "name" : "Trigger Cut"
+            }, {
+               "name" : "Shoot the Singer (1 Sick Verse)"
+            }, {
+               "name" : "Two States"
+            }, {
+               "name" : "Gold Soundz"
+            }, {
+               "name" : "Grounded"
+            }, {
+               "name" : "Folk Jam"
+            }, {
+               "name" : "Kennel District"
+            }, {
+               "name" : "Father to a Sister of Thought"
+            }, {
+               "name" : "Stereo"
+            }, {
+               "name" : "Here"
+            }, {
+               "name" : "The Hexx"
+            }, {
+               "name" : "Unfair"
+            }, {
+               "name" : "Range Life"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Stop Breathin"
+            }, {
+               "name" : "Major Leagues",
+               "info" : "with band introductions"
+            }, {
+               "name" : "Summer Babe"
+            }, {
+               "name" : "Cut Your Hair"
+            } ]
+         } ]
+      },
+      "info" : "Printed setlist had last three songs as Cut Your Hair, Black Out, and Summer Babe, but they ended up swapping Cut Your Hair and Summer Babe and skipping Black Out.",
+      "url" : "https://www.setlist.fm/setlist/pavement/2022/kings-theatre-brooklyn-ny-73b19251.html"
+   }, {
+      "id" : "5bb18b3c",
+      "versionId" : "g7bfbfe30",
+      "eventDate" : "30-09-2022",
+      "lastUpdated" : "2022-09-28T19:56:08.598+0000",
+      "artist" : {
+         "mbid" : "29fc673c-8c3e-4ff3-8b1f-f77c3bf46a18",
+         "name" : "The Goon Sax",
+         "sortName" : "Goon Sax, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-goon-sax-33c4a85d.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-goon-sax/2022/kings-theatre-brooklyn-ny-5bb18b3c.html"
+   }, {
+      "id" : "4bb1ef62",
+      "versionId" : "g5bfb37c4",
+      "eventDate" : "30-09-2022",
+      "lastUpdated" : "2022-10-01T13:06:01.278+0000",
+      "artist" : {
+         "mbid" : "09f91305-e193-48af-92e3-252b3dd5e718",
+         "name" : "Water From Your Eyes",
+         "sortName" : "Water From Your Eyes",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/water-from-your-eyes-4bc1db8a.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/water-from-your-eyes/2022/kings-theatre-brooklyn-ny-4bb1ef62.html"
+   }, {
+      "id" : "33b0683d",
+      "versionId" : "g3bfb48bc",
+      "eventDate" : "22-09-2022",
+      "lastUpdated" : "2022-10-05T10:29:03.681+0000",
+      "artist" : {
+         "mbid" : "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+         "name" : "Arctic Monkeys",
+         "sortName" : "Arctic Monkeys",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/arctic-monkeys-3d6bdbf.html"
+      },
+      "venue" : {
+         "id" : "73d45aa1",
+         "name" : "Kings Theatre",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/kings-theatre-brooklyn-ny-usa-73d45aa1.html"
+      },
+      "tour" : {
+         "name" : "The Car"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "There'd Better Be a Mirrorball",
+               "info" : "Live debut"
+            }, {
+               "name" : "One Point Perspective"
+            }, {
+               "name" : "Snap Out of It"
+            }, {
+               "name" : "Crying Lightning"
+            }, {
+               "name" : "Why'd You Only Call Me When You're High?"
+            }, {
+               "name" : "Arabella"
+            }, {
+               "name" : "Tranquility Base Hotel + Casino"
+            }, {
+               "name" : "The Ultracheese",
+               "info" : "Tour debut"
+            }, {
+               "name" : "Body Paint",
+               "info" : "Public live debut"
+            }, {
+               "name" : "Brianstorm"
+            }, {
+               "name" : "Potion Approaching"
+            }, {
+               "name" : "Do I Wanna Know?"
+            }, {
+               "name" : "That's Where You're Wrong"
+            }, {
+               "name" : "Knee Socks"
+            }, {
+               "name" : "I Ain't Quite Where I Think I Am"
+            }, {
+               "name" : "Pretty Visitors",
+               "info" : "Not in the printed setlist"
+            }, {
+               "name" : "From the Ritz to the Rubble"
+            }, {
+               "name" : "I Bet You Look Good on the Dancefloor"
+            }, {
+               "name" : "R U Mine?"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mr Schwartz",
+               "info" : "Live debut"
+            }, {
+               "name" : "Cornerstone"
+            }, {
+               "name" : "505"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arctic-monkeys/2022/kings-theatre-brooklyn-ny-33b0683d.html"
+   } ]
+}

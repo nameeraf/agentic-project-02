@@ -1,0 +1,2320 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 211,
+   "setlist" : [ {
+      "id" : "63560a53",
+      "versionId" : "g4ba32302",
+      "eventDate" : "16-07-2024",
+      "lastUpdated" : "2024-07-17T04:17:44.747+0000",
+      "artist" : {
+         "mbid" : "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+         "name" : "Noah Kahan",
+         "sortName" : "Kahan, Noah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/noah-kahan-7bcdeef4.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "We'll All Be Here Forever"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dial Drunk"
+            }, {
+               "name" : "New Perspective"
+            }, {
+               "name" : "Everywhere, Everything"
+            }, {
+               "name" : "False Confidence"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Come Over",
+               "info" : "acoustic"
+            }, {
+               "name" : "Godlight",
+               "info" : "acoustic"
+            }, {
+               "name" : "Paul Revere"
+            }, {
+               "name" : "All My Love"
+            }, {
+               "name" : "Your Needs, My Needs"
+            }, {
+               "name" : "The Great Divide",
+               "info" : "unreleased"
+            }, {
+               "name" : "You're Gonna Go Far"
+            }, {
+               "name" : "Homesick"
+            } ]
+         }, {
+            "name" : "B Stage",
+            "song" : [ {
+               "name" : "Growing Sideways",
+               "info" : "acoustic"
+            }, {
+               "name" : "Strawberry Wine",
+               "info" : "acoustic"
+            } ]
+         }, {
+            "name" : "Main Stage",
+            "song" : [ {
+               "name" : "She Calls Me Back"
+            }, {
+               "name" : "Call Your Mom"
+            }, {
+               "name" : "Orange Juice"
+            }, {
+               "name" : "Northern Attitude"
+            } ]
+         }, {
+            "name" : "Encore",
+            "song" : [ {
+               "name" : "The View Between Villages",
+               "info" : "Extended"
+            }, {
+               "name" : "Stick Season",
+               "with" : {
+                  "mbid" : "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+                  "name" : "Remi Wolf",
+                  "sortName" : "Wolf, Remi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/remi-wolf-13f42179.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noah-kahan/2024/madison-square-garden-new-york-ny-63560a53.html"
+   }, {
+      "id" : "b54c152",
+      "versionId" : "g4ba3235e",
+      "eventDate" : "15-07-2024",
+      "lastUpdated" : "2024-07-17T04:09:23.892+0000",
+      "artist" : {
+         "mbid" : "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+         "name" : "Noah Kahan",
+         "sortName" : "Kahan, Noah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/noah-kahan-7bcdeef4.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "We'll All Be Here Forever"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dial Drunk"
+            }, {
+               "name" : "New Perspective"
+            }, {
+               "name" : "Everywhere, Everything"
+            }, {
+               "name" : "False Confidence"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Pain Is Cold Water",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Maine",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Godlight",
+               "info" : "Acoustic"
+            }, {
+               "name" : "Paul Revere"
+            }, {
+               "name" : "All My Love"
+            }, {
+               "name" : "Your Needs, My Needs"
+            }, {
+               "name" : "Spoiled"
+            }, {
+               "name" : "You're Gonna Go Far"
+            }, {
+               "name" : "Homesick"
+            } ]
+         }, {
+            "name" : "B Stage",
+            "song" : [ {
+               "name" : "Growing Sideways"
+            }, {
+               "name" : "Way Up High",
+               "info" : "unreleased"
+            } ]
+         }, {
+            "name" : "Main Stage",
+            "song" : [ {
+               "name" : "She Calls Me Back"
+            }, {
+               "name" : "Carlo's Song"
+            }, {
+               "name" : "Orange Juice"
+            }, {
+               "name" : "Northern Attitude"
+            } ]
+         }, {
+            "name" : "Encore",
+            "song" : [ {
+               "name" : "The View Between Villages",
+               "info" : "Extended"
+            }, {
+               "name" : "Stick Season",
+               "with" : {
+                  "mbid" : "6a997121-0919-482b-a91b-c6fe1b55a4b9",
+                  "name" : "James Bay",
+                  "sortName" : "Bay, James",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/james-bay-53d83f49.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noah-kahan/2024/madison-square-garden-new-york-ny-b54c152.html"
+   }, {
+      "id" : "5354c369",
+      "versionId" : "g53a327f9",
+      "eventDate" : "15-07-2024",
+      "lastUpdated" : "2024-07-17T01:52:30.650+0000",
+      "artist" : {
+         "mbid" : "6a997121-0919-482b-a91b-c6fe1b55a4b9",
+         "name" : "James Bay",
+         "sortName" : "Bay, James",
+         "disambiguation" : "English singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/james-bay-53d83f49.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Best Fake Smile"
+            }, {
+               "name" : "Wanderlust"
+            }, {
+               "name" : "If You Ever Want to Be in Love"
+            }, {
+               "name" : "Us"
+            }, {
+               "name" : "Let It Go"
+            }, {
+               "name" : "Up All Night",
+               "info" : "(Releases Friday)"
+            }, {
+               "name" : "Craving"
+            }, {
+               "name" : "Hold Back the River"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/james-bay/2024/madison-square-garden-new-york-ny-5354c369.html"
+   }, {
+      "id" : "3b57a068",
+      "versionId" : "g23aacc7b",
+      "eventDate" : "13-07-2024",
+      "lastUpdated" : "2024-09-06T06:31:52.589+0000",
+      "artist" : {
+         "mbid" : "44c64a30-1d58-49c5-b314-6e02fba49526",
+         "name" : "Joe Hisaishi",
+         "sortName" : "Hisaishi, Joe",
+         "disambiguation" : "composer & musical director",
+         "url" : "https://www.setlist.fm/setlists/joe-hisaishi-6bd0f62a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Joe Hisaishi Symphonic Concert : Music from the Studio Ghibli Films of Hayao Miyasaki"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Nausicaä of the Valley of the Wind",
+            "song" : [ {
+               "name" : "The Legend of the Wind"
+            }, {
+               "name" : "Nausicaa Requiem"
+            }, {
+               "name" : "The Battle Between Mehve and Corvette"
+            }, {
+               "name" : "The Distant Days"
+            }, {
+               "name" : "The Bird Man"
+            } ]
+         }, {
+            "name" : "Kiki's Delivery Service",
+            "song" : [ {
+               "name" : "A Town with an Ocean View"
+            }, {
+               "name" : "Heartbroken Kiki"
+            }, {
+               "name" : "Mother's Broom"
+            } ]
+         }, {
+            "name" : "Princess Mononoke",
+            "song" : [ {
+               "name" : "The Legend of Ashitaka"
+            }, {
+               "name" : "The Demon God",
+               "info" : "Soprano: Janet Todd"
+            }, {
+               "name" : "Princess Mononoke"
+            } ]
+         }, {
+            "name" : "The Wind Rises",
+            "song" : [ {
+               "name" : "A Journey (A Dream of Flight)"
+            }, {
+               "name" : "Nahoko (The Encounter)"
+            }, {
+               "name" : "A Journey (A Kingdom of Dreams)"
+            } ]
+         }, {
+            "name" : "Ponyo on the Cliff by the Sea",
+            "song" : [ {
+               "name" : "Deep Sea Pastures"
+            }, {
+               "name" : "Mother Sea",
+               "info" : "Soprano: Janet Todd"
+            }, {
+               "name" : "Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea"
+            }, {
+               "name" : "Ponyo on the Cliff by the Sea",
+               "info" : "followed by intermission"
+            } ]
+         }, {
+            "name" : "Castle in the Sky",
+            "song" : [ {
+               "name" : "Doves and the Boy"
+            }, {
+               "name" : "Carrying You"
+            } ]
+         }, {
+            "name" : "Porco Rosso",
+            "song" : [ {
+               "name" : "Bygone Days"
+            } ]
+         }, {
+            "name" : "Howl's Moving Castle",
+            "song" : [ {
+               "name" : "Symphonic Variation \"Merry-go-round + Cave of Mind\""
+            } ]
+         }, {
+            "name" : "Spirited Away",
+            "song" : [ {
+               "name" : "One Summer's Day"
+            }, {
+               "name" : "Reprise",
+               "with" : {
+                  "mbid" : "972f616b-4309-46cf-9253-6806e65e1174",
+                  "name" : "Mai Fujisawa",
+                  "sortName" : "Mai",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mai-fujisawa-5bdc1f48.html"
+               }
+            } ]
+         }, {
+            "name" : "My Neighbor Totoro",
+            "song" : [ {
+               "name" : "The Path of the Wind"
+            }, {
+               "name" : "Hey Let's Go",
+               "info" : "Vocals: Janet Todd & Mai Fujisawa"
+            }, {
+               "name" : "My Neighbor Totoro",
+               "info" : "Vocals: Janet Todd & Mai Fujisawa"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Madness",
+               "info" : "from \"Porco Rosso\""
+            }, {
+               "name" : "Ashitaka and San",
+               "info" : "from \"Princess Mononoke\""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joe-hisaishi/2024/madison-square-garden-new-york-ny-3b57a068.html"
+   }, {
+      "id" : "2b57a06a",
+      "versionId" : "g43a62f33",
+      "eventDate" : "12-07-2024",
+      "lastUpdated" : "2024-06-14T18:45:12.678+0000",
+      "artist" : {
+         "mbid" : "44c64a30-1d58-49c5-b314-6e02fba49526",
+         "name" : "Joe Hisaishi",
+         "sortName" : "Hisaishi, Joe",
+         "disambiguation" : "composer & musical director",
+         "url" : "https://www.setlist.fm/setlists/joe-hisaishi-6bd0f62a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Joe Hisaishi Symphonic Concert : Music from the Studio Ghibli Films of Hayao Miyasaki"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joe-hisaishi/2024/madison-square-garden-new-york-ny-2b57a06a.html"
+   }, {
+      "id" : "2357a077",
+      "versionId" : "g23aacc6b",
+      "eventDate" : "11-07-2024",
+      "lastUpdated" : "2024-09-06T06:34:30.154+0000",
+      "artist" : {
+         "mbid" : "44c64a30-1d58-49c5-b314-6e02fba49526",
+         "name" : "Joe Hisaishi",
+         "sortName" : "Hisaishi, Joe",
+         "disambiguation" : "composer & musical director",
+         "url" : "https://www.setlist.fm/setlists/joe-hisaishi-6bd0f62a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Joe Hisaishi Symphonic Concert : Music from the Studio Ghibli Films of Hayao Miyasaki"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Nausicaä of the Valley of the Wind",
+            "song" : [ {
+               "name" : "The Legend of the Wind"
+            }, {
+               "name" : "Nausicaa Requiem"
+            }, {
+               "name" : "The Battle Between Mehve and Corvette"
+            }, {
+               "name" : "The Distant Days"
+            }, {
+               "name" : "The Bird Man"
+            } ]
+         }, {
+            "name" : "Kiki's Delivery Service",
+            "song" : [ {
+               "name" : "A Town with an Ocean View"
+            }, {
+               "name" : "Heartbroken Kiki"
+            }, {
+               "name" : "Mother's Broom"
+            } ]
+         }, {
+            "name" : "Princess Mononoke",
+            "song" : [ {
+               "name" : "The Legend of Ashitaka"
+            }, {
+               "name" : "The Demon God"
+            }, {
+               "name" : "Princess Mononoke"
+            } ]
+         }, {
+            "name" : "The Wind Rises",
+            "song" : [ {
+               "name" : "A Journey (A Dream of Flight)"
+            }, {
+               "name" : "Nahoko (The Encounter)"
+            }, {
+               "name" : "A Journey (A Kingdom of Dreams)"
+            } ]
+         }, {
+            "name" : "Ponyo ",
+            "song" : [ {
+               "name" : "Deep Sea Pastures"
+            }, {
+               "name" : "Mother Sea"
+            }, {
+               "name" : "Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea"
+            }, {
+               "name" : "Ponyo on the Cliff by the Sea"
+            } ]
+         }, {
+            "name" : "Castle in the Sky",
+            "song" : [ {
+               "name" : "Doves and the Boy"
+            }, {
+               "name" : "Carrying You"
+            } ]
+         }, {
+            "name" : "Porco Rosso",
+            "song" : [ {
+               "name" : "Bygone Days"
+            } ]
+         }, {
+            "name" : "Howl's Moving Castle",
+            "song" : [ {
+               "name" : "Merry-Go-Round / Cave Of Mind (symphonic variation)"
+            } ]
+         }, {
+            "name" : "Spirited Away",
+            "song" : [ {
+               "name" : "One Summer's Day"
+            }, {
+               "name" : "Reprise"
+            } ]
+         }, {
+            "name" : "My Neighbor Totoro",
+            "song" : [ {
+               "name" : "The Path of the Wind"
+            }, {
+               "name" : "Hey Let's Go"
+            }, {
+               "name" : "My Neighbor Totoro"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Madness",
+               "info" : "from \"Porco Rosso\""
+            }, {
+               "name" : "Ashitaka and San",
+               "info" : "from \"Princess Mononoke\""
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joe-hisaishi/2024/madison-square-garden-new-york-ny-2357a077.html"
+   }, {
+      "id" : "73559691",
+      "versionId" : "g53a15311",
+      "eventDate" : "30-06-2024",
+      "lastUpdated" : "2024-07-31T20:50:02.057+0000",
+      "artist" : {
+         "mbid" : "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
+         "name" : "Aventura",
+         "sortName" : "Aventura",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/aventura-53d61329.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Cerrando Ciclos 2024 Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/aventura/2024/madison-square-garden-new-york-ny-73559691.html"
+   }, {
+      "id" : "53a89bad",
+      "versionId" : "g3b6d2844",
+      "eventDate" : "29-06-2024",
+      "lastUpdated" : "2026-01-20T16:00:47.912+0000",
+      "artist" : {
+         "mbid" : "2547c5e3-314c-4332-981d-f18c902a4086",
+         "name" : "John Summit",
+         "sortName" : "Summit, John",
+         "disambiguation" : "EDM DJ & producer",
+         "url" : "https://www.setlist.fm/setlists/john-summit-53f2275d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Shiver",
+               "info" : "Cassian Remix"
+            }, {
+               "name" : "See You Sweat",
+               "cover" : {
+                  "mbid" : "76d09fa5-94ba-48fd-aef2-a1f064b3fbdd",
+                  "name" : "Max Styler & GENESI",
+                  "sortName" : "Styler, Max & GENESI",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/max-styler-and-genesi-6be8fe26.html"
+               }
+            }, {
+               "name" : "In Chicago",
+               "info" : "Danny Avila Remix"
+            }, {
+               "name" : "Resonate"
+            }, {
+               "name" : "Trip"
+            }, {
+               "name" : "Fade Out"
+            }, {
+               "name" : "Eat the Bass"
+            }, {
+               "name" : "Variant vs. Escape",
+               "info" : "Zonderling & HI-LO vs. Kx5 & Hayla (HI-LO Mashup)"
+            }, {
+               "name" : "Strobe",
+               "cover" : {
+                  "mbid" : "4a00ec9d-c635-463a-8cd4-eb61725f0c60",
+                  "name" : "deadmau5",
+                  "sortName" : "deadmaus",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/deadmau5-4bd69b1e.html"
+               },
+               "info" : "Layton Giordani Remix"
+            }, {
+               "name" : "Killa",
+               "cover" : {
+                  "mbid" : "bbc8350d-11e8-4be4-9337-45cf283e2f8d",
+                  "name" : "Chris Avantgarde",
+                  "sortName" : "Avantgarde, Chris",
+                  "disambiguation" : "Christian Vornweg, DJ/producer",
+                  "url" : "https://www.setlist.fm/setlists/chris-avantgarde-3d251af.html"
+               }
+            }, {
+               "name" : "Gas Pedal",
+               "cover" : {
+                  "mbid" : "c211af3d-65e0-46a7-ac49-6c84837a0d16",
+                  "name" : "Sage the Gemini",
+                  "sortName" : "Sage the Gemini",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sage-the-gemini-7bdd1264.html"
+               }
+            }, {
+               "name" : "Tears"
+            }, {
+               "name" : "Push Me",
+               "cover" : {
+                  "mbid" : "92b50146-bfa8-4cde-903e-7419fe412f2a",
+                  "name" : "GENESI",
+                  "sortName" : "GENESI",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/genesi-6bf8baaa.html"
+               }
+            }, {
+               "name" : "Sweet Disposition",
+               "cover" : {
+                  "mbid" : "bb6eaced-69dd-4636-829f-9f987acc4fc3",
+                  "name" : "The Temper Trap",
+                  "sortName" : "Temper Trap, The",
+                  "disambiguation" : "Australian indie rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-temper-trap-bd71d32.html"
+               },
+               "info" : "John Summit & Silver Panda Remix"
+            }, {
+               "name" : "IT GIRL",
+               "cover" : {
+                  "mbid" : "e3f4f0e0-125b-4d47-84ea-821e60901512",
+                  "name" : "Aliyah’s Interlude",
+                  "sortName" : "Aliyah’s Interlude",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/aliyahs-interlude-3e6bdbb.html"
+               },
+               "info" : "Everything Always Remix"
+            }, {
+               "name" : "Silence",
+               "cover" : {
+                  "mbid" : "4279aba0-1bde-40a9-8fb2-c63d165dc554",
+                  "name" : "Delerium",
+                  "sortName" : "Delerium",
+                  "disambiguation" : "Canadian trance/electronic/ambient band",
+                  "url" : "https://www.setlist.fm/setlists/delerium-3bd69098.html"
+               },
+               "info" : "John Summit Remix"
+            }, {
+               "name" : "Stay With Me"
+            }, {
+               "name" : "What a Life"
+            }, {
+               "name" : "La Danza"
+            }, {
+               "name" : "Water",
+               "cover" : {
+                  "mbid" : "45425c84-9092-4e2c-b732-e1d0280b580a",
+                  "name" : "Tyla",
+                  "sortName" : "Tyla",
+                  "disambiguation" : "South African singer",
+                  "url" : "https://www.setlist.fm/setlists/tyla-2bf89c3e.html"
+               },
+               "info" : "Redondo Remix"
+            }, {
+               "name" : "Last Night",
+               "cover" : {
+                  "mbid" : "056dab22-fb44-4c79-9fbb-73d755286192",
+                  "name" : "Loofy",
+                  "sortName" : "Loofy",
+                  "disambiguation" : "EDM artist from Florida",
+                  "url" : "https://www.setlist.fm/setlists/loofy-6be5e612.html"
+               },
+               "info" : "(Anyma & Layton Giordani Remix)"
+            }, {
+               "name" : "Better Off Alone",
+               "cover" : {
+                  "mbid" : "76bee0a6-10fc-416c-a8fd-d9c91ee9642c",
+                  "name" : "Alice DeeJay",
+                  "sortName" : "Alice DeeJay",
+                  "disambiguation" : "Dutch Euro-dance group",
+                  "url" : "https://www.setlist.fm/setlists/alice-deejay-43d6bff7.html"
+               }
+            }, {
+               "name" : "Tribal Journey",
+               "cover" : {
+                  "mbid" : "84abea23-35fd-4c62-b7e3-026010260010",
+                  "name" : "Zafrir",
+                  "sortName" : "Zafrir",
+                  "disambiguation" : "Israeli trance",
+                  "url" : "https://www.setlist.fm/setlists/zafrir-73c802ad.html"
+               }
+            }, {
+               "name" : "Give Me Anything"
+            }, {
+               "name" : "Human"
+            }, {
+               "name" : "Bottom of the rave",
+               "cover" : {
+                  "mbid" : "2708ce78-2e3b-4ca8-a80c-d465926f92df",
+                  "name" : "Kyle Watson",
+                  "sortName" : "Watson, Kyle",
+                  "disambiguation" : "house music",
+                  "url" : "https://www.setlist.fm/setlists/kyle-watson-5bd403ac.html"
+               }
+            }, {
+               "name" : "Diamonds On My Mind",
+               "cover" : {
+                  "mbid" : "61bb4f68-d1a3-4a04-aa36-536c36135408",
+                  "name" : "Eli Brown",
+                  "sortName" : "Brown, Eli",
+                  "disambiguation" : "Tech House artist",
+                  "url" : "https://www.setlist.fm/setlists/eli-brown-13cc29cd.html"
+               }
+            }, {
+               "name" : "Diamond",
+               "cover" : {
+                  "mbid" : "e8562450-d4c0-4739-a0da-a5f135f66885",
+                  "name" : "YDG",
+                  "sortName" : "YDG",
+                  "disambiguation" : "dubstep",
+                  "url" : "https://www.setlist.fm/setlists/ydg-43f09b17.html"
+               }
+            }, {
+               "name" : "Shiver",
+               "info" : "Live Vocal"
+            }, {
+               "name" : "Undo"
+            }, {
+               "name" : "Chase the Sun (VIP)",
+               "cover" : {
+                  "mbid" : "6bf5af0d-9536-4700-b400-5bacbeed5a78",
+                  "name" : "Danny Avila",
+                  "sortName" : "Avila, Danny",
+                  "disambiguation" : "electro house / psytrance / techno DJ and producer from Madrid",
+                  "url" : "https://www.setlist.fm/setlists/danny-avila-3bdc24f8.html"
+               }
+            }, {
+               "name" : "Hungover"
+            }, {
+               "name" : "Calling",
+               "cover" : {
+                  "mbid" : "c256f825-3366-434d-ae36-6a6dba758d9e",
+                  "name" : "Ellis Moss",
+                  "sortName" : "Moss, Ellis",
+                  "disambiguation" : "DJ/producer",
+                  "url" : "https://www.setlist.fm/setlists/ellis-moss-13f0b94d.html"
+               }
+            }, {
+               "name" : "Discovery Channel",
+               "cover" : {
+                  "mbid" : "1ed5d5b1-4e0b-4008-9487-c09c9d8d396e",
+                  "name" : "Mathame & Lyke",
+                  "sortName" : "Mathame & Lyke",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mathame-and-lyke-33e3c42d.html"
+               }
+            }, {
+               "name" : "Losing Control",
+               "cover" : {
+                  "mbid" : "1c07948f-2164-49e3-80c1-457bc2553b91",
+                  "name" : "Odd Mob & OMNOM",
+                  "sortName" : "Odd Mob & OMNOM",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/odd-mob-and-omnom-63e78ad7.html"
+               }
+            }, {
+               "name" : "Go Back"
+            }, {
+               "name" : "palm of my hands"
+            }, {
+               "name" : "Where You Are",
+               "info" : "Live Vocal"
+            }, {
+               "name" : "Better Than This"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/john-summit/2024/madison-square-garden-new-york-ny-53a89bad.html"
+   }, {
+      "id" : "6b56f24a",
+      "versionId" : "g3443d27",
+      "eventDate" : "26-06-2024",
+      "lastUpdated" : "2025-02-28T00:51:11.275+0000",
+      "artist" : {
+         "mbid" : "596ffa74-3d08-44ef-b113-765d43d12738",
+         "name" : "Justin Timberlake",
+         "sortName" : "Timberlake, Justin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/justin-timberlake-13d6e9b9.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Forget Tomorrow World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Memphis Intro",
+               "tape" : true
+            } ]
+         }, {
+            "name" : "A Stage",
+            "song" : [ {
+               "name" : "No Angels"
+            }, {
+               "name" : "LoveStoned"
+            }, {
+               "name" : "Like I Love You"
+            }, {
+               "name" : "My Love",
+               "info" : "With \"Let Me Talk to You\" intro"
+            }, {
+               "name" : "Technicolor",
+               "info" : "JT Talks to the crowd"
+            }, {
+               "name" : "Sanctified"
+            }, {
+               "name" : "Infinity Sex"
+            }, {
+               "name" : "FutureSex/LoveSound"
+            }, {
+               "name" : "Imagination"
+            }, {
+               "name" : "Drown"
+            }, {
+               "name" : "Cry Me a River"
+            }, {
+               "name" : "Let the Groove Get In"
+            }, {
+               "name" : "My Favorite Drug"
+            }, {
+               "name" : "Señorita"
+            }, {
+               "name" : "Summer Love"
+            }, {
+               "name" : "F**kin' Up the Disco"
+            } ]
+         }, {
+            "name" : "B Stage",
+            "song" : [ {
+               "name" : "Play",
+               "info" : "JT Walks To B- Stage"
+            }, {
+               "name" : "Suit & Tie"
+            }, {
+               "name" : "Flame"
+            }, {
+               "name" : "Say Something"
+            }, {
+               "name" : "Pusher Love Girl"
+            }, {
+               "name" : "Until the End of Time"
+            }, {
+               "name" : "Theme From New York, New York",
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               }
+            }, {
+               "name" : "Selfish"
+            }, {
+               "name" : "What Goes Around... Comes Around"
+            } ]
+         }, {
+            "name" : "A Stage",
+            "song" : [ {
+               "name" : "CAN'T STOP THE FEELING!",
+               "info" : "JT Walks To A-Stage"
+            }, {
+               "name" : "Rock Your Body",
+               "info" : "with Good Times intro"
+            }, {
+               "name" : "SexyBack"
+            } ]
+         }, {
+            "name" : "Floating Stage",
+            "song" : [ {
+               "name" : "Mirrors"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/justin-timberlake/2024/madison-square-garden-new-york-ny-6b56f24a.html"
+   }, {
+      "id" : "6b56f256",
+      "versionId" : "g2ba49c0a",
+      "eventDate" : "25-06-2024",
+      "lastUpdated" : "2024-06-26T20:39:23.179+0000",
+      "artist" : {
+         "mbid" : "596ffa74-3d08-44ef-b113-765d43d12738",
+         "name" : "Justin Timberlake",
+         "sortName" : "Timberlake, Justin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/justin-timberlake-13d6e9b9.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Forget Tomorrow World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Memphis Intro",
+               "tape" : true
+            } ]
+         }, {
+            "name" : "A Stage",
+            "song" : [ {
+               "name" : "No Angels"
+            }, {
+               "name" : "LoveStoned"
+            }, {
+               "name" : "Like I Love You"
+            }, {
+               "name" : "My Love",
+               "info" : "With \"Let Me Talk to You\" intro"
+            }, {
+               "name" : "Technicolor",
+               "info" : "JT Talks to the crowd"
+            }, {
+               "name" : "Sanctified"
+            }, {
+               "name" : "Infinity Sex"
+            }, {
+               "name" : "FutureSex/LoveSound"
+            }, {
+               "name" : "Imagination"
+            }, {
+               "name" : "Drown"
+            }, {
+               "name" : "Cry Me a River"
+            }, {
+               "name" : "Let the Groove Get In"
+            }, {
+               "name" : "My Favorite Drug"
+            }, {
+               "name" : "Señorita"
+            }, {
+               "name" : "Summer Love"
+            }, {
+               "name" : "F**kin' Up the Disco"
+            } ]
+         }, {
+            "name" : "B Stage",
+            "song" : [ {
+               "name" : "Play",
+               "info" : "JT Walks To B- Stage"
+            }, {
+               "name" : "Suit & Tie"
+            }, {
+               "name" : "Flame"
+            }, {
+               "name" : "Say Something"
+            }, {
+               "name" : "Pusher Love Girl"
+            }, {
+               "name" : "Until the End of Time"
+            }, {
+               "name" : "Theme From New York, New York",
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               },
+               "info" : "tour debut"
+            }, {
+               "name" : "Selfish"
+            }, {
+               "name" : "What Goes Around... Comes Around"
+            } ]
+         }, {
+            "name" : "A Stage",
+            "song" : [ {
+               "name" : "CAN'T STOP THE FEELING!",
+               "info" : "JT Walks To A-Stage"
+            }, {
+               "name" : "Rock Your Body",
+               "info" : "Good Times- Snippett at intro"
+            }, {
+               "name" : "SexyBack"
+            } ]
+         }, {
+            "name" : "Floating Stage",
+            "song" : [ {
+               "name" : "Mirrors"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/justin-timberlake/2024/madison-square-garden-new-york-ny-6b56f256.html"
+   }, {
+      "id" : "6b57224e",
+      "versionId" : "g33a4d4a9",
+      "eventDate" : "24-06-2024",
+      "lastUpdated" : "2024-06-28T19:40:08.354+0000",
+      "artist" : {
+         "mbid" : "c1708d03-8a66-46eb-848e-fe0d233ffb39",
+         "name" : "A Boogie Wit da Hoodie",
+         "sortName" : "Boogie Wit da Hoodie, A",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/a-boogie-wit-da-hoodie-2bc03ce2.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Better Off Alone"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jungle"
+            }, {
+               "name" : "Take Shots"
+            }, {
+               "name" : "Startender"
+            }, {
+               "name" : "Ransom"
+            }, {
+               "name" : "Timeless",
+               "with" : {
+                  "mbid" : "9391a020-58d7-426c-8837-52b3dcd1d8cb",
+                  "name" : "DJ SpinKing",
+                  "sortName" : "DJ SpinKing",
+                  "disambiguation" : "Rap",
+                  "url" : "https://www.setlist.fm/setlists/dj-spinking-63d9be23.html"
+               }
+            }, {
+               "name" : "Me and My Guitar"
+            }, {
+               "name" : "Did me wrong"
+            }, {
+               "name" : "Lovin'",
+               "cover" : {
+                  "mbid" : "aa5a6061-e60d-4a58-b9f6-c09de390bb2d",
+                  "name" : "PnB Rock",
+                  "sortName" : "PnB Rock",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pnb-rock-7bc4a6dc.html"
+               }
+            }, {
+               "name" : "Swervin"
+            }, {
+               "name" : "Just Like Me"
+            }, {
+               "name" : "Love Drugs and Sex"
+            }, {
+               "name" : "February"
+            }, {
+               "name" : "Still Think About You"
+            }, {
+               "name" : "D.T.B Interlude"
+            }, {
+               "name" : "Secrets"
+            }, {
+               "name" : "Pills & Automobiles",
+               "cover" : {
+                  "mbid" : "c234fa42-e6a6-443e-937e-2f4b073538a3",
+                  "name" : "Chris Brown",
+                  "sortName" : "Brown, Chris",
+                  "disambiguation" : "US R&B/pop singer and dancer",
+                  "url" : "https://www.setlist.fm/setlists/chris-brown-3bd6bc40.html"
+               }
+            }, {
+               "name" : "Man in the Mirror"
+            }, {
+               "name" : "Mood Swings"
+            }, {
+               "name" : "Look Back at It"
+            }, {
+               "name" : "Hello",
+               "cover" : {
+                  "mbid" : "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                  "name" : "Pop Smoke",
+                  "sortName" : "Pop Smoke",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pop-smoke-7bf64620.html"
+               }
+            }, {
+               "name" : "Drowning"
+            }, {
+               "name" : "Body",
+               "with" : {
+                  "mbid" : "4f57372b-2054-4722-a534-a99ab2598120",
+                  "name" : "Cash Cobain",
+                  "sortName" : "Cobain, Cash",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cash-cobain-4bf7e3da.html"
+               }
+            }, {
+               "name" : "D.T.N"
+            }, {
+               "name" : "24 Hours"
+            }, {
+               "name" : "Friend Zone"
+            }, {
+               "name" : "Bag on Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/a-boogie-wit-da-hoodie/2024/madison-square-garden-new-york-ny-6b57224e.html"
+   }, {
+      "id" : "5b57e3f8",
+      "versionId" : "g3ba21cdc",
+      "eventDate" : "22-06-2024",
+      "lastUpdated" : "2024-07-11T02:25:39.990+0000",
+      "artist" : {
+         "mbid" : "2e222fce-02ae-4221-b1c6-3c3242b423b6",
+         "name" : "ODESZA",
+         "sortName" : "ODESZA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/odesza-7bdf2294.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Last Goodbye Finale"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Version of You",
+               "info" : "Strings Prelude"
+            }, {
+               "name" : "Behind the Sun",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Without You",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "My Friends Never Die"
+            }, {
+               "name" : "How Did I Get Here",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "All We Need",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Love Letter / Something About You",
+               "cover" : {
+                  "mbid" : "af3d88d4-ba94-44b4-9a78-87976f1acd42",
+                  "name" : "Hayden James",
+                  "sortName" : "James, Hayden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hayden-james-6bdd621e.html"
+               },
+               "info" : "ODESZA VIP Remix with the ODESZA Horns"
+            }, {
+               "name" : "Say My Name / Late Night"
+            }, {
+               "name" : "The Loco-Motion",
+               "cover" : {
+                  "mbid" : "bf6c29f5-b69f-4842-9031-37f9645d365d",
+                  "name" : "Carole King",
+                  "sortName" : "King, Carole",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/carole-king-5bd6ab88.html"
+               },
+               "info" : "ODESZA VIP Remix with the ODESZA Horns"
+            }, {
+               "name" : "Wide Awake",
+               "info" : "longstoryshort Remix",
+               "with" : {
+                  "mbid" : "470d0c58-3789-49ca-a82e-35ca7849aa3d",
+                  "name" : "Charlie Houston",
+                  "sortName" : "Houston, Charlie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlie-houston-13f315d1.html"
+               }
+            }, {
+               "name" : "One Day They'll Know",
+               "cover" : {
+                  "mbid" : "3a07764c-7cc5-42e9-8205-3de7532f4771",
+                  "name" : "Pretty Lights",
+                  "sortName" : "Pretty Lights",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pretty-lights-1bd43d18.html"
+               },
+               "info" : "ODESZA VIP remix with strings and the ODESZA Drumline"
+            }, {
+               "name" : "Open Wound",
+               "cover" : {
+                  "mbid" : "407aac3b-696c-4fef-af14-aac7121a7041",
+                  "name" : "Ki:Theory",
+                  "sortName" : "Ki:Theory",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kitheory-63d2da9b.html"
+               },
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "If There's Time",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Kusanagi",
+               "info" : "and the ODESZA Horns and strings",
+               "with" : {
+                  "mbid" : "103ca0ec-203f-4562-b8a7-53f1a03d3c5c",
+                  "name" : "Sean Kusanagi",
+                  "sortName" : "Kusanagi, Sean",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sean-kusanagi-7bcdea88.html"
+               }
+            }, {
+               "name" : "Better Now",
+               "with" : {
+                  "mbid" : "f07a2fca-e37b-4f1b-bae0-9e49b8a0b412",
+                  "name" : "Naomi Wild",
+                  "sortName" : "Wild, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-wild-7bcc82f0.html"
+               }
+            }, {
+               "name" : "Line of Sight",
+               "with" : {
+                  "mbid" : "b37446a3-fbde-48c9-9aeb-c8de3d752040",
+                  "name" : "Mansionair",
+                  "sortName" : "Mansionair",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mansionair-53d9f73d.html"
+               }
+            }, {
+               "name" : "I Can't Sleep",
+               "info" : "With the ODESZA Drumline"
+            }, {
+               "name" : "Forgive Me",
+               "info" : "ODESZA VIP Remix with the ODESZA Horns",
+               "with" : {
+                  "mbid" : "9ed99a76-6c01-455e-9e3d-a233e48ece45",
+                  "name" : "Izzy Bizu",
+                  "sortName" : "Bizu, Izzy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/izzy-bizu-13d89dd1.html"
+               }
+            }, {
+               "name" : "HEART ATTACK x In The Rain",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               },
+               "info" : "With the ODESZA Horns"
+            }, {
+               "name" : "Bloom",
+               "info" : "ODESZA VIP Remix with the ODESZA Drumline and Horns"
+            }, {
+               "name" : "Equal / Boy",
+               "info" : "special Finale remix with the ODESZA drumline"
+            }, {
+               "name" : "Heavier",
+               "with" : {
+                  "mbid" : "b37446a3-fbde-48c9-9aeb-c8de3d752040",
+                  "name" : "Mansionair",
+                  "sortName" : "Mansionair",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mansionair-53d9f73d.html"
+               }
+            }, {
+               "name" : "TENSE",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               },
+               "info" : "With the ODESZA Drumline"
+            }, {
+               "name" : "KEEP MOVING / BLINE",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               }
+            }, {
+               "name" : "Sun Models",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Always This Late / Intro / How Did I Get Here",
+               "info" : "and strings and the ODESZA Horns and Drumline",
+               "with" : {
+                  "mbid" : "103ca0ec-203f-4562-b8a7-53f1a03d3c5c",
+                  "name" : "Sean Kusanagi",
+                  "sortName" : "Kusanagi, Sean",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sean-kusanagi-7bcdea88.html"
+               }
+            }, {
+               "name" : "Across the Room / Falls",
+               "info" : "With the ODESZA Horns"
+            }, {
+               "name" : "Loyal",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Don't Stop",
+               "info" : "ODESZA VIP Remix with the ODESZA Drumline"
+            }, {
+               "name" : "All My Life",
+               "tape" : true,
+               "info" : "Interlude"
+            }, {
+               "name" : "Higher Ground",
+               "info" : "Reprise with strings and the ODESZA horns",
+               "with" : {
+                  "mbid" : "f07a2fca-e37b-4f1b-bae0-9e49b8a0b412",
+                  "name" : "Naomi Wild",
+                  "sortName" : "Wild, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-wild-7bcc82f0.html"
+               }
+            }, {
+               "name" : "It's Only",
+               "info" : "ODESZA VIP remix with the ODESZA Drumline"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Light of Day",
+               "info" : "with strings"
+            }, {
+               "name" : "The Last Goodbye",
+               "info" : "ODESZA VIP Remix with strings and the ODESZA Drumline"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/odesza/2024/madison-square-garden-new-york-ny-5b57e3f8.html"
+   }, {
+      "id" : "3b57c818",
+      "versionId" : "g5ba33fe0",
+      "eventDate" : "22-06-2024",
+      "lastUpdated" : "2024-07-16T16:57:50.880+0000",
+      "artist" : {
+         "mbid" : "e4f12dfc-1ee7-4250-8e24-549b6d46676d",
+         "name" : "Ben Böhmer",
+         "sortName" : "Böhmer, Ben",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ben-bohmer-7bca8628.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rust"
+            }, {
+               "name" : "Beyond Beliefs"
+            }, {
+               "name" : "One Last Call"
+            }, {
+               "name" : "In Memoriam"
+            }, {
+               "name" : "Breathing"
+            }, {
+               "name" : "Wall of Strings"
+            }, {
+               "name" : "Memory Cassettes"
+            }, {
+               "name" : "Father Ocean (Ben Bohmer Remix)"
+            }, {
+               "name" : "Best life"
+            }, {
+               "name" : "Faithless"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ben-bohmer/2024/madison-square-garden-new-york-ny-3b57c818.html"
+   }, {
+      "id" : "7357decd",
+      "versionId" : "g33a7d8a1",
+      "eventDate" : "21-06-2024",
+      "lastUpdated" : "2024-06-21T18:01:22.522+0000",
+      "artist" : {
+         "mbid" : "7ce3d484-d681-437c-8d33-913261d0ad51",
+         "name" : "Bob Moses",
+         "sortName" : "Bob Moses",
+         "disambiguation" : "Canadian electronica duo of Tom Howie & Jimmy Vallance",
+         "url" : "https://www.setlist.fm/setlists/bob-moses-6bc6aa4e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bob-moses/2024/madison-square-garden-new-york-ny-7357decd.html"
+   }, {
+      "id" : "6b57dec2",
+      "versionId" : "g23a7d89f",
+      "eventDate" : "21-06-2024",
+      "lastUpdated" : "2024-06-21T18:02:49.065+0000",
+      "artist" : {
+         "mbid" : "c3505299-5cb9-4a30-a7c8-e74d0aa3e1b0",
+         "name" : "DRAMA",
+         "sortName" : "DRAMA",
+         "disambiguation" : "Chicago-based r&b/pop duo",
+         "url" : "https://www.setlist.fm/setlists/drama-4bf75346.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/drama/2024/madison-square-garden-new-york-ny-6b57dec2.html"
+   }, {
+      "id" : "6357dec3",
+      "versionId" : "g3ba7d8a4",
+      "eventDate" : "21-06-2024",
+      "lastUpdated" : "2024-06-21T18:02:01.480+0000",
+      "artist" : {
+         "mbid" : "64bdfb5e-cbf4-4b4d-b939-1086fb4673f2",
+         "name" : "Golden Features",
+         "sortName" : "Golden Features",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/golden-features-5bd8cb9c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/golden-features/2024/madison-square-garden-new-york-ny-6357dec3.html"
+   }, {
+      "id" : "4357e3fb",
+      "versionId" : "g6ba22692",
+      "eventDate" : "21-06-2024",
+      "lastUpdated" : "2024-07-11T00:34:26.748+0000",
+      "artist" : {
+         "mbid" : "2e222fce-02ae-4221-b1c6-3c3242b423b6",
+         "name" : "ODESZA",
+         "sortName" : "ODESZA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/odesza-7bdf2294.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Last Goodbye Finale"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Version of You",
+               "info" : "Strings Prelude"
+            }, {
+               "name" : "Behind the Sun",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Without You",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "I Want You / Divinity (ODESZA Remix)",
+               "cover" : {
+                  "mbid" : "4ae36ade-1798-48c4-b06b-cc68b7d3d83f",
+                  "name" : "Porter Robinson",
+                  "sortName" : "Robinson, Porter",
+                  "disambiguation" : "US | electronic",
+                  "url" : "https://www.setlist.fm/setlists/porter-robinson-6bd2fe4e.html"
+               }
+            }, {
+               "name" : "How Did I Get Here",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "All We Need",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Love Letter / Something About You",
+               "cover" : {
+                  "mbid" : "af3d88d4-ba94-44b4-9a78-87976f1acd42",
+                  "name" : "Hayden James",
+                  "sortName" : "James, Hayden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hayden-james-6bdd621e.html"
+               },
+               "info" : "ODESZA VIP Remix with the ODESZA Horns"
+            }, {
+               "name" : "Say My Name / Late Night"
+            }, {
+               "name" : "The Loco-Motion",
+               "cover" : {
+                  "mbid" : "bf6c29f5-b69f-4842-9031-37f9645d365d",
+                  "name" : "Carole King",
+                  "sortName" : "King, Carole",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/carole-king-5bd6ab88.html"
+               },
+               "info" : "ODESZA VIP Remix with the ODESZA Horns"
+            }, {
+               "name" : "Wide Awake",
+               "info" : "longstoryshort Remix",
+               "with" : {
+                  "mbid" : "470d0c58-3789-49ca-a82e-35ca7849aa3d",
+                  "name" : "Charlie Houston",
+                  "sortName" : "Houston, Charlie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlie-houston-13f315d1.html"
+               }
+            }, {
+               "name" : "One Day They'll Know",
+               "cover" : {
+                  "mbid" : "3a07764c-7cc5-42e9-8205-3de7532f4771",
+                  "name" : "Pretty Lights",
+                  "sortName" : "Pretty Lights",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pretty-lights-1bd43d18.html"
+               },
+               "info" : "ODESZA VIP remix with strings and the ODESZA Drumline"
+            }, {
+               "name" : "Open Wound",
+               "cover" : {
+                  "mbid" : "407aac3b-696c-4fef-af14-aac7121a7041",
+                  "name" : "Ki:Theory",
+                  "sortName" : "Ki:Theory",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kitheory-63d2da9b.html"
+               },
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "If There's Time",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Kusanagi",
+               "info" : "and the ODESZA Horns and strings",
+               "with" : {
+                  "mbid" : "103ca0ec-203f-4562-b8a7-53f1a03d3c5c",
+                  "name" : "Sean Kusanagi",
+                  "sortName" : "Kusanagi, Sean",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sean-kusanagi-7bcdea88.html"
+               }
+            }, {
+               "name" : "Better Now",
+               "with" : {
+                  "mbid" : "f07a2fca-e37b-4f1b-bae0-9e49b8a0b412",
+                  "name" : "Naomi Wild",
+                  "sortName" : "Wild, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-wild-7bcc82f0.html"
+               }
+            }, {
+               "name" : "Line of Sight",
+               "with" : {
+                  "mbid" : "b37446a3-fbde-48c9-9aeb-c8de3d752040",
+                  "name" : "Mansionair",
+                  "sortName" : "Mansionair",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mansionair-53d9f73d.html"
+               }
+            }, {
+               "name" : "I Can't Sleep",
+               "info" : "With the ODESZA Drumline"
+            }, {
+               "name" : "North Garden / Healing Grid",
+               "info" : "Whole band jam session with strings"
+            }, {
+               "name" : "Forgive Me",
+               "info" : "ODESZA VIP Remix with the ODESZA Horns",
+               "with" : {
+                  "mbid" : "9ed99a76-6c01-455e-9e3d-a233e48ece45",
+                  "name" : "Izzy Bizu",
+                  "sortName" : "Bizu, Izzy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/izzy-bizu-13d89dd1.html"
+               }
+            }, {
+               "name" : "HEART ATTACK x In The Rain",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               },
+               "info" : "With the ODESZA Horns"
+            }, {
+               "name" : "Bloom",
+               "info" : "ODESZA VIP Remix with the ODESZA Drumline and Horns"
+            }, {
+               "name" : "Equal / Boy",
+               "info" : "special Finale remix with the ODESZA drumline"
+            }, {
+               "name" : "Heavier",
+               "with" : {
+                  "mbid" : "b37446a3-fbde-48c9-9aeb-c8de3d752040",
+                  "name" : "Mansionair",
+                  "sortName" : "Mansionair",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mansionair-53d9f73d.html"
+               }
+            }, {
+               "name" : "TENSE",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               },
+               "info" : "With the ODESZA Drumline"
+            }, {
+               "name" : "KEEP MOVING / BLINE",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               }
+            }, {
+               "name" : "Sun Models",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Hopeful",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Falls",
+               "info" : "Orchestral Version with Naomi Wild, Mansionair, Charlie Houston, and Izzy Bizu"
+            }, {
+               "name" : "Loyal",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Don't Stop",
+               "info" : "ODESZA VIP Remix with the ODESZA Drumline"
+            }, {
+               "name" : "A Moment Apart",
+               "info" : "ODESZA VIP Remix with strings and the ODESZA Horns and Drumline"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Light of Day",
+               "info" : "with strings"
+            }, {
+               "name" : "The Last Goodbye",
+               "info" : "ODESZA VIP Remix with strings and the ODESZA Drumline"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/odesza/2024/madison-square-garden-new-york-ny-4357e3fb.html"
+   }, {
+      "id" : "5357e35d",
+      "versionId" : "g33a21cd5",
+      "eventDate" : "20-06-2024",
+      "lastUpdated" : "2024-07-11T02:26:07.391+0000",
+      "artist" : {
+         "mbid" : "2e222fce-02ae-4221-b1c6-3c3242b423b6",
+         "name" : "ODESZA",
+         "sortName" : "ODESZA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/odesza-7bdf2294.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Last Goodbye Finale"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Version of You",
+               "info" : "Strings Prelude"
+            }, {
+               "name" : "Behind the Sun",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Without You",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "My Friends Never Die"
+            }, {
+               "name" : "How Did I Get Here",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "All We Need",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Love Letter / Something About You",
+               "cover" : {
+                  "mbid" : "af3d88d4-ba94-44b4-9a78-87976f1acd42",
+                  "name" : "Hayden James",
+                  "sortName" : "James, Hayden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hayden-james-6bdd621e.html"
+               },
+               "info" : "ODESZA VIP Remix with the ODESZA Horns"
+            }, {
+               "name" : "Say My Name / Late Night"
+            }, {
+               "name" : "The Loco-Motion",
+               "cover" : {
+                  "mbid" : "bf6c29f5-b69f-4842-9031-37f9645d365d",
+                  "name" : "Carole King",
+                  "sortName" : "King, Carole",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/carole-king-5bd6ab88.html"
+               },
+               "info" : "ODESZA VIP Remix with the ODESZA Horns"
+            }, {
+               "name" : "Wide Awake",
+               "info" : "longstoryshort Remix",
+               "with" : {
+                  "mbid" : "470d0c58-3789-49ca-a82e-35ca7849aa3d",
+                  "name" : "Charlie Houston",
+                  "sortName" : "Houston, Charlie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlie-houston-13f315d1.html"
+               }
+            }, {
+               "name" : "One Day They'll Know",
+               "cover" : {
+                  "mbid" : "3a07764c-7cc5-42e9-8205-3de7532f4771",
+                  "name" : "Pretty Lights",
+                  "sortName" : "Pretty Lights",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pretty-lights-1bd43d18.html"
+               },
+               "info" : "ODESZA VIP remix with strings and the ODESZA Drumline"
+            }, {
+               "name" : "Open Wound",
+               "cover" : {
+                  "mbid" : "407aac3b-696c-4fef-af14-aac7121a7041",
+                  "name" : "Ki:Theory",
+                  "sortName" : "Ki:Theory",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kitheory-63d2da9b.html"
+               },
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "If There's Time",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Kusanagi",
+               "info" : "and the ODESZA Horns and strings",
+               "with" : {
+                  "mbid" : "103ca0ec-203f-4562-b8a7-53f1a03d3c5c",
+                  "name" : "Sean Kusanagi",
+                  "sortName" : "Kusanagi, Sean",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sean-kusanagi-7bcdea88.html"
+               }
+            }, {
+               "name" : "Better Now",
+               "with" : {
+                  "mbid" : "f07a2fca-e37b-4f1b-bae0-9e49b8a0b412",
+                  "name" : "Naomi Wild",
+                  "sortName" : "Wild, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-wild-7bcc82f0.html"
+               }
+            }, {
+               "name" : "Line of Sight",
+               "with" : {
+                  "mbid" : "b37446a3-fbde-48c9-9aeb-c8de3d752040",
+                  "name" : "Mansionair",
+                  "sortName" : "Mansionair",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mansionair-53d9f73d.html"
+               }
+            }, {
+               "name" : "I Can't Sleep",
+               "info" : "With the ODESZA Drumline"
+            }, {
+               "name" : "Forgive Me",
+               "info" : "ODESZA VIP Remix with the ODESZA Horns",
+               "with" : {
+                  "mbid" : "9ed99a76-6c01-455e-9e3d-a233e48ece45",
+                  "name" : "Izzy Bizu",
+                  "sortName" : "Bizu, Izzy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/izzy-bizu-13d89dd1.html"
+               }
+            }, {
+               "name" : "HEART ATTACK x In The Rain",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               },
+               "info" : "With the ODESZA Horns"
+            }, {
+               "name" : "Bloom",
+               "info" : "ODESZA VIP Remix with the ODESZA Drumline and Horns"
+            }, {
+               "name" : "Equal / Boy",
+               "info" : "special Finale remix with the ODESZA drumline"
+            }, {
+               "name" : "Heavier",
+               "with" : {
+                  "mbid" : "b37446a3-fbde-48c9-9aeb-c8de3d752040",
+                  "name" : "Mansionair",
+                  "sortName" : "Mansionair",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mansionair-53d9f73d.html"
+               }
+            }, {
+               "name" : "TENSE",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               },
+               "info" : "With the ODESZA Drumline"
+            }, {
+               "name" : "KEEP MOVING / BLINE",
+               "cover" : {
+                  "mbid" : "887b5b46-3f15-4475-b2bd-4d026c2b2031",
+                  "name" : "BRONSON",
+                  "sortName" : "BRONSON",
+                  "disambiguation" : "ODESZA + Golden Features",
+                  "url" : "https://www.setlist.fm/setlists/bronson-2bf2ec52.html"
+               }
+            }, {
+               "name" : "Sun Models",
+               "info" : "ODESZA VIP Remix"
+            }, {
+               "name" : "Always This Late / Intro / How Did I Get Here",
+               "info" : "and strings and the ODESZA Horns and Drumline",
+               "with" : {
+                  "mbid" : "103ca0ec-203f-4562-b8a7-53f1a03d3c5c",
+                  "name" : "Sean Kusanagi",
+                  "sortName" : "Kusanagi, Sean",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sean-kusanagi-7bcdea88.html"
+               }
+            }, {
+               "name" : "Across the Room / Falls",
+               "info" : "With the ODESZA Horns"
+            }, {
+               "name" : "Loyal",
+               "info" : "With the ODESZA Horns and Drumline"
+            }, {
+               "name" : "Don't Stop",
+               "info" : "ODESZA VIP Remix with the ODESZA Drumline"
+            }, {
+               "name" : "All My Life",
+               "tape" : true,
+               "info" : "Interlude"
+            }, {
+               "name" : "Higher Ground",
+               "info" : "Reprise with strings and the ODESZA horns",
+               "with" : {
+                  "mbid" : "f07a2fca-e37b-4f1b-bae0-9e49b8a0b412",
+                  "name" : "Naomi Wild",
+                  "sortName" : "Wild, Naomi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/naomi-wild-7bcc82f0.html"
+               }
+            }, {
+               "name" : "It's Only",
+               "info" : "ODESZA VIP remix with the ODESZA Drumline"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Light of Day",
+               "info" : "with strings"
+            }, {
+               "name" : "The Last Goodbye",
+               "info" : "ODESZA VIP Remix with strings and the ODESZA Drumline"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/odesza/2024/madison-square-garden-new-york-ny-5357e35d.html"
+   }, {
+      "id" : "3a821fb",
+      "versionId" : "g434c8f4f",
+      "eventDate" : "18-06-2024",
+      "lastUpdated" : "2025-04-30T19:24:12.331+0000",
+      "artist" : {
+         "mbid" : "0004d643-96e3-486a-bafe-eb792871ce9f",
+         "name" : "Siddhartha",
+         "sortName" : "Siddhartha",
+         "disambiguation" : "Mexican rock artist",
+         "url" : "https://www.setlist.fm/setlists/siddhartha-1bdef528.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Miel de azar"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ser parte"
+            }, {
+               "name" : "Náufrago"
+            }, {
+               "name" : "Paraíso lunar"
+            }, {
+               "name" : "Tarde"
+            }, {
+               "name" : "Brújula"
+            }, {
+               "name" : "00:00"
+            }, {
+               "name" : "Únicos"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/siddhartha/2024/madison-square-garden-new-york-ny-3a821fb.html"
+   }, {
+      "id" : "2bab30f2",
+      "versionId" : "g337760c1",
+      "eventDate" : "18-06-2024",
+      "lastUpdated" : "2025-06-27T16:50:44.334+0000",
+      "artist" : {
+         "mbid" : "9047fd95-770f-4a8a-a6e3-3b071a882e4d",
+         "name" : "Bunbury",
+         "sortName" : "Bunbury",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bunbury-6bd662c6.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Shows únicos"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Los términos de mi rendición",
+               "tape" : true,
+               "info" : "Instrumental"
+            }, {
+               "name" : "Nuestros mundos no obedecen a tus mapas"
+            }, {
+               "name" : "Cuna de Caín"
+            }, {
+               "name" : "Despierta"
+            }, {
+               "name" : "Hombre de acción"
+            }, {
+               "name" : "El rescate"
+            }, {
+               "name" : "Cualquiera en su sano juicio (se habría vuelto loco por ti)"
+            }, {
+               "name" : "Invulnerables"
+            }, {
+               "name" : "Más alto que nosotros sólo el cielo"
+            }, {
+               "name" : "Que tengas suertecita"
+            }, {
+               "name" : "Alaska"
+            }, {
+               "name" : "El extranjero"
+            }, {
+               "name" : "Desaparecer"
+            }, {
+               "name" : "La actitud correcta"
+            }, {
+               "name" : "Apuesta por el rock 'n' roll",
+               "cover" : {
+                  "mbid" : "ba02fd61-f02b-4112-bcfa-785d6d7d0e1a",
+                  "name" : "Más Birras",
+                  "sortName" : "Más Birras",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mas-birras-43d407db.html"
+               }
+            }, {
+               "name" : "Porque las cosas cambian"
+            }, {
+               "name" : "De todo el mundo"
+            }, {
+               "name" : "Entre dos tierras",
+               "cover" : {
+                  "mbid" : "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+                  "name" : "Héroes del Silencio",
+                  "sortName" : "Héroes del Silencio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/heroes-del-silencio-5bd6f3f8.html"
+               }
+            }, {
+               "name" : "Sí",
+               "cover" : {
+                  "mbid" : "56acc248-5b92-432d-9b66-48ca210a4a7f",
+                  "name" : "Umpah-Pah",
+                  "sortName" : "Umpah-Pah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/umpah-pah-63d4e6b3.html"
+               }
+            }, {
+               "name" : "Lady Blue"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Parecemos tontos"
+            }, {
+               "name" : "Infinito"
+            }, {
+               "name" : "Maldito duende",
+               "cover" : {
+                  "mbid" : "4bb712d6-8be9-4c09-810a-eb3bed2be345",
+                  "name" : "Héroes del Silencio",
+                  "sortName" : "Héroes del Silencio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/heroes-del-silencio-5bd6f3f8.html"
+               }
+            }, {
+               "name" : "La constante"
+            }, {
+               "name" : "...Y al final"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bunbury/2024/madison-square-garden-new-york-ny-2bab30f2.html"
+   } ]
+}

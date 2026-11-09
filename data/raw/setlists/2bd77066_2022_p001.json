@@ -1,0 +1,1470 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 84,
+   "setlist" : [ {
+      "id" : "3bbc2c94",
+      "versionId" : "g3e0ad77",
+      "eventDate" : "30-12-2022",
+      "lastUpdated" : "2022-12-31T03:10:03.649+0000",
+      "artist" : {
+         "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+         "name" : "21 Savage",
+         "sortName" : "21 Savage",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Jimmy Cooks",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Don't Come Out the House",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               }
+            }, {
+               "name" : "10 Freaky Girls",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               }
+            }, {
+               "name" : "Walk Em Down (Don’t Kill Civilians)",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               },
+               "info" : "Live debut"
+            }, {
+               "name" : "Runnin",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "Red Opps"
+            }, {
+               "name" : "Major Distribution",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "Privileged Rappers",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "out for the night"
+            }, {
+               "name" : "Mr. Right Now",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "Spin Bout U",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "Who Want Smoke??",
+               "cover" : {
+                  "mbid" : "0eea08e2-1363-4b36-bbe8-9691ae3892b6",
+                  "name" : "Nardo Wick",
+                  "sortName" : "Nardo Wick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nardo-wick-3f4717f.html"
+               }
+            }, {
+               "name" : "rockstar",
+               "cover" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               }
+            }, {
+               "name" : "m y . l i f e",
+               "cover" : {
+                  "mbid" : "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                  "name" : "J. Cole",
+                  "sortName" : "Cole, J.",
+                  "disambiguation" : "US rapper & producer",
+                  "url" : "https://www.setlist.fm/setlists/j-cole-3d4356b.html"
+               }
+            }, {
+               "name" : "a lot"
+            }, {
+               "name" : "No Heart",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "Bank Account"
+            }, {
+               "name" : "Knife Talk",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Rich Flex",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "More M’s",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/21-savage/2022/barclays-center-brooklyn-ny-3bbc2c94.html"
+   }, {
+      "id" : "33bc2c95",
+      "versionId" : "g5350f3cd",
+      "eventDate" : "30-12-2022",
+      "lastUpdated" : "2024-11-19T21:16:37.365+0000",
+      "artist" : {
+         "mbid" : "48262e82-db9f-4a92-b650-dfef979b73ec",
+         "name" : "Future",
+         "sortName" : "Future",
+         "disambiguation" : "US rapper Nayvadius Cash",
+         "url" : "https://www.setlist.fm/setlists/future-53d25bb1.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Stick Talk"
+            }, {
+               "name" : "712PM"
+            }, {
+               "name" : "I'M DAT NIGGA"
+            }, {
+               "name" : "FOR A NUT"
+            }, {
+               "name" : "Me or Sum",
+               "cover" : {
+                  "mbid" : "0eea08e2-1363-4b36-bbe8-9691ae3892b6",
+                  "name" : "Nardo Wick",
+                  "sortName" : "Nardo Wick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nardo-wick-3f4717f.html"
+               }
+            }, {
+               "name" : "Thought It Was a Drought"
+            }, {
+               "name" : "Bugatti",
+               "cover" : {
+                  "mbid" : "986ee464-cf8a-4e59-a71f-74756102067f",
+                  "name" : "Ace Hood",
+                  "sortName" : "Ace Hood",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ace-hood-23d7bc5f.html"
+               }
+            }, {
+               "name" : "Same Damn Time"
+            }, {
+               "name" : "Move That Dope"
+            }, {
+               "name" : "Don't Play with It",
+               "cover" : {
+                  "mbid" : "13745088-3637-4cd7-93bd-1f8b4d595c8a",
+                  "name" : "Lola Brooke",
+                  "sortName" : "Brooke, Lola",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lola-brooke-73fa2229.html"
+               },
+               "with" : {
+                  "mbid" : "13745088-3637-4cd7-93bd-1f8b4d595c8a",
+                  "name" : "Lola Brooke",
+                  "sortName" : "Brooke, Lola",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lola-brooke-73fa2229.html"
+               }
+            }, {
+               "name" : "PUFFIN ON ZOOTIEZ"
+            }, {
+               "name" : "WORST DAY"
+            }, {
+               "name" : "Freak Hoe"
+            }, {
+               "name" : "City of Gods",
+               "cover" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               },
+               "with" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               }
+            }, {
+               "name" : "Big Drip",
+               "cover" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               },
+               "with" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               }
+            }, {
+               "name" : "Dior",
+               "cover" : {
+                  "mbid" : "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                  "name" : "Pop Smoke",
+                  "sortName" : "Pop Smoke",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pop-smoke-7bf64620.html"
+               },
+               "with" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               }
+            }, {
+               "name" : "Welcome to the Party",
+               "cover" : {
+                  "mbid" : "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                  "name" : "Pop Smoke",
+                  "sortName" : "Pop Smoke",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pop-smoke-7bf64620.html"
+               },
+               "with" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               }
+            }, {
+               "name" : "Fuck Up Some Commas"
+            }, {
+               "name" : "Way 2 Sexy",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Relationship",
+               "cover" : {
+                  "mbid" : "800760de-bdf8-43a2-8fe0-44a2401a5515",
+                  "name" : "Young Thug",
+                  "sortName" : "Young Thug",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/young-thug-3bdd88c8.html"
+               }
+            }, {
+               "name" : "Drankin N Smokin",
+               "cover" : {
+                  "mbid" : "4ffd3af6-d718-4ba4-b8f7-4110f06089d3",
+                  "name" : "Future & Lil Uzi Vert",
+                  "sortName" : "Future & Lil Uzi Vert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/future-and-lil-uzi-vert-7bfc9a24.html"
+               }
+            }, {
+               "name" : "Real Sisters"
+            }, {
+               "name" : "Mask Off"
+            }, {
+               "name" : "WAIT FOR U"
+            }, {
+               "name" : "LOVE YOU BETTER"
+            }, {
+               "name" : "March Madness"
+            }, {
+               "name" : "Superhero (Heroes & Villains)",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               },
+               "info" : "Live debut"
+            }, {
+               "name" : "Life Is Good",
+               "info" : "Cut short"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/future/2022/barclays-center-brooklyn-ny-33bc2c95.html"
+   }, {
+      "id" : "2bbc2c8a",
+      "versionId" : "g6be35ece",
+      "eventDate" : "30-12-2022",
+      "lastUpdated" : "2022-12-28T00:52:50.445+0000",
+      "artist" : {
+         "mbid" : "535cf8da-afd4-4042-81a6-430404dcecd6",
+         "name" : "Chinese Kitty",
+         "sortName" : "Chinese Kitty",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/chinese-kitty-1bf269e8.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chinese-kitty/2022/barclays-center-brooklyn-ny-2bbc2c8a.html"
+   }, {
+      "id" : "23bc2c8b",
+      "versionId" : "g63e35ecf",
+      "eventDate" : "30-12-2022",
+      "lastUpdated" : "2022-12-28T00:52:34.742+0000",
+      "artist" : {
+         "mbid" : "107f5d8b-864b-462a-a67f-05b5ab78bb17",
+         "name" : "King Combs",
+         "sortName" : "King Combs",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/king-combs-3c9b93b.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/king-combs/2022/barclays-center-brooklyn-ny-23bc2c8b.html"
+   }, {
+      "id" : "1b570d10",
+      "versionId" : "g1ba4f148",
+      "eventDate" : "26-11-2022",
+      "lastUpdated" : "2024-06-28T01:31:00.776+0000",
+      "artist" : {
+         "mbid" : "5d7686b2-90d5-44c6-ab70-693e98506fb6",
+         "name" : "LAY",
+         "sortName" : "LAY",
+         "disambiguation" : "Chinese rapper and actor",
+         "url" : "https://www.setlist.fm/setlists/lay-73c6ee51.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lay/2022/barclays-center-brooklyn-ny-1b570d10.html"
+   }, {
+      "id" : "bbfe932",
+      "versionId" : "g73e45ef5",
+      "eventDate" : "23-11-2022",
+      "lastUpdated" : "2022-11-21T14:31:17.859+0000",
+      "artist" : {
+         "mbid" : "cb3d3e49-bf08-4cdb-bfa8-4dc7c458cea1",
+         "name" : "Rod Wave",
+         "sortName" : "Wave, Rod",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rod-wave-3c8b543.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Beautiful Mind"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rod-wave/2022/barclays-center-brooklyn-ny-bbfe932.html"
+   }, {
+      "id" : "23be5ca7",
+      "versionId" : "g3b508004",
+      "eventDate" : "13-11-2022",
+      "lastUpdated" : "2024-11-19T11:21:59.184+0000",
+      "artist" : {
+         "mbid" : "25607613-aceb-445a-8519-83a2ee0f8402",
+         "name" : "Marc Anthony",
+         "sortName" : "Anthony, Marc",
+         "disambiguation" : "Marco Antonio Muñiz, salsa and latin pop singer",
+         "url" : "https://www.setlist.fm/setlists/marc-anthony-1bd6810c.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Viviendo"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nadie como ella / De vuelta pa la vuelta / I Need to Know / Rain Over Me / La gozadera"
+            }, {
+               "name" : "Pa'lla voy"
+            }, {
+               "name" : "Valió la pena"
+            }, {
+               "name" : "Y hubo alguien"
+            }, {
+               "name" : "Hasta ayer"
+            }, {
+               "name" : "Flor pálida"
+            }, {
+               "name" : "Contra la corriente"
+            }, {
+               "name" : "Palabras del alma / Si te vas"
+            }, {
+               "name" : "¿Qué precio tiene el cielo?"
+            }, {
+               "name" : "Mala"
+            }, {
+               "name" : "Te conozco bien"
+            }, {
+               "name" : "Parecen viernes"
+            }, {
+               "name" : "Tu amor me hace bien"
+            }, {
+               "name" : "Vivir mi vida"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/marc-anthony/2022/barclays-center-brooklyn-ny-23be5ca7.html"
+   }, {
+      "id" : "6bbe3af2",
+      "versionId" : "g23e7c02f",
+      "eventDate" : "04-11-2022",
+      "lastUpdated" : "2022-11-08T01:48:05.909+0000",
+      "artist" : {
+         "mbid" : "52074ba6-e495-4ef3-9bb4-0703888a9f68",
+         "name" : "Arcade Fire",
+         "sortName" : "Arcade Fire",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/arcade-fire-6bd6ae92.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "WE"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rhapsody in Blue",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "65744963-191a-44ef-a3c7-b693a808a158",
+                  "name" : "George Gershwin",
+                  "sortName" : "Gershwin, George",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/george-gershwin-7bd64678.html"
+               }
+            }, {
+               "name" : "Age of Anxiety I"
+            }, {
+               "name" : "Ready to Start"
+            }, {
+               "name" : "Neighborhood #3 (Power Out)"
+            }, {
+               "name" : "My Body Is a Cage",
+               "info" : "Regine and Win on the B stage"
+            }, {
+               "name" : "Afterlife",
+               "info" : "Win singing from the crowd and added snippet of Ceremony by New Order at the end of the song"
+            }, {
+               "name" : "Reflektor"
+            }, {
+               "name" : "Creature Comfort"
+            }, {
+               "name" : "Age of Anxiety II (Rabbit Hole)"
+            }, {
+               "name" : "The Lightning I"
+            }, {
+               "name" : "The Lightning II"
+            }, {
+               "name" : "Rebellion (Lies)"
+            }, {
+               "name" : "The Suburbs"
+            }, {
+               "name" : "The Suburbs (Continued)"
+            }, {
+               "name" : "Unconditional I (Lookout Kid)"
+            }, {
+               "name" : "Here Comes the Night Time"
+            }, {
+               "name" : "Unconditional II (Race and Religion)"
+            }, {
+               "name" : "Sprawl II (Mountains Beyond Mountains)",
+               "info" : "Regine on the B stage"
+            }, {
+               "name" : "Everything Now"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Theme From New York, New York",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "197450cd-0124-4164-b723-3c22dd16494d",
+                  "name" : "Frank Sinatra",
+                  "sortName" : "Sinatra, Frank",
+                  "disambiguation" : "American singer and actor, “Ol’ Blue Eyes”",
+                  "url" : "https://www.setlist.fm/setlists/frank-sinatra-73d69af5.html"
+               }
+            }, {
+               "name" : "End of the Empire I-III",
+               "info" : "Full band on the B stage for entire encore"
+            }, {
+               "name" : "End of the Empire IV (Sagittarius A*)"
+            }, {
+               "name" : "We Used to Wait"
+            }, {
+               "name" : "Wake Up",
+               "info" : "Joined by Boukman Eksperyans and DJ Cosmo Gonik at end"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arcade-fire/2022/barclays-center-brooklyn-ny-6bbe3af2.html"
+   }, {
+      "id" : "5bbe3334",
+      "versionId" : "g33e78821",
+      "eventDate" : "04-11-2022",
+      "lastUpdated" : "2022-11-05T12:27:27.223+0000",
+      "artist" : {
+         "mbid" : "0e2577fd-116c-4661-98c1-901c9e1e66a4",
+         "name" : "Boukman Eksperyans",
+         "sortName" : "Boukman Eksperyans",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/boukman-eksperyans-73df6ac9.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Opened for Arcade Fire after Beck withdrew from the tour.",
+      "url" : "https://www.setlist.fm/setlist/boukman-eksperyans/2022/barclays-center-brooklyn-ny-5bbe3334.html"
+   }, {
+      "id" : "bbe3926",
+      "versionId" : "g3be64810",
+      "eventDate" : "03-11-2022",
+      "lastUpdated" : "2022-11-03T03:02:15.832+0000",
+      "artist" : {
+         "mbid" : "7af366ec-4e17-4a23-8a13-90bc180b6520",
+         "name" : "Maverick City Music",
+         "sortName" : "Maverick City Music",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/maverick-city-music-23f27cfb.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Kingdom"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/maverick-city-music/2022/barclays-center-brooklyn-ny-bbe3926.html"
+   }, {
+      "id" : "13be3925",
+      "versionId" : "g3be668ac",
+      "eventDate" : "03-11-2022",
+      "lastUpdated" : "2022-11-01T19:14:47.459+0000",
+      "artist" : {
+         "mbid" : "685332a4-12ed-4c3b-8d0e-04e6a37e28f0",
+         "name" : "Kirk Franklin",
+         "sortName" : "Franklin, Kirk",
+         "disambiguation" : "gospel musician, choir director, and author",
+         "url" : "https://www.setlist.fm/setlists/kirk-franklin-13d61dad.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kirk-franklin/2022/barclays-center-brooklyn-ny-13be3925.html"
+   }, {
+      "id" : "73be865d",
+      "versionId" : "g63e6b61b",
+      "eventDate" : "22-10-2022",
+      "lastUpdated" : "2022-10-25T14:38:01.569+0000",
+      "artist" : {
+         "mbid" : "7f464f95-2410-4040-a88e-1dbe96f17fcd",
+         "name" : "Christian Nodal",
+         "sortName" : "Nodal, Christian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/christian-nodal-13ce21c1.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Forajido Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/christian-nodal/2022/barclays-center-brooklyn-ny-73be865d.html"
+   }, {
+      "id" : "73a02a7d",
+      "versionId" : "g1383c531",
+      "eventDate" : "21-10-2022",
+      "lastUpdated" : "2023-10-24T22:46:50.324+0000",
+      "artist" : {
+         "mbid" : "2a0cce30-071b-4ba9-bf78-ae76c9eb7316",
+         "name" : "Kevin Rudolf",
+         "sortName" : "Rudolf, Kevin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kevin-rudolf-43d7b78b.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gold"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kevin-rudolf/2022/barclays-center-brooklyn-ny-73a02a7d.html"
+   }, {
+      "id" : "3bb14c40",
+      "versionId" : "g13f975dd",
+      "eventDate" : "20-10-2022",
+      "lastUpdated" : "2022-10-23T03:04:18.459+0000",
+      "artist" : {
+         "mbid" : "db76c5ca-d555-4f09-b1db-baa1b713d875",
+         "name" : "Mary J. Blige",
+         "sortName" : "Blige, Mary J.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mary-j-blige-63d6f2d7.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Good Morning Gorgeous Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Amazing"
+            }, {
+               "name" : "On Top",
+               "with" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               }
+            }, {
+               "name" : "You Remind Me"
+            }, {
+               "name" : "Changes I've Been Going Through"
+            }, {
+               "name" : "Real Love"
+            }, {
+               "name" : "Love No Limit",
+               "info" : "Remix",
+               "with" : {
+                  "mbid" : "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6",
+                  "name" : "Diddy",
+                  "sortName" : "Diddy",
+                  "disambiguation" : "Sean Combs, aka Puff Daddy, P. Diddy",
+                  "url" : "https://www.setlist.fm/setlists/diddy-3bd6bcac.html"
+               }
+            }, {
+               "name" : "Mary Jane (All Night Long)"
+            }, {
+               "name" : "Rent Money",
+               "with" : {
+                  "mbid" : "83735edd-f2a3-41d0-a31d-652bc3cadb3e",
+                  "name" : "Jadakiss",
+                  "sortName" : "Jadakiss",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/jadakiss-23d69cf3.html"
+               }
+            }, {
+               "name" : "Reminisce"
+            }, {
+               "name" : "You Bring Me Joy"
+            }, {
+               "name" : "Be Happy"
+            }, {
+               "name" : "Good Morning Gorgeous"
+            }, {
+               "name" : "Here With Me"
+            }, {
+               "name" : "Love Without the Heartbreak"
+            }, {
+               "name" : "I'm the Only Woman"
+            }, {
+               "name" : "Mary's Joint"
+            }, {
+               "name" : "Failing in Love"
+            }, {
+               "name" : "Come See About Me",
+               "with" : {
+                  "mbid" : "d2299099-e617-46dd-b013-ba0b4c72bc63",
+                  "name" : "Fabolous",
+                  "sortName" : "Fabolous",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fabolous-7bd6a2a0.html"
+               }
+            }, {
+               "name" : "Not Gon' Cry"
+            }, {
+               "name" : "I'm Going Down",
+               "cover" : {
+                  "mbid" : "846482ac-d4c4-4286-8002-b14a601d8ec0",
+                  "name" : "Rose Royce",
+                  "sortName" : "Rose Royce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rose-royce-bd6b952.html"
+               }
+            }, {
+               "name" : "Everything"
+            }, {
+               "name" : "Beautiful Ones",
+               "info" : "Snippet"
+            }, {
+               "name" : "All That I Can Say"
+            }, {
+               "name" : "Share My World"
+            }, {
+               "name" : "My Life"
+            }, {
+               "name" : "Work That"
+            }, {
+               "name" : "Enough Cryin'"
+            }, {
+               "name" : "The One"
+            }, {
+               "name" : "I Can Love You"
+            }, {
+               "name" : "Family Affair"
+            }, {
+               "name" : "Just Fine"
+            }, {
+               "name" : "MJB da MVP"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mary-j-blige/2022/barclays-center-brooklyn-ny-3bb14c40.html"
+   }, {
+      "id" : "33be907d",
+      "versionId" : "g43f95bbb",
+      "eventDate" : "20-10-2022",
+      "lastUpdated" : "2022-10-24T00:34:43.286+0000",
+      "artist" : {
+         "mbid" : "19837813-fee7-4f7a-90fe-1324ef91a71d",
+         "name" : "Queen Naija",
+         "sortName" : "Naija, Queen",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/queen-naija-6bc826fe.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/queen-naija/2022/barclays-center-brooklyn-ny-33be907d.html"
+   }, {
+      "id" : "2bbe907e",
+      "versionId" : "g53f95bc5",
+      "eventDate" : "20-10-2022",
+      "lastUpdated" : "2022-10-24T00:34:29.558+0000",
+      "artist" : {
+         "mbid" : "89d42b97-8042-4c14-a596-a2ccaef5fc4c",
+         "name" : "Ella Mai",
+         "sortName" : "Mai, Ella",
+         "disambiguation" : "London based R&B Singer",
+         "url" : "https://www.setlist.fm/setlists/ella-mai-7bc57e94.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ella-mai/2022/barclays-center-brooklyn-ny-2bbe907e.html"
+   }, {
+      "id" : "3bb11864",
+      "versionId" : "g537cfbed",
+      "eventDate" : "12-10-2022",
+      "lastUpdated" : "2025-08-29T22:52:26.836+0000",
+      "artist" : {
+         "mbid" : "e21857d5-3256-4547-afb3-4b6ded592596",
+         "name" : "Gorillaz",
+         "sortName" : "Gorillaz",
+         "disambiguation" : "virtual band",
+         "url" : "https://www.setlist.fm/setlists/gorillaz-13d681d1.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "World Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "M1 A1"
+            }, {
+               "name" : "Last Living Souls"
+            }, {
+               "name" : "Tranz"
+            }, {
+               "name" : "White Light"
+            }, {
+               "name" : "Tomorrow Comes Today"
+            }, {
+               "name" : "19-2000",
+               "info" : "First time live with Miho Hatori since 2010",
+               "with" : {
+                  "mbid" : "45d91b0a-27b2-426b-abab-046fdd9ee575",
+                  "name" : "Miho Hatori",
+                  "sortName" : "Hatori, Miho",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/miho-hatori-43d6732f.html"
+               }
+            }, {
+               "name" : "Rhinestone Eyes"
+            }, {
+               "name" : "Cracker Island",
+               "with" : {
+                  "mbid" : "044fd265-79dd-43eb-afc4-8b20becf7e17",
+                  "name" : "Thundercat",
+                  "sortName" : "Thundercat",
+                  "disambiguation" : "US singer-songwriter & bassist",
+                  "url" : "https://www.setlist.fm/setlists/thundercat-13d5d5c9.html"
+               }
+            }, {
+               "name" : "O Green World",
+               "info" : "Damon piano intro"
+            }, {
+               "name" : "On Melancholy Hill"
+            }, {
+               "name" : "El Mañana"
+            }, {
+               "name" : "New Genious (Brother)"
+            }, {
+               "name" : "Empire Ants"
+            }, {
+               "name" : "Skinny Ape"
+            }, {
+               "name" : "Kids With Guns"
+            }, {
+               "name" : "Opium",
+               "with" : {
+                  "mbid" : "383005e1-657d-468b-a448-08ecf35b3943",
+                  "name" : "EarthGang",
+                  "sortName" : "EarthGang",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/earthgang-1bd969d4.html"
+               }
+            }, {
+               "name" : "Désolé",
+               "with" : {
+                  "mbid" : "6f5064bb-7dbb-4a44-bac5-04c467394817",
+                  "name" : "Fatoumata Diawara",
+                  "sortName" : "Diawara, Fatoumata",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fatoumata-diawara-43d23303.html"
+               }
+            }, {
+               "name" : "Interlude: Elevator Going Up",
+               "tape" : true
+            }, {
+               "name" : "Andromeda",
+               "info" : "D.R.A.M. Special vocal outro"
+            }, {
+               "name" : "Dirty Harry",
+               "with" : {
+                  "mbid" : "fb86fedf-8a52-4ada-baa0-1c52bd0cbfa9",
+                  "name" : "Bootie Brown",
+                  "sortName" : "Brown, Bootie",
+                  "disambiguation" : "US rapper Romye Robinson",
+                  "url" : "https://www.setlist.fm/setlists/bootie-brown-7bd6c2a8.html"
+               }
+            }, {
+               "name" : "DARE"
+            }, {
+               "name" : "Momentary Bliss"
+            }, {
+               "name" : "Plastic Beach"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "New Gold",
+               "with" : {
+                  "mbid" : "fb86fedf-8a52-4ada-baa0-1c52bd0cbfa9",
+                  "name" : "Bootie Brown",
+                  "sortName" : "Brown, Bootie",
+                  "disambiguation" : "US rapper Romye Robinson",
+                  "url" : "https://www.setlist.fm/setlists/bootie-brown-7bd6c2a8.html"
+               }
+            }, {
+               "name" : "Stylo",
+               "with" : {
+                  "mbid" : "fb86fedf-8a52-4ada-baa0-1c52bd0cbfa9",
+                  "name" : "Bootie Brown",
+                  "sortName" : "Brown, Bootie",
+                  "disambiguation" : "US rapper Romye Robinson",
+                  "url" : "https://www.setlist.fm/setlists/bootie-brown-7bd6c2a8.html"
+               }
+            }, {
+               "name" : "Feel Good Inc.",
+               "with" : {
+                  "mbid" : "a8ebde98-7e91-46c7-992c-90039ba42017",
+                  "name" : "De La Soul",
+                  "sortName" : "De La Soul",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/de-la-soul-1bd6d920.html"
+               }
+            }, {
+               "name" : "Rock the House",
+               "with" : {
+                  "mbid" : "a31a5e0c-d37a-41a8-90d5-9e256a47d83b",
+                  "name" : "Del the Funky Homosapien",
+                  "sortName" : "Del the Funky Homosapien",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/del-the-funky-homosapien-7bd6c65c.html"
+               }
+            }, {
+               "name" : "Clint Eastwood",
+               "info" : "and Sweetie Irie, with \"Ed Case/Sweetie Irie Re-fix\" outro",
+               "with" : {
+                  "mbid" : "a31a5e0c-d37a-41a8-90d5-9e256a47d83b",
+                  "name" : "Del the Funky Homosapien",
+                  "sortName" : "Del the Funky Homosapien",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/del-the-funky-homosapien-7bd6c65c.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: M1 A1, Cracker Island, Plastic Beach",
+      "url" : "https://www.setlist.fm/setlist/gorillaz/2022/barclays-center-brooklyn-ny-3bb11864.html"
+   }, {
+      "id" : "33b11849",
+      "versionId" : "g1bf8c95c",
+      "eventDate" : "12-10-2022",
+      "lastUpdated" : "2022-10-10T00:03:12.019+0000",
+      "artist" : {
+         "mbid" : "383005e1-657d-468b-a448-08ecf35b3943",
+         "name" : "EarthGang",
+         "sortName" : "EarthGang",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/earthgang-1bd969d4.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Supporting Gorillaz",
+      "url" : "https://www.setlist.fm/setlist/earthgang/2022/barclays-center-brooklyn-ny-33b11849.html"
+   }, {
+      "id" : "6bb10636",
+      "versionId" : "g7b1986b0",
+      "eventDate" : "07-10-2022",
+      "lastUpdated" : "2026-06-20T09:34:44.402+0000",
+      "artist" : {
+         "mbid" : "bf850027-1cc0-4519-8ee6-a08b492a4867",
+         "name" : "City Girls",
+         "sortName" : "City Girls",
+         "disambiguation" : "Miami hip hop duo",
+         "url" : "https://www.setlist.fm/setlists/city-girls-53cd5b25.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Take Yo Man"
+            }, {
+               "name" : "Rodeo"
+            }, {
+               "name" : "Pussy Talk"
+            }, {
+               "name" : "Where the Bag At"
+            }, {
+               "name" : "Said Sum",
+               "cover" : {
+                  "mbid" : "8971fa37-c402-474a-b897-e2bbc145b59d",
+                  "name" : "Moneybagg Yo",
+                  "sortName" : "Moneybagg Yo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/moneybagg-yo-43ce87ef.html"
+               }
+            }, {
+               "name" : "Jobs"
+            }, {
+               "name" : "Tighten Up"
+            }, {
+               "name" : "Come Outside"
+            }, {
+               "name" : "Act Up"
+            }, {
+               "name" : "In My Feelings",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Top Notch",
+               "cover" : {
+                  "mbid" : "2b4d4837-37d1-4a1b-b670-324d9a094112",
+                  "name" : "Fivio Foreign",
+                  "sortName" : "Foreign, Fivio",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/fivio-foreign-73f36e15.html"
+               }
+            }, {
+               "name" : "Twerkulator"
+            }, {
+               "name" : "Do It on the Tip",
+               "cover" : {
+                  "mbid" : "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                  "name" : "Megan Thee Stallion",
+                  "sortName" : "Megan Thee Stallion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/megan-thee-stallion-3ca498f.html"
+               }
+            }, {
+               "name" : "Twerk"
+            }, {
+               "name" : "Good Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/city-girls/2022/barclays-center-brooklyn-ny-6bb10636.html"
+   }, {
+      "id" : "3b1c91f",
+      "versionId" : "g63fb4ee7",
+      "eventDate" : "07-10-2022",
+      "lastUpdated" : "2022-10-05T07:48:39.778+0000",
+      "artist" : {
+         "mbid" : "134cb0bc-06fa-42f7-8078-b0c858349975",
+         "name" : "Jack Harlow",
+         "sortName" : "Harlow, Jack",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jack-harlow-53cedff1.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Come Home the Kids Miss You"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jack-harlow/2022/barclays-center-brooklyn-ny-3b1c91f.html"
+   } ]
+}

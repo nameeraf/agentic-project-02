@@ -1,0 +1,1797 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 198,
+   "setlist" : [ {
+      "id" : "23b00413",
+      "versionId" : "g1be8b550",
+      "eventDate" : "19-09-2022",
+      "lastUpdated" : "2023-04-01T22:47:36.747+0000",
+      "artist" : {
+         "mbid" : "618b6900-0618-4f1e-b835-bccb17f84294",
+         "name" : "Eric Clapton",
+         "sortName" : "Clapton, Eric",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/eric-clapton-1bd6ad58.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "US Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Full Band:",
+            "song" : [ {
+               "name" : "God Save the Queen",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Tearing Us Apart"
+            }, {
+               "name" : "Key to the Highway",
+               "cover" : {
+                  "mbid" : "b337ffc8-bd6e-4ce4-891f-36388987936d",
+                  "name" : "Charles Segar",
+                  "sortName" : "Segar, Charles",
+                  "disambiguation" : "blues pianist and occasional singer",
+                  "url" : "https://www.setlist.fm/setlists/charles-segar-43d22337.html"
+               }
+            }, {
+               "name" : "I'm Your Hoochie Coochie Man",
+               "cover" : {
+                  "mbid" : "ff4c8d42-4871-4778-885b-d41b01245133",
+                  "name" : "Willie Dixon",
+                  "sortName" : "Dixon, Willie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/willie-dixon-1bd60108.html"
+               }
+            }, {
+               "name" : "River of Tears"
+            }, {
+               "name" : "I Shot the Sheriff",
+               "cover" : {
+                  "mbid" : "c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+                  "name" : "The Wailers",
+                  "sortName" : "Wailers, The",
+                  "disambiguation" : "’60s – ’70s Jamaican reggae band of Wailer, Marley & Tosh",
+                  "url" : "https://www.setlist.fm/setlists/the-wailers-7bd6d680.html"
+               }
+            } ]
+         }, {
+            "name" : "Acoustic:",
+            "song" : [ {
+               "name" : "Country Boy",
+               "cover" : {
+                  "mbid" : "f86f1f07-d182-45ce-ae93-ef610880ca72",
+                  "name" : "Muddy Waters",
+                  "sortName" : "Muddy Waters",
+                  "disambiguation" : "blues musician",
+                  "url" : "https://www.setlist.fm/setlists/muddy-waters-3bd69810.html"
+               }
+            }, {
+               "name" : "After Midnight",
+               "cover" : {
+                  "mbid" : "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+                  "name" : "J.J. Cale",
+                  "sortName" : "Cale, J.J.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jj-cale-73d616b1.html"
+               }
+            }, {
+               "name" : "Nobody Knows You When You're Down and Out",
+               "cover" : {
+                  "mbid" : "895f7b71-0d7c-4b21-9f66-3ec95a00372a",
+                  "name" : "Jimmy Cox",
+                  "sortName" : "Cox, Jimmy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-cox-43d2231f.html"
+               }
+            }, {
+               "name" : "Layla",
+               "cover" : {
+                  "mbid" : "2155a81a-f0c6-417a-9b16-2f86f98bb8bc",
+                  "name" : "Derek and the Dominos",
+                  "sortName" : "Derek and the Dominos",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/derek-and-the-dominos-1bd6ad54.html"
+               }
+            }, {
+               "name" : "Tears in Heaven",
+               "info" : "with a snippet of \"A Whiter Shade of Pale\""
+            } ]
+         }, {
+            "name" : "Full Band:",
+            "song" : [ {
+               "name" : "Badge",
+               "cover" : {
+                  "mbid" : "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+                  "name" : "Cream",
+                  "sortName" : "Cream",
+                  "disambiguation" : "British 1960s rock supergroup",
+                  "url" : "https://www.setlist.fm/setlists/cream-bd6ad72.html"
+               }
+            }, {
+               "name" : "Wonderful Tonight"
+            }, {
+               "name" : "Cross Road Blues",
+               "cover" : {
+                  "mbid" : "8a8bbba6-72f7-4900-a306-c40b94f2631b",
+                  "name" : "Robert Johnson",
+                  "sortName" : "Johnson, Robert",
+                  "disambiguation" : "1930s blues legend",
+                  "url" : "https://www.setlist.fm/setlists/robert-johnson-3bd698e0.html"
+               }
+            }, {
+               "name" : "The Sky Is Crying",
+               "cover" : {
+                  "mbid" : "b56ffb46-69ae-4acf-80ca-3f111d61e5e1",
+                  "name" : "Elmore James & His Broom Dusters",
+                  "sortName" : "James, Elmore & His Broom Dusters",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elmore-james-and-his-broom-dusters-13d6017d.html"
+               }
+            }, {
+               "name" : "Cocaine",
+               "cover" : {
+                  "mbid" : "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+                  "name" : "J.J. Cale",
+                  "sortName" : "Cale, J.J.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jj-cale-73d616b1.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "High Time We Went",
+               "cover" : {
+                  "mbid" : "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+                  "name" : "Joe Cocker",
+                  "sortName" : "Cocker, Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joe-cocker-43d67b13.html"
+               },
+               "with" : {
+                  "mbid" : "dac15690-cbad-4692-a6bf-3bb0ae05cfe1",
+                  "name" : "Jimmie Vaughan",
+                  "sortName" : "Vaughan, Jimmie",
+                  "disambiguation" : "blues guitarist and singer",
+                  "url" : "https://www.setlist.fm/setlists/jimmie-vaughan-73d61a8d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/eric-clapton/2022/madison-square-garden-new-york-ny-23b00413.html"
+   }, {
+      "id" : "1bb00d00",
+      "versionId" : "g2387742f",
+      "eventDate" : "18-09-2022",
+      "lastUpdated" : "2023-09-24T21:08:56.426+0000",
+      "artist" : {
+         "mbid" : "dac15690-cbad-4692-a6bf-3bb0ae05cfe1",
+         "name" : "Jimmie Vaughan",
+         "sortName" : "Vaughan, Jimmie",
+         "disambiguation" : "blues guitarist and singer",
+         "url" : "https://www.setlist.fm/setlists/jimmie-vaughan-73d61a8d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "D/FW",
+               "cover" : {
+                  "mbid" : "0244ceb5-57dc-4831-aa9c-6a5e5a1c4938",
+                  "name" : "The Vaughan Brothers",
+                  "sortName" : "Vaughan Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-vaughan-brothers-13d60179.html"
+               }
+            }, {
+               "name" : "Roll Roll Roll",
+               "cover" : {
+                  "mbid" : "c313873b-b84e-4594-8edb-f304586d03b1",
+                  "name" : "Luther “Guitar Junior” Johnson",
+                  "sortName" : "Johnson, Luther “Guitar Junior”",
+                  "disambiguation" : "Chicago blues singer and guitarist",
+                  "url" : "https://www.setlist.fm/setlists/luther-guitar-junior-johnson-6bd4b602.html"
+               }
+            }, {
+               "name" : "Dirty Work at the Crossroads",
+               "cover" : {
+                  "mbid" : "039e3952-2f73-49f4-86fe-7aaee4a89a17",
+                  "name" : "Clarence “Gatemouth” Brown",
+                  "sortName" : "Brown, Clarence Gatemouth",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/clarence-gatemouth-brown-2bd61002.html"
+               }
+            }, {
+               "name" : "I Ain't Never",
+               "cover" : {
+                  "mbid" : "cbd197c2-1c29-4f46-acc6-0565a916d143",
+                  "name" : "Webb Pierce",
+                  "sortName" : "Pierce, Webb",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/webb-pierce-73d6c211.html"
+               }
+            }, {
+               "name" : "Frame for the Blues",
+               "cover" : {
+                  "mbid" : "f79f96fb-eaa4-4978-af2a-e5e367e681d2",
+                  "name" : "Slide Hampton",
+                  "sortName" : "Hampton, Slide",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/slide-hampton-3d78d5f.html"
+               }
+            }, {
+               "name" : "Silly Dilly Woman"
+            }, {
+               "name" : "Texas Flood",
+               "cover" : {
+                  "mbid" : "afc55174-7d62-493b-8aab-db80c2b89ada",
+                  "name" : "Larry Davis",
+                  "sortName" : "Davis, Larry",
+                  "disambiguation" : "US blues guitarist/vocalist",
+                  "url" : "https://www.setlist.fm/setlists/larry-davis-53d49f91.html"
+               }
+            }, {
+               "name" : "The Crawl",
+               "cover" : {
+                  "mbid" : "fc601b5c-ffdf-4f06-bf91-69b0c95794be",
+                  "name" : "Guitar Jr.",
+                  "sortName" : "Guitar Jr.",
+                  "disambiguation" : "US blues singer and guitarist Lee Baker, aka Lonnie Brooks",
+                  "url" : "https://www.setlist.fm/setlists/guitar-jr-6bfc82ba.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opened for Eric Clapton",
+      "url" : "https://www.setlist.fm/setlist/jimmie-vaughan/2022/madison-square-garden-new-york-ny-1bb00d00.html"
+   }, {
+      "id" : "13b00d0d",
+      "versionId" : "g3e8b557",
+      "eventDate" : "18-09-2022",
+      "lastUpdated" : "2023-04-01T22:47:36.759+0000",
+      "artist" : {
+         "mbid" : "618b6900-0618-4f1e-b835-bccb17f84294",
+         "name" : "Eric Clapton",
+         "sortName" : "Clapton, Eric",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/eric-clapton-1bd6ad58.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "US Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Electric Set I:",
+            "song" : [ {
+               "name" : "God Save the Queen",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Tearing Us Apart"
+            }, {
+               "name" : "Key to the Highway",
+               "cover" : {
+                  "mbid" : "b337ffc8-bd6e-4ce4-891f-36388987936d",
+                  "name" : "Charles Segar",
+                  "sortName" : "Segar, Charles",
+                  "disambiguation" : "blues pianist and occasional singer",
+                  "url" : "https://www.setlist.fm/setlists/charles-segar-43d22337.html"
+               }
+            }, {
+               "name" : "I'm Your Hoochie Coochie Man",
+               "cover" : {
+                  "mbid" : "ff4c8d42-4871-4778-885b-d41b01245133",
+                  "name" : "Willie Dixon",
+                  "sortName" : "Dixon, Willie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/willie-dixon-1bd60108.html"
+               }
+            }, {
+               "name" : "River of Tears"
+            }, {
+               "name" : "I Shot the Sheriff",
+               "cover" : {
+                  "mbid" : "c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+                  "name" : "The Wailers",
+                  "sortName" : "Wailers, The",
+                  "disambiguation" : "’60s – ’70s Jamaican reggae band of Wailer, Marley & Tosh",
+                  "url" : "https://www.setlist.fm/setlists/the-wailers-7bd6d680.html"
+               }
+            } ]
+         }, {
+            "name" : "Acoustic Set:",
+            "song" : [ {
+               "name" : "Honey Bee",
+               "cover" : {
+                  "mbid" : "f86f1f07-d182-45ce-ae93-ef610880ca72",
+                  "name" : "Muddy Waters",
+                  "sortName" : "Muddy Waters",
+                  "disambiguation" : "blues musician",
+                  "url" : "https://www.setlist.fm/setlists/muddy-waters-3bd69810.html"
+               },
+               "info" : "First time played since 1983"
+            }, {
+               "name" : "After Midnight",
+               "cover" : {
+                  "mbid" : "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+                  "name" : "J.J. Cale",
+                  "sortName" : "Cale, J.J.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jj-cale-73d616b1.html"
+               }
+            }, {
+               "name" : "Nobody Knows You When You're Down and Out",
+               "cover" : {
+                  "mbid" : "895f7b71-0d7c-4b21-9f66-3ec95a00372a",
+                  "name" : "Jimmy Cox",
+                  "sortName" : "Cox, Jimmy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jimmy-cox-43d2231f.html"
+               }
+            }, {
+               "name" : "Layla",
+               "cover" : {
+                  "mbid" : "2155a81a-f0c6-417a-9b16-2f86f98bb8bc",
+                  "name" : "Derek and the Dominos",
+                  "sortName" : "Derek and the Dominos",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/derek-and-the-dominos-1bd6ad54.html"
+               }
+            }, {
+               "name" : "Tears in Heaven",
+               "info" : "including a snippet of 'A Whiter Shade of Pale'"
+            } ]
+         }, {
+            "name" : "Electric Set II:",
+            "song" : [ {
+               "name" : "Badge",
+               "cover" : {
+                  "mbid" : "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+                  "name" : "Cream",
+                  "sortName" : "Cream",
+                  "disambiguation" : "British 1960s rock supergroup",
+                  "url" : "https://www.setlist.fm/setlists/cream-bd6ad72.html"
+               }
+            }, {
+               "name" : "Wonderful Tonight"
+            }, {
+               "name" : "Cross Road Blues",
+               "cover" : {
+                  "mbid" : "8a8bbba6-72f7-4900-a306-c40b94f2631b",
+                  "name" : "Robert Johnson",
+                  "sortName" : "Johnson, Robert",
+                  "disambiguation" : "1930s blues legend",
+                  "url" : "https://www.setlist.fm/setlists/robert-johnson-3bd698e0.html"
+               }
+            }, {
+               "name" : "The Sky Is Crying",
+               "cover" : {
+                  "mbid" : "b56ffb46-69ae-4acf-80ca-3f111d61e5e1",
+                  "name" : "Elmore James & His Broom Dusters",
+                  "sortName" : "James, Elmore & His Broom Dusters",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elmore-james-and-his-broom-dusters-13d6017d.html"
+               }
+            }, {
+               "name" : "Cocaine",
+               "cover" : {
+                  "mbid" : "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+                  "name" : "J.J. Cale",
+                  "sortName" : "Cale, J.J.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jj-cale-73d616b1.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "High Time We Went",
+               "cover" : {
+                  "mbid" : "32f2d6bd-c22b-42cf-a7bc-0c4b48cd2bcb",
+                  "name" : "Joe Cocker",
+                  "sortName" : "Cocker, Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joe-cocker-43d67b13.html"
+               },
+               "with" : {
+                  "mbid" : "dac15690-cbad-4692-a6bf-3bb0ae05cfe1",
+                  "name" : "Jimmie Vaughan",
+                  "sortName" : "Vaughan, Jimmie",
+                  "disambiguation" : "blues guitarist and singer",
+                  "url" : "https://www.setlist.fm/setlists/jimmie-vaughan-73d61a8d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/eric-clapton/2022/madison-square-garden-new-york-ny-13b00d0d.html"
+   }, {
+      "id" : "7bb01e08",
+      "versionId" : "g73fa9295",
+      "eventDate" : "17-09-2022",
+      "lastUpdated" : "2022-09-18T14:48:56.959+0000",
+      "artist" : {
+         "mbid" : "06479724-ee7d-471e-a3d4-4554330a0293",
+         "name" : "Noga Erez",
+         "sortName" : "Erez, Noga",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/noga-erez-53c3e3f1.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nails"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noga-erez/2022/madison-square-garden-new-york-ny-7bb01e08.html"
+   }, {
+      "id" : "6bb01e12",
+      "versionId" : "gbfa9d9e",
+      "eventDate" : "17-09-2022",
+      "lastUpdated" : "2022-09-18T04:17:11.186+0000",
+      "artist" : {
+         "mbid" : "90744b3e-363a-458e-8da1-e3e392a489c4",
+         "name" : "Wet Leg",
+         "sortName" : "Wet Leg",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/wet-leg-33f20085.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Being in Love"
+            }, {
+               "name" : "Wet Dream"
+            }, {
+               "name" : "Supermarket"
+            }, {
+               "name" : "Obvious"
+            }, {
+               "name" : "Oh No"
+            }, {
+               "name" : "Ur Mum"
+            }, {
+               "name" : "Angelica"
+            }, {
+               "name" : "Chaise Longue"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wet-leg/2022/madison-square-garden-new-york-ny-6bb01e12.html"
+   }, {
+      "id" : "6bb01e0a",
+      "versionId" : "g4bfa8fda",
+      "eventDate" : "17-09-2022",
+      "lastUpdated" : "2022-09-18T17:12:20.659+0000",
+      "artist" : {
+         "mbid" : "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+         "name" : "Florence + the Machine",
+         "sortName" : "Florence and the Machine",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/florence-the-machine-7bd646f8.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Dance Fever Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Heaven Is Here"
+            }, {
+               "name" : "King"
+            }, {
+               "name" : "Ship to Wreck"
+            }, {
+               "name" : "Free"
+            }, {
+               "name" : "Daffodil"
+            }, {
+               "name" : "Dog Days Are Over"
+            }, {
+               "name" : "Girls Against God"
+            }, {
+               "name" : "Dream Girl Evil"
+            }, {
+               "name" : "Prayer Factory"
+            }, {
+               "name" : "Big God"
+            }, {
+               "name" : "Cassandra"
+            }, {
+               "name" : "What Kind of Man"
+            }, {
+               "name" : "Back in Town",
+               "info" : "Live debut"
+            }, {
+               "name" : "June"
+            }, {
+               "name" : "Hunger"
+            }, {
+               "name" : "Choreomania"
+            }, {
+               "name" : "Kiss With a Fist"
+            }, {
+               "name" : "Cosmic Love"
+            }, {
+               "name" : "My Love"
+            }, {
+               "name" : "Restraint"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Never Let Me Go"
+            }, {
+               "name" : "Shake It Out"
+            }, {
+               "name" : "Rabbit Heart (Raise It Up)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/florence-the-machine/2022/madison-square-garden-new-york-ny-6bb01e0a.html"
+   }, {
+      "id" : "7bb01e0c",
+      "versionId" : "g5bfa93b4",
+      "eventDate" : "16-09-2022",
+      "lastUpdated" : "2022-09-18T13:44:16.652+0000",
+      "artist" : {
+         "mbid" : "d4fa908d-9513-4d20-a04e-e605282e7a64",
+         "name" : "Mykki Blanco",
+         "sortName" : "Blanco, Mykki",
+         "disambiguation" : "US rapper, poet & activist",
+         "url" : "https://www.setlist.fm/setlists/mykki-blanco-4bdf1faa.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Patriarchy Ain’t the End of Me"
+            }, {
+               "name" : "Love Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mykki-blanco/2022/madison-square-garden-new-york-ny-7bb01e0c.html"
+   }, {
+      "id" : "7bb01e00",
+      "versionId" : "g63fd4213",
+      "eventDate" : "16-09-2022",
+      "lastUpdated" : "2022-09-17T01:44:20.808+0000",
+      "artist" : {
+         "mbid" : "06479724-ee7d-471e-a3d4-4554330a0293",
+         "name" : "Noga Erez",
+         "sortName" : "Erez, Noga",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/noga-erez-53c3e3f1.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Nails"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/noga-erez/2022/madison-square-garden-new-york-ny-7bb01e00.html"
+   }, {
+      "id" : "4bb0231a",
+      "versionId" : "g5bfab324",
+      "eventDate" : "16-09-2022",
+      "lastUpdated" : "2022-09-17T12:50:41.703+0000",
+      "artist" : {
+         "mbid" : "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+         "name" : "Florence + the Machine",
+         "sortName" : "Florence and the Machine",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/florence-the-machine-7bd646f8.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Dance Fever Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Heaven Is Here"
+            }, {
+               "name" : "King"
+            }, {
+               "name" : "Ship to Wreck"
+            }, {
+               "name" : "Free"
+            }, {
+               "name" : "Daffodil"
+            }, {
+               "name" : "Dog Days Are Over"
+            }, {
+               "name" : "Girls Against God"
+            }, {
+               "name" : "Dream Girl Evil"
+            }, {
+               "name" : "Prayer Factory"
+            }, {
+               "name" : "Big God"
+            }, {
+               "name" : "What Kind of Man"
+            }, {
+               "name" : "Morning Elvis"
+            }, {
+               "name" : "June"
+            }, {
+               "name" : "Hunger"
+            }, {
+               "name" : "Choreomania"
+            }, {
+               "name" : "Kiss With a Fist"
+            }, {
+               "name" : "Cosmic Love"
+            }, {
+               "name" : "My Love"
+            }, {
+               "name" : "Restraint"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The End of Love",
+               "info" : "tour debut"
+            }, {
+               "name" : "Never Let Me Go"
+            }, {
+               "name" : "Shake It Out"
+            }, {
+               "name" : "Rabbit Heart (Raise It Up)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/florence-the-machine/2022/madison-square-garden-new-york-ny-4bb0231a.html"
+   }, {
+      "id" : "63b02afb",
+      "versionId" : "g63fa329f",
+      "eventDate" : "15-09-2022",
+      "lastUpdated" : "2022-09-22T01:41:55.152+0000",
+      "artist" : {
+         "mbid" : "7eb1ce54-a355-41f9-8d68-e018b096d427",
+         "name" : "Harry Styles",
+         "sortName" : "Styles, Harry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/harry-styles-23d294a7.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Love on Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Daydreaming"
+            }, {
+               "name" : "Golden"
+            }, {
+               "name" : "Adore You"
+            }, {
+               "name" : "Daylight"
+            }, {
+               "name" : "Keep Driving"
+            }, {
+               "name" : "Matilda"
+            }, {
+               "name" : "Little Freak"
+            }, {
+               "name" : "Satellite"
+            }, {
+               "name" : "Cinema"
+            }, {
+               "name" : "Music for a Sushi Restaurant"
+            }, {
+               "name" : "Treat People With Kindness"
+            }, {
+               "name" : "What Makes You Beautiful",
+               "cover" : {
+                  "mbid" : "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+                  "name" : "One Direction",
+                  "sortName" : "One Direction",
+                  "disambiguation" : "English‐Irish pop boy band",
+                  "url" : "https://www.setlist.fm/setlists/one-direction-3bd294d0.html"
+               }
+            }, {
+               "name" : "Late Night Talking"
+            }, {
+               "name" : "Watermelon Sugar"
+            }, {
+               "name" : "Love of My Life"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sign of the Times"
+            }, {
+               "name" : "As It Was"
+            }, {
+               "name" : "Kiwi"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/harry-styles/2022/madison-square-garden-new-york-ny-63b02afb.html"
+   }, {
+      "id" : "1ba16180",
+      "versionId" : "g338f9809",
+      "eventDate" : "15-09-2022",
+      "lastUpdated" : "2023-11-21T01:26:28.634+0000",
+      "artist" : {
+         "mbid" : "3d254f1e-7d18-431b-baeb-68e57695dfdb",
+         "name" : "Blood Orange",
+         "sortName" : "Blood Orange",
+         "disambiguation" : "singer/songwriter Devonté Hynes",
+         "url" : "https://www.setlist.fm/setlists/blood-orange-53d32fed.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blood-orange/2022/madison-square-garden-new-york-ny-1ba16180.html"
+   }, {
+      "id" : "5bb03b98",
+      "versionId" : "g3bfd7884",
+      "eventDate" : "14-09-2022",
+      "lastUpdated" : "2022-09-15T03:22:23.073+0000",
+      "artist" : {
+         "mbid" : "7eb1ce54-a355-41f9-8d68-e018b096d427",
+         "name" : "Harry Styles",
+         "sortName" : "Styles, Harry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/harry-styles-23d294a7.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Love on Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Daydreaming"
+            }, {
+               "name" : "Golden"
+            }, {
+               "name" : "Adore You"
+            }, {
+               "name" : "Daylight"
+            }, {
+               "name" : "Keep Driving"
+            }, {
+               "name" : "Matilda"
+            }, {
+               "name" : "Little Freak"
+            }, {
+               "name" : "Satellite"
+            }, {
+               "name" : "Cinema"
+            }, {
+               "name" : "Music for a Sushi Restaurant"
+            }, {
+               "name" : "Treat People With Kindness"
+            }, {
+               "name" : "What Makes You Beautiful",
+               "cover" : {
+                  "mbid" : "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+                  "name" : "One Direction",
+                  "sortName" : "One Direction",
+                  "disambiguation" : "English‐Irish pop boy band",
+                  "url" : "https://www.setlist.fm/setlists/one-direction-3bd294d0.html"
+               }
+            }, {
+               "name" : "Late Night Talking"
+            }, {
+               "name" : "Watermelon Sugar"
+            }, {
+               "name" : "Love of My Life"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sign of the Times"
+            }, {
+               "name" : "As It Was"
+            }, {
+               "name" : "Kiwi"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/harry-styles/2022/madison-square-garden-new-york-ny-5bb03b98.html"
+   }, {
+      "id" : "43b03b93",
+      "versionId" : "g5bfd7f60",
+      "eventDate" : "14-09-2022",
+      "lastUpdated" : "2022-09-15T00:40:31.526+0000",
+      "artist" : {
+         "mbid" : "3d254f1e-7d18-431b-baeb-68e57695dfdb",
+         "name" : "Blood Orange",
+         "sortName" : "Blood Orange",
+         "disambiguation" : "singer/songwriter Devonté Hynes",
+         "url" : "https://www.setlist.fm/setlists/blood-orange-53d32fed.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Saint"
+            }, {
+               "name" : "Dark & Handsome"
+            }, {
+               "name" : "You're Not Good Enough"
+            }, {
+               "name" : "Best to You"
+            }, {
+               "name" : "Wish"
+            }, {
+               "name" : "Benzo"
+            }, {
+               "name" : "You've Got a Friend"
+            }, {
+               "name" : "Charcoal Baby"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blood-orange/2022/madison-square-garden-new-york-ny-43b03b93.html"
+   }, {
+      "id" : "63b0c243",
+      "versionId" : "g5b17a708",
+      "eventDate" : "13-09-2022",
+      "lastUpdated" : "2026-03-05T15:36:52.220+0000",
+      "artist" : {
+         "mbid" : "de22adae-f8ac-414f-b653-b0162611bd60",
+         "name" : "KAROL G",
+         "sortName" : "KAROL G",
+         "disambiguation" : "Colombian singer",
+         "url" : "https://www.setlist.fm/setlists/karol-g-4bcfd3de.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "$trip Love"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "GATÚBELA"
+            }, {
+               "name" : "Poblado",
+               "cover" : {
+                  "mbid" : "9f9e91a3-5578-4d71-b2c9-7fcc8f3ce8eb",
+                  "name" : "Crissin x Totoy el Frío x Natan & Shander, J.Balvin x KAROL G x Nicky Jam",
+                  "sortName" : "Crissin x Totoy el Frío x Natan & Shander, Balvin, J x KAROL G x Jam, Nicky",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/crissin-x-totoy-el-frio-x-natan-and-shander-jbalvin-x-karol-g-x-nicky-jam-53f35795.html"
+               }
+            }, {
+               "name" : "FRIKI",
+               "cover" : {
+                  "mbid" : "eaee97f6-f2e4-414a-966c-f31a1fb4696a",
+                  "name" : "Feid",
+                  "sortName" : "Feid",
+                  "disambiguation" : "Colombian singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/feid-23c17063.html"
+               }
+            }, {
+               "name" : "Pineapple"
+            }, {
+               "name" : "Ahora me llama"
+            }, {
+               "name" : "BICHOTA"
+            }, {
+               "name" : "EL MAKINON"
+            }, {
+               "name" : "LEYENDAS"
+            }, {
+               "name" : "Ay, Dios mío!"
+            }, {
+               "name" : "GATÚBELA",
+               "with" : {
+                  "mbid" : "9d2097eb-c989-4c16-9296-5c909ec6cca2",
+                  "name" : "Maldy",
+                  "sortName" : "Maldy",
+                  "disambiguation" : "Edwin Vázquez Vega, member of reggaeton duo Plan B",
+                  "url" : "https://www.setlist.fm/setlists/maldy-4bd57f12.html"
+               }
+            }, {
+               "name" : "Caramelo",
+               "cover" : {
+                  "mbid" : "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+                  "name" : "Ozuna",
+                  "sortName" : "Ozuna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ozuna-13dac579.html"
+               },
+               "with" : {
+                  "mbid" : "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+                  "name" : "Ozuna",
+                  "sortName" : "Ozuna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ozuna-13dac579.html"
+               }
+            }, {
+               "name" : "China",
+               "cover" : {
+                  "mbid" : "87a75fc3-59e7-4598-925c-8e230bce5db9",
+                  "name" : "Anuel AA",
+                  "sortName" : "Anuel AA",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/anuel-aa-43cf876b.html"
+               },
+               "with" : {
+                  "mbid" : "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+                  "name" : "Ozuna",
+                  "sortName" : "Ozuna",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ozuna-13dac579.html"
+               }
+            }, {
+               "name" : "DVD"
+            }, {
+               "name" : "A ella"
+            }, {
+               "name" : "PROVENZA"
+            }, {
+               "name" : "Ocean"
+            }, {
+               "name" : "EL BARCO"
+            }, {
+               "name" : "Tusa"
+            }, {
+               "name" : "200 COPAS"
+            }, {
+               "name" : "MAMIII",
+               "cover" : {
+                  "mbid" : "103aa2ef-7d3b-49ea-9040-8239413dd60b",
+                  "name" : "Becky G x KAROL G",
+                  "sortName" : "Becky G x KAROL G",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/becky-g-x-karol-g-2bfeb882.html"
+               }
+            }, {
+               "name" : "Don't Be Shy",
+               "cover" : {
+                  "mbid" : "aabb1d9f-be12-45b3-a84d-a1fc3e8181fd",
+                  "name" : "Tiësto",
+                  "sortName" : "Tiësto",
+                  "disambiguation" : "Dutch DJ and record producer",
+                  "url" : "https://www.setlist.fm/setlists/tiesto-73d63e79.html"
+               }
+            }, {
+               "name" : "PROVENZA",
+               "info" : "Tiesto remix in the secong half of the song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/karol-g/2022/madison-square-garden-new-york-ny-63b0c243.html"
+   }, {
+      "id" : "7bb0c634",
+      "versionId" : "g4bfd2712",
+      "eventDate" : "12-09-2022",
+      "lastUpdated" : "2022-09-13T03:15:38.205+0000",
+      "artist" : {
+         "mbid" : "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+         "name" : "St. Vincent",
+         "sortName" : "Saint Vincent",
+         "disambiguation" : "US guitarist, singer and songwriter Annie Clark",
+         "url" : "https://www.setlist.fm/setlists/st-vincent-13d6a18d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Digital Witness"
+            }, {
+               "name" : "Down"
+            }, {
+               "name" : "Birth in Reverse"
+            }, {
+               "name" : "New York"
+            }, {
+               "name" : "Los Ageless"
+            }, {
+               "name" : "Fast Slow Disco"
+            }, {
+               "name" : "Pay Your Way in Pain"
+            }, {
+               "name" : "Cheerleader"
+            }, {
+               "name" : "The Melting of the Sun"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/st-vincent/2022/madison-square-garden-new-york-ny-7bb0c634.html"
+   }, {
+      "id" : "63b0c637",
+      "versionId" : "g53fd236d",
+      "eventDate" : "12-09-2022",
+      "lastUpdated" : "2022-09-13T06:19:27.225+0000",
+      "artist" : {
+         "mbid" : "331ce348-1b08-40b9-8ed7-0763b92bd003",
+         "name" : "Roxy Music",
+         "sortName" : "Roxy Music",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/roxy-music-23d6a0e7.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "50th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "India",
+               "tape" : true
+            }, {
+               "name" : "Re-Make/Re-Model"
+            }, {
+               "name" : "Out of the Blue"
+            }, {
+               "name" : "The Bogus Man"
+            }, {
+               "name" : "Ladytron"
+            }, {
+               "name" : "While My Heart Is Still Beating"
+            }, {
+               "name" : "Oh Yeah"
+            }, {
+               "name" : "If There Is Something"
+            }, {
+               "name" : "In Every Dream Home a Heartache"
+            }, {
+               "name" : "Tara",
+               "info" : "Tribute to Queen Elizabeth with her photo displayed onscreen at the end"
+            }, {
+               "name" : "To Turn You On"
+            }, {
+               "name" : "The Main Thing"
+            }, {
+               "name" : "Dance Away"
+            }, {
+               "name" : "Same Old Scene"
+            }, {
+               "name" : "My Only Love"
+            }, {
+               "name" : "More Than This"
+            }, {
+               "name" : "Avalon",
+               "info" : "followed by band introduction"
+            }, {
+               "name" : "Love Is the Drug"
+            }, {
+               "name" : "Editions of You"
+            }, {
+               "name" : "Do the Strand"
+            }, {
+               "name" : "Jealous Guy",
+               "cover" : {
+                  "mbid" : "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                  "name" : "John Lennon",
+                  "sortName" : "Lennon, John",
+                  "disambiguation" : "The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/john-lennon-33d68875.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/roxy-music/2022/madison-square-garden-new-york-ny-63b0c637.html"
+   }, {
+      "id" : "3b0d5f3",
+      "versionId" : "gbfdc12a",
+      "eventDate" : "11-09-2022",
+      "lastUpdated" : "2022-09-12T05:39:38.804+0000",
+      "artist" : {
+         "mbid" : "c5df84f8-820e-4e97-88a0-d634436c283d",
+         "name" : "Pluralone",
+         "sortName" : "Pluralone",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pluralone-7bf44624.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Fight for the Soul",
+               "info" : "live debut"
+            }, {
+               "name" : "America",
+               "cover" : {
+                  "mbid" : "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+                  "name" : "Simon & Garfunkel",
+                  "sortName" : "Simon & Garfunkel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/simon-and-garfunkel-53d6e3b9.html"
+               }
+            }, {
+               "name" : "Nutshell",
+               "cover" : {
+                  "mbid" : "4bd95eea-b9f6-4d70-a36c-cfea77431553",
+                  "name" : "Alice in Chains",
+                  "sortName" : "Alice in Chains",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alice-in-chains-53d68b9d.html"
+               }
+            }, {
+               "name" : "Offend"
+            }, {
+               "name" : "The Ballad of El Goodo",
+               "cover" : {
+                  "mbid" : "21d177ba-3d51-461e-9b3f-ad9a80b419dc",
+                  "name" : "Big Star",
+                  "sortName" : "Big Star",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/big-star-63d68653.html"
+               },
+               "with" : {
+                  "mbid" : "07e93890-46a1-4ebd-9a70-3988a2135d87",
+                  "name" : "Matt Cameron",
+                  "sortName" : "Cameron, Matt",
+                  "disambiguation" : "US drummer with Pearl Jam, Soundgarden",
+                  "url" : "https://www.setlist.fm/setlists/matt-cameron-3d6894f.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pluralone/2022/madison-square-garden-new-york-ny-3b0d5f3.html"
+   }, {
+      "id" : "13b0d5fd",
+      "versionId" : "g1361c905",
+      "eventDate" : "11-09-2022",
+      "lastUpdated" : "2025-12-08T22:15:37.766+0000",
+      "artist" : {
+         "mbid" : "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+         "name" : "Pearl Jam",
+         "sortName" : "Pearl Jam",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "2022 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Greatest",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "05755bf1-380c-487f-983f-d1a02401fa28",
+                  "name" : "Cat Power",
+                  "sortName" : "Cat Power",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cat-power-3bd6a498.html"
+               }
+            }, {
+               "name" : "Release"
+            }, {
+               "name" : "Garden"
+            }, {
+               "name" : "Come Back",
+               "info" : "with false start"
+            }, {
+               "name" : "Present Tense"
+            }, {
+               "name" : "Porch"
+            }, {
+               "name" : "Dissident"
+            }, {
+               "name" : "Given to Fly"
+            }, {
+               "name" : "Who Ever Said"
+            }, {
+               "name" : "Even Flow",
+               "info" : "band congratulated Sue Bird and introduced Venus and Serena Williams"
+            }, {
+               "name" : "Seven O'Clock"
+            }, {
+               "name" : "Daughter",
+               "info" : "with \"Chaise Longue\" by Wet Leg tag"
+            }, {
+               "name" : "Dance of the Clairvoyants"
+            }, {
+               "name" : "I'm Open"
+            }, {
+               "name" : "Better Man",
+               "info" : "with \"Save It for Later\" by The Beat tag"
+            }, {
+               "name" : "Chloe Dancer/Crown of Thorns",
+               "cover" : {
+                  "mbid" : "a5585acd-9b65-49a7-a63b-3cc4ee18846e",
+                  "name" : "Mother Love Bone",
+                  "sortName" : "Mother Love Bone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mother-love-bone-13d68929.html"
+               },
+               "info" : "with \"Tiny Dancer\" by Elton John intro; first time played since 2016"
+            }, {
+               "name" : "Sonic Reducer",
+               "cover" : {
+                  "mbid" : "7e2cf7cc-211e-4588-9069-b3126a29d1b1",
+                  "name" : "Dead Boys",
+                  "sortName" : "Dead Boys",
+                  "disambiguation" : "US punk band",
+                  "url" : "https://www.setlist.fm/setlists/dead-boys-6bd6b202.html"
+               },
+               "info" : "band thanked the first responders"
+            }, {
+               "name" : "Rearviewmirror"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Elderly Woman Behind the Counter in a Small Town"
+            }, {
+               "name" : "Why Go"
+            }, {
+               "name" : "Do the Evolution"
+            }, {
+               "name" : "Purple Rain",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               }
+            }, {
+               "name" : "Alive"
+            }, {
+               "name" : "Rockin' in the Free World",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               },
+               "with" : {
+                  "mbid" : "da8f13f1-2a7f-44f7-93a8-3f5f9d7fa52d",
+                  "name" : "Chad Smith",
+                  "sortName" : "Smith, Chad",
+                  "disambiguation" : "drummer from Red Hot Chili Peppers",
+                  "url" : "https://www.setlist.fm/setlists/chad-smith-13d68941.html"
+               }
+            }, {
+               "name" : "The Star-Spangled Banner",
+               "cover" : {
+                  "mbid" : "6aebec4f-db27-4280-805b-5dd81d5c63cb",
+                  "name" : "John Stafford Smith & Francis Scott Key",
+                  "sortName" : "Smith, John Stafford & Key, Francis Scott",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-stafford-smith-and-francis-scott-key-73f6d6c9.html"
+               },
+               "info" : "Mike McCready solo, on the 21st anniversary of 9/11"
+            } ]
+         } ]
+      },
+      "info" : "\"River Cross\" was on written setlist, but not played. \"Sad\", \"Faithfull\" and \"Corduroy\" were listed on the written setlist as options, but were not played.",
+      "url" : "https://www.setlist.fm/setlist/pearl-jam/2022/madison-square-garden-new-york-ny-13b0d5fd.html"
+   }, {
+      "id" : "73b0e231",
+      "versionId" : "g2b90b87e",
+      "eventDate" : "10-09-2022",
+      "lastUpdated" : "2023-06-17T22:05:41.241+0000",
+      "artist" : {
+         "mbid" : "7eb1ce54-a355-41f9-8d68-e018b096d427",
+         "name" : "Harry Styles",
+         "sortName" : "Styles, Harry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/harry-styles-23d294a7.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Love on Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Daydreaming"
+            }, {
+               "name" : "Golden"
+            }, {
+               "name" : "Adore You"
+            }, {
+               "name" : "Daylight"
+            }, {
+               "name" : "Keep Driving"
+            }, {
+               "name" : "Matilda"
+            }, {
+               "name" : "Little Freak"
+            }, {
+               "name" : "Satellite"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               }
+            }, {
+               "name" : "Cinema"
+            }, {
+               "name" : "Music for a Sushi Restaurant",
+               "info" : "Intro samples \"Y.M.C.A.\" by Village People"
+            }, {
+               "name" : "Treat People With Kindness"
+            }, {
+               "name" : "What Makes You Beautiful",
+               "cover" : {
+                  "mbid" : "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+                  "name" : "One Direction",
+                  "sortName" : "One Direction",
+                  "disambiguation" : "English‐Irish pop boy band",
+                  "url" : "https://www.setlist.fm/setlists/one-direction-3bd294d0.html"
+               }
+            }, {
+               "name" : "Late Night Talking"
+            }, {
+               "name" : "Watermelon Sugar"
+            }, {
+               "name" : "Love of My Life"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sign of the Times"
+            }, {
+               "name" : "Medicine",
+               "info" : "Unreleased"
+            }, {
+               "name" : "As It Was"
+            }, {
+               "name" : "Kiwi"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/harry-styles/2022/madison-square-garden-new-york-ny-73b0e231.html"
+   }, {
+      "id" : "63b0e237",
+      "versionId" : "g1b9639c4",
+      "eventDate" : "10-09-2022",
+      "lastUpdated" : "2023-04-26T20:57:54.238+0000",
+      "artist" : {
+         "mbid" : "3d254f1e-7d18-431b-baeb-68e57695dfdb",
+         "name" : "Blood Orange",
+         "sortName" : "Blood Orange",
+         "disambiguation" : "singer/songwriter Devonté Hynes",
+         "url" : "https://www.setlist.fm/setlists/blood-orange-53d32fed.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Family"
+            }, {
+               "name" : "Saint"
+            }, {
+               "name" : "Dark & Handsome"
+            }, {
+               "name" : "You're Not Good Enough"
+            }, {
+               "name" : "Wish"
+            }, {
+               "name" : "Best to You",
+               "with" : {
+                  "mbid" : "91cd6a5a-e0db-4329-837e-9b6479d1ed2d",
+                  "name" : "Empress Of",
+                  "sortName" : "Empress Of",
+                  "disambiguation" : "Honduran‐American singer",
+                  "url" : "https://www.setlist.fm/setlists/empress-of-2bdc8cd2.html"
+               }
+            }, {
+               "name" : "Chamakay/Bunny is a Rider",
+               "with" : {
+                  "mbid" : "d8f43dc5-4613-48ac-8c23-a62b82f8c67a",
+                  "name" : "Caroline Polachek",
+                  "sortName" : "Polachek, Caroline",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/caroline-polachek-73d03271.html"
+               }
+            }, {
+               "name" : "Twine",
+               "cover" : {
+                  "mbid" : "40411dc2-aa26-4b53-97bb-391a9c960be5",
+                  "name" : "Eva Tolkin",
+                  "sortName" : "Tolkin, Eva",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eva-tolkin-1bfdb15c.html"
+               },
+               "with" : {
+                  "mbid" : "40411dc2-aa26-4b53-97bb-391a9c960be5",
+                  "name" : "Eva Tolkin",
+                  "sortName" : "Tolkin, Eva",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eva-tolkin-1bfdb15c.html"
+               }
+            }, {
+               "name" : "Charcoal Baby"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/blood-orange/2022/madison-square-garden-new-york-ny-63b0e237.html"
+   } ]
+}

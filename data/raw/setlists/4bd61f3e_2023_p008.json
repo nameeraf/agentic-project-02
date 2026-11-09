@@ -1,0 +1,945 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 314,
+   "setlist" : [ {
+      "id" : "1ba4b100",
+      "versionId" : "g739f1a99",
+      "eventDate" : "14-07-2023",
+      "lastUpdated" : "2023-07-19T15:12:59.657+0000",
+      "artist" : {
+         "mbid" : "42fcf9da-c81a-4dee-9e8f-fab9fee9f1b5",
+         "name" : "Destructo Disk",
+         "sortName" : "Destructo Disk",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/destructo-disk-13f089a9.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Keef America Gr8"
+            }, {
+               "name" : "For the Common Wealth of Man",
+               "info" : "New song"
+            }, {
+               "name" : "The Adventures of Bad Gravity"
+            }, {
+               "name" : "cops/dogs"
+            }, {
+               "name" : "I Wish I Was a Riot Grrrl"
+            }, {
+               "name" : "Cruelboarders"
+            }, {
+               "name" : "Breakfast in Space"
+            }, {
+               "name" : "Batty for You"
+            }, {
+               "name" : "Liminal Space",
+               "info" : "cut from set for time"
+            }, {
+               "name" : "You're Standing on My Neck",
+               "cover" : {
+                  "mbid" : "fdc9f358-9d9a-4a50-ba61-5731ea220da1",
+                  "name" : "Splendora",
+                  "sortName" : "Splendora",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/splendora-1bd7d90c.html"
+               },
+               "info" : "last-minute impromptu addition to set"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/destructo-disk/2023/irving-plaza-new-york-ny-1ba4b100.html"
+   }, {
+      "id" : "1b4179f0",
+      "versionId" : "g3b783c68",
+      "eventDate" : "14-07-2023",
+      "lastUpdated" : "2025-10-02T18:40:23.381+0000",
+      "artist" : {
+         "mbid" : "4ef2d6c6-fb23-4f2a-a8bb-9a91205349d4",
+         "name" : "Jigsaw Youth",
+         "sortName" : "Jigsaw Youth",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jigsaw-youth-73f04e01.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jigsaw-youth/2023/irving-plaza-new-york-ny-1b4179f0.html"
+   }, {
+      "id" : "2ba73886",
+      "versionId" : "g239efc53",
+      "eventDate" : "07-07-2023",
+      "lastUpdated" : "2023-07-07T09:14:35.488+0000",
+      "artist" : {
+         "mbid" : "ebbbea25-2e67-4d85-b720-97dbede34cf3",
+         "name" : "Lime Cordiale",
+         "sortName" : "Lime Cordiale",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lime-cordiale-5bdb6f28.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "USA / Canada Tour 2023"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lime-cordiale/2023/irving-plaza-new-york-ny-2ba73886.html"
+   }, {
+      "id" : "13a4a59d",
+      "versionId" : "g539f7b19",
+      "eventDate" : "07-07-2023",
+      "lastUpdated" : "2023-07-20T13:42:24.074+0000",
+      "artist" : {
+         "mbid" : "a26a06f4-1ebe-4453-a177-75322f910230",
+         "name" : "Teenage Dads",
+         "sortName" : "Teenage Dads",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/teenage-dads-2bf004be.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/teenage-dads/2023/irving-plaza-new-york-ny-13a4a59d.html"
+   }, {
+      "id" : "ba4c592",
+      "versionId" : "g739c0275",
+      "eventDate" : "28-06-2023",
+      "lastUpdated" : "2023-07-29T05:11:11.847+0000",
+      "artist" : {
+         "mbid" : "91dac7b1-5c75-4e0c-9d19-e8e78eeb30ed",
+         "name" : "anees",
+         "sortName" : "anees",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/anees-4bfd9bfa.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "summer camp album tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/anees/2023/irving-plaza-new-york-ny-ba4c592.html"
+   }, {
+      "id" : "1ba4c590",
+      "versionId" : "g739c0269",
+      "eventDate" : "28-06-2023",
+      "lastUpdated" : "2023-07-29T05:11:40.946+0000",
+      "artist" : {
+         "mbid" : "c0ec25d9-497e-4839-8468-8ee8deec8553",
+         "name" : "Michael Minelli",
+         "sortName" : "Michael Minelli",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/michael-minelli-2bfd7052.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/michael-minelli/2023/irving-plaza-new-york-ny-1ba4c590.html"
+   }, {
+      "id" : "4ba7afbe",
+      "versionId" : "g6398ae3b",
+      "eventDate" : "26-06-2023",
+      "lastUpdated" : "2023-08-26T08:40:58.678+0000",
+      "artist" : {
+         "mbid" : "a1ed5e33-22ff-4e7d-a457-42f4309e135f",
+         "name" : "Aqua",
+         "sortName" : "Aqua",
+         "disambiguation" : "Danish Euro‐dance group",
+         "url" : "https://www.setlist.fm/setlists/aqua-43d6bf1b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Around the World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cartoon Heroes"
+            }, {
+               "name" : "Back to the 80's"
+            }, {
+               "name" : "Good Morning Sunshine"
+            }, {
+               "name" : "Playmate to Jesus"
+            }, {
+               "name" : "Calling You"
+            }, {
+               "name" : "We Belong to the Sea"
+            }, {
+               "name" : "Around the World"
+            }, {
+               "name" : "Happy Boys & Girls"
+            }, {
+               "name" : "Turn Back Time"
+            }, {
+               "name" : "Dirty Little Pop Song"
+            }, {
+               "name" : "My Mamma Said"
+            }, {
+               "name" : "My Oh My"
+            }, {
+               "name" : "Didn't I"
+            }, {
+               "name" : "Barbie Girl"
+            }, {
+               "name" : "Roses Are Red"
+            }, {
+               "name" : "Lollipop (Candyman)"
+            }, {
+               "name" : "Doctor Jones"
+            } ]
+         } ]
+      },
+      "info" : "Aqua's first performance at United States",
+      "url" : "https://www.setlist.fm/setlist/aqua/2023/irving-plaza-new-york-ny-4ba7afbe.html"
+   }, {
+      "id" : "1ba4c59c",
+      "versionId" : "g639c0277",
+      "eventDate" : "26-06-2023",
+      "lastUpdated" : "2023-07-29T05:10:48.515+0000",
+      "artist" : {
+         "mbid" : "7773073a-6ae9-41d8-a50e-326d26538d0a",
+         "name" : "Lagoona Bloo",
+         "sortName" : "Bloo, Lagoona",
+         "disambiguation" : "American drag queen",
+         "url" : "https://www.setlist.fm/setlists/lagoona-bloo-23fa24af.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lagoona-bloo/2023/irving-plaza-new-york-ny-1ba4c59c.html"
+   }, {
+      "id" : "13a4c599",
+      "versionId" : "g6b9c027e",
+      "eventDate" : "26-06-2023",
+      "lastUpdated" : "2023-07-29T05:09:58.218+0000",
+      "artist" : {
+         "mbid" : "ace854b9-53cf-4387-96c7-4a88d6bcb66a",
+         "name" : "Madison Rose",
+         "sortName" : "Rose, Madison",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/madison-rose-23fd1c1b.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/madison-rose/2023/irving-plaza-new-york-ny-13a4c599.html"
+   }, {
+      "id" : "4ba677ee",
+      "versionId" : "g6390f64f",
+      "eventDate" : "22-06-2023",
+      "lastUpdated" : "2023-06-20T00:40:28.387+0000",
+      "artist" : {
+         "mbid" : "d63c9d61-e2db-4061-80b5-db528ed2f61c",
+         "name" : "Joseph",
+         "sortName" : "Joseph",
+         "disambiguation" : "band from Portland, OR",
+         "url" : "https://www.setlist.fm/setlists/joseph-43da1bb7.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joseph/2023/irving-plaza-new-york-ny-4ba677ee.html"
+   }, {
+      "id" : "73a60639",
+      "versionId" : "gb1d29f6",
+      "eventDate" : "20-06-2023",
+      "lastUpdated" : "2026-05-23T01:25:20.259+0000",
+      "artist" : {
+         "mbid" : "bb0fa8bd-c230-49b1-bc80-e69e229d158f",
+         "name" : "Thank You Scientist",
+         "sortName" : "Thank You Scientist",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/thank-you-scientist-53dfcb31.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Gigglebutton"
+            }, {
+               "name" : "My Silent Alphabet"
+            }, {
+               "name" : "Caverns"
+            }, {
+               "name" : "Mr. Invisible"
+            }, {
+               "name" : "Everyday Ghosts"
+            }, {
+               "name" : "Terraformer"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/thank-you-scientist/2023/irving-plaza-new-york-ny-73a60639.html"
+   }, {
+      "id" : "63a6063b",
+      "versionId" : "g2b9e003e",
+      "eventDate" : "20-06-2023",
+      "lastUpdated" : "2023-07-11T15:43:24.584+0000",
+      "artist" : {
+         "mbid" : "1870fb43-50f1-4660-a879-bb596d1519b6",
+         "name" : "Between the Buried and Me",
+         "sortName" : "Between the Buried and Me",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/between-the-buried-and-me-3bd6fcd8.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "The Parallax II"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "The Parallax II: Future Sequence",
+            "song" : [ {
+               "name" : "Goodbye to Everything"
+            }, {
+               "name" : "Astral Body"
+            }, {
+               "name" : "Lay Your Ghosts to Rest"
+            }, {
+               "name" : "Autumn",
+               "tape" : true
+            }, {
+               "name" : "Extremophile Elite"
+            }, {
+               "name" : "Parallax"
+            }, {
+               "name" : "The Black Box"
+            }, {
+               "name" : "Telos"
+            }, {
+               "name" : "Bloom"
+            }, {
+               "name" : "Melting City"
+            }, {
+               "name" : "Silent Flight Parliament"
+            }, {
+               "name" : "Goodbye to Everything Reprise"
+            } ]
+         } ]
+      },
+      "info" : "with Tristan Auman on guitar in place of Dustie Waring.",
+      "url" : "https://www.setlist.fm/setlist/between-the-buried-and-me/2023/irving-plaza-new-york-ny-63a6063b.html"
+   }, {
+      "id" : "53a60b85",
+      "versionId" : "g3390c48d",
+      "eventDate" : "20-06-2023",
+      "lastUpdated" : "2023-06-21T13:11:41.043+0000",
+      "artist" : {
+         "mbid" : "a802fee7-86d5-4043-94a3-a5cc5b121cc9",
+         "name" : "Rivers of Nihil",
+         "sortName" : "Rivers of Nihil",
+         "disambiguation" : "death metal band from Reading, PA",
+         "url" : "https://www.setlist.fm/setlists/rivers-of-nihil-43da8fb3.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Silent Life"
+            }, {
+               "name" : "Clean"
+            }, {
+               "name" : "The Void From Which No Sound Escapes"
+            }, {
+               "name" : "The Sub‐Orbital Blues"
+            }, {
+               "name" : "Episode"
+            }, {
+               "name" : "Where Owls Know My Name"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rivers-of-nihil/2023/irving-plaza-new-york-ny-53a60b85.html"
+   }, {
+      "id" : "7ba522a0",
+      "versionId" : "g2b9b1416",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-08-22T16:27:50.278+0000",
+      "artist" : {
+         "mbid" : "15636a07-386b-4e56-b050-5f932416e8d4",
+         "name" : "Incendiary Device",
+         "sortName" : "Incendiary Device",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/incendiary-device-6bf9f256.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/incendiary-device/2023/irving-plaza-new-york-ny-7ba522a0.html"
+   }, {
+      "id" : "73a602dd",
+      "versionId" : "g5390ff4d",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-06-19T18:02:44.278+0000",
+      "artist" : {
+         "mbid" : "11a683e2-c855-4b93-934c-0ecb053fb5ac",
+         "name" : "Sheer Terror",
+         "sortName" : "Sheer Terror",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sheer-terror-43d6f7c7.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Here to Stay"
+            }, {
+               "name" : "I, Spoiler"
+            }, {
+               "name" : "Not Waving, Drowning"
+            }, {
+               "name" : "Heartburn in G"
+            }, {
+               "name" : "Twisting and Turning"
+            }, {
+               "name" : "Salome",
+               "cover" : {
+                  "mbid" : "8dd216da-6db2-4130-9a7c-ece756d1394d",
+                  "name" : "Old 97’s",
+                  "sortName" : "Old 97’s",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/old-97s-bd615be.html"
+               }
+            }, {
+               "name" : "Roses"
+            }, {
+               "name" : "Walls"
+            }, {
+               "name" : "Cup O' Joe"
+            }, {
+               "name" : "Just Can't Hate Enough"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sheer-terror/2023/irving-plaza-new-york-ny-73a602dd.html"
+   }, {
+      "id" : "73a602d1",
+      "versionId" : "g53bcd745",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2024-04-24T17:08:14.392+0000",
+      "artist" : {
+         "mbid" : "f5bd5fbf-97af-4a86-ac08-70aed7345dce",
+         "name" : "Fury of Five",
+         "sortName" : "Fury of Five",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/fury-of-five-2bd71832.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Come and Get It"
+            }, {
+               "name" : "Feel the Reign"
+            }, {
+               "name" : "Every Man for Himself"
+            }, {
+               "name" : "Do or Die"
+            }, {
+               "name" : "Revenge Doesn’t Sleep"
+            }, {
+               "name" : "Takin' Respect"
+            }, {
+               "name" : "Raining Blood",
+               "cover" : {
+                  "mbid" : "bdacc37b-8633-4bf8-9dd5-4662ee651aec",
+                  "name" : "Slayer",
+                  "sortName" : "Slayer",
+                  "disambiguation" : "US thrash metal band",
+                  "url" : "https://www.setlist.fm/setlists/slayer-63d68e3b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/fury-of-five/2023/irving-plaza-new-york-ny-73a602d1.html"
+   }, {
+      "id" : "63a602df",
+      "versionId" : "g139091f1",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-06-18T22:30:17.848+0000",
+      "artist" : {
+         "mbid" : "aedccf2a-665d-4ddb-b704-fe4c8e0b465f",
+         "name" : "Sworn Enemy",
+         "sortName" : "Sworn Enemy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sworn-enemy-3bd63860.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sworn-enemy/2023/irving-plaza-new-york-ny-63a602df.html"
+   }, {
+      "id" : "63a602db",
+      "versionId" : "g1b9091f8",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-06-18T22:29:21.492+0000",
+      "artist" : {
+         "mbid" : "4c451344-a0b3-4eb1-9935-c15c24d6e712",
+         "name" : "SubZero",
+         "sortName" : "SubZero",
+         "disambiguation" : "US hardcore/punk metal group from NYC",
+         "url" : "https://www.setlist.fm/setlists/subzero-4bd763ae.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/subzero/2023/irving-plaza-new-york-ny-63a602db.html"
+   }, {
+      "id" : "1ba67940",
+      "versionId" : "g6b908626",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-06-19T12:40:52.975+0000",
+      "artist" : {
+         "mbid" : "efa74e2f-21aa-4c22-88f2-8d517ce21064",
+         "name" : "Antidote",
+         "sortName" : "Antidote",
+         "disambiguation" : "1980s US punk band from NYC",
+         "url" : "https://www.setlist.fm/setlists/antidote-13d795f1.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/antidote/2023/irving-plaza-new-york-ny-1ba67940.html"
+   }, {
+      "id" : "13a61da9",
+      "versionId" : "g53908311",
+      "eventDate" : "18-06-2023",
+      "lastUpdated" : "2023-06-19T15:10:16.415+0000",
+      "artist" : {
+         "mbid" : "be5fe2ab-007c-4610-8d53-d81675d06a09",
+         "name" : "Biohazard",
+         "sortName" : "Biohazard",
+         "disambiguation" : "US hardcore punk / heavy metal band",
+         "url" : "https://www.setlist.fm/setlists/biohazard-7bd6d690.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Urban Discipline"
+            }, {
+               "name" : "What Makes Us Tick"
+            }, {
+               "name" : "Down for Life"
+            }, {
+               "name" : "Tales From the Hard Side"
+            }, {
+               "name" : "Black and White and Red All Over"
+            }, {
+               "name" : "Five Blocks to the Subway"
+            }, {
+               "name" : "Wrong Side of the Tracks"
+            }, {
+               "name" : "Shades of Grey"
+            }, {
+               "name" : "Howard Beach"
+            }, {
+               "name" : "How It Is"
+            }, {
+               "name" : "Tears of Blood"
+            }, {
+               "name" : "Scarred for Life"
+            }, {
+               "name" : "Victory"
+            }, {
+               "name" : "Retribution"
+            }, {
+               "name" : "Survival of the Fittest"
+            }, {
+               "name" : "Love Denied"
+            }, {
+               "name" : "We're Only Gonna Die",
+               "cover" : {
+                  "mbid" : "149e6720-4e4a-41a4-afca-6d29083fc091",
+                  "name" : "Bad Religion",
+                  "sortName" : "Bad Religion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+               }
+            }, {
+               "name" : "Punishment"
+            }, {
+               "name" : "Hold My Own"
+            } ]
+         } ]
+      },
+      "info" : "Veeps PPV Webcast",
+      "url" : "https://www.setlist.fm/setlist/biohazard/2023/irving-plaza-new-york-ny-13a61da9.html"
+   } ]
+}

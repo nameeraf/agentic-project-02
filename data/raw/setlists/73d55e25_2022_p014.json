@@ -1,0 +1,42 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 14,
+   "total" : 261,
+   "setlist" : [ {
+      "id" : "638b66f3",
+      "versionId" : "g13c24dc9",
+      "eventDate" : "01-01-2022",
+      "lastUpdated" : "2021-12-30T00:41:50.245+0000",
+      "artist" : {
+         "mbid" : "f47fc54d-b334-4321-8218-00c5b11d4dd1",
+         "name" : "Gogol Bordello",
+         "sortName" : "Gogol Bordello",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gogol-bordello-43d6ef3f.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gogol-bordello/2022/brooklyn-steel-brooklyn-ny-638b66f3.html"
+   } ]
+}

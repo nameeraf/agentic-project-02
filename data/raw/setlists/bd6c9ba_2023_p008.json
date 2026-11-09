@@ -1,0 +1,827 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 155,
+   "setlist" : [ {
+      "id" : "bbae146",
+      "versionId" : "g237764af",
+      "eventDate" : "23-02-2023",
+      "lastUpdated" : "2025-06-27T14:20:33.616+0000",
+      "artist" : {
+         "mbid" : "ead26d19-20b3-49ac-92e9-3d8a25ca9462",
+         "name" : "Cory Wong",
+         "sortName" : "Wong, Cory",
+         "disambiguation" : "rhythm guitarist",
+         "url" : "https://www.setlist.fm/setlists/cory-wong-1bc1f9b8.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Power Station"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Assassin",
+               "cover" : {
+                  "mbid" : "3a6c52b4-48ff-4153-afac-0be3c98d9eb5",
+                  "name" : "The Fearless Flyers",
+                  "sortName" : "Fearless Flyers, The",
+                  "disambiguation" : "American groove funk band",
+                  "url" : "https://www.setlist.fm/setlists/the-fearless-flyers-73ca4231.html"
+               }
+            }, {
+               "name" : "Let's Go!"
+            }, {
+               "name" : "Flyers Direct",
+               "cover" : {
+                  "mbid" : "3a6c52b4-48ff-4153-afac-0be3c98d9eb5",
+                  "name" : "The Fearless Flyers",
+                  "sortName" : "Fearless Flyers, The",
+                  "disambiguation" : "American groove funk band",
+                  "url" : "https://www.setlist.fm/setlists/the-fearless-flyers-73ca4231.html"
+               }
+            }, {
+               "name" : "You Got to Be You"
+            }, {
+               "name" : "Kenni and the Jets",
+               "cover" : {
+                  "mbid" : "3a6c52b4-48ff-4153-afac-0be3c98d9eb5",
+                  "name" : "The Fearless Flyers",
+                  "sortName" : "Fearless Flyers, The",
+                  "disambiguation" : "American groove funk band",
+                  "url" : "https://www.setlist.fm/setlists/the-fearless-flyers-73ca4231.html"
+               }
+            }, {
+               "name" : "Home"
+            }, {
+               "name" : "Crisis",
+               "with" : {
+                  "mbid" : "316f7cee-a01b-4dbc-a10f-fa8537da24eb",
+                  "name" : "Trousdale",
+                  "sortName" : "Trousdale",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/trousdale-73fdaeb5.html"
+               }
+            }, {
+               "name" : "Golden",
+               "with" : {
+                  "mbid" : "316f7cee-a01b-4dbc-a10f-fa8537da24eb",
+                  "name" : "Trousdale",
+                  "sortName" : "Trousdale",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/trousdale-73fdaeb5.html"
+               }
+            }, {
+               "name" : "Sandstorm / Better Off Alone / One More Time / The Rockafeller Skank",
+               "info" : "with Trousdale"
+            }, {
+               "name" : "Bluebird",
+               "info" : "tiny instruments",
+               "with" : {
+                  "mbid" : "6bc352d9-fbca-4f2d-b5d8-8c5ea24a8fb7",
+                  "name" : "Michael Winograd",
+                  "sortName" : "Winograd, Michael",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/michael-winograd-6bdc1aae.html"
+               }
+            }, {
+               "name" : "Lunchtime",
+               "with" : {
+                  "mbid" : "2d7692e2-d21e-4e16-bdbc-3bdb96dffeb3",
+                  "name" : "Louis Cato",
+                  "sortName" : "Cato, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-cato-13ddd5f5.html"
+               }
+            }, {
+               "name" : "Direct Flyte",
+               "with" : {
+                  "mbid" : "1d0ae4e0-384f-4854-a1b4-ebb4cc81414b",
+                  "name" : "Victor Wooten",
+                  "sortName" : "Wooten, Victor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/victor-wooten-23d6b067.html"
+               }
+            }, {
+               "name" : "Welcome 2 Minneapolis",
+               "with" : {
+                  "mbid" : "1d0ae4e0-384f-4854-a1b4-ebb4cc81414b",
+                  "name" : "Victor Wooten",
+                  "sortName" : "Wooten, Victor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/victor-wooten-23d6b067.html"
+               }
+            }, {
+               "name" : "Separado",
+               "with" : {
+                  "mbid" : "1d0ae4e0-384f-4854-a1b4-ebb4cc81414b",
+                  "name" : "Victor Wooten",
+                  "sortName" : "Wooten, Victor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/victor-wooten-23d6b067.html"
+               }
+            }, {
+               "name" : "St. Paul",
+               "with" : {
+                  "mbid" : "1d0ae4e0-384f-4854-a1b4-ebb4cc81414b",
+                  "name" : "Victor Wooten",
+                  "sortName" : "Wooten, Victor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/victor-wooten-23d6b067.html"
+               }
+            }, {
+               "name" : "Stomping Grounds",
+               "cover" : {
+                  "mbid" : "830dce6f-c9ff-4ebe-944b-2ea2ab22fcdf",
+                  "name" : "Béla Fleck and the Flecktones",
+                  "sortName" : "Fleck, Béla and the Flecktones",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bela-fleck-and-the-flecktones-6bd6424a.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Press Conference"
+            }, {
+               "name" : "Dean Town",
+               "cover" : {
+                  "mbid" : "7d0e8067-10b9-4069-95dc-1110a0fbb877",
+                  "name" : "Vulfpeck",
+                  "sortName" : "Vulfpeck",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vulfpeck-13dad5b1.html"
+               },
+               "info" : "with Sonny T, Victor Wooten AND Cory Wong ALL on bass and a boy from the audience on guitar"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cory-wong/2023/beacon-theatre-new-york-ny-bbae146.html"
+   }, {
+      "id" : "23a3b833",
+      "versionId" : "g3bbd16f",
+      "eventDate" : "23-02-2023",
+      "lastUpdated" : "2024-05-18T18:26:11.175+0000",
+      "artist" : {
+         "mbid" : "316f7cee-a01b-4dbc-a10f-fa8537da24eb",
+         "name" : "Trousdale",
+         "sortName" : "Trousdale",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/trousdale-73fdaeb5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "This Is It"
+            }, {
+               "name" : "Always, Joni"
+            }, {
+               "name" : "Old Man",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Smart Iowa"
+            }, {
+               "name" : "Point Your Finger"
+            }, {
+               "name" : "Any Day Now"
+            }, {
+               "name" : "If You're Hurting"
+            }, {
+               "name" : "Bad Blood"
+            }, {
+               "name" : "Wouldn’t Come Back"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/trousdale/2023/beacon-theatre-new-york-ny-23a3b833.html"
+   }, {
+      "id" : "bbae932",
+      "versionId" : "g6bec8eca",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:38:11.372+0000",
+      "artist" : {
+         "mbid" : "b3edafa8-0a78-40b9-9404-c6fc1920d2be",
+         "name" : "The Stylistics",
+         "sortName" : "Stylistics, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-stylistics-bd6b946.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "evening show",
+      "url" : "https://www.setlist.fm/setlist/the-stylistics/2023/beacon-theatre-new-york-ny-bbae932.html"
+   }, {
+      "id" : "bbae92e",
+      "versionId" : "gb763dca",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2025-06-18T01:31:37.101+0000",
+      "artist" : {
+         "mbid" : "45d17b84-de97-4027-ad7c-4650c8cbf1da",
+         "name" : "Blue Magic",
+         "sortName" : "Blue Magic",
+         "disambiguation" : "US R&B/soul vocal quintet",
+         "url" : "https://www.setlist.fm/setlists/blue-magic-33d65055.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Welcome to the Club"
+            }, {
+               "name" : "Let's Chill",
+               "cover" : {
+                  "mbid" : "fa209319-6d7b-4a20-b445-62186ec41e0d",
+                  "name" : "Guy",
+                  "sortName" : "Guy",
+                  "disambiguation" : "US hip hop/r&b/soul/new jack swing group",
+                  "url" : "https://www.setlist.fm/setlists/guy-73d6b62d.html"
+               }
+            }, {
+               "name" : "What's Come Over Me"
+            }, {
+               "name" : "Spell"
+            }, {
+               "name" : "Sideshow"
+            } ]
+         } ]
+      },
+      "info" : "afternoon show",
+      "url" : "https://www.setlist.fm/setlist/blue-magic/2023/beacon-theatre-new-york-ny-bbae92e.html"
+   }, {
+      "id" : "3bae92f",
+      "versionId" : "g6bec8ec6",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:40:01.984+0000",
+      "artist" : {
+         "mbid" : "45d17b84-de97-4027-ad7c-4650c8cbf1da",
+         "name" : "Blue Magic",
+         "sortName" : "Blue Magic",
+         "disambiguation" : "US R&B/soul vocal quintet",
+         "url" : "https://www.setlist.fm/setlists/blue-magic-33d65055.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "evening show",
+      "url" : "https://www.setlist.fm/setlist/blue-magic/2023/beacon-theatre-new-york-ny-3bae92f.html"
+   }, {
+      "id" : "3bae92b",
+      "versionId" : "g63ec8eb3",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:41:54.604+0000",
+      "artist" : {
+         "mbid" : "97399931-15b7-400d-acbc-c11a3c4671b7",
+         "name" : "The Intruders",
+         "sortName" : "Intruders, The",
+         "disambiguation" : "US soul vocal group",
+         "url" : "https://www.setlist.fm/setlists/the-intruders-7bd6aa20.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A Nice Girl Like You"
+            }, {
+               "name" : "Together"
+            }, {
+               "name" : "(We'll Be) United"
+            }, {
+               "name" : "I Wanna Know Your Name"
+            }, {
+               "name" : "Cowboys to Girls"
+            }, {
+               "name" : "I'll Always Love My Mama"
+            } ]
+         } ]
+      },
+      "info" : "afternoon show",
+      "url" : "https://www.setlist.fm/setlist/the-intruders/2023/beacon-theatre-new-york-ny-3bae92b.html"
+   }, {
+      "id" : "1bbae934",
+      "versionId" : "g63ec8ecf",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:38:29.547+0000",
+      "artist" : {
+         "mbid" : "97399931-15b7-400d-acbc-c11a3c4671b7",
+         "name" : "The Intruders",
+         "sortName" : "Intruders, The",
+         "disambiguation" : "US soul vocal group",
+         "url" : "https://www.setlist.fm/setlists/the-intruders-7bd6aa20.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "evening show",
+      "url" : "https://www.setlist.fm/setlist/the-intruders/2023/beacon-theatre-new-york-ny-1bbae934.html"
+   }, {
+      "id" : "1bbae92c",
+      "versionId" : "g6bec8eae",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:43:55.712+0000",
+      "artist" : {
+         "mbid" : "76f44882-834d-4c34-a688-0a4449711e68",
+         "name" : "Bloodstone",
+         "sortName" : "Bloodstone",
+         "disambiguation" : "US R&B, soul and funk group",
+         "url" : "https://www.setlist.fm/setlists/bloodstone-43d6cb73.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "You're Still a Young Man"
+            }, {
+               "name" : "Outside Woman"
+            }, {
+               "name" : "Can't Nobody Do Me Like Jesus",
+               "cover" : {
+                  "mbid" : "76ca5dc7-2e3c-4e16-8f55-7d6c33272180",
+                  "name" : "Andraé Crouch",
+                  "sortName" : "Crouch, Andraé",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/andrae-crouch-1bd4d1dc.html"
+               }
+            }, {
+               "name" : "Who Has the Last Laugh Now"
+            }, {
+               "name" : "Natural High"
+            }, {
+               "name" : "Ooo Baby Baby",
+               "cover" : {
+                  "mbid" : "6a4c2d34-7f7f-4f87-b17f-b5540aa840db",
+                  "name" : "The Miracles",
+                  "sortName" : "Miracles, The",
+                  "disambiguation" : "aka Smokey Robinson and The Miracles",
+                  "url" : "https://www.setlist.fm/setlists/the-miracles-3d6b98b.html"
+               }
+            }, {
+               "name" : "We Go a Long Way Back"
+            } ]
+         } ]
+      },
+      "info" : "afternoon show",
+      "url" : "https://www.setlist.fm/setlist/bloodstone/2023/beacon-theatre-new-york-ny-1bbae92c.html"
+   }, {
+      "id" : "1bbae928",
+      "versionId" : "g6bec8eb2",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:41:57.856+0000",
+      "artist" : {
+         "mbid" : "ce809639-0e34-40c4-86c9-90a162cb3d46",
+         "name" : "Heatwave",
+         "sortName" : "Heatwave",
+         "disambiguation" : "70s/80s R&B/funk band",
+         "url" : "https://www.setlist.fm/setlists/heatwave-1bd6b9b8.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Boogie Nights"
+            }, {
+               "name" : "Mind Blowing Decisions"
+            }, {
+               "name" : "Ain't No Half Steppin'"
+            }, {
+               "name" : "Always and Forever"
+            }, {
+               "name" : "The Groove Line"
+            } ]
+         } ]
+      },
+      "info" : "afternoon show",
+      "url" : "https://www.setlist.fm/setlist/heatwave/2023/beacon-theatre-new-york-ny-1bbae928.html"
+   }, {
+      "id" : "13bae931",
+      "versionId" : "g23eab8bb",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-03-12T22:07:31.682+0000",
+      "artist" : {
+         "mbid" : "b3edafa8-0a78-40b9-9404-c6fc1920d2be",
+         "name" : "The Stylistics",
+         "sortName" : "Stylistics, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-stylistics-bd6b946.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Heavy Fallin' Out"
+            }, {
+               "name" : "Peek-A-Boo"
+            }, {
+               "name" : "I'm Stone in Love With You"
+            }, {
+               "name" : "You're a Big Girl Now"
+            }, {
+               "name" : "People Make the World Go Round"
+            }, {
+               "name" : "Hurry Up This Way Again"
+            }, {
+               "name" : "You'll Never Get to Heaven (If You Break My Heart)",
+               "cover" : {
+                  "mbid" : "2882ffa3-dec9-4055-a842-a950728bcb02",
+                  "name" : "Burt Bacharach",
+                  "sortName" : "Bacharach, Burt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/burt-bacharach-53d6b3c1.html"
+               }
+            }, {
+               "name" : "Let's Put It All Together / Break Up to Make Up / Stop, Look, Listen (To Your Heart) / You Are Everything"
+            }, {
+               "name" : "Ebony Eyes"
+            }, {
+               "name" : "Children of the Night",
+               "info" : "snippet A cappella"
+            }, {
+               "name" : "Jenny"
+            }, {
+               "name" : "You Make Me Feel Brand New"
+            } ]
+         } ]
+      },
+      "info" : "afternoon show",
+      "url" : "https://www.setlist.fm/setlist/the-stylistics/2023/beacon-theatre-new-york-ny-13bae931.html"
+   }, {
+      "id" : "13bae92d",
+      "versionId" : "g63ec8ebb",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:40:34.759+0000",
+      "artist" : {
+         "mbid" : "76f44882-834d-4c34-a688-0a4449711e68",
+         "name" : "Bloodstone",
+         "sortName" : "Bloodstone",
+         "disambiguation" : "US R&B, soul and funk group",
+         "url" : "https://www.setlist.fm/setlists/bloodstone-43d6cb73.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "evening show",
+      "url" : "https://www.setlist.fm/setlist/bloodstone/2023/beacon-theatre-new-york-ny-13bae92d.html"
+   }, {
+      "id" : "13bae929",
+      "versionId" : "g6bec8ec2",
+      "eventDate" : "11-02-2023",
+      "lastUpdated" : "2023-02-23T05:39:24.450+0000",
+      "artist" : {
+         "mbid" : "ce809639-0e34-40c4-86c9-90a162cb3d46",
+         "name" : "Heatwave",
+         "sortName" : "Heatwave",
+         "disambiguation" : "70s/80s R&B/funk band",
+         "url" : "https://www.setlist.fm/setlists/heatwave-1bd6b9b8.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "evening show",
+      "url" : "https://www.setlist.fm/setlist/heatwave/2023/beacon-theatre-new-york-ny-13bae929.html"
+   }, {
+      "id" : "13bd79f1",
+      "versionId" : "g13ee157d",
+      "eventDate" : "04-02-2023",
+      "lastUpdated" : "2023-02-04T20:31:50.307+0000",
+      "artist" : {
+         "mbid" : "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+         "name" : "Jerry Seinfeld",
+         "sortName" : "Seinfeld, Jerry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jerry-seinfeld-2bd71042.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jerry-seinfeld/2023/beacon-theatre-new-york-ny-13bd79f1.html"
+   }, {
+      "id" : "5b5f1348",
+      "versionId" : "g7b5e4a14",
+      "eventDate" : "28-01-2023",
+      "lastUpdated" : "2024-12-10T21:32:18.359+0000",
+      "artist" : {
+         "mbid" : "3dd40359-5b66-4b1a-affc-d171a34079ff",
+         "name" : "Nikki Glaser",
+         "sortName" : "Glaser, Nikki",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nikki-glaser-2bf6a822.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Anti-Hero",
+               "cover" : {
+                  "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+                  "name" : "Taylor Swift",
+                  "sortName" : "Swift, Taylor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nikki-glaser/2023/beacon-theatre-new-york-ny-5b5f1348.html"
+   }, {
+      "id" : "3b8b533",
+      "versionId" : "g33e87861",
+      "eventDate" : "21-01-2023",
+      "lastUpdated" : "2023-04-09T04:57:24.568+0000",
+      "artist" : {
+         "mbid" : "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+         "name" : "Jerry Seinfeld",
+         "sortName" : "Seinfeld, Jerry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jerry-seinfeld-2bd71042.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jerry-seinfeld/2023/beacon-theatre-new-york-ny-3b8b533.html"
+   } ]
+}

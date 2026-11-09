@@ -1,0 +1,1999 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 9,
+   "total" : 233,
+   "setlist" : [ {
+      "id" : "13a489b1",
+      "versionId" : "g63b67a47",
+      "eventDate" : "25-07-2023",
+      "lastUpdated" : "2024-02-04T02:42:27.434+0000",
+      "artist" : {
+         "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+         "name" : "Drake",
+         "sortName" : "Drake",
+         "disambiguation" : "Canadian rapper",
+         "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "It's All a Blur"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Look What You've Done"
+            }, {
+               "name" : "Marvins Room"
+            }, {
+               "name" : "Say Something",
+               "cover" : {
+                  "mbid" : "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+                  "name" : "Timbaland",
+                  "sortName" : "Timbaland",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/timbaland-bd6bdb6.html"
+               }
+            }, {
+               "name" : "Shot for Me"
+            }, {
+               "name" : "Can I"
+            }, {
+               "name" : "Feel No Ways"
+            }, {
+               "name" : "Jaded"
+            }, {
+               "name" : "Jungle"
+            }, {
+               "name" : "Over"
+            }, {
+               "name" : "Headlines"
+            }, {
+               "name" : "HYFR (Hell Ya Fucking Right)"
+            }, {
+               "name" : "Started From the Bottom"
+            }, {
+               "name" : "Energy"
+            }, {
+               "name" : "Know Yourself"
+            }, {
+               "name" : "Nonstop"
+            }, {
+               "name" : "SICKO MODE",
+               "cover" : {
+                  "mbid" : "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                  "name" : "Travis Scott",
+                  "sortName" : "Scott, Travis",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/travis-scott-6bdeaa7e.html"
+               }
+            }, {
+               "name" : "Way 2 Sexy"
+            }, {
+               "name" : "BackOutsideBoyz",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "Jumbotron Shit Poppin",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "Laugh Now Cry Later"
+            }, {
+               "name" : "God's Plan"
+            }, {
+               "name" : "Childs Play"
+            }, {
+               "name" : "WAIT FOR U",
+               "cover" : {
+                  "mbid" : "48262e82-db9f-4a92-b650-dfef979b73ec",
+                  "name" : "Future",
+                  "sortName" : "Future",
+                  "disambiguation" : "US rapper Nayvadius Cash",
+                  "url" : "https://www.setlist.fm/setlists/future-53d25bb1.html"
+               }
+            }, {
+               "name" : "In My Feelings"
+            }, {
+               "name" : "Nice for What"
+            } ]
+         }, {
+            "name" : "Set 2: with DJ",
+            "song" : [ {
+               "name" : "Controlla"
+            }, {
+               "name" : "Too Good"
+            }, {
+               "name" : "Passionfruit"
+            }, {
+               "name" : "Find Your Love"
+            }, {
+               "name" : "Fountains"
+            }, {
+               "name" : "Work",
+               "cover" : {
+                  "mbid" : "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name" : "Rihanna",
+                  "sortName" : "Rihanna",
+                  "disambiguation" : "Barbadian R&B/pop singer",
+                  "url" : "https://www.setlist.fm/setlists/rihanna-1bd6bdbc.html"
+               }
+            }, {
+               "name" : "One Dance"
+            }, {
+               "name" : "Calling My Name"
+            }, {
+               "name" : "Massive"
+            }, {
+               "name" : "Sticky"
+            }, {
+               "name" : "Search & Rescue"
+            } ]
+         }, {
+            "name" : "Set 3: with 21 Savage",
+            "song" : [ {
+               "name" : "Knife Talk",
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "On BS",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               },
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "Spin Bout U",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               },
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "Jimmy Cooks",
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "Rich Flex",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               },
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Legend"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/drake/2023/madison-square-garden-new-york-ny-13a489b1.html"
+   }, {
+      "id" : "3ba494e4",
+      "versionId" : "g53876bcd",
+      "eventDate" : "24-07-2023",
+      "lastUpdated" : "2023-09-25T06:56:33.841+0000",
+      "artist" : {
+         "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+         "name" : "Billy Joel",
+         "sortName" : "Joel, Billy",
+         "disambiguation" : "American singer‐songwriter and pianist",
+         "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Billy Joel at The Garden"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Miami 2017 (Seen the Lights Go Out on Broadway)"
+            }, {
+               "name" : "My Life",
+               "info" : "with \"Ode to Joy\" intro"
+            }, {
+               "name" : "The Entertainer"
+            }, {
+               "name" : "Just the Way You Are"
+            }, {
+               "name" : "Zanzibar"
+            }, {
+               "name" : "An Innocent Man",
+               "info" : "preceded by “Start Me Up” snippet"
+            }, {
+               "name" : "The Longest Time",
+               "info" : "preceded by \"Why Do Fools Fall in Love'\" and \"The Lion Sleeps Tonight” snippets"
+            }, {
+               "name" : "The Downeaster \"Alexa\""
+            }, {
+               "name" : "A Room of Our Own"
+            }, {
+               "name" : "Vienna"
+            }, {
+               "name" : "Movin' Out (Anthony's Song)"
+            }, {
+               "name" : "New York State of Mind",
+               "info" : "with “I Left My Heart in San Francisco” line in honor of Tony Bennett"
+            }, {
+               "name" : "Don't Ask Me Why",
+               "info" : "preceded by Bennett’s ‘Rags to Riches”"
+            }, {
+               "name" : "Allentown"
+            }, {
+               "name" : "Sometimes a Fantasy"
+            }, {
+               "name" : "Only the Good Die Young"
+            }, {
+               "name" : "The River of Dreams",
+               "info" : "with “River Deep, Mountain High” interlude"
+            }, {
+               "name" : "Nessun dorma",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               }
+            }, {
+               "name" : "Scenes From an Italian Restaurant"
+            }, {
+               "name" : "Piano Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "We Didn't Start the Fire"
+            }, {
+               "name" : "Uptown Girl"
+            }, {
+               "name" : "It's Still Rock and Roll to Me"
+            }, {
+               "name" : "Big Shot"
+            }, {
+               "name" : "You May Be Right",
+               "info" : "with Led Zeppelin “Rock and Roll” intro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/billy-joel/2023/madison-square-garden-new-york-ny-3ba494e4.html"
+   }, {
+      "id" : "5ba4a3b4",
+      "versionId" : "g6bb67a46",
+      "eventDate" : "23-07-2023",
+      "lastUpdated" : "2024-02-04T02:42:27.461+0000",
+      "artist" : {
+         "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+         "name" : "Drake",
+         "sortName" : "Drake",
+         "disambiguation" : "Canadian rapper",
+         "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "It's All a Blur"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Look What You've Done"
+            }, {
+               "name" : "Marvins Room"
+            }, {
+               "name" : "Say Something",
+               "cover" : {
+                  "mbid" : "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+                  "name" : "Timbaland",
+                  "sortName" : "Timbaland",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/timbaland-bd6bdb6.html"
+               }
+            }, {
+               "name" : "Shot for Me"
+            }, {
+               "name" : "Can I"
+            }, {
+               "name" : "Feel No Ways"
+            }, {
+               "name" : "Jaded"
+            }, {
+               "name" : "Jungle"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Over"
+            }, {
+               "name" : "Headlines"
+            }, {
+               "name" : "The Motto"
+            }, {
+               "name" : "HYFR (Hell Ya Fucking Right)"
+            }, {
+               "name" : "Started From the Bottom"
+            }, {
+               "name" : "Energy"
+            }, {
+               "name" : "Know Yourself"
+            }, {
+               "name" : "Nonstop"
+            }, {
+               "name" : "SICKO MODE",
+               "cover" : {
+                  "mbid" : "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                  "name" : "Travis Scott",
+                  "sortName" : "Scott, Travis",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/travis-scott-6bdeaa7e.html"
+               }
+            }, {
+               "name" : "Way 2 Sexy"
+            }, {
+               "name" : "BackOutsideBoyz",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "Jumbotron Shit Poppin",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               }
+            }, {
+               "name" : "Laugh Now Cry Later"
+            }, {
+               "name" : "God's Plan"
+            }, {
+               "name" : "Childs Play"
+            }, {
+               "name" : "WAIT FOR U",
+               "cover" : {
+                  "mbid" : "48262e82-db9f-4a92-b650-dfef979b73ec",
+                  "name" : "Future",
+                  "sortName" : "Future",
+                  "disambiguation" : "US rapper Nayvadius Cash",
+                  "url" : "https://www.setlist.fm/setlists/future-53d25bb1.html"
+               }
+            }, {
+               "name" : "In My Feelings"
+            }, {
+               "name" : "Nice for What"
+            } ]
+         }, {
+            "name" : "Set 3: with DJ",
+            "song" : [ {
+               "name" : "Controlla"
+            }, {
+               "name" : "Too Good"
+            }, {
+               "name" : "Fountains"
+            }, {
+               "name" : "Find Your Love"
+            }, {
+               "name" : "Work",
+               "cover" : {
+                  "mbid" : "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name" : "Rihanna",
+                  "sortName" : "Rihanna",
+                  "disambiguation" : "Barbadian R&B/pop singer",
+                  "url" : "https://www.setlist.fm/setlists/rihanna-1bd6bdbc.html"
+               }
+            }, {
+               "name" : "One Dance",
+               "info" : "Amapiano Remix"
+            }, {
+               "name" : "Calling My Name"
+            }, {
+               "name" : "Massive"
+            }, {
+               "name" : "Sticky"
+            }, {
+               "name" : "Search & Rescue"
+            } ]
+         }, {
+            "name" : "Set 4: with 21 Savage",
+            "song" : [ {
+               "name" : "Knife Talk",
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "On BS",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               },
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "Spin Bout U",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               },
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "Jimmy Cooks",
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            }, {
+               "name" : "Rich Flex",
+               "cover" : {
+                  "mbid" : "7fdbd584-7c93-4c13-ab35-ed2d1615f3a9",
+                  "name" : "Drake & 21 Savage",
+                  "sortName" : "Drake & 21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/drake-and-21-savage-4bfd3772.html"
+               },
+               "with" : {
+                  "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+                  "name" : "21 Savage",
+                  "sortName" : "21 Savage",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Legend"
+            }, {
+               "name" : "So Anxious",
+               "cover" : {
+                  "mbid" : "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
+                  "name" : "Ginuwine",
+                  "sortName" : "Ginuwine",
+                  "disambiguation" : "US R&B singer",
+                  "url" : "https://www.setlist.fm/setlists/ginuwine-73d6b2b1.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "21 Savage performed solo set between set 2 and 3",
+      "url" : "https://www.setlist.fm/setlist/drake/2023/madison-square-garden-new-york-ny-5ba4a3b4.html"
+   }, {
+      "id" : "53a483f5",
+      "versionId" : "g4b9d078a",
+      "eventDate" : "23-07-2023",
+      "lastUpdated" : "2023-08-07T14:51:22.999+0000",
+      "artist" : {
+         "mbid" : "a668565b-41b8-44a8-9d5c-8e609dbf69fc",
+         "name" : "Lil Yachty",
+         "sortName" : "Lil Yachty",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/lil-yachty-3bc2f070.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Minnesota"
+            }, {
+               "name" : "Coffin"
+            }, {
+               "name" : "NBAYOUNGBOAT"
+            }, {
+               "name" : "Get Dripped"
+            }, {
+               "name" : "Yacht Club"
+            }, {
+               "name" : "Flex Up"
+            }, {
+               "name" : "Pardon Me"
+            }, {
+               "name" : "iSpy",
+               "cover" : {
+                  "mbid" : "95373e26-9262-4449-bcfe-7e753226ddf4",
+                  "name" : "KYLE",
+                  "sortName" : "KYLE",
+                  "disambiguation" : "rapper",
+                  "url" : "https://www.setlist.fm/setlists/kyle-2bce8076.html"
+               }
+            }, {
+               "name" : "Broccoli",
+               "cover" : {
+                  "mbid" : "6247d69d-426f-440f-97e0-74a9a0b00358",
+                  "name" : "DRAM",
+                  "sortName" : "DRAM",
+                  "disambiguation" : "formerly Shelley FKA DRAM, D.R.A.M.",
+                  "url" : "https://www.setlist.fm/setlists/dram-23d9bce7.html"
+               }
+            }, {
+               "name" : "One Night"
+            }, {
+               "name" : "Poland"
+            }, {
+               "name" : "Strike (Holster)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lil-yachty/2023/madison-square-garden-new-york-ny-53a483f5.html"
+   }, {
+      "id" : "4ba4a3aa",
+      "versionId" : "g639cca1b",
+      "eventDate" : "23-07-2023",
+      "lastUpdated" : "2023-07-27T00:13:59.439+0000",
+      "artist" : {
+         "mbid" : "37b2cb82-ef79-4d46-a184-a549450aa231",
+         "name" : "21 Savage",
+         "sortName" : "21 Savage",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/21-savage-33c49c2d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Red Opps"
+            }, {
+               "name" : "Don't Come Out the House",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               }
+            }, {
+               "name" : "10 Freaky Girls",
+               "cover" : {
+                  "mbid" : "59db3d82-86ea-451f-881f-dffc8ec387c9",
+                  "name" : "Metro Boomin",
+                  "sortName" : "Metro Boomin",
+                  "disambiguation" : "American record producer",
+                  "url" : "https://www.setlist.fm/setlists/metro-boomin-2bdc30c2.html"
+               }
+            }, {
+               "name" : "Who Want Smoke??",
+               "cover" : {
+                  "mbid" : "0eea08e2-1363-4b36-bbe8-9691ae3892b6",
+                  "name" : "Nardo Wick",
+                  "sortName" : "Nardo Wick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nardo-wick-3f4717f.html"
+               }
+            }, {
+               "name" : "Peaches & Eggplants",
+               "cover" : {
+                  "mbid" : "79c9b9a6-4b78-4738-8b81-95b066321ea9",
+                  "name" : "Young Nudy",
+                  "sortName" : "Young Nudy",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/young-nudy-73cc422d.html"
+               }
+            }, {
+               "name" : "rockstar",
+               "cover" : {
+                  "mbid" : "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name" : "Post Malone",
+                  "sortName" : "Post Malone",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+               }
+            }, {
+               "name" : "a lot"
+            }, {
+               "name" : "No Heart",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "X",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "Runnin",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "Mr. Right Now",
+               "cover" : {
+                  "mbid" : "fb30e0c1-d736-420d-b255-9736526bea5a",
+                  "name" : "21 Savage & Metro Boomin",
+                  "sortName" : "21 Savage & Metro Boomin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/21-savage-and-metro-boomin-2bceb89e.html"
+               }
+            }, {
+               "name" : "Bank Account"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/21-savage/2023/madison-square-garden-new-york-ny-4ba4a3aa.html"
+   }, {
+      "id" : "4ba37bce",
+      "versionId" : "g2b85e4aa",
+      "eventDate" : "11-07-2023",
+      "lastUpdated" : "2023-10-07T19:38:59.630+0000",
+      "artist" : {
+         "mbid" : "9c3601d4-2630-4330-8a08-28c7354b081a",
+         "name" : "BRELAND",
+         "sortName" : "BRELAND",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/breland-23f4a063.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cowboy Don't",
+               "info" : "Unreleased"
+            }, {
+               "name" : "Natural"
+            }, {
+               "name" : "High Horse"
+            }, {
+               "name" : "Thick"
+            }, {
+               "name" : "For What It's Worth"
+            }, {
+               "name" : "Strawberry Wine",
+               "cover" : {
+                  "mbid" : "49d04262-6389-4f51-829e-d8fd1b8b80fa",
+                  "name" : "Deana Carter",
+                  "sortName" : "Carter, Deana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/deana-carter-63d6baeb.html"
+               }
+            }, {
+               "name" : "Cross Country"
+            }, {
+               "name" : "Throw It Back"
+            }, {
+               "name" : "My Truck"
+            }, {
+               "name" : "Praise the Lord"
+            } ]
+         } ]
+      },
+      "info" : "Opening for Shania Twain",
+      "url" : "https://www.setlist.fm/setlist/breland/2023/madison-square-garden-new-york-ny-4ba37bce.html"
+   }, {
+      "id" : "23a70897",
+      "versionId" : "g2b85e4c6",
+      "eventDate" : "11-07-2023",
+      "lastUpdated" : "2023-10-07T19:36:31.221+0000",
+      "artist" : {
+         "mbid" : "faabb55d-3c9e-4c23-8779-732ac2ee2c0d",
+         "name" : "Shania Twain",
+         "sortName" : "Twain, Shania",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/shania-twain-53d6bf3d.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Queen of Me"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Waking Up Dreaming"
+            }, {
+               "name" : "Up!"
+            }, {
+               "name" : "Don't Be Stupid (You Know I Love You)"
+            }, {
+               "name" : "I'm Gonna Getcha Good!"
+            }, {
+               "name" : "You're Still the One",
+               "info" : "Hoda presented Shania with Double Diamond certification for Come On Over",
+               "with" : {
+                  "mbid" : "9e047ced-bb57-4554-a756-5f528d72723a",
+                  "name" : "Hoda Kotb",
+                  "sortName" : "Kotb, Hoda",
+                  "disambiguation" : "Egyptian American broadcast journalist, television personality and author",
+                  "url" : "https://www.setlist.fm/setlists/hoda-kotb-53ca6f95.html"
+               }
+            }, {
+               "name" : "Giddy Up!"
+            }, {
+               "name" : "Any Man of Mine"
+            }, {
+               "name" : "Whose Bed Have Your Boots Been Under?"
+            }, {
+               "name" : "Honey, I'm Home"
+            }, {
+               "name" : "Inhale/Exhale Air",
+               "with" : {
+                  "mbid" : "9c3601d4-2630-4330-8a08-28c7354b081a",
+                  "name" : "BRELAND",
+                  "sortName" : "BRELAND",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/breland-23f4a063.html"
+               }
+            }, {
+               "name" : "Party for Two",
+               "with" : {
+                  "mbid" : "9c3601d4-2630-4330-8a08-28c7354b081a",
+                  "name" : "BRELAND",
+                  "sortName" : "BRELAND",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/breland-23f4a063.html"
+               }
+            }, {
+               "name" : "From This Moment On"
+            }, {
+               "name" : "Nah! / She's Not Just a Pretty Face / Waiter! Bring Me Water! / When / Thank You Baby! (for Makin' Someday Come So Soon)"
+            }, {
+               "name" : "I Will Always Love You",
+               "cover" : {
+                  "mbid" : "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+                  "name" : "Dolly Parton",
+                  "sortName" : "Parton, Dolly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dolly-parton-4bd6e7ae.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "Forever and for Always"
+            }, {
+               "name" : "Number One"
+            }, {
+               "name" : "Rock This Country!"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "That Don't Impress Me Much"
+            }, {
+               "name" : "(If You're Not in It for Love) I'm Outta Here!"
+            }, {
+               "name" : "Man! I Feel Like a Woman!"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/shania-twain/2023/madison-square-garden-new-york-ny-23a70897.html"
+   }, {
+      "id" : "53a72b8d",
+      "versionId" : "g13483db5",
+      "eventDate" : "08-07-2023",
+      "lastUpdated" : "2025-06-02T16:17:19.091+0000",
+      "artist" : {
+         "mbid" : "f5c4c27e-5902-4fc0-adfb-7775da3d5363",
+         "name" : "Yasiin Bey",
+         "sortName" : "Bey, Yasiin",
+         "disambiguation" : "fka Mos Def",
+         "url" : "https://www.setlist.fm/setlists/yasiin-bey-5bc733f0.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : ""
+            }, {
+               "name" : "Hip Hop",
+               "cover" : {
+                  "mbid" : "9f4551c6-1324-4ac5-b3fe-a5c5cfacd54d",
+                  "name" : "Mos Def",
+                  "sortName" : "Mos Def",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mos-def-3bd69cf0.html"
+               }
+            }, {
+               "name" : ""
+            }, {
+               "name" : "Double Trouble",
+               "cover" : {
+                  "mbid" : "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+                  "name" : "The Roots",
+                  "sortName" : "Roots, The",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/the-roots-73d6da75.html"
+               },
+               "with" : {
+                  "mbid" : "5f39d33c-a167-4a63-9c44-71d27618b712",
+                  "name" : "Black Thought",
+                  "sortName" : "Black Thought",
+                  "disambiguation" : "US rapper, singer, and actor Tarik Trotter",
+                  "url" : "https://www.setlist.fm/setlists/black-thought-bd6cd7e.html"
+               }
+            }, {
+               "name" : "Respiration",
+               "cover" : {
+                  "mbid" : "02708fd6-0fe6-4738-a27d-0561ace8b4c6",
+                  "name" : "Black Star",
+                  "sortName" : "Black Star",
+                  "disambiguation" : "hip hop collab, Mos Def & Talib Kweli",
+                  "url" : "https://www.setlist.fm/setlists/black-star-2bd69cfe.html"
+               },
+               "with" : {
+                  "mbid" : "bb3cbea2-5ad4-4917-bc84-8a1975d40315",
+                  "name" : "Talib Kweli",
+                  "sortName" : "Talib Kweli",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/talib-kweli-23d69c5b.html"
+               }
+            }, {
+               "name" : "Green"
+            }, {
+               "name" : "UMI Says",
+               "cover" : {
+                  "mbid" : "9f4551c6-1324-4ac5-b3fe-a5c5cfacd54d",
+                  "name" : "Mos Def",
+                  "sortName" : "Mos Def",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mos-def-3bd69cf0.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Erykah Badu",
+      "url" : "https://www.setlist.fm/setlist/yasiin-bey/2023/madison-square-garden-new-york-ny-53a72b8d.html"
+   }, {
+      "id" : "43a72b8b",
+      "versionId" : "g5b9e37b8",
+      "eventDate" : "08-07-2023",
+      "lastUpdated" : "2023-07-09T19:11:11.043+0000",
+      "artist" : {
+         "mbid" : "321531fc-db73-4ffa-a959-61a61a2908c1",
+         "name" : "Erykah Badu",
+         "sortName" : "Badu, Erykah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/erykah-badu-3bd6885c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Unfollow Me Tour 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Healer",
+               "info" : "Sung by Backup Singers"
+            }, {
+               "name" : "20 Feet Tall"
+            }, {
+               "name" : "On & On"
+            }, {
+               "name" : "... & On"
+            }, {
+               "name" : "To Each His Own",
+               "cover" : {
+                  "mbid" : "6d37e2d4-596d-4e1a-93b7-d11007ef1c39",
+                  "name" : "Faith, Hope & Charity",
+                  "sortName" : "Faith, Hope & Charity",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/faith-hope-and-charity-3bd088cc.html"
+               }
+            }, {
+               "name" : "Appletree"
+            }, {
+               "name" : "No Love"
+            }, {
+               "name" : "Love of My Life (An Ode to Hip Hop)"
+            }, {
+               "name" : "Me"
+            }, {
+               "name" : "Time's a Wastin"
+            }, {
+               "name" : "Umm Hmm"
+            }, {
+               "name" : "Otherside of the Game"
+            }, {
+               "name" : "Kiss Me on My Neck (Hesi)"
+            }, {
+               "name" : "A.D. 2000"
+            }, {
+               "name" : "Orange Moon"
+            }, {
+               "name" : "Window Seat",
+               "info" : "with interpolation of “Whipped Cream” by Ari Lennox)"
+            }, {
+               "name" : "Next Lifetime"
+            }, {
+               "name" : "Bag Lady"
+            }, {
+               "name" : "Ain't No Fun (If the Homies Can't Have None)",
+               "cover" : {
+                  "mbid" : "f90e8b26-9e52-4669-a5c9-e28529c47894",
+                  "name" : "Snoop Dogg",
+                  "sortName" : "Snoop Dogg",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/snoop-dogg-13d68175.html"
+               }
+            }, {
+               "name" : "Didn't Cha Know"
+            }, {
+               "name" : "Danger",
+               "info" : "Played by Band"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/erykah-badu/2023/madison-square-garden-new-york-ny-43a72b8b.html"
+   }, {
+      "id" : "33a648b9",
+      "versionId" : "g1391fd95",
+      "eventDate" : "26-06-2023",
+      "lastUpdated" : "2023-06-28T09:28:35.091+0000",
+      "artist" : {
+         "mbid" : "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+         "name" : "Tears for Fears",
+         "sortName" : "Tears for Fears",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tears-for-fears-63d6ba37.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "The Tipping Point Part II"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "No Small Thing"
+            }, {
+               "name" : "The Tipping Point"
+            }, {
+               "name" : "Everybody Wants to Rule the World"
+            }, {
+               "name" : "Secret World",
+               "info" : "With a snippet of \"Let 'Em In” by Wings"
+            }, {
+               "name" : "Sowing the Seeds of Love"
+            }, {
+               "name" : "Long, Long, Long Time"
+            }, {
+               "name" : "Break the Man"
+            }, {
+               "name" : "My Demons"
+            }, {
+               "name" : "Rivers of Mercy"
+            }, {
+               "name" : "Mad World"
+            }, {
+               "name" : "Suffer the Children"
+            }, {
+               "name" : "Woman in Chains"
+            }, {
+               "name" : "Badman's Song"
+            }, {
+               "name" : "Pale Shelter"
+            }, {
+               "name" : "Break It Down Again"
+            }, {
+               "name" : "Head Over Heels / Broken"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Change"
+            }, {
+               "name" : "Shout"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tears-for-fears/2023/madison-square-garden-new-york-ny-33a648b9.html"
+   }, {
+      "id" : "23a648bf",
+      "versionId" : "g43919b77",
+      "eventDate" : "26-06-2023",
+      "lastUpdated" : "2023-06-27T07:02:08.538+0000",
+      "artist" : {
+         "mbid" : "0741b30d-e15b-4a8c-b2e5-8834a03d6116",
+         "name" : "Cold War Kids",
+         "sortName" : "Cold War Kids",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cold-war-kids-3bd64840.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love Is Mystical"
+            }, {
+               "name" : "Complainer"
+            }, {
+               "name" : "What You Say"
+            }, {
+               "name" : "Can We Hang On?"
+            }, {
+               "name" : "Miracle Mile"
+            }, {
+               "name" : "Audience"
+            }, {
+               "name" : "Hang Me Up to Dry"
+            }, {
+               "name" : "Restless"
+            }, {
+               "name" : "Hospital Beds"
+            }, {
+               "name" : "You Already Know"
+            }, {
+               "name" : "So Tied Up"
+            }, {
+               "name" : "Double Life"
+            }, {
+               "name" : "All This Could Be Yours"
+            }, {
+               "name" : "First"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Tears for Fears",
+      "url" : "https://www.setlist.fm/setlist/cold-war-kids/2023/madison-square-garden-new-york-ny-23a648bf.html"
+   }, {
+      "id" : "5ba66f1c",
+      "versionId" : "gb907d72",
+      "eventDate" : "23-06-2023",
+      "lastUpdated" : "2023-06-24T00:46:43.065+0000",
+      "artist" : {
+         "mbid" : "e56ab1ae-1cfa-4d0e-b33b-af31bff677c7",
+         "name" : "Falling in Reverse",
+         "sortName" : "Falling in Reverse",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/falling-in-reverse-53d24309.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Zombified"
+            }, {
+               "name" : "I'm Not a Vampire"
+            }, {
+               "name" : "Losing My Mind"
+            }, {
+               "name" : "Raised by Wolves"
+            }, {
+               "name" : "Fuck You and All Your Friends"
+            }, {
+               "name" : "Fashionably Late"
+            }, {
+               "name" : "The Drug in Me Is You"
+            }, {
+               "name" : "Just Like You"
+            }, {
+               "name" : "Watch the World Burn"
+            }, {
+               "name" : "Voices in My Head"
+            }, {
+               "name" : "Popular Monster"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/falling-in-reverse/2023/madison-square-garden-new-york-ny-5ba66f1c.html"
+   }, {
+      "id" : "5ba66f18",
+      "versionId" : "g3340d841",
+      "eventDate" : "23-06-2023",
+      "lastUpdated" : "2025-04-02T12:37:59.928+0000",
+      "artist" : {
+         "mbid" : "24e1b53c-3085-4581-8472-0b0088d2508c",
+         "name" : "Avenged Sevenfold",
+         "sortName" : "Avenged Sevenfold",
+         "disambiguation" : "American metal band",
+         "url" : "https://www.setlist.fm/setlists/avenged-sevenfold-3d6d1a3.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Want It That Way",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
+                  "name" : "Backstreet Boys",
+                  "sortName" : "Backstreet Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/backstreet-boys-33d6a0a5.html"
+               }
+            }, {
+               "name" : "Nightcall",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
+                  "name" : "Kavinsky",
+                  "sortName" : "Kavinsky",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kavinsky-3bd68808.html"
+               }
+            }, {
+               "name" : "Game Over"
+            }, {
+               "name" : "Mattel"
+            }, {
+               "name" : "Afterlife"
+            }, {
+               "name" : "Hail to the King"
+            }, {
+               "name" : "We Love You"
+            }, {
+               "name" : "Buried Alive"
+            }, {
+               "name" : "The Stage",
+               "info" : "Included snippet of \"Black Dog\" by Led Zeppelin"
+            }, {
+               "name" : "So Far Away",
+               "info" : "Dedicated to The Rev"
+            }, {
+               "name" : "Nobody"
+            }, {
+               "name" : "Nightmare"
+            }, {
+               "name" : "Bat Country"
+            }, {
+               "name" : "Unholy Confessions"
+            }, {
+               "name" : "A Little Piece of Heaven"
+            }, {
+               "name" : "G"
+            }, {
+               "name" : "(O)rdinary"
+            }, {
+               "name" : "(D)eath"
+            }, {
+               "name" : "Life Is But a Dream...",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/avenged-sevenfold/2023/madison-square-garden-new-york-ny-5ba66f18.html"
+   }, {
+      "id" : "5ba66f10",
+      "versionId" : "g539003f5",
+      "eventDate" : "23-06-2023",
+      "lastUpdated" : "2023-06-23T23:36:13.243+0000",
+      "artist" : {
+         "mbid" : "dc6f8c1f-626b-42b0-9115-7e66ae4cecd6",
+         "name" : "Living Colour",
+         "sortName" : "Living Colour",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/living-colour-6bd6ca72.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Leave It Alone"
+            }, {
+               "name" : "Ignorance Is Bliss"
+            }, {
+               "name" : "Type"
+            }, {
+               "name" : "Time's Up"
+            }, {
+               "name" : "Cult of Personality"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/living-colour/2023/madison-square-garden-new-york-ny-5ba66f10.html"
+   }, {
+      "id" : "5ba6772c",
+      "versionId" : "g1b906574",
+      "eventDate" : "22-06-2023",
+      "lastUpdated" : "2023-06-24T20:33:17.604+0000",
+      "artist" : {
+         "mbid" : "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+         "name" : "The Cure",
+         "sortName" : "Cure, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-cure-6bd6b266.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Shows of a Lost World"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Alone"
+            }, {
+               "name" : "Pictures of You"
+            }, {
+               "name" : "A Fragile Thing"
+            }, {
+               "name" : "A Night Like This"
+            }, {
+               "name" : "Lovesong"
+            }, {
+               "name" : "And Nothing Is Forever"
+            }, {
+               "name" : "Want"
+            }, {
+               "name" : "The Hungry Ghost",
+               "info" : "100th time played"
+            }, {
+               "name" : "Push"
+            }, {
+               "name" : "In Between Days"
+            }, {
+               "name" : "Just Like Heaven"
+            }, {
+               "name" : "The Last Day of Summer"
+            }, {
+               "name" : "Burn"
+            }, {
+               "name" : "A Forest"
+            }, {
+               "name" : "From the Edge of the Deep Green Sea"
+            }, {
+               "name" : "Endsong"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Can Never Say Goodbye"
+            }, {
+               "name" : "Shake Dog Shake"
+            }, {
+               "name" : "Plainsong"
+            }, {
+               "name" : "Prayers for Rain"
+            }, {
+               "name" : "Disintegration"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Lullaby"
+            }, {
+               "name" : "The Walk"
+            }, {
+               "name" : "Friday I'm in Love"
+            }, {
+               "name" : "Close to Me"
+            }, {
+               "name" : "Why Can't I Be You?"
+            }, {
+               "name" : "Boys Don't Cry"
+            }, {
+               "name" : "Jumping Someone Else's Train",
+               "info" : "Tour debut) (>"
+            }, {
+               "name" : "Grinding Halt",
+               "info" : "Tour debut"
+            }, {
+               "name" : "10:15 Saturday Night"
+            }, {
+               "name" : "Killing an Arab",
+               "info" : "performed as 'Killing Another'"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-cure/2023/madison-square-garden-new-york-ny-5ba6772c.html"
+   }, {
+      "id" : "53a67721",
+      "versionId" : "g639016cf",
+      "eventDate" : "22-06-2023",
+      "lastUpdated" : "2023-06-23T09:31:37.025+0000",
+      "artist" : {
+         "mbid" : "d44d63b8-3da4-4f7d-aba1-a05ba8941b44",
+         "name" : "The Twilight Sad",
+         "sortName" : "Twilight Sad, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-twilight-sad-2bd6801e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kill It in the Morning"
+            }, {
+               "name" : "Dead City"
+            }, {
+               "name" : "VTr",
+               "info" : "Dedicated to Al, a long-time backstage employee at the venue"
+            }, {
+               "name" : "That Summer, at Home I Had Become the Invisible Boy"
+            }, {
+               "name" : "There's a Girl in the Corner"
+            }, {
+               "name" : "I/m Not Here [missing face]"
+            }, {
+               "name" : "The Wrong Car"
+            }, {
+               "name" : "[10 Good Reasons for Modern Drugs]"
+            } ]
+         } ]
+      },
+      "info" : "opening for The Cure",
+      "url" : "https://www.setlist.fm/setlist/the-twilight-sad/2023/madison-square-garden-new-york-ny-53a67721.html"
+   }, {
+      "id" : "3ba67c70",
+      "versionId" : "g3b9018d0",
+      "eventDate" : "21-06-2023",
+      "lastUpdated" : "2023-06-23T02:55:01.300+0000",
+      "artist" : {
+         "mbid" : "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+         "name" : "The Cure",
+         "sortName" : "Cure, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-cure-6bd6b266.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Shows of a Lost World"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Alone"
+            }, {
+               "name" : "Pictures of You"
+            }, {
+               "name" : "A Fragile Thing"
+            }, {
+               "name" : "A Night Like This"
+            }, {
+               "name" : "Lovesong"
+            }, {
+               "name" : "And Nothing Is Forever"
+            }, {
+               "name" : "Like Cockatoos"
+            }, {
+               "name" : "Burn"
+            }, {
+               "name" : "If Only Tonight We Could Sleep"
+            }, {
+               "name" : "Charlotte Sometimes"
+            }, {
+               "name" : "Push"
+            }, {
+               "name" : "39"
+            }, {
+               "name" : "Fascination Street"
+            }, {
+               "name" : "From the Edge of the Deep Green Sea"
+            }, {
+               "name" : "Endsong"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Can Never Say Goodbye"
+            }, {
+               "name" : "Want"
+            }, {
+               "name" : "Shake Dog Shake"
+            }, {
+               "name" : "One Hundred Years"
+            }, {
+               "name" : "A Forest"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Lullaby"
+            }, {
+               "name" : "The Walk"
+            }, {
+               "name" : "Friday I'm in Love"
+            }, {
+               "name" : "Doing the Unstuck"
+            }, {
+               "name" : "Close to Me"
+            }, {
+               "name" : "Why Can't I Be You?"
+            }, {
+               "name" : "In Between Days"
+            }, {
+               "name" : "Just Like Heaven"
+            }, {
+               "name" : "Boys Don't Cry"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-cure/2023/madison-square-garden-new-york-ny-3ba67c70.html"
+   }, {
+      "id" : "2ba67c22",
+      "versionId" : "g2b903096",
+      "eventDate" : "21-06-2023",
+      "lastUpdated" : "2023-06-22T06:39:06.800+0000",
+      "artist" : {
+         "mbid" : "d44d63b8-3da4-4f7d-aba1-a05ba8941b44",
+         "name" : "The Twilight Sad",
+         "sortName" : "Twilight Sad, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-twilight-sad-2bd6801e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kill It in the Morning"
+            }, {
+               "name" : "Let/s Get Lost"
+            }, {
+               "name" : "VTr"
+            }, {
+               "name" : "That Summer, at Home I Had Become the Invisible Boy"
+            }, {
+               "name" : "There's a Girl in the Corner"
+            }, {
+               "name" : "I/m Not Here [missing face]"
+            }, {
+               "name" : "The Wrong Car"
+            }, {
+               "name" : "[10 Good Reasons for Modern Drugs]"
+            } ]
+         } ]
+      },
+      "info" : "opening for The Cure",
+      "url" : "https://www.setlist.fm/setlist/the-twilight-sad/2023/madison-square-garden-new-york-ny-2ba67c22.html"
+   }, {
+      "id" : "63a60aeb",
+      "versionId" : "g2b9018de",
+      "eventDate" : "20-06-2023",
+      "lastUpdated" : "2023-06-23T02:53:06.773+0000",
+      "artist" : {
+         "mbid" : "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+         "name" : "The Cure",
+         "sortName" : "Cure, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-cure-6bd6b266.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Shows of a Lost World"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Alone"
+            }, {
+               "name" : "Pictures of You"
+            }, {
+               "name" : "A Fragile Thing"
+            }, {
+               "name" : "Kyoto Song"
+            }, {
+               "name" : "A Night Like This"
+            }, {
+               "name" : "Lovesong"
+            }, {
+               "name" : "And Nothing Is Forever"
+            }, {
+               "name" : "Three Imaginary Boys"
+            }, {
+               "name" : "Burn"
+            }, {
+               "name" : "Push"
+            }, {
+               "name" : "Play for Today"
+            }, {
+               "name" : "A Forest"
+            }, {
+               "name" : "Shake Dog Shake"
+            }, {
+               "name" : "From the Edge of the Deep Green Sea"
+            }, {
+               "name" : "Endsong"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I Can Never Say Goodbye"
+            }, {
+               "name" : "It Can Never Be the Same"
+            }, {
+               "name" : "At Night"
+            }, {
+               "name" : "Plainsong"
+            }, {
+               "name" : "Disintegration"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Lullaby"
+            }, {
+               "name" : "Six Different Ways"
+            }, {
+               "name" : "The Walk"
+            }, {
+               "name" : "Friday I'm in Love"
+            }, {
+               "name" : "Close to Me"
+            }, {
+               "name" : "Why Can't I Be You?"
+            }, {
+               "name" : "In Between Days"
+            }, {
+               "name" : "Just Like Heaven"
+            }, {
+               "name" : "Boys Don't Cry"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-cure/2023/madison-square-garden-new-york-ny-63a60aeb.html"
+   }, {
+      "id" : "3ba6045c",
+      "versionId" : "g3b90d024",
+      "eventDate" : "20-06-2023",
+      "lastUpdated" : "2023-06-21T00:42:59.551+0000",
+      "artist" : {
+         "mbid" : "d44d63b8-3da4-4f7d-aba1-a05ba8941b44",
+         "name" : "The Twilight Sad",
+         "sortName" : "Twilight Sad, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-twilight-sad-2bd6801e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kill It in the Morning"
+            }, {
+               "name" : "Let/s Get Lost"
+            }, {
+               "name" : "VTr"
+            }, {
+               "name" : "That Summer, at Home I Had Become the Invisible Boy"
+            }, {
+               "name" : "There's a Girl in the Corner"
+            }, {
+               "name" : "I/m Not Here [missing face]"
+            }, {
+               "name" : "Keep Yourself Warm",
+               "cover" : {
+                  "mbid" : "dc21d171-7204-4759-9fd0-77d031aeb40c",
+                  "name" : "Frightened Rabbit",
+                  "sortName" : "Frightened Rabbit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/frightened-rabbit-1bd6ed94.html"
+               }
+            }, {
+               "name" : "[10 Good Reasons for Modern Drugs]"
+            } ]
+         } ]
+      },
+      "info" : "opening for The Cure",
+      "url" : "https://www.setlist.fm/setlist/the-twilight-sad/2023/madison-square-garden-new-york-ny-3ba6045c.html"
+   } ]
+}

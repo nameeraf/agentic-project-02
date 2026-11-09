@@ -1,0 +1,757 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 132,
+   "setlist" : [ {
+      "id" : "bb4c97a",
+      "versionId" : "g53f7dfa5",
+      "eventDate" : "04-06-2022",
+      "lastUpdated" : "2022-06-10T19:37:36.479+0000",
+      "artist" : {
+         "mbid" : "df36f6db-5987-46ed-9d02-0cf36ed4e060",
+         "name" : "Vance Joy",
+         "sortName" : "Joy, Vance",
+         "disambiguation" : "Australian singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/vance-joy-bdd8596.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "From Afar"
+            }, {
+               "name" : "Mess Is Mine"
+            }, {
+               "name" : "Missing Piece"
+            }, {
+               "name" : "Like Gold"
+            }, {
+               "name" : "Don't Fade"
+            }, {
+               "name" : "Every Side of You"
+            }, {
+               "name" : "Clarity"
+            }, {
+               "name" : "Saturday Sun"
+            }, {
+               "name" : "I'm With You"
+            }, {
+               "name" : "Looking at Me Like That"
+            }, {
+               "name" : "Baby, I Love Your Way",
+               "cover" : {
+                  "mbid" : "638206ee-0e3d-47cf-9769-d73330b15a87",
+                  "name" : "Peter Frampton",
+                  "sortName" : "Frampton, Peter",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/peter-frampton-43d6bb37.html"
+               }
+            }, {
+               "name" : "Fire and the Flood"
+            }, {
+               "name" : "Catalonia"
+            }, {
+               "name" : "Wasted Time"
+            }, {
+               "name" : "Georgia"
+            }, {
+               "name" : "Riptide"
+            }, {
+               "name" : "Lay It on Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vance-joy/2022/the-rooftop-at-pier-17-new-york-ny-bb4c97a.html"
+   }, {
+      "id" : "53b4af19",
+      "versionId" : "g73c942cd",
+      "eventDate" : "28-05-2022",
+      "lastUpdated" : "2022-05-27T14:33:09.939+0000",
+      "artist" : {
+         "mbid" : "17678771-5799-4017-851a-319f25b6948d",
+         "name" : "Jonas Blue",
+         "sortName" : "Blue, Jonas",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jonas-blue-6bc5cada.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jonas-blue/2022/the-rooftop-at-pier-17-new-york-ny-53b4af19.html"
+   }, {
+      "id" : "6bb7267e",
+      "versionId" : "g6312dea3",
+      "eventDate" : "18-05-2022",
+      "lastUpdated" : "2026-03-30T00:38:29.461+0000",
+      "artist" : {
+         "mbid" : "21223dac-c2c2-4833-ade0-fb9a5fe08ad6",
+         "name" : "Creed Bratton",
+         "sortName" : "Bratton, Creed",
+         "disambiguation" : "US actor and musician",
+         "url" : "https://www.setlist.fm/setlists/creed-bratton-6bd7e242.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Just Let Go",
+               "info" : "live debut"
+            }, {
+               "name" : "Tug of War",
+               "info" : "live debut"
+            }, {
+               "name" : "Chemical Wings"
+            }, {
+               "name" : "More Than You Know"
+            }, {
+               "name" : "Bubble and Squeak"
+            }, {
+               "name" : "The Office Theme",
+               "cover" : {
+                  "mbid" : "b7ab5f72-ee97-4399-bcfe-c4a5633b7ba7",
+                  "name" : "The Scrantones",
+                  "sortName" : "The Scrantones",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-scrantones-6bcaa28a.html"
+               }
+            }, {
+               "name" : "All the Faces"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for DEVO",
+      "url" : "https://www.setlist.fm/setlist/creed-bratton/2022/the-rooftop-at-pier-17-new-york-ny-6bb7267e.html"
+   }, {
+      "id" : "63b7267f",
+      "versionId" : "g6b833ebe",
+      "eventDate" : "18-05-2022",
+      "lastUpdated" : "2023-10-25T08:53:53.437+0000",
+      "artist" : {
+         "mbid" : "d2db1078-c170-4e22-b261-14f3ad60a690",
+         "name" : "DEVO",
+         "sortName" : "DEVO",
+         "disambiguation" : "new wave/rock band",
+         "url" : "https://www.setlist.fm/setlists/devo-53d68b21.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Don't Shoot (I'm a Man)"
+            }, {
+               "name" : "Peek-A-Boo!"
+            }, {
+               "name" : "Going Under"
+            }, {
+               "name" : "That's Good"
+            }, {
+               "name" : "Girl U Want"
+            }, {
+               "name" : "Whip It"
+            }, {
+               "name" : "(I Can't Get No) Satisfaction",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "Secret Agent Man",
+               "cover" : {
+                  "mbid" : "4a9b6d5d-cdaf-412b-8fa1-381f51b81a3f",
+                  "name" : "P.F. Sloan",
+                  "sortName" : "Sloan, P.F.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pf-sloan-73d78629.html"
+               }
+            }, {
+               "name" : "Uncontrollable Urge"
+            }, {
+               "name" : "Mongoloid"
+            }, {
+               "name" : "Jocko Homo"
+            }, {
+               "name" : "Smart Patrol/Mr. DNA"
+            }, {
+               "name" : "Gates of Steel"
+            }, {
+               "name" : "DEVO Corporate Anthem",
+               "tape" : true
+            }, {
+               "name" : "Freedom of Choice"
+            }, {
+               "name" : "Gut Feeling (Slap Your Mammy)"
+            }, {
+               "name" : "Beautiful World",
+               "info" : "sung by Booji Boy, whose birthday it was) (also Mark Mothersbaugh’s birthday, by sheer coincidence"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/devo/2022/the-rooftop-at-pier-17-new-york-ny-63b7267f.html"
+   }, {
+      "id" : "3b729e3",
+      "versionId" : "g235ae8df",
+      "eventDate" : "17-05-2022",
+      "lastUpdated" : "2025-01-10T04:05:37.509+0000",
+      "artist" : {
+         "mbid" : "31fcc2d8-ce8f-4fe2-a641-a458750fed55",
+         "name" : "Radkey",
+         "sortName" : "Radkey",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/radkey-43dc4703.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Evil Doer"
+            }, {
+               "name" : "Le Song"
+            }, {
+               "name" : "Underground"
+            }, {
+               "name" : "Love Spills"
+            }, {
+               "name" : "Rock & Roll Homeschool"
+            }, {
+               "name" : "Song of Solomon"
+            }, {
+               "name" : "Dark Black Makeup"
+            }, {
+               "name" : "Not Smart"
+            }, {
+               "name" : "P.A.W."
+            }, {
+               "name" : "Seize"
+            }, {
+               "name" : "Romance Dawn"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/radkey/2022/the-rooftop-at-pier-17-new-york-ny-3b729e3.html"
+   }, {
+      "id" : "1bb729ec",
+      "versionId" : "g6b04a206",
+      "eventDate" : "17-05-2022",
+      "lastUpdated" : "2026-07-12T17:27:20.498+0000",
+      "artist" : {
+         "mbid" : "23a03e33-a603-404e-bcbf-2c00159d7067",
+         "name" : "The Offspring",
+         "sortName" : "Offspring, The",
+         "disambiguation" : "American punk",
+         "url" : "https://www.setlist.fm/setlists/the-offspring-13d68945.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Let the Bad Times Roll Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Staring at the Sun"
+            }, {
+               "name" : "Come Out and Play"
+            }, {
+               "name" : "Want You Bad"
+            }, {
+               "name" : "Let the Bad Times Roll"
+            }, {
+               "name" : "Behind Your Walls"
+            }, {
+               "name" : "Hit That"
+            }, {
+               "name" : "Hammerhead"
+            }, {
+               "name" : "Bad Habit"
+            }, {
+               "name" : "Gotta Get Away"
+            }, {
+               "name" : "Gone Away"
+            }, {
+               "name" : "Why Don't You Get a Job?"
+            }, {
+               "name" : "Original Prankster"
+            }, {
+               "name" : "(Can't Get My) Head Around You"
+            }, {
+               "name" : "Pretty Fly (for a White Guy)"
+            }, {
+               "name" : "The Kids Aren't Alright"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "You're Gonna Go Far, Kid"
+            }, {
+               "name" : "Self Esteem"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-offspring/2022/the-rooftop-at-pier-17-new-york-ny-1bb729ec.html"
+   }, {
+      "id" : "73b73eb1",
+      "versionId" : "g63c9beff",
+      "eventDate" : "15-05-2022",
+      "lastUpdated" : "2022-05-17T02:16:27.984+0000",
+      "artist" : {
+         "mbid" : "1c5efd53-d6b6-4d63-9d22-a15025cf5f07",
+         "name" : "Gojira",
+         "sortName" : "Gojira",
+         "disambiguation" : "French metal",
+         "url" : "https://www.setlist.fm/setlists/gojira-13d6c5dd.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Fortitude"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Born for One Thing"
+            }, {
+               "name" : "Backbone"
+            }, {
+               "name" : "Stranded"
+            }, {
+               "name" : "Flying Whales"
+            }, {
+               "name" : "The Cell"
+            }, {
+               "name" : "Love / Remembrance"
+            }, {
+               "name" : "Hold On"
+            }, {
+               "name" : "Grind"
+            }, {
+               "name" : "Silvera"
+            }, {
+               "name" : "L'enfant sauvage"
+            }, {
+               "name" : "Amazonia"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gojira/2022/the-rooftop-at-pier-17-new-york-ny-73b73eb1.html"
+   }, {
+      "id" : "63b73eb3",
+      "versionId" : "g3be33c10",
+      "eventDate" : "15-05-2022",
+      "lastUpdated" : "2022-12-21T02:16:04.532+0000",
+      "artist" : {
+         "mbid" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+         "name" : "Deftones",
+         "sortName" : "Deftones",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/deftones-1bd689cc.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Spring Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pompeji",
+               "tape" : true,
+               "info" : "outro"
+            }, {
+               "name" : "Genesis"
+            }, {
+               "name" : "Rocket Skates"
+            }, {
+               "name" : "Prayers/Triangles"
+            }, {
+               "name" : "Royal"
+            }, {
+               "name" : "Be Quiet and Drive (Far Away)"
+            }, {
+               "name" : "My Own Summer (Shove It)"
+            }, {
+               "name" : "Tempest"
+            }, {
+               "name" : "Swerve City"
+            }, {
+               "name" : "Digital Bath"
+            }, {
+               "name" : "Knife Prty"
+            }, {
+               "name" : "Beware"
+            }, {
+               "name" : "Sextape"
+            }, {
+               "name" : "Diamond Eyes"
+            }, {
+               "name" : "Rosemary"
+            }, {
+               "name" : "Bloody Cape"
+            }, {
+               "name" : "Change (In the House of Flies)"
+            }, {
+               "name" : "Ohms"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lotion"
+            }, {
+               "name" : "Engine No. 9"
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: \"Digital Bath\", \"Swerve City\" - setlist requires confirmation",
+      "url" : "https://www.setlist.fm/setlist/deftones/2022/the-rooftop-at-pier-17-new-york-ny-63b73eb3.html"
+   }, {
+      "id" : "63b72aff",
+      "versionId" : "g4bf6171a",
+      "eventDate" : "15-05-2022",
+      "lastUpdated" : "2022-06-03T15:15:05.593+0000",
+      "artist" : {
+         "mbid" : "5a1e467a-9a90-4a28-a0cb-d0ef4e361391",
+         "name" : "VOWWS",
+         "sortName" : "VOWWS",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/vowws-3bc044e0.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Season"
+            }, {
+               "name" : "The Great Sun"
+            }, {
+               "name" : "Losing Myself in You"
+            }, {
+               "name" : "ESSEFF"
+            }, {
+               "name" : "Stranger"
+            }, {
+               "name" : "Symbol System"
+            }, {
+               "name" : "One by One"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/vowws/2022/the-rooftop-at-pier-17-new-york-ny-63b72aff.html"
+   }, {
+      "id" : "73b70e79",
+      "versionId" : "g13c99951",
+      "eventDate" : "12-05-2022",
+      "lastUpdated" : "2022-05-18T14:50:20.237+0000",
+      "artist" : {
+         "mbid" : "0707594a-f793-4255-9708-4d73484581e9",
+         "name" : "BNXN",
+         "sortName" : "BNXN",
+         "disambiguation" : "Nigerian afro‐fusion artist Daniel Benson",
+         "url" : "https://www.setlist.fm/setlists/bnxn-7bffeed8.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bnxn/2022/the-rooftop-at-pier-17-new-york-ny-73b70e79.html"
+   }, {
+      "id" : "23b7c47f",
+      "versionId" : "g33c9a4a1",
+      "eventDate" : "12-05-2022",
+      "lastUpdated" : "2022-05-18T02:49:06.849+0000",
+      "artist" : {
+         "mbid" : "7d04679e-a855-4214-9543-febaf02de725",
+         "name" : "Original Koffee",
+         "sortName" : "Original Koffee",
+         "disambiguation" : "Jamaican reggae singer Mikayla Simpson AKA Koffee",
+         "url" : "https://www.setlist.fm/setlists/original-koffee-33c82cc1.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Gifted"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rapture"
+            }, {
+               "name" : "W"
+            }, {
+               "name" : "Raggamuffin"
+            }, {
+               "name" : "Throne"
+            }, {
+               "name" : "Pressure"
+            }, {
+               "name" : "Defend"
+            }, {
+               "name" : "Redemption Song --> X10",
+               "info" : "Bob Marley’s “Redemption Song” into “X10” & ending back on “Redemption Song”"
+            }, {
+               "name" : "Gifted"
+            }, {
+               "name" : "Shine"
+            }, {
+               "name" : "Burning"
+            }, {
+               "name" : "Lonely"
+            }, {
+               "name" : "Run Away"
+            }, {
+               "name" : "Where I’m From"
+            }, {
+               "name" : "Pull Up"
+            }, {
+               "name" : "West Indies"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lockdown"
+            }, {
+               "name" : "Toast"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/original-koffee/2022/the-rooftop-at-pier-17-new-york-ny-23b7c47f.html"
+   }, {
+      "id" : "23b7c057",
+      "versionId" : "g1b7c7d18",
+      "eventDate" : "12-05-2022",
+      "lastUpdated" : "2025-09-03T02:31:14.495+0000",
+      "artist" : {
+         "mbid" : "bac7ef4f-db93-404b-bc89-a1beaefce4a5",
+         "name" : "GENRUS",
+         "sortName" : "GENRUS",
+         "disambiguation" : "Jamaican",
+         "url" : "https://www.setlist.fm/setlists/genrus-5bfff390.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : ""
+            }, {
+               "name" : "Switch It Up"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/genrus/2022/the-rooftop-at-pier-17-new-york-ny-23b7c057.html"
+   } ]
+}

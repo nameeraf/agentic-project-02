@@ -1,0 +1,175 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 4,
+   "setlist" : [ {
+      "id" : "43419313",
+      "versionId" : "g7b7a5aec",
+      "eventDate" : "25-09-2025",
+      "lastUpdated" : "2025-09-20T20:49:22.153+0000",
+      "artist" : {
+         "mbid" : "8395b942-cc14-4f15-b88b-50bbeed2c541",
+         "name" : "Bernie Williams",
+         "sortName" : "Williams, Bernie",
+         "disambiguation" : "jazz musician & baseball player",
+         "url" : "https://www.setlist.fm/setlists/bernie-williams-63d5ba07.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bernie-williams/2025/yankee-stadium-the-bronx-ny-43419313.html"
+   }, {
+      "id" : "73404639",
+      "versionId" : "g437afbab",
+      "eventDate" : "13-09-2025",
+      "lastUpdated" : "2025-09-16T01:31:33.779+0000",
+      "artist" : {
+         "mbid" : "bd439980-0c06-4032-a479-d2cb800b2b80",
+         "name" : "Miguel Cervantes",
+         "sortName" : "Cervantes, Miguel",
+         "disambiguation" : "member of American Idiot, 2010 original Broadway cast",
+         "url" : "https://www.setlist.fm/setlists/miguel-cervantes-3bd2f044.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "My Shot",
+               "cover" : {
+                  "mbid" : "925c7673-0e85-410f-b7e4-d9705a7aa619",
+                  "name" : "Lin‐Manuel Miranda",
+                  "sortName" : "Miranda, Lin‐Manuel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/linmanuel-miranda-3bd42808.html"
+               },
+               "info" : "Performed walking from center field to home plate with the Savannah Bananas."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/miguel-cervantes/2025/yankee-stadium-the-bronx-ny-73404639.html"
+   }, {
+      "id" : "6340464b",
+      "versionId" : "g437afbeb",
+      "eventDate" : "13-09-2025",
+      "lastUpdated" : "2025-09-16T01:10:46.113+0000",
+      "artist" : {
+         "mbid" : "171dc941-4ce6-430f-9932-5c64c6192b2a",
+         "name" : "Sam Tinnesz",
+         "sortName" : "Tinnesz, Sam",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sam-tinnesz-5bcceff0.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Legends Are Made"
+            } ]
+         } ]
+      },
+      "info" : "Performed at the Savannah Bananas game, walking out of the crowd, onto the field.",
+      "url" : "https://www.setlist.fm/setlist/sam-tinnesz/2025/yankee-stadium-the-bronx-ny-6340464b.html"
+   }, {
+      "id" : "2b405406",
+      "versionId" : "g737aaa25",
+      "eventDate" : "13-09-2025",
+      "lastUpdated" : "2025-09-14T13:07:53.069+0000",
+      "artist" : {
+         "mbid" : "94785e0f-81be-4360-a9e1-a00df5dc8bc6",
+         "name" : "Big Time Rush",
+         "sortName" : "Big Time Rush",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/big-time-rush-73d2a609.html"
+      },
+      "venue" : {
+         "id" : "5bd38390",
+         "name" : "Yankee Stadium",
+         "city" : {
+            "id" : "5110266",
+            "name" : "The Bronx",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.84985,
+               "long" : -73.86641
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/yankee-stadium-the-bronx-ny-usa-5bd38390.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Big Time Rush",
+               "info" : "Shortened"
+            }, {
+               "name" : "Til I Forget About You",
+               "info" : "Shortened"
+            }, {
+               "name" : "Boyfriend"
+            } ]
+         } ]
+      },
+      "info" : "Halftime performer for the Savannah Bananas game",
+      "url" : "https://www.setlist.fm/setlist/big-time-rush/2025/yankee-stadium-the-bronx-ny-2b405406.html"
+   } ]
+}

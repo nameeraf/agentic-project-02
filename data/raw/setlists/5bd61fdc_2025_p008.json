@@ -1,0 +1,1345 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 178,
+   "setlist" : [ {
+      "id" : "3359a011",
+      "versionId" : "g2b40c84e",
+      "eventDate" : "02-04-2025",
+      "lastUpdated" : "2025-04-03T02:42:16.348+0000",
+      "artist" : {
+         "mbid" : "eda7da10-0b65-41df-ac36-9c83b7017f7a",
+         "name" : "The Weather Station",
+         "sortName" : "Weather Station, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-weather-station-63d28ab3.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Humanhood"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Part 1",
+            "song" : [ {
+               "name" : "Descent"
+            }, {
+               "name" : "Wear"
+            }, {
+               "name" : "Mirror"
+            }, {
+               "name" : "Neon Signs"
+            }, {
+               "name" : "Robber"
+            }, {
+               "name" : "Irreversible Damage"
+            } ]
+         }, {
+            "name" : "Part 2",
+            "song" : [ {
+               "name" : "Loss"
+            }, {
+               "name" : "Atlantic"
+            }, {
+               "name" : "Window"
+            }, {
+               "name" : "Passage"
+            }, {
+               "name" : "Body Moves"
+            }, {
+               "name" : "Lonely"
+            }, {
+               "name" : "Irreversible Damage"
+            } ]
+         }, {
+            "name" : "Part 3",
+            "song" : [ {
+               "name" : "Ribbon"
+            }, {
+               "name" : "Fleuve"
+            }, {
+               "name" : "Aurora"
+            }, {
+               "name" : "Humanhood"
+            }, {
+               "name" : "Tried to Tell You"
+            }, {
+               "name" : "Parking Lot"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sewing"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-weather-station/2025/music-hall-of-williamsburg-brooklyn-ny-3359a011.html"
+   }, {
+      "id" : "6b5fea7a",
+      "versionId" : "gb433532",
+      "eventDate" : "21-03-2025",
+      "lastUpdated" : "2025-03-25T18:59:14.608+0000",
+      "artist" : {
+         "mbid" : "582fee78-d934-4603-9f5c-1729e0ca36b7",
+         "name" : "Helmet",
+         "sortName" : "Helmet",
+         "disambiguation" : "US alternative metal band",
+         "url" : "https://www.setlist.fm/setlists/helmet-6bd6d606.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Betty 30th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Betty",
+            "song" : [ {
+               "name" : "Wilma's Rainbow"
+            }, {
+               "name" : "I Know"
+            }, {
+               "name" : "Biscuits for Smut"
+            }, {
+               "name" : "Milquetoast"
+            }, {
+               "name" : "Tic"
+            }, {
+               "name" : "Rollo"
+            }, {
+               "name" : "Street Crab"
+            }, {
+               "name" : "Clean"
+            }, {
+               "name" : "Vaccination"
+            }, {
+               "name" : "Beautiful Love"
+            }, {
+               "name" : "Speechless"
+            }, {
+               "name" : "The Silver Hawaiian"
+            }, {
+               "name" : "Overrated"
+            }, {
+               "name" : "Sam Hell"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Role Model"
+            }, {
+               "name" : "Renovation"
+            }, {
+               "name" : "Better"
+            }, {
+               "name" : "Dislocated"
+            }, {
+               "name" : "Ironhead",
+               "info" : "With Anthony Truglio on lead guitar"
+            }, {
+               "name" : "Repetition"
+            }, {
+               "name" : "Turned Out"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Unsung"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "Dedicated to Electra"
+            }, {
+               "name" : "Give It"
+            }, {
+               "name" : "Just Another Victim",
+               "cover" : {
+                  "mbid" : "5b08d7ce-faad-4ff2-abed-8bbe14b1c1a3",
+                  "name" : "Helmet & House of Pain",
+                  "sortName" : "Helmet & House of Pain",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/helmet-and-house-of-pain-6bd6869a.html"
+               }
+            }, {
+               "name" : "In the Meantime"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/helmet/2025/music-hall-of-williamsburg-brooklyn-ny-6b5fea7a.html"
+   }, {
+      "id" : "35f359f",
+      "versionId" : "g7b439a44",
+      "eventDate" : "21-03-2025",
+      "lastUpdated" : "2025-03-22T14:05:44.817+0000",
+      "artist" : {
+         "mbid" : "69c05e9a-883b-4570-9c3d-c4bfc896a488",
+         "name" : "War on Women",
+         "sortName" : "War on Women",
+         "disambiguation" : "Baltimore punk",
+         "url" : "https://www.setlist.fm/setlists/war-on-women-53dc1f11.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "YDTMHTL"
+            }, {
+               "name" : "Divisive Shit"
+            }, {
+               "name" : "Spun Sugar"
+            }, {
+               "name" : "Feels Good"
+            }, {
+               "name" : "White Lies"
+            }, {
+               "name" : "Lone Wolves"
+            }, {
+               "name" : "More Than Muscle"
+            }, {
+               "name" : "Aqua Tofana"
+            }, {
+               "name" : "Silence Is the Gift"
+            }, {
+               "name" : "Second Wave Goodbye"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/war-on-women/2025/music-hall-of-williamsburg-brooklyn-ny-35f359f.html"
+   }, {
+      "id" : "135f3599",
+      "versionId" : "g343a16f",
+      "eventDate" : "21-03-2025",
+      "lastUpdated" : "2025-03-22T04:28:39.206+0000",
+      "artist" : {
+         "mbid" : "262c9855-aa44-40f4-a275-cb425c074513",
+         "name" : "Slomosa",
+         "sortName" : "Slomosa",
+         "disambiguation" : "desert rock from Bergen",
+         "url" : "https://www.setlist.fm/setlists/slomosa-bf5d15e.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Betty 30th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Afghansk Rev"
+            }, {
+               "name" : "Cabin Fever"
+            }, {
+               "name" : "Rice"
+            }, {
+               "name" : "In My Mind's Desert"
+            }, {
+               "name" : "Battling Guns"
+            }, {
+               "name" : "There Is Nothing New Under the Sun"
+            }, {
+               "name" : "Kevin"
+            }, {
+               "name" : "Horses"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/slomosa/2025/music-hall-of-williamsburg-brooklyn-ny-135f3599.html"
+   }, {
+      "id" : "b58c1e6",
+      "versionId" : "g1b675944",
+      "eventDate" : "19-03-2025",
+      "lastUpdated" : "2025-10-28T16:17:54.835+0000",
+      "artist" : {
+         "mbid" : "09d13fa7-ce48-4300-be4c-0a8eff2cdb98",
+         "name" : "Hazlett",
+         "sortName" : "Hazlett",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hazlett-3bc860e0.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Please Don't Be"
+            }, {
+               "name" : "Stolen Seasons"
+            }, {
+               "name" : "Do You Haunt Me"
+            }, {
+               "name" : "doing my best"
+            }, {
+               "name" : "Bones Shake"
+            }, {
+               "name" : "Cemetery"
+            }, {
+               "name" : "Shiver"
+            }, {
+               "name" : "My Skin"
+            }, {
+               "name" : "The First Train Home"
+            }, {
+               "name" : "Adam's Song",
+               "cover" : {
+                  "mbid" : "0743b15a-3c32-48c8-ad58-cb325350befa",
+                  "name" : "blink‐182",
+                  "sortName" : "blink‐182",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/blink182-4bd68fae.html"
+               }
+            }, {
+               "name" : "Missionary Feelings"
+            }, {
+               "name" : "Part Time Lovers"
+            }, {
+               "name" : "Wonderwall",
+               "cover" : {
+                  "mbid" : "39ab1aed-75e0-4140-bd47-540276886b60",
+                  "name" : "Oasis",
+                  "sortName" : "Oasis",
+                  "disambiguation" : "Noel & Liam Gallagher",
+                  "url" : "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+               }
+            }, {
+               "name" : "Blame the Moon"
+            } ]
+         } ]
+      },
+      "info" : "setlist may be slightly out of order in the middle",
+      "url" : "https://www.setlist.fm/setlist/hazlett/2025/music-hall-of-williamsburg-brooklyn-ny-b58c1e6.html"
+   }, {
+      "id" : "5b58d37c",
+      "versionId" : "g43427fbf",
+      "eventDate" : "16-03-2025",
+      "lastUpdated" : "2025-03-18T18:53:10.989+0000",
+      "artist" : {
+         "mbid" : "fe8a4319-42c0-4624-9ed5-e556c2a31e6d",
+         "name" : "Mary Shelley",
+         "sortName" : "Mary Shelley",
+         "disambiguation" : "NYC punk band",
+         "url" : "https://www.setlist.fm/setlists/mary-shelley-3ff7deb.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bloodhounds"
+            }, {
+               "name" : "You Look Just Like My Mother"
+            }, {
+               "name" : "The Nursing Home Jig"
+            }, {
+               "name" : "Playing House"
+            }, {
+               "name" : "The Party"
+            }, {
+               "name" : "Q"
+            }, {
+               "name" : "She's a Star"
+            }, {
+               "name" : "Bourgeois de Ville"
+            }, {
+               "name" : "Goin' to the Beach"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for band Boys Go to Jupiter.",
+      "url" : "https://www.setlist.fm/setlist/mary-shelley/2025/music-hall-of-williamsburg-brooklyn-ny-5b58d37c.html"
+   }, {
+      "id" : "4358d36b",
+      "versionId" : "g4b4f1b52",
+      "eventDate" : "16-03-2025",
+      "lastUpdated" : "2025-04-26T17:44:55.373+0000",
+      "artist" : {
+         "mbid" : "904e413a-1327-4418-a96d-114a14a874ff",
+         "name" : "Boys Go to Jupiter",
+         "sortName" : "Boys Go to Jupiter",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/boys-go-to-jupiter-be54d06.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Virginia"
+            }, {
+               "name" : "Lovers Always Lose"
+            }, {
+               "name" : "Wall St"
+            }, {
+               "name" : "Tiltawhirl"
+            }, {
+               "name" : "Last Last Time"
+            }, {
+               "name" : "Overconfident"
+            }, {
+               "name" : "Wish U Were Here"
+            }, {
+               "name" : "Theme Song"
+            }, {
+               "name" : "Practice"
+            }, {
+               "name" : "Astronauts"
+            }, {
+               "name" : "Tomorrow",
+               "cover" : {
+                  "mbid" : "49fe41fa-3dc2-4e3e-8ebf-f0589e8fbd9a",
+                  "name" : "Annie: The Broadway Musical 30th Anniversary Tour Cast",
+                  "sortName" : "Annie: The Broadway Musical 30th Anniversary Tour Cast",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/annie-the-broadway-musical-30th-anniversary-tour-cast-73e41655.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/boys-go-to-jupiter/2025/music-hall-of-williamsburg-brooklyn-ny-4358d36b.html"
+   }, {
+      "id" : "6b5ba2be",
+      "versionId" : "g2379181b",
+      "eventDate" : "14-03-2025",
+      "lastUpdated" : "2025-10-11T01:38:16.313+0000",
+      "artist" : {
+         "mbid" : "71fc5761-1ad7-4756-85ed-291d55bc677e",
+         "name" : "Rx Bandits",
+         "sortName" : "Rx Bandits",
+         "disambiguation" : "American ska-punk band",
+         "url" : "https://www.setlist.fm/setlists/rx-bandits-73d6f601.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "In Her Drawer"
+            }, {
+               "name" : "Infection"
+            }, {
+               "name" : "…And the Battle Begun"
+            }, {
+               "name" : "Taking Chase as the Serpent Slithers"
+            }, {
+               "name" : "Consequential Apathy"
+            }, {
+               "name" : "In All Rwanda's Glory"
+            }, {
+               "name" : "Crushing Destroyer"
+            }, {
+               "name" : "Ruby Cumulous"
+            }, {
+               "name" : "Bled to Be Free (The Operation)"
+            }, {
+               "name" : "Nugget"
+            }, {
+               "name" : "Stargazer"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Overcome (The Recapitulation)"
+            }, {
+               "name" : "My Lonesome Only Friend"
+            }, {
+               "name" : "Mientras la veo soñar"
+            }, {
+               "name" : "Decrescendo"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rx-bandits/2025/music-hall-of-williamsburg-brooklyn-ny-6b5ba2be.html"
+   }, {
+      "id" : "6b5ba2a6",
+      "versionId" : "g43465f2b",
+      "eventDate" : "14-03-2025",
+      "lastUpdated" : "2025-02-18T20:51:30.738+0000",
+      "artist" : {
+         "mbid" : "0baa5088-9b10-4ef3-b4e3-16109ab7edfe",
+         "name" : "Zeta",
+         "sortName" : "Zeta",
+         "disambiguation" : "Venezuelan punk/hardcore/post-hardcore",
+         "url" : "https://www.setlist.fm/setlists/zeta-6bc5ae42.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Was It Medicine to You?"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zeta/2025/music-hall-of-williamsburg-brooklyn-ny-6b5ba2a6.html"
+   }, {
+      "id" : "6b588a6e",
+      "versionId" : "g7b4a36bc",
+      "eventDate" : "12-03-2025",
+      "lastUpdated" : "2025-05-18T17:52:09.455+0000",
+      "artist" : {
+         "mbid" : "545fce1f-f8d6-46e8-8e01-60a911216541",
+         "name" : "Hovvdy",
+         "sortName" : "Hovvdy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hovvdy-2bc128c6.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Hovvdy"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Make Ya Proud"
+            }, {
+               "name" : "Cathedral"
+            }, {
+               "name" : "Portrait"
+            }, {
+               "name" : "Jean"
+            }, {
+               "name" : "Big Blue"
+            }, {
+               "name" : "Bubba"
+            }, {
+               "name" : "Mr. Lee"
+            }, {
+               "name" : "In My Head"
+            }, {
+               "name" : "Town"
+            }, {
+               "name" : "Junior Day League"
+            }, {
+               "name" : "Clean"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Blindsided"
+            }, {
+               "name" : "Tools"
+            }, {
+               "name" : "Bad News"
+            }, {
+               "name" : "Meant"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "True Love"
+            }, {
+               "name" : "A Little"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hovvdy/2025/music-hall-of-williamsburg-brooklyn-ny-6b588a6e.html"
+   }, {
+      "id" : "2b58848a",
+      "versionId" : "g3b4298c4",
+      "eventDate" : "12-03-2025",
+      "lastUpdated" : "2025-03-13T19:43:12.354+0000",
+      "artist" : {
+         "mbid" : "af95c8de-1e7a-4c1d-a092-239cd9408c5a",
+         "name" : "Video Age",
+         "sortName" : "Video Age",
+         "disambiguation" : "New Orleans",
+         "url" : "https://www.setlist.fm/setlists/video-age-63c15e1f.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/video-age/2025/music-hall-of-williamsburg-brooklyn-ny-2b58848a.html"
+   }, {
+      "id" : "53589781",
+      "versionId" : "g634542ff",
+      "eventDate" : "11-03-2025",
+      "lastUpdated" : "2025-03-12T11:37:47.549+0000",
+      "artist" : {
+         "mbid" : "af95c8de-1e7a-4c1d-a092-239cd9408c5a",
+         "name" : "Video Age",
+         "sortName" : "Video Age",
+         "disambiguation" : "New Orleans",
+         "url" : "https://www.setlist.fm/setlists/video-age-63c15e1f.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/video-age/2025/music-hall-of-williamsburg-brooklyn-ny-53589781.html"
+   }, {
+      "id" : "2358986f",
+      "versionId" : "g634a36bf",
+      "eventDate" : "11-03-2025",
+      "lastUpdated" : "2025-05-18T17:51:50.248+0000",
+      "artist" : {
+         "mbid" : "545fce1f-f8d6-46e8-8e01-60a911216541",
+         "name" : "Hovvdy",
+         "sortName" : "Hovvdy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hovvdy-2bc128c6.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Hovvdy"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Make Ya Proud"
+            }, {
+               "name" : "Cathedral"
+            }, {
+               "name" : "Portrait"
+            }, {
+               "name" : "Jean"
+            }, {
+               "name" : "Big Blue"
+            }, {
+               "name" : "Bubba"
+            }, {
+               "name" : "Mr. Lee"
+            }, {
+               "name" : "In My Head"
+            }, {
+               "name" : "I Never Wanna Make You Sad"
+            }, {
+               "name" : "Junior Day League"
+            }, {
+               "name" : "Clean"
+            }, {
+               "name" : "Forever"
+            }, {
+               "name" : "Blindsided"
+            }, {
+               "name" : "Tools"
+            }, {
+               "name" : "Bad News"
+            }, {
+               "name" : "Meant"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "True Love"
+            }, {
+               "name" : "A Little"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hovvdy/2025/music-hall-of-williamsburg-brooklyn-ny-2358986f.html"
+   }, {
+      "id" : "4b5b5b6e",
+      "versionId" : "g5b45df58",
+      "eventDate" : "08-03-2025",
+      "lastUpdated" : "2025-03-07T01:55:59.006+0000",
+      "artist" : {
+         "mbid" : "9bb7f960-b3f4-455b-9005-694a0f70e1b8",
+         "name" : "Timecop1983 feat. Josh Dally",
+         "sortName" : "Timecop1983 feat. Dally, Josh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/timecop1983-feat-josh-dally-33c738e9.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "On the Run Tour USA 2025"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/timecop1983-feat-josh-dally/2025/music-hall-of-williamsburg-brooklyn-ny-4b5b5b6e.html"
+   }, {
+      "id" : "535de339",
+      "versionId" : "g6b451e3e",
+      "eventDate" : "07-03-2025",
+      "lastUpdated" : "2025-03-09T03:32:56.087+0000",
+      "artist" : {
+         "mbid" : "718287f6-773f-4b43-a47d-15c8a6df89b9",
+         "name" : "Friko",
+         "sortName" : "Friko",
+         "disambiguation" : "Chicago-based art rock/power pop band",
+         "url" : "https://www.setlist.fm/setlists/friko-3ff35cf.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "Spring 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Guess"
+            }, {
+               "name" : "Rock"
+            }, {
+               "name" : "Crimson to Chrome"
+            }, {
+               "name" : "Chemical"
+            }, {
+               "name" : "For Ella"
+            }, {
+               "name" : "Crashing Through"
+            }, {
+               "name" : "Dirty Diamond"
+            }, {
+               "name" : "Statues"
+            }, {
+               "name" : "Hot Air Balloon"
+            }, {
+               "name" : "Cardinal"
+            }, {
+               "name" : "Where We've Been"
+            }, {
+               "name" : "Get Numb to It!"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Choo Choo"
+            }, {
+               "name" : "Dear Bicycle"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/friko/2025/music-hall-of-williamsburg-brooklyn-ny-535de339.html"
+   }, {
+      "id" : "435a8f0b",
+      "versionId" : "g33429459",
+      "eventDate" : "07-03-2025",
+      "lastUpdated" : "2025-03-13T23:17:42.806+0000",
+      "artist" : {
+         "mbid" : "04c99c2a-93da-45ec-b3d7-9d59c69215f8",
+         "name" : "Peel Dream Magazine",
+         "sortName" : "Peel Dream Magazine",
+         "disambiguation" : "nom de plume of NYC-based musician Joe Stevens",
+         "url" : "https://www.setlist.fm/setlists/peel-dream-magazine-3bc83888.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Central Park West"
+            }, {
+               "name" : "Up and Up"
+            }, {
+               "name" : "Wish You Well"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/peel-dream-magazine/2025/music-hall-of-williamsburg-brooklyn-ny-435a8f0b.html"
+   }, {
+      "id" : "1b5b2544",
+      "versionId" : "g4b45378a",
+      "eventDate" : "28-02-2025",
+      "lastUpdated" : "2025-03-08T11:37:15.894+0000",
+      "artist" : {
+         "mbid" : "fa5c2aed-38ae-4e32-b3a1-f50dac411b11",
+         "name" : "Tuxedo",
+         "sortName" : "Tuxedo",
+         "disambiguation" : "US funk band",
+         "url" : "https://www.setlist.fm/setlists/tuxedo-63d12207.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1: Gavin Turek",
+            "song" : [ {
+               "name" : "IOU",
+               "cover" : {
+                  "mbid" : "d5c98b21-0c73-4c15-bdeb-42d5db57a3b4",
+                  "name" : "Gavin Turek",
+                  "sortName" : "Turek, Gavin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gavin-turek-6bc4325a.html"
+               }
+            }, {
+               "name" : "Back On The Market",
+               "cover" : {
+                  "mbid" : "d5c98b21-0c73-4c15-bdeb-42d5db57a3b4",
+                  "name" : "Gavin Turek",
+                  "sortName" : "Turek, Gavin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gavin-turek-6bc4325a.html"
+               }
+            }, {
+               "name" : "Don't Fight It",
+               "cover" : {
+                  "mbid" : "d5c98b21-0c73-4c15-bdeb-42d5db57a3b4",
+                  "name" : "Gavin Turek",
+                  "sortName" : "Turek, Gavin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gavin-turek-6bc4325a.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2: Tuxedo",
+            "song" : [ {
+               "name" : "Hold Up"
+            }, {
+               "name" : "This Is 4 You"
+            }, {
+               "name" : "The Tuxedo Way"
+            }, {
+               "name" : "Number One"
+            }, {
+               "name" : "Shy"
+            }, {
+               "name" : "Doin' My Best"
+            }, {
+               "name" : "Back & Forth",
+               "cover" : {
+                  "mbid" : "ef4d808a-2113-44c3-9b44-1b31f026ef1e",
+                  "name" : "Cameo",
+                  "sortName" : "Cameo",
+                  "disambiguation" : "American soul-influenced funk group",
+                  "url" : "https://www.setlist.fm/setlists/cameo-13d6b969.html"
+               }
+            }, {
+               "name" : "Back 4 More"
+            }, {
+               "name" : "2nd Time Around"
+            }, {
+               "name" : "Good Time 4 Ever"
+            }, {
+               "name" : "Henny & Gingerale",
+               "cover" : {
+                  "mbid" : "029fbb43-ea37-47a0-8c68-803d69abfa5e",
+                  "name" : "Mayer Hawthorne",
+                  "sortName" : "Hawthorne, Mayer",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mayer-hawthorne-4bd41336.html"
+               }
+            }, {
+               "name" : "The Right Time"
+            }, {
+               "name" : "Take a Picture"
+            }, {
+               "name" : "Tuxedo Funk"
+            }, {
+               "name" : "I Like It",
+               "cover" : {
+                  "mbid" : "a87ac25e-cd5e-40ad-85ef-f62a6525aad0",
+                  "name" : "Intrigue",
+                  "sortName" : "Intrigue",
+                  "disambiguation" : "UK jazz-funk trio, song \"I Like It\"",
+                  "url" : "https://www.setlist.fm/setlists/intrigue-6bd8aa92.html"
+               }
+            }, {
+               "name" : "Cake"
+            }, {
+               "name" : "Disco Boots",
+               "cover" : {
+                  "mbid" : "d5c98b21-0c73-4c15-bdeb-42d5db57a3b4",
+                  "name" : "Gavin Turek",
+                  "sortName" : "Turek, Gavin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gavin-turek-6bc4325a.html"
+               }
+            }, {
+               "name" : "She Can't Love You",
+               "cover" : {
+                  "mbid" : "63370a9b-edca-4427-a2d0-925577696124",
+                  "name" : "Chemise",
+                  "sortName" : "Chemise",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chemise-73d76ae1.html"
+               }
+            }, {
+               "name" : "So Good"
+            }, {
+               "name" : "Fux With the Tux"
+            }, {
+               "name" : "We Like to Do It",
+               "cover" : {
+                  "mbid" : "64676815-d6f5-4dd6-8fdd-b8d784f80f57",
+                  "name" : "Ingram",
+                  "sortName" : "Ingram",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ingram-2bd7d05e.html"
+               }
+            }, {
+               "name" : "Do It Roger",
+               "cover" : {
+                  "mbid" : "1ee7489a-af64-4ca2-9041-c1d8588b3a97",
+                  "name" : "Roger Troutman",
+                  "sortName" : "Troutman, Roger",
+                  "disambiguation" : "funk musician in Zapp",
+                  "url" : "https://www.setlist.fm/setlists/roger-troutman-53d61fcd.html"
+               }
+            }, {
+               "name" : "Do It"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "R U Ready"
+            }, {
+               "name" : "On a Good One"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tuxedo/2025/music-hall-of-williamsburg-brooklyn-ny-1b5b2544.html"
+   }, {
+      "id" : "2b5b4456",
+      "versionId" : "g4b452fd2",
+      "eventDate" : "22-02-2025",
+      "lastUpdated" : "2025-03-08T18:51:58.791+0000",
+      "artist" : {
+         "mbid" : "6f274512-701a-43b1-b533-7833af213ba0",
+         "name" : "Sylvaine",
+         "sortName" : "Sylvaine",
+         "disambiguation" : "Norwegian post‐metal/shoegaze musician",
+         "url" : "https://www.setlist.fm/setlists/sylvaine-63d9fee3.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Dagsens auga sloknar ut"
+            }, {
+               "name" : "Mørklagt"
+            }, {
+               "name" : "I Close My Eyes So I Can See"
+            }, {
+               "name" : "L’Appel du vide"
+            }, {
+               "name" : "Eg Er Framand",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sylvaine/2025/music-hall-of-williamsburg-brooklyn-ny-2b5b4456.html"
+   }, {
+      "id" : "135bc925",
+      "versionId" : "g7b79aaf0",
+      "eventDate" : "22-02-2025",
+      "lastUpdated" : "2025-10-06T14:13:01.982+0000",
+      "artist" : {
+         "mbid" : "cdcc26ed-818f-4c95-b177-b56ac1410f8f",
+         "name" : "Eivør",
+         "sortName" : "Eivør",
+         "disambiguation" : "Faroese singer‐songwriter Eivør Pálsdóttir",
+         "url" : "https://www.setlist.fm/setlists/eivor-33d6685d.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "tour" : {
+         "name" : "USA & Canada Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ein klóta"
+            }, {
+               "name" : "Jarðartrá"
+            }, {
+               "name" : "Hugsi bert um teg"
+            }, {
+               "name" : "Purpurhjarta"
+            }, {
+               "name" : "Let It Come"
+            }, {
+               "name" : "Skyscrapers"
+            }, {
+               "name" : "Trøllabundin"
+            }, {
+               "name" : "True Love"
+            }, {
+               "name" : "Enn"
+            }, {
+               "name" : "Upp Úr Øskuni"
+            }, {
+               "name" : "Hymn 49"
+            }, {
+               "name" : "Salt"
+            }, {
+               "name" : "Í Tokuni"
+            }, {
+               "name" : "Gullspunnin"
+            }, {
+               "name" : "Falling Free"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/eivor/2025/music-hall-of-williamsburg-brooklyn-ny-135bc925.html"
+   }, {
+      "id" : "b5a8112",
+      "versionId" : "g7b58165c",
+      "eventDate" : "21-02-2025",
+      "lastUpdated" : "2025-01-31T17:36:37.918+0000",
+      "artist" : {
+         "mbid" : "242ffdce-4609-4b8d-a9a9-1f0d22821b41",
+         "name" : "Ayoni",
+         "sortName" : "Ayoni",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ayoni-7bf1b6e8.html"
+      },
+      "venue" : {
+         "id" : "5bd61fdc",
+         "name" : "Music Hall of Williamsburg",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/music-hall-of-williamsburg-brooklyn-ny-usa-5bd61fdc.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ayoni/2025/music-hall-of-williamsburg-brooklyn-ny-b5a8112.html"
+   } ]
+}

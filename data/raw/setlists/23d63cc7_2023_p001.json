@@ -1,0 +1,2500 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 233,
+   "setlist" : [ {
+      "id" : "3aff9cf",
+      "versionId" : "g2b75b02a",
+      "eventDate" : "31-12-2023",
+      "lastUpdated" : "2025-07-05T19:56:45.992+0000",
+      "artist" : {
+         "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+         "name" : "Phish",
+         "sortName" : "Phish",
+         "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+         "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Everything's Right"
+            }, {
+               "name" : "Tube",
+               "info" : "Contained Mary Tyler Moore Show Theme Tease by Trey"
+            }, {
+               "name" : "Ether Edge",
+               "info" : ">"
+            }, {
+               "name" : "Reba"
+            }, {
+               "name" : "Taste"
+            }, {
+               "name" : "Ruby Waves",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               }
+            }, {
+               "name" : "A Life Beyond the Dream"
+            }, {
+               "name" : "Character Zero"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Down With Disease"
+            }, {
+               "name" : "Harpua",
+               "info" : "unfinished) (>"
+            } ]
+         }, {
+            "name" : "(Gamehendge Part 1):",
+            "song" : [ {
+               "name" : "The Man Who Stepped Into Yesterday",
+               "info" : "with off-stage backing chorus) (>"
+            }, {
+               "name" : "The Lizards",
+               "info" : "with off-stage backing chorus) (>"
+            }, {
+               "name" : "Punch You in the Eye",
+               "info" : ">"
+            }, {
+               "name" : "AC/DC Bag",
+               "info" : ">"
+            }, {
+               "name" : "Tela",
+               "info" : "with off-stage backing chorus) (>"
+            }, {
+               "name" : "Llama",
+               "info" : ">"
+            }, {
+               "name" : "Wilson",
+               "info" : "with Jo Lampert on additional vocals) (with off-stage backing chorus) (>"
+            }, {
+               "name" : "The Sloth",
+               "info" : ">"
+            }, {
+               "name" : "The Divided Sky",
+               "info" : "with off-stage backing chorus"
+            } ]
+         }, {
+            "name" : "Set 3 (Gamehendge Part 2):",
+            "song" : [ {
+               "name" : "McGrupp and the Watchful Hosemasters",
+               "info" : ">"
+            }, {
+               "name" : "Colonel Forbin's Ascent",
+               "info" : "with off-stage backing chorus) (>"
+            }, {
+               "name" : "Fly Famous Mockingbird",
+               "info" : "with off-stage backing chorus) (>",
+               "with" : {
+                  "mbid" : "abacb02f-b1fd-4ce6-82b2-3b64de03894a",
+                  "name" : "Annie Golden",
+                  "sortName" : "Golden, Annie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/annie-golden-43dd6f77.html"
+               }
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Auld Lang Syne",
+               "cover" : {
+                  "mbid" : "56e7d9b7-174b-4e29-a50d-f164030d197f",
+                  "name" : "Robert Burns",
+                  "sortName" : "Burns, Robert",
+                  "disambiguation" : "18th century Scottish poet/lyricist",
+                  "url" : "https://www.setlist.fm/setlists/robert-burns-4bd23756.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Split Open and Melt"
+            }, {
+               "name" : "You Enjoy Myself",
+               "info" : ">"
+            }, {
+               "name" : "Loving Cup",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Possum"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cavern",
+               "info" : ">"
+            }, {
+               "name" : "First Tube",
+               "info" : ">"
+            }, {
+               "name" : "Tweezer Reprise"
+            }, {
+               "name" : "Finally",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "16b3f3fc-6c76-4fec-8f0b-9fa9a4ec8e91",
+                  "name" : "CeCe Peniston",
+                  "sortName" : "Peniston, CeCe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cece-peniston-4bd69346.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "'Harpua' through 'Split Open and Melt' was a full production Gamehendge theatrical show. First Gamehendge set since July 8, 1994, fifth time ever.",
+      "url" : "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-3aff9cf.html"
+   }, {
+      "id" : "13af816d",
+      "versionId" : "g13a07dad",
+      "eventDate" : "30-12-2023",
+      "lastUpdated" : "2024-07-24T19:24:18.783+0000",
+      "artist" : {
+         "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+         "name" : "Phish",
+         "sortName" : "Phish",
+         "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+         "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Backwards Down the Number Line"
+            }, {
+               "name" : "Wolfman's Brother"
+            }, {
+               "name" : "Turtle in the Clouds"
+            }, {
+               "name" : "Undermind"
+            }, {
+               "name" : "Kill Devil Falls"
+            }, {
+               "name" : "Fuego",
+               "info" : ">"
+            }, {
+               "name" : "Train Song"
+            }, {
+               "name" : "It's Ice",
+               "info" : ">"
+            }, {
+               "name" : "Life Saving Gun",
+               "cover" : {
+                  "mbid" : "066a4f51-4230-4784-a2ca-daae7219e675",
+                  "name" : "Page McConnell & Trey Anastasio",
+                  "sortName" : "Page McConnell & Trey Anastasio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/page-mcconnell-and-trey-anastasio-1bf1d138.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "The Well",
+               "info" : ">"
+            }, {
+               "name" : "Tweezer",
+               "info" : ">"
+            }, {
+               "name" : "Twist",
+               "info" : ">"
+            }, {
+               "name" : "Piper",
+               "info" : ">"
+            }, {
+               "name" : "Golden Age",
+               "cover" : {
+                  "mbid" : "eb872766-98f6-453d-883f-2ae908a18315",
+                  "name" : "TV on the Radio",
+                  "sortName" : "TV on the Radio",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tv-on-the-radio-4bd6ab1e.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Also sprach Zarathustra, op. 30",
+               "cover" : {
+                  "mbid" : "4cb43d82-824e-4034-b03d-1a98f36f6e16",
+                  "name" : "Richard Strauss",
+                  "sortName" : "Strauss, Richard",
+                  "disambiguation" : "German composer",
+                  "url" : "https://www.setlist.fm/setlists/richard-strauss-3d4ddcb.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Sigma Oasis",
+               "info" : ">"
+            }, {
+               "name" : "David Bowie"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Slave to the Traffic Light",
+               "info" : ">"
+            }, {
+               "name" : "More"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-13af816d.html"
+   }, {
+      "id" : "63af8eb7",
+      "versionId" : "g5b6eef7c",
+      "eventDate" : "29-12-2023",
+      "lastUpdated" : "2025-12-15T10:25:26.706+0000",
+      "artist" : {
+         "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+         "name" : "Phish",
+         "sortName" : "Phish",
+         "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+         "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Free",
+               "info" : ">"
+            }, {
+               "name" : "The Moma Dance"
+            }, {
+               "name" : "Maze"
+            }, {
+               "name" : "Evolve",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Stash"
+            }, {
+               "name" : "Back on the Train"
+            }, {
+               "name" : "Theme From the Bottom",
+               "info" : ">"
+            }, {
+               "name" : "Mountains in the Mist"
+            }, {
+               "name" : "46 Days"
+            }, {
+               "name" : "Drift While You're Sleeping",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Chalk Dust Torture",
+               "info" : ">"
+            }, {
+               "name" : "Oblivion"
+            }, {
+               "name" : "What's the Use?",
+               "info" : ">"
+            }, {
+               "name" : "My Friend, My Friend",
+               "info" : "did not contain \"Myfe\" ending) (>"
+            }, {
+               "name" : "Sand"
+            }, {
+               "name" : "About to Run",
+               "cover" : {
+                  "mbid" : "7a901645-171b-45f7-9c2f-4e68c797394d",
+                  "name" : "Ghosts of The Forest",
+                  "sortName" : "Ghosts of The Forest",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ghosts-of-the-forest-43f67fe3.html"
+               }
+            }, {
+               "name" : "Harry Hood"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Lonely Trip",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Carini"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-63af8eb7.html"
+   }, {
+      "id" : "3baf90ec",
+      "versionId" : "g6ba07a76",
+      "eventDate" : "28-12-2023",
+      "lastUpdated" : "2024-07-25T00:10:13.042+0000",
+      "artist" : {
+         "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+         "name" : "Phish",
+         "sortName" : "Phish",
+         "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+         "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "New Year's Run 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "No Men in No Man's Land"
+            }, {
+               "name" : "Halley's Comet"
+            }, {
+               "name" : "Sample in a Jar"
+            }, {
+               "name" : "Runaway Jim"
+            }, {
+               "name" : "Bouncing Around the Room"
+            }, {
+               "name" : "Axilla, Part II",
+               "info" : ">"
+            }, {
+               "name" : "Funky Bitch",
+               "cover" : {
+                  "mbid" : "d2728d68-26f6-42b6-a490-ddae85b65d6d",
+                  "name" : "Son Seals",
+                  "sortName" : "Seals, Son",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/son-seals-3bd61020.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Bathtub Gin",
+               "info" : ">"
+            }, {
+               "name" : "Ghost"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "The Howling",
+               "info" : ">"
+            }, {
+               "name" : "A Wave of Hope",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Rift",
+               "info" : ">"
+            }, {
+               "name" : "Mike's Song",
+               "info" : ">"
+            }, {
+               "name" : "Simple",
+               "info" : ">"
+            }, {
+               "name" : "Blaze On"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Mercy",
+               "cover" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "The Squirming Coil"
+            }, {
+               "name" : "Weekapaug Groove",
+               "info" : ">"
+            }, {
+               "name" : "Say It to Me S.A.N.T.O.S."
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-3baf90ec.html"
+   }, {
+      "id" : "33ae4091",
+      "versionId" : "g2b8a246a",
+      "eventDate" : "21-12-2023",
+      "lastUpdated" : "2023-12-22T01:42:48.717+0000",
+      "artist" : {
+         "mbid" : "f1660eaa-929f-48d4-9926-9aaa61afa52f",
+         "name" : "Teezo Touchdown",
+         "sortName" : "Teezo Touchdown",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/teezo-touchdown-33f32459.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Utopia Tour Presents Circus Maximus"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "5 O'Clock"
+            }, {
+               "name" : "Too Easy"
+            }, {
+               "name" : "OK"
+            }, {
+               "name" : "You Thought"
+            }, {
+               "name" : "UUHH"
+            }, {
+               "name" : "Sweet"
+            }, {
+               "name" : "Impossible"
+            }, {
+               "name" : "7969 Santa",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Luckily I'm Having",
+               "cover" : {
+                  "mbid" : "a0723a3c-4135-438e-85c5-012712144ede",
+                  "name" : "Don Toliver",
+                  "sortName" : "Don Toliver",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/don-toliver-23c8342b.html"
+               }
+            }, {
+               "name" : "RUNITUP",
+               "cover" : {
+                  "mbid" : "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+                  "name" : "Tyler, The Creator",
+                  "sortName" : "Tyler, The Creator",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyler-the-creator-73d2e2cd.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/teezo-touchdown/2023/madison-square-garden-new-york-ny-33ae4091.html"
+   }, {
+      "id" : "2bae4092",
+      "versionId" : "g5ba647dc",
+      "eventDate" : "21-12-2023",
+      "lastUpdated" : "2024-06-17T22:45:59.613+0000",
+      "artist" : {
+         "mbid" : "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+         "name" : "Travis Scott",
+         "sortName" : "Scott, Travis",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/travis-scott-6bdeaa7e.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Utopia Tour Presents Circus Maximus"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Greetings From Utopia (Intro)",
+               "tape" : true
+            }, {
+               "name" : "HYAENA"
+            }, {
+               "name" : "THANK GOD"
+            }, {
+               "name" : "MODERN JAM",
+               "with" : {
+                  "mbid" : "f1660eaa-929f-48d4-9926-9aaa61afa52f",
+                  "name" : "Teezo Touchdown",
+                  "sortName" : "Teezo Touchdown",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/teezo-touchdown-33f32459.html"
+               }
+            }, {
+               "name" : "Aye",
+               "cover" : {
+                  "mbid" : "8837b875-3689-4646-b3fd-d8b53815c7a8",
+                  "name" : "Lil Uzi Vert",
+                  "sortName" : "Lil Uzi Vert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lil-uzi-vert-4bc64f02.html"
+               }
+            }, {
+               "name" : "sdp interlude"
+            }, {
+               "name" : "3500"
+            }, {
+               "name" : "Uptown"
+            }, {
+               "name" : "Nightcrawler",
+               "info" : "Restarted"
+            }, {
+               "name" : "Nightcrawler",
+               "tape" : true,
+               "info" : "Played again, but only the first 18 seconds of the song, which is a bit of Swae Lee’s intro"
+            }, {
+               "name" : "Oh My Dis Side",
+               "info" : "First live performance since 2017"
+            }, {
+               "name" : "SIRENS"
+            }, {
+               "name" : "Upper Echelon"
+            }, {
+               "name" : "Praise God",
+               "cover" : {
+                  "mbid" : "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name" : "Ye",
+                  "sortName" : "Ye",
+                  "disambiguation" : "formerly Kanye West",
+                  "url" : "https://www.setlist.fm/setlists/ye-bd6bd8a.html"
+               }
+            }, {
+               "name" : "GOD'S COUNTRY"
+            }, {
+               "name" : "MY EYES"
+            }, {
+               "name" : "BUTTERFLY EFFECT",
+               "info" : "Cut near the end due to power outage and show stopped for a bit after that because of it"
+            }, {
+               "name" : "FE!N",
+               "tape" : true,
+               "info" : "Teaser"
+            }, {
+               "name" : "HIGHEST IN THE ROOM"
+            }, {
+               "name" : "Mamacita"
+            }, {
+               "name" : "CIRCUS MAXIMUS"
+            }, {
+               "name" : "DELRESTO (ECHOES)",
+               "tape" : true,
+               "info" : "Played as he changed outfits"
+            }, {
+               "name" : "Maria I'm Drunk"
+            }, {
+               "name" : "CAN'T SAY"
+            }, {
+               "name" : "MAFIA",
+               "info" : "John McEnroe rode the parasail"
+            }, {
+               "name" : "I KNOW ?"
+            }, {
+               "name" : "90210"
+            }, {
+               "name" : "MELTDOWN"
+            }, {
+               "name" : "Bent",
+               "cover" : {
+                  "mbid" : "4939ae61-24c7-4a38-844b-ebedf38fc0f0",
+                  "name" : "41",
+                  "sortName" : "41",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/41-33f9581d.html"
+               },
+               "with" : {
+                  "mbid" : "4939ae61-24c7-4a38-844b-ebedf38fc0f0",
+                  "name" : "41",
+                  "sortName" : "41",
+                  "disambiguation" : "US hip hop group",
+                  "url" : "https://www.setlist.fm/setlists/41-33f9581d.html"
+               }
+            }, {
+               "name" : "TOPIA TWINS"
+            }, {
+               "name" : "NO BYSTANDERS"
+            }, {
+               "name" : "FE!N"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again, with unreleased verse from Sheck Wes",
+               "with" : {
+                  "mbid" : "07ab04d4-bdbc-4c93-bfb2-457693a4ff94",
+                  "name" : "Sheck Wes",
+                  "sortName" : "Sheck Wes",
+                  "disambiguation" : "rapper, on Cactus Jack Records and G.O.O.D. Music",
+                  "url" : "https://www.setlist.fm/setlists/sheck-wes-53cb5f31.html"
+               }
+            }, {
+               "name" : "Mo Bamba",
+               "cover" : {
+                  "mbid" : "07ab04d4-bdbc-4c93-bfb2-457693a4ff94",
+                  "name" : "Sheck Wes",
+                  "sortName" : "Sheck Wes",
+                  "disambiguation" : "rapper, on Cactus Jack Records and G.O.O.D. Music",
+                  "url" : "https://www.setlist.fm/setlists/sheck-wes-53cb5f31.html"
+               },
+               "with" : {
+                  "mbid" : "07ab04d4-bdbc-4c93-bfb2-457693a4ff94",
+                  "name" : "Sheck Wes",
+                  "sortName" : "Sheck Wes",
+                  "disambiguation" : "rapper, on Cactus Jack Records and G.O.O.D. Music",
+                  "url" : "https://www.setlist.fm/setlists/sheck-wes-53cb5f31.html"
+               }
+            }, {
+               "name" : "SICKO MODE"
+            }, {
+               "name" : "Antidote"
+            }, {
+               "name" : "goosebumps"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played again"
+            }, {
+               "name" : "FE!N",
+               "info" : "Played one last time"
+            }, {
+               "name" : "TELEKINESIS"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/travis-scott/2023/madison-square-garden-new-york-ny-2bae4092.html"
+   }, {
+      "id" : "73ae5631",
+      "versionId" : "g5b602314",
+      "eventDate" : "19-12-2023",
+      "lastUpdated" : "2025-12-03T10:31:29.534+0000",
+      "artist" : {
+         "mbid" : "64b94289-9474-4d43-8c93-918ccc1920d1",
+         "name" : "Billy Joel",
+         "sortName" : "Joel, Billy",
+         "disambiguation" : "American singer‐songwriter and pianist",
+         "url" : "https://www.setlist.fm/setlists/billy-joel-7bd6be40.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Billy Joel at The Garden"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Natural (The End Title)",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "da7bb7d8-557d-4635-9ca1-e6e985525bd5",
+                  "name" : "Randy Newman",
+                  "sortName" : "Newman, Randy",
+                  "disambiguation" : "American singer‐songwriter and score composer",
+                  "url" : "https://www.setlist.fm/setlists/randy-newman-63d68ac3.html"
+               }
+            }, {
+               "name" : "Miami 2017 (Seen the Lights Go Out on Broadway)"
+            }, {
+               "name" : "Joy to the World",
+               "cover" : {
+                  "mbid" : "3a8a190c-24ef-45df-abe8-735ceeb38855",
+                  "name" : "Isaac Watts",
+                  "sortName" : "Watts, Isaac",
+                  "disambiguation" : "hymn writer",
+                  "url" : "https://www.setlist.fm/setlists/isaac-watts-3bd0f054.html"
+               }
+            }, {
+               "name" : "My Life",
+               "info" : "with \"Ode to Joy\" intro"
+            }, {
+               "name" : "The Downeaster \"Alexa\""
+            }, {
+               "name" : "Jingle Bells",
+               "cover" : {
+                  "mbid" : "ff98b821-de0d-4a0e-9002-507bf323a97d",
+                  "name" : "James Lord Pierpont",
+                  "sortName" : "Pierpont, James Lord",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/james-lord-pierpont-3bd2986c.html"
+               },
+               "info" : "joined on stage by his two youngest daughters"
+            }, {
+               "name" : "Vienna"
+            }, {
+               "name" : "Deck the Halls",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "snippet"
+            }, {
+               "name" : "Zanzibar"
+            }, {
+               "name" : "Rudolph the Red-Nosed Reindeer",
+               "cover" : {
+                  "mbid" : "675b7627-6b5d-4a46-a728-785cb24a299e",
+                  "name" : "Gene Autry",
+                  "sortName" : "Autry, Gene",
+                  "disambiguation" : "“The Singing Cowboy”",
+                  "url" : "https://www.setlist.fm/setlists/gene-autry-7bd69a5c.html"
+               }
+            }, {
+               "name" : "Start Me Up",
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               },
+               "info" : "snippet"
+            }, {
+               "name" : "An Innocent Man"
+            }, {
+               "name" : "Barbara Ann",
+               "cover" : {
+                  "mbid" : "79efd6b5-9a82-48df-968b-9b417d355583",
+                  "name" : "The Regents",
+                  "sortName" : "Regents, The",
+                  "disambiguation" : "Doo-wop group who originally performed \"Barbara-Ann\"",
+                  "url" : "https://www.setlist.fm/setlists/the-regents-53d6a339.html"
+               }
+            }, {
+               "name" : "The Lion Sleeps Tonight",
+               "cover" : {
+                  "mbid" : "4192986f-8012-4362-88ec-873638cab1e7",
+                  "name" : "Solomon Linda’s Original Evening Birds",
+                  "sortName" : "Linda, Solomon’s Original Evening Birds",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/solomon-lindas-original-evening-birds-3bd448a0.html"
+               }
+            }, {
+               "name" : "The Longest Time"
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "Sleigh Ride",
+               "cover" : {
+                  "mbid" : "17b2426a-0e0e-4d5e-b92e-82f40a391c8c",
+                  "name" : "Leroy Anderson & His Pops Orchestra",
+                  "sortName" : "Anderson, Leroy & His Pops Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/leroy-anderson-and-his-pops-orchestra-3bd0142c.html"
+               },
+               "info" : "snippet"
+            }, {
+               "name" : "She's Always a Woman",
+               "info" : "with Syd Ruggles on flute"
+            }, {
+               "name" : "Angels We Have Heard on High",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "snippet"
+            }, {
+               "name" : "Don't Ask Me Why"
+            }, {
+               "name" : "New York State of Mind"
+            }, {
+               "name" : "Movin' Out (Anthony's Song)"
+            }, {
+               "name" : "Pump It Up",
+               "cover" : {
+                  "mbid" : "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
+                  "name" : "Elvis Costello & The Attractions",
+                  "sortName" : "Costello, Elvis & The Attractions",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elvis-costello-and-the-attractions-43d6b78b.html"
+               },
+               "info" : "live debut by BJ",
+               "with" : {
+                  "mbid" : "8a338e06-d182-46f2-bd16-30a09bc840ba",
+                  "name" : "Elvis Costello",
+                  "sortName" : "Costello, Elvis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elvis-costello-43d6b78f.html"
+               }
+            }, {
+               "name" : "Allentown",
+               "with" : {
+                  "mbid" : "8a338e06-d182-46f2-bd16-30a09bc840ba",
+                  "name" : "Elvis Costello",
+                  "sortName" : "Costello, Elvis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elvis-costello-43d6b78f.html"
+               }
+            }, {
+               "name" : "Hark! The Herald Angels Sing",
+               "cover" : {
+                  "mbid" : "0e85eb79-1c05-44ba-827c-7b259a3d941a",
+                  "name" : "Felix Mendelssohn",
+                  "sortName" : "Mendelssohn, Felix",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/felix-mendelssohn-63d6eaeb.html"
+               },
+               "info" : "snippet"
+            }, {
+               "name" : "Only the Good Die Young"
+            }, {
+               "name" : "Sometimes a Fantasy"
+            }, {
+               "name" : "The River of Dreams",
+               "info" : "with \"River Deep Mountain High\" interlude sung by Crystal Taliefero"
+            }, {
+               "name" : "Nessun dorma",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               },
+               "info" : "sung by Mike DelGuidice"
+            }, {
+               "name" : "Scenes From an Italian Restaurant"
+            }, {
+               "name" : "Piano Man"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "We Didn't Start the Fire"
+            }, {
+               "name" : "Uptown Girl"
+            }, {
+               "name" : "It's Still Rock and Roll to Me"
+            }, {
+               "name" : "Big Shot"
+            }, {
+               "name" : "You May Be Right",
+               "info" : "with \"Rock and Roll\" by Led Zeppelin interlude"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/billy-joel/2023/madison-square-garden-new-york-ny-73ae5631.html"
+   }, {
+      "id" : "33afa031",
+      "versionId" : "g2b8a1066",
+      "eventDate" : "17-12-2023",
+      "lastUpdated" : "2023-12-23T05:24:17.692+0000",
+      "artist" : {
+         "mbid" : "fbd30319-269f-408a-9999-7a303c1bc69f",
+         "name" : "DJ Suss One",
+         "sortName" : "Suss One, DJ",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-suss-one-53ddffbd.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-suss-one/2023/madison-square-garden-new-york-ny-33afa031.html"
+   }, {
+      "id" : "13ae6565",
+      "versionId" : "g4b1153c2",
+      "eventDate" : "17-12-2023",
+      "lastUpdated" : "2026-04-26T00:01:38.924+0000",
+      "artist" : {
+         "mbid" : "494e8d09-f85b-4543-892f-a5096aed1cd4",
+         "name" : "Mariah Carey",
+         "sortName" : "Carey, Mariah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mariah-carey-2bd6bc4a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Merry Christmas One And All!"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Overture",
+               "tape" : true,
+               "info" : "With elements from \"All I Want for Christmas Is You\""
+            }, {
+               "name" : "Dance of the Sugar Plum Fairy",
+               "cover" : {
+                  "mbid" : "9ddd7abc-9e1b-471d-8031-583bc6bc8be9",
+                  "name" : "Pyotr Ilyich Tchaikovsky",
+                  "sortName" : "Tchaikovsky, Pyotr Ilyich",
+                  "disambiguation" : "Russian romantic composer",
+                  "url" : "https://www.setlist.fm/setlists/pyotr-ilyich-tchaikovsky-13d7c165.html"
+               },
+               "info" : "Magical Christmas Mix"
+            }, {
+               "name" : "Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)"
+            }, {
+               "name" : "Santa Claus Is Comin' to Town",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "bf98f37f-766c-4c11-99a5-8772f68a2ae6",
+                  "name" : "Harry Reser and His Orchestra",
+                  "sortName" : "Harry Reser and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harry-reser-and-his-orchestra-1bdfc11c.html"
+               },
+               "info" : "Intro"
+            }, {
+               "name" : "Oh Santa!"
+            }, {
+               "name" : "Christmas (Baby, Please Come Home)",
+               "cover" : {
+                  "mbid" : "af953ba2-283b-41ef-93bc-b4cfc5feeebc",
+                  "name" : "Darlene Love",
+                  "sortName" : "Love, Darlene",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/darlene-love-bd69d4e.html"
+               }
+            }, {
+               "name" : "When Christmas Comes"
+            }, {
+               "name" : "Sleigh Ride",
+               "cover" : {
+                  "mbid" : "17b2426a-0e0e-4d5e-b92e-82f40a391c8c",
+                  "name" : "Leroy Anderson & His Pops Orchestra",
+                  "sortName" : "Anderson, Leroy & His Pops Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/leroy-anderson-and-his-pops-orchestra-3bd0142c.html"
+               }
+            }, {
+               "name" : "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+               "cover" : {
+                  "mbid" : "675b7627-6b5d-4a46-a728-785cb24a299e",
+                  "name" : "Gene Autry",
+                  "sortName" : "Autry, Gene",
+                  "disambiguation" : "“The Singing Cowboy”",
+                  "url" : "https://www.setlist.fm/setlists/gene-autry-7bd69a5c.html"
+               },
+               "info" : "With Moroccan Cannon, with elements from \"Give It to Me Baby\" by Rick James"
+            }, {
+               "name" : "Christmas Wrapping",
+               "cover" : {
+                  "mbid" : "8acd46ce-3c10-402e-9ede-676b31c837cb",
+                  "name" : "The Waitresses",
+                  "sortName" : "Waitresses, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-waitresses-13d64595.html"
+               },
+               "info" : "Performed by Monroe Cannon"
+            }, {
+               "name" : "Fall in Love at Christmas",
+               "tape" : true,
+               "info" : "Choir interlude"
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "Jesus Born on This Day",
+               "info" : "With Monroe Cannon"
+            }, {
+               "name" : "One Child",
+               "info" : "Followed by band introductions"
+            }, {
+               "name" : "Joy to the World",
+               "cover" : {
+                  "mbid" : "3a8a190c-24ef-45df-abe8-735ceeb38855",
+                  "name" : "Isaac Watts",
+                  "sortName" : "Watts, Isaac",
+                  "disambiguation" : "hymn writer",
+                  "url" : "https://www.setlist.fm/setlists/isaac-watts-3bd0f054.html"
+               },
+               "info" : "With elements from the \"Celebration Mix\""
+            }, {
+               "name" : "Christmas Time Is in the Air Again"
+            }, {
+               "name" : "God Rest Ye Merry Gentlemen",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "Piano solo, performed by Daniel Moore II"
+            }, {
+               "name" : "My All",
+               "tape" : true,
+               "info" : "New gospel remix with Christmas lyrics, performed by the choir and background singers"
+            }, {
+               "name" : "I Know What You Want",
+               "cover" : {
+                  "mbid" : "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+                  "name" : "Busta Rhymes",
+                  "sortName" : "Busta Rhymes",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/busta-rhymes-1bd6bd9c.html"
+               },
+               "info" : "Also with Spliff Star",
+               "with" : {
+                  "mbid" : "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+                  "name" : "Busta Rhymes",
+                  "sortName" : "Busta Rhymes",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/busta-rhymes-1bd6bd9c.html"
+               }
+            }, {
+               "name" : "Always Be My Baby / Dreamlover / Honey / Heartbreaker / A No No / It's a Wrap / Emotions / Make It Happen / Fly Like a Bird",
+               "info" : "2023 MC Hit List"
+            }, {
+               "name" : "We Belong Together",
+               "info" : "With elements from \"Mimi's Late Night Valentine's Mix\""
+            }, {
+               "name" : "Hero"
+            }, {
+               "name" : "Hero (Reprise)",
+               "tape" : true
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Santa Claus Is Comin' to Town",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "bf98f37f-766c-4c11-99a5-8772f68a2ae6",
+                  "name" : "Harry Reser and His Orchestra",
+                  "sortName" : "Harry Reser and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harry-reser-and-his-orchestra-1bdfc11c.html"
+               },
+               "info" : "Anniversary Mix, video interlude"
+            }, {
+               "name" : "All I Want for Christmas Is You"
+            }, {
+               "name" : "All I Want for Christmas Is You (Reprise)",
+               "tape" : true,
+               "info" : "Outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mariah-carey/2023/madison-square-garden-new-york-ny-13ae6565.html"
+   }, {
+      "id" : "53ae5f5d",
+      "versionId" : "g6b7faa76",
+      "eventDate" : "14-12-2023",
+      "lastUpdated" : "2025-08-20T14:52:08.507+0000",
+      "artist" : {
+         "mbid" : "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+         "name" : "Andrea Bocelli",
+         "sortName" : "Bocelli, Andrea",
+         "disambiguation" : "tenor",
+         "url" : "https://www.setlist.fm/setlists/andrea-bocelli-6bd6329a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1",
+            "song" : [ {
+               "name" : "O Fortuna",
+               "cover" : {
+                  "mbid" : "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f",
+                  "name" : "Carl Orff",
+                  "sortName" : "Orff, Carl",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/carl-orff-7bd4ce90.html"
+               },
+               "info" : "orchestra and choir only"
+            }, {
+               "name" : "La donna è mobile",
+               "cover" : {
+                  "mbid" : "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+                  "name" : "Giuseppe Verdi",
+                  "sortName" : "Verdi, Giuseppe",
+                  "disambiguation" : "Italian opera composer",
+                  "url" : "https://www.setlist.fm/setlists/giuseppe-verdi-1bd66580.html"
+               }
+            }, {
+               "name" : "Di quella pira",
+               "cover" : {
+                  "mbid" : "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+                  "name" : "Giuseppe Verdi",
+                  "sortName" : "Verdi, Giuseppe",
+                  "disambiguation" : "Italian opera composer",
+                  "url" : "https://www.setlist.fm/setlists/giuseppe-verdi-1bd66580.html"
+               }
+            }, {
+               "name" : "Habanera (Carmen)",
+               "info" : "Isabel Leonard only",
+               "with" : {
+                  "mbid" : "9d4a73fd-1e96-4624-b478-cc669bf2c5c7",
+                  "name" : "Isabel Leonard",
+                  "sortName" : "Leonard, Isabel",
+                  "disambiguation" : "American operatic mezzo-soprano",
+                  "url" : "https://www.setlist.fm/setlists/isabel-leonard-43dd6f27.html"
+               }
+            }, {
+               "name" : "Pourquoi me réveiller",
+               "cover" : {
+                  "mbid" : "85d783d6-6795-4726-b817-9d83095ad7be",
+                  "name" : "Jules Massenet",
+                  "sortName" : "Massenet, Jules",
+                  "disambiguation" : "French Romantic composer",
+                  "url" : "https://www.setlist.fm/setlists/jules-massenet-53d62bad.html"
+               }
+            }, {
+               "name" : "N'achevez pas Helas",
+               "cover" : {
+                  "mbid" : "85d783d6-6795-4726-b817-9d83095ad7be",
+                  "name" : "Jules Massenet",
+                  "sortName" : "Massenet, Jules",
+                  "disambiguation" : "French Romantic composer",
+                  "url" : "https://www.setlist.fm/setlists/jules-massenet-53d62bad.html"
+               },
+               "with" : {
+                  "mbid" : "9d4a73fd-1e96-4624-b478-cc669bf2c5c7",
+                  "name" : "Isabel Leonard",
+                  "sortName" : "Leonard, Isabel",
+                  "disambiguation" : "American operatic mezzo-soprano",
+                  "url" : "https://www.setlist.fm/setlists/isabel-leonard-43dd6f27.html"
+               }
+            }, {
+               "name" : "Va, Tosca!-Te Deum",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               },
+               "info" : "Edward Parks only",
+               "with" : {
+                  "mbid" : "7c21de9a-f667-40c1-84c2-8e1bf866eab6",
+                  "name" : "Edward Parks",
+                  "sortName" : "Parks, Edward",
+                  "disambiguation" : "baritone",
+                  "url" : "https://www.setlist.fm/setlists/edward-parks-4bf0675e.html"
+               }
+            }, {
+               "name" : "Au fond du temple saint",
+               "cover" : {
+                  "mbid" : "9bd20e6a-b41d-4983-a5b6-c0ff849fa235",
+                  "name" : "Georges Bizet",
+                  "sortName" : "Bizet, Georges",
+                  "disambiguation" : "French composer",
+                  "url" : "https://www.setlist.fm/setlists/georges-bizet-73d6eaf1.html"
+               },
+               "with" : {
+                  "mbid" : "7c21de9a-f667-40c1-84c2-8e1bf866eab6",
+                  "name" : "Edward Parks",
+                  "sortName" : "Parks, Edward",
+                  "disambiguation" : "baritone",
+                  "url" : "https://www.setlist.fm/setlists/edward-parks-4bf0675e.html"
+               }
+            }, {
+               "name" : "Tace il labbro",
+               "cover" : {
+                  "mbid" : "8efca5f7-663e-4a2e-a2f0-9fd1e563a801",
+                  "name" : "Franz Lehár",
+                  "sortName" : "Lehár, Franz",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/franz-lehar-73d6ea49.html"
+               },
+               "with" : {
+                  "mbid" : "9d4a73fd-1e96-4624-b478-cc669bf2c5c7",
+                  "name" : "Isabel Leonard",
+                  "sortName" : "Leonard, Isabel",
+                  "disambiguation" : "American operatic mezzo-soprano",
+                  "url" : "https://www.setlist.fm/setlists/isabel-leonard-43dd6f27.html"
+               }
+            }, {
+               "name" : "Brindisi",
+               "cover" : {
+                  "mbid" : "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+                  "name" : "Giuseppe Verdi",
+                  "sortName" : "Verdi, Giuseppe",
+                  "disambiguation" : "Italian opera composer",
+                  "url" : "https://www.setlist.fm/setlists/giuseppe-verdi-1bd66580.html"
+               },
+               "with" : {
+                  "mbid" : "9d4a73fd-1e96-4624-b478-cc669bf2c5c7",
+                  "name" : "Isabel Leonard",
+                  "sortName" : "Leonard, Isabel",
+                  "disambiguation" : "American operatic mezzo-soprano",
+                  "url" : "https://www.setlist.fm/setlists/isabel-leonard-43dd6f27.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2",
+            "song" : [ {
+               "name" : "I Feel Pretty/ Maria/ Tonight/ America",
+               "info" : "West Side Story medley, orchestra only"
+            }, {
+               "name" : "Because",
+               "cover" : {
+                  "mbid" : "730b16aa-772a-42ca-8b7e-1e1c0c2bf5fb",
+                  "name" : "Guy d’Hardelot",
+                  "sortName" : "d’Hardelot, Guy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/guy-dhardelot-23d4f0ab.html"
+               }
+            }, {
+               "name" : "Funiculì, funiculà",
+               "cover" : {
+                  "mbid" : "ceba8d86-3b7e-40e4-b9f7-2e8fd52da74c",
+                  "name" : "Luigi Denza",
+                  "sortName" : "Denza, Luigi",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/luigi-denza-3bd4a844.html"
+               }
+            }, {
+               "name" : "Granada",
+               "cover" : {
+                  "mbid" : "8c8837b1-60cc-4bf4-b9bb-71ad2f757841",
+                  "name" : "Agustín Lara",
+                  "sortName" : "Lara, Agustín",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/agustin-lara-5bd72bcc.html"
+               }
+            }, {
+               "name" : "Silver Bells",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               },
+               "info" : "Virginia Bocelli only",
+               "with" : {
+                  "mbid" : "7fb94316-8772-4116-b410-39aef99e5e7b",
+                  "name" : "Virginia Bocelli",
+                  "sortName" : "Bocelli, Virginia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/virginia-bocelli-4bfdd72e.html"
+               }
+            }, {
+               "name" : "Let It Snow! Let It Snow! Let It Snow!",
+               "cover" : {
+                  "mbid" : "9591fd72-f700-49aa-9a91-cc39ccaf9f9e",
+                  "name" : "Vaughn Monroe and His Orchestra",
+                  "sortName" : "Monroe, Vaughn and Orchestra, His",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vaughn-monroe-and-his-orchestra-63d4ee03.html"
+               },
+               "with" : {
+                  "mbid" : "7fb94316-8772-4116-b410-39aef99e5e7b",
+                  "name" : "Virginia Bocelli",
+                  "sortName" : "Bocelli, Virginia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/virginia-bocelli-4bfdd72e.html"
+               }
+            }, {
+               "name" : "White Christmas",
+               "cover" : {
+                  "mbid" : "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                  "name" : "Irving Berlin",
+                  "sortName" : "Berlin, Irving",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/irving-berlin-3d6f95b.html"
+               }
+            }, {
+               "name" : "You Are So Beautiful",
+               "cover" : {
+                  "mbid" : "8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+                  "name" : "Billy Preston",
+                  "sortName" : "Preston, Billy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billy-preston-4bd69792.html"
+               },
+               "info" : "Zucchero only",
+               "with" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               }
+            }, {
+               "name" : "Everybody's Got to Learn Sometime",
+               "cover" : {
+                  "mbid" : "6f49184a-8757-48d7-9145-f773ea572188",
+                  "name" : "The Korgis",
+                  "sortName" : "Korgis, The",
+                  "disambiguation" : "British pop band",
+                  "url" : "https://www.setlist.fm/setlists/the-korgis-63d26e8b.html"
+               },
+               "info" : "Zucchero only",
+               "with" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               }
+            }, {
+               "name" : "Così celeste",
+               "cover" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               },
+               "with" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               }
+            }, {
+               "name" : "Miserere",
+               "cover" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               },
+               "with" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               }
+            }, {
+               "name" : "All by Myself",
+               "cover" : {
+                  "mbid" : "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+                  "name" : "Eric Carmen",
+                  "sortName" : "Carmen, Eric",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eric-carmen-7bd6be1c.html"
+               },
+               "info" : "Pia Toscano only",
+               "with" : {
+                  "mbid" : "ef9b5c7e-9d1f-4c45-8dfd-960ce2083da7",
+                  "name" : "Pia Toscano",
+                  "sortName" : "Toscano, Pia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pia-toscano-33d278ad.html"
+               }
+            }, {
+               "name" : "The Prayer",
+               "cover" : {
+                  "mbid" : "847e8a0c-cc20-4213-9e16-975515c2a926",
+                  "name" : "Céline Dion",
+                  "sortName" : "Dion, Céline",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/celine-dion-3d6b9ff.html"
+               },
+               "with" : {
+                  "mbid" : "ef9b5c7e-9d1f-4c45-8dfd-960ce2083da7",
+                  "name" : "Pia Toscano",
+                  "sortName" : "Toscano, Pia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pia-toscano-33d278ad.html"
+               }
+            }, {
+               "name" : "Canto della terra",
+               "with" : {
+                  "mbid" : "ef9b5c7e-9d1f-4c45-8dfd-960ce2083da7",
+                  "name" : "Pia Toscano",
+                  "sortName" : "Toscano, Pia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pia-toscano-33d278ad.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Fall on Me",
+               "with" : {
+                  "mbid" : "ace956cd-03c0-4c5b-b3c4-4f7978287280",
+                  "name" : "Matteo Bocelli",
+                  "sortName" : "Bocelli, Matteo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/matteo-bocelli-bc9d94a.html"
+               }
+            }, {
+               "name" : "Piove",
+               "cover" : {
+                  "mbid" : "ace956cd-03c0-4c5b-b3c4-4f7978287280",
+                  "name" : "Matteo Bocelli",
+                  "sortName" : "Bocelli, Matteo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/matteo-bocelli-bc9d94a.html"
+               },
+               "info" : "Matteo Bocelli and his band only",
+               "with" : {
+                  "mbid" : "ace956cd-03c0-4c5b-b3c4-4f7978287280",
+                  "name" : "Matteo Bocelli",
+                  "sortName" : "Bocelli, Matteo",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/matteo-bocelli-bc9d94a.html"
+               }
+            }, {
+               "name" : "Time to Say Goodbye (Con te partirò)",
+               "with" : {
+                  "mbid" : "9d4a73fd-1e96-4624-b478-cc669bf2c5c7",
+                  "name" : "Isabel Leonard",
+                  "sortName" : "Leonard, Isabel",
+                  "disambiguation" : "American operatic mezzo-soprano",
+                  "url" : "https://www.setlist.fm/setlists/isabel-leonard-43dd6f27.html"
+               }
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Nessun dorma",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               }
+            } ]
+         }, {
+            "encore" : 3,
+            "song" : [ {
+               "name" : "Theme From New York, New York",
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/andrea-bocelli/2023/madison-square-garden-new-york-ny-53ae5f5d.html"
+   }, {
+      "id" : "5bae775c",
+      "versionId" : "g1b8a2150",
+      "eventDate" : "13-12-2023",
+      "lastUpdated" : "2023-12-22T05:22:36.448+0000",
+      "artist" : {
+         "mbid" : "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+         "name" : "Andrea Bocelli",
+         "sortName" : "Bocelli, Andrea",
+         "disambiguation" : "tenor",
+         "url" : "https://www.setlist.fm/setlists/andrea-bocelli-6bd6329a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "La donna è mobile",
+               "cover" : {
+                  "mbid" : "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+                  "name" : "Giuseppe Verdi",
+                  "sortName" : "Verdi, Giuseppe",
+                  "disambiguation" : "Italian opera composer",
+                  "url" : "https://www.setlist.fm/setlists/giuseppe-verdi-1bd66580.html"
+               }
+            }, {
+               "name" : "Silver Bells",
+               "cover" : {
+                  "mbid" : "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+                  "name" : "Bing Crosby",
+                  "sortName" : "Crosby, Bing",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bing-crosby-73d69a51.html"
+               },
+               "info" : "Virginia Bocelli only",
+               "with" : {
+                  "mbid" : "7fb94316-8772-4116-b410-39aef99e5e7b",
+                  "name" : "Virginia Bocelli",
+                  "sortName" : "Bocelli, Virginia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/virginia-bocelli-4bfdd72e.html"
+               }
+            }, {
+               "name" : "Let It Snow! Let It Snow! Let It Snow!",
+               "cover" : {
+                  "mbid" : "9591fd72-f700-49aa-9a91-cc39ccaf9f9e",
+                  "name" : "Vaughn Monroe and His Orchestra",
+                  "sortName" : "Monroe, Vaughn and Orchestra, His",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/vaughn-monroe-and-his-orchestra-63d4ee03.html"
+               },
+               "with" : {
+                  "mbid" : "7fb94316-8772-4116-b410-39aef99e5e7b",
+                  "name" : "Virginia Bocelli",
+                  "sortName" : "Bocelli, Virginia",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/virginia-bocelli-4bfdd72e.html"
+               }
+            }, {
+               "name" : "You Are So Beautiful",
+               "cover" : {
+                  "mbid" : "8a7cf497-dc5c-4523-932d-3fcbc9a69d38",
+                  "name" : "Billy Preston",
+                  "sortName" : "Preston, Billy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billy-preston-4bd69792.html"
+               },
+               "info" : "Zucchero only",
+               "with" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               }
+            }, {
+               "name" : "All by Myself",
+               "cover" : {
+                  "mbid" : "4e6daf86-a5c9-42ea-9bd2-9482a71c38d4",
+                  "name" : "Eric Carmen",
+                  "sortName" : "Carmen, Eric",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eric-carmen-7bd6be1c.html"
+               }
+            }, {
+               "name" : "O soave fanciulla",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               }
+            }, {
+               "name" : "She's My Baby"
+            }, {
+               "name" : "Funiculì, funiculà",
+               "cover" : {
+                  "mbid" : "ceba8d86-3b7e-40e4-b9f7-2e8fd52da74c",
+                  "name" : "Luigi Denza",
+                  "sortName" : "Denza, Luigi",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/luigi-denza-3bd4a844.html"
+               }
+            }, {
+               "name" : "Miserere",
+               "cover" : {
+                  "mbid" : "00ed154e-8679-42f0-8f42-e59bd7e185af",
+                  "name" : "Zucchero",
+                  "sortName" : "Zucchero",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/zucchero-63d62e97.html"
+               }
+            }, {
+               "name" : "Theme From New York, New York",
+               "cover" : {
+                  "mbid" : "3916e074-5c71-493a-8815-a78fc7d26ec2",
+                  "name" : "John Kander",
+                  "sortName" : "Kander, John",
+                  "disambiguation" : "composer",
+                  "url" : "https://www.setlist.fm/setlists/john-kander-3bd718e8.html"
+               }
+            }, {
+               "name" : "West Side Story Medley: I Feel Pretty/ Maria/ Tonight/ America"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Con te partirò"
+            }, {
+               "name" : "Nessun dorma",
+               "cover" : {
+                  "mbid" : "a693df4a-8762-4a45-b7fd-6695b558385e",
+                  "name" : "Giacomo Puccini",
+                  "sortName" : "Puccini, Giacomo",
+                  "disambiguation" : "Italian composer",
+                  "url" : "https://www.setlist.fm/setlists/giacomo-puccini-2bd4f0b2.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/andrea-bocelli/2023/madison-square-garden-new-york-ny-5bae775c.html"
+   }, {
+      "id" : "bae313e",
+      "versionId" : "g431153c7",
+      "eventDate" : "09-12-2023",
+      "lastUpdated" : "2026-04-26T00:01:39.053+0000",
+      "artist" : {
+         "mbid" : "494e8d09-f85b-4543-892f-a5096aed1cd4",
+         "name" : "Mariah Carey",
+         "sortName" : "Carey, Mariah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mariah-carey-2bd6bc4a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "tour" : {
+         "name" : "Merry Christmas One And All!"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Overture",
+               "tape" : true,
+               "info" : "With elements from \"All I Want for Christmas Is You\""
+            }, {
+               "name" : "Dance of the Sugar Plum Fairy",
+               "cover" : {
+                  "mbid" : "9ddd7abc-9e1b-471d-8031-583bc6bc8be9",
+                  "name" : "Pyotr Ilyich Tchaikovsky",
+                  "sortName" : "Tchaikovsky, Pyotr Ilyich",
+                  "disambiguation" : "Russian romantic composer",
+                  "url" : "https://www.setlist.fm/setlists/pyotr-ilyich-tchaikovsky-13d7c165.html"
+               },
+               "info" : "Magical Christmas Mix"
+            }, {
+               "name" : "Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)"
+            }, {
+               "name" : "Christmas (Baby, Please Come Home)",
+               "cover" : {
+                  "mbid" : "af953ba2-283b-41ef-93bc-b4cfc5feeebc",
+                  "name" : "Darlene Love",
+                  "sortName" : "Love, Darlene",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/darlene-love-bd69d4e.html"
+               }
+            }, {
+               "name" : "When Christmas Comes"
+            }, {
+               "name" : "Sleigh Ride",
+               "cover" : {
+                  "mbid" : "17b2426a-0e0e-4d5e-b92e-82f40a391c8c",
+                  "name" : "Leroy Anderson & His Pops Orchestra",
+                  "sortName" : "Anderson, Leroy & His Pops Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/leroy-anderson-and-his-pops-orchestra-3bd0142c.html"
+               }
+            }, {
+               "name" : "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+               "cover" : {
+                  "mbid" : "675b7627-6b5d-4a46-a728-785cb24a299e",
+                  "name" : "Gene Autry",
+                  "sortName" : "Autry, Gene",
+                  "disambiguation" : "“The Singing Cowboy”",
+                  "url" : "https://www.setlist.fm/setlists/gene-autry-7bd69a5c.html"
+               },
+               "info" : "also with Moroccan Cannon, with elements from \"Give It to Me Baby\" by Rick James",
+               "with" : {
+                  "mbid" : "fb75bc76-a50b-4d3a-b060-63092a4c6bbf",
+                  "name" : "Jermaine Dupri",
+                  "sortName" : "Dupri, Jermaine",
+                  "disambiguation" : "American rapper, record producer, actor & DJ",
+                  "url" : "https://www.setlist.fm/setlists/jermaine-dupri-7bd6e25c.html"
+               }
+            }, {
+               "name" : "Christmas Wrapping",
+               "cover" : {
+                  "mbid" : "8acd46ce-3c10-402e-9ede-676b31c837cb",
+                  "name" : "The Waitresses",
+                  "sortName" : "Waitresses, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-waitresses-13d64595.html"
+               },
+               "info" : "Performed by Monroe Cannon"
+            }, {
+               "name" : "Fall in Love at Christmas",
+               "tape" : true,
+               "info" : "Choir interlude"
+            }, {
+               "name" : "Silent Night",
+               "cover" : {
+                  "mbid" : "34b27021-2696-44a1-a863-09d25bc845dd",
+                  "name" : "John Freeman Young",
+                  "sortName" : "Young, John Freeman",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-freeman-young-43d2cf3b.html"
+               }
+            }, {
+               "name" : "Jesus Born on This Day",
+               "info" : "With Monroe Cannon"
+            }, {
+               "name" : "One Child",
+               "info" : "Followed by band introductions"
+            }, {
+               "name" : "Joy to the World",
+               "cover" : {
+                  "mbid" : "3a8a190c-24ef-45df-abe8-735ceeb38855",
+                  "name" : "Isaac Watts",
+                  "sortName" : "Watts, Isaac",
+                  "disambiguation" : "hymn writer",
+                  "url" : "https://www.setlist.fm/setlists/isaac-watts-3bd0f054.html"
+               },
+               "info" : "With elements from the \"Celebration Mix\""
+            }, {
+               "name" : "Christmas Time Is in the Air Again"
+            }, {
+               "name" : "God Rest Ye Merry Gentlemen",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "Piano solo"
+            }, {
+               "name" : "My All",
+               "tape" : true,
+               "info" : "New gospel remix with Christmas lyrics, performed by the choir and background singers"
+            }, {
+               "name" : "Santa Claus Is Comin' to Town",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "bf98f37f-766c-4c11-99a5-8772f68a2ae6",
+                  "name" : "Harry Reser and His Orchestra",
+                  "sortName" : "Harry Reser and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harry-reser-and-his-orchestra-1bdfc11c.html"
+               },
+               "info" : "Intro"
+            }, {
+               "name" : "Oh Santa!",
+               "info" : "Also with Jennifer Hudson",
+               "with" : {
+                  "mbid" : "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+                  "name" : "Ariana Grande",
+                  "sortName" : "Grande, Ariana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ariana-grande-33d0d809.html"
+               }
+            }, {
+               "name" : "Always Be My Baby / Dreamlover / Honey / Heartbreaker / A No No / It's a Wrap / Emotions / Make It Happen / Fly Like a Bird",
+               "info" : "2023 MC Hit List"
+            }, {
+               "name" : "We Belong Together",
+               "info" : "with elements from \"Mimi's Late Night Valentine's Mix\""
+            }, {
+               "name" : "Hero"
+            }, {
+               "name" : "Hero (Reprise)",
+               "tape" : true
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Santa Claus Is Comin' to Town",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "bf98f37f-766c-4c11-99a5-8772f68a2ae6",
+                  "name" : "Harry Reser and His Orchestra",
+                  "sortName" : "Harry Reser and His Orchestra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harry-reser-and-his-orchestra-1bdfc11c.html"
+               },
+               "info" : "Anniversary Mix, video interlude"
+            }, {
+               "name" : "All I Want for Christmas Is You"
+            }, {
+               "name" : "All I Want for Christmas Is You (Reprise)",
+               "tape" : true,
+               "info" : "Outro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mariah-carey/2023/madison-square-garden-new-york-ny-bae313e.html"
+   }, {
+      "id" : "4349d7cb",
+      "versionId" : "gb01b99e",
+      "eventDate" : "09-12-2023",
+      "lastUpdated" : "2026-08-16T01:45:02.224+0000",
+      "artist" : {
+         "mbid" : "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+         "name" : "Ariana Grande",
+         "sortName" : "Grande, Ariana",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ariana-grande-33d0d809.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Oh Santa!",
+               "cover" : {
+                  "mbid" : "494e8d09-f85b-4543-892f-a5096aed1cd4",
+                  "name" : "Mariah Carey",
+                  "sortName" : "Carey, Mariah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mariah-carey-2bd6bc4a.html"
+               },
+               "info" : "With Mariah Carey and Jennifer Hudson"
+            } ]
+         } ]
+      },
+      "info" : "suprise guest",
+      "url" : "https://www.setlist.fm/setlist/ariana-grande/2023/madison-square-garden-new-york-ny-4349d7cb.html"
+   }, {
+      "id" : "bae3d92",
+      "versionId" : "g1b8d8904",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2023-12-09T04:55:36.311+0000",
+      "artist" : {
+         "mbid" : "272989c8-5535-492d-a25c-9f58803e027f",
+         "name" : "SZA",
+         "sortName" : "SZA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sza-73dd92f9.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love Galore"
+            }, {
+               "name" : "Broken Clocks"
+            }, {
+               "name" : "Shirt"
+            }, {
+               "name" : "Kiss Me More",
+               "cover" : {
+                  "mbid" : "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+                  "name" : "Doja Cat",
+                  "sortName" : "Doja Cat",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/doja-cat-6bd9c67a.html"
+               }
+            }, {
+               "name" : "Rich Baby Daddy",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Snooze"
+            }, {
+               "name" : "I Hate U"
+            }, {
+               "name" : "Kill Bill"
+            }, {
+               "name" : "Good Days"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sza/2023/madison-square-garden-new-york-ny-bae3d92.html"
+   }, {
+      "id" : "bae3d8e",
+      "versionId" : "g738d966d",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2023-12-09T00:21:34.433+0000",
+      "artist" : {
+         "mbid" : "9f75277c-b283-4846-ac8c-f932255cd0ac",
+         "name" : "Doechii",
+         "sortName" : "Doechii",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/doechii-7bf3f24c.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Yucky Blucky Fruitcake"
+            }, {
+               "name" : "Bitch I'm Nice"
+            }, {
+               "name" : "Crazy"
+            }, {
+               "name" : "Xtasy",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+                  "name" : "Ravyn Lenae",
+                  "sortName" : "Lenae, Ravyn",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ravyn-lenae-53c41fd5.html"
+               }
+            }, {
+               "name" : "Persuasive"
+            }, {
+               "name" : "What It Is"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/doechii/2023/madison-square-garden-new-york-ny-bae3d8e.html"
+   }, {
+      "id" : "bae3d82",
+      "versionId" : "g73b1629d",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2024-04-04T19:41:00.929+0000",
+      "artist" : {
+         "mbid" : "79c67eb5-3851-4b28-bfe0-3adfcd6f58d7",
+         "name" : "Pentatonix",
+         "sortName" : "Pentatonix",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pentatonix-33d344a5.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kiss From a Rose",
+               "cover" : {
+                  "mbid" : "f053ae01-dae6-4aae-9883-e8c279fdbef4",
+                  "name" : "Seal",
+                  "sortName" : "Seal",
+                  "disambiguation" : "English‐born singer and songwriter",
+                  "url" : "https://www.setlist.fm/setlists/seal-13d6bd9d.html"
+               }
+            }, {
+               "name" : "It's the Most Wonderful Time of the Year",
+               "cover" : {
+                  "mbid" : "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+                  "name" : "Andy Williams",
+                  "sortName" : "Williams, Andy",
+                  "disambiguation" : "US pop/jazz vocalist",
+                  "url" : "https://www.setlist.fm/setlists/andy-williams-3d6b923.html"
+               }
+            }, {
+               "name" : "Please Santa Please"
+            }, {
+               "name" : "Hallelujah",
+               "cover" : {
+                  "mbid" : "65314b12-0e08-43fa-ba33-baaa7b874c15",
+                  "name" : "Leonard Cohen",
+                  "sortName" : "Cohen, Leonard",
+                  "disambiguation" : "Canadian singer‐songwriter and poet",
+                  "url" : "https://www.setlist.fm/setlists/leonard-cohen-bd6d12a.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pentatonix/2023/madison-square-garden-new-york-ny-bae3d82.html"
+   }, {
+      "id" : "3ae3d8f",
+      "versionId" : "gb1b91be",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2026-06-04T13:39:10.262+0000",
+      "artist" : {
+         "mbid" : "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+         "name" : "Sabrina Carpenter",
+         "sortName" : "Carpenter, Sabrina",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sabrina-carpenter-4bdd3b6a.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Feather"
+            }, {
+               "name" : "is it new years yet?"
+            }, {
+               "name" : "because i liked a boy"
+            }, {
+               "name" : "santa doesn't know you like i do"
+            }, {
+               "name" : "Nonsense"
+            }, {
+               "name" : "A Nonsense Christmas"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sabrina-carpenter/2023/madison-square-garden-new-york-ny-3ae3d8f.html"
+   }, {
+      "id" : "2bae6c72",
+      "versionId" : "g2b8d687e",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2023-12-14T05:32:21.468+0000",
+      "artist" : {
+         "mbid" : "61a48dab-a214-4760-94a7-28267a2725a9",
+         "name" : "Paul Russell",
+         "sortName" : "Russell, Paul",
+         "disambiguation" : "LA based rapper and singer",
+         "url" : "https://www.setlist.fm/setlists/paul-russell-53fccf15.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lil Boo Thang"
+            } ]
+         } ]
+      },
+      "info" : "surprise set, not in the original lineup",
+      "url" : "https://www.setlist.fm/setlist/paul-russell/2023/madison-square-garden-new-york-ny-2bae6c72.html"
+   }, {
+      "id" : "2bae3c7e",
+      "versionId" : "gb8d8d5e",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2023-12-09T01:50:03.601+0000",
+      "artist" : {
+         "mbid" : "bfcc6d75-a6a5-4bc6-8282-47aec8531818",
+         "name" : "Cher",
+         "sortName" : "Cher",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cher-73d6bef1.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "DJ Play a Christmas Song"
+            }, {
+               "name" : "Believe"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cher/2023/madison-square-garden-new-york-ny-2bae3c7e.html"
+   }, {
+      "id" : "2bae3c7a",
+      "versionId" : "g3b0014d0",
+      "eventDate" : "08-12-2023",
+      "lastUpdated" : "2026-08-13T10:45:01.572+0000",
+      "artist" : {
+         "mbid" : "94785e0f-81be-4360-a9e1-a00df5dc8bc6",
+         "name" : "Big Time Rush",
+         "sortName" : "Big Time Rush",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/big-time-rush-73d2a609.html"
+      },
+      "venue" : {
+         "id" : "23d63cc7",
+         "name" : "Madison Square Garden",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/madison-square-garden-new-york-ny-usa-23d63cc7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Windows Down"
+            }, {
+               "name" : "Music Sounds Better With U"
+            }, {
+               "name" : "Beautiful Christmas",
+               "info" : "First time live since 2011"
+            }, {
+               "name" : "Weekends"
+            }, {
+               "name" : "Boyfriend"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/big-time-rush/2023/madison-square-garden-new-york-ny-2bae3c7a.html"
+   } ]
+}

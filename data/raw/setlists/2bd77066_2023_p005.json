@@ -1,0 +1,913 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 112,
+   "setlist" : [ {
+      "id" : "43a76787",
+      "versionId" : "g5b9f9f64",
+      "eventDate" : "14-07-2023",
+      "lastUpdated" : "2023-07-15T06:29:30.891+0000",
+      "artist" : {
+         "mbid" : "b8fe4acb-c28e-44be-aff9-ebf572f85d47",
+         "name" : "SVDDEN DEATH",
+         "sortName" : "SVDDEN DEATH",
+         "disambiguation" : "DJ and producer",
+         "url" : "https://www.setlist.fm/setlists/svdden-death-6bf6d29a.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/svdden-death/2023/barclays-center-brooklyn-ny-43a76787.html"
+   }, {
+      "id" : "3ba70024",
+      "versionId" : "g539f9f35",
+      "eventDate" : "14-07-2023",
+      "lastUpdated" : "2023-07-15T06:39:05.416+0000",
+      "artist" : {
+         "mbid" : "5f43abf6-92a5-468a-a633-b73f94627972",
+         "name" : "ILLENIUM",
+         "sortName" : "ILLENIUM",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/illenium-73c62ebd.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Illenium Live 2023"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Feel Something",
+               "cover" : {
+                  "mbid" : "9ad0e1b6-9d3a-4072-add1-384b46c3fd18",
+                  "name" : "ILLENIUM, Excision & I Prevail",
+                  "sortName" : "ILLENIUM, Excision & I Prevail",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/illenium-excision-and-i-prevail-3bf4acc0.html"
+               }
+            }, {
+               "name" : "Gold (Stupid Love)",
+               "cover" : {
+                  "mbid" : "8efea157-ac8f-43b6-a376-2ffdd8dd28f0",
+                  "name" : "Excision & Illenium feat. Shallows",
+                  "sortName" : "Excision & ILLENIUM feat. Shallows",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/excision-and-illenium-feat-shallows-2bc85402.html"
+               }
+            }, {
+               "name" : "Starfall"
+            }, {
+               "name" : "Without Me",
+               "cover" : {
+                  "mbid" : "3377f3bb-60fc-4403-aea9-7e800612e060",
+                  "name" : "Halsey",
+                  "sortName" : "Halsey",
+                  "disambiguation" : "US singer/songwriter Ashley Frangipane",
+                  "url" : "https://www.setlist.fm/setlists/halsey-1bd961dc.html"
+               },
+               "with" : {
+                  "mbid" : "a0b7d4d8-f54a-4c12-9616-46b0adb61a63",
+                  "name" : "Annika Wells",
+                  "sortName" : "Wells, Annika",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/annika-wells-73cd9e45.html"
+               }
+            }, {
+               "name" : "Good Things Fall Apart"
+            }, {
+               "name" : "Worst Day"
+            }, {
+               "name" : "Shivering"
+            }, {
+               "name" : "Anti‐Hero",
+               "cover" : {
+                  "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+                  "name" : "Taylor Swift",
+                  "sortName" : "Swift, Taylor",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+               }
+            }, {
+               "name" : "Eyes Wide Shut"
+            }, {
+               "name" : "Other Side",
+               "with" : {
+                  "mbid" : "a0b7d4d8-f54a-4c12-9616-46b0adb61a63",
+                  "name" : "Annika Wells",
+                  "sortName" : "Wells, Annika",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/annika-wells-73cd9e45.html"
+               }
+            }, {
+               "name" : "All That Really Matters"
+            }, {
+               "name" : "Story Of My Life"
+            }, {
+               "name" : "Takeaway",
+               "cover" : {
+                  "mbid" : "cafca3ad-9b8a-434d-8e04-b4f0bda45a44",
+                  "name" : "The Chainsmokers & Illenium ft. Lennon Stella",
+                  "sortName" : "Chainsmokers, The & ILLENIUM ft. Stella, Lennon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-chainsmokers-and-illenium-ft-lennon-stella-5bf647a0.html"
+               }
+            }, {
+               "name" : "Feel Something",
+               "cover" : {
+                  "mbid" : "9ad0e1b6-9d3a-4072-add1-384b46c3fd18",
+                  "name" : "ILLENIUM, Excision & I Prevail",
+                  "sortName" : "ILLENIUM, Excision & I Prevail",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/illenium-excision-and-i-prevail-3bf4acc0.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/illenium/2023/barclays-center-brooklyn-ny-3ba70024.html"
+   }, {
+      "id" : "ba2ed3a",
+      "versionId" : "g6b99ea4e",
+      "eventDate" : "12-07-2023",
+      "lastUpdated" : "2023-09-05T01:26:37.792+0000",
+      "artist" : {
+         "mbid" : "6f73cf76-8550-459d-935a-d9b932b4266b",
+         "name" : "Libianca",
+         "sortName" : "Libianca",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/libianca-6bfa8e1a.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/libianca/2023/barclays-center-brooklyn-ny-ba2ed3a.html"
+   }, {
+      "id" : "4ba71f96",
+      "versionId" : "g5b9ad71c",
+      "eventDate" : "12-07-2023",
+      "lastUpdated" : "2023-08-13T08:33:48.044+0000",
+      "artist" : {
+         "mbid" : "8ef1df30-ae4f-4dbd-9351-1a32b208a01e",
+         "name" : "Alicia Keys",
+         "sortName" : "Keys, Alicia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/alicia-keys-43d6bf97.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "tour" : {
+         "name" : "Keys to the Summer"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Fallin'"
+            }, {
+               "name" : "New Day"
+            }, {
+               "name" : "Love Looks Better"
+            }, {
+               "name" : "Limitedless"
+            }, {
+               "name" : "Murder She Wrote",
+               "cover" : {
+                  "mbid" : "449f264b-1a94-4ef8-b601-2ffccbbedefa",
+                  "name" : "Chaka Demus & Pliers",
+                  "sortName" : "Chaka Demus & Pliers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/chaka-demus-and-pliers-bd78dfa.html"
+               }
+            }, {
+               "name" : "Ghetto Story",
+               "cover" : {
+                  "mbid" : "02f412ba-daac-430f-a934-6e897b611472",
+                  "name" : "Cham",
+                  "sortName" : "Cham",
+                  "disambiguation" : "Jamaican reggae/dancehall vocalist, aka Baby Cham",
+                  "url" : "https://www.setlist.fm/setlists/cham-23d614d7.html"
+               }
+            }, {
+               "name" : "You Don't Know My Name"
+            }, {
+               "name" : "Teenage Love Affair"
+            }, {
+               "name" : "Karma"
+            }, {
+               "name" : "Try Sleeping With a Broken Heart"
+            }, {
+               "name" : "Un-Thinkable (I'm Ready)"
+            }, {
+               "name" : "Underdog"
+            }, {
+               "name" : "Blended Family (What You Do for Love)"
+            }, {
+               "name" : "Holy War"
+            }, {
+               "name" : "Come for Me"
+            }, {
+               "name" : "My Boo",
+               "cover" : {
+                  "mbid" : "3414d446-735a-443c-931f-10634f57e5b9",
+                  "name" : "Usher",
+                  "sortName" : "Usher",
+                  "disambiguation" : "American R&B singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/usher-13d6bdbd.html"
+               }
+            }, {
+               "name" : "City of Gods (Part II)"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "How Come U Don't Call Me Anymore",
+               "cover" : {
+                  "mbid" : "070d193a-845c-479f-980e-bef15710653e",
+                  "name" : "Prince",
+                  "sortName" : "Prince",
+                  "disambiguation" : "“The Artist Formerly Known as…”",
+                  "url" : "https://www.setlist.fm/setlists/prince-13d6b9ed.html"
+               }
+            }, {
+               "name" : "A Woman's Worth"
+            }, {
+               "name" : "Superwoman"
+            }, {
+               "name" : "Good Job"
+            }, {
+               "name" : "Diary"
+            }, {
+               "name" : "Like You'll Never See Me Again"
+            }, {
+               "name" : "I Need You"
+            }, {
+               "name" : "The Gospel"
+            }, {
+               "name" : "Girl on Fire"
+            }, {
+               "name" : "Empire State of Mind (Part II) Broken Down",
+               "info" : "With Jay-Z version instrumental"
+            }, {
+               "name" : "Sweet Dreams (Are Made of This)",
+               "cover" : {
+                  "mbid" : "b4d32cff-f19e-455f-86c4-f347d824ca61",
+                  "name" : "Eurythmics",
+                  "sortName" : "Eurythmics",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eurythmics-7bd6be44.html"
+               }
+            }, {
+               "name" : "In Common",
+               "info" : "(Kaskade Remix)"
+            }, {
+               "name" : "No One"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "If I Ain't Got You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/alicia-keys/2023/barclays-center-brooklyn-ny-4ba71f96.html"
+   }, {
+      "id" : "7ba782a0",
+      "versionId" : "g3b91c4d4",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-30T16:24:22.310+0000",
+      "artist" : {
+         "mbid" : "9132d515-dc0e-4494-85ae-20f06eed14f9",
+         "name" : "112",
+         "sortName" : "112",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/112-3bd69c54.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/112/2023/barclays-center-brooklyn-ny-7ba782a0.html"
+   }, {
+      "id" : "73a782a5",
+      "versionId" : "g3b91c4c8",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-30T16:25:01.954+0000",
+      "artist" : {
+         "mbid" : "9e5fd95d-c0c1-412c-be11-06e7fbe99556",
+         "name" : "Ginuwine",
+         "sortName" : "Ginuwine",
+         "disambiguation" : "US R&B singer",
+         "url" : "https://www.setlist.fm/setlists/ginuwine-73d6b2b1.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ginuwine/2023/barclays-center-brooklyn-ny-73a782a5.html"
+   }, {
+      "id" : "73a78299",
+      "versionId" : "g3b91c4cc",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-30T16:25:45.309+0000",
+      "artist" : {
+         "mbid" : "e7bc282e-f651-4448-8716-2dd5f3b16c1d",
+         "name" : "H‐Town",
+         "sortName" : "H‐Town",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/htown-63d6b65f.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/htown/2023/barclays-center-brooklyn-ny-73a78299.html"
+   }, {
+      "id" : "6ba782a6",
+      "versionId" : "g3391c4c9",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-30T16:24:51.861+0000",
+      "artist" : {
+         "mbid" : "c41716b4-0c28-42f0-bc8d-9209473d057a",
+         "name" : "Silk",
+         "sortName" : "Silk",
+         "disambiguation" : "US R&B group",
+         "url" : "https://www.setlist.fm/setlists/silk-3d4b5d7.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/silk/2023/barclays-center-brooklyn-ny-6ba782a6.html"
+   }, {
+      "id" : "63a782a7",
+      "versionId" : "g2391c4cb",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-30T16:24:38.802+0000",
+      "artist" : {
+         "mbid" : "f368568b-1f9f-4d29-99e7-89a2125d0cfe",
+         "name" : "Tevin Campbell",
+         "sortName" : "Campbell, Tevin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tevin-campbell-13d6dd41.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tevin-campbell/2023/barclays-center-brooklyn-ny-63a782a7.html"
+   }, {
+      "id" : "63a7829b",
+      "versionId" : "g2b91c4ce",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-30T16:25:15.699+0000",
+      "artist" : {
+         "mbid" : "7700b039-cba9-46fa-a863-dcfb4c916d99",
+         "name" : "Next",
+         "sortName" : "Next",
+         "disambiguation" : "American R&B trio",
+         "url" : "https://www.setlist.fm/setlists/next-bd66572.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/next/2023/barclays-center-brooklyn-ny-63a7829b.html"
+   }, {
+      "id" : "4ba78ffe",
+      "versionId" : "g6391e693",
+      "eventDate" : "30-06-2023",
+      "lastUpdated" : "2023-06-29T11:12:00.851+0000",
+      "artist" : {
+         "mbid" : "cf905ea4-8e81-40d0-9cf9-7aa2af41fa3e",
+         "name" : "Xscape",
+         "sortName" : "Xscape",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/xscape-63d6b607.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/xscape/2023/barclays-center-brooklyn-ny-4ba78ffe.html"
+   }, {
+      "id" : "3ba51c2c",
+      "versionId" : "g7b9b16c4",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:54:58.045+0000",
+      "artist" : {
+         "mbid" : "a84c18f2-65a8-4961-afa4-5d834d64f5ec",
+         "name" : "Patra",
+         "sortName" : "Patra",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/patra-5bd7dff0.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/patra/2023/barclays-center-brooklyn-ny-3ba51c2c.html"
+   }, {
+      "id" : "3ba51c28",
+      "versionId" : "g639b16c3",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:53:37.063+0000",
+      "artist" : {
+         "mbid" : "93dda03d-c1d3-42c2-80b0-fa71bc20262b",
+         "name" : "Capleton",
+         "sortName" : "Capleton",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/capleton-43d6d3bb.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/capleton/2023/barclays-center-brooklyn-ny-3ba51c28.html"
+   }, {
+      "id" : "3ba51c20",
+      "versionId" : "g6b9b169e",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T19:03:42.190+0000",
+      "artist" : {
+         "mbid" : "870ec051-e50e-4bf9-b704-6098fe0e0297",
+         "name" : "Yellowman",
+         "sortName" : "Yellowman",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/yellowman-63d7a6f7.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Zungguzungguguzungguzeng"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/yellowman/2023/barclays-center-brooklyn-ny-3ba51c20.html"
+   }, {
+      "id" : "33a51c21",
+      "versionId" : "g739b16b9",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:56:26.310+0000",
+      "artist" : {
+         "mbid" : "89304e0a-2b2b-4421-9dea-01ad3e76168b",
+         "name" : "Mad Cobra",
+         "sortName" : "Mad Cobra",
+         "disambiguation" : "reggae vocalist Ewart Brown",
+         "url" : "https://www.setlist.fm/setlists/mad-cobra-43d653cf.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mad-cobra/2023/barclays-center-brooklyn-ny-33a51c21.html"
+   }, {
+      "id" : "2ba51c2e",
+      "versionId" : "g7b9b16c0",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:54:16.644+0000",
+      "artist" : {
+         "mbid" : "8ddf3da1-dfa9-490a-93cc-7d4072319995",
+         "name" : "Barrington Levy",
+         "sortName" : "Levy, Barrington",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/barrington-levy-43d6d39b.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/barrington-levy/2023/barclays-center-brooklyn-ny-2ba51c2e.html"
+   }, {
+      "id" : "2ba51c2a",
+      "versionId" : "g739b16c9",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:48:48.062+0000",
+      "artist" : {
+         "mbid" : "c0336f2a-610f-4b38-bc13-eb07393425a7",
+         "name" : "Shabba Ranks",
+         "sortName" : "Ranks, Shabba",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/shabba-ranks-3d615b7.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/shabba-ranks/2023/barclays-center-brooklyn-ny-2ba51c2a.html"
+   }, {
+      "id" : "2ba51c26",
+      "versionId" : "g739b16bd",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:58:15.037+0000",
+      "artist" : {
+         "mbid" : "6413f945-5359-4297-b871-da996d2cbdf6",
+         "name" : "Mad Lion",
+         "sortName" : "Mad Lion",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mad-lion-33d73c85.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mad-lion/2023/barclays-center-brooklyn-ny-2ba51c26.html"
+   }, {
+      "id" : "2ba51c22",
+      "versionId" : "g6b9b16ba",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:55:56.536+0000",
+      "artist" : {
+         "mbid" : "cd5f7bd9-ee6f-4a99-8dd9-dc3afd9da736",
+         "name" : "Elephant Man",
+         "sortName" : "Elephant Man",
+         "disambiguation" : "O'Neil Bryan, dancehall artist",
+         "url" : "https://www.setlist.fm/setlists/elephant-man-63d63257.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elephant-man/2023/barclays-center-brooklyn-ny-2ba51c22.html"
+   }, {
+      "id" : "2ba51c1a",
+      "versionId" : "g739b16b5",
+      "eventDate" : "16-06-2023",
+      "lastUpdated" : "2023-08-22T18:59:29.870+0000",
+      "artist" : {
+         "mbid" : "282ae204-1af3-4893-9aa7-66ab1c635878",
+         "name" : "Notch",
+         "sortName" : "Notch",
+         "disambiguation" : "US dancehall/reggaeton vocalist Norman Howell",
+         "url" : "https://www.setlist.fm/setlists/notch-1bd3e184.html"
+      },
+      "venue" : {
+         "id" : "2bd77066",
+         "name" : "Barclays Center",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/barclays-center-brooklyn-ny-usa-2bd77066.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/notch/2023/barclays-center-brooklyn-ny-2ba51c1a.html"
+   } ]
+}

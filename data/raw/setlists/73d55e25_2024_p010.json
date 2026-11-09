@@ -1,0 +1,547 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 10,
+   "total" : 190,
+   "setlist" : [ {
+      "id" : "3bacd86c",
+      "versionId" : "g63ae2a9f",
+      "eventDate" : "25-01-2024",
+      "lastUpdated" : "2024-08-05T01:11:59.249+0000",
+      "artist" : {
+         "mbid" : "229aac0b-3567-4bcc-b57d-76b865eb572e",
+         "name" : "Hotline TNT",
+         "sortName" : "Hotline TNT",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/hotline-tnt-6bf34256.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Cartwheel"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Protocol"
+            }, {
+               "name" : "Son in Law"
+            }, {
+               "name" : "I Thought You'd Change"
+            }, {
+               "name" : "Stampede"
+            }, {
+               "name" : "Quiet",
+               "cover" : {
+                  "mbid" : "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+                  "name" : "The Smashing Pumpkins",
+                  "sortName" : "Smashing Pumpkins, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-smashing-pumpkins-23d6e0ab.html"
+               },
+               "with" : {
+                  "mbid" : "4f52595e-652d-4894-95ea-f925234629fc",
+                  "name" : "MJ Lenderman",
+                  "sortName" : "Lenderman, MJ",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mj-lenderman-13f179ad.html"
+               }
+            }, {
+               "name" : "Are U Faded?"
+            }, {
+               "name" : "Trinity"
+            }, {
+               "name" : "Antonio"
+            }, {
+               "name" : "History Channel"
+            }, {
+               "name" : "Lawyers in Love"
+            }, {
+               "name" : "Had 2 Try",
+               "with" : {
+                  "mbid" : "92ec14cd-1631-4724-98e8-b28da18360a8",
+                  "name" : "Karly Hartzman",
+                  "sortName" : "Hartzman, Karly",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/karly-hartzman-4bfb2796.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hotline-tnt/2024/brooklyn-steel-brooklyn-ny-3bacd86c.html"
+   }, {
+      "id" : "7bacd68c",
+      "versionId" : "g13b68125",
+      "eventDate" : "20-01-2024",
+      "lastUpdated" : "2024-01-29T16:08:50.820+0000",
+      "artist" : {
+         "mbid" : "3826a6e0-9ea5-4007-941c-25b9dd943981",
+         "name" : "Umphrey’s McGee",
+         "sortName" : "Umphrey’s McGee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/umphreys-mcgee-bd6ade2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "2024 Winter Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hurt Bird Bath"
+            }, {
+               "name" : "Deeper"
+            }, {
+               "name" : "End of the Road"
+            }, {
+               "name" : "Andy's Last Beer"
+            }, {
+               "name" : "Mail Package"
+            } ]
+         } ]
+      },
+      "info" : "set for those who purchased the VIP package",
+      "url" : "https://www.setlist.fm/setlist/umphreys-mcgee/2024/brooklyn-steel-brooklyn-ny-7bacd68c.html"
+   }, {
+      "id" : "23aca883",
+      "versionId" : "g1bb68124",
+      "eventDate" : "20-01-2024",
+      "lastUpdated" : "2024-01-29T16:09:08.074+0000",
+      "artist" : {
+         "mbid" : "3826a6e0-9ea5-4007-941c-25b9dd943981",
+         "name" : "Umphrey’s McGee",
+         "sortName" : "Umphrey’s McGee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/umphreys-mcgee-bd6ade2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "2024 Winter Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "You Got the Wrong Guy",
+               "info" : ">"
+            }, {
+               "name" : "Pure Saturation",
+               "info" : ">"
+            }, {
+               "name" : "The Floor"
+            }, {
+               "name" : "Red Tape"
+            }, {
+               "name" : "Night Nurse",
+               "info" : ">"
+            }, {
+               "name" : "Bridgeless",
+               "info" : ">"
+            }, {
+               "name" : "Glory"
+            }, {
+               "name" : "Let's Dance",
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Escape Goat",
+               "info" : ">"
+            }, {
+               "name" : "Out of Focus"
+            }, {
+               "name" : "Staircase"
+            }, {
+               "name" : "The Silent Type"
+            }, {
+               "name" : "Push the Pig",
+               "info" : "with \"Get Ur Freak On\" (Missy Elliott) teases, >"
+            }, {
+               "name" : "Puppet String"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Linear",
+               "info" : "with \"Sailing\" (Christopher Cross) teases, > \"Bridgeless\" Reprise"
+            } ]
+         } ]
+      },
+      "info" : "\"I Don't Know What I Want\" & \"The Best\" cut from written setlist. \"Kimble\" and \"Deeper\" were listed as Xtras. Live streamed on nugs.net.",
+      "url" : "https://www.setlist.fm/setlist/umphreys-mcgee/2024/brooklyn-steel-brooklyn-ny-23aca883.html"
+   }, {
+      "id" : "23acb0ab",
+      "versionId" : "gbb68126",
+      "eventDate" : "19-01-2024",
+      "lastUpdated" : "2024-01-29T16:08:39.704+0000",
+      "artist" : {
+         "mbid" : "3826a6e0-9ea5-4007-941c-25b9dd943981",
+         "name" : "Umphrey’s McGee",
+         "sortName" : "Umphrey’s McGee",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/umphreys-mcgee-bd6ade2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "2024 Winter Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "There's No Crying in Mexico",
+               "info" : ">"
+            }, {
+               "name" : "40's Theme"
+            }, {
+               "name" : "Half Delayed",
+               "info" : ">"
+            }, {
+               "name" : "1348",
+               "info" : ">"
+            }, {
+               "name" : "Hourglass"
+            }, {
+               "name" : "Get in the Van"
+            }, {
+               "name" : "Sociable Jimmy"
+            }, {
+               "name" : "Seasons",
+               "info" : "> \"1348\" Reprise"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Tribulations",
+               "cover" : {
+                  "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+                  "name" : "LCD Soundsystem",
+                  "sortName" : "LCD Soundsystem",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Nothing Too Fancy",
+               "info" : ">"
+            }, {
+               "name" : "Cemetery Walk",
+               "info" : ">"
+            }, {
+               "name" : "Cemetery Walk II"
+            }, {
+               "name" : "Rocker Part 2"
+            }, {
+               "name" : "Ringo",
+               "info" : ">"
+            }, {
+               "name" : "Kielbasa",
+               "cover" : {
+                  "mbid" : "148ddea2-6839-4354-8e2c-5dfadf136b7f",
+                  "name" : "Tenacious D",
+                  "sortName" : "Tenacious D",
+                  "disambiguation" : "American comedy rock duo",
+                  "url" : "https://www.setlist.fm/setlists/tenacious-d-2bd6d4ae.html"
+               },
+               "info" : "> \"Ringo\" Reprise"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Weight Around",
+               "info" : "> \"Nothing Too Fancy\" Reprise"
+            } ]
+         } ]
+      },
+      "info" : "Live streamed on nugs.net",
+      "url" : "https://www.setlist.fm/setlist/umphreys-mcgee/2024/brooklyn-steel-brooklyn-ny-23acb0ab.html"
+   }, {
+      "id" : "3bacb0fc",
+      "versionId" : "g3b8844e0",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-17T00:30:56.840+0000",
+      "artist" : {
+         "mbid" : "b6014a14-a511-4004-b17a-636450edabec",
+         "name" : "KNOWER",
+         "sortName" : "KNOWER",
+         "disambiguation" : "US duo Louis Cole & Genevieve Artadi",
+         "url" : "https://www.setlist.fm/setlists/knower-1bd825f0.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/knower/2024/brooklyn-steel-brooklyn-ny-3bacb0fc.html"
+   }, {
+      "id" : "33acb0f1",
+      "versionId" : "g338844e5",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-17T00:31:20.768+0000",
+      "artist" : {
+         "mbid" : "ff7417f0-d6c4-42c8-b729-ceee63302dc1",
+         "name" : "Tivon Pennicott",
+         "sortName" : "Pennicott, Tivon",
+         "disambiguation" : "saxophonist",
+         "url" : "https://www.setlist.fm/setlists/tivon-pennicott-1bd8bd9c.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tivon-pennicott/2024/brooklyn-steel-brooklyn-ny-33acb0f1.html"
+   }, {
+      "id" : "2bacb0f2",
+      "versionId" : "g2b8844e6",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-17T00:31:12.594+0000",
+      "artist" : {
+         "mbid" : "85d89558-8bd3-45a6-8864-105918f29757",
+         "name" : "Hannibal Buress",
+         "sortName" : "Buress, Hannibal",
+         "disambiguation" : "comedian",
+         "url" : "https://www.setlist.fm/setlists/hannibal-buress-73d2b259.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hannibal-buress/2024/brooklyn-steel-brooklyn-ny-2bacb0f2.html"
+   }, {
+      "id" : "23acb0ff",
+      "versionId" : "g338844ed",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-17T00:29:08.589+0000",
+      "artist" : {
+         "mbid" : "26bdb4b1-53a6-4826-b532-de61e9b464fe",
+         "name" : "MonoNeon",
+         "sortName" : "MonoNeon",
+         "disambiguation" : "US bassist Dywane Thomas Jr.",
+         "url" : "https://www.setlist.fm/setlists/mononeon-3c8e973.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mononeon/2024/brooklyn-steel-brooklyn-ny-23acb0ff.html"
+   }, {
+      "id" : "23acb0f7",
+      "versionId" : "g238844db",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-17T00:31:28.406+0000",
+      "artist" : {
+         "mbid" : "2df6ef29-6a3a-445a-b711-ed300a862221",
+         "name" : "David Fiuczynski",
+         "sortName" : "Fiuczynski, David",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/david-fiuczynski-63d7927b.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-fiuczynski/2024/brooklyn-steel-brooklyn-ny-23acb0f7.html"
+   }, {
+      "id" : "23acb0f3",
+      "versionId" : "g238844e7",
+      "eventDate" : "18-01-2024",
+      "lastUpdated" : "2024-01-17T00:31:05.090+0000",
+      "artist" : {
+         "mbid" : "caf1cb4b-5bd0-4b4c-aecf-53de52cd18d1",
+         "name" : "Georgia Anne Muldrow",
+         "sortName" : "Muldrow, Georgia Anne",
+         "disambiguation" : "US jazz musician",
+         "url" : "https://www.setlist.fm/setlists/georgia-anne-muldrow-7bd672d4.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/georgia-anne-muldrow/2024/brooklyn-steel-brooklyn-ny-23acb0f3.html"
+   } ]
+}

@@ -1,0 +1,108 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 15,
+   "total" : 281,
+   "setlist" : [ {
+      "id" : "538b4721",
+      "versionId" : "g53c3dba1",
+      "eventDate" : "07-01-2022",
+      "lastUpdated" : "2022-01-08T16:29:28.030+0000",
+      "artist" : {
+         "mbid" : "f73634fa-c89b-4bc3-8cd0-81891bcafa9e",
+         "name" : "American Nightmare",
+         "sortName" : "American Nightmare",
+         "disambiguation" : "hardcore punk band from Boston",
+         "url" : "https://www.setlist.fm/setlists/american-nightmare-7bd63eac.html"
+      },
+      "venue" : {
+         "id" : "4bd61f3e",
+         "name" : "Irving Plaza",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/irving-plaza-new-york-ny-usa-4bd61f3e.html"
+      },
+      "tour" : {
+         "name" : "Background Music 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Background Music",
+            "song" : [ {
+               "name" : "(We Are)"
+            }, {
+               "name" : "There's a Black Hole in the Shadow of the Pru"
+            }, {
+               "name" : "AM/PM"
+            }, {
+               "name" : "Shoplifting in a Ghost Town"
+            }, {
+               "name" : "I Saved Latin"
+            }, {
+               "name" : "Postmark My Compass"
+            }, {
+               "name" : "I.C. You Are Feeling Drake"
+            }, {
+               "name" : "Hearts"
+            }, {
+               "name" : "God Save the Queen"
+            }, {
+               "name" : "Your Arsonist"
+            }, {
+               "name" : "Farewell"
+            } ]
+         }, {
+            "name" : "",
+            "song" : [ {
+               "name" : "Love American"
+            }, {
+               "name" : "Dead and Gone",
+               "cover" : {
+                  "mbid" : "8c1c3c9e-3fb3-435f-9632-8a82f35ffecb",
+                  "name" : "The Trouble",
+                  "sortName" : "Trouble, The",
+                  "disambiguation" : "Boston punk band",
+                  "url" : "https://www.setlist.fm/setlists/the-trouble-53d0e365.html"
+               }
+            }, {
+               "name" : "Sore-Throat Syndrome"
+            }, {
+               "name" : "Flowers Under Siege"
+            }, {
+               "name" : "I've Shared Your Lips So Now They Sicken Me"
+            }, {
+               "name" : "Dream"
+            }, {
+               "name" : "Life Support"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Dead Souls",
+               "cover" : {
+                  "mbid" : "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+                  "name" : "Joy Division",
+                  "sortName" : "Joy Division",
+                  "disambiguation" : "English post-punk band",
+                  "url" : "https://www.setlist.fm/setlists/joy-division-63d6b22b.html"
+               }
+            }, {
+               "name" : "Crisis of Faith"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/american-nightmare/2022/irving-plaza-new-york-ny-538b4721.html"
+   } ]
+}

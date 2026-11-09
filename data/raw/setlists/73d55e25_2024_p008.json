@@ -1,0 +1,1372 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 8,
+   "total" : 190,
+   "setlist" : [ {
+      "id" : "4bab2f3e",
+      "versionId" : "g7bb11ad8",
+      "eventDate" : "02-04-2024",
+      "lastUpdated" : "2024-04-03T04:16:08.928+0000",
+      "artist" : {
+         "mbid" : "6e8e3717-a62d-4a3f-886d-6a4e82507930",
+         "name" : "Arlo Parks",
+         "sortName" : "Parks, Arlo",
+         "disambiguation" : "Alternative R&B artist",
+         "url" : "https://www.setlist.fm/setlists/arlo-parks-4bc9c3f2.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "My Soft Machine"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Do It For You",
+               "tape" : true,
+               "info" : "song by Moses Ideka & phil, but setlist fm keeps autocorrecting that away"
+            }, {
+               "name" : "Bruiseless"
+            }, {
+               "name" : "Weightless"
+            }, {
+               "name" : "Blades"
+            }, {
+               "name" : "Caroline"
+            }, {
+               "name" : "Impurities"
+            }, {
+               "name" : "I’m Sorry"
+            }, {
+               "name" : "Eugene"
+            }, {
+               "name" : "Dog Rose"
+            }, {
+               "name" : "Pegasus"
+            }, {
+               "name" : "Hurt"
+            }, {
+               "name" : "Too Good"
+            }, {
+               "name" : "Black Dog"
+            }, {
+               "name" : "Purple Phase"
+            }, {
+               "name" : "Hope"
+            }, {
+               "name" : "Sophie"
+            }, {
+               "name" : "Devotion"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Softly"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arlo-parks/2024/brooklyn-steel-brooklyn-ny-4bab2f3e.html"
+   }, {
+      "id" : "23abdcf3",
+      "versionId" : "g73b1f67d",
+      "eventDate" : "28-03-2024",
+      "lastUpdated" : "2024-03-31T03:30:42.436+0000",
+      "artist" : {
+         "mbid" : "fb13c1b2-7962-45b0-9d57-0be39398ce1b",
+         "name" : "Richy Mitch & The Coal Miners",
+         "sortName" : "Richy Mitch & The Coal Miners",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/richy-mitch-and-the-coal-miners-33cc0ca1.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Wet Socks"
+            }, {
+               "name" : "A moment"
+            }, {
+               "name" : "Subliming"
+            }, {
+               "name" : "Evergreen",
+               "info" : ">"
+            }, {
+               "name" : "Sage"
+            }, {
+               "name" : "Lake Missoula"
+            }, {
+               "name" : "BC, Victoria"
+            }, {
+               "name" : "FTJ"
+            }, {
+               "name" : "Lucerne"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/richy-mitch-and-the-coal-miners/2024/brooklyn-steel-brooklyn-ny-23abdcf3.html"
+   }, {
+      "id" : "13aa45cd",
+      "versionId" : "g1bb189bc",
+      "eventDate" : "28-03-2024",
+      "lastUpdated" : "2024-03-30T08:24:26.943+0000",
+      "artist" : {
+         "mbid" : "0c97b403-1aae-4315-93ab-af54fe2169d6",
+         "name" : "flipturn",
+         "sortName" : "flipturn",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/flipturn-6bf48e76.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Something More Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Churches"
+            }, {
+               "name" : "Vanilla"
+            }, {
+               "name" : "Chicago"
+            }, {
+               "name" : "The Fall"
+            }, {
+               "name" : "Sad Disco"
+            }, {
+               "name" : "Juno",
+               "info" : "New song"
+            }, {
+               "name" : "Savannah"
+            }, {
+               "name" : "Playground"
+            }, {
+               "name" : "Whales"
+            }, {
+               "name" : "Six Below"
+            }, {
+               "name" : "Brooklyn Baby"
+            }, {
+               "name" : "Halfway"
+            }, {
+               "name" : "Poppies"
+            }, {
+               "name" : "August"
+            }, {
+               "name" : "Burn"
+            }, {
+               "name" : "Weepy Woman"
+            }, {
+               "name" : "Goddamn"
+            }, {
+               "name" : "Space Cowboy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Reptilia",
+               "cover" : {
+                  "mbid" : "f181961b-20f7-459e-89de-920ef03c7ed0",
+                  "name" : "The Strokes",
+                  "sortName" : "Strokes, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-strokes-23d6982f.html"
+               }
+            }, {
+               "name" : "Burnout Days"
+            }, {
+               "name" : "Nickel"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flipturn/2024/brooklyn-steel-brooklyn-ny-13aa45cd.html"
+   }, {
+      "id" : "7baa565c",
+      "versionId" : "g63bd5a43",
+      "eventDate" : "27-03-2024",
+      "lastUpdated" : "2024-05-06T05:55:03.395+0000",
+      "artist" : {
+         "mbid" : "a9cff714-1ff7-4b50-a800-5b43357e5c72",
+         "name" : "Miss Grit",
+         "sortName" : "Miss Grit",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/miss-grit-bf629da.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Perfect Blue"
+            }, {
+               "name" : "Your Eyes Are Mine"
+            }, {
+               "name" : "Nothing's Wrong"
+            }, {
+               "name" : "Lain (phone clone)"
+            }, {
+               "name" : "Follow the Cyborg"
+            }, {
+               "name" : "saibogeuleul ttalawa"
+            }, {
+               "name" : "Like You"
+            }, {
+               "name" : "Syncing"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/miss-grit/2024/brooklyn-steel-brooklyn-ny-7baa565c.html"
+   }, {
+      "id" : "6baa565e",
+      "versionId" : "g63b05ab7",
+      "eventDate" : "27-03-2024",
+      "lastUpdated" : "2024-03-28T05:12:06.331+0000",
+      "artist" : {
+         "mbid" : "2f0c90b1-84d5-47f1-ad75-ad8d30f53f70",
+         "name" : "The Last Dinner Party",
+         "sortName" : "Last Dinner Party, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-last-dinner-party-13fb79d1.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Prelude to Ecstasy Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Prelude to Ecstasy",
+               "tape" : true
+            }, {
+               "name" : "Burn Alive"
+            }, {
+               "name" : "Caesar on a TV Screen"
+            }, {
+               "name" : "The Feminine Urge"
+            }, {
+               "name" : "Beautiful Boy"
+            }, {
+               "name" : "On Your Side"
+            }, {
+               "name" : "Gjuha"
+            }, {
+               "name" : "Sinner"
+            }, {
+               "name" : "Portrait of a Dead Girl"
+            }, {
+               "name" : "Big Dog"
+            }, {
+               "name" : "Mirror"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "My Lady of Mercy"
+            }, {
+               "name" : "Nothing Matters"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-last-dinner-party/2024/brooklyn-steel-brooklyn-ny-6baa565e.html"
+   }, {
+      "id" : "baa7df6",
+      "versionId" : "g6bb34e7a",
+      "eventDate" : "23-03-2024",
+      "lastUpdated" : "2024-03-21T12:26:19.279+0000",
+      "artist" : {
+         "mbid" : "2458f371-0e9b-4665-b1b5-1d8621cd92b1",
+         "name" : "Cydeways",
+         "sortName" : "Cydeways",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cydeways-5bf267a4.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cydeways/2024/brooklyn-steel-brooklyn-ny-baa7df6.html"
+   }, {
+      "id" : "3aa7df7",
+      "versionId" : "g7b5c0a44",
+      "eventDate" : "23-03-2024",
+      "lastUpdated" : "2024-12-24T20:33:54.370+0000",
+      "artist" : {
+         "mbid" : "e8993e9d-9313-4447-ad23-791459a3790d",
+         "name" : "Matisyahu",
+         "sortName" : "Matisyahu",
+         "disambiguation" : "US reggae singer, rapper & beatboxer",
+         "url" : "https://www.setlist.fm/setlists/matisyahu-7bd64eb4.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Hold The Fire"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Close My Eyes"
+            }, {
+               "name" : "Jerusalem"
+            }, {
+               "name" : "Live Like a Warrior"
+            }, {
+               "name" : "Fireproof"
+            }, {
+               "name" : "Youth"
+            }, {
+               "name" : "Ascent"
+            }, {
+               "name" : "Midnight Dub"
+            }, {
+               "name" : "Sunshine"
+            }, {
+               "name" : "DNA",
+               "cover" : {
+                  "mbid" : "216a888d-7fff-4f3c-93e2-90feb81b1d3c",
+                  "name" : "LAIVY",
+                  "sortName" : "LAIVY",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/laivy-4be6af82.html"
+               }
+            }, {
+               "name" : "Wasted Time"
+            }, {
+               "name" : "Tel Aviv'n"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Time of Your Song"
+            }, {
+               "name" : "King Without a Crown"
+            }, {
+               "name" : "One Day"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/matisyahu/2024/brooklyn-steel-brooklyn-ny-3aa7df7.html"
+   }, {
+      "id" : "73aa3289",
+      "versionId" : "g6bb36a5e",
+      "eventDate" : "19-03-2024",
+      "lastUpdated" : "2024-03-20T15:01:44.399+0000",
+      "artist" : {
+         "mbid" : "0ae49abe-d6af-44fa-8ab0-b9ace5690e6f",
+         "name" : "Bombay Bicycle Club",
+         "sortName" : "Bombay Bicycle Club",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bombay-bicycle-club-43d66bb3.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "My Big Day"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Just a Little More Time"
+            }, {
+               "name" : "I Want to Be Your Only Pet"
+            }, {
+               "name" : "Dust on the Ground"
+            }, {
+               "name" : "Feel"
+            }, {
+               "name" : "My Big Day"
+            }, {
+               "name" : "Tekken 2"
+            }, {
+               "name" : "Lights Out, Words Gone"
+            }, {
+               "name" : "Luna"
+            }, {
+               "name" : "How Can You Swallow So Much Sleep"
+            }, {
+               "name" : "Diving"
+            }, {
+               "name" : "Everything Else Has Gone Wrong"
+            }, {
+               "name" : "Eat, Sleep, Wake (Nothing but You)"
+            }, {
+               "name" : "Flaws"
+            }, {
+               "name" : "You Already Know"
+            }, {
+               "name" : "Evening/Morning"
+            }, {
+               "name" : "Meditate"
+            }, {
+               "name" : "Always Like This"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Shuffle"
+            } ]
+         } ]
+      },
+      "info" : "Drum tech Josh P. Gale played drums in place of Suren de Saram due to a family emergency",
+      "url" : "https://www.setlist.fm/setlist/bombay-bicycle-club/2024/brooklyn-steel-brooklyn-ny-73aa3289.html"
+   }, {
+      "id" : "63aa328f",
+      "versionId" : "g7bb3ca30",
+      "eventDate" : "19-03-2024",
+      "lastUpdated" : "2024-03-17T01:46:56.750+0000",
+      "artist" : {
+         "mbid" : "71036a0e-f6b1-4900-b9c7-e4801203a843",
+         "name" : "Mustard Service",
+         "sortName" : "Mustard Service",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mustard-service-13f0954d.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mustard-service/2024/brooklyn-steel-brooklyn-ny-63aa328f.html"
+   }, {
+      "id" : "2baa18d6",
+      "versionId" : "g53b37ba1",
+      "eventDate" : "16-03-2024",
+      "lastUpdated" : "2024-03-20T00:24:59.884+0000",
+      "artist" : {
+         "mbid" : "58047fc9-8b04-40a3-b32a-401c2c62e34e",
+         "name" : "Mindchatter",
+         "sortName" : "Mindchatter",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mindchatter-23f434d3.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Simple Economics"
+            }, {
+               "name" : "Cash"
+            }, {
+               "name" : "Brain Pills"
+            }, {
+               "name" : "Tough As Nails"
+            }, {
+               "name" : "Tree Rings"
+            }, {
+               "name" : "Answer Me"
+            }, {
+               "name" : "Blame Game"
+            }, {
+               "name" : "idk"
+            }, {
+               "name" : "Do You Have the Bandwidth"
+            }, {
+               "name" : "Young Folks",
+               "cover" : {
+                  "mbid" : "32a83250-7e26-422d-b9ac-f4564343e9ce",
+                  "name" : "Peter Bjorn and John",
+                  "sortName" : "Peter Bjorn and John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/peter-bjorn-and-john-6bd6dec2.html"
+               }
+            }, {
+               "name" : "idk 2"
+            }, {
+               "name" : "Hide Your Face"
+            }, {
+               "name" : "\"This Is a Reminder That You Are Not Behind Your Face\" Poem",
+               "tape" : true
+            }, {
+               "name" : "It's Okay (It's Not Okay)"
+            }, {
+               "name" : "Glide"
+            }, {
+               "name" : "Inch Off the Ground"
+            }, {
+               "name" : "Math"
+            }, {
+               "name" : "Here I Go Again"
+            }, {
+               "name" : "I Can Change",
+               "cover" : {
+                  "mbid" : "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+                  "name" : "LCD Soundsystem",
+                  "sortName" : "LCD Soundsystem",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lcd-soundsystem-73d69619.html"
+               }
+            }, {
+               "name" : "Day Dreams"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "It's Been You"
+            }, {
+               "name" : "Human Shape"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mindchatter/2024/brooklyn-steel-brooklyn-ny-2baa18d6.html"
+   }, {
+      "id" : "73aa3ea5",
+      "versionId" : "g3ba9553",
+      "eventDate" : "15-03-2024",
+      "lastUpdated" : "2024-05-08T04:42:03.876+0000",
+      "artist" : {
+         "mbid" : "20d29062-6448-4e6f-9922-d5246264a5f2",
+         "name" : "Pixel Grip",
+         "sortName" : "Pixel Grip",
+         "disambiguation" : "electronic music group",
+         "url" : "https://www.setlist.fm/setlists/pixel-grip-73cbbe59.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Club Mania"
+            }, {
+               "name" : "Pursuit"
+            }, {
+               "name" : "Diamonds"
+            }, {
+               "name" : "Body Like That"
+            }, {
+               "name" : "Demon Chaser"
+            }, {
+               "name" : "Dancing on Your Grave"
+            }, {
+               "name" : "Bet You Do."
+            }, {
+               "name" : "Stamina"
+            }, {
+               "name" : "ALPHAPUSSY"
+            } ]
+         } ]
+      },
+      "info" : "Opening for HEALTH.",
+      "url" : "https://www.setlist.fm/setlist/pixel-grip/2024/brooklyn-steel-brooklyn-ny-73aa3ea5.html"
+   }, {
+      "id" : "5baae3b0",
+      "versionId" : "g13ba9525",
+      "eventDate" : "15-03-2024",
+      "lastUpdated" : "2024-05-08T04:55:11.166+0000",
+      "artist" : {
+         "mbid" : "ae6242d8-40a6-4934-973d-ca9603c2c253",
+         "name" : "King Yosef",
+         "sortName" : "King Yosef",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/king-yosef-6bcd2652.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Cut the Cord"
+            }, {
+               "name" : "The Dull Blade"
+            }, {
+               "name" : "Mist of Pain"
+            }, {
+               "name" : "Shame's Mirror"
+            }, {
+               "name" : "Power"
+            }, {
+               "name" : "110817"
+            }, {
+               "name" : "Pity Case"
+            }, {
+               "name" : "An Underlying Hum"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/king-yosef/2024/brooklyn-steel-brooklyn-ny-5baae3b0.html"
+   }, {
+      "id" : "4baae3b2",
+      "versionId" : "g53b303e9",
+      "eventDate" : "15-03-2024",
+      "lastUpdated" : "2024-03-19T17:43:53.219+0000",
+      "artist" : {
+         "mbid" : "6805e4d5-f550-40fe-b731-05dc8229e74b",
+         "name" : "HEALTH",
+         "sortName" : "HEALTH",
+         "disambiguation" : "industrial/noise rock band from California",
+         "url" : "https://www.setlist.fm/setlists/health-63d69a1b.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Rat-Based Warfare Tour: North America 2.0.2.4."
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "A Cruel Angel's Thesis",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "7004bc31-23ee-4216-8d74-0d230e88079f",
+                  "name" : "Yōko Takahashi",
+                  "sortName" : "Takahashi, Yoko",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/yko-takahashi-43d48f4b.html"
+               }
+            }, {
+               "name" : "IDENTITY"
+            }, {
+               "name" : "GOD BOTHERER"
+            }, {
+               "name" : "CRACK METAL"
+            }, {
+               "name" : "MEN TODAY"
+            }, {
+               "name" : "HATEFUL"
+            }, {
+               "name" : "ZOOTHORNS"
+            }, {
+               "name" : "PSYCHONAUT"
+            }, {
+               "name" : "STONEFIST"
+            }, {
+               "name" : "NEW COKE"
+            }, {
+               "name" : "FUTURE OF HELL"
+            }, {
+               "name" : "DEMIGODS"
+            }, {
+               "name" : "MAJOR CRIMES"
+            }, {
+               "name" : "THE MESSAGE"
+            }, {
+               "name" : "Be Quiet and Drive (Far Away)",
+               "cover" : {
+                  "mbid" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+                  "name" : "Deftones",
+                  "sortName" : "Deftones",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/deftones-1bd689cc.html"
+               }
+            }, {
+               "name" : "ASHAMED"
+            }, {
+               "name" : "WE ARE WATER"
+            }, {
+               "name" : "DSM‐V"
+            }, {
+               "name" : "FEEL NOTHING"
+            }, {
+               "name" : "CRUSHER"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/health/2024/brooklyn-steel-brooklyn-ny-4baae3b2.html"
+   }, {
+      "id" : "4baaef8a",
+      "versionId" : "g73a376dd",
+      "eventDate" : "14-03-2024",
+      "lastUpdated" : "2024-07-18T10:07:30.836+0000",
+      "artist" : {
+         "mbid" : "e36e78eb-3ace-4acd-882c-16789e700ab7",
+         "name" : "Sleater‐Kinney",
+         "sortName" : "Sleater‐Kinney",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sleaterkinney-3d6ed5b.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Little Rope"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hell"
+            }, {
+               "name" : "Needlessly Wild"
+            }, {
+               "name" : "The Center Won't Hold"
+            }, {
+               "name" : "A New Wave"
+            }, {
+               "name" : "Small Finds"
+            }, {
+               "name" : "No Cities to Love"
+            }, {
+               "name" : "Jumpers"
+            }, {
+               "name" : "Hunt You Down"
+            }, {
+               "name" : "One More Hour"
+            }, {
+               "name" : "A Quarter to Three"
+            }, {
+               "name" : "Don't Feel Right"
+            }, {
+               "name" : "Hurry On Home"
+            }, {
+               "name" : "Oh!",
+               "info" : "Tour debut"
+            }, {
+               "name" : "Dance Song '97",
+               "info" : "Low Version, tour debut"
+            }, {
+               "name" : "Six Mistakes"
+            }, {
+               "name" : "Dress Yourself"
+            }, {
+               "name" : "The Fox"
+            }, {
+               "name" : "Bury Our Friends"
+            }, {
+               "name" : "Dig Me Out"
+            }, {
+               "name" : "Modern Girl"
+            }, {
+               "name" : "Untidy Creature"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Get Up"
+            }, {
+               "name" : "All Hands on the Bad One"
+            }, {
+               "name" : "Say It Like You Mean It"
+            }, {
+               "name" : "Entertain"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sleaterkinney/2024/brooklyn-steel-brooklyn-ny-4baaef8a.html"
+   }, {
+      "id" : "2baae82a",
+      "versionId" : "g3bb25010",
+      "eventDate" : "14-03-2024",
+      "lastUpdated" : "2024-03-12T03:57:19.123+0000",
+      "artist" : {
+         "mbid" : "76a91880-2242-4c2a-8982-d56fb1ee686d",
+         "name" : "Black Belt Eagle Scout",
+         "sortName" : "Black Belt Eagle Scout",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/black-belt-eagle-scout-2bcbac62.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "opening act for Sleater-Kinney",
+      "url" : "https://www.setlist.fm/setlist/black-belt-eagle-scout/2024/brooklyn-steel-brooklyn-ny-2baae82a.html"
+   }, {
+      "id" : "23aaf493",
+      "versionId" : "g7ba376dc",
+      "eventDate" : "13-03-2024",
+      "lastUpdated" : "2024-07-18T10:07:30.845+0000",
+      "artist" : {
+         "mbid" : "e36e78eb-3ace-4acd-882c-16789e700ab7",
+         "name" : "Sleater‐Kinney",
+         "sortName" : "Sleater‐Kinney",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sleaterkinney-3d6ed5b.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Little Rope"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hell"
+            }, {
+               "name" : "Needlessly Wild"
+            }, {
+               "name" : "Bury Our Friends"
+            }, {
+               "name" : "The Future Is Here"
+            }, {
+               "name" : "Small Finds"
+            }, {
+               "name" : "The Center Won't Hold"
+            }, {
+               "name" : "One More Hour"
+            }, {
+               "name" : "Hunt You Down"
+            }, {
+               "name" : "All Hands on the Bad One",
+               "info" : "Tour debut"
+            }, {
+               "name" : "Start Together"
+            }, {
+               "name" : "Don't Feel Right"
+            }, {
+               "name" : "Get Up"
+            }, {
+               "name" : "Can I Go On"
+            }, {
+               "name" : "Jumpers"
+            }, {
+               "name" : "Six Mistakes"
+            }, {
+               "name" : "Dress Yourself"
+            }, {
+               "name" : "The Fox"
+            }, {
+               "name" : "A New Wave"
+            }, {
+               "name" : "Modern Girl"
+            }, {
+               "name" : "Untidy Creature"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Good Things"
+            }, {
+               "name" : "Say It Like You Mean It"
+            }, {
+               "name" : "Dig Me Out"
+            }, {
+               "name" : "Entertain"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sleaterkinney/2024/brooklyn-steel-brooklyn-ny-23aaf493.html"
+   }, {
+      "id" : "13aaf169",
+      "versionId" : "g5bb26b90",
+      "eventDate" : "13-03-2024",
+      "lastUpdated" : "2024-03-11T06:30:15.850+0000",
+      "artist" : {
+         "mbid" : "76a91880-2242-4c2a-8982-d56fb1ee686d",
+         "name" : "Black Belt Eagle Scout",
+         "sortName" : "Black Belt Eagle Scout",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/black-belt-eagle-scout-2bcbac62.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "opening act for Sleater-Kinney",
+      "url" : "https://www.setlist.fm/setlist/black-belt-eagle-scout/2024/brooklyn-steel-brooklyn-ny-13aaf169.html"
+   }, {
+      "id" : "33aaf07d",
+      "versionId" : "g13b3a119",
+      "eventDate" : "12-03-2024",
+      "lastUpdated" : "2024-03-13T23:24:12.425+0000",
+      "artist" : {
+         "mbid" : "aa76ec08-45ab-4724-9411-d80b0e59ac59",
+         "name" : "The Vaccines",
+         "sortName" : "Vaccines, The",
+         "disambiguation" : "British indie rock band",
+         "url" : "https://www.setlist.fm/setlists/the-vaccines-2bd28cf6.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Pick-Up Full of Pink Carnations"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love to Walk Away"
+            }, {
+               "name" : "Wreckin' Bar (Ra Ra Ra)"
+            }, {
+               "name" : "I Can't Quit"
+            }, {
+               "name" : "Post Break-Up Sex"
+            }, {
+               "name" : "Wetsuit"
+            }, {
+               "name" : "Your Love Is My Favourite Band"
+            }, {
+               "name" : "Discount de Kooning (Last One Standing)"
+            }, {
+               "name" : "The Dreamer"
+            }, {
+               "name" : "Headphones Baby"
+            }, {
+               "name" : "Jump Off the Top"
+            }, {
+               "name" : "Lunar Eclipse"
+            }, {
+               "name" : "Handsome"
+            }, {
+               "name" : "Heartbreak Kid"
+            }, {
+               "name" : "Teenage Icon"
+            }, {
+               "name" : "I Always Knew"
+            }, {
+               "name" : "If You Wanna"
+            }, {
+               "name" : "All My Friends Are Falling in Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-vaccines/2024/brooklyn-steel-brooklyn-ny-33aaf07d.html"
+   }, {
+      "id" : "2baaf07e",
+      "versionId" : "gbb3a122",
+      "eventDate" : "12-03-2024",
+      "lastUpdated" : "2024-03-13T23:22:11.198+0000",
+      "artist" : {
+         "mbid" : "f82f3a3e-29c2-42ca-b589-bc5dc210fa9e",
+         "name" : "The Kooks",
+         "sortName" : "Kooks, The",
+         "disambiguation" : "UK band",
+         "url" : "https://www.setlist.fm/setlists/the-kooks-3bd6b850.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "The Celebration of Inside In/Inside Out"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Seaside"
+            }, {
+               "name" : "See the World"
+            }, {
+               "name" : "Sofa Song"
+            }, {
+               "name" : "Eddie's Gun"
+            }, {
+               "name" : "Ooh La"
+            }, {
+               "name" : "She Moves in Her Own Way"
+            }, {
+               "name" : "Bad Habit"
+            }, {
+               "name" : "Westside"
+            }, {
+               "name" : "Forgive & Forget"
+            }, {
+               "name" : "Closer"
+            }, {
+               "name" : "Jackie Big Tits"
+            }, {
+               "name" : "Always Where I Need to Be"
+            }, {
+               "name" : "Do You Wanna"
+            }, {
+               "name" : "Got No Love"
+            }, {
+               "name" : "Matchbox"
+            }, {
+               "name" : "Junk of the Heart (Happy)"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Around Town"
+            }, {
+               "name" : "Naïve"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-kooks/2024/brooklyn-steel-brooklyn-ny-2baaf07e.html"
+   }, {
+      "id" : "1baaf598",
+      "versionId" : "g3bb27004",
+      "eventDate" : "09-03-2024",
+      "lastUpdated" : "2024-03-10T23:02:46.862+0000",
+      "artist" : {
+         "mbid" : "aefba883-dfc2-45ee-bce4-1dd903b13341",
+         "name" : "Dorian Electra",
+         "sortName" : "Electra, Dorian",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dorian-electra-63cd5eb3.html"
+      },
+      "venue" : {
+         "id" : "73d55e25",
+         "name" : "Brooklyn Steel",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-steel-brooklyn-ny-usa-73d55e25.html"
+      },
+      "tour" : {
+         "name" : "Fanfare: The World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Puppet"
+            }, {
+               "name" : "Flamboyant"
+            }, {
+               "name" : "Adam & Steve"
+            }, {
+               "name" : "Ram It Down"
+            }, {
+               "name" : "Idolize"
+            }, {
+               "name" : "anon"
+            }, {
+               "name" : "Man To Man"
+            }, {
+               "name" : "Yes Man"
+            }, {
+               "name" : "Freak Mode"
+            }, {
+               "name" : "Sodom & Gomorrah"
+            }, {
+               "name" : "Career Boy",
+               "info" : "performed just with dorian singing and playing a keyboard"
+            }, {
+               "name" : "Manmade Horrors"
+            }, {
+               "name" : "M’Lady"
+            } ]
+         } ]
+      },
+      "info" : "Setlist incomplete and out of order",
+      "url" : "https://www.setlist.fm/setlist/dorian-electra/2024/brooklyn-steel-brooklyn-ny-1baaf598.html"
+   } ]
+}

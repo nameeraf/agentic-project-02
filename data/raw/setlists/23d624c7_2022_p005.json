@@ -1,0 +1,2090 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 109,
+   "setlist" : [ {
+      "id" : "1bb67184",
+      "versionId" : "g7bb632fc",
+      "eventDate" : "26-04-2022",
+      "lastUpdated" : "2024-02-02T01:44:23.231+0000",
+      "artist" : {
+         "mbid" : "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+         "name" : "Olivia Rodrigo",
+         "sortName" : "Rodrigo, Olivia",
+         "disambiguation" : "US singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/olivia-rodrigo-bc9194e.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Sour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "brutal"
+            }, {
+               "name" : "jealousy, jealousy"
+            }, {
+               "name" : "drivers license"
+            }, {
+               "name" : "Complicated",
+               "cover" : {
+                  "mbid" : "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+                  "name" : "Avril Lavigne",
+                  "sortName" : "Lavigne, Avril",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/avril-lavigne-63d6d6bf.html"
+               }
+            }, {
+               "name" : "hope ur ok"
+            }, {
+               "name" : "enough for you / 1 step forward, 3 steps back"
+            }, {
+               "name" : "happier"
+            }, {
+               "name" : "All I Want"
+            }, {
+               "name" : "Seether",
+               "cover" : {
+                  "mbid" : "86e8e21a-d29f-47d2-bbf0-e079f7044e71",
+                  "name" : "Veruca Salt",
+                  "sortName" : "Veruca Salt",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/veruca-salt-2bd6a49a.html"
+               }
+            }, {
+               "name" : "favorite crime"
+            }, {
+               "name" : "traitor"
+            }, {
+               "name" : "deja vu"
+            }, {
+               "name" : "good 4 u"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/olivia-rodrigo/2022/radio-city-music-hall-new-york-ny-1bb67184.html"
+   }, {
+      "id" : "53b62b61",
+      "versionId" : "g13ca9d71",
+      "eventDate" : "19-04-2022",
+      "lastUpdated" : "2022-04-20T04:27:24.372+0000",
+      "artist" : {
+         "mbid" : "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+         "name" : "Lorde",
+         "sortName" : "Lorde",
+         "disambiguation" : "New Zealand singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/lorde-6bdc4632.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Solar Power Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "Leader of a New Regime"
+            }, {
+               "name" : "Homemade Dynamite"
+            }, {
+               "name" : "Buzzcut Season"
+            }, {
+               "name" : "Stoned at the Nail Salon"
+            }, {
+               "name" : "Fallen Fruit"
+            } ]
+         }, {
+            "name" : "Act 2",
+            "song" : [ {
+               "name" : "The Path"
+            }, {
+               "name" : "California"
+            }, {
+               "name" : "Ribs"
+            }, {
+               "name" : "The Louvre"
+            }, {
+               "name" : "Big Star"
+            }, {
+               "name" : "The End Has No End",
+               "cover" : {
+                  "mbid" : "f181961b-20f7-459e-89de-920ef03c7ed0",
+                  "name" : "The Strokes",
+                  "sortName" : "Strokes, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-strokes-23d6982f.html"
+               }
+            }, {
+               "name" : "Liability"
+            }, {
+               "name" : "Secrets From a Girl (Who’s Seen It All)"
+            } ]
+         }, {
+            "name" : "Act 3",
+            "song" : [ {
+               "name" : "Mood Ring"
+            }, {
+               "name" : "Sober"
+            }, {
+               "name" : "Supercut"
+            }, {
+               "name" : "Perfect Places"
+            }, {
+               "name" : "Solar Power"
+            }, {
+               "name" : "Green Light"
+            }, {
+               "name" : "Oceanic Feeling"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Royals"
+            }, {
+               "name" : "Team"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lorde/2022/radio-city-music-hall-new-york-ny-53b62b61.html"
+   }, {
+      "id" : "13b62185",
+      "versionId" : "g3bc844dc",
+      "eventDate" : "19-04-2022",
+      "lastUpdated" : "2022-05-16T17:18:48.881+0000",
+      "artist" : {
+         "mbid" : "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+         "name" : "Remi Wolf",
+         "sortName" : "Wolf, Remi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/remi-wolf-13f42179.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Disco Man"
+            }, {
+               "name" : "Grumpy Old Man"
+            }, {
+               "name" : "Sexy Villain"
+            }, {
+               "name" : "Liz"
+            }, {
+               "name" : "Piece of My Heart",
+               "cover" : {
+                  "mbid" : "4ba12614-fcce-462b-8784-8dd1a92fbf2b",
+                  "name" : "Erma Franklin",
+                  "sortName" : "Franklin, Erma",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/erma-franklin-5bd63bd0.html"
+               }
+            }, {
+               "name" : "Guerrilla"
+            }, {
+               "name" : "Photo ID"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/remi-wolf/2022/radio-city-music-hall-new-york-ny-13b62185.html"
+   }, {
+      "id" : "43b62b63",
+      "versionId" : "g3bca2468",
+      "eventDate" : "18-04-2022",
+      "lastUpdated" : "2022-04-25T01:10:52.944+0000",
+      "artist" : {
+         "mbid" : "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+         "name" : "Lorde",
+         "sortName" : "Lorde",
+         "disambiguation" : "New Zealand singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/lorde-6bdc4632.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Solar Power Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Leader of a New Regime"
+            }, {
+               "name" : "Homemade Dynamite"
+            }, {
+               "name" : "Buzzcut Season"
+            }, {
+               "name" : "Stoned at the Nail Salon"
+            }, {
+               "name" : "Fallen Fruit"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "The Path"
+            }, {
+               "name" : "California"
+            }, {
+               "name" : "Ribs"
+            }, {
+               "name" : "Hard Feelings"
+            }, {
+               "name" : "Big Star"
+            }, {
+               "name" : "HENTAI",
+               "cover" : {
+                  "mbid" : "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+                  "name" : "ROSALÍA",
+                  "sortName" : "ROSALÍA",
+                  "disambiguation" : "Spanish singer",
+                  "url" : "https://www.setlist.fm/setlists/rosalia-13c3511d.html"
+               },
+               "info" : "first cover on tour"
+            }, {
+               "name" : "Liability"
+            }, {
+               "name" : "Secrets From a Girl (Who’s Seen It All)"
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Mood Ring"
+            }, {
+               "name" : "Sober"
+            }, {
+               "name" : "Supercut"
+            }, {
+               "name" : "Perfect Places"
+            }, {
+               "name" : "Solar Power"
+            }, {
+               "name" : "Green Light"
+            }, {
+               "name" : "Oceanic Feeling"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Royals"
+            }, {
+               "name" : "Team"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lorde/2022/radio-city-music-hall-new-york-ny-43b62b63.html"
+   }, {
+      "id" : "1bb6218c",
+      "versionId" : "g63cabeaf",
+      "eventDate" : "18-04-2022",
+      "lastUpdated" : "2022-04-19T01:05:56.249+0000",
+      "artist" : {
+         "mbid" : "afb6cc6d-a060-4f5e-bc3a-00d4b6832e41",
+         "name" : "Remi Wolf",
+         "sortName" : "Wolf, Remi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/remi-wolf-13f42179.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Disco Man"
+            }, {
+               "name" : "Grumpy Old Man"
+            }, {
+               "name" : "Sexy Villain"
+            }, {
+               "name" : "Liz"
+            }, {
+               "name" : "Crazy",
+               "cover" : {
+                  "mbid" : "a47c3aa2-7d87-475c-a2c7-1e2047dafb09",
+                  "name" : "Gnarls Barkley",
+                  "sortName" : "Gnarls Barkley",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gnarls-barkley-bd6c92e.html"
+               }
+            }, {
+               "name" : "Liquor Store"
+            }, {
+               "name" : "Photo ID"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/remi-wolf/2022/radio-city-music-hall-new-york-ny-1bb6218c.html"
+   }, {
+      "id" : "5bb6d7e0",
+      "versionId" : "g6bcd0e12",
+      "eventDate" : "14-04-2022",
+      "lastUpdated" : "2022-04-15T15:22:38.270+0000",
+      "artist" : {
+         "mbid" : "4c98aa1b-34eb-4336-987f-5e50aa059c00",
+         "name" : "The Script",
+         "sortName" : "Script, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-script-53d657dd.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Tales from The Script - Greatest Hits Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Superheroes"
+            }, {
+               "name" : "Rain"
+            }, {
+               "name" : "We Cry"
+            }, {
+               "name" : "I Want It All"
+            }, {
+               "name" : "The Man Who Can't Be Moved"
+            }, {
+               "name" : "Before the Worst"
+            }, {
+               "name" : "The Last Time"
+            }, {
+               "name" : "If You Could See Me Now",
+               "info" : "acoustic in crowd"
+            }, {
+               "name" : "Nothing",
+               "info" : "acoustic in crowd"
+            }, {
+               "name" : "Never Seen Anything \"Quite Like You\"",
+               "info" : "acoustic in crowd"
+            }, {
+               "name" : "Something Unreal"
+            }, {
+               "name" : "Science & Faith"
+            }, {
+               "name" : "Paint the Town Green"
+            }, {
+               "name" : "For the First Time"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "No Good in Goodbye"
+            }, {
+               "name" : "Breakeven"
+            }, {
+               "name" : "Hall of Fame"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-script/2022/radio-city-music-hall-new-york-ny-5bb6d7e0.html"
+   }, {
+      "id" : "4bb6d7e6",
+      "versionId" : "g4b89e7c2",
+      "eventDate" : "14-04-2022",
+      "lastUpdated" : "2024-01-20T21:53:31.553+0000",
+      "artist" : {
+         "mbid" : "68fdc9cc-1094-48bb-942f-66492343e41c",
+         "name" : "Calum Scott",
+         "sortName" : "Scott, Calum",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/calum-scott-23c2eca3.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rise"
+            }, {
+               "name" : "Rhythm Inside"
+            }, {
+               "name" : "Biblical"
+            }, {
+               "name" : "Boys in the Street",
+               "cover" : {
+                  "mbid" : "24a73f2f-f322-4f62-810d-60483c47878b",
+                  "name" : "Greg Holden",
+                  "sortName" : "Holden, Greg",
+                  "disambiguation" : "Scottish singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/greg-holden-6bd09a8e.html"
+               }
+            }, {
+               "name" : "Where Are You Now",
+               "cover" : {
+                  "mbid" : "ea7260de-e1b1-43f1-bb11-f78274a36308",
+                  "name" : "Lost Frequencies",
+                  "sortName" : "Lost Frequencies",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lost-frequencies-63d9cec3.html"
+               }
+            }, {
+               "name" : "This Love",
+               "cover" : {
+                  "mbid" : "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+                  "name" : "Maroon 5",
+                  "sortName" : "Maroon 5",
+                  "disambiguation" : "American pop rock band",
+                  "url" : "https://www.setlist.fm/setlists/maroon-5-4bd6bfea.html"
+               }
+            }, {
+               "name" : "If You Ever Change Your Mind"
+            }, {
+               "name" : "You Are the Reason"
+            }, {
+               "name" : "Dancing on My Own",
+               "cover" : {
+                  "mbid" : "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+                  "name" : "Robyn",
+                  "sortName" : "Robyn",
+                  "disambiguation" : "Swedish singer and songwriter Robin Carlsson",
+                  "url" : "https://www.setlist.fm/setlists/robyn-6bd6da8e.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/calum-scott/2022/radio-city-music-hall-new-york-ny-4bb6d7e6.html"
+   }, {
+      "id" : "33b6d489",
+      "versionId" : "g5b004304",
+      "eventDate" : "12-04-2022",
+      "lastUpdated" : "2026-08-15T22:03:56.252+0000",
+      "artist" : {
+         "mbid" : "7364dea6-ca9a-48e3-be01-b44ad0d19897",
+         "name" : "a‐ha",
+         "sortName" : "a‐ha",
+         "disambiguation" : "Norwegian synth‐pop band",
+         "url" : "https://www.setlist.fm/setlists/aha-5bd6af8c.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Play Hunting High and Low Live"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sycamore Leaves"
+            }, {
+               "name" : "The Swing of Things"
+            }, {
+               "name" : "Crying in the Rain",
+               "cover" : {
+                  "mbid" : "bf6c29f5-b69f-4842-9031-37f9645d365d",
+                  "name" : "Carole King",
+                  "sortName" : "King, Carole",
+                  "disambiguation" : "US singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/carole-king-5bd6ab88.html"
+               }
+            }, {
+               "name" : "Forest for the Trees"
+            }, {
+               "name" : "You Have What It Takes"
+            }, {
+               "name" : "I've Been Losing You"
+            }, {
+               "name" : "Scoundrel Days"
+            }, {
+               "name" : "The Living Daylights"
+            } ]
+         }, {
+            "name" : "Hunting High and Low",
+            "song" : [ {
+               "name" : "Train of Thought"
+            }, {
+               "name" : "The Blue Sky"
+            }, {
+               "name" : "Living a Boy's Adventure Tale"
+            }, {
+               "name" : "And You Tell Me"
+            }, {
+               "name" : "Love Is Reason"
+            }, {
+               "name" : "I Dream Myself Alive",
+               "info" : "demo version"
+            }, {
+               "name" : "Here I Stand and Face the Rain"
+            }, {
+               "name" : "Hunting High and Low"
+            }, {
+               "name" : "The Sun Always Shines on T.V."
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Take On Me"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/aha/2022/radio-city-music-hall-new-york-ny-33b6d489.html"
+   }, {
+      "id" : "6bb6eefe",
+      "versionId" : "g237f6463",
+      "eventDate" : "09-04-2022",
+      "lastUpdated" : "2025-08-26T11:00:45.255+0000",
+      "artist" : {
+         "mbid" : "12be5b16-915f-44bc-978a-8ddfab235b79",
+         "name" : "Josh Groban",
+         "sortName" : "Groban, Josh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/josh-groban-4bd677ee.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Out of My Box"
+            }, {
+               "name" : "The World We Knew (Over and Over)",
+               "cover" : {
+                  "mbid" : "197450cd-0124-4164-b723-3c22dd16494d",
+                  "name" : "Frank Sinatra",
+                  "sortName" : "Sinatra, Frank",
+                  "disambiguation" : "American singer and actor, “Ol’ Blue Eyes”",
+                  "url" : "https://www.setlist.fm/setlists/frank-sinatra-73d69af5.html"
+               }
+            }, {
+               "name" : "Angels",
+               "cover" : {
+                  "mbid" : "db4624cf-0e44-481e-a9dc-2142b833ec2f",
+                  "name" : "Robbie Williams",
+                  "sortName" : "Williams, Robbie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robbie-williams-13d6bd11.html"
+               }
+            }, {
+               "name" : "Songbird",
+               "cover" : {
+                  "mbid" : "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+                  "name" : "Fleetwood Mac",
+                  "sortName" : "Fleetwood Mac",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/fleetwood-mac-7bd6bef0.html"
+               },
+               "with" : {
+                  "mbid" : "beb68abb-51b4-41d1-9645-d0c8306cf588",
+                  "name" : "Rita Wilson",
+                  "sortName" : "Wilson, Rita",
+                  "disambiguation" : "American actress",
+                  "url" : "https://www.setlist.fm/setlists/rita-wilson-5bd14b30.html"
+               }
+            }, {
+               "name" : "New York Minute",
+               "cover" : {
+                  "mbid" : "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90",
+                  "name" : "Don Henley",
+                  "sortName" : "Henley, Don",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/don-henley-13d6dd89.html"
+               }
+            }, {
+               "name" : "Granted",
+               "info" : "followed by onstage Interview with Rachel Brosnahan"
+            }, {
+               "name" : "The Fullest"
+            }, {
+               "name" : "She",
+               "cover" : {
+                  "mbid" : "5f264b87-d5f6-487d-aa3e-ae4c5f0c6fc9",
+                  "name" : "Charles Aznavour",
+                  "sortName" : "Aznavour, Charles",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charles-aznavour-4bd6b7fe.html"
+               }
+            }, {
+               "name" : "Time After Time",
+               "cover" : {
+                  "mbid" : "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                  "name" : "Cyndi Lauper",
+                  "sortName" : "Lauper, Cyndi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cyndi-lauper-1bd6b9e8.html"
+               },
+               "with" : {
+                  "mbid" : "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+                  "name" : "Cyndi Lauper",
+                  "sortName" : "Lauper, Cyndi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/cyndi-lauper-1bd6b9e8.html"
+               }
+            }, {
+               "name" : "You're Still You"
+            }, {
+               "name" : "",
+               "info" : "Guest Empire Marching Elite performance"
+            }, {
+               "name" : "Drum Solo",
+               "info" : "Josh Groban"
+            }, {
+               "name" : "Bring Him Home",
+               "cover" : {
+                  "mbid" : "e605aaba-e920-456a-9c8a-0836c46d4764",
+                  "name" : "Claude‐Michel Schönberg",
+                  "sortName" : "Schönberg, Claude‐Michel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/claudemichel-schonberg-73d6baf9.html"
+               }
+            }, {
+               "name" : "You Raise Me Up",
+               "cover" : {
+                  "mbid" : "4ac60dc3-8e50-4c70-be0e-4a4a1298f7ba",
+                  "name" : "Secret Garden",
+                  "sortName" : "Secret Garden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/secret-garden-23d6a00f.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Impossible Dream (The Quest)",
+               "cover" : {
+                  "mbid" : "30fc6f12-6a89-443c-8b2c-c72ea478e4f1",
+                  "name" : "Mitch Leigh",
+                  "sortName" : "Leigh, Mitch",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mitch-leigh-6bd48e72.html"
+               }
+            }, {
+               "name" : "Over the Rainbow",
+               "cover" : {
+                  "mbid" : "3508f3fd-3b18-493c-a362-376736bb6cde",
+                  "name" : "Harold Arlen",
+                  "sortName" : "Arlen, Harold",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harold-arlen-bd649ce.html"
+               }
+            }, {
+               "name" : "Empire State of Mind",
+               "cover" : {
+                  "mbid" : "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name" : "JAŸ-Z",
+                  "sortName" : "Jay-Z",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/jay-z-2bd69c72.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/josh-groban/2022/radio-city-music-hall-new-york-ny-6bb6eefe.html"
+   }, {
+      "id" : "3b6f15b",
+      "versionId" : "g439fb36f",
+      "eventDate" : "08-04-2022",
+      "lastUpdated" : "2023-07-14T15:22:43.884+0000",
+      "artist" : {
+         "mbid" : "12be5b16-915f-44bc-978a-8ddfab235b79",
+         "name" : "Josh Groban",
+         "sortName" : "Groban, Josh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/josh-groban-4bd677ee.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Josh Groban's Great Big Radio City Show"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Out of My Box",
+               "info" : "Lyrics: It's So Good to See You My Friends"
+            }, {
+               "name" : "The World We Knew (Over and Over)",
+               "cover" : {
+                  "mbid" : "197450cd-0124-4164-b723-3c22dd16494d",
+                  "name" : "Frank Sinatra",
+                  "sortName" : "Sinatra, Frank",
+                  "disambiguation" : "American singer and actor, “Ol’ Blue Eyes”",
+                  "url" : "https://www.setlist.fm/setlists/frank-sinatra-73d69af5.html"
+               }
+            }, {
+               "name" : "Angels",
+               "cover" : {
+                  "mbid" : "db4624cf-0e44-481e-a9dc-2142b833ec2f",
+                  "name" : "Robbie Williams",
+                  "sortName" : "Williams, Robbie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robbie-williams-13d6bd11.html"
+               },
+               "info" : "dedicated to the frontline and medical workers"
+            }, {
+               "name" : "Real Men Don't Cry",
+               "info" : "Breland song",
+               "with" : {
+                  "mbid" : "9c3601d4-2630-4330-8a08-28c7354b081a",
+                  "name" : "BRELAND",
+                  "sortName" : "BRELAND",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/breland-23f4a063.html"
+               }
+            }, {
+               "name" : "New York Minute",
+               "cover" : {
+                  "mbid" : "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90",
+                  "name" : "Don Henley",
+                  "sortName" : "Henley, Don",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/don-henley-13d6dd89.html"
+               },
+               "info" : "with David Garibaldi, American performance painter"
+            }, {
+               "name" : "Granted",
+               "info" : "dedicated to his 7th Grade music teacher, who was in attendance"
+            }, {
+               "name" : "Henrik Lundqvist interview"
+            }, {
+               "name" : "One",
+               "cover" : {
+                  "mbid" : "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+                  "name" : "U2",
+                  "sortName" : "U2",
+                  "disambiguation" : "Irish rock band",
+                  "url" : "https://www.setlist.fm/setlists/u2-23d6b80f.html"
+               },
+               "info" : "with Henrik Lundqvist on guitar"
+            }, {
+               "name" : "The Fullest"
+            }, {
+               "name" : "She",
+               "cover" : {
+                  "mbid" : "5f264b87-d5f6-487d-aa3e-ae4c5f0c6fc9",
+                  "name" : "Charles Aznavour",
+                  "sortName" : "Aznavour, Charles",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charles-aznavour-4bd6b7fe.html"
+               }
+            }, {
+               "name" : "Both Sides, Now",
+               "cover" : {
+                  "mbid" : "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+                  "name" : "Joni Mitchell",
+                  "sortName" : "Mitchell, Joni",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/joni-mitchell-33d6a4b1.html"
+               },
+               "with" : {
+                  "mbid" : "a7954a0a-7b80-4a1a-ad40-6ff5a3294c4a",
+                  "name" : "Denée Benton",
+                  "sortName" : "Benton, Denée",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/denee-benton-13cc85cd.html"
+               }
+            }, {
+               "name" : "You're Still You"
+            }, {
+               "name" : "She's Perfect",
+               "info" : "song by and performed by Hollywood Anderson"
+            }, {
+               "name" : "Drum Solo",
+               "info" : "Josh Groban, Kaz Rodriguez and Daniel Sadownick"
+            }, {
+               "name" : "Bring Him Home",
+               "cover" : {
+                  "mbid" : "e605aaba-e920-456a-9c8a-0836c46d4764",
+                  "name" : "Claude‐Michel Schönberg",
+                  "sortName" : "Schönberg, Claude‐Michel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/claudemichel-schonberg-73d6baf9.html"
+               },
+               "info" : "dedicated to the people of Ukraine and everything they've gone through"
+            }, {
+               "name" : "You Raise Me Up",
+               "cover" : {
+                  "mbid" : "4ac60dc3-8e50-4c70-be0e-4a4a1298f7ba",
+                  "name" : "Secret Garden",
+                  "sortName" : "Secret Garden",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/secret-garden-23d6a00f.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Over the Rainbow",
+               "cover" : {
+                  "mbid" : "3508f3fd-3b18-493c-a362-376736bb6cde",
+                  "name" : "Harold Arlen",
+                  "sortName" : "Arlen, Harold",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/harold-arlen-bd649ce.html"
+               }
+            }, {
+               "name" : "Empire State of Mind",
+               "cover" : {
+                  "mbid" : "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+                  "name" : "JAŸ-Z",
+                  "sortName" : "Jay-Z",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/jay-z-2bd69c72.html"
+               },
+               "info" : "with band introductions"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/josh-groban/2022/radio-city-music-hall-new-york-ny-3b6f15b.html"
+   }, {
+      "id" : "63b6fee7",
+      "versionId" : "g43cda3eb",
+      "eventDate" : "07-04-2022",
+      "lastUpdated" : "2022-04-08T00:08:33.467+0000",
+      "artist" : {
+         "mbid" : "12be5b16-915f-44bc-978a-8ddfab235b79",
+         "name" : "Josh Groban",
+         "sortName" : "Groban, Josh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/josh-groban-4bd677ee.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/josh-groban/2022/radio-city-music-hall-new-york-ny-63b6fee7.html"
+   }, {
+      "id" : "1bb6b144",
+      "versionId" : "g53867fa5",
+      "eventDate" : "03-04-2022",
+      "lastUpdated" : "2023-09-17T15:18:29.126+0000",
+      "artist" : {
+         "mbid" : "0f9b5bdb-9e99-40c1-8311-5164cb8871a1",
+         "name" : "Bob Weir and Wolf Bros.",
+         "sortName" : "Bob Weir and Wolf Bros.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bob-weir-and-wolf-bros-23f220ab.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Spring Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "She Knows What I'm Thinkin'",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "info" : "Bob solo acoustic) (1st full perfomance of this song"
+            }, {
+               "name" : "Fever",
+               "cover" : {
+                  "mbid" : "10c9e8c5-2369-4baa-b890-1fac616524be",
+                  "name" : "Eddie Cooley",
+                  "sortName" : "Cooley, Eddie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/eddie-cooley-6bd4a226.html"
+               },
+               "info" : "rest of band joins except Chimenti"
+            }, {
+               "name" : "Jack Straw",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "Jeff Chimenti joins"
+            } ]
+         }, {
+            "name" : "\"Ace\"",
+            "song" : [ {
+               "name" : "Greatest Story Ever Told",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "with" : {
+                  "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+                  "name" : "Tyler Childers",
+                  "sortName" : "Childers, Tyler",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+               }
+            }, {
+               "name" : "Black-Throated Wind",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Walk in the Sunshine",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "with" : {
+                  "mbid" : "8e66081a-58f8-4537-b15b-c645b184142d",
+                  "name" : "Brittney Spencer",
+                  "sortName" : "Spencer, Brittney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brittney-spencer-73f27689.html"
+               }
+            }, {
+               "name" : "Playing in the Band",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Looks Like Rain",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "with" : {
+                  "mbid" : "8e66081a-58f8-4537-b15b-c645b184142d",
+                  "name" : "Brittney Spencer",
+                  "sortName" : "Spencer, Brittney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brittney-spencer-73f27689.html"
+               }
+            }, {
+               "name" : "Mexicali Blues",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               }
+            }, {
+               "name" : "One More Saturday Night",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Cassidy",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Mama Tried",
+               "cover" : {
+                  "mbid" : "deb2448c-6fdf-4d31-921e-757630515dbd",
+                  "name" : "Merle Haggard",
+                  "sortName" : "Haggard, Merle",
+                  "disambiguation" : "US country singer, guitarist, fiddler & songwriter",
+                  "url" : "https://www.setlist.fm/setlists/merle-haggard-73d6de21.html"
+               },
+               "with" : {
+                  "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+                  "name" : "Tyler Childers",
+                  "sortName" : "Childers, Tyler",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+               }
+            }, {
+               "name" : "Turn On Your Love Light",
+               "cover" : {
+                  "mbid" : "66ebc271-6a26-4fe7-848b-f217da119d92",
+                  "name" : "Bobby “Blue” Bland",
+                  "sortName" : "Bland, Bobby “Blue”",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bobby-blue-bland-4bd7b36e.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Lady With a Fan",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Terrapin Station",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Terrapin Transit",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "At a Siding",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Terrapin Flyer",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            }, {
+               "name" : "Samson and Delilah",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "with" : {
+                  "mbid" : "8e66081a-58f8-4537-b15b-c645b184142d",
+                  "name" : "Brittney Spencer",
+                  "sortName" : "Spencer, Brittney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brittney-spencer-73f27689.html"
+               }
+            }, {
+               "name" : "Sugar Magnolia",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">",
+               "with" : {
+                  "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+                  "name" : "John Mayer",
+                  "sortName" : "Mayer, John",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+               }
+            }, {
+               "name" : "Scarlet Begonias",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">",
+               "with" : {
+                  "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+                  "name" : "John Mayer",
+                  "sortName" : "Mayer, John",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+               }
+            }, {
+               "name" : "The Other One",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "with" : {
+                  "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+                  "name" : "John Mayer",
+                  "sortName" : "Mayer, John",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+               }
+            }, {
+               "name" : "Morning Dew",
+               "cover" : {
+                  "mbid" : "f469afbc-132f-4a6a-b10b-bc31ab5288e2",
+                  "name" : "Bonnie Dobson",
+                  "sortName" : "Dobson, Bonnie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bonnie-dobson-3d7a1ef.html"
+               },
+               "info" : ">",
+               "with" : {
+                  "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+                  "name" : "John Mayer",
+                  "sortName" : "Mayer, John",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+               }
+            }, {
+               "name" : "Sunshine Daydream",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "with" : {
+                  "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+                  "name" : "John Mayer",
+                  "sortName" : "Mayer, John",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Not Fade Away",
+               "cover" : {
+                  "mbid" : "de9a19b3-531b-4df3-ae90-4763fe282946",
+                  "name" : "The Crickets",
+                  "sortName" : "Crickets, The",
+                  "disambiguation" : "band originally with Buddy Holly",
+                  "url" : "https://www.setlist.fm/setlists/the-crickets-73d69e79.html"
+               },
+               "with" : {
+                  "mbid" : "144ef525-85e9-40c3-8335-02c32d0861f3",
+                  "name" : "John Mayer",
+                  "sortName" : "Mayer, John",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/john-mayer-23d6bc3b.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Celebrating the 50th Anniversary of 'Ace'. Bob Weir & Wolf Bros (Don Was-bass, Jay Lane-drums, Jeff Chimenti-keyboards, Barry Sless-pedal steel). Wolf Pack (Alex Kelly-cello, Mads Tolling-violin, Adam Theis-trombone, Brian Switzer-trumpet, Sheldon Brown-woodwinds).",
+      "url" : "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2022/radio-city-music-hall-new-york-ny-1bb6b144.html"
+   }, {
+      "id" : "1bb6b970",
+      "versionId" : "g5b867fa4",
+      "eventDate" : "02-04-2022",
+      "lastUpdated" : "2023-09-17T15:18:29.222+0000",
+      "artist" : {
+         "mbid" : "0f9b5bdb-9e99-40c1-8311-5164cb8871a1",
+         "name" : "Bob Weir and Wolf Bros.",
+         "sortName" : "Bob Weir and Wolf Bros.",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bob-weir-and-wolf-bros-23f220ab.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Spring Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "When I Paint My Masterpiece",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               },
+               "info" : "Bobby-solo acoustic"
+            }, {
+               "name" : "Me and My Uncle",
+               "cover" : {
+                  "mbid" : "1333db0b-41d1-42fa-8e7e-526b4cc70d64",
+                  "name" : "John Phillips",
+                  "sortName" : "Phillips, John",
+                  "disambiguation" : "The Mamas & The Papas",
+                  "url" : "https://www.setlist.fm/setlists/john-phillips-13d60529.html"
+               }
+            }, {
+               "name" : "Loser",
+               "cover" : {
+                  "mbid" : "1ecff755-607d-4130-9a8a-8873f27e5de5",
+                  "name" : "Jerry Garcia",
+                  "sortName" : "Garcia, Jerry",
+                  "disambiguation" : "guitarist / vocalist in Grateful Dead",
+                  "url" : "https://www.setlist.fm/setlists/jerry-garcia-bd6adce.html"
+               }
+            } ]
+         }, {
+            "name" : "\"Ace\"",
+            "song" : [ {
+               "name" : "Greatest Story Ever Told",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "with" : {
+                  "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+                  "name" : "Tyler Childers",
+                  "sortName" : "Childers, Tyler",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+               }
+            }, {
+               "name" : "Black-Throated Wind",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               }
+            }, {
+               "name" : "Walk in the Sunshine",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "info" : "First time played since 1-24-2010) (>",
+               "with" : {
+                  "mbid" : "8e66081a-58f8-4537-b15b-c645b184142d",
+                  "name" : "Brittney Spencer",
+                  "sortName" : "Spencer, Brittney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brittney-spencer-73f27689.html"
+               }
+            }, {
+               "name" : "Playing in the Band",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Looks Like Rain",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               },
+               "with" : {
+                  "mbid" : "8e66081a-58f8-4537-b15b-c645b184142d",
+                  "name" : "Brittney Spencer",
+                  "sortName" : "Spencer, Brittney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brittney-spencer-73f27689.html"
+               }
+            }, {
+               "name" : "Mexicali Blues",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               }
+            }, {
+               "name" : "One More Saturday Night",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               }
+            }, {
+               "name" : "Cassidy",
+               "cover" : {
+                  "mbid" : "c8a63580-9e6b-4852-bf93-c09760035e76",
+                  "name" : "Bob Weir",
+                  "sortName" : "Weir, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-weir-bd6add6.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "You Win Again",
+               "cover" : {
+                  "mbid" : "6aad1485-862b-42d4-ac7e-cfab197214d0",
+                  "name" : "Hank Williams With His Drifting Cowboys",
+                  "sortName" : "Williams, Hank, With His Drifting Cowboys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/hank-williams-with-his-drifting-cowboys-3d66973.html"
+               },
+               "with" : {
+                  "mbid" : "9947e874-ddd0-4e1a-b0d4-a76f6532fe45",
+                  "name" : "Tyler Childers",
+                  "sortName" : "Childers, Tyler",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyler-childers-3bce0888.html"
+               }
+            }, {
+               "name" : "Weather Report Suite",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Shakedown Street",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "with" : {
+                  "mbid" : "8e66081a-58f8-4537-b15b-c645b184142d",
+                  "name" : "Brittney Spencer",
+                  "sortName" : "Spencer, Brittney",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/brittney-spencer-73f27689.html"
+               }
+            }, {
+               "name" : "Dark Star",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "w/ “Wharf Rat” tease",
+               "with" : {
+                  "mbid" : "57db3f59-9c58-4f68-a00e-e044666c4828",
+                  "name" : "Ron Carter",
+                  "sortName" : "Carter, Ron",
+                  "disambiguation" : "US jazz double-bassist",
+                  "url" : "https://www.setlist.fm/setlists/ron-carter-bd6b576.html"
+               }
+            }, {
+               "name" : "Eyes of the World",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "What's Going On",
+               "cover" : {
+                  "mbid" : "afdb7919-059d-43c1-b668-ba1d265e7e42",
+                  "name" : "Marvin Gaye",
+                  "sortName" : "Gaye, Marvin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marvin-gaye-bd6b99e.html"
+               },
+               "info" : "> Eyes of the World reprise"
+            }, {
+               "name" : "Days Between",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               },
+               "info" : "> Playing in the Band reprise"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ripple",
+               "cover" : {
+                  "mbid" : "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+                  "name" : "Grateful Dead",
+                  "sortName" : "Grateful Dead",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "50th Anniversary of 'Ace'. Bob Weir & Wolf Bros (Don Was-bass, Jay Lane-drums, Jeff Chimenti-keyboards, Barry Sless-pedal steel). Wolf Pack (Alex Kelly-cello, Mads Tolling-violin, Adam Theis-trombone, Brian Switzer-trumpet, Sheldon Brown-woodwinds)",
+      "url" : "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2022/radio-city-music-hall-new-york-ny-1bb6b970.html"
+   }, {
+      "id" : "3b8940d8",
+      "versionId" : "g1bccd1b0",
+      "eventDate" : "01-04-2022",
+      "lastUpdated" : "2022-03-30T05:55:06.523+0000",
+      "artist" : {
+         "mbid" : "609295c8-5587-4c22-b354-a40e71ddcf62",
+         "name" : "The Record Company",
+         "sortName" : "Record Company, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-record-company-33db5865.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-record-company/2022/radio-city-music-hall-new-york-ny-3b8940d8.html"
+   }, {
+      "id" : "3b6a9db",
+      "versionId" : "g739c7669",
+      "eventDate" : "01-04-2022",
+      "lastUpdated" : "2023-07-29T19:41:52.346+0000",
+      "artist" : {
+         "mbid" : "ed4a08e1-2a79-4538-b519-87bb2ee0fd9d",
+         "name" : "The Revivalists",
+         "sortName" : "Revivalists, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-revivalists-23d28c6f.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Criminal"
+            }, {
+               "name" : "It Was a Sin"
+            }, {
+               "name" : "You and I"
+            }, {
+               "name" : "Change"
+            }, {
+               "name" : "Oh No"
+            }, {
+               "name" : "All My Friends"
+            }, {
+               "name" : "Soul's Too Loud"
+            }, {
+               "name" : "Straw Man"
+            }, {
+               "name" : "Keep Going"
+            }, {
+               "name" : "I've Got a Feeling",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Got Love"
+            }, {
+               "name" : "Celebration"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "My My, Hey Hey (Out of the Blue)",
+               "cover" : {
+                  "mbid" : "0f3515b0-75c9-46c9-b26c-4cd05d26eae7",
+                  "name" : "Neil Young & Crazy Horse",
+                  "sortName" : "Young, Neil & Crazy Horse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-and-crazy-horse-73d6b661.html"
+               }
+            }, {
+               "name" : "Soulfight"
+            }, {
+               "name" : "Catching Fireflies"
+            }, {
+               "name" : "Wish I Knew You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-revivalists/2022/radio-city-music-hall-new-york-ny-3b6a9db.html"
+   }, {
+      "id" : "1bb38938",
+      "versionId" : "g6bf10aae",
+      "eventDate" : "29-03-2022",
+      "lastUpdated" : "2022-08-09T23:07:43.995+0000",
+      "artist" : {
+         "mbid" : "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+         "name" : "Snoh Aalegra",
+         "sortName" : "Aalegra, Snoh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/snoh-aalegra-13d8ede1.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Ugh, These Temporary Highs"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/snoh-aalegra/2022/radio-city-music-hall-new-york-ny-1bb38938.html"
+   }, {
+      "id" : "5b89573c",
+      "versionId" : "g3bfee428",
+      "eventDate" : "26-03-2022",
+      "lastUpdated" : "2022-08-15T15:36:32.949+0000",
+      "artist" : {
+         "mbid" : "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+         "name" : "Snoh Aalegra",
+         "sortName" : "Aalegra, Snoh",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/snoh-aalegra-13d8ede1.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "Ugh, These Temporary Highs"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Situationship"
+            }, {
+               "name" : "IN YOUR EYES"
+            }, {
+               "name" : "Whoa"
+            }, {
+               "name" : "LOST YOU"
+            }, {
+               "name" : "WE DON'T HAVE TO TALK ABOUT IT"
+            }, {
+               "name" : "ON MY MIND"
+            }, {
+               "name" : "INDECISIVE"
+            }, {
+               "name" : "Toronto"
+            }, {
+               "name" : "Fool for You"
+            }, {
+               "name" : "You"
+            }, {
+               "name" : "Charleville 9200, Pt. II"
+            }, {
+               "name" : "DYING 4 YOUR LOVE"
+            }, {
+               "name" : "TANGERINE DREAM"
+            }, {
+               "name" : "Love Like That"
+            }, {
+               "name" : "DO 4 LOVE"
+            }, {
+               "name" : "NEON PEACH"
+            }, {
+               "name" : "IN THE MOMENT"
+            }, {
+               "name" : "VIOLET SKIES"
+            }, {
+               "name" : "Nothing to Me"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Find Someone Like You"
+            }, {
+               "name" : "I Want You Around"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/snoh-aalegra/2022/radio-city-music-hall-new-york-ny-5b89573c.html"
+   }, {
+      "id" : "4ba32f0a",
+      "versionId" : "g3845d6b",
+      "eventDate" : "16-03-2022",
+      "lastUpdated" : "2023-10-03T16:06:58.369+0000",
+      "artist" : {
+         "mbid" : "043e6ca3-b049-4e6a-bebc-dc74f6c5cdf8",
+         "name" : "bülow",
+         "sortName" : "bülow",
+         "disambiguation" : "Megan Bülow",
+         "url" : "https://www.setlist.fm/setlists/bulow-4bcd6306.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "Setlist incomplete",
+      "url" : "https://www.setlist.fm/setlist/bulow/2022/radio-city-music-hall-new-york-ny-4ba32f0a.html"
+   }, {
+      "id" : "4b89c3d2",
+      "versionId" : "g63cfca97",
+      "eventDate" : "16-03-2022",
+      "lastUpdated" : "2022-03-17T11:23:19.097+0000",
+      "artist" : {
+         "mbid" : "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+         "name" : "Conan Gray",
+         "sortName" : "Gray, Conan",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/conan-gray-1bcd6130.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "tour" : {
+         "name" : "North American Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true
+            }, {
+               "name" : "Wish You Were Sober"
+            }, {
+               "name" : "Telepath"
+            }, {
+               "name" : "Comfort Crowd"
+            }, {
+               "name" : "Fight or Flight"
+            }, {
+               "name" : "(Online Love)",
+               "tape" : true
+            }, {
+               "name" : "Astronomy"
+            }, {
+               "name" : "The Cut That Always Bleeds"
+            }, {
+               "name" : "Checkmate"
+            }, {
+               "name" : "Video Interlude",
+               "tape" : true
+            }, {
+               "name" : "Overdrive"
+            }, {
+               "name" : "Affluenza"
+            }, {
+               "name" : "The Story"
+            }, {
+               "name" : "Lookalike"
+            }, {
+               "name" : "Little League"
+            }, {
+               "name" : "Jigsaw"
+            }, {
+               "name" : "People Watching"
+            }, {
+               "name" : "Maniac"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Heather"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/conan-gray/2022/radio-city-music-hall-new-york-ny-4b89c3d2.html"
+   }, {
+      "id" : "3389dc3d",
+      "versionId" : "g33ccb875",
+      "eventDate" : "10-03-2022",
+      "lastUpdated" : "2022-03-24T17:26:09.291+0000",
+      "artist" : {
+         "mbid" : "42dd1862-7255-47ed-8584-651abce3bf53",
+         "name" : "Nubya Garcia",
+         "sortName" : "Garcia, Nubya",
+         "disambiguation" : "English jazz musician",
+         "url" : "https://www.setlist.fm/setlists/nubya-garcia-1bcc3dc8.html"
+      },
+      "venue" : {
+         "id" : "23d624c7",
+         "name" : "Radio City Music Hall",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/radio-city-music-hall-new-york-ny-usa-23d624c7.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Source"
+            }, {
+               "name" : "The Message Continues"
+            }, {
+               "name" : "",
+               "info" : "New song"
+            }, {
+               "name" : "Lost Kingdoms"
+            }, {
+               "name" : "Before Us: In Demerara & Caura"
+            }, {
+               "name" : "La cumbia me está llamando"
+            }, {
+               "name" : "Pace"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nubya-garcia/2022/radio-city-music-hall-new-york-ny-3389dc3d.html"
+   } ]
+}

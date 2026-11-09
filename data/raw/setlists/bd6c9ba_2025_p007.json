@@ -1,0 +1,829 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 7,
+   "total" : 130,
+   "setlist" : [ {
+      "id" : "1b5a6190",
+      "versionId" : "gb45c906",
+      "eventDate" : "06-03-2025",
+      "lastUpdated" : "2025-03-07T20:18:55.694+0000",
+      "artist" : {
+         "mbid" : "04f57a2d-2449-400e-8fff-5b1c5af9560b",
+         "name" : "Mavis Staples",
+         "sortName" : "Staples, Mavis",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/mavis-staples-23d6b83f.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I'll Take You There",
+               "cover" : {
+                  "mbid" : "3d49e36a-cc9e-411e-93c6-d1646ba5bd3a",
+                  "name" : "The Staple Singers",
+                  "sortName" : "Staple Singers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-staple-singers-23d6b823.html"
+               },
+               "with" : {
+                  "mbid" : "cacbe57b-02d0-4d21-be86-c8a3a5ea6e1e",
+                  "name" : "Michael McDonald",
+                  "sortName" : "McDonald, Michael",
+                  "disambiguation" : "R&B & soul singer",
+                  "url" : "https://www.setlist.fm/setlists/michael-mcdonald-33d6b8a9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mavis-staples/2025/beacon-theatre-new-york-ny-1b5a6190.html"
+   }, {
+      "id" : "135a6195",
+      "versionId" : "g3b420820",
+      "eventDate" : "06-03-2025",
+      "lastUpdated" : "2025-03-18T03:50:03.089+0000",
+      "artist" : {
+         "mbid" : "bfcc6d75-a6a5-4bc6-8282-47aec8531818",
+         "name" : "Cher",
+         "sortName" : "Cher",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cher-73d6bef1.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Walking in Memphis",
+               "cover" : {
+                  "mbid" : "ddf18377-0bf5-4972-90d2-7de878b5eec4",
+                  "name" : "Marc Cohn",
+                  "sortName" : "Cohn, Marc",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marc-cohn-43d7afb7.html"
+               }
+            }, {
+               "name" : "(This Is) A Song for the Lonely"
+            }, {
+               "name" : "Strong Enough",
+               "tape" : true,
+               "info" : "remix featuring a dance break"
+            }, {
+               "name" : "Believe"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cher/2025/beacon-theatre-new-york-ny-135a6195.html"
+   }, {
+      "id" : "4b5bd3fe",
+      "versionId" : "g6b44665a",
+      "eventDate" : "27-02-2025",
+      "lastUpdated" : "2025-03-02T18:44:26.913+0000",
+      "artist" : {
+         "mbid" : "984f8239-8fe1-4683-9c54-10ffb14439e9",
+         "name" : "Joe Bonamassa",
+         "sortName" : "Bonamassa, Joe",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/joe-bonamassa-3d6017b.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "US Spring Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Soul Finger",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "919ac2b3-aa04-4732-93f8-742ebb7a03f2",
+                  "name" : "The Bar‐Kays",
+                  "sortName" : "Bar‐Kays, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-barkays-2bd608f6.html"
+               }
+            }, {
+               "name" : "Hope You Realize It (Goodbye Again)"
+            }, {
+               "name" : "Dust Bowl"
+            }, {
+               "name" : "Twenty‐Four Hour Blues",
+               "cover" : {
+                  "mbid" : "66ebc271-6a26-4fe7-848b-f217da119d92",
+                  "name" : "Bobby “Blue” Bland",
+                  "sortName" : "Bland, Bobby “Blue”",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bobby-blue-bland-4bd7b36e.html"
+               }
+            }, {
+               "name" : "Well, I Done Got Over It",
+               "cover" : {
+                  "mbid" : "017151db-3920-4b4d-ab17-c8c5b6616648",
+                  "name" : "Guitar Slim",
+                  "sortName" : "Guitar Slim",
+                  "disambiguation" : "Eddie Jones",
+                  "url" : "https://www.setlist.fm/setlists/guitar-slim-63d632c7.html"
+               }
+            }, {
+               "name" : "Driving Towards the Daylight"
+            }, {
+               "name" : "I Want to Shout About It",
+               "cover" : {
+                  "mbid" : "1a3652ec-5bac-4f65-940e-6d80e0161a8a",
+                  "name" : "Ronnie Earl and the Broadcasters",
+                  "sortName" : "Earl, Ronnie and the Broadcasters",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ronnie-earl-and-the-broadcasters-33d6d8a9.html"
+               }
+            }, {
+               "name" : "The Last Matador of Bayonne"
+            }, {
+               "name" : "Pack It Up",
+               "cover" : {
+                  "mbid" : "d6ae4b23-965f-485a-b2c2-66c43ffaef20",
+                  "name" : "Freddie King",
+                  "sortName" : "King, Freddie",
+                  "disambiguation" : "US blues singer & guitarist",
+                  "url" : "https://www.setlist.fm/setlists/freddie-king-2bd698ea.html"
+               },
+               "with" : {
+                  "mbid" : "e1412c77-0e60-406e-b48d-cb28b97aa62d",
+                  "name" : "Oz Noy",
+                  "sortName" : "Noy, Oz",
+                  "disambiguation" : "Israeli-American guitarist and composer",
+                  "url" : "https://www.setlist.fm/setlists/oz-noy-2bd71c6e.html"
+               }
+            }, {
+               "name" : "The Heart That Never Waits"
+            }, {
+               "name" : "Is It Safe to Go Home"
+            }, {
+               "name" : "It's Hard But It's Fair",
+               "cover" : {
+                  "mbid" : "b1df7eb4-2074-4a60-9f3a-ad62365d5306",
+                  "name" : "Bobby Parker",
+                  "sortName" : "Parker, Bobby",
+                  "disambiguation" : "blues rock guitarist",
+                  "url" : "https://www.setlist.fm/setlists/bobby-parker-73d4fee9.html"
+               }
+            }, {
+               "name" : "How Many More Times",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Sloe Gin",
+               "cover" : {
+                  "mbid" : "33ce4a70-005d-4563-bb6e-2d253fab9842",
+                  "name" : "Tim Curry",
+                  "sortName" : "Curry, Tim",
+                  "disambiguation" : "English actor and singer",
+                  "url" : "https://www.setlist.fm/setlists/tim-curry-63d60a5b.html"
+               }
+            }, {
+               "name" : "There's No Business Like Show Business",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joe-bonamassa/2025/beacon-theatre-new-york-ny-4b5bd3fe.html"
+   }, {
+      "id" : "6b51ca8a",
+      "versionId" : "gb44d1fa",
+      "eventDate" : "26-02-2025",
+      "lastUpdated" : "2025-02-27T03:54:49.504+0000",
+      "artist" : {
+         "mbid" : "172053e5-a7fb-4548-a64d-c53858b5e775",
+         "name" : "Father John Misty",
+         "sortName" : "Father John Misty",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/father-john-misty-53d07fd5.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Mahashmashana"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Funtimes in Babylon"
+            }, {
+               "name" : "I Guess Time Just Makes Fools of Us All"
+            }, {
+               "name" : "Josh Tillman and the Accidental Dose"
+            }, {
+               "name" : "Q4"
+            }, {
+               "name" : "Being You"
+            }, {
+               "name" : "Mr. Tillman"
+            }, {
+               "name" : "Nancy From Now On"
+            }, {
+               "name" : "Goodbye Mr. Blue"
+            }, {
+               "name" : "God's Favorite Customer"
+            }, {
+               "name" : "Nothing Good Ever Happens at the Goddamn Thirsty Crow"
+            }, {
+               "name" : "She Cleans Up"
+            }, {
+               "name" : "Screamland"
+            }, {
+               "name" : "Summer’s Gone"
+            }, {
+               "name" : "Mental Health"
+            }, {
+               "name" : "Mahashmashana"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I'm Writing a Novel"
+            }, {
+               "name" : "Chateau Lobby #4 (in C for Two Virgins)"
+            }, {
+               "name" : "So I'm Growing Old on Magic Mountain"
+            }, {
+               "name" : "I Love You, Honeybear"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/father-john-misty/2025/beacon-theatre-new-york-ny-6b51ca8a.html"
+   }, {
+      "id" : "3b5a74d8",
+      "versionId" : "g4344d74f",
+      "eventDate" : "26-02-2025",
+      "lastUpdated" : "2025-02-27T01:40:18.327+0000",
+      "artist" : {
+         "mbid" : "61604b45-8a91-4e33-a1b6-45d7b1fec4e5",
+         "name" : "Destroyer",
+         "sortName" : "Destroyer",
+         "disambiguation" : "Canadian indie rock band",
+         "url" : "https://www.setlist.fm/setlists/destroyer-6bd6a696.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Music Lovers"
+            }, {
+               "name" : "Tinseltown Swimming in Blood"
+            }, {
+               "name" : "It's Gonna Take an Airplane"
+            }, {
+               "name" : "It Just Doesn't Happen"
+            }, {
+               "name" : "Times Square"
+            }, {
+               "name" : "Painter in Your Pocket"
+            }, {
+               "name" : "Cue Synthesizer"
+            }, {
+               "name" : "Chinatown"
+            }, {
+               "name" : "Stay Lost"
+            }, {
+               "name" : "Poor in Love"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/destroyer/2025/beacon-theatre-new-york-ny-3b5a74d8.html"
+   }, {
+      "id" : "635a46eb",
+      "versionId" : "g334748d1",
+      "eventDate" : "22-02-2025",
+      "lastUpdated" : "2025-02-23T21:56:50.261+0000",
+      "artist" : {
+         "mbid" : "4c501a41-5f23-41c9-a36a-5b86e894e08d",
+         "name" : "Jason Isbell",
+         "sortName" : "Isbell, Jason",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jason-isbell-bd6e9ca.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "An Evening with Jason Isbell"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bury Me"
+            }, {
+               "name" : "Middle of the Morning",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Foxes in the Snow"
+            }, {
+               "name" : "Outfit",
+               "cover" : {
+                  "mbid" : "8eae1e0a-1696-4532-9e3c-0a072217ef4c",
+                  "name" : "Drive‐By Truckers",
+                  "sortName" : "Drive‐By Truckers",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/driveby-truckers-3d6e9cf.html"
+               }
+            }, {
+               "name" : "Gravelweed"
+            }, {
+               "name" : "Strawberry Woman",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Danko/Manuel",
+               "cover" : {
+                  "mbid" : "8eae1e0a-1696-4532-9e3c-0a072217ef4c",
+                  "name" : "Drive‐By Truckers",
+                  "sortName" : "Drive‐By Truckers",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/driveby-truckers-3d6e9cf.html"
+               }
+            }, {
+               "name" : "Traveling Alone"
+            }, {
+               "name" : "Live Oak"
+            }, {
+               "name" : "Alabama Pines",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Eileen"
+            }, {
+               "name" : "If We Were Vampires",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Cast Iron Skillet",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Cover Me Up"
+            }, {
+               "name" : "Ride to Robert's"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Storm Windows",
+               "cover" : {
+                  "mbid" : "e86492c1-0376-4df0-8042-8ba058c83960",
+                  "name" : "John Prine",
+                  "sortName" : "Prine, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-prine-7bd656f4.html"
+               }
+            }, {
+               "name" : "24 Frames"
+            }, {
+               "name" : "True Believer"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jason-isbell/2025/beacon-theatre-new-york-ny-635a46eb.html"
+   }, {
+      "id" : "4b5ab732",
+      "versionId" : "g3476dc7",
+      "eventDate" : "21-02-2025",
+      "lastUpdated" : "2025-02-23T02:14:29.820+0000",
+      "artist" : {
+         "mbid" : "4c501a41-5f23-41c9-a36a-5b86e894e08d",
+         "name" : "Jason Isbell",
+         "sortName" : "Isbell, Jason",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jason-isbell-bd6e9ca.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "An Evening with Jason Isbell"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Bury Me"
+            }, {
+               "name" : "King of Oklahoma",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Foxes in the Snow"
+            }, {
+               "name" : "Gravelweed"
+            }, {
+               "name" : "Middle of the Morning",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Eileen"
+            }, {
+               "name" : "Chaos and Clothes",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Open and Close"
+            }, {
+               "name" : "Elephant"
+            }, {
+               "name" : "Alabama Pines",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Cover Me Up"
+            }, {
+               "name" : "If We Were Vampires",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Cast Iron Skillet",
+               "cover" : {
+                  "mbid" : "857c2983-0a33-466f-8607-28504ba8a6c0",
+                  "name" : "Jason Isbell and the 400 Unit",
+                  "sortName" : "Isbell, Jason and the 400 Unit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jason-isbell-and-the-400-unit-7bca3ad8.html"
+               }
+            }, {
+               "name" : "Relatively Easy"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ride to Robert's"
+            }, {
+               "name" : "Beth/Rest",
+               "cover" : {
+                  "mbid" : "437a0e49-c6ae-42f6-a6c1-84f25ed366bc",
+                  "name" : "Bon Iver",
+                  "sortName" : "Bon Iver",
+                  "disambiguation" : "US indie folk band",
+                  "url" : "https://www.setlist.fm/setlists/bon-iver-43d66f83.html"
+               }
+            }, {
+               "name" : "True Believer"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jason-isbell/2025/beacon-theatre-new-york-ny-4b5ab732.html"
+   }, {
+      "id" : "535d63b9",
+      "versionId" : "g5b58779c",
+      "eventDate" : "28-01-2025",
+      "lastUpdated" : "2025-02-01T19:17:22.370+0000",
+      "artist" : {
+         "mbid" : "3e8bd859-7d82-49e0-b267-84fc46e2bf68",
+         "name" : "David Gray",
+         "sortName" : "Gray, David",
+         "disambiguation" : "British singer/songwriter",
+         "url" : "https://www.setlist.fm/setlists/david-gray-4bd7dbfe.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Past & Present"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sunlight on Water"
+            }, {
+               "name" : "Slow Motion"
+            }, {
+               "name" : "The One I Love"
+            }, {
+               "name" : "Nos Da Cariad"
+            }, {
+               "name" : "Lately"
+            }, {
+               "name" : "Ain't No Love"
+            }, {
+               "name" : "After the Harvest"
+            }, {
+               "name" : "Singing for the Pharaoh"
+            }, {
+               "name" : "Just Can't Get Enough",
+               "cover" : {
+                  "mbid" : "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+                  "name" : "Depeche Mode",
+                  "sortName" : "Depeche Mode",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/depeche-mode-73d6b235.html"
+               }
+            }, {
+               "name" : "Babylon"
+            }, {
+               "name" : "My Oh My"
+            }, {
+               "name" : "Silver Lining"
+            }, {
+               "name" : "Plus & Minus"
+            }, {
+               "name" : "Be Mine"
+            }, {
+               "name" : "Dead in the Water"
+            }, {
+               "name" : "Last Boat to America"
+            }, {
+               "name" : "Freedom"
+            }, {
+               "name" : "Leave Taking"
+            }, {
+               "name" : "Please Forgive Me"
+            }, {
+               "name" : "Say Hello, Wave Goodbye",
+               "cover" : {
+                  "mbid" : "7fb50287-029d-47cc-825a-235ca28024b2",
+                  "name" : "Soft Cell",
+                  "sortName" : "Soft Cell",
+                  "disambiguation" : "1980s English synth‐pop duo",
+                  "url" : "https://www.setlist.fm/setlists/soft-cell-6bd6baa6.html"
+               },
+               "info" : "Tour Debut"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "This Year's Love"
+            }, {
+               "name" : "Sail Away"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/david-gray/2025/beacon-theatre-new-york-ny-535d63b9.html"
+   }, {
+      "id" : "235dd08b",
+      "versionId" : "g1b5a49f4",
+      "eventDate" : "18-01-2025",
+      "lastUpdated" : "2025-01-16T01:49:00.893+0000",
+      "artist" : {
+         "mbid" : "ebf48614-6b24-41bd-9ebb-a90af8e473b7",
+         "name" : "Sarah Silverman",
+         "sortName" : "Silverman, Sarah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sarah-silverman-73d32e69.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Postmortem"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sarah-silverman/2025/beacon-theatre-new-york-ny-235dd08b.html"
+   }, {
+      "id" : "3b5dd094",
+      "versionId" : "gb5a49f6",
+      "eventDate" : "17-01-2025",
+      "lastUpdated" : "2025-01-16T01:48:34.095+0000",
+      "artist" : {
+         "mbid" : "ebf48614-6b24-41bd-9ebb-a90af8e473b7",
+         "name" : "Sarah Silverman",
+         "sortName" : "Silverman, Sarah",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/sarah-silverman-73d32e69.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Postmortem"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/sarah-silverman/2025/beacon-theatre-new-york-ny-3b5dd094.html"
+   } ]
+}

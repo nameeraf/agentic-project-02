@@ -1,0 +1,1141 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 6,
+   "total" : 181,
+   "setlist" : [ {
+      "id" : "bab61ae",
+      "versionId" : "g73beea8d",
+      "eventDate" : "11-04-2024",
+      "lastUpdated" : "2024-04-08T20:32:14.725+0000",
+      "artist" : {
+         "mbid" : "51013eb4-dcd1-4fd2-945c-e5cf1eb85e84",
+         "name" : "Casting Crowns",
+         "sortName" : "Casting Crowns",
+         "disambiguation" : "CCM band",
+         "url" : "https://www.setlist.fm/setlists/casting-crowns-63d6f6df.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "20th Anniversary Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/casting-crowns/2024/beacon-theatre-new-york-ny-bab61ae.html"
+   }, {
+      "id" : "634e66ff",
+      "versionId" : "g5b677f20",
+      "eventDate" : "06-04-2024",
+      "lastUpdated" : "2025-10-27T13:46:12.963+0000",
+      "artist" : {
+         "mbid" : "9620e5d2-df6c-4cb1-832a-6bb7d749025e",
+         "name" : "SATCHVAI Band",
+         "sortName" : "SATCHVAI Band",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/satchvai-band-7be1aa94.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/satchvai-band/2024/beacon-theatre-new-york-ny-634e66ff.html"
+   }, {
+      "id" : "5babc3a4",
+      "versionId" : "g73494639",
+      "eventDate" : "06-04-2024",
+      "lastUpdated" : "2025-06-14T12:30:20.359+0000",
+      "artist" : {
+         "mbid" : "29762c82-bb92-4acd-b1fb-09cc4da250d2",
+         "name" : "Joe Satriani",
+         "sortName" : "Satriani, Joe",
+         "disambiguation" : "American rock guitarist, composer, record producer, and songwriter",
+         "url" : "https://www.setlist.fm/setlists/joe-satriani-7bd6aa60.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Satch/Vai Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Extremist"
+            }, {
+               "name" : "Surfing With the Alien"
+            }, {
+               "name" : "Satch Boogie"
+            }, {
+               "name" : "Sahara",
+               "info" : "band Introductions"
+            }, {
+               "name" : "Nineteen Eighty",
+               "info" : "Cable breaks and pedalboard stops working ***skips Big Bad Moon"
+            }, {
+               "name" : "Flying in a Blue Dream"
+            }, {
+               "name" : "Blue Foot Groovy"
+            }, {
+               "name" : "Always With Me, Always With You"
+            }, {
+               "name" : "If I Could Fly"
+            }, {
+               "name" : "Ice 9"
+            }, {
+               "name" : "The Sea of Emotion, Pt. 1",
+               "cover" : {
+                  "mbid" : "9620e5d2-df6c-4cb1-832a-6bb7d749025e",
+                  "name" : "SATCHVAI Band",
+                  "sortName" : "SATCHVAI Band",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/satchvai-band-7be1aa94.html"
+               },
+               "with" : {
+                  "mbid" : "5e7ccd92-6277-451a-aab9-1efd587c50f3",
+                  "name" : "Steve Vai",
+                  "sortName" : "Vai, Steve",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/steve-vai-2bd6b0f6.html"
+               }
+            }, {
+               "name" : "You Really Got Me",
+               "cover" : {
+                  "mbid" : "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                  "name" : "The Kinks",
+                  "sortName" : "Kinks, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-kinks-23d6ac37.html"
+               },
+               "with" : {
+                  "mbid" : "5e7ccd92-6277-451a-aab9-1efd587c50f3",
+                  "name" : "Steve Vai",
+                  "sortName" : "Vai, Steve",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/steve-vai-2bd6b0f6.html"
+               }
+            }, {
+               "name" : "Enter Sandman",
+               "cover" : {
+                  "mbid" : "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name" : "Metallica",
+                  "sortName" : "Metallica",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+               },
+               "with" : {
+                  "mbid" : "5e7ccd92-6277-451a-aab9-1efd587c50f3",
+                  "name" : "Steve Vai",
+                  "sortName" : "Vai, Steve",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/steve-vai-2bd6b0f6.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/joe-satriani/2024/beacon-theatre-new-york-ny-5babc3a4.html"
+   }, {
+      "id" : "2bab7ca6",
+      "versionId" : "g1bbea53c",
+      "eventDate" : "06-04-2024",
+      "lastUpdated" : "2024-04-06T18:54:42.406+0000",
+      "artist" : {
+         "mbid" : "5e7ccd92-6277-451a-aab9-1efd587c50f3",
+         "name" : "Steve Vai",
+         "sortName" : "Vai, Steve",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/steve-vai-2bd6b0f6.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Satch/Vai Tour"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/steve-vai/2024/beacon-theatre-new-york-ny-2bab7ca6.html"
+   }, {
+      "id" : "6bab1696",
+      "versionId" : "gbb1591a",
+      "eventDate" : "04-04-2024",
+      "lastUpdated" : "2024-04-04T23:20:28.893+0000",
+      "artist" : {
+         "mbid" : "999dabb5-1576-4027-9178-3b5da5322478",
+         "name" : "Tony Hawk",
+         "sortName" : "Hawk, Tony",
+         "disambiguation" : "skateboarder",
+         "url" : "https://www.setlist.fm/setlists/tony-hawk-73ca8aa1.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Spoken Word Event w/ Rodney Mullen"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tony-hawk/2024/beacon-theatre-new-york-ny-6bab1696.html"
+   }, {
+      "id" : "13a8e1f5",
+      "versionId" : "g73bf1ef1",
+      "eventDate" : "02-04-2024",
+      "lastUpdated" : "2024-04-18T14:19:04.226+0000",
+      "artist" : {
+         "mbid" : "9401f570-1b61-4c83-8f39-44bc3166a4f8",
+         "name" : "Tim Robinson",
+         "sortName" : "Robinson, Tim",
+         "disambiguation" : "Comedian & Actor",
+         "url" : "https://www.setlist.fm/setlists/tim-robinson-7be42e84.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "I Think You Should Leave with Tim Robinson"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tim-robinson/2024/beacon-theatre-new-york-ny-13a8e1f5.html"
+   }, {
+      "id" : "4baa0792",
+      "versionId" : "g3b1300a0",
+      "eventDate" : "19-03-2024",
+      "lastUpdated" : "2026-04-09T17:05:36.766+0000",
+      "artist" : {
+         "mbid" : "a2a72dba-3a08-43c4-859c-4c7f5fcc9599",
+         "name" : "Jon Batiste",
+         "sortName" : "Batiste, Jon",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jon-batiste-1bdd31b0.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "UNEASY Tour 2024"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Hello, Billy Bob"
+            }, {
+               "name" : "TELL THE TRUTH"
+            }, {
+               "name" : "FREEDOM"
+            }, {
+               "name" : "Soul Power"
+            }, {
+               "name" : "Raindance"
+            }, {
+               "name" : "Piano Moment"
+            }, {
+               "name" : "Don't Stop"
+            }, {
+               "name" : "Wherever You Are"
+            }, {
+               "name" : "Butterfly"
+            }, {
+               "name" : "If You're Happy and You Know It",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "band presentation"
+            }, {
+               "name" : "When the Saints Go Marching In",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : "with drum solo"
+            }, {
+               "name" : "Worship"
+            }, {
+               "name" : "WE ARE"
+            }, {
+               "name" : "Ain't No Sunshine / Golden Slumbers / Moon River",
+               "info" : "medley tracklist incomplete"
+            }, {
+               "name" : "CRY"
+            }, {
+               "name" : "Master Power"
+            }, {
+               "name" : "I NEED YOU / Night Time Is the Right Time"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Uneasy",
+               "info" : "Instrumental"
+            }, {
+               "name" : "What a Wonderful World",
+               "cover" : {
+                  "mbid" : "eea8a864-fcda-4602-9569-38ab446decd6",
+                  "name" : "Louis Armstrong",
+                  "sortName" : "Armstrong, Louis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/louis-armstrong-bd6b5d6.html"
+               }
+            }, {
+               "name" : "You Are My Sunshine / Killing Me Softly With His Song  / Tom's Diner / Be Who You Are (Real Magic)",
+               "info" : "Acoustic"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jon-batiste/2024/beacon-theatre-new-york-ny-4baa0792.html"
+   }, {
+      "id" : "53aa2b0d",
+      "versionId" : "g2b773cc6",
+      "eventDate" : "16-03-2024",
+      "lastUpdated" : "2025-06-25T03:22:22.278+0000",
+      "artist" : {
+         "mbid" : "3f7574d9-94f3-46dc-8228-9d7358019d9f",
+         "name" : "Rhiannon Giddens",
+         "sortName" : "Giddens, Rhiannon",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rhiannon-giddens-13d2a9f9.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Following the North Star"
+            }, {
+               "name" : "The Love We Almost Had"
+            }, {
+               "name" : "Wrong Kind of Right"
+            }, {
+               "name" : "Come Love Come"
+            }, {
+               "name" : "Dimanche Après-Midi",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "",
+               "info" : "Vo Fa)"
+            }, {
+               "name" : "Louisiana Man"
+            }, {
+               "name" : "Briggs' Forró"
+            }, {
+               "name" : "Too Little, Too Late, Too Bad"
+            }, {
+               "name" : "Another Wasted Life"
+            }, {
+               "name" : "Niwel Goes to Town"
+            }, {
+               "name" : "Backbone",
+               "info" : "With Charly Lowry"
+            }, {
+               "name" : "We Could Fly"
+            }, {
+               "name" : "Hen in the Foxhouse"
+            }, {
+               "name" : "God Gave Noah the Rainbow Sign",
+               "cover" : {
+                  "mbid" : "29c5b1fb-5dcc-4499-b225-4ceeeb8a73d1",
+                  "name" : "The Carter Family",
+                  "sortName" : "Carter Family, The",
+                  "disambiguation" : "the original Carter Family, 1927–1943",
+                  "url" : "https://www.setlist.fm/setlists/the-carter-family-63d6ae97.html"
+               }
+            }, {
+               "name" : "Breaking Up Christmas",
+               "cover" : {
+                  "mbid" : "d59b8402-b09d-42e0-ac30-bd74c6b60f0c",
+                  "name" : "Tommy Jarrell",
+                  "sortName" : "Jarrell, Tommy",
+                  "disambiguation" : "old-time fiddler, banjo player, and singer",
+                  "url" : "https://www.setlist.fm/setlists/tommy-jarrell-23df2ca3.html"
+               }
+            }, {
+               "name" : "Yet to Be"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Look Down That Lonesome Road"
+            }, {
+               "name" : "Up Above My Head",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rhiannon-giddens/2024/beacon-theatre-new-york-ny-53aa2b0d.html"
+   }, {
+      "id" : "4baae3ba",
+      "versionId" : "g33bafcb9",
+      "eventDate" : "15-03-2024",
+      "lastUpdated" : "2024-05-08T23:00:47.454+0000",
+      "artist" : {
+         "mbid" : "c5f42b91-82b9-466c-891c-a9cc391b50bc",
+         "name" : "Kenny Wayne Shepherd",
+         "sortName" : "Shepherd, Kenny Wayne",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kenny-wayne-shepherd-23d61013.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Dirt on My Diamonds"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Was"
+            }, {
+               "name" : "Dirt on My Diamonds"
+            }, {
+               "name" : "Sweet & Low"
+            }, {
+               "name" : "Deja Voodoo"
+            }, {
+               "name" : "You Done Lost Your Good Thing Now",
+               "cover" : {
+                  "mbid" : "dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3",
+                  "name" : "B.B. King",
+                  "sortName" : "King, B.B.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bb-king-2bd698fe.html"
+               }
+            }, {
+               "name" : "Talk to Me Baby",
+               "cover" : {
+                  "mbid" : "6fbd2cfb-5f9c-497c-8e06-3c6668367681",
+                  "name" : "Elmore James",
+                  "sortName" : "James, Elmore",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elmore-james-33d698ed.html"
+               }
+            }, {
+               "name" : "Heat of the Sun"
+            }, {
+               "name" : "You Can't Love Me"
+            }, {
+               "name" : "Ease My Mind"
+            }, {
+               "name" : "I Want You"
+            }, {
+               "name" : "Diamonds & Gold"
+            }, {
+               "name" : "While We Cry"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Blue on Black"
+            }, {
+               "name" : "Voodoo Child (Slight Return)",
+               "cover" : {
+                  "mbid" : "33b3c323-77c2-417c-a5b4-af7e6a111cc9",
+                  "name" : "The Jimi Hendrix Experience",
+                  "sortName" : "Hendrix, Jimi, Experience, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-jimi-hendrix-experience-3d6ad57.html"
+               },
+               "info" : "With band intros. KWS used one of Howlin' Wolf's guitars for this song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kenny-wayne-shepherd/2024/beacon-theatre-new-york-ny-4baae3ba.html"
+   }, {
+      "id" : "3aadd53",
+      "versionId" : "g5bbec380",
+      "eventDate" : "15-03-2024",
+      "lastUpdated" : "2024-04-10T05:49:05.459+0000",
+      "artist" : {
+         "mbid" : "990bdfc1-d539-4387-8d2e-3c31a2b7b47e",
+         "name" : "Samantha Fish & Jesse Dayton",
+         "sortName" : "Fish, Samantha & Dayton, Jesse",
+         "disambiguation" : "guitar-duo collaboration",
+         "url" : "https://www.setlist.fm/setlists/samantha-fish-and-jesse-dayton-6bfa96ce.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "tour" : {
+         "name" : "Supadupabad Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Kick Out the Jams",
+               "cover" : {
+                  "mbid" : "08b736bb-1c82-40b4-8b0b-49e2182a067a",
+                  "name" : "MC5",
+                  "sortName" : "MC5",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mc5-3bd6ac6c.html"
+               }
+            }, {
+               "name" : "Deathwish"
+            }, {
+               "name" : "Feelin' Good",
+               "cover" : {
+                  "mbid" : "72aeceb5-c54d-4f71-bd63-063d0a5e49ec",
+                  "name" : "Little Junior’s Blue Flames",
+                  "sortName" : "Little Junior’s Blue Flames",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/little-juniors-blue-flames-33d430d5.html"
+               }
+            }, {
+               "name" : "Bulletproof",
+               "cover" : {
+                  "mbid" : "bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
+                  "name" : "Samantha Fish",
+                  "sortName" : "Fish, Samantha",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/samantha-fish-5bdfff3c.html"
+               },
+               "info" : "Tangle Eye Mix"
+            }, {
+               "name" : "Down in the Mud"
+            }, {
+               "name" : "No Apology"
+            }, {
+               "name" : "Trauma"
+            }, {
+               "name" : "I Put a Spell on You",
+               "cover" : {
+                  "mbid" : "185af318-55c7-405f-8b00-0fa308e56da9",
+                  "name" : "Screamin’ Jay Hawkins",
+                  "sortName" : "Hawkins, Screamin’ Jay",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/screamin-jay-hawkins-7bd656d8.html"
+               }
+            }, {
+               "name" : "7 and 7 Is",
+               "cover" : {
+                  "mbid" : "34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47",
+                  "name" : "Love",
+                  "sortName" : "Love",
+                  "disambiguation" : "folk-rock/psychedelic band",
+                  "url" : "https://www.setlist.fm/setlists/love-33d6ac91.html"
+               }
+            }, {
+               "name" : "Riders",
+               "info" : "Band intros made during song"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Kenny Wayne Shepherd",
+      "url" : "https://www.setlist.fm/setlist/samantha-fish-and-jesse-dayton/2024/beacon-theatre-new-york-ny-3aadd53.html"
+   }, {
+      "id" : "3aa39e3",
+      "versionId" : "g7bb3e658",
+      "eventDate" : "13-03-2024",
+      "lastUpdated" : "2024-03-16T03:15:49.133+0000",
+      "artist" : {
+         "mbid" : "060f1355-6deb-4e99-bf4a-65868f6a1a1e",
+         "name" : "James Acaster",
+         "sortName" : "Acaster, James",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/james-acaster-63f60abf.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/james-acaster/2024/beacon-theatre-new-york-ny-3aa39e3.html"
+   }, {
+      "id" : "5356aff9",
+      "versionId" : "gbbb612a",
+      "eventDate" : "10-03-2024",
+      "lastUpdated" : "2024-05-22T12:51:25.353+0000",
+      "artist" : {
+         "mbid" : "d3573f3a-6462-4794-b874-08a5b1272a43",
+         "name" : "John Oliver",
+         "sortName" : "Oliver, John",
+         "disambiguation" : "UK-born American-based Comedian",
+         "url" : "https://www.setlist.fm/setlists/john-oliver-33c52c85.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/john-oliver/2024/beacon-theatre-new-york-ny-5356aff9.html"
+   }, {
+      "id" : "4b56aff6",
+      "versionId" : "g13bb6119",
+      "eventDate" : "10-03-2024",
+      "lastUpdated" : "2024-05-22T12:53:55.184+0000",
+      "artist" : {
+         "mbid" : "3bcbedbf-f835-4d8a-af91-627c17c7fd39",
+         "name" : "Seth Meyers",
+         "sortName" : "Meyers, Seth",
+         "disambiguation" : "American comedian, writer, producer, actor and television host",
+         "url" : "https://www.setlist.fm/setlists/seth-meyers-63c6c21b.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/seth-meyers/2024/beacon-theatre-new-york-ny-4b56aff6.html"
+   }, {
+      "id" : "3429d2b",
+      "versionId" : "g4b72c7f2",
+      "eventDate" : "09-03-2024",
+      "lastUpdated" : "2025-07-16T04:35:34.518+0000",
+      "artist" : {
+         "mbid" : "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+         "name" : "Jerry Seinfeld",
+         "sortName" : "Seinfeld, Jerry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jerry-seinfeld-2bd71042.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jerry-seinfeld/2024/beacon-theatre-new-york-ny-3429d2b.html"
+   }, {
+      "id" : "b429d36",
+      "versionId" : "g4372c7ff",
+      "eventDate" : "08-03-2024",
+      "lastUpdated" : "2025-07-16T04:33:54.239+0000",
+      "artist" : {
+         "mbid" : "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+         "name" : "Jerry Seinfeld",
+         "sortName" : "Seinfeld, Jerry",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jerry-seinfeld-2bd71042.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/jerry-seinfeld/2024/beacon-theatre-new-york-ny-b429d36.html"
+   }, {
+      "id" : "baa9112",
+      "versionId" : "g3b23d87",
+      "eventDate" : "07-03-2024",
+      "lastUpdated" : "2024-03-08T03:39:20.742+0000",
+      "artist" : {
+         "mbid" : "32967245-ec7f-49a2-bf9f-3ed659005ffa",
+         "name" : "Martin Short",
+         "sortName" : "Short, Martin",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/martin-short-bd5ad26.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "info" : "short standup bit in between acts",
+      "url" : "https://www.setlist.fm/setlist/martin-short/2024/beacon-theatre-new-york-ny-baa9112.html"
+   }, {
+      "id" : "7baab67c",
+      "versionId" : "g43617bcf",
+      "eventDate" : "07-03-2024",
+      "lastUpdated" : "2025-12-10T21:48:53.543+0000",
+      "artist" : {
+         "mbid" : "49ee6f7f-2c69-42d8-9c06-253c408f72a8",
+         "name" : "Don Felder",
+         "sortName" : "Felder, Don",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/don-felder-3d6dd8f.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Life in the Fast Lane",
+               "cover" : {
+                  "mbid" : "f46bd570-5768-462e-b84c-c7c993bbf47e",
+                  "name" : "Eagles",
+                  "sortName" : "Eagles",
+                  "disambiguation" : "US country rock band",
+                  "url" : "https://www.setlist.fm/setlists/eagles-6bd6bede.html"
+               }
+            }, {
+               "name" : "Hotel California",
+               "cover" : {
+                  "mbid" : "f46bd570-5768-462e-b84c-c7c993bbf47e",
+                  "name" : "Eagles",
+                  "sortName" : "Eagles",
+                  "disambiguation" : "US country rock band",
+                  "url" : "https://www.setlist.fm/setlists/eagles-6bd6bede.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/don-felder/2024/beacon-theatre-new-york-ny-7baab67c.html"
+   }, {
+      "id" : "7baab678",
+      "versionId" : "g7bb23eb4",
+      "eventDate" : "07-03-2024",
+      "lastUpdated" : "2024-03-08T06:11:08.309+0000",
+      "artist" : {
+         "mbid" : "c6d571dd-c0ae-4ac8-9500-780b1b9b25e5",
+         "name" : "Nile Rodgers",
+         "sortName" : "Rodgers, Nile",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/nile-rodgers-5bd6079c.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Are Family",
+               "cover" : {
+                  "mbid" : "1ed00158-c6a3-45cd-819c-2f91997fc480",
+                  "name" : "Sister Sledge",
+                  "sortName" : "Sister Sledge",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sister-sledge-1bd6b9c4.html"
+               }
+            }, {
+               "name" : "Good Times / Rapper's Delight"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Let's Dance",
+               "cover" : {
+                  "mbid" : "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                  "name" : "David Bowie",
+                  "sortName" : "Bowie, David",
+                  "disambiguation" : "English singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+               },
+               "info" : "on drums; with the entire company!",
+               "with" : {
+                  "mbid" : "4d5f891d-9bce-45ae-ad86-912dd27252fa",
+                  "name" : "Dave Grohl",
+                  "sortName" : "Grohl, Dave",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dave-grohl-3d689b7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/nile-rodgers/2024/beacon-theatre-new-york-ny-7baab678.html"
+   }, {
+      "id" : "7baab674",
+      "versionId" : "g53b2c321",
+      "eventDate" : "07-03-2024",
+      "lastUpdated" : "2024-03-08T01:50:50.293+0000",
+      "artist" : {
+         "mbid" : "af558762-abed-4f46-8324-34fc51f57b2b",
+         "name" : "Bettye LaVette",
+         "sortName" : "LaVette, Bettye",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bettye-lavette-5bd6b78c.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Things Have Changed",
+               "cover" : {
+                  "mbid" : "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name" : "Bob Dylan",
+                  "sortName" : "Dylan, Bob",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bettye-lavette/2024/beacon-theatre-new-york-ny-7baab674.html"
+   }, {
+      "id" : "7baab670",
+      "versionId" : "g4bb2c31a",
+      "eventDate" : "07-03-2024",
+      "lastUpdated" : "2024-03-08T01:53:17.279+0000",
+      "artist" : {
+         "mbid" : "1b7de629-8e8a-4748-b402-bd58de30e5f1",
+         "name" : "Emily King",
+         "sortName" : "King, Emily",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/emily-king-3bd77498.html"
+      },
+      "venue" : {
+         "id" : "bd6c9ba",
+         "name" : "Beacon Theatre",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/beacon-theatre-new-york-ny-usa-bd6c9ba.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Love the One You're With",
+               "cover" : {
+                  "mbid" : "5642774a-72c0-4099-8da4-7c1ab36378a8",
+                  "name" : "Stephen Stills",
+                  "sortName" : "Stills, Stephen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/stephen-stills-2bd6f8ae.html"
+               },
+               "info" : "w/ Eric Finlay? on hammond organ"
+            } ]
+         } ]
+      },
+      "info" : "with AC Lincoln (tap dancer) joining on stage mid-song for a tap solo",
+      "url" : "https://www.setlist.fm/setlist/emily-king/2024/beacon-theatre-new-york-ny-7baab670.html"
+   } ]
+}

@@ -1,0 +1,1723 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 5,
+   "total" : 132,
+   "setlist" : [ {
+      "id" : "3b2e59f",
+      "versionId" : "g4bb6f3e6",
+      "eventDate" : "22-07-2022",
+      "lastUpdated" : "2024-01-30T13:28:16.761+0000",
+      "artist" : {
+         "mbid" : "e2e9df76-a950-4b8b-b3d1-981624470657",
+         "name" : "State Champs",
+         "sortName" : "State Champs",
+         "disambiguation" : "US 2010s pop punk group",
+         "url" : "https://www.setlist.fm/setlists/state-champs-3bdc84bc.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Sad Summer Festival 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Elevated"
+            }, {
+               "name" : "Outta My Head"
+            }, {
+               "name" : "Criminal"
+            }, {
+               "name" : "Fake It"
+            }, {
+               "name" : "Mine Is Gold"
+            }, {
+               "name" : "Slow Burn"
+            }, {
+               "name" : "Act Like That"
+            }, {
+               "name" : "All You Are Is History"
+            }, {
+               "name" : "Secrets"
+            }, {
+               "name" : "Everybody but You"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/state-champs/2022/the-rooftop-at-pier-17-new-york-ny-3b2e59f.html"
+   }, {
+      "id" : "33b2ccf9",
+      "versionId" : "g73a8e6bd",
+      "eventDate" : "22-07-2022",
+      "lastUpdated" : "2024-09-22T09:39:59.421+0000",
+      "artist" : {
+         "mbid" : "12a9e259-f7cb-4fca-87b1-a6c5fd38c300",
+         "name" : "Hot Mulligan",
+         "sortName" : "Hot Mulligan",
+         "disambiguation" : "US pop punk band",
+         "url" : "https://www.setlist.fm/setlists/hot-mulligan-23cc10bb.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Sad Summer Festival 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "How Do You Know It's Not Armadillo Shells?"
+            }, {
+               "name" : "Deluxe Capacitor"
+            }, {
+               "name" : "I Fell in Love With Princess Peach"
+            }, {
+               "name" : "Losing Days"
+            }, {
+               "name" : "Drink Milk and Run"
+            }, {
+               "name" : "OG Bule Sky"
+            }, {
+               "name" : "*Equip Sunglasses*"
+            }, {
+               "name" : "BCKYRD"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hot-mulligan/2022/the-rooftop-at-pier-17-new-york-ny-33b2ccf9.html"
+   }, {
+      "id" : "3bb2e458",
+      "versionId" : "g1bf3118c",
+      "eventDate" : "20-07-2022",
+      "lastUpdated" : "2022-07-21T02:24:16.412+0000",
+      "artist" : {
+         "mbid" : "32b90c92-9978-4a07-90eb-caa4b22f4907",
+         "name" : "Black Rebel Motorcycle Club",
+         "sortName" : "Black Rebel Motorcycle Club",
+         "disambiguation" : "US rock band from San Francisco",
+         "url" : "https://www.setlist.fm/setlists/black-rebel-motorcycle-club-33d69875.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Beat the Devil's Tattoo"
+            }, {
+               "name" : "Let the Day Begin",
+               "cover" : {
+                  "mbid" : "38633e0c-1296-49f5-bacc-2e80ae1e18c4",
+                  "name" : "The Call",
+                  "sortName" : "Call, The",
+                  "disambiguation" : "From California, USA.",
+                  "url" : "https://www.setlist.fm/setlists/the-call-63d7926f.html"
+               }
+            }, {
+               "name" : "Red Eyes and Tears"
+            }, {
+               "name" : "Awake"
+            }, {
+               "name" : "Six Barrel Shotgun"
+            }, {
+               "name" : "American X"
+            }, {
+               "name" : "Shuffle Your Feet"
+            }, {
+               "name" : "Hate the Taste"
+            }, {
+               "name" : "Berlin"
+            }, {
+               "name" : "Spread Your Love"
+            }, {
+               "name" : "Whatever Happened to My Rock 'n' Roll (Punk Song)"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/black-rebel-motorcycle-club/2022/the-rooftop-at-pier-17-new-york-ny-3bb2e458.html"
+   }, {
+      "id" : "33b2e45d",
+      "versionId" : "g6bf31256",
+      "eventDate" : "20-07-2022",
+      "lastUpdated" : "2022-07-21T03:46:19.052+0000",
+      "artist" : {
+         "mbid" : "c35bd778-efb5-424b-ba7b-dae56d01a206",
+         "name" : "Zola Jesus",
+         "sortName" : "Zola Jesus",
+         "disambiguation" : "US art pop/darkwave singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/zola-jesus-63d4ca9f.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lost"
+            }, {
+               "name" : "Undertow"
+            }, {
+               "name" : "Soak"
+            }, {
+               "name" : "Witness"
+            }, {
+               "name" : "Night"
+            }, {
+               "name" : "Exhumed"
+            }, {
+               "name" : "Sewn"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/zola-jesus/2022/the-rooftop-at-pier-17-new-york-ny-33b2e45d.html"
+   }, {
+      "id" : "33b2e459",
+      "versionId" : "g33f304e1",
+      "eventDate" : "20-07-2022",
+      "lastUpdated" : "2022-07-21T13:51:57.920+0000",
+      "artist" : {
+         "mbid" : "8846e4ff-0c19-4af2-872b-7a8dc7497f68",
+         "name" : "The Cult",
+         "sortName" : "Cult, The",
+         "disambiguation" : "British rock band",
+         "url" : "https://www.setlist.fm/setlists/the-cult-63d6aed3.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "We Own the Night"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rise"
+            }, {
+               "name" : "Sun King"
+            }, {
+               "name" : "Automatic Blues"
+            }, {
+               "name" : "Sweet Soul Sister"
+            }, {
+               "name" : "Soul Asylum"
+            }, {
+               "name" : "Edie (Ciao Baby)"
+            }, {
+               "name" : "Give Me Mercy"
+            }, {
+               "name" : "Wild Flower"
+            }, {
+               "name" : "Fire Woman"
+            }, {
+               "name" : "Rain"
+            }, {
+               "name" : "She Sells Sanctuary"
+            }, {
+               "name" : "New York City"
+            }, {
+               "name" : "Love Removal Machine"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-cult/2022/the-rooftop-at-pier-17-new-york-ny-33b2e459.html"
+   }, {
+      "id" : "43b2bf7b",
+      "versionId" : "g1312a521",
+      "eventDate" : "15-07-2022",
+      "lastUpdated" : "2026-03-28T03:47:42.841+0000",
+      "artist" : {
+         "mbid" : "ddd553d4-977e-416c-8f57-e4b72c0fc746",
+         "name" : "X",
+         "sortName" : "X",
+         "disambiguation" : "Los Angeles punk rock band",
+         "url" : "https://www.setlist.fm/setlists/x-53d68fcd.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Your Phone's Off the Hook, But You're Not"
+            }, {
+               "name" : "Free"
+            }, {
+               "name" : "Because I Do"
+            }, {
+               "name" : "The Hungry Wolf"
+            }, {
+               "name" : "Alphabetland"
+            }, {
+               "name" : "White Girl"
+            }, {
+               "name" : "Dancing With Tears in My Eyes",
+               "cover" : {
+                  "mbid" : "19748c3e-6452-498a-b88d-33a180277519",
+                  "name" : "Johnny Marvin",
+                  "sortName" : "Marvin, Johnny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/johnny-marvin-3d45dd7.html"
+               }
+            }, {
+               "name" : "Come Back to Me"
+            }, {
+               "name" : "I Must Not Think Bad Thoughts"
+            }, {
+               "name" : "It's Who You Know"
+            }, {
+               "name" : "Water & Wine"
+            }, {
+               "name" : "Goodbye Year, Goodbye"
+            }, {
+               "name" : "True Love"
+            }, {
+               "name" : "Los Angeles"
+            }, {
+               "name" : "Nausea"
+            }, {
+               "name" : "Sugarlight"
+            }, {
+               "name" : "Motel Room in My Bed"
+            }, {
+               "name" : "Soul Kitchen",
+               "cover" : {
+                  "mbid" : "9efff43b-3b29-4082-824e-bc82f646f93d",
+                  "name" : "The Doors",
+                  "sortName" : "Doors, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-doors-bd6adba.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening act for The Psychedelic Furs",
+      "url" : "https://www.setlist.fm/setlist/x/2022/the-rooftop-at-pier-17-new-york-ny-43b2bf7b.html"
+   }, {
+      "id" : "33b2bc85",
+      "versionId" : "gbf39972",
+      "eventDate" : "15-07-2022",
+      "lastUpdated" : "2022-07-16T02:26:27.729+0000",
+      "artist" : {
+         "mbid" : "9f930ddf-be2f-4de5-a39f-7ae47305752e",
+         "name" : "The Psychedelic Furs",
+         "sortName" : "Psychedelic Furs, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-psychedelic-furs-53d6b781.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Made of Rain"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "I Wanna Sleep With You"
+            }, {
+               "name" : "Mr. Jones"
+            }, {
+               "name" : "You'll Be Mine"
+            }, {
+               "name" : "Dumb Waiters"
+            }, {
+               "name" : "The Boy That Invented Rock & Roll"
+            }, {
+               "name" : "Wrong Train"
+            }, {
+               "name" : "Imitation of Christ"
+            }, {
+               "name" : "The Ghost in You"
+            }, {
+               "name" : "President Gas"
+            }, {
+               "name" : "Pretty in Pink"
+            }, {
+               "name" : "This'll Never Be Like Love"
+            }, {
+               "name" : "No‐One"
+            }, {
+               "name" : "Ash Wednesday"
+            }, {
+               "name" : "Love My Way"
+            }, {
+               "name" : "Heaven"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Heartbreak Beat"
+            }, {
+               "name" : "India"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-psychedelic-furs/2022/the-rooftop-at-pier-17-new-york-ny-33b2bc85.html"
+   }, {
+      "id" : "73b5528d",
+      "versionId" : "g437e3393",
+      "eventDate" : "13-07-2022",
+      "lastUpdated" : "2025-08-16T04:04:54.831+0000",
+      "artist" : {
+         "mbid" : "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+         "name" : "5 Seconds of Summer",
+         "sortName" : "5 Seconds of Summer",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/5-seconds-of-summer-6bdc6e66.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Take My Hand World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "No Shame"
+            }, {
+               "name" : "Easier"
+            }, {
+               "name" : "More"
+            }, {
+               "name" : "Want You Back"
+            }, {
+               "name" : "Disconnected"
+            }, {
+               "name" : "Take My Hand"
+            }, {
+               "name" : "Red Desert"
+            }, {
+               "name" : "Waste the Night"
+            }, {
+               "name" : "BLENDER"
+            }, {
+               "name" : "COMPLETE MESS"
+            }, {
+               "name" : "Lover of Mine"
+            }, {
+               "name" : "Who Do You Love",
+               "cover" : {
+                  "mbid" : "91a81925-92f9-4fc9-b897-93cf01226282",
+                  "name" : "The Chainsmokers",
+                  "sortName" : "Chainsmokers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-chainsmokers-33db30f9.html"
+               }
+            }, {
+               "name" : "Wildflower"
+            }, {
+               "name" : "Best Years"
+            }, {
+               "name" : "Easy for You to Say"
+            }, {
+               "name" : "If Walls Could Talk"
+            }, {
+               "name" : "Old Me"
+            }, {
+               "name" : "Me Myself & I"
+            }, {
+               "name" : "Amnesia"
+            }, {
+               "name" : "2011"
+            }, {
+               "name" : "Castaway"
+            }, {
+               "name" : "She Looks So Perfect"
+            }, {
+               "name" : "Teeth"
+            }, {
+               "name" : "Jet Black Heart"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Ghost of You"
+            }, {
+               "name" : "Youngblood"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/5-seconds-of-summer/2022/the-rooftop-at-pier-17-new-york-ny-73b5528d.html"
+   }, {
+      "id" : "5ba8f730",
+      "versionId" : "g1bbf25b8",
+      "eventDate" : "13-07-2022",
+      "lastUpdated" : "2024-04-18T06:50:13.079+0000",
+      "artist" : {
+         "mbid" : "323454b0-ec2b-4433-8477-2e81ddaac9ef",
+         "name" : "Pale Waves",
+         "sortName" : "Pale Waves",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pale-waves-1bcfe920.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pale-waves/2022/the-rooftop-at-pier-17-new-york-ny-5ba8f730.html"
+   }, {
+      "id" : "1bb2c9bc",
+      "versionId" : "g13f359fd",
+      "eventDate" : "12-07-2022",
+      "lastUpdated" : "2022-07-23T08:11:05.039+0000",
+      "artist" : {
+         "mbid" : "323454b0-ec2b-4433-8477-2e81ddaac9ef",
+         "name" : "Pale Waves",
+         "sortName" : "Pale Waves",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/pale-waves-1bcfe920.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Change"
+            }, {
+               "name" : "Television Romance"
+            }, {
+               "name" : "Eighteen"
+            }, {
+               "name" : "Fall to Pieces"
+            }, {
+               "name" : "Lies"
+            }, {
+               "name" : "Red"
+            }, {
+               "name" : "Jealousy"
+            }, {
+               "name" : "She's My Religion"
+            }, {
+               "name" : "There's a Honey"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/pale-waves/2022/the-rooftop-at-pier-17-new-york-ny-1bb2c9bc.html"
+   }, {
+      "id" : "4bb5479a",
+      "versionId" : "g43ff77c7",
+      "eventDate" : "11-07-2022",
+      "lastUpdated" : "2022-08-28T23:11:53.417+0000",
+      "artist" : {
+         "mbid" : "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+         "name" : "Kehlani",
+         "sortName" : "Kehlani",
+         "disambiguation" : "Kehlani Ashley Parrish, an American singer-songwriter",
+         "url" : "https://www.setlist.fm/setlists/kehlani-63db1a1b.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "little story"
+            }, {
+               "name" : "shooter interlude"
+            }, {
+               "name" : "any given sunday"
+            }, {
+               "name" : "more than i should"
+            }, {
+               "name" : "tangerine"
+            }, {
+               "name" : "Open (Passionate)"
+            }, {
+               "name" : "Hate the Club"
+            }, {
+               "name" : "wish i never"
+            }, {
+               "name" : "up at night"
+            }, {
+               "name" : "get me started"
+            }, {
+               "name" : "Toxic"
+            }, {
+               "name" : "Nights Like This"
+            }, {
+               "name" : "melt"
+            }, {
+               "name" : "everything interlude"
+            }, {
+               "name" : "everything"
+            }, {
+               "name" : "Altar"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kehlani/2022/the-rooftop-at-pier-17-new-york-ny-4bb5479a.html"
+   }, {
+      "id" : "1bb569a8",
+      "versionId" : "g43f2c327",
+      "eventDate" : "08-07-2022",
+      "lastUpdated" : "2022-07-09T17:30:20.050+0000",
+      "artist" : {
+         "mbid" : "1397d045-1603-41fc-80b9-712c18360145",
+         "name" : "Bikini Kill",
+         "sortName" : "Bikini Kill",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bikini-kill-bd6890e.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Peter Gunn Locomotion",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "43bd54ba-65f9-4225-ac6d-a3da62006511",
+                  "name" : "The Delmonas",
+                  "sortName" : "Delmonas, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-delmonas-53d77b89.html"
+               }
+            }, {
+               "name" : "New Radio"
+            }, {
+               "name" : "This Is Not a Test"
+            }, {
+               "name" : "Don't Need You"
+            }, {
+               "name" : "Jigsaw Youth"
+            }, {
+               "name" : "Feels Blind"
+            }, {
+               "name" : "I Hate Danger"
+            }, {
+               "name" : "In Accordance to Natural Law"
+            }, {
+               "name" : "Carnival"
+            }, {
+               "name" : "Resist Psychic Death"
+            }, {
+               "name" : "Capri Pants"
+            }, {
+               "name" : "For Tammy Rae"
+            }, {
+               "name" : "",
+               "info" : "? Sung by Tobi Vail"
+            }, {
+               "name" : "Distinct Complicity"
+            }, {
+               "name" : "Demi Rep"
+            }, {
+               "name" : "Reject All American"
+            }, {
+               "name" : "Alien She"
+            }, {
+               "name" : "Sugar"
+            }, {
+               "name" : "Rah! Rah! Replica"
+            }, {
+               "name" : "Hamster Baby"
+            }, {
+               "name" : "Tell Me So"
+            }, {
+               "name" : "Magnet"
+            }, {
+               "name" : "Lil' Red"
+            }, {
+               "name" : "Suck My Left One"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Double Dare Ya"
+            }, {
+               "name" : "Rebel Girl"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bikini-kill/2022/the-rooftop-at-pier-17-new-york-ny-1bb569a8.html"
+   }, {
+      "id" : "1bb56100",
+      "versionId" : "g5bf2c3e4",
+      "eventDate" : "08-07-2022",
+      "lastUpdated" : "2022-07-09T17:41:23.261+0000",
+      "artist" : {
+         "mbid" : "9cb9ef93-cbf3-436d-bf61-c4f307f1841c",
+         "name" : "Ribbon Stage",
+         "sortName" : "Ribbon Stage",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ribbon-stage-43f22fc7.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ribbon-stage/2022/the-rooftop-at-pier-17-new-york-ny-1bb56100.html"
+   }, {
+      "id" : "73b50665",
+      "versionId" : "g1b13fd0c",
+      "eventDate" : "07-07-2022",
+      "lastUpdated" : "2026-04-05T12:36:58.084+0000",
+      "artist" : {
+         "mbid" : "56241616-665f-4f02-ba23-67ded8b1bdf9",
+         "name" : "Yacht Rock Revue",
+         "sortName" : "Yacht Rock Revue",
+         "disambiguation" : "Atlanta, GA soft rock",
+         "url" : "https://www.setlist.fm/setlists/yacht-rock-revue-63dc3253.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "She's Gone",
+               "cover" : {
+                  "mbid" : "debabff3-2559-46e5-862d-ef2a906d7010",
+                  "name" : "Daryl Hall & John Oates",
+                  "sortName" : "Hall, Daryl & Oates, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/daryl-hall-and-john-oates-6bd6be1e.html"
+               }
+            }, {
+               "name" : "Escape (The Piña Colada Song)",
+               "cover" : {
+                  "mbid" : "3e7ef7ed-18c1-436d-b946-7e7e63ace408",
+                  "name" : "Rupert Holmes",
+                  "sortName" : "Holmes, Rupert",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rupert-holmes-43d7a76f.html"
+               }
+            }, {
+               "name" : "Somebody's Baby",
+               "cover" : {
+                  "mbid" : "88527d26-7496-47c5-8358-ebdb1868a90f",
+                  "name" : "Jackson Browne",
+                  "sortName" : "Browne, Jackson",
+                  "disambiguation" : "American singer-songwriter",
+                  "url" : "https://www.setlist.fm/setlists/jackson-browne-7bd6b280.html"
+               }
+            }, {
+               "name" : "My Old School",
+               "cover" : {
+                  "mbid" : "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+                  "name" : "Steely Dan",
+                  "sortName" : "Steely Dan",
+                  "disambiguation" : "group founded by Walter Becker and Donald Fagen",
+                  "url" : "https://www.setlist.fm/setlists/steely-dan-7bd6be38.html"
+               }
+            }, {
+               "name" : "Step"
+            }, {
+               "name" : "Running With the Night",
+               "cover" : {
+                  "mbid" : "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+                  "name" : "Lionel Richie",
+                  "sortName" : "Richie, Lionel",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lionel-richie-73d6be8d.html"
+               }
+            }, {
+               "name" : "Heart to Heart",
+               "cover" : {
+                  "mbid" : "15042d2b-2d4c-4451-a96a-6f547642de13",
+                  "name" : "Kenny Loggins",
+                  "sortName" : "Loggins, Kenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kenny-loggins-3bd6b0d4.html"
+               }
+            }, {
+               "name" : "Cool Change",
+               "cover" : {
+                  "mbid" : "0b5df3f3-7f4c-4ffb-9279-dbab6cd9bea5",
+                  "name" : "Little River Band",
+                  "sortName" : "Little River Band",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/little-river-band-53d6bb71.html"
+               }
+            }, {
+               "name" : "Ventura Highway",
+               "cover" : {
+                  "mbid" : "34cf95c7-4be9-4efd-a48a-c2ea4a0bb114",
+                  "name" : "America",
+                  "sortName" : "America",
+                  "disambiguation" : "US folk/soft rock band",
+                  "url" : "https://www.setlist.fm/setlists/america-3bd67478.html"
+               }
+            }, {
+               "name" : "Africa",
+               "cover" : {
+                  "mbid" : "aab5c954-cabe-432e-899e-1c4f99757327",
+                  "name" : "Toto",
+                  "sortName" : "Toto",
+                  "disambiguation" : "US rock group",
+                  "url" : "https://www.setlist.fm/setlists/toto-bd6b5f6.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Dancing Queen",
+               "cover" : {
+                  "mbid" : "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+                  "name" : "ABBA",
+                  "sortName" : "ABBA",
+                  "disambiguation" : "Swedish pop group",
+                  "url" : "https://www.setlist.fm/setlists/abba-7bd6be74.html"
+               }
+            }, {
+               "name" : "Don't Bring Me Down",
+               "cover" : {
+                  "mbid" : "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+                  "name" : "Electric Light Orchestra",
+                  "sortName" : "Electric Light Orchestra",
+                  "disambiguation" : "British rock group",
+                  "url" : "https://www.setlist.fm/setlists/electric-light-orchestra-63d6be6b.html"
+               }
+            }, {
+               "name" : "One of These Nights",
+               "cover" : {
+                  "mbid" : "f46bd570-5768-462e-b84c-c7c993bbf47e",
+                  "name" : "Eagles",
+                  "sortName" : "Eagles",
+                  "disambiguation" : "US country rock band",
+                  "url" : "https://www.setlist.fm/setlists/eagles-6bd6bede.html"
+               }
+            }, {
+               "name" : "Arthur's Theme (Best That You Can Do)",
+               "cover" : {
+                  "mbid" : "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+                  "name" : "Christopher Cross",
+                  "sortName" : "Cross, Christopher",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/christopher-cross-4bd6bb32.html"
+               }
+            }, {
+               "name" : "I Keep Forgettin' (Every Time You're Near)",
+               "cover" : {
+                  "mbid" : "cacbe57b-02d0-4d21-be86-c8a3a5ea6e1e",
+                  "name" : "Michael McDonald",
+                  "sortName" : "McDonald, Michael",
+                  "disambiguation" : "R&B & soul singer",
+                  "url" : "https://www.setlist.fm/setlists/michael-mcdonald-33d6b8a9.html"
+               }
+            }, {
+               "name" : "What's Love Got to Do With It",
+               "cover" : {
+                  "mbid" : "f415133c-bf28-43c0-b781-24c5997833dd",
+                  "name" : "Graham Lyle",
+                  "sortName" : "Lyle, Graham",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/graham-lyle-bd66dde.html"
+               }
+            }, {
+               "name" : "Let's Hear It for the Boy",
+               "cover" : {
+                  "mbid" : "f28dc56d-0bd4-485f-92a2-5c3e0e9b57cd",
+                  "name" : "Deniece Williams",
+                  "sortName" : "Williams, Deniece",
+                  "disambiguation" : "US soul/funk vocalist/songwriter",
+                  "url" : "https://www.setlist.fm/setlists/deniece-williams-1bd6b950.html"
+               }
+            }, {
+               "name" : "Late in the Evening",
+               "cover" : {
+                  "mbid" : "05517043-ff78-4988-9c22-88c68588ebb9",
+                  "name" : "Paul Simon",
+                  "sortName" : "Simon, Paul",
+                  "disambiguation" : "of Simon & Garfunkel",
+                  "url" : "https://www.setlist.fm/setlists/paul-simon-5bd6e3a8.html"
+               }
+            }, {
+               "name" : "Give Me the Night",
+               "cover" : {
+                  "mbid" : "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
+                  "name" : "George Benson",
+                  "sortName" : "Benson, George",
+                  "disambiguation" : "jazz guitarist/singer",
+                  "url" : "https://www.setlist.fm/setlists/george-benson-bd6b9ce.html"
+               }
+            }, {
+               "name" : "Ride Like the Wind",
+               "cover" : {
+                  "mbid" : "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+                  "name" : "Christopher Cross",
+                  "sortName" : "Cross, Christopher",
+                  "disambiguation" : "US singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/christopher-cross-4bd6bb32.html"
+               }
+            }, {
+               "name" : "Lido Shuffle",
+               "cover" : {
+                  "mbid" : "18a33653-bbaf-4aa7-884c-73f02a7a4515",
+                  "name" : "Boz Scaggs",
+                  "sortName" : "Scaggs, Boz",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/boz-scaggs-13d6b9dd.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Whenever I Call You Friend",
+               "cover" : {
+                  "mbid" : "a5e98740-96ac-4d76-9eb0-349405bc0080",
+                  "name" : "Kenny Loggins & Stevie Nicks",
+                  "sortName" : "Loggins, Kenny & Nicks, Stevie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kenny-loggins-and-stevie-nicks-13d6c525.html"
+               }
+            }, {
+               "name" : "Bad Tequila",
+               "info" : ">"
+            }, {
+               "name" : "Jump",
+               "cover" : {
+                  "mbid" : "b665b768-0d83-4363-950c-31ed39317c15",
+                  "name" : "Van Halen",
+                  "sortName" : "Van Halen",
+                  "disambiguation" : "American hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/van-halen-2bd68066.html"
+               }
+            }, {
+               "name" : "Under Pressure",
+               "cover" : {
+                  "mbid" : "25f54bb7-c393-44e4-8e26-e4f4cd7aa61c",
+                  "name" : "Queen & David Bowie",
+                  "sortName" : "Queen & Bowie, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/queen-and-david-bowie-6bd6ee46.html"
+               }
+            }, {
+               "name" : "Baker Street",
+               "cover" : {
+                  "mbid" : "563201cb-721c-4cfb-acca-c1ba69e3d1fb",
+                  "name" : "Gerry Rafferty",
+                  "sortName" : "Rafferty, Gerry",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/gerry-rafferty-5bd6b30c.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/yacht-rock-revue/2022/the-rooftop-at-pier-17-new-york-ny-73b50665.html"
+   }, {
+      "id" : "33b5e4c5",
+      "versionId" : "g7b866e88",
+      "eventDate" : "30-06-2022",
+      "lastUpdated" : "2023-09-17T19:47:16.104+0000",
+      "artist" : {
+         "mbid" : "f8ed032c-0d34-4ae6-a069-91417097509e",
+         "name" : "The Interrupters",
+         "sortName" : "Interrupters, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-interrupters-4bdaf78e.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Ghost Town",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "07eb40a2-2914-439c-a01d-15a685b84ddf",
+                  "name" : "The Specials",
+                  "sortName" : "Specials, The",
+                  "disambiguation" : "ska band",
+                  "url" : "https://www.setlist.fm/setlists/the-specials-bd6b12e.html"
+               }
+            }, {
+               "name" : "Take Back the Power"
+            }, {
+               "name" : "Title Holder"
+            }, {
+               "name" : "Judge Not",
+               "cover" : {
+                  "mbid" : "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+                  "name" : "Bob Marley",
+                  "sortName" : "Marley, Bob",
+                  "disambiguation" : "Jamaican reggae artist",
+                  "url" : "https://www.setlist.fm/setlists/bob-marley-1bd6d550.html"
+               }
+            }, {
+               "name" : "On a Turntable"
+            }, {
+               "name" : "Broken World"
+            }, {
+               "name" : "Easy on You"
+            }, {
+               "name" : "Jailbird"
+            }, {
+               "name" : "She Got Arrested"
+            }, {
+               "name" : "In the Mirror"
+            }, {
+               "name" : "By My Side"
+            }, {
+               "name" : "A Friend Like Me"
+            }, {
+               "name" : "Come Out and Play / Linoleum / Ruby Soho"
+            }, {
+               "name" : "Sorrow",
+               "cover" : {
+                  "mbid" : "149e6720-4e4a-41a4-afca-6d29083fc091",
+                  "name" : "Bad Religion",
+                  "sortName" : "Bad Religion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bad-religion-6bd68e32.html"
+               }
+            }, {
+               "name" : "Gave You Everything"
+            }, {
+               "name" : "Family"
+            }, {
+               "name" : "She's Kerosene"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-interrupters/2022/the-rooftop-at-pier-17-new-york-ny-33b5e4c5.html"
+   }, {
+      "id" : "2bb5c872",
+      "versionId" : "g53f9d329",
+      "eventDate" : "30-06-2022",
+      "lastUpdated" : "2022-10-19T19:11:52.080+0000",
+      "artist" : {
+         "mbid" : "7a279145-e778-4099-8f73-ea917a1956c9",
+         "name" : "The Skints",
+         "sortName" : "Skints, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-skints-6bd52e2e.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rub-a-Dub (Done Know)"
+            }, {
+               "name" : "Ratatat / You Don't Love Me (No, No, No)"
+            }, {
+               "name" : "Tazer Beam"
+            }, {
+               "name" : "Come to You"
+            }, {
+               "name" : "The Forest for the Trees"
+            }, {
+               "name" : "Lay You Down"
+            }, {
+               "name" : "Learning to Swim"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-skints/2022/the-rooftop-at-pier-17-new-york-ny-2bb5c872.html"
+   }, {
+      "id" : "23b5e4c7",
+      "versionId" : "g5b5237b4",
+      "eventDate" : "30-06-2022",
+      "lastUpdated" : "2024-11-08T00:36:21.307+0000",
+      "artist" : {
+         "mbid" : "c3694ddc-f7e5-40dd-9fad-90d11a2c50fa",
+         "name" : "Flogging Molly",
+         "sortName" : "Flogging Molly",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/flogging-molly-5bd6d370.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Baba O'Riley",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+                  "name" : "The Who",
+                  "sortName" : "Who, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+               }
+            }, {
+               "name" : "Drunken Lullabies"
+            }, {
+               "name" : "The Hand of John L. Sullivan"
+            }, {
+               "name" : "Selfish Man"
+            }, {
+               "name" : "These Times Have Got Me Drinking/Tripping Up the Stairs"
+            }, {
+               "name" : "Float"
+            }, {
+               "name" : "A Song of Liberty"
+            }, {
+               "name" : "Tobacco Island"
+            }, {
+               "name" : "The Croppy Boy '98"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "Dedicated to Dave & Bridget’s nephew in the crowd"
+            }, {
+               "name" : "Devil's Dance Floor"
+            }, {
+               "name" : "Crushed (Hostile Nations)"
+            }, {
+               "name" : "If I Ever Leave This World Alive"
+            }, {
+               "name" : "What's Left of the Flag"
+            }, {
+               "name" : "Seven Deadly Sins"
+            }, {
+               "name" : "Always Look on the Bright Side of Life",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4a5c8526-f8ec-43f1-97af-49722ad88394",
+                  "name" : "Monty Python",
+                  "sortName" : "Monty Python",
+                  "disambiguation" : "British surreal comedy group",
+                  "url" : "https://www.setlist.fm/setlists/monty-python-13d6c1c9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/flogging-molly/2022/the-rooftop-at-pier-17-new-york-ny-23b5e4c7.html"
+   }, {
+      "id" : "23b5c81b",
+      "versionId" : "g53f53b35",
+      "eventDate" : "30-06-2022",
+      "lastUpdated" : "2022-06-30T22:59:22.051+0000",
+      "artist" : {
+         "mbid" : "a043cfa6-6e87-4975-ac27-5005bdfa7afb",
+         "name" : "Tiger Army",
+         "sortName" : "Tiger Army",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tiger-army-43d68f57.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Prelude: Signal Return"
+            }, {
+               "name" : "Beyond the Veil"
+            }, {
+               "name" : "Devil That You Don't Know"
+            }, {
+               "name" : "Ghostfire"
+            }, {
+               "name" : "Dark and Lonely Night"
+            }, {
+               "name" : "Cupid's Victim"
+            }, {
+               "name" : "F.T.W."
+            }, {
+               "name" : "Rumble",
+               "cover" : {
+                  "mbid" : "211099c8-8e2b-4e96-aa5c-343939754176",
+                  "name" : "Link Wray & His Raymen",
+                  "sortName" : "Wray, Link & His Raymen",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/link-wray-and-his-raymen-73d6fac1.html"
+               }
+            }, {
+               "name" : "Rose of the Devil's Garden"
+            }, {
+               "name" : "Never Die"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tiger-army/2022/the-rooftop-at-pier-17-new-york-ny-23b5c81b.html"
+   }, {
+      "id" : "6bb5fac6",
+      "versionId" : "g2b7c5cee",
+      "eventDate" : "29-06-2022",
+      "lastUpdated" : "2025-09-04T10:51:00.428+0000",
+      "artist" : {
+         "mbid" : "640db492-34c4-47df-be14-96e2cd4b9fe4",
+         "name" : "Billy Strings",
+         "sortName" : "Strings, Billy",
+         "disambiguation" : "US bluegrass",
+         "url" : "https://www.setlist.fm/setlists/billy-strings-73c3fe21.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Summer Tour 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Red Daisy"
+            }, {
+               "name" : "End of the Rainbow",
+               "cover" : {
+                  "mbid" : "dfa3b60c-8f43-4564-8c54-bad636b57928",
+                  "name" : "Frank Wakefield",
+                  "sortName" : "Wakefield, Frank",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/frank-wakefield-7bd6aed4.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Running the Route"
+            }, {
+               "name" : "Hellbender"
+            }, {
+               "name" : "Dust in a Baggie",
+               "cover" : {
+                  "mbid" : "de730b2d-0e69-4fbc-a71a-99dcd1f32a10",
+                  "name" : "Billy Strings & Don Julin",
+                  "sortName" : "Strings, Billy & Julin, Don",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billy-strings-and-don-julin-63c5c28f.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Dealing Despair"
+            }, {
+               "name" : "Watch It Fall",
+               "info" : ">"
+            }, {
+               "name" : "In Tall Buildings",
+               "cover" : {
+                  "mbid" : "3178cc4c-cd9f-4842-96fb-28bf9cfec591",
+                  "name" : "John Hartford",
+                  "sortName" : "Hartford, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-hartford-13d6b125.html"
+               }
+            }, {
+               "name" : "Home"
+            }, {
+               "name" : "Fearless",
+               "cover" : {
+                  "mbid" : "83d91898-7763-47d7-b03b-b92132375c47",
+                  "name" : "Pink Floyd",
+                  "sortName" : "Pink Floyd",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+               }
+            }, {
+               "name" : "Turmoil & Tinfoil"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Sally Goodin",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               },
+               "info" : ">"
+            }, {
+               "name" : "Must Be Seven"
+            }, {
+               "name" : "Meet Me at the Creek"
+            }, {
+               "name" : "16/16",
+               "cover" : {
+                  "mbid" : "402e4f4f-33aa-4b2b-9fdb-3cb4eb38f729",
+                  "name" : "David Grisman",
+                  "sortName" : "Grisman, David",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-grisman-13d6b129.html"
+               }
+            }, {
+               "name" : "Close By",
+               "cover" : {
+                  "mbid" : "624db6ea-1afb-4a3c-8092-5acfd2cb4a33",
+                  "name" : "Bill Monroe and the Bluegrass Boys",
+                  "sortName" : "Monroe, Bill and the Bluegrass Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bill-monroe-and-the-bluegrass-boys-5bd657b0.html"
+               }
+            }, {
+               "name" : "Back on the Train",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Love and Regret",
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "I'm Blue, I'm Lonesome",
+               "cover" : {
+                  "mbid" : "624db6ea-1afb-4a3c-8092-5acfd2cb4a33",
+                  "name" : "Bill Monroe and the Bluegrass Boys",
+                  "sortName" : "Monroe, Bill and the Bluegrass Boys",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bill-monroe-and-the-bluegrass-boys-5bd657b0.html"
+               },
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "All Fall Down",
+               "cover" : {
+                  "mbid" : "3178cc4c-cd9f-4842-96fb-28bf9cfec591",
+                  "name" : "John Hartford",
+                  "sortName" : "Hartford, John",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/john-hartford-13d6b125.html"
+               },
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "My Love Comes Rolling Down",
+               "cover" : {
+                  "mbid" : "79c61b87-b932-42b1-a720-1d08da5db306",
+                  "name" : "The Doc Watson Family",
+                  "sortName" : "Watson, Doc, Family, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-doc-watson-family-3d79d6f.html"
+               },
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            }, {
+               "name" : "Gotta Jibboo",
+               "cover" : {
+                  "mbid" : "e01646f2-2a04-450d-8bf2-0d993082e058",
+                  "name" : "Phish",
+                  "sortName" : "Phish",
+                  "disambiguation" : "American rock band formed in Burlington, Vermont, in 1983",
+                  "url" : "https://www.setlist.fm/setlists/phish-13d6ad51.html"
+               },
+               "with" : {
+                  "mbid" : "d942f71b-09d3-406c-8f7d-c52eba3135c1",
+                  "name" : "Trey Anastasio",
+                  "sortName" : "Anastasio, Trey",
+                  "disambiguation" : "US jam band Phish lead singer",
+                  "url" : "https://www.setlist.fm/setlists/trey-anastasio-bd6adfa.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Entire show with Alex Hargreaves on fiddle",
+      "url" : "https://www.setlist.fm/setlist/billy-strings/2022/the-rooftop-at-pier-17-new-york-ny-6bb5fac6.html"
+   }, {
+      "id" : "33b2e4b1",
+      "versionId" : "g53956b01",
+      "eventDate" : "26-06-2022",
+      "lastUpdated" : "2023-05-29T01:38:44.167+0000",
+      "artist" : {
+         "mbid" : "b3adc16a-abdb-4668-9b05-baabbf942db6",
+         "name" : "Tash Sultana",
+         "sortName" : "Sultana, Tash",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/tash-sultana-3bc4a8f8.html"
+      },
+      "venue" : {
+         "id" : "23d2042b",
+         "name" : "The Rooftop at Pier 17",
+         "city" : {
+            "id" : "5128581",
+            "name" : "New York",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.7142691,
+               "long" : -74.0059729
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/the-rooftop-at-pier-17-new-york-ny-usa-23d2042b.html"
+      },
+      "tour" : {
+         "name" : "Terra Firma 2022"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Musk"
+            }, {
+               "name" : "Big Smoke"
+            }, {
+               "name" : "Mystik"
+            }, {
+               "name" : "Cigarettes"
+            }, {
+               "name" : "Pretty Lady"
+            }, {
+               "name" : "Crop Circles"
+            }, {
+               "name" : "Greed"
+            }, {
+               "name" : "Coma"
+            }, {
+               "name" : "Dream My Life Away",
+               "with" : {
+                  "mbid" : "a212eef4-2f42-4422-be61-de483bde5670",
+                  "name" : "Josh Cashman",
+                  "sortName" : "Cashman, Josh",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/josh-cashman-bc2cdf2.html"
+               }
+            }, {
+               "name" : "Willow Tree"
+            }, {
+               "name" : "Notion"
+            }, {
+               "name" : "Jungle"
+            }, {
+               "name" : "Blackbird"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/tash-sultana/2022/the-rooftop-at-pier-17-new-york-ny-33b2e4b1.html"
+   } ]
+}

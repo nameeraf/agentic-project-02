@@ -1,0 +1,1606 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 4,
+   "total" : 310,
+   "setlist" : [ {
+      "id" : "234f2ccf",
+      "versionId" : "g13656989",
+      "eventDate" : "11-11-2025",
+      "lastUpdated" : "2025-11-12T15:03:55.733+0000",
+      "artist" : {
+         "mbid" : "fb4d3639-dac0-478e-8776-4417096d8381",
+         "name" : "The Band CAMINO",
+         "sortName" : "Band CAMINO, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-band-camino-23c2487f.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The NeverAlways Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "HasJustBegun",
+               "tape" : true
+            }, {
+               "name" : "Daphne Blue"
+            }, {
+               "name" : "Infinity"
+            }, {
+               "name" : "Hush Hush"
+            }, {
+               "name" : "Stupid Questions"
+            }, {
+               "name" : "I Think I Like You"
+            }, {
+               "name" : "Roses"
+            }, {
+               "name" : "2/14"
+            }, {
+               "name" : "Know Me"
+            }, {
+               "name" : "Song About You"
+            }, {
+               "name" : "Afterthought"
+            }, {
+               "name" : "What You Can’t Have"
+            }, {
+               "name" : "Baggy Jeans"
+            } ]
+         }, {
+            "name" : "Acoustic",
+            "song" : [ {
+               "name" : "Berenstein"
+            }, {
+               "name" : "Hates Me Yet (222)"
+            }, {
+               "name" : "DAISIES",
+               "cover" : {
+                  "mbid" : "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                  "name" : "Justin Bieber",
+                  "sortName" : "Bieber, Justin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/justin-bieber-43d4f7ff.html"
+               }
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Karaoke"
+            }, {
+               "name" : "What Am I Missing?"
+            }, {
+               "name" : "Heaven"
+            }, {
+               "name" : "Underneath My Skin"
+            }, {
+               "name" : "Limbo"
+            }, {
+               "name" : "Told You So"
+            }, {
+               "name" : "Haunted"
+            }, {
+               "name" : "1 Last Cigarette"
+            }, {
+               "name" : "See Through"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "12:34"
+            }, {
+               "name" : "What I Want"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-band-camino/2025/brooklyn-paramount-brooklyn-ny-234f2ccf.html"
+   }, {
+      "id" : "43593373",
+      "versionId" : "g3b0cf478",
+      "eventDate" : "09-11-2025",
+      "lastUpdated" : "2026-09-09T03:32:36.561+0000",
+      "artist" : {
+         "mbid" : "20883363-1ea4-4d72-ad72-c0e767038f3e",
+         "name" : "The Mars Volta",
+         "sortName" : "Mars Volta, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-mars-volta-1bd69584.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Fall Tour 2025"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Lucro sucio; Los ojos del vacío",
+            "song" : [ {
+               "name" : "Fin"
+            }, {
+               "name" : "Reina tormenta"
+            }, {
+               "name" : "Enlazan las tinieblas"
+            }, {
+               "name" : "Mictlán"
+            }, {
+               "name" : "The Iron Rose"
+            }, {
+               "name" : "Cue the Sun"
+            }, {
+               "name" : "Alba del orate"
+            }, {
+               "name" : "Voice in My Knives"
+            }, {
+               "name" : "Poseedora de mi sombra"
+            }, {
+               "name" : "Celaje"
+            }, {
+               "name" : "Vociferó"
+            }, {
+               "name" : "Mito de los trece cielos"
+            }, {
+               "name" : "Un disparo al vacío"
+            }, {
+               "name" : "Detrás de la puerta dorada"
+            }, {
+               "name" : "Maullidos"
+            }, {
+               "name" : "Morgana"
+            }, {
+               "name" : "Cue the Sun (Reprise)"
+            }, {
+               "name" : "Lucro sucio"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-mars-volta/2025/brooklyn-paramount-brooklyn-ny-43593373.html"
+   }, {
+      "id" : "34f3dfb",
+      "versionId" : "g23652083",
+      "eventDate" : "09-11-2025",
+      "lastUpdated" : "2025-11-10T18:24:22.469+0000",
+      "artist" : {
+         "mbid" : "2adb2376-9ddd-432b-8103-2bd57e0aad03",
+         "name" : "Kianî Medina",
+         "sortName" : "Medina, Kianî",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kiani-medina-3bd5d8c8.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kiani-medina/2025/brooklyn-paramount-brooklyn-ny-34f3dfb.html"
+   }, {
+      "id" : "1b4f3df8",
+      "versionId" : "g3b652080",
+      "eventDate" : "09-11-2025",
+      "lastUpdated" : "2025-11-10T18:25:22.538+0000",
+      "artist" : {
+         "mbid" : "923c8d77-60dd-48d4-abf2-0f13d663a449",
+         "name" : "Feliz y Dada",
+         "sortName" : "Feliz y Dada",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/feliz-y-dada-4b9cffc2.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/feliz-y-dada/2025/brooklyn-paramount-brooklyn-ny-1b4f3df8.html"
+   }, {
+      "id" : "3458573",
+      "versionId" : "g7b65ea8c",
+      "eventDate" : "07-11-2025",
+      "lastUpdated" : "2025-11-08T17:59:21.683+0000",
+      "artist" : {
+         "mbid" : "f66d378e-d9f0-4c5d-a4b9-0ee1b9fb2e09",
+         "name" : "Anxious",
+         "sortName" : "Anxious",
+         "disambiguation" : "punk group from Connecticut",
+         "url" : "https://www.setlist.fm/setlists/anxious-4bf3838e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Call From You"
+            }, {
+               "name" : "Counting Sheep"
+            }, {
+               "name" : "Bambi’s Theme"
+            }, {
+               "name" : "In April"
+            }, {
+               "name" : "Down, Down"
+            }, {
+               "name" : "Your One Way Street"
+            }, {
+               "name" : "Some Girls"
+            }, {
+               "name" : "Growing Up Song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/anxious/2025/brooklyn-paramount-brooklyn-ny-3458573.html"
+   }, {
+      "id" : "2b45b046",
+      "versionId" : "g7365eaa5",
+      "eventDate" : "07-11-2025",
+      "lastUpdated" : "2025-11-08T17:56:53.442+0000",
+      "artist" : {
+         "mbid" : "2b1e0708-7317-4b09-b6a2-6dc6cb9c0479",
+         "name" : "Arm’s Length",
+         "sortName" : "Arm’s Length",
+         "disambiguation" : "emo band from Ontario",
+         "url" : "https://www.setlist.fm/setlists/arms-length-3bf50cd8.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Funny Face"
+            }, {
+               "name" : "Object Permanence"
+            }, {
+               "name" : "You Ominously End"
+            }, {
+               "name" : "In Loving Memory"
+            }, {
+               "name" : "Tough Love"
+            }, {
+               "name" : "Fatal Flaw"
+            }, {
+               "name" : "The World"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arms-length/2025/brooklyn-paramount-brooklyn-ny-2b45b046.html"
+   }, {
+      "id" : "1b45b198",
+      "versionId" : "g7b65eab8",
+      "eventDate" : "07-11-2025",
+      "lastUpdated" : "2025-11-08T17:55:25.178+0000",
+      "artist" : {
+         "mbid" : "12a9e259-f7cb-4fca-87b1-a6c5fd38c300",
+         "name" : "Hot Mulligan",
+         "sortName" : "Hot Mulligan",
+         "disambiguation" : "US pop punk band",
+         "url" : "https://www.setlist.fm/setlists/hot-mulligan-23cc10bb.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The Sound A Body Makes When It’s Still"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Moving to Bed Bug Island"
+            }, {
+               "name" : "And a Big Load"
+            }, {
+               "name" : "It Smells Like Fudge Axe in Here"
+            }, {
+               "name" : "Island in the Sun"
+            }, {
+               "name" : "Bon Jonah"
+            }, {
+               "name" : "This Makes Me Yummy",
+               "tape" : true
+            }, {
+               "name" : "Monica Lewinskibidi"
+            }, {
+               "name" : "How Do You Know It's Not Armadillo Shells?"
+            }, {
+               "name" : "Fly Move (The Whole Time)"
+            }, {
+               "name" : "Cream of Wheat of Feet Naw Cream of (feat.)"
+            }, {
+               "name" : "Mix Master Wade on the Beat"
+            }, {
+               "name" : "Gans Media Retro Games"
+            }, {
+               "name" : "Carbon Monoxide Hotel"
+            }, {
+               "name" : "No Shoes in the Coffee Shop (Or Socks)"
+            }, {
+               "name" : "Drink Milk and Run"
+            }, {
+               "name" : "Shhhh! Golf Is On"
+            }, {
+               "name" : "Monster Burger and a $5 Beer"
+            }, {
+               "name" : "Stickers of Brian"
+            }, {
+               "name" : "Let Me See Your Mounts"
+            }, {
+               "name" : "Slumdog Scungillionaire"
+            }, {
+               "name" : "This Makes Me Yucky",
+               "tape" : true
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "*Equip Sunglasses*"
+            }, {
+               "name" : "BCKYRD"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/hot-mulligan/2025/brooklyn-paramount-brooklyn-ny-1b45b198.html"
+   }, {
+      "id" : "1b45857c",
+      "versionId" : "g7365ea91",
+      "eventDate" : "07-11-2025",
+      "lastUpdated" : "2025-11-08T17:58:22.023+0000",
+      "artist" : {
+         "mbid" : "32d2897c-4c91-46db-8161-f51d3f4f0d93",
+         "name" : "Drug Church",
+         "sortName" : "Drug Church",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/drug-church-43da8317.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Grubby"
+            }, {
+               "name" : "Super Saturated"
+            }, {
+               "name" : "Bliss Out"
+            }, {
+               "name" : "Fun's Over"
+            }, {
+               "name" : "Demolition Man"
+            }, {
+               "name" : "Slide 2 Me"
+            }, {
+               "name" : "Million Miles of Fun"
+            }, {
+               "name" : "Unlicensed Guidance Counselor"
+            }, {
+               "name" : "Unlicensed Hall Monitor"
+            }, {
+               "name" : "Myopic"
+            }, {
+               "name" : "Weed Pin"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/drug-church/2025/brooklyn-paramount-brooklyn-ny-1b45857c.html"
+   }, {
+      "id" : "3b4ff440",
+      "versionId" : "g5365bf95",
+      "eventDate" : "05-11-2025",
+      "lastUpdated" : "2025-11-06T17:09:14.108+0000",
+      "artist" : {
+         "mbid" : "648ceff4-65f6-4f77-9976-889d04d2f617",
+         "name" : "Rosie Flores",
+         "sortName" : "Flores, Rosie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rosie-flores-7bd6caa8.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Price of Love",
+               "cover" : {
+                  "mbid" : "091ec508-877f-4e3c-92a3-10903bbbc7ad",
+                  "name" : "The Everly Brothers",
+                  "sortName" : "Everly Brothers, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-everly-brothers-5bd6af64.html"
+               }
+            }, {
+               "name" : "Lines"
+            }, {
+               "name" : "Crazy Mixed Emotions"
+            }, {
+               "name" : "Shakin' All Over",
+               "cover" : {
+                  "mbid" : "28dc7c32-8c77-43c8-8156-5c92bba8ae87",
+                  "name" : "Johnny Kidd and the Pirates",
+                  "sortName" : "Kidd, Johnny and the Pirates",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/johnny-kidd-and-the-pirates-5bd79b0c.html"
+               }
+            }, {
+               "name" : "Who's Lookin' For Me"
+            }, {
+               "name" : "Long White Cadillac",
+               "cover" : {
+                  "mbid" : "ce0a5b20-7485-4074-85c8-bdb6a3668d12",
+                  "name" : "The Blasters",
+                  "sortName" : "Blasters, The",
+                  "disambiguation" : "US rock band",
+                  "url" : "https://www.setlist.fm/setlists/the-blasters-73d64e85.html"
+               }
+            }, {
+               "name" : "You Tear Me Up"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/rosie-flores/2025/brooklyn-paramount-brooklyn-ny-3b4ff440.html"
+   }, {
+      "id" : "2b4358ae",
+      "versionId" : "g2b08f806",
+      "eventDate" : "05-11-2025",
+      "lastUpdated" : "2026-10-08T07:28:06.378+0000",
+      "artist" : {
+         "mbid" : "0285ac5d-660b-4286-acb3-c53c1ab69d39",
+         "name" : "Robert Plant, Saving Grace with Suzi Dian",
+         "sortName" : "Plant, Robert, Saving Grace with Dian, Suzi",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/robert-plant-saving-grace-with-suzi-dian-7b9f6ebc.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Roar in the Fall"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "The Cuckoo",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Higher Rock",
+               "cover" : {
+                  "mbid" : "dfc09e6f-2e11-4dc6-bd9c-e7d2c421f3c8",
+                  "name" : "Reeltime Travelers",
+                  "sortName" : "Reeltime Travelers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/reeltime-travelers-3bd7b850.html"
+               }
+            }, {
+               "name" : "Ramble On",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "Soul of a Man",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Let the Four Winds Blow",
+               "cover" : {
+                  "mbid" : "a527e4cb-64be-4960-8ef5-edb02ff7d48e",
+                  "name" : "Robert Plant and the Strange Sensation",
+                  "sortName" : "Plant, Robert, and Strange Sensation, the",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/robert-plant-and-the-strange-sensation-3bc7c030.html"
+               }
+            }, {
+               "name" : "Too Far From You",
+               "cover" : {
+                  "mbid" : "a8b7a46e-86a0-4cc1-bf5f-0063359135d4",
+                  "name" : "Sarah Siskind",
+                  "sortName" : "Siskind, Sarah",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/sarah-siskind-4bd5a702.html"
+               }
+            }, {
+               "name" : "The Rain Song",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            }, {
+               "name" : "It's a Beautiful Day Today",
+               "cover" : {
+                  "mbid" : "bf014765-46f0-4cd9-b658-c79c5c0166f8",
+                  "name" : "Moby Grape",
+                  "sortName" : "Moby Grape",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/moby-grape-4bd6278e.html"
+               }
+            }, {
+               "name" : "As I Roved Out",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "Everybody's Song",
+               "cover" : {
+                  "mbid" : "42faad37-8aaa-42e4-a300-5a7dae79ed24",
+                  "name" : "Low",
+                  "sortName" : "Low",
+                  "disambiguation" : "Minnesota indie rock/slowcore band",
+                  "url" : "https://www.setlist.fm/setlists/low-7bd6fef4.html"
+               }
+            }, {
+               "name" : "For the Turnstiles",
+               "cover" : {
+                  "mbid" : "75167b8b-44e4-407b-9d35-effe87b223cf",
+                  "name" : "Neil Young",
+                  "sortName" : "Young, Neil",
+                  "disambiguation" : "Canadian singer, songwriter & musician",
+                  "url" : "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+               }
+            }, {
+               "name" : "Friends",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Four Sticks",
+               "cover" : {
+                  "mbid" : "678d88b2-87b0-403b-b63d-5da7465aecc3",
+                  "name" : "Led Zeppelin",
+                  "sortName" : "Led Zeppelin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/led-zeppelin-13d6b509.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/robert-plant-saving-grace-with-suzi-dian/2025/brooklyn-paramount-brooklyn-ny-2b4358ae.html"
+   }, {
+      "id" : "6b43660a",
+      "versionId" : "g53647359",
+      "eventDate" : "03-11-2025",
+      "lastUpdated" : "2025-11-05T01:54:46.268+0000",
+      "artist" : {
+         "mbid" : "35214d53-009b-45d9-8a00-6664325b9e2a",
+         "name" : "OsamaSon",
+         "sortName" : "OsamaSon",
+         "disambiguation" : "US rapper",
+         "url" : "https://www.setlist.fm/setlists/osamason-2bfa30f6.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Psykotic Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Habits"
+            }, {
+               "name" : "Whats Happening"
+            }, {
+               "name" : "Addicted"
+            }, {
+               "name" : "Made Sum Plans"
+            }, {
+               "name" : "In It"
+            }, {
+               "name" : "Nothing"
+            }, {
+               "name" : "Function"
+            }, {
+               "name" : "Ref"
+            }, {
+               "name" : "Guap Man"
+            }, {
+               "name" : "DEMON HOME"
+            }, {
+               "name" : "T193"
+            }, {
+               "name" : "Maag Dump"
+            }, {
+               "name" : "ik what you did last summer"
+            }, {
+               "name" : "New Tune"
+            }, {
+               "name" : "Get Away"
+            }, {
+               "name" : "Its A Party"
+            }, {
+               "name" : "Trenches"
+            }, {
+               "name" : "just score it"
+            }, {
+               "name" : "Worldwide"
+            }, {
+               "name" : "Rehhab"
+            }, {
+               "name" : "yea i kno"
+            }, {
+               "name" : "Victory Lap"
+            }, {
+               "name" : "Inferno"
+            }, {
+               "name" : "FMJ",
+               "with" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "X & Sex"
+            }, {
+               "name" : "cts-v"
+            }, {
+               "name" : "Pop"
+            }, {
+               "name" : "She woke Up"
+            }, {
+               "name" : "Gintama"
+            }, {
+               "name" : "Congrats"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "uncomfy",
+               "cover" : {
+                  "mbid" : "155cfd40-dcde-471e-acc0-32179916165c",
+                  "name" : "xaviersobased",
+                  "sortName" : "xaviersobased",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/xaviersobased-6bfc16aa.html"
+               },
+               "info" : "Live debut",
+               "with" : {
+                  "mbid" : "155cfd40-dcde-471e-acc0-32179916165c",
+                  "name" : "xaviersobased",
+                  "sortName" : "xaviersobased",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/xaviersobased-6bfc16aa.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/osamason/2025/brooklyn-paramount-brooklyn-ny-6b43660a.html"
+   }, {
+      "id" : "234f8cdb",
+      "versionId" : "g364113f",
+      "eventDate" : "03-11-2025",
+      "lastUpdated" : "2025-11-04T07:14:13.006+0000",
+      "artist" : {
+         "mbid" : "ed000c84-a712-47e7-a14c-2de888c6e3be",
+         "name" : "Dj Rennessy",
+         "sortName" : "Rennessy, Dj",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dj-rennessy-23e7201b.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "SLAM PUNK",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "EVIL J0RDAN",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                  "name" : "Playboi Carti",
+                  "sortName" : "Playboi Carti",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/playboi-carti-63c7fa8f.html"
+               }
+            }, {
+               "name" : "Faneto",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "9118f524-be76-4eaf-875c-ccf15e2a2ad6",
+                  "name" : "Chief Keef",
+                  "sortName" : "Chief Keef",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/chief-keef-5bd10374.html"
+               }
+            }, {
+               "name" : "HELLRAISER",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "love hate",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "155cfd40-dcde-471e-acc0-32179916165c",
+                  "name" : "xaviersobased",
+                  "sortName" : "xaviersobased",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/xaviersobased-6bfc16aa.html"
+               }
+            }, {
+               "name" : "LIKE WEEZY",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                  "name" : "Playboi Carti",
+                  "sortName" : "Playboi Carti",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/playboi-carti-63c7fa8f.html"
+               }
+            }, {
+               "name" : "BA$$",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "Shut Up",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4585749c-5489-4699-9daf-1ffa9717179f",
+                  "name" : "Nettspend",
+                  "sortName" : "Nettspend",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nettspend-2bf8648e.html"
+               }
+            }, {
+               "name" : "Impact",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4585749c-5489-4699-9daf-1ffa9717179f",
+                  "name" : "Nettspend",
+                  "sortName" : "Nettspend",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nettspend-2bf8648e.html"
+               }
+            }, {
+               "name" : "double whammy",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "155cfd40-dcde-471e-acc0-32179916165c",
+                  "name" : "xaviersobased",
+                  "sortName" : "xaviersobased",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/xaviersobased-6bfc16aa.html"
+               }
+            }, {
+               "name" : "POP OUT",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                  "name" : "Playboi Carti",
+                  "sortName" : "Playboi Carti",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/playboi-carti-63c7fa8f.html"
+               }
+            }, {
+               "name" : "Lord Of Chaos",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                  "name" : "Ken Carson",
+                  "sortName" : "Carson, Ken",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/ken-carson-bf3f9a6.html"
+               }
+            }, {
+               "name" : "OPM BABI",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                  "name" : "Playboi Carti",
+                  "sortName" : "Playboi Carti",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/playboi-carti-63c7fa8f.html"
+               }
+            }, {
+               "name" : "MANNEQUIN",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "LV Sandals",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "bc68ed9f-85e9-42f4-a36e-31eac2afe5c0",
+                  "name" : "EsDeeKid, fakemink & Rico Ace",
+                  "sortName" : "EsDeeKid, fakemink & Rico Ace",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/esdeekid-fakemink-and-rico-ace-7394aead.html"
+               }
+            }, {
+               "name" : "her friends",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4585749c-5489-4699-9daf-1ffa9717179f",
+                  "name" : "Nettspend",
+                  "sortName" : "Nettspend",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nettspend-2bf8648e.html"
+               }
+            }, {
+               "name" : "Over",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                  "name" : "Playboi Carti",
+                  "sortName" : "Playboi Carti",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/playboi-carti-63c7fa8f.html"
+               }
+            }, {
+               "name" : "ENJOY YOUR LIFE",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "Money Spread",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "860d7dc2-618d-437e-a3bb-7b91c2d40095",
+                  "name" : "Ken Carson",
+                  "sortName" : "Carson, Ken",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/ken-carson-bf3f9a6.html"
+               }
+            }, {
+               "name" : "MARCELINE",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0a68f3b5-79c2-4f81-a7bc-ebc977602e86",
+                  "name" : "Che",
+                  "sortName" : "Che",
+                  "disambiguation" : "Atlanta rapper",
+                  "url" : "https://www.setlist.fm/setlists/che-1bffe504.html"
+               }
+            }, {
+               "name" : "TOXIC",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+                  "name" : "Playboi Carti",
+                  "sortName" : "Playboi Carti",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/playboi-carti-63c7fa8f.html"
+               }
+            }, {
+               "name" : "Need Me",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "155cfd40-dcde-471e-acc0-32179916165c",
+                  "name" : "xaviersobased",
+                  "sortName" : "xaviersobased",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/xaviersobased-6bfc16aa.html"
+               }
+            }, {
+               "name" : "Beach leak",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "4585749c-5489-4699-9daf-1ffa9717179f",
+                  "name" : "Nettspend",
+                  "sortName" : "Nettspend",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nettspend-2bf8648e.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dj-rennessy/2025/brooklyn-paramount-brooklyn-ny-234f8cdb.html"
+   }, {
+      "id" : "1b4ec9b4",
+      "versionId" : "g23647cd3",
+      "eventDate" : "03-11-2025",
+      "lastUpdated" : "2025-11-04T20:01:03.071+0000",
+      "artist" : {
+         "mbid" : "03d99cad-d8a2-473e-be40-2147e99af13c",
+         "name" : "ohsxnta",
+         "sortName" : "ohsxnta",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/ohsxnta-6bfaca8e.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Just Me"
+            }, {
+               "name" : "Fuck Up Chos'"
+            }, {
+               "name" : "tookoffdabrain"
+            }, {
+               "name" : "All Day"
+            }, {
+               "name" : "Paul McCartney",
+               "info" : "New song"
+            }, {
+               "name" : "Justin Bieber"
+            }, {
+               "name" : "workin 4 u",
+               "info" : "New song"
+            }, {
+               "name" : "arps & codeine"
+            }, {
+               "name" : "Change"
+            }, {
+               "name" : "I Want My Heart Back",
+               "info" : "New song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ohsxnta/2025/brooklyn-paramount-brooklyn-ny-1b4ec9b4.html"
+   }, {
+      "id" : "34fa1bf",
+      "versionId" : "g2364700b",
+      "eventDate" : "02-11-2025",
+      "lastUpdated" : "2025-11-05T01:11:53.390+0000",
+      "artist" : {
+         "mbid" : "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+         "name" : "Of Monsters and Men",
+         "sortName" : "Of Monsters and Men",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/of-monsters-and-men-63d08ae7.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The Mouse Parade"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Television Love"
+            }, {
+               "name" : "Dream Team"
+            }, {
+               "name" : "King and Lionheart"
+            }, {
+               "name" : "Tuna in a Can"
+            }, {
+               "name" : "Alligator"
+            }, {
+               "name" : "Human"
+            }, {
+               "name" : "The Actor",
+               "info" : "Live Debut"
+            }, {
+               "name" : "The Block"
+            }, {
+               "name" : "Mouse Parade"
+            }, {
+               "name" : "Dirty Paws"
+            }, {
+               "name" : "Empire"
+            }, {
+               "name" : "Crystals"
+            }, {
+               "name" : "Styrofoam Cathedral"
+            }, {
+               "name" : "Little Talks"
+            }, {
+               "name" : "Ordinary Creature"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Love Love Love"
+            }, {
+               "name" : "Fruit Bat"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/of-monsters-and-men/2025/brooklyn-paramount-brooklyn-ny-34fa1bf.html"
+   }, {
+      "id" : "334f94d1",
+      "versionId" : "g2b6424ea",
+      "eventDate" : "02-11-2025",
+      "lastUpdated" : "2025-11-03T18:51:37.159+0000",
+      "artist" : {
+         "mbid" : "0d2df41f-6f80-45b0-b4a6-6034c6a8ff3f",
+         "name" : "Arny Margret",
+         "sortName" : "Margret, Arny",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/arny-margret-3fecd83.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arny-margret/2025/brooklyn-paramount-brooklyn-ny-334f94d1.html"
+   }, {
+      "id" : "53431f59",
+      "versionId" : "g3b64d83c",
+      "eventDate" : "01-11-2025",
+      "lastUpdated" : "2025-11-02T05:16:41.339+0000",
+      "artist" : {
+         "mbid" : "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+         "name" : "Of Monsters and Men",
+         "sortName" : "Of Monsters and Men",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/of-monsters-and-men-63d08ae7.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "The Mouse Parade"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Television Love"
+            }, {
+               "name" : "Dream Team"
+            }, {
+               "name" : "King and Lionheart"
+            }, {
+               "name" : "Tuna in a Can"
+            }, {
+               "name" : "Alligator"
+            }, {
+               "name" : "Human"
+            }, {
+               "name" : "The Block"
+            }, {
+               "name" : "Mouse Parade"
+            }, {
+               "name" : "The Towering Skyscraper at the End of the Road"
+            }, {
+               "name" : "Ordinary Creature"
+            }, {
+               "name" : "Barefoot in Snow"
+            }, {
+               "name" : "Crystals"
+            }, {
+               "name" : "Styrofoam Cathedral"
+            }, {
+               "name" : "Little Talks"
+            }, {
+               "name" : "Visitor"
+            }, {
+               "name" : "Fruit Bat"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The End"
+            }, {
+               "name" : "Dirty Paws"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/of-monsters-and-men/2025/brooklyn-paramount-brooklyn-ny-53431f59.html"
+   }, {
+      "id" : "434fabc7",
+      "versionId" : "gb64e186",
+      "eventDate" : "01-11-2025",
+      "lastUpdated" : "2025-11-02T00:36:57.673+0000",
+      "artist" : {
+         "mbid" : "0d2df41f-6f80-45b0-b4a6-6034c6a8ff3f",
+         "name" : "Arny Margret",
+         "sortName" : "Margret, Arny",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/arny-margret-3fecd83.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/arny-margret/2025/brooklyn-paramount-brooklyn-ny-434fabc7.html"
+   }, {
+      "id" : "b417d2e",
+      "versionId" : "g7b1c8a58",
+      "eventDate" : "31-10-2025",
+      "lastUpdated" : "2026-05-12T13:36:09.347+0000",
+      "artist" : {
+         "mbid" : "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+         "name" : "Little Simz",
+         "sortName" : "Little Simz",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/little-simz-3bd554a8.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "tour" : {
+         "name" : "Lotus"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Set 1:",
+            "song" : [ {
+               "name" : "Hollow"
+            }, {
+               "name" : "Thief"
+            }, {
+               "name" : "Flood"
+            }, {
+               "name" : "Two Worlds Apart"
+            }, {
+               "name" : "I Love You, I Hate You"
+            }, {
+               "name" : "Enough"
+            }, {
+               "name" : "Young"
+            }, {
+               "name" : "Heart on Fire"
+            }, {
+               "name" : "Introvert"
+            }, {
+               "name" : "101 FM",
+               "info" : "Simbi in crowd"
+            }, {
+               "name" : "Venom"
+            } ]
+         }, {
+            "name" : "Drop 7 DJ Set",
+            "song" : [ {
+               "name" : "Mood Swings"
+            }, {
+               "name" : "Fever"
+            }, {
+               "name" : "Torch"
+            }, {
+               "name" : "SOS"
+            }, {
+               "name" : "Open Arms"
+            } ]
+         }, {
+            "name" : "Set 2:",
+            "song" : [ {
+               "name" : "Lion"
+            }, {
+               "name" : "Point and Kill"
+            }, {
+               "name" : "Only"
+            }, {
+               "name" : "Selfish"
+            }, {
+               "name" : "Lonely"
+            }, {
+               "name" : "Free"
+            }, {
+               "name" : "Lotus"
+            }, {
+               "name" : "Miss Understood"
+            }, {
+               "name" : "Woman"
+            } ]
+         }, {
+            "name" : "Encore",
+            "song" : [ {
+               "name" : "Gorilla"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/little-simz/2025/brooklyn-paramount-brooklyn-ny-b417d2e.html"
+   }, {
+      "id" : "1b4fb190",
+      "versionId" : "g7b648234",
+      "eventDate" : "31-10-2025",
+      "lastUpdated" : "2025-11-01T00:30:50.826+0000",
+      "artist" : {
+         "mbid" : "62a678d1-1b0f-4f9c-80ab-9332d55cb999",
+         "name" : "La Reezy",
+         "sortName" : "La Reezy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/la-reezy-5befb778.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/la-reezy/2025/brooklyn-paramount-brooklyn-ny-1b4fb190.html"
+   }, {
+      "id" : "534f9bc5",
+      "versionId" : "g6b642e62",
+      "eventDate" : "30-10-2025",
+      "lastUpdated" : "2025-11-03T14:50:27.874+0000",
+      "artist" : {
+         "mbid" : "62a678d1-1b0f-4f9c-80ab-9332d55cb999",
+         "name" : "La Reezy",
+         "sortName" : "La Reezy",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/la-reezy-5befb778.html"
+      },
+      "venue" : {
+         "id" : "7bd17634",
+         "name" : "Brooklyn Paramount",
+         "city" : {
+            "id" : "5110302",
+            "name" : "Brooklyn",
+            "state" : "New York",
+            "stateCode" : "NY",
+            "coords" : {
+               "lat" : 40.65,
+               "long" : -73.95
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/brooklyn-paramount-brooklyn-ny-usa-7bd17634.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/la-reezy/2025/brooklyn-paramount-brooklyn-ny-534f9bc5.html"
+   } ]
+}
