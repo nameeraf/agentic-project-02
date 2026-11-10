@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>NYC Setlist Analyst</title>
+        <title>Admit One, Informed · NYC Setlist Analyst</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
@@ -37,6 +37,9 @@
 
             /* top bar */
             .topbar { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; }
+            .brand { display: flex; flex-direction: column; align-items: flex-start; gap: .55rem; }
+            .brandtitle { font-family: var(--display); font-weight: 400; font-size: clamp(1.55rem, 4.2vw, 2.3rem); line-height: 1; letter-spacing: -.01em; }
+            .brandtitle .mark { background: linear-gradient(transparent 58%, var(--pink) 58%); padding: 0 .12em; margin: 0 -.12em; }
             .pill { display: inline-block; background: var(--ink); color: var(--yellow); font-family: var(--display);
                     font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; padding: .45rem .9rem; border-radius: 999px; }
             .admit { display: inline-block; background: var(--pink); border: 2px solid var(--ink); box-shadow: 3px 3px 0 var(--ink);
@@ -177,7 +180,10 @@
     <body>
         <div class="wrap">
             <div class="topbar">
-                <span class="pill">NYC Setlist Analyst</span>
+                <div class="brand">
+                    <p class="brandtitle">Admit One, <span class="mark">Informed</span></p>
+                    <span class="pill">NYC Setlist Analyst</span>
+                </div>
                 <span class="admit">Admit one · 21 NYC-area venues · 2022–2025</span>
             </div>
 
@@ -348,7 +354,7 @@
                     loading.querySelector(".content").textContent = "Error: " + e.message;
                 }
                 sendBtn.disabled = false;
-                input.focus();
+                input.focus({ preventScroll: true });
             }
 
             document.getElementById("form").addEventListener("submit", (e) => { e.preventDefault(); send(); });
@@ -359,9 +365,9 @@
                 messages.innerHTML = "";
                 empty.hidden = false;
                 tag.textContent = "Waiting for your pick";
-                input.focus();
+                input.focus({ preventScroll: true });
             });
-            input.focus();
+            input.focus({ preventScroll: true });
         </script>
     </body>
 </html>

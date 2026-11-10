@@ -1,6 +1,10 @@
-# NYC Setlist Analyst: does the show play the hits?
+# Admit One, Informed
+
+## NYC Setlist Analyst: does the show play the hits?
 
 ### Sathya Raman (sr4213) and Nameera Faisal Akhtar (nf2613)
+
+We're two seasoned concert goers, and we know being a fan is a full-time job: the setlist homework, the hunt for which night has the surprise guest, the gamble of spending real money on a single night.
 
 Every time we buy concert tickets, the same question comes up: will they actually play the songs we came for? This agent answers it with data. It knows every logged setlist at 21 NYC-area venues (20 in NYC plus MetLife Stadium in New Jersey) from 2022 to 2025 (about 10,400 shows, from setlist.fm), matched against every Billboard Hot 100 chart since 1958. It also tracks which artists went from playing tiny clubs to headlining arenas.
 

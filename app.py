@@ -328,6 +328,13 @@ def index():
 async def chat(request: ChatRequest):
     # Get or create the session. A new SQLiteSession on the same file sees the same history.
     session_id = request.session_id or str(uuid.uuid4())
+    if not request.message.strip():
+        # Vertex rejects an empty prompt with a 400, so answer here instead of showing that error.
+        return ChatResponse(
+            response="Ask me something about NYC concerts: a song, an artist, a venue, or which night of a run to go to.",
+            session_id=session_id,
+            tool_calls=[],
+        )
     session = SQLiteSession(session_id, SESSIONS_DB)
     hooks = RecordToolCalls()
 
