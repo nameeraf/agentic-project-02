@@ -27,6 +27,7 @@ SETLISTFM = "https://api.setlist.fm/rest/1.0"
 SLEEP_S = 1.1  # setlist.fm returns 429 at ~2 requests/second
 HOT100_URL = "https://raw.githubusercontent.com/utdata/rwd-billboard-data/main/data-out/hot-100-current.csv"
 NYC_CITIES = {"new york", "brooklyn", "queens", "bronx", "the bronx", "flushing", "forest hills"}
+NJ_CITIES = {"east rutherford"}  # MetLife Stadium: New Jersey, but the NYC-area stadium
 
 
 def get(client: httpx.Client, path: str, params: dict) -> httpx.Response:
@@ -50,7 +51,8 @@ def find_venue_ids(client: httpx.Client) -> list[dict]:
             continue
         r = get(client, "/search/venues", {"name": row["setlistfm_search_name"], "countryCode": "US"})
         venues = [] if r.status_code == 404 else r.json().get("venue", [])
-        nyc = [v for v in venues if v["city"].get("stateCode") == "NY" and v["city"]["name"].lower() in NYC_CITIES]
+        nyc = [v for v in venues if (v["city"].get("stateCode") == "NY" and v["city"]["name"].lower() in NYC_CITIES)
+               or (v["city"].get("stateCode") == "NJ" and v["city"]["name"].lower() in NJ_CITIES)]
         key = row["setlistfm_search_name"].lower()
         nyc.sort(key=lambda v: (v["name"].lower() != key, not v["name"].lower().startswith(key)))
         if nyc:

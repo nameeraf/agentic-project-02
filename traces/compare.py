@@ -29,6 +29,8 @@ QUESTIONS = [
     {"id": "s1", "kind": "sample", "question": "How many times did Billy Joel play Piano Man at Madison Square Garden?"},
     {"id": "s2", "kind": "sample", "question": "Which of Olivia Rodrigo's Hot 100 songs has she never played at an NYC show?"},
     {"id": "s3", "kind": "sample", "question": "Which artists went from playing NYC clubs to headlining an NYC arena, and who had the most hits in between?"},
+    # Feature example (README, "Pick a night"): expected answer checked by hand in run_nights.
+    {"id": "p1", "kind": "sample", "question": "I can go to one of Taylor Swift's three MetLife nights. Which one should I pick?"},
     # Where a plain run_sql agent goes wrong.
     {"id": "t1", "kind": "trap", "question": "Which of SZA's Hot 100 hits has she never played at an NYC show?"},
     {"id": "t2", "kind": "trap", "question": "How many times did Madonna perform Causing a Commotion in NYC?"},

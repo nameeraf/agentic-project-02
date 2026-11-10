@@ -1,0 +1,2205 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 44,
+   "setlist" : [ {
+      "id" : "6370c2ef",
+      "versionId" : "g1b03a104",
+      "eventDate" : "30-10-2022",
+      "lastUpdated" : "2026-08-03T01:46:12.076+0000",
+      "artist" : {
+         "mbid" : "0f54771d-b91c-469b-b1e5-484c55baeebe",
+         "name" : "Probable Cause",
+         "sortName" : "Probable Cause",
+         "disambiguation" : "New York cover band",
+         "url" : "https://www.setlist.fm/setlists/probable-cause-1384dde5.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Break Stuff",
+               "cover" : {
+                  "mbid" : "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+                  "name" : "Limp Bizkit",
+                  "sortName" : "Limp Bizkit",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/limp-bizkit-33d69c2d.html"
+               }
+            }, {
+               "name" : "Jump Around",
+               "cover" : {
+                  "mbid" : "c2d6a6fb-7999-4bb3-b2df-7d752fdf4e95",
+                  "name" : "House of Pain",
+                  "sortName" : "House of Pain",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/house-of-pain-13d63d51.html"
+               }
+            }, {
+               "name" : "Welcome to the Jungle",
+               "cover" : {
+                  "mbid" : "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name" : "Guns N’ Roses",
+                  "sortName" : "Guns N’ Roses",
+                  "disambiguation" : "American hard rock band from Los Angeles",
+                  "url" : "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/probable-cause/2022/metlife-stadium-east-rutherford-nj-6370c2ef.html"
+   }, {
+      "id" : "bb089a2",
+      "versionId" : "g5b101f5c",
+      "eventDate" : "06-09-2022",
+      "lastUpdated" : "2026-04-16T01:20:34.758+0000",
+      "artist" : {
+         "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+         "name" : "Rammstein",
+         "sortName" : "Rammstein",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Stadium Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Music for the Royal Fireworks",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "27870d47-bb98-42d1-bf2b-c7e972e6befc",
+                  "name" : "George Frideric Handel",
+                  "sortName" : "Handel, George Frideric",
+                  "disambiguation" : "German‐British baroque composer",
+                  "url" : "https://www.setlist.fm/setlists/george-frideric-handel-7bd4ee68.html"
+               }
+            }, {
+               "name" : "Armee der Tristen"
+            }, {
+               "name" : "Zick Zack"
+            }, {
+               "name" : "Links 2 3 4"
+            }, {
+               "name" : "Sehnsucht"
+            }, {
+               "name" : "Zeig dich"
+            }, {
+               "name" : "Mein Herz brennt"
+            }, {
+               "name" : "Puppe"
+            }, {
+               "name" : "Heirate mich"
+            }, {
+               "name" : "Zeit"
+            }, {
+               "name" : "Deutschland",
+               "tape" : true,
+               "info" : "Remix by Richard Z. Kruspe"
+            }, {
+               "name" : "Deutschland"
+            }, {
+               "name" : "Radio"
+            }, {
+               "name" : "Mein Teil"
+            }, {
+               "name" : "Du hast"
+            }, {
+               "name" : "Sonne"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Engel",
+               "info" : "Piano version, performed on B-Stage",
+               "with" : {
+                  "mbid" : "1e9d02a2-468a-4a53-ba46-6dbcd87b9595",
+                  "name" : "ABÉLARD",
+                  "sortName" : "Abélard",
+                  "disambiguation" : "French piano duo",
+                  "url" : "https://www.setlist.fm/setlists/abelard-53f78335.html"
+               }
+            }, {
+               "name" : "Ausländer"
+            }, {
+               "name" : "Du riechst so gut"
+            }, {
+               "name" : "Pussy"
+            } ]
+         }, {
+            "encore" : 2,
+            "song" : [ {
+               "name" : "Rammstein"
+            }, {
+               "name" : "Ich will"
+            }, {
+               "name" : "Adieu"
+            }, {
+               "name" : "Sonne",
+               "tape" : true,
+               "info" : "Piano version"
+            }, {
+               "name" : "Haifisch",
+               "tape" : true,
+               "info" : "Haiswing Remix by Olsen Involtini"
+            }, {
+               "name" : "Ohne dich",
+               "tape" : true,
+               "info" : "Piano version"
+            } ]
+         } ]
+      },
+      "info" : "Originally scheduled 9/10/2020, changed to 9/10/2021, then finally 9/6/2022 due to Covid-19 pandemic",
+      "url" : "https://www.setlist.fm/setlist/rammstein/2022/metlife-stadium-east-rutherford-nj-bb089a2.html"
+   }, {
+      "id" : "13b089a1",
+      "versionId" : "g33fc4019",
+      "eventDate" : "06-09-2022",
+      "lastUpdated" : "2022-09-07T18:02:00.246+0000",
+      "artist" : {
+         "mbid" : "1e9d02a2-468a-4a53-ba46-6dbcd87b9595",
+         "name" : "ABÉLARD",
+         "sortName" : "Abélard",
+         "disambiguation" : "French piano duo",
+         "url" : "https://www.setlist.fm/setlists/abelard-53f78335.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Sonne",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Mutter",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Diamant",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Mein Herz brennt",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Zeit",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Frühling in Paris",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Ohne dich",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Deutschland",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            }, {
+               "name" : "Du hast",
+               "cover" : {
+                  "mbid" : "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                  "name" : "Rammstein",
+                  "sortName" : "Rammstein",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rammstein-3bd43cd0.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/abelard/2022/metlife-stadium-east-rutherford-nj-13b089a1.html"
+   }, {
+      "id" : "53b3d785",
+      "versionId" : "g13fe2101",
+      "eventDate" : "17-08-2022",
+      "lastUpdated" : "2022-08-18T05:46:49.454+0000",
+      "artist" : {
+         "mbid" : "044fd265-79dd-43eb-afc4-8b20becf7e17",
+         "name" : "Thundercat",
+         "sortName" : "Thundercat",
+         "disambiguation" : "US singer-songwriter & bassist",
+         "url" : "https://www.setlist.fm/setlists/thundercat-13d5d5c9.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lost in Space / Great Scott / 22-26"
+            }, {
+               "name" : "Innerstellar Love"
+            }, {
+               "name" : "How Sway"
+            }, {
+               "name" : "Overseas"
+            }, {
+               "name" : "Dragonball Durag"
+            }, {
+               "name" : "Funny Thing"
+            }, {
+               "name" : "Them Changes"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Red Hot Chili Peppers",
+      "url" : "https://www.setlist.fm/setlist/thundercat/2022/metlife-stadium-east-rutherford-nj-53b3d785.html"
+   }, {
+      "id" : "4bb3d782",
+      "versionId" : "g7bfe06dc",
+      "eventDate" : "17-08-2022",
+      "lastUpdated" : "2022-08-19T13:11:05.643+0000",
+      "artist" : {
+         "mbid" : "f181961b-20f7-459e-89de-920ef03c7ed0",
+         "name" : "The Strokes",
+         "sortName" : "Strokes, The",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/the-strokes-23d6982f.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "2022 North American Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Last Nite"
+            }, {
+               "name" : "Juicebox"
+            }, {
+               "name" : "Bad Decisions"
+            }, {
+               "name" : "Take It or Leave It"
+            }, {
+               "name" : "Automatic Stop"
+            }, {
+               "name" : "Ize of the World"
+            }, {
+               "name" : "The Adults Are Talking"
+            }, {
+               "name" : "Evening Sun"
+            }, {
+               "name" : "Reptilia"
+            }, {
+               "name" : "Someday"
+            }, {
+               "name" : "Hard to Explain"
+            }, {
+               "name" : "It Was a Very Good Year",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "197450cd-0124-4164-b723-3c22dd16494d",
+                  "name" : "Frank Sinatra",
+                  "sortName" : "Sinatra, Frank",
+                  "disambiguation" : "American singer and actor, “Ol’ Blue Eyes”",
+                  "url" : "https://www.setlist.fm/setlists/frank-sinatra-73d69af5.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Red Hot Chili Peppers",
+      "url" : "https://www.setlist.fm/setlist/the-strokes/2022/metlife-stadium-east-rutherford-nj-4bb3d782.html"
+   }, {
+      "id" : "43b3d78f",
+      "versionId" : "g7b45967c",
+      "eventDate" : "17-08-2022",
+      "lastUpdated" : "2025-03-05T03:19:16.639+0000",
+      "artist" : {
+         "mbid" : "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+         "name" : "Red Hot Chili Peppers",
+         "sortName" : "Red Hot Chili Peppers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/red-hot-chili-peppers-13d68969.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Global Stadium Tour 2022-23"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Intro Jam"
+            }, {
+               "name" : "Can't Stop"
+            }, {
+               "name" : "Dani California",
+               "info" : "with \"Purdie Shuffle\" drum intro, played for Bernard Purdie who was in the audience"
+            }, {
+               "name" : "Scar Tissue",
+               "info" : "Followed by a jam of Jimi Hendrix's \"Manic Depression\""
+            }, {
+               "name" : "Here Ever After"
+            }, {
+               "name" : "Charlie"
+            }, {
+               "name" : "Snow ((Hey Oh))"
+            }, {
+               "name" : "These Are the Ways"
+            }, {
+               "name" : "Soul to Squeeze"
+            }, {
+               "name" : "Right on Time",
+               "info" : "preceded by a tease of \" London Calling\" by The Clash"
+            }, {
+               "name" : "Parallel Universe"
+            }, {
+               "name" : "Otherside"
+            }, {
+               "name" : "The Heavy Wing"
+            }, {
+               "name" : "Black Summer"
+            }, {
+               "name" : "Californication"
+            }, {
+               "name" : "Give It Away"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Under the Bridge",
+               "info" : "preceded by a tease of “50 Ways to Leave Your Lover” by Paul Simon"
+            }, {
+               "name" : "By the Way"
+            } ]
+         } ]
+      },
+      "info" : "\"Nervous Breakdown\" was listed on the setlist as an alternate to \"Right on Time\".",
+      "url" : "https://www.setlist.fm/setlist/red-hot-chili-peppers/2022/metlife-stadium-east-rutherford-nj-43b3d78f.html"
+   }, {
+      "id" : "bb3e18e",
+      "versionId" : "g4bfe93e2",
+      "eventDate" : "13-08-2022",
+      "lastUpdated" : "2022-08-14T05:25:02.956+0000",
+      "artist" : {
+         "mbid" : "a320c615-206f-452f-9a9b-13ea15f8c0eb",
+         "name" : "Old Dominion",
+         "sortName" : "Old Dominion",
+         "disambiguation" : "US country band",
+         "url" : "https://www.setlist.fm/setlists/old-dominion-73d9621d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Low Rider",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "3e6bbdb8-66c8-439c-a3d9-87391ce88740",
+                  "name" : "War",
+                  "sortName" : "War",
+                  "disambiguation" : "US funk/rock band",
+                  "url" : "https://www.setlist.fm/setlists/war-6bd62202.html"
+               }
+            }, {
+               "name" : "Make It Sweet"
+            }, {
+               "name" : "Never Be Sorry"
+            }, {
+               "name" : "No Such Thing as a Broken Heart"
+            }, {
+               "name" : "Written in the Sand"
+            }, {
+               "name" : "No Hard Feelings"
+            }, {
+               "name" : "Snapback"
+            }, {
+               "name" : "Hotel Key"
+            }, {
+               "name" : "Song for Another Time"
+            }, {
+               "name" : "Break Up With Him"
+            }, {
+               "name" : "Wild Hearts",
+               "cover" : {
+                  "mbid" : "f45da029-7b00-4bf3-962c-0eeb20309cc4",
+                  "name" : "Keith Urban",
+                  "sortName" : "Urban, Keith",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/keith-urban-33d6bc9d.html"
+               }
+            }, {
+               "name" : "Learn to Fly",
+               "cover" : {
+                  "mbid" : "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name" : "Foo Fighters",
+                  "sortName" : "Foo Fighters",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+               }
+            }, {
+               "name" : "Glory Days",
+               "cover" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               }
+            }, {
+               "name" : "Can't Get You"
+            }, {
+               "name" : "One Man Band"
+            }, {
+               "name" : "I Was on a Boat That Day"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/old-dominion/2022/metlife-stadium-east-rutherford-nj-bb3e18e.html"
+   }, {
+      "id" : "1bb3e190",
+      "versionId" : "g3fe913b",
+      "eventDate" : "13-08-2022",
+      "lastUpdated" : "2022-08-14T03:57:54.480+0000",
+      "artist" : {
+         "mbid" : "5dca4d22-d6c8-4e70-8ca1-4543e43353c7",
+         "name" : "Kenny Chesney",
+         "sortName" : "Chesney, Kenny",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kenny-chesney-3bd6bc8c.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Here and Now"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Rock 'n' Roll Train",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name" : "AC/DC",
+                  "sortName" : "AC/DC",
+                  "disambiguation" : "Australian hard rock band",
+                  "url" : "https://www.setlist.fm/setlists/acdc-23d6807b.html"
+               }
+            }, {
+               "name" : "Beer in Mexico"
+            }, {
+               "name" : "Reality"
+            }, {
+               "name" : "Til It's Gone"
+            }, {
+               "name" : "Here and Now"
+            }, {
+               "name" : "Summertime"
+            }, {
+               "name" : "We Do"
+            }, {
+               "name" : "No Shoes, No Shirt, No Problems"
+            }, {
+               "name" : "Somewhere With You"
+            }, {
+               "name" : "I Go Back"
+            }, {
+               "name" : "Get Along"
+            }, {
+               "name" : "Anything but Mine"
+            }, {
+               "name" : "Save It for a Rainy Day",
+               "with" : {
+                  "mbid" : "a320c615-206f-452f-9a9b-13ea15f8c0eb",
+                  "name" : "Old Dominion",
+                  "sortName" : "Old Dominion",
+                  "disambiguation" : "US country band",
+                  "url" : "https://www.setlist.fm/setlists/old-dominion-73d9621d.html"
+               }
+            }, {
+               "name" : "When the Sun Goes Down",
+               "info" : "with Happy Birthday to You to the video director and band intros"
+            }, {
+               "name" : "There Goes My Life"
+            }, {
+               "name" : "All the Pretty Girls"
+            }, {
+               "name" : "Living in Fast Forward"
+            }, {
+               "name" : "Young"
+            }, {
+               "name" : "Noise"
+            }, {
+               "name" : "American Kids"
+            }, {
+               "name" : "Setting the World on Fire"
+            }, {
+               "name" : "Everything's Gonna Be Alright",
+               "cover" : {
+                  "mbid" : "f395af92-1289-4ae8-95c4-871e4fc3ccfd",
+                  "name" : "David Lee Murphy",
+                  "sortName" : "Murphy, David Lee",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/david-lee-murphy-53d7bbb1.html"
+               }
+            }, {
+               "name" : "How Forever Feels"
+            }, {
+               "name" : "The Boys of Fall"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "She Thinks My Tractor's Sexy"
+            }, {
+               "name" : "Three Little Birds",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name" : "Bob Marley & The Wailers",
+                  "sortName" : "Marley, Bob & The Wailers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/kenny-chesney/2022/metlife-stadium-east-rutherford-nj-1bb3e190.html"
+   }, {
+      "id" : "1bb3e18c",
+      "versionId" : "g4b625f7a",
+      "eventDate" : "13-08-2022",
+      "lastUpdated" : "2025-11-20T03:30:17.771+0000",
+      "artist" : {
+         "mbid" : "199affdb-93c0-4a9d-a4d0-26dc4fa01806",
+         "name" : "Carly Pearce",
+         "sortName" : "Pearce, Carly",
+         "disambiguation" : "American country music singer",
+         "url" : "https://www.setlist.fm/setlists/carly-pearce-73c5169d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Diamondback"
+            }, {
+               "name" : "Easy Going"
+            }, {
+               "name" : "What He Didn't Do"
+            }, {
+               "name" : "Next Girl"
+            }, {
+               "name" : "Hide the Wine"
+            }, {
+               "name" : "Every Little Thing"
+            }, {
+               "name" : "Never Wanted to Be That Girl"
+            }, {
+               "name" : "I Hope You're Happy Now"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/carly-pearce/2022/metlife-stadium-east-rutherford-nj-1bb3e18c.html"
+   }, {
+      "id" : "13b3e189",
+      "versionId" : "g53fe93d9",
+      "eventDate" : "13-08-2022",
+      "lastUpdated" : "2022-08-14T05:26:15.963+0000",
+      "artist" : {
+         "mbid" : "33cf3954-10af-4dcb-985f-9420d1fa4168",
+         "name" : "Dan + Shay",
+         "sortName" : "Dan + Shay",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/dan-shay-3da1d37.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "10,000 Hours",
+               "cover" : {
+                  "mbid" : "466b7113-1ebd-4862-b023-8eb43033aae5",
+                  "name" : "Dan + Shay & Justin Bieber",
+                  "sortName" : "Dan + Shay & Bieber, Justin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dan-shay-and-justin-bieber-13f735f5.html"
+               }
+            }, {
+               "name" : "Alone Together"
+            }, {
+               "name" : "All to Myself"
+            }, {
+               "name" : "Make or Break"
+            }, {
+               "name" : "Nothin' Like You"
+            }, {
+               "name" : "From the Ground Up"
+            }, {
+               "name" : "You",
+               "info" : "Song paused to acknowledge couple getting engaged in crowd"
+            }, {
+               "name" : "Lying"
+            }, {
+               "name" : "Steal My Love"
+            }, {
+               "name" : "How Not To"
+            }, {
+               "name" : "Island Time",
+               "info" : "with band intros"
+            }, {
+               "name" : "Glad You Exist"
+            }, {
+               "name" : "I Should Probably Go to Bed"
+            }, {
+               "name" : "Speechless"
+            }, {
+               "name" : "19 You + Me"
+            }, {
+               "name" : "Tequila"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dan-shay/2022/metlife-stadium-east-rutherford-nj-13b3e189.html"
+   }, {
+      "id" : "3b39167",
+      "versionId" : "g4bfd9326",
+      "eventDate" : "11-08-2022",
+      "lastUpdated" : "2022-09-09T16:47:22.675+0000",
+      "artist" : {
+         "mbid" : "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+         "name" : "Lady Gaga",
+         "sortName" : "Lady Gaga",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "The Chromatica Ball"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Prelude",
+            "song" : [ {
+               "name" : "Opening Film",
+               "tape" : true,
+               "info" : "Video Introduction"
+            }, {
+               "name" : "Bad Romance",
+               "info" : "“Fugue no. 24 in B Minor” by Johann Sebastian Bach intro"
+            }, {
+               "name" : "Just Dance"
+            }, {
+               "name" : "Poker Face"
+            } ]
+         }, {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "The Operation",
+               "tape" : true,
+               "info" : "Video Interlude; contains elements of “Babylon”, “Enigma”, & “Chromatica I”"
+            }, {
+               "name" : "Alice"
+            }, {
+               "name" : "Replay"
+            }, {
+               "name" : "Monster"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Flowers",
+               "tape" : true,
+               "info" : "Video Interlude; contains elements of “Enigma”, “Babylon”, & “Chromatica II”"
+            }, {
+               "name" : "911",
+               "info" : "Extended Intro, shortened"
+            }, {
+               "name" : "Sour Candy",
+               "info" : "Shortened"
+            }, {
+               "name" : "Telephone",
+               "info" : "Shortened"
+            }, {
+               "name" : "LoveGame",
+               "info" : "Extended Outro, contains elements of “John Wayne” & “Ain’t Nuthin But a “G” Thang” by Dr. Dre"
+            } ]
+         }, {
+            "name" : "Act III (Performed on A-Stage to B-Stage)",
+            "song" : [ {
+               "name" : "The Birth of Freedom",
+               "tape" : true,
+               "info" : "Video Interlude; contains elements of “Alice”, “Chromatica III”, & “Sine from Above”"
+            }, {
+               "name" : "Babylon",
+               "info" : "Extended Intro"
+            }, {
+               "name" : "Free Woman",
+               "info" : "Extended Outro"
+            }, {
+               "name" : "Born This Way",
+               "info" : "Piano Acoustic into Full Band"
+            } ]
+         }, {
+            "name" : "Act IV (Performed on B-Stage)",
+            "song" : [ {
+               "name" : "Tamara",
+               "tape" : true,
+               "info" : "Video interlude; contains elements of “Venus”"
+            }, {
+               "name" : "Shallow",
+               "cover" : {
+                  "mbid" : "25c0b25e-db3c-4acf-be77-ed3b1b02e4fc",
+                  "name" : "Lady Gaga & Bradley Cooper",
+                  "sortName" : "Lady Gaga & Cooper, Bradley",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lady-gaga-and-bradley-cooper-4bc9af46.html"
+               }
+            }, {
+               "name" : "Always Remember Us This Way",
+               "info" : "Dedicated to Tony Bennett"
+            }, {
+               "name" : "The Edge of Glory",
+               "info" : "Piano acoustic; dedicated to Bruce Springsteen and Clarence Clemons"
+            }, {
+               "name" : "1000 Doves",
+               "info" : "Piano demo version"
+            }, {
+               "name" : "Fun Tonight",
+               "info" : "Piano acoustic into full band"
+            }, {
+               "name" : "Enigma",
+               "info" : "Extended outro"
+            } ]
+         }, {
+            "name" : "Finale",
+            "song" : [ {
+               "name" : "Sonnet",
+               "tape" : true,
+               "info" : "Video Interlude; contains elements of “Flaming June” by BT"
+            }, {
+               "name" : "Stupid Love",
+               "info" : "Extended"
+            }, {
+               "name" : "Rain on Me",
+               "info" : "Extended Intro"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Hold My Hand"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lady-gaga/2022/metlife-stadium-east-rutherford-nj-3b39167.html"
+   }, {
+      "id" : "335b90f1",
+      "versionId" : "g1b47a1c8",
+      "eventDate" : "30-07-2022",
+      "lastUpdated" : "2025-02-19T21:02:08.671+0000",
+      "artist" : {
+         "mbid" : "6291431a-b8c0-425b-8e37-e4c9980ef751",
+         "name" : "Los Bukis",
+         "sortName" : "Bukis, Los",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/los-bukis-43d7834f.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Una Historia Cantada"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/los-bukis/2022/metlife-stadium-east-rutherford-nj-335b90f1.html"
+   }, {
+      "id" : "53b2d7ed",
+      "versionId" : "g1b97dd38",
+      "eventDate" : "24-07-2022",
+      "lastUpdated" : "2023-05-05T15:53:29.058+0000",
+      "artist" : {
+         "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+         "name" : "Elton John",
+         "sortName" : "John, Elton",
+         "disambiguation" : "English singer, songwriter, pianist, and composer",
+         "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Farewell Yellow Brick Road World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Good Morning to the Night",
+               "tape" : true
+            }, {
+               "name" : "Bennie and the Jets"
+            }, {
+               "name" : "Philadelphia Freedom"
+            }, {
+               "name" : "I Guess That's Why They Call It the Blues"
+            }, {
+               "name" : "Border Song",
+               "info" : "dedicated to Aretha Franklin"
+            }, {
+               "name" : "Tiny Dancer"
+            }, {
+               "name" : "Have Mercy on the Criminal"
+            }, {
+               "name" : "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+            }, {
+               "name" : "Take Me to the Pilot"
+            }, {
+               "name" : "Someone Saved My Life Tonight"
+            }, {
+               "name" : "Levon"
+            }, {
+               "name" : "Candle in the Wind"
+            }, {
+               "name" : "Funeral for a Friend/Love Lies Bleeding"
+            }, {
+               "name" : "Burn Down the Mission"
+            }, {
+               "name" : "Sad Songs (Say So Much)"
+            }, {
+               "name" : "Mona Lisas and Mad Hatters",
+               "info" : "Followed by band introductions; stated this is the final time he will perform the song live"
+            }, {
+               "name" : "Don't Let the Sun Go Down on Me",
+               "info" : "dedicated to the crew"
+            }, {
+               "name" : "The Bitch Is Back"
+            }, {
+               "name" : "I'm Still Standing"
+            }, {
+               "name" : "Crocodile Rock"
+            }, {
+               "name" : "Saturday Night's Alright for Fighting"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cold Heart",
+               "info" : "PNAU remix"
+            }, {
+               "name" : "Your Song"
+            }, {
+               "name" : "Goodbye Yellow Brick Road"
+            }, {
+               "name" : "Don't Go Breaking My Heart",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "8620184d-cdfd-4f85-b8fe-1c28b7e69d4f",
+                  "name" : "Elton John & Kiki Dee",
+                  "sortName" : "John, Elton & Dee, Kiki",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elton-john-and-kiki-dee-73d6bed9.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "band introductions included a snippet of Happy Birthday by Stevie Wonder for bassist Matt Bissonette",
+      "url" : "https://www.setlist.fm/setlist/elton-john/2022/metlife-stadium-east-rutherford-nj-53b2d7ed.html"
+   }, {
+      "id" : "5bb2e344",
+      "versionId" : "g33f34401",
+      "eventDate" : "23-07-2022",
+      "lastUpdated" : "2022-07-24T03:57:46.438+0000",
+      "artist" : {
+         "mbid" : "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+         "name" : "Elton John",
+         "sortName" : "John, Elton",
+         "disambiguation" : "English singer, songwriter, pianist, and composer",
+         "url" : "https://www.setlist.fm/setlists/elton-john-63d6be6f.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Farewell Yellow Brick Road World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Good Morning to the Night",
+               "tape" : true
+            }, {
+               "name" : "Bennie and the Jets"
+            }, {
+               "name" : "Philadelphia Freedom"
+            }, {
+               "name" : "I Guess That's Why They Call It the Blues"
+            }, {
+               "name" : "Border Song",
+               "info" : "Elton dedicated this song to Aretha Franklin"
+            }, {
+               "name" : "Tiny Dancer"
+            }, {
+               "name" : "Have Mercy on the Criminal"
+            }, {
+               "name" : "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+            }, {
+               "name" : "Take Me to the Pilot"
+            }, {
+               "name" : "Someone Saved My Life Tonight"
+            }, {
+               "name" : "Levon"
+            }, {
+               "name" : "Candle in the Wind"
+            }, {
+               "name" : "Funeral for a Friend/Love Lies Bleeding"
+            }, {
+               "name" : "Burn Down the Mission"
+            }, {
+               "name" : "Sad Songs (Say So Much)"
+            }, {
+               "name" : "Mona Lisas and Mad Hatters",
+               "info" : "Elton introduces band after song"
+            }, {
+               "name" : "Don't Let the Sun Go Down on Me"
+            }, {
+               "name" : "The Bitch Is Back"
+            }, {
+               "name" : "I'm Still Standing"
+            }, {
+               "name" : "Crocodile Rock"
+            }, {
+               "name" : "Saturday Night's Alright for Fighting"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Cold Heart",
+               "info" : "PNAU Remix"
+            }, {
+               "name" : "Your Song"
+            }, {
+               "name" : "Goodbye Yellow Brick Road"
+            }, {
+               "name" : "Don't Go Breaking My Heart",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "8620184d-cdfd-4f85-b8fe-1c28b7e69d4f",
+                  "name" : "Elton John & Kiki Dee",
+                  "sortName" : "John, Elton & Dee, Kiki",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/elton-john-and-kiki-dee-73d6bed9.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/elton-john/2022/metlife-stadium-east-rutherford-nj-5bb2e344.html"
+   }, {
+      "id" : "7bb2b23c",
+      "versionId" : "g1b130508",
+      "eventDate" : "16-07-2022",
+      "lastUpdated" : "2026-04-09T12:34:58.680+0000",
+      "artist" : {
+         "mbid" : "73e36439-1e9a-4925-bf2c-1d7f7885fbb0",
+         "name" : "Mike Dean",
+         "sortName" : "Dean, Mike",
+         "disambiguation" : "US “dirty south” hip‐hop producer & mix engineer",
+         "url" : "https://www.setlist.fm/setlists/mike-dean-53d77f91.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "HIGHEST IN THE ROOM",
+               "cover" : {
+                  "mbid" : "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+                  "name" : "Travis Scott",
+                  "sortName" : "Scott, Travis",
+                  "disambiguation" : "US rapper",
+                  "url" : "https://www.setlist.fm/setlists/travis-scott-6bdeaa7e.html"
+               }
+            }, {
+               "name" : "Starry Eyes",
+               "cover" : {
+                  "mbid" : "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+                  "name" : "The Weeknd",
+                  "sortName" : "Weeknd, The",
+                  "disambiguation" : "Canadian R&B singer",
+                  "url" : "https://www.setlist.fm/setlists/the-weeknd-5bd26bb4.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/mike-dean/2022/metlife-stadium-east-rutherford-nj-7bb2b23c.html"
+   }, {
+      "id" : "3bb2b0a4",
+      "versionId" : "g1bfa593c",
+      "eventDate" : "16-07-2022",
+      "lastUpdated" : "2022-09-25T02:29:03.864+0000",
+      "artist" : {
+         "mbid" : "e56aee57-d90e-40cf-a70d-beb70f6f3c69",
+         "name" : "KAYTRANADA",
+         "sortName" : "KAYTRANADA",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/kaytranada-6bdd1ef6.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "YOU'RE THE ONE"
+            }, {
+               "name" : "LITE SPOTS"
+            }, {
+               "name" : "The Worst in Me"
+            }, {
+               "name" : "Caution"
+            }, {
+               "name" : "All for You",
+               "cover" : {
+                  "mbid" : "6be2828f-6c0d-4059-99d4-fa18acf1a296",
+                  "name" : "Janet Jackson",
+                  "sortName" : "Jackson, Janet",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/janet-jackson-33d6bce9.html"
+               }
+            }, {
+               "name" : "Meditation",
+               "cover" : {
+                  "mbid" : "7cb6e306-a75b-48b4-be00-2c4aa6bbe3a8",
+                  "name" : "GoldLink",
+                  "sortName" : "GoldLink",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/goldlink-2bdb642a.html"
+               }
+            }, {
+               "name" : "Need It"
+            }, {
+               "name" : "Freefall"
+            }, {
+               "name" : "If",
+               "cover" : {
+                  "mbid" : "6be2828f-6c0d-4059-99d4-fa18acf1a296",
+                  "name" : "Janet Jackson",
+                  "sortName" : "Jackson, Janet",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/janet-jackson-33d6bce9.html"
+               }
+            }, {
+               "name" : "Look Easy"
+            }, {
+               "name" : "10%"
+            }, {
+               "name" : "Vex Oh"
+            }, {
+               "name" : "All Night",
+               "cover" : {
+                  "mbid" : "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
+                  "name" : "Chance the Rapper",
+                  "sortName" : "Chance the Rapper",
+                  "disambiguation" : "US rapper, singer, songwriter, and producer",
+                  "url" : "https://www.setlist.fm/setlists/chance-the-rapper-7bde2648.html"
+               }
+            }, {
+               "name" : "Kiss It Better",
+               "cover" : {
+                  "mbid" : "73e5e69d-3554-40d8-8516-00cb38737a1c",
+                  "name" : "Rihanna",
+                  "sortName" : "Rihanna",
+                  "disambiguation" : "Barbadian R&B/pop singer",
+                  "url" : "https://www.setlist.fm/setlists/rihanna-1bd6bdbc.html"
+               }
+            }, {
+               "name" : "Wild Side",
+               "cover" : {
+                  "mbid" : "04d93730-f81c-450c-8441-d5f5fcf98485",
+                  "name" : "Normani",
+                  "sortName" : "Normani",
+                  "disambiguation" : "American singer, formerly of Fifth Harmony",
+                  "url" : "https://www.setlist.fm/setlists/normani-23df084f.html"
+               }
+            }, {
+               "name" : "Be Your Girl",
+               "cover" : {
+                  "mbid" : "ddb56ce5-c44d-4658-91a5-fa896be79ce9",
+                  "name" : "Teedra Moses",
+                  "sortName" : "Moses, Teedra",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/teedra-moses-73d6dab5.html"
+               },
+               "info" : "Kaytranada Edition"
+            } ]
+         } ]
+      },
+      "info" : "Incomplete; setlist order may be off",
+      "url" : "https://www.setlist.fm/setlist/kaytranada/2022/metlife-stadium-east-rutherford-nj-3bb2b0a4.html"
+   }, {
+      "id" : "23b2b0a7",
+      "versionId" : "g13f00559",
+      "eventDate" : "16-07-2022",
+      "lastUpdated" : "2022-07-31T16:31:10.794+0000",
+      "artist" : {
+         "mbid" : "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+         "name" : "The Weeknd",
+         "sortName" : "Weeknd, The",
+         "disambiguation" : "Canadian R&B singer",
+         "url" : "https://www.setlist.fm/setlists/the-weeknd-5bd26bb4.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "After Hours Til Dawn"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "A-Stage:",
+            "song" : [ {
+               "name" : "Alone Again",
+               "info" : "First half"
+            }, {
+               "name" : "Gasoline"
+            }, {
+               "name" : "Sacrifice",
+               "info" : "Swedish House Mafia Remix"
+            }, {
+               "name" : "How Do I Make You Love Me?"
+            }, {
+               "name" : "Can't Feel My Face"
+            }, {
+               "name" : "Take My Breath"
+            }, {
+               "name" : "Hurricane",
+               "cover" : {
+                  "mbid" : "164f0d73-1234-4e2c-8743-d77bf2191051",
+                  "name" : "Ye",
+                  "sortName" : "Ye",
+                  "disambiguation" : "formerly Kanye West",
+                  "url" : "https://www.setlist.fm/setlists/ye-bd6bd8a.html"
+               }
+            }, {
+               "name" : "The Hills"
+            }, {
+               "name" : "Often"
+            }, {
+               "name" : "Crew Love",
+               "cover" : {
+                  "mbid" : "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name" : "Drake",
+                  "sortName" : "Drake",
+                  "disambiguation" : "Canadian rapper",
+                  "url" : "https://www.setlist.fm/setlists/drake-23d774a3.html"
+               }
+            }, {
+               "name" : "Starboy"
+            }, {
+               "name" : "Heartless"
+            }, {
+               "name" : "Low Life",
+               "cover" : {
+                  "mbid" : "48262e82-db9f-4a92-b650-dfef979b73ec",
+                  "name" : "Future",
+                  "sortName" : "Future",
+                  "disambiguation" : "US rapper Nayvadius Cash",
+                  "url" : "https://www.setlist.fm/setlists/future-53d25bb1.html"
+               }
+            }, {
+               "name" : "Or Nah",
+               "cover" : {
+                  "mbid" : "7bd66c18-cb33-49aa-9279-140acedbdb49",
+                  "name" : "Ty Dolla $ign",
+                  "sortName" : "Ty Dolla Sign",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ty-dolla-ign-6bc7de32.html"
+               }
+            }, {
+               "name" : "Kiss Land",
+               "info" : "First half"
+            }, {
+               "name" : "Party Monster"
+            }, {
+               "name" : "Faith",
+               "info" : "First half only"
+            }, {
+               "name" : "After Hours"
+            }, {
+               "name" : "Out of Time"
+            }, {
+               "name" : "I Feel It Coming"
+            } ]
+         }, {
+            "name" : "B-Stage:",
+            "song" : [ {
+               "name" : "Die for You"
+            }, {
+               "name" : "Is There Someone Else?"
+            }, {
+               "name" : "I Was Never There"
+            } ]
+         }, {
+            "name" : "A-Stage:",
+            "song" : [ {
+               "name" : "Wicked Games"
+            }, {
+               "name" : "Call Out My Name"
+            }, {
+               "name" : "The Morning"
+            }, {
+               "name" : "Save Your Tears"
+            }, {
+               "name" : "Less Than Zero"
+            }, {
+               "name" : "Blinding Lights"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-weeknd/2022/metlife-stadium-east-rutherford-nj-23b2b0a7.html"
+   }, {
+      "id" : "3bb474e0",
+      "versionId" : "g2b8b7462",
+      "eventDate" : "16-06-2022",
+      "lastUpdated" : "2024-01-04T22:59:03.500+0000",
+      "artist" : {
+         "mbid" : "ba550d0e-adac-4864-b88b-407cab5e76af",
+         "name" : "Paul McCartney",
+         "sortName" : "McCartney, Paul",
+         "disambiguation" : "The Beatles",
+         "url" : "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "VIP soundchecks with ticketed audience"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Instrumental Jam"
+            }, {
+               "name" : "Matchbox",
+               "cover" : {
+                  "mbid" : "068bd7ab-c38e-4fae-8ed2-cb0c153ed68f",
+                  "name" : "Carl Perkins",
+                  "sortName" : "Perkins, Carl",
+                  "disambiguation" : "American pioneer of rockabilly music",
+                  "url" : "https://www.setlist.fm/setlists/carl-perkins-5bd6af10.html"
+               }
+            }, {
+               "name" : "Honey Hush",
+               "cover" : {
+                  "mbid" : "b123ba15-c4a5-4281-8117-2e57f8f02496",
+                  "name" : "Big Joe Turner",
+                  "sortName" : "Turner, Big Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/big-joe-turner-6bd6a29e.html"
+               }
+            }, {
+               "name" : "Coming Up"
+            }, {
+               "name" : "I Wanna Be Your Man",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Women and Wives"
+            }, {
+               "name" : "Let 'Em In",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Every Night"
+            }, {
+               "name" : "Mrs. Vandebilt",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Ram On",
+               "cover" : {
+                  "mbid" : "cd7a47b2-bdcb-413f-a939-7d8d55bd6fc3",
+                  "name" : "Paul & Linda McCartney",
+                  "sortName" : "McCartney, Paul & McCartney, Linda",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/paul-and-linda-mccartney-3bd68830.html"
+               }
+            }, {
+               "name" : "Midnight Special",
+               "cover" : {
+                  "mbid" : "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name" : "[traditional]",
+                  "sortName" : "[traditional]",
+                  "disambiguation" : "special purpose artist",
+                  "url" : "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+               }
+            }, {
+               "name" : "New"
+            }, {
+               "name" : "Lady Madonna",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paul-mccartney/2022/metlife-stadium-east-rutherford-nj-3bb474e0.html"
+   }, {
+      "id" : "23b474e3",
+      "versionId" : "g4b9b0fb6",
+      "eventDate" : "16-06-2022",
+      "lastUpdated" : "2023-08-23T00:15:53.418+0000",
+      "artist" : {
+         "mbid" : "ba550d0e-adac-4864-b88b-407cab5e76af",
+         "name" : "Paul McCartney",
+         "sortName" : "McCartney, Paul",
+         "disambiguation" : "The Beatles",
+         "url" : "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Got Back"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Can't Buy Me Love",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Junior's Farm",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Letting Go",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Got to Get You Into My Life",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Come On to Me"
+            }, {
+               "name" : "Let Me Roll It",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               },
+               "info" : "with “Foxy Lady” outro jam"
+            }, {
+               "name" : "Getting Better",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Let 'Em In",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "My Valentine",
+               "info" : "Dedicated to his wife Nancy who was in the audience"
+            }, {
+               "name" : "Nineteen Hundred and Eighty-Five",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Maybe I'm Amazed"
+            }, {
+               "name" : "I've Just Seen a Face",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "In Spite of All the Danger",
+               "cover" : {
+                  "mbid" : "9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a",
+                  "name" : "The Quarrymen",
+                  "sortName" : "Quarrymen, The",
+                  "disambiguation" : "British group that evolved into The Beatles",
+                  "url" : "https://www.setlist.fm/setlists/the-quarrymen-3bd6883c.html"
+               }
+            }, {
+               "name" : "Love Me Do",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Dance Tonight"
+            }, {
+               "name" : "Blackbird",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Here Today"
+            }, {
+               "name" : "New"
+            }, {
+               "name" : "Lady Madonna",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Fuh You"
+            }, {
+               "name" : "Jet",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Being for the Benefit of Mr. Kite!",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Something",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "Paul solo on ukulele into full band"
+            }, {
+               "name" : "Ob-La-Di, Ob-La-Da",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "You Never Give Me Your Money",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "She Came in Through the Bathroom Window",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Get Back",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Band on the Run",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Glory Days",
+               "cover" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               },
+               "with" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               }
+            }, {
+               "name" : "I Wanna Be Your Man",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "Tour debut",
+               "with" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               }
+            }, {
+               "name" : "Let It Be",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Live and Let Die",
+               "cover" : {
+                  "mbid" : "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name" : "Wings",
+                  "sortName" : "Wings",
+                  "disambiguation" : "Paul McCartney’s band",
+                  "url" : "https://www.setlist.fm/setlists/wings-23d68837.html"
+               }
+            }, {
+               "name" : "Hey Jude",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "I've Got a Feeling",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "info" : "“virtual duet\" w/video & vocal tracks of John Lennon during The Beatles rooftop concert in 1969"
+            }, {
+               "name" : "Happy Birthday to You",
+               "cover" : {
+                  "mbid" : "af522e56-fe5a-4607-b70a-a22ed35acdd0",
+                  "name" : "Mildred J. Hill & Patty Hill",
+                  "sortName" : "Hill, Mildred J. & Hill, Patty",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/mildred-j-hill-and-patty-hill-3d3fd73.html"
+               },
+               "info" : "+ band and audience singing to Paul",
+               "with" : {
+                  "mbid" : "5ace9b0c-cc21-4d8f-8e08-a70234439f2a",
+                  "name" : "Jon Bon Jovi",
+                  "sortName" : "Bon Jovi, Jon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jon-bon-jovi-23d6b803.html"
+               }
+            }, {
+               "name" : "Birthday",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Helter Skelter",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Golden Slumbers",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "Carry That Weight",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               }
+            }, {
+               "name" : "The End",
+               "cover" : {
+                  "mbid" : "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name" : "The Beatles",
+                  "sortName" : "Beatles, The",
+                  "disambiguation" : "UK rock band, “The Fab Four”",
+                  "url" : "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+               },
+               "with" : {
+                  "mbid" : "70248960-cb53-4ea4-943a-edb18f7d336f",
+                  "name" : "Bruce Springsteen",
+                  "sortName" : "Springsteen, Bruce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/bruce-springsteen-2bd6dcce.html"
+               }
+            }, {
+               "name" : "No More Lonely Nights",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/paul-mccartney/2022/metlife-stadium-east-rutherford-nj-23b474e3.html"
+   }, {
+      "id" : "3bb420dc",
+      "versionId" : "g5bf0ffac",
+      "eventDate" : "12-06-2022",
+      "lastUpdated" : "2022-07-27T07:39:12.664+0000",
+      "artist" : {
+         "mbid" : "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+         "name" : "Lil Durk",
+         "sortName" : "Lil Durk",
+         "disambiguation" : "Chicago rapper",
+         "url" : "https://www.setlist.fm/setlists/lil-durk-63dc269b.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "AHHH HA"
+            }, {
+               "name" : "Hellcats & Trackhawks",
+               "cover" : {
+                  "mbid" : "2dbdd947-8227-43ec-b93b-90aa72e3d9b0",
+                  "name" : "Only the Family",
+                  "sortName" : "Only the Family",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/only-the-family-2bf7681e.html"
+               }
+            }, {
+               "name" : "Who Want Smoke??",
+               "cover" : {
+                  "mbid" : "0eea08e2-1363-4b36-bbe8-9691ae3892b6",
+                  "name" : "Nardo Wick",
+                  "sortName" : "Nardo Wick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nardo-wick-3f4717f.html"
+               },
+               "with" : {
+                  "mbid" : "0eea08e2-1363-4b36-bbe8-9691ae3892b6",
+                  "name" : "Nardo Wick",
+                  "sortName" : "Nardo Wick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nardo-wick-3f4717f.html"
+               }
+            }, {
+               "name" : "Home Body"
+            }, {
+               "name" : "The Voice"
+            }, {
+               "name" : "Mopstick",
+               "cover" : {
+                  "mbid" : "45dc5f07-6609-4760-a933-8c9e0f858d05",
+                  "name" : "French Montana",
+                  "sortName" : "French Montana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/french-montana-3d28907.html"
+               },
+               "with" : {
+                  "mbid" : "45dc5f07-6609-4760-a933-8c9e0f858d05",
+                  "name" : "French Montana",
+                  "sortName" : "French Montana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/french-montana-3d28907.html"
+               }
+            }, {
+               "name" : "Crazy Story 2.0",
+               "cover" : {
+                  "mbid" : "a542a08c-9434-4028-8da5-3120c4fdd3fb",
+                  "name" : "King Von",
+                  "sortName" : "King Von",
+                  "disambiguation" : "Chicago rapper",
+                  "url" : "https://www.setlist.fm/setlists/king-von-23f494a7.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Crazy Story",
+               "cover" : {
+                  "mbid" : "a542a08c-9434-4028-8da5-3120c4fdd3fb",
+                  "name" : "King Von",
+                  "sortName" : "King Von",
+                  "disambiguation" : "Chicago rapper",
+                  "url" : "https://www.setlist.fm/setlists/king-von-23f494a7.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/lil-durk/2022/metlife-stadium-east-rutherford-nj-3bb420dc.html"
+   } ]
+}

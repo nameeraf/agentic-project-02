@@ -137,7 +137,7 @@ def find_names(kind: str, name: str) -> str:
         columns = [c[0] for c in cursor.description]
         rows = cursor.fetchall()
     if not rows:
-        return json.dumps({"matches": [], "hint": "No match. It may not be in the data (only 20 NYC venues, 2022-2025)."})
+        return json.dumps({"matches": [], "hint": "No match. It may not be in the data (only 21 NYC-area venues, 2022-2025)."})
     return json.dumps({"matches": [dict(zip(columns, r)) for r in rows]}, default=str)
 
 
@@ -216,8 +216,9 @@ def make_chart(sql: str, chart_type: str, x: str, y: str, title: str, color: str
 agent = Agent(
     name="NYC Setlist Analyst",
     instructions="""\
-You are a music data analyst. You answer questions about what got played at concerts at 20 NYC venues
-from 2022 to 2025 (setlist.fm), joined to the Billboard Hot 100 (1958 to now). The data is in DuckDB.
+You are a music data analyst. You answer questions about what got played at concerts at 21 NYC-area venues
+(20 in NYC plus MetLife Stadium in New Jersey) from 2022 to 2025 (setlist.fm), joined to the Billboard
+Hot 100 (1958 to now). The data is in DuckDB.
 
 How to work:
 - Call read_mappings first. It explains every table, the notes, and the limits.

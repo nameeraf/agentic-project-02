@@ -200,10 +200,63 @@ db.execute(f"""
       AND date_diff('day', first_club_date, first_arena_headline_date) >= {MIN_CLIMB_DAYS};
 """)
 
+# --- 4b. Run nights: every headline night, with how surprising it was ---
+
+db.execute("""
+    CREATE TABLE run_nights AS
+    WITH base AS (
+        SELECT s.show_id, s.artist_mbid, s.artist_name, s.venue_id, v.venue_name, s.show_date, s.tour_name
+        FROM shows s JOIN venues v USING (venue_id)
+        WHERE s.role = 'headliner' AND s.n_songs > 0
+    ),
+    flags AS (  -- per show: songs with a guest, and songs a fan marked as a debut or surprise
+        SELECT b.*, coalesce(g.guest_songs, 0) AS guest_songs, coalesce(g.debut_songs, 0) AS debut_songs
+        FROM base b LEFT JOIN (
+            SELECT show_id,
+                   count(*) FILTER (WHERE guest IS NOT NULL) AS guest_songs,
+                   count(*) FILTER (WHERE note ILIKE '%debut%' OR note ILIKE '%surprise%'
+                                       OR note ILIKE '%first performance%' OR note ILIKE '%first time%'
+                                       OR note ILIKE '%mashup%' OR note ILIKE '%mash-up%') AS debut_songs
+            FROM songs_played GROUP BY show_id
+        ) g USING (show_id)
+    ),
+    brk AS (  -- a new run starts when the previous show by this act at this venue was not the day before
+        SELECT *, CASE WHEN lag(show_date) OVER w IS NULL
+                         OR date_diff('day', lag(show_date) OVER w, show_date) > 1 THEN 1 ELSE 0 END AS is_new_run
+        FROM flags WINDOW w AS (PARTITION BY artist_mbid, venue_id ORDER BY show_date)
+    ),
+    runs AS (
+        SELECT *, sum(is_new_run) OVER (PARTITION BY artist_mbid, venue_id ORDER BY show_date
+                                        ROWS UNBOUNDED PRECEDING) AS run_id
+        FROM brk
+    ),
+    numbered AS (
+        SELECT *, count(*) OVER r AS run_size, row_number() OVER (r ORDER BY show_date) AS night_no,
+               min(show_date) OVER r AS run_start
+        FROM runs WINDOW r AS (PARTITION BY artist_mbid, venue_id, run_id)
+    ),
+    song_nights AS (  -- on how many nights of the run was each song played?
+        SELECT n.artist_mbid, n.venue_id, n.run_id, sp.song_name, count(DISTINCT n.show_id) AS nights_played
+        FROM numbered n JOIN songs_played sp USING (show_id) GROUP BY ALL
+    ),
+    one_night AS (
+        SELECT n.show_id, count(*) AS one_night_songs
+        FROM numbered n JOIN songs_played sp USING (show_id)
+        JOIN song_nights sn ON sn.artist_mbid = n.artist_mbid AND sn.venue_id = n.venue_id
+                           AND sn.run_id = n.run_id AND sn.song_name = sp.song_name
+        WHERE sn.nights_played = 1 GROUP BY n.show_id
+    )
+    SELECT n.show_id, n.artist_mbid, n.artist_name, n.venue_name, n.show_date, n.tour_name,
+           n.run_start, n.run_size, n.night_no, n.guest_songs, n.debut_songs,
+           CASE WHEN n.run_size >= 2 THEN coalesce(o.one_night_songs, 0) END AS one_night_songs
+    FROM numbered n LEFT JOIN one_night o USING (show_id)
+    ORDER BY n.artist_name, n.show_date;
+""")
+
 # --- 5. Describe each column ---
 
 DOCS = {
-    "venues": ("One NYC venue we track (20 total).", {
+    "venues": ("One NYC-area venue we track (21 total: 20 in NYC plus MetLife Stadium in East Rutherford, NJ).", {
         "venue_id": "setlist.fm venue id. Join key to shows.venue_id.",
         "aliases": "Nicknames people use, semicolon-separated ('MSG; the Garden').",
         "capacity": "Approximate capacity, hand-entered. Not attendance.",
@@ -247,6 +300,14 @@ DOCS = {
         "days_to_arena": "Days from the first club show to the first arena headline.",
         "hits_in_between": "Hot 100 songs by the artist that first charted between those two dates.",
     }),
+    "run_nights": ("Precomputed, for picking a night: one row per HEADLINE show that has a setlist. A run is consecutive nights by one act at one venue (a one-night show is a run of 1).", {
+        "run_start": "Date of the first night of this run.",
+        "run_size": "How many nights are in the run (1 = a single show).",
+        "night_no": "Which night of the run this is (1 = first).",
+        "guest_songs": "Songs on this night where setlist.fm lists a guest.",
+        "debut_songs": "Songs whose fan note says debut, surprise, first performance, first time or mashup.",
+        "one_night_songs": "Songs played on this night and no other night of the run. NULL when run_size = 1.",
+    }),
 }
 NOTES = [
     "Filter artists by artist_mbid from find_names, never by artist_name = '...'.",
@@ -255,12 +316,14 @@ NOTES = [
     "A 'hit' means a Hot 100 song (songs_played.chart_title IS NOT NULL). Billboard is US-only and singles-only.",
     "To list an artist's hits they did NOT play: artist_chart_credits -> chart_songs, anti-join songs_played.",
     "The Hot 100 runs past 2025 but setlists stop at 2025: only count songs that first charted before the show date.",
+    "PICK A NIGHT: for 'which night should I go to' or 'best night' questions, query run_nights and show guest_songs, debut_songs and one_night_songs side by side for each night, with no single score. Always also say: (1) venue context, the share of run_nights rows at that venue with guest_songs > 0, e.g. 'MetLife shows had a guest 47% of the time'; (2) how many nights you compared; (3) that last nights are not reliably more surprising than other nights; (4) that the data cannot see future lineups, so any odds are only how often it happened before.",
 ]
 LIMITS = [
-    "Only 20 NYC venues, 2022-2025. No other cities, years, or venues (no MetLife, UBS Arena).",
+    "Only 21 NYC-area venues, 2022-2025 (20 in NYC plus MetLife Stadium in New Jersey). No other cities, years, or venues (no UBS Arena, Prudential Center).",
     "No ticket prices, attendance, start times, reviews, or streaming numbers.",
     "setlist.fm is fan-logged: about a third of shows have no setlist and order is sometimes approximate.",
     "Song matching is by normalized title + artist; medleys and retitled songs can be missed.",
+    "Guests and debuts come from fan notes, so an unlogged surprise counts as zero. The data only has past shows: it can say how often surprises happened before, never what a future night will have.",
 ]
 
 tables = []

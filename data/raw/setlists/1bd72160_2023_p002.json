@@ -1,0 +1,2239 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 2,
+   "total" : 38,
+   "setlist" : [ {
+      "id" : "73a4d2dd",
+      "versionId" : "g1b885d88",
+      "eventDate" : "30-07-2023",
+      "lastUpdated" : "2024-01-15T23:37:33.969+0000",
+      "artist" : {
+         "mbid" : "859d0860-d480-4efd-970c-c05d5f1776b8",
+         "name" : "Beyoncé",
+         "sortName" : "Beyoncé",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/beyonce-33d69c3d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Renaissance World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "THE OPENING ACT",
+            "song" : [ {
+               "name" : "The Signboard",
+               "tape" : true,
+               "info" : "video introduction"
+            }, {
+               "name" : "Dangerously in Love",
+               "cover" : {
+                  "mbid" : "a796b92e-c137-4895-9c89-10f900617a4f",
+                  "name" : "Destiny’s Child",
+                  "sortName" : "Destiny’s Child",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/destinys-child-23d6bc0f.html"
+               }
+            }, {
+               "name" : "Flaws and All",
+               "info" : "contains elements of \" Adventures in the Land of Music\" by Dynasty"
+            }, {
+               "name" : "1+1"
+            }, {
+               "name" : "I'm Going Down",
+               "cover" : {
+                  "mbid" : "846482ac-d4c4-4286-8002-b14a601d8ec0",
+                  "name" : "Rose Royce",
+                  "sortName" : "Rose Royce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rose-royce-bd6b952.html"
+               }
+            }, {
+               "name" : "I Care"
+            }, {
+               "name" : "River Deep, Mountain High",
+               "cover" : {
+                  "mbid" : "4c857e19-d9bb-460e-b3ec-2d1ea24c3247",
+                  "name" : "Ellie Greenwich",
+                  "sortName" : "Greenwich, Ellie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ellie-greenwich-1bd69d54.html"
+               },
+               "info" : "Tribute to Tina Turner"
+            } ]
+         }, {
+            "name" : "RENAISSANCE",
+            "song" : [ {
+               "name" : "RENAISSANCE",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"Where U At” & “DELRESTO (Echos)”"
+            }, {
+               "name" : "I'M THAT GIRL",
+               "info" : "extended spoken intro — contains elements of \"APESHIT\""
+            }, {
+               "name" : "COZY"
+            }, {
+               "name" : "ALIEN SUPERSTAR",
+               "info" : "contains elements of \"Sweet Dreams\""
+            }, {
+               "name" : "Lift Off",
+               "cover" : {
+                  "mbid" : "36aa9cde-8602-474f-8b42-35c063a813f7",
+                  "name" : "JAY Z & Kanye West",
+                  "sortName" : "Jay-Z & Ye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jay-z-and-kanye-west-3d925ab.html"
+               },
+               "info" : "Shortened"
+            }, {
+               "name" : "7/11",
+               "tape" : true,
+               "info" : "Les Twins dance break"
+            } ]
+         }, {
+            "name" : "MOTHERBOARD",
+            "song" : [ {
+               "name" : "MOTHERBOARD",
+               "tape" : true,
+               "info" : "video interlude — contains elements of “Beat That Bitch”, \"Work It To The Bone\", & “Percolator”"
+            }, {
+               "name" : "CUFF IT",
+               "info" : "contains elements of \"CUFF IT (WETTER REMIX)\", \"A Night To Remember\" & \"Love You Down\")"
+            }, {
+               "name" : "ENERGY",
+               "info" : "contains elements of \"End of Time\" & \"Countdown\""
+            }, {
+               "name" : "BREAK MY SOUL",
+               "info" : "contains elements of \"BREAK MY SOUL (THE QUEENS REMIX)\" & \"Shake Your Body\" by The Jacksons"
+            } ]
+         }, {
+            "name" : "OPULENCE",
+            "song" : [ {
+               "name" : "OPULENCE",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"No Angel\", \"PURE/HONEY\" & \"Ghost\""
+            }, {
+               "name" : "Formation",
+               "info" : "shortened"
+            }, {
+               "name" : "Diva",
+               "info" : "shortened — contains elements of \"Just Wanna Rock\" by Lil Uzi Vert"
+            }, {
+               "name" : "Run the World (Girls)",
+               "info" : "shortened"
+            }, {
+               "name" : "MY POWER",
+               "info" : "shortened — contains elements of \"Tanzania\" & \"Alright\""
+            }, {
+               "name" : "BLACK PARADE",
+               "info" : "contains elements of \" Formation\" & \"Alright\" by Kendrick Lamar"
+            }, {
+               "name" : "Savage",
+               "cover" : {
+                  "mbid" : "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                  "name" : "Megan Thee Stallion",
+                  "sortName" : "Megan Thee Stallion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/megan-thee-stallion-3ca498f.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "Partition",
+               "info" : "shortened"
+            } ]
+         }, {
+            "name" : "ANOINTED",
+            "song" : [ {
+               "name" : "ANOINTED",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"Yoncé\" & \"Family Feud\""
+            }, {
+               "name" : "CHURCH GIRL",
+               "info" : "shortened"
+            }, {
+               "name" : "Get Me Bodied",
+               "info" : "Shortened"
+            }, {
+               "name" : "Before I Let Go",
+               "cover" : {
+                  "mbid" : "1560a7c0-ac1a-47c0-a293-c35d1506063c",
+                  "name" : "Maze",
+                  "sortName" : "Maze",
+                  "disambiguation" : "US funk/disco group, featuring Frankie Beverly",
+                  "url" : "https://www.setlist.fm/setlists/maze-2bd7047a.html"
+               },
+               "info" : "shortened — contains elements of \"Freakum Dress\""
+            }, {
+               "name" : "Rather Die Young",
+               "info" : "shortened"
+            }, {
+               "name" : "Love on Top",
+               "info" : "contains elements of \"I Want You Back\" by The Jackson 5"
+            }, {
+               "name" : "Crazy in Love"
+            } ]
+         }, {
+            "name" : "ANOINTED - PT. 2",
+            "song" : [ {
+               "name" : "Love Hangover",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "60d41417-feda-4734-bbbf-7dcc30e08a83",
+                  "name" : "Diana Ross",
+                  "sortName" : "Ross, Diana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/diana-ross-73d6bef9.html"
+               },
+               "info" : "background singers intermission"
+            }, {
+               "name" : "PLASTIC OFF THE SOFA"
+            }, {
+               "name" : "VIRGO'S GROOVE",
+               "info" : "elements of \"Speechless\", \" Rocket\", \"Cater 2 U\", \"Signs\", \"Dance for You\", & \"Say My Name\""
+            }, {
+               "name" : "Naughty Girl",
+               "info" : "shortened — contains elements of \"VIRGO'S GROOVE\" and \"Love to Love You Baby\" by Donna Summer"
+            }, {
+               "name" : "MOVE",
+               "info" : "contains elements of \"Move Ya Body\" by Nina Sky"
+            }, {
+               "name" : "HEATED"
+            }, {
+               "name" : "ALREADY",
+               "tape" : true,
+               "info" : "Les Twins dance break"
+            } ]
+         }, {
+            "name" : "MIND CONTROL",
+            "song" : [ {
+               "name" : "MIND CONTROL",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"Ghost\", \"Bootylicious\" & \"Single Ladies\""
+            }, {
+               "name" : "AMERICA HAS A PROBLEM"
+            }, {
+               "name" : "PURE/HONEY",
+               "info" : "contains elements of \"Blow\" — extended voguing outro"
+            }, {
+               "name" : "SUMMER RENAISSANCE",
+               "info" : "extended intro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/beyonce/2023/metlife-stadium-east-rutherford-nj-73a4d2dd.html"
+   }, {
+      "id" : "6ba4e2b6",
+      "versionId" : "g3885d8f",
+      "eventDate" : "29-07-2023",
+      "lastUpdated" : "2024-01-15T23:37:34.012+0000",
+      "artist" : {
+         "mbid" : "859d0860-d480-4efd-970c-c05d5f1776b8",
+         "name" : "Beyoncé",
+         "sortName" : "Beyoncé",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/beyonce-33d69c3d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Renaissance World Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "OPENING ACT",
+            "song" : [ {
+               "name" : "The Signboard",
+               "tape" : true,
+               "info" : "Video introduction"
+            }, {
+               "name" : "Dangerously in Love",
+               "cover" : {
+                  "mbid" : "a796b92e-c137-4895-9c89-10f900617a4f",
+                  "name" : "Destiny’s Child",
+                  "sortName" : "Destiny’s Child",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/destinys-child-23d6bc0f.html"
+               }
+            }, {
+               "name" : "Flaws and All",
+               "info" : "contains elements of \" Adventures in the Land of Music\" by Dynasty"
+            }, {
+               "name" : "1+1"
+            }, {
+               "name" : "I'm Going Down",
+               "cover" : {
+                  "mbid" : "846482ac-d4c4-4286-8002-b14a601d8ec0",
+                  "name" : "Rose Royce",
+                  "sortName" : "Rose Royce",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/rose-royce-bd6b952.html"
+               }
+            }, {
+               "name" : "I Care"
+            }, {
+               "name" : "River Deep, Mountain High",
+               "cover" : {
+                  "mbid" : "4c857e19-d9bb-460e-b3ec-2d1ea24c3247",
+                  "name" : "Ellie Greenwich",
+                  "sortName" : "Greenwich, Ellie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ellie-greenwich-1bd69d54.html"
+               },
+               "info" : "Tribute to Tina Turner"
+            } ]
+         }, {
+            "name" : "RENAISSANCE",
+            "song" : [ {
+               "name" : "RENAISSANCE",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"Energy"
+            }, {
+               "name" : "I'M THAT GIRL",
+               "info" : "extended spoken intro — contains elements of \"APESHIT\""
+            }, {
+               "name" : "COZY"
+            }, {
+               "name" : "ALIEN SUPERSTAR",
+               "info" : "contains elements of \"Sweet Dreams\""
+            }, {
+               "name" : "Lift Off",
+               "cover" : {
+                  "mbid" : "36aa9cde-8602-474f-8b42-35c063a813f7",
+                  "name" : "JAY Z & Kanye West",
+                  "sortName" : "Jay-Z & Ye",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jay-z-and-kanye-west-3d925ab.html"
+               },
+               "info" : "Shortened"
+            }, {
+               "name" : "7/11",
+               "tape" : true,
+               "info" : "Les Twins dance break"
+            } ]
+         }, {
+            "name" : "MOTHERBOARD",
+            "song" : [ {
+               "name" : "MOTHERBOARD",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"Can You Feel It\" by Mr. Fingers"
+            }, {
+               "name" : "CUFF IT",
+               "info" : "contains elements of \"CUFF IT (WETTER REMIX)\", \"A Night To Remember\" & \"Love You Down\")"
+            }, {
+               "name" : "ENERGY",
+               "info" : "contains elements of \"End of Time\" & \"Countdown\""
+            }, {
+               "name" : "BREAK MY SOUL",
+               "info" : "contains elements of \"BREAK MY SOUL (THE QUEENS REMIX)\" & \"Shake Your Body\" by The Jacksons"
+            } ]
+         }, {
+            "name" : "OPULENCE",
+            "song" : [ {
+               "name" : "OPULENCE",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"No Angel\", \"PURE/HONEY\" & \"Ghost\""
+            }, {
+               "name" : "Formation",
+               "info" : "Shortened"
+            }, {
+               "name" : "Diva",
+               "info" : "shortened — contains elements of \"Just Wanna Rock\" by Lil Uzi Vert"
+            }, {
+               "name" : "Run the World (Girls)",
+               "info" : "Shortened"
+            }, {
+               "name" : "MY POWER",
+               "info" : "shortened — contains elements of \"Tanzania\" & \"Alright\""
+            }, {
+               "name" : "BLACK PARADE",
+               "info" : "contains elements of \" Formation\" & \"Alright\" by Kendrick Lamar"
+            }, {
+               "name" : "Savage",
+               "cover" : {
+                  "mbid" : "ee27b2d8-648c-4a9d-a68c-e55066959975",
+                  "name" : "Megan Thee Stallion",
+                  "sortName" : "Megan Thee Stallion",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/megan-thee-stallion-3ca498f.html"
+               },
+               "info" : "Remix"
+            }, {
+               "name" : "Partition",
+               "info" : "Shortened"
+            } ]
+         }, {
+            "name" : "ANOINTED",
+            "song" : [ {
+               "name" : "ANOINTED",
+               "tape" : true,
+               "info" : "video interlude — contains elements of \"Yoncé\" & \"Family Feud\""
+            }, {
+               "name" : "CHURCH GIRL",
+               "info" : "Shortened"
+            }, {
+               "name" : "Get Me Bodied",
+               "info" : "Shortened"
+            }, {
+               "name" : "Before I Let Go",
+               "cover" : {
+                  "mbid" : "1560a7c0-ac1a-47c0-a293-c35d1506063c",
+                  "name" : "Maze",
+                  "sortName" : "Maze",
+                  "disambiguation" : "US funk/disco group, featuring Frankie Beverly",
+                  "url" : "https://www.setlist.fm/setlists/maze-2bd7047a.html"
+               },
+               "info" : "shortened — contains elements of \"Freakum Dress\""
+            }, {
+               "name" : "Rather Die Young",
+               "info" : "Shortened"
+            }, {
+               "name" : "Love on Top",
+               "info" : "contains elements of \"I Want You Back\" by The Jackson 5"
+            }, {
+               "name" : "Crazy in Love"
+            } ]
+         }, {
+            "name" : "ANOINTED - PT. 2",
+            "song" : [ {
+               "name" : "Love Hangover",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "60d41417-feda-4734-bbbf-7dcc30e08a83",
+                  "name" : "Diana Ross",
+                  "sortName" : "Ross, Diana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/diana-ross-73d6bef9.html"
+               },
+               "info" : "background singers intermission"
+            }, {
+               "name" : "PLASTIC OFF THE SOFA"
+            }, {
+               "name" : "VIRGO'S GROOVE",
+               "info" : "elements of \"Speechless\", \" Rocket\", \"Cater 2 U\", \"Signs\", \"Dance for You\", & \"Say My Name\""
+            }, {
+               "name" : "Naughty Girl",
+               "info" : "shortened — contains elements of \"VIRGO'S GROOVE\" and \"Love to Love You Baby\" by Donna Summer"
+            }, {
+               "name" : "MOVE",
+               "info" : "contains elements of \"Move Ya Body\" by Nina Sky"
+            }, {
+               "name" : "HEATED"
+            }, {
+               "name" : "ALREADY",
+               "tape" : true,
+               "info" : "Les Twins dance break"
+            } ]
+         }, {
+            "name" : "MIND CONTROL",
+            "song" : [ {
+               "name" : "MIND CONTROL",
+               "tape" : true,
+               "info" : "video Interlude — contains elements of \"Ghost\", \"Bootylicious\" & \"Single Ladies\""
+            }, {
+               "name" : "AMERICA HAS A PROBLEM"
+            }, {
+               "name" : "PURE/HONEY",
+               "info" : "contains elements of \"Blow\" — extended voguing outro"
+            }, {
+               "name" : "SUMMER RENAISSANCE",
+               "info" : "Extended intro"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/beyonce/2023/metlife-stadium-east-rutherford-nj-6ba4e2b6.html"
+   }, {
+      "id" : "63a7ce87",
+      "versionId" : "g73662ef1",
+      "eventDate" : "06-07-2023",
+      "lastUpdated" : "2025-10-18T10:36:53.931+0000",
+      "artist" : {
+         "mbid" : "8da127cc-c432-418f-b356-ef36210d82ac",
+         "name" : "TWICE",
+         "sortName" : "TWICE",
+         "disambiguation" : "South Korean girl group",
+         "url" : "https://www.setlist.fm/setlists/twice-1bc4c940.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "READY TO BE"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Act 1",
+            "song" : [ {
+               "name" : "READY TO BE",
+               "tape" : true,
+               "info" : "Intro VCR"
+            }, {
+               "name" : "SET ME FREE",
+               "info" : "English ver."
+            }, {
+               "name" : "I CAN'T STOP ME"
+            }, {
+               "name" : "",
+               "tape" : true,
+               "info" : "Ment 1"
+            }, {
+               "name" : "GO HARD"
+            }, {
+               "name" : "MORE & MORE"
+            }, {
+               "name" : "MOONLIGHT SUNRISE"
+            }, {
+               "name" : "BRAVE"
+            }, {
+               "name" : "",
+               "tape" : true,
+               "info" : "Ment 2 with Nayeon, Jeongyeon, Jihyo and Chaeyoung"
+            }, {
+               "name" : "Try",
+               "cover" : {
+                  "mbid" : "efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9",
+                  "name" : "Colbie Caillat",
+                  "sortName" : "Caillat, Colbie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/colbie-caillat-23d6bc4f.html"
+               },
+               "info" : "Dahyun solo - piano"
+            }, {
+               "name" : "Done for Me",
+               "cover" : {
+                  "mbid" : "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+                  "name" : "Charlie Puth",
+                  "sortName" : "Puth, Charlie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/charlie-puth-3db89e3.html"
+               },
+               "info" : "Tzuyu solo"
+            }, {
+               "name" : "New Rules",
+               "cover" : {
+                  "mbid" : "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+                  "name" : "Dua Lipa",
+                  "sortName" : "Lipa, Dua",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dua-lipa-13c41d41.html"
+               },
+               "info" : "Sana solo"
+            }, {
+               "name" : "MOVE",
+               "cover" : {
+                  "mbid" : "859d0860-d480-4efd-970c-c05d5f1776b8",
+                  "name" : "Beyoncé",
+                  "sortName" : "Beyoncé",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/beyonce-33d69c3d.html"
+               },
+               "info" : "Momo solo"
+            }, {
+               "name" : "7 rings",
+               "cover" : {
+                  "mbid" : "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+                  "name" : "Ariana Grande",
+                  "sortName" : "Grande, Ariana",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ariana-grande-33d0d809.html"
+               },
+               "info" : "Mina solo"
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Feel Special",
+               "tape" : true,
+               "info" : "VCR with live band"
+            }, {
+               "name" : "Feel Special"
+            }, {
+               "name" : "CRY FOR ME"
+            }, {
+               "name" : "FANCY"
+            }, {
+               "name" : "The Feels"
+            }, {
+               "name" : "",
+               "tape" : true,
+               "info" : "Ment 3 with Sana, Momo, Mina, Dahyun and Tzuyu"
+            }, {
+               "name" : "My Guitar",
+               "cover" : {
+                  "mbid" : "b37cfe02-c667-4c78-9c8c-f96944d1dff7",
+                  "name" : "CHAEYOUNG",
+                  "sortName" : "CHAEYOUNG",
+                  "disambiguation" : "TWICE",
+                  "url" : "https://www.setlist.fm/setlists/chaeyoung-3c5856f.html"
+               },
+               "info" : "Chaeyoung solo"
+            }, {
+               "name" : "Nightmare",
+               "cover" : {
+                  "mbid" : "9fc92dfd-8367-4a7e-88f5-18b24baa1b70",
+                  "name" : "JIHYO",
+                  "sortName" : "JIHYO",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jihyo-1bc58568.html"
+               },
+               "info" : "Jihyo solo"
+            }, {
+               "name" : "Juice",
+               "cover" : {
+                  "mbid" : "8fb5370b-9568-4b61-9da5-2aa12c9928db",
+                  "name" : "Lizzo",
+                  "sortName" : "Lizzo",
+                  "disambiguation" : "American rapper, singer and actress",
+                  "url" : "https://www.setlist.fm/setlists/lizzo-33d8989d.html"
+               },
+               "info" : "Jeongyeon solo"
+            }, {
+               "name" : "POP!",
+               "cover" : {
+                  "mbid" : "e107bde8-78f0-4646-8925-68007a15880e",
+                  "name" : "NAYEON",
+                  "sortName" : "NAYEON",
+                  "disambiguation" : "TWICE",
+                  "url" : "https://www.setlist.fm/setlists/nayeon-63c58a8b.html"
+               },
+               "info" : "Nayeon solo - dance break ver."
+            } ]
+         }, {
+            "name" : "Act III",
+            "song" : [ {
+               "name" : "Who Am I?",
+               "tape" : true,
+               "info" : "Interlude - VCR"
+            }, {
+               "name" : "Queen of Hearts"
+            }, {
+               "name" : "YES or YES / What is Love? / CHEER UP / LIKEY / KNOCK KNOCK / SCIENTIST / Heart Shaker"
+            }, {
+               "name" : "",
+               "tape" : true,
+               "info" : "Ment 4"
+            }, {
+               "name" : "Alcohol-Free"
+            }, {
+               "name" : "Dance the Night Away"
+            }, {
+               "name" : "Talk That Talk"
+            } ]
+         }, {
+            "name" : "Act IV",
+            "song" : [ {
+               "name" : "",
+               "tape" : true,
+               "info" : "Interlude - VCR"
+            }, {
+               "name" : "When We Were Kids"
+            }, {
+               "name" : "CRAZY STUPID LOVE"
+            }, {
+               "name" : "",
+               "tape" : true,
+               "info" : "Ment 5"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Scandal",
+               "info" : "Live debut"
+            }, {
+               "name" : "Like OOH-AHH"
+            }, {
+               "name" : "FIREWORK"
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: Scandal, Icon, Celebrate. Encore songs suggested by roulette wheel containing: Do It Again, Signal, Sweet Summer Day, Icon, TT, Firework, Celebrate, Scandal, and Like Ooh-Ahh.",
+      "url" : "https://www.setlist.fm/setlist/twice/2023/metlife-stadium-east-rutherford-nj-63a7ce87.html"
+   }, {
+      "id" : "ba6e52e",
+      "versionId" : "g138b4139",
+      "eventDate" : "11-06-2023",
+      "lastUpdated" : "2024-01-06T19:44:21.537+0000",
+      "artist" : {
+         "mbid" : "28737730-ec70-4da5-89c5-77ac13c5c34d",
+         "name" : "Khalid",
+         "sortName" : "Khalid",
+         "disambiguation" : "American R&B singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/khalid-43c153cf.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Young Dumb & Broke"
+            }, {
+               "name" : "Love Lies",
+               "cover" : {
+                  "mbid" : "f5a120e2-f7e6-4dee-a78f-ea007dd0231f",
+                  "name" : "Khalid & Normani",
+                  "sortName" : "Khalid & Normani",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/khalid-and-normani-73ca2e21.html"
+               }
+            }, {
+               "name" : "Silence",
+               "cover" : {
+                  "mbid" : "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+                  "name" : "Marshmello",
+                  "sortName" : "Marshmello",
+                  "disambiguation" : "US | electronic",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-3c7813b.html"
+               }
+            }, {
+               "name" : "8TEEN"
+            }, {
+               "name" : "Saved"
+            }, {
+               "name" : "Coaster"
+            }, {
+               "name" : "lovely",
+               "cover" : {
+                  "mbid" : "d4379004-a58e-4802-b280-645b7ab485a6",
+                  "name" : "Billie Eilish & Khalid",
+                  "sortName" : "Eilish, Billie & Khalid",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billie-eilish-and-khalid-3bcbe8e0.html"
+               }
+            }, {
+               "name" : "Eastside",
+               "cover" : {
+                  "mbid" : "5a6131f9-f8db-4722-b4d7-6a0c7183c590",
+                  "name" : "benny blanco",
+                  "sortName" : "Blanco, Benny",
+                  "disambiguation" : "producer Benjamin Levin",
+                  "url" : "https://www.setlist.fm/setlists/benny-blanco-7bd362c0.html"
+               }
+            }, {
+               "name" : "Location"
+            }, {
+               "name" : "Talk"
+            }, {
+               "name" : "Saturday Nights"
+            }, {
+               "name" : "Better"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/khalid/2023/metlife-stadium-east-rutherford-nj-ba6e52e.html"
+   }, {
+      "id" : "3a6e523",
+      "versionId" : "g3393cc0d",
+      "eventDate" : "11-06-2023",
+      "lastUpdated" : "2023-06-12T21:45:30.709+0000",
+      "artist" : {
+         "mbid" : "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a",
+         "name" : "Dylan",
+         "sortName" : "Dylan",
+         "disambiguation" : "female singer songwriter from Suffolk",
+         "url" : "https://www.setlist.fm/setlists/dylan-53f3db8d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lovestruck"
+            }, {
+               "name" : "Nineteen"
+            }, {
+               "name" : "Every Heart but Mine"
+            }, {
+               "name" : "Paradise City",
+               "cover" : {
+                  "mbid" : "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name" : "Guns N’ Roses",
+                  "sortName" : "Guns N’ Roses",
+                  "disambiguation" : "American hard rock band from Los Angeles",
+                  "url" : "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+               }
+            }, {
+               "name" : "Someone Else"
+            }, {
+               "name" : "Liar Liar"
+            }, {
+               "name" : "You're Not Harry Styles"
+            }, {
+               "name" : "Nothing Lasts Forever"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/dylan/2023/metlife-stadium-east-rutherford-nj-3a6e523.html"
+   }, {
+      "id" : "1ba6e534",
+      "versionId" : "g3398e069",
+      "eventDate" : "11-06-2023",
+      "lastUpdated" : "2023-08-28T04:06:27.000+0000",
+      "artist" : {
+         "mbid" : "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+         "name" : "Ed Sheeran",
+         "sortName" : "Sheeran, Ed",
+         "disambiguation" : "UK singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/ed-sheeran-53d5f3bd.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "+–=÷x"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "Tides"
+            }, {
+               "name" : "BLOW"
+            } ]
+         }, {
+            "name" : "Solo",
+            "song" : [ {
+               "name" : "I'm a Mess"
+            }, {
+               "name" : "Shivers"
+            }, {
+               "name" : "The A Team"
+            }, {
+               "name" : "Castle on the Hill"
+            }, {
+               "name" : "Don't",
+               "info" : "with \"No Diggity\" by Blackstreet snippets"
+            }, {
+               "name" : "Tenerife Sea"
+            }, {
+               "name" : "First Times"
+            }, {
+               "name" : "Eyes Closed"
+            }, {
+               "name" : "Give Me Love"
+            }, {
+               "name" : "Boat"
+            } ]
+         }, {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "River / Peru / South of the Border / I Don't Care"
+            }, {
+               "name" : "Beautiful People",
+               "with" : {
+                  "mbid" : "28737730-ec70-4da5-89c5-77ac13c5c34d",
+                  "name" : "Khalid",
+                  "sortName" : "Khalid",
+                  "disambiguation" : "American R&B singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/khalid-43c153cf.html"
+               }
+            }, {
+               "name" : "End of Youth"
+            }, {
+               "name" : "Overpass Graffiti"
+            }, {
+               "name" : "Galway Girl",
+               "info" : "With violin player"
+            }, {
+               "name" : "Thinking Out Loud"
+            } ]
+         }, {
+            "name" : "Solo",
+            "song" : [ {
+               "name" : "Love Yourself",
+               "cover" : {
+                  "mbid" : "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                  "name" : "Justin Bieber",
+                  "sortName" : "Bieber, Justin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/justin-bieber-43d4f7ff.html"
+               }
+            }, {
+               "name" : "Sing"
+            }, {
+               "name" : "Photograph"
+            }, {
+               "name" : "Perfect"
+            }, {
+               "name" : "Bloodstream"
+            } ]
+         }, {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "Afterglow"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "You Need Me, I Don't Need You"
+            }, {
+               "name" : "Shape of You"
+            }, {
+               "name" : "Bad Habits"
+            } ]
+         } ]
+      },
+      "info" : "Broke all time concert attendance record for MetLife Stadium - 89,106 in attendance",
+      "url" : "https://www.setlist.fm/setlist/ed-sheeran/2023/metlife-stadium-east-rutherford-nj-1ba6e534.html"
+   }, {
+      "id" : "3ba6f460",
+      "versionId" : "g6341ced7",
+      "eventDate" : "10-06-2023",
+      "lastUpdated" : "2025-04-10T21:06:00.607+0000",
+      "artist" : {
+         "mbid" : "28737730-ec70-4da5-89c5-77ac13c5c34d",
+         "name" : "Khalid",
+         "sortName" : "Khalid",
+         "disambiguation" : "American R&B singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/khalid-43c153cf.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Young Dumb & Broke"
+            }, {
+               "name" : "Love Lies",
+               "cover" : {
+                  "mbid" : "f5a120e2-f7e6-4dee-a78f-ea007dd0231f",
+                  "name" : "Khalid & Normani",
+                  "sortName" : "Khalid & Normani",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/khalid-and-normani-73ca2e21.html"
+               }
+            }, {
+               "name" : "Silence",
+               "cover" : {
+                  "mbid" : "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+                  "name" : "Marshmello",
+                  "sortName" : "Marshmello",
+                  "disambiguation" : "US | electronic",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-3c7813b.html"
+               }
+            }, {
+               "name" : "8TEEN"
+            }, {
+               "name" : "Saved"
+            }, {
+               "name" : "Coaster",
+               "info" : "Snippet"
+            }, {
+               "name" : "lovely",
+               "cover" : {
+                  "mbid" : "d4379004-a58e-4802-b280-645b7ab485a6",
+                  "name" : "Billie Eilish & Khalid",
+                  "sortName" : "Eilish, Billie & Khalid",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/billie-eilish-and-khalid-3bcbe8e0.html"
+               }
+            }, {
+               "name" : "Eastside",
+               "cover" : {
+                  "mbid" : "5a6131f9-f8db-4722-b4d7-6a0c7183c590",
+                  "name" : "benny blanco",
+                  "sortName" : "Blanco, Benny",
+                  "disambiguation" : "producer Benjamin Levin",
+                  "url" : "https://www.setlist.fm/setlists/benny-blanco-7bd362c0.html"
+               }
+            }, {
+               "name" : "Location"
+            }, {
+               "name" : "Talk"
+            }, {
+               "name" : "Saturday Nights"
+            }, {
+               "name" : "Better"
+            } ]
+         } ]
+      },
+      "info" : "Note: Opening act for Ed Sheeran's show on June 10",
+      "url" : "https://www.setlist.fm/setlist/khalid/2023/metlife-stadium-east-rutherford-nj-3ba6f460.html"
+   }, {
+      "id" : "3a6f593",
+      "versionId" : "g3398e06d",
+      "eventDate" : "10-06-2023",
+      "lastUpdated" : "2023-08-28T04:06:58.933+0000",
+      "artist" : {
+         "mbid" : "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+         "name" : "Ed Sheeran",
+         "sortName" : "Sheeran, Ed",
+         "disambiguation" : "UK singer‐songwriter",
+         "url" : "https://www.setlist.fm/setlists/ed-sheeran-53d5f3bd.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "+–=÷x"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "Tides"
+            }, {
+               "name" : "BLOW"
+            } ]
+         }, {
+            "name" : "Solo",
+            "song" : [ {
+               "name" : "I'm a Mess"
+            }, {
+               "name" : "Shivers"
+            }, {
+               "name" : "The A Team"
+            }, {
+               "name" : "Castle on the Hill"
+            }, {
+               "name" : "Don't",
+               "info" : "with \"No Diggity\" by Blackstreet snippets"
+            }, {
+               "name" : "Eyes Closed"
+            }, {
+               "name" : "Give Me Love"
+            }, {
+               "name" : "Boat"
+            } ]
+         }, {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "River / Peru / Own It / South of the Border / I Don't Care"
+            }, {
+               "name" : "Beautiful People",
+               "with" : {
+                  "mbid" : "28737730-ec70-4da5-89c5-77ac13c5c34d",
+                  "name" : "Khalid",
+                  "sortName" : "Khalid",
+                  "disambiguation" : "American R&B singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/khalid-43c153cf.html"
+               }
+            }, {
+               "name" : "Curtains"
+            }, {
+               "name" : "End of Youth"
+            }, {
+               "name" : "Overpass Graffiti"
+            }, {
+               "name" : "Galway Girl",
+               "info" : "With violin player"
+            }, {
+               "name" : "Thinking Out Loud",
+               "info" : "Few interruptions - E string was out of tune"
+            } ]
+         }, {
+            "name" : "Solo",
+            "song" : [ {
+               "name" : "Love Yourself",
+               "cover" : {
+                  "mbid" : "e0140a67-e4d1-4f13-8a01-364355bee46e",
+                  "name" : "Justin Bieber",
+                  "sortName" : "Bieber, Justin",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/justin-bieber-43d4f7ff.html"
+               }
+            }, {
+               "name" : "Sing"
+            }, {
+               "name" : "Photograph"
+            }, {
+               "name" : "Perfect"
+            }, {
+               "name" : "Bloodstream"
+            } ]
+         }, {
+            "name" : "Full Band",
+            "song" : [ {
+               "name" : "Afterglow"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "You Need Me, I Don't Need You",
+               "info" : "With elements of “Take It Back” from “Multiply”"
+            }, {
+               "name" : "Shape of You"
+            }, {
+               "name" : "Bad Habits",
+               "info" : "Played twice, loop pedal crashed at end of song"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/ed-sheeran/2023/metlife-stadium-east-rutherford-nj-3a6f593.html"
+   }, {
+      "id" : "13a6f595",
+      "versionId" : "g1b93f168",
+      "eventDate" : "10-06-2023",
+      "lastUpdated" : "2023-06-11T18:49:24.358+0000",
+      "artist" : {
+         "mbid" : "84fb38c7-c01c-4ba2-9984-4a2c4c59b47a",
+         "name" : "Dylan",
+         "sortName" : "Dylan",
+         "disambiguation" : "female singer songwriter from Suffolk",
+         "url" : "https://www.setlist.fm/setlists/dylan-53f3db8d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Lovestruck"
+            }, {
+               "name" : "Nineteen"
+            }, {
+               "name" : "Every Heart but Mine"
+            }, {
+               "name" : "Paradise City",
+               "cover" : {
+                  "mbid" : "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name" : "Guns N’ Roses",
+                  "sortName" : "Guns N’ Roses",
+                  "disambiguation" : "American hard rock band from Los Angeles",
+                  "url" : "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+               },
+               "info" : "Snippet"
+            }, {
+               "name" : "Someone Else"
+            }, {
+               "name" : "Liar Liar",
+               "info" : "Unreleased Song & Live Debut"
+            }, {
+               "name" : "You're Not Harry Styles"
+            }, {
+               "name" : "Nothing Lasts Forever"
+            } ]
+         } ]
+      },
+      "info" : "Special guest and opening act for Ed Sheeran's show on June 10",
+      "url" : "https://www.setlist.fm/setlist/dylan/2023/metlife-stadium-east-rutherford-nj-13a6f595.html"
+   }, {
+      "id" : "3bb978f8",
+      "versionId" : "g13b6d599",
+      "eventDate" : "28-05-2023",
+      "lastUpdated" : "2024-01-31T15:27:37.921+0000",
+      "artist" : {
+         "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+         "name" : "Taylor Swift",
+         "sortName" : "Swift, Taylor",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "The Eras Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true,
+               "info" : "Fearless, End Game, Speak Now, gold rush, evermore, Red, Lavender Haze, Lover, Bejeweled elements"
+            } ]
+         }, {
+            "name" : "Lover",
+            "song" : [ {
+               "name" : "Miss Americana & the Heartbreak Prince",
+               "info" : "shortened"
+            }, {
+               "name" : "Cruel Summer"
+            }, {
+               "name" : "The Man"
+            }, {
+               "name" : "You Need to Calm Down",
+               "info" : "shortened"
+            }, {
+               "name" : "Lover",
+               "info" : "spoken intro"
+            }, {
+               "name" : "The Archer",
+               "info" : "extended outro"
+            } ]
+         }, {
+            "name" : "Fearless",
+            "song" : [ {
+               "name" : "Fearless",
+               "info" : "shortened"
+            }, {
+               "name" : "You Belong With Me"
+            }, {
+               "name" : "Love Story"
+            } ]
+         }, {
+            "name" : "evermore",
+            "song" : [ {
+               "name" : "'tis the damn season",
+               "info" : "shortened"
+            }, {
+               "name" : "willow"
+            }, {
+               "name" : "marjorie",
+               "info" : "shortened"
+            }, {
+               "name" : "champagne problems",
+               "info" : "spoken intro"
+            }, {
+               "name" : "tolerate it",
+               "info" : "extended intro w/keys; shortened"
+            } ]
+         }, {
+            "name" : "reputation",
+            "song" : [ {
+               "name" : "...Ready for It?",
+               "info" : "extended intro"
+            }, {
+               "name" : "Delicate"
+            }, {
+               "name" : "Don't Blame Me",
+               "info" : "shortened"
+            }, {
+               "name" : "Look What You Made Me Do"
+            } ]
+         }, {
+            "name" : "Speak Now",
+            "song" : [ {
+               "name" : "Enchanted",
+               "info" : "extended intro, shortened"
+            } ]
+         }, {
+            "name" : "Red",
+            "song" : [ {
+               "name" : "Red - Intro",
+               "tape" : true,
+               "info" : "contains elements of \"State of Grace\", \"Holy Ground\" and \"Red\""
+            }, {
+               "name" : "22"
+            }, {
+               "name" : "We Are Never Ever Getting Back Together"
+            }, {
+               "name" : "I Knew You Were Trouble",
+               "info" : "shortened"
+            }, {
+               "name" : "Nothing New",
+               "with" : {
+                  "mbid" : "96855c21-b832-4366-ba12-0d2330c36a86",
+                  "name" : "Phoebe Bridgers",
+                  "sortName" : "Bridgers, Phoebe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/phoebe-bridgers-63c24adb.html"
+               }
+            }, {
+               "name" : "All Too Well",
+               "info" : "10 Minute Version"
+            } ]
+         }, {
+            "name" : "folklore",
+            "song" : [ {
+               "name" : "seven",
+               "tape" : true,
+               "info" : "spoken word poem; contains elements of Wildest Dreams"
+            }, {
+               "name" : "the 1"
+            }, {
+               "name" : "betty",
+               "info" : "spoken intro"
+            }, {
+               "name" : "the last great american dynasty"
+            }, {
+               "name" : "august"
+            }, {
+               "name" : "illicit affairs",
+               "info" : "shortened"
+            }, {
+               "name" : "my tears ricochet"
+            }, {
+               "name" : "cardigan"
+            } ]
+         }, {
+            "name" : "1989",
+            "song" : [ {
+               "name" : "Style",
+               "info" : "shortened"
+            }, {
+               "name" : "Blank Space"
+            }, {
+               "name" : "Shake It Off"
+            }, {
+               "name" : "Wildest Dreams",
+               "info" : "shortened"
+            }, {
+               "name" : "Bad Blood",
+               "info" : "shortened"
+            } ]
+         }, {
+            "name" : "Surprise Songs",
+            "song" : [ {
+               "name" : "Welcome to New York",
+               "info" : "tour debut; on guitar"
+            }, {
+               "name" : "Clean",
+               "info" : "on piano"
+            } ]
+         }, {
+            "name" : "Midnights",
+            "song" : [ {
+               "name" : "Lavender Haze"
+            }, {
+               "name" : "Anti‐Hero"
+            }, {
+               "name" : "Midnight Rain"
+            }, {
+               "name" : "Vigilante Shit"
+            }, {
+               "name" : "Bejeweled"
+            }, {
+               "name" : "Mastermind"
+            }, {
+               "name" : "Karma",
+               "info" : "Remix",
+               "with" : {
+                  "mbid" : "6f2c949d-9540-4421-bf02-27ae27e00e33",
+                  "name" : "Ice Spice",
+                  "sortName" : "Ice Spice",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ice-spice-13fc051d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/taylor-swift/2023/metlife-stadium-east-rutherford-nj-3bb978f8.html"
+   }, {
+      "id" : "33b978ed",
+      "versionId" : "g3b955cb8",
+      "eventDate" : "28-05-2023",
+      "lastUpdated" : "2023-05-29T15:02:40.053+0000",
+      "artist" : {
+         "mbid" : "96855c21-b832-4366-ba12-0d2330c36a86",
+         "name" : "Phoebe Bridgers",
+         "sortName" : "Bridgers, Phoebe",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/phoebe-bridgers-63c24adb.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Motion Sickness"
+            }, {
+               "name" : "DVD Menu",
+               "info" : "When the screensaver hits the corner of the screen euphoric feeling edition"
+            }, {
+               "name" : "Garden Song"
+            }, {
+               "name" : "Kyoto"
+            }, {
+               "name" : "Scott Street"
+            }, {
+               "name" : "Moon Song"
+            }, {
+               "name" : "Waiting Room",
+               "info" : "Surprise song"
+            }, {
+               "name" : "Graceland Too"
+            }, {
+               "name" : "I Know the End"
+            } ]
+         } ]
+      },
+      "info" : "Last show of Punisher Tour",
+      "url" : "https://www.setlist.fm/setlist/phoebe-bridgers/2023/metlife-stadium-east-rutherford-nj-33b978ed.html"
+   }, {
+      "id" : "2bb978d6",
+      "versionId" : "g73955a85",
+      "eventDate" : "28-05-2023",
+      "lastUpdated" : "2023-05-29T20:11:22.868+0000",
+      "artist" : {
+         "mbid" : "cd30990a-1928-433b-9df3-0f87fe702bb4",
+         "name" : "Owenn",
+         "sortName" : "Owenn",
+         "disambiguation" : "US singer-songwriter, musician, choreographer",
+         "url" : "https://www.setlist.fm/setlists/owenn-53ff5f45.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Baby Girl"
+            }, {
+               "name" : "Devil May Care",
+               "info" : "unreleased song"
+            }, {
+               "name" : "Locked Out of Heaven",
+               "cover" : {
+                  "mbid" : "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+                  "name" : "Bruno Mars",
+                  "sortName" : "Mars, Bruno",
+                  "disambiguation" : "US singer",
+                  "url" : "https://www.setlist.fm/setlists/bruno-mars-bd5153a.html"
+               }
+            }, {
+               "name" : "LUV"
+            }, {
+               "name" : "Show Me"
+            }, {
+               "name" : "Rest Of My Life"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/owenn/2023/metlife-stadium-east-rutherford-nj-2bb978d6.html"
+   }, {
+      "id" : "53b907e1",
+      "versionId" : "g33957c61",
+      "eventDate" : "27-05-2023",
+      "lastUpdated" : "2023-05-28T07:09:38.728+0000",
+      "artist" : {
+         "mbid" : "96855c21-b832-4366-ba12-0d2330c36a86",
+         "name" : "Phoebe Bridgers",
+         "sortName" : "Bridgers, Phoebe",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/phoebe-bridgers-63c24adb.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Motion Sickness"
+            }, {
+               "name" : "DVD Menu"
+            }, {
+               "name" : "Garden Song"
+            }, {
+               "name" : "Kyoto"
+            }, {
+               "name" : "Scott Street"
+            }, {
+               "name" : "Moon Song"
+            }, {
+               "name" : "Georgia",
+               "info" : "Surprise song"
+            }, {
+               "name" : "Graceland Too"
+            }, {
+               "name" : "I Know the End"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/phoebe-bridgers/2023/metlife-stadium-east-rutherford-nj-53b907e1.html"
+   }, {
+      "id" : "4bb907de",
+      "versionId" : "gb7ef93a",
+      "eventDate" : "27-05-2023",
+      "lastUpdated" : "2025-08-13T19:24:40.003+0000",
+      "artist" : {
+         "mbid" : "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+         "name" : "Gracie Abrams",
+         "sortName" : "Abrams, Gracie",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/gracie-abrams-33f4a46d.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Where do we go now?"
+            }, {
+               "name" : "21"
+            }, {
+               "name" : "Block Me Out"
+            }, {
+               "name" : "I Should Hate You",
+               "info" : "Live tour debut"
+            }, {
+               "name" : "I Know It Won't Work"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/gracie-abrams/2023/metlife-stadium-east-rutherford-nj-4bb907de.html"
+   }, {
+      "id" : "43b907fb",
+      "versionId" : "g5393bbc5",
+      "eventDate" : "27-05-2023",
+      "lastUpdated" : "2023-06-09T12:59:21.318+0000",
+      "artist" : {
+         "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+         "name" : "Taylor Swift",
+         "sortName" : "Swift, Taylor",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "The Eras Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true,
+               "info" : "Fearless, End Game, Speak Now, gold rush, evermore, Red, Lavender Haze, Lover, Bejeweled elements"
+            } ]
+         }, {
+            "name" : "Lover",
+            "song" : [ {
+               "name" : "Miss Americana & the Heartbreak Prince",
+               "info" : "shortened"
+            }, {
+               "name" : "Cruel Summer"
+            }, {
+               "name" : "The Man"
+            }, {
+               "name" : "You Need to Calm Down",
+               "info" : "shortened"
+            }, {
+               "name" : "Lover",
+               "info" : "spoken intro"
+            }, {
+               "name" : "The Archer",
+               "info" : "extended outro"
+            } ]
+         }, {
+            "name" : "Fearless",
+            "song" : [ {
+               "name" : "Fearless",
+               "info" : "Shortened"
+            }, {
+               "name" : "You Belong With Me"
+            }, {
+               "name" : "Love Story"
+            } ]
+         }, {
+            "name" : "evermore",
+            "song" : [ {
+               "name" : "'tis the damn season",
+               "info" : "Shortened"
+            }, {
+               "name" : "willow"
+            }, {
+               "name" : "marjorie",
+               "info" : "Shortened"
+            }, {
+               "name" : "champagne problems",
+               "info" : "spoken intro"
+            }, {
+               "name" : "tolerate it",
+               "info" : "extended intro w/keys; shortened"
+            } ]
+         }, {
+            "name" : "reputation",
+            "song" : [ {
+               "name" : "...Ready for It?",
+               "info" : "extended intro"
+            }, {
+               "name" : "Delicate"
+            }, {
+               "name" : "Don't Blame Me",
+               "info" : "Shortened"
+            }, {
+               "name" : "Look What You Made Me Do"
+            } ]
+         }, {
+            "name" : "Speak Now",
+            "song" : [ {
+               "name" : "Enchanted",
+               "info" : "extended intro; shortened"
+            } ]
+         }, {
+            "name" : "Red",
+            "song" : [ {
+               "name" : "Red - Intro",
+               "tape" : true,
+               "info" : "Contains elements of \"State of Grace\", \"Holy Ground\" and \"Red"
+            }, {
+               "name" : "22"
+            }, {
+               "name" : "We Are Never Ever Getting Back Together"
+            }, {
+               "name" : "I Knew You Were Trouble",
+               "info" : "shortened"
+            }, {
+               "name" : "Nothing New",
+               "with" : {
+                  "mbid" : "96855c21-b832-4366-ba12-0d2330c36a86",
+                  "name" : "Phoebe Bridgers",
+                  "sortName" : "Bridgers, Phoebe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/phoebe-bridgers-63c24adb.html"
+               }
+            }, {
+               "name" : "All Too Well",
+               "info" : "10 Minute Version"
+            } ]
+         }, {
+            "name" : "folklore",
+            "song" : [ {
+               "name" : "seven",
+               "tape" : true,
+               "info" : "spoken word poem; contains elements of Wildest Dreams"
+            }, {
+               "name" : "the 1"
+            }, {
+               "name" : "betty",
+               "info" : "spoken intro"
+            }, {
+               "name" : "the last great american dynasty"
+            }, {
+               "name" : "august"
+            }, {
+               "name" : "illicit affairs",
+               "info" : "shortened"
+            }, {
+               "name" : "my tears ricochet"
+            }, {
+               "name" : "cardigan"
+            } ]
+         }, {
+            "name" : "1989",
+            "song" : [ {
+               "name" : "Style",
+               "info" : "shortened"
+            }, {
+               "name" : "Blank Space"
+            }, {
+               "name" : "Shake It Off"
+            }, {
+               "name" : "Wildest Dreams",
+               "info" : "shortened"
+            }, {
+               "name" : "Bad Blood",
+               "info" : "shortened"
+            } ]
+         }, {
+            "name" : "Surprise Songs",
+            "song" : [ {
+               "name" : "Holy Ground",
+               "info" : "Tour debut; on guitar"
+            }, {
+               "name" : "False God",
+               "info" : "Tour debut; on piano; first performance in-concert"
+            } ]
+         }, {
+            "name" : "Midnights",
+            "song" : [ {
+               "name" : "Lavender Haze"
+            }, {
+               "name" : "Anti‐Hero"
+            }, {
+               "name" : "Midnight Rain"
+            }, {
+               "name" : "Vigilante Shit"
+            }, {
+               "name" : "Bejeweled"
+            }, {
+               "name" : "Mastermind"
+            }, {
+               "name" : "Karma",
+               "info" : "Remix",
+               "with" : {
+                  "mbid" : "6f2c949d-9540-4421-bf02-27ae27e00e33",
+                  "name" : "Ice Spice",
+                  "sortName" : "Ice Spice",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ice-spice-13fc051d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/taylor-swift/2023/metlife-stadium-east-rutherford-nj-43b907fb.html"
+   }, {
+      "id" : "7bb91294",
+      "versionId" : "g53952315",
+      "eventDate" : "26-05-2023",
+      "lastUpdated" : "2023-05-27T15:55:09.294+0000",
+      "artist" : {
+         "mbid" : "96855c21-b832-4366-ba12-0d2330c36a86",
+         "name" : "Phoebe Bridgers",
+         "sortName" : "Bridgers, Phoebe",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/phoebe-bridgers-63c24adb.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Motion Sickness"
+            }, {
+               "name" : "DVD Menu"
+            }, {
+               "name" : "Garden Song"
+            }, {
+               "name" : "Kyoto"
+            }, {
+               "name" : "Scott Street"
+            }, {
+               "name" : "Moon Song"
+            }, {
+               "name" : "Emily I'm Sorry",
+               "cover" : {
+                  "mbid" : "3ceeddbd-fba5-4bdb-99f7-2d028ed5afda",
+                  "name" : "boygenius",
+                  "sortName" : "boygenius",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/boygenius-2bc808e2.html"
+               },
+               "info" : "Surprise song"
+            }, {
+               "name" : "Graceland Too"
+            }, {
+               "name" : "I Know the End"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/phoebe-bridgers/2023/metlife-stadium-east-rutherford-nj-7bb91294.html"
+   }, {
+      "id" : "73b91291",
+      "versionId" : "g339338d1",
+      "eventDate" : "26-05-2023",
+      "lastUpdated" : "2023-06-13T15:03:56.572+0000",
+      "artist" : {
+         "mbid" : "18fa2604-c608-4e1a-9b9d-05d7360c5817",
+         "name" : "GAYLE",
+         "sortName" : "GAYLE",
+         "disambiguation" : "American singer from Nashville, TN",
+         "url" : "https://www.setlist.fm/setlists/gayle-7bf1ba0c.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "everybody hates me"
+            }, {
+               "name" : "sleeping with my friends"
+            }, {
+               "name" : "ALEX"
+            }, {
+               "name" : "don't call me pretty"
+            }, {
+               "name" : "You Oughta Know",
+               "cover" : {
+                  "mbid" : "4bdcee62-4902-4773-8cd1-e252e2e31225",
+                  "name" : "Alanis Morissette",
+                  "sortName" : "Morissette, Alanis",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/alanis-morissette-13d6b961.html"
+               }
+            }, {
+               "name" : "luv starved"
+            }, {
+               "name" : "snow angels"
+            }, {
+               "name" : "abcdefu"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/gayle/2023/metlife-stadium-east-rutherford-nj-73b91291.html"
+   }, {
+      "id" : "6bb9129e",
+      "versionId" : "g73930e29",
+      "eventDate" : "26-05-2023",
+      "lastUpdated" : "2023-06-15T11:34:34.264+0000",
+      "artist" : {
+         "mbid" : "20244d07-534f-4eff-b4d4-930878889970",
+         "name" : "Taylor Swift",
+         "sortName" : "Swift, Taylor",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "The Eras Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "",
+               "tape" : true,
+               "info" : "Fearless, End Game, Speak Now, gold rush, evermore, Red, Lavender Haze, Lover, Bejeweled elements"
+            } ]
+         }, {
+            "name" : "Lover",
+            "song" : [ {
+               "name" : "Miss Americana & the Heartbreak Prince",
+               "info" : "shortened"
+            }, {
+               "name" : "Cruel Summer"
+            }, {
+               "name" : "The Man"
+            }, {
+               "name" : "You Need to Calm Down",
+               "info" : "shortened"
+            }, {
+               "name" : "Lover",
+               "info" : "spoken intro"
+            }, {
+               "name" : "The Archer",
+               "info" : "extended outro"
+            } ]
+         }, {
+            "name" : "Fearless",
+            "song" : [ {
+               "name" : "Fearless",
+               "info" : "shortened"
+            }, {
+               "name" : "You Belong With Me"
+            }, {
+               "name" : "Love Story"
+            } ]
+         }, {
+            "name" : "evermore",
+            "song" : [ {
+               "name" : "'tis the damn season",
+               "info" : "shortened"
+            }, {
+               "name" : "willow"
+            }, {
+               "name" : "marjorie",
+               "info" : "shortened"
+            }, {
+               "name" : "champagne problems",
+               "info" : "spoken intro"
+            }, {
+               "name" : "tolerate it",
+               "info" : "extended into w/ keys, shortened"
+            } ]
+         }, {
+            "name" : "reputation",
+            "song" : [ {
+               "name" : "...Ready for It?",
+               "info" : "extended intro"
+            }, {
+               "name" : "Delicate"
+            }, {
+               "name" : "Don't Blame Me",
+               "info" : "shortened"
+            }, {
+               "name" : "Look What You Made Me Do"
+            } ]
+         }, {
+            "name" : "Speak Now",
+            "song" : [ {
+               "name" : "Enchanted",
+               "info" : "extended intro, shortened"
+            } ]
+         }, {
+            "name" : "Red",
+            "song" : [ {
+               "name" : "Red - Intro",
+               "tape" : true,
+               "info" : "contains elements of \"State of Grace\", \"Holy Ground\" and \"Red\""
+            }, {
+               "name" : "22"
+            }, {
+               "name" : "We Are Never Ever Getting Back Together"
+            }, {
+               "name" : "I Knew You Were Trouble",
+               "info" : "shortened"
+            }, {
+               "name" : "Nothing New",
+               "with" : {
+                  "mbid" : "96855c21-b832-4366-ba12-0d2330c36a86",
+                  "name" : "Phoebe Bridgers",
+                  "sortName" : "Bridgers, Phoebe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/phoebe-bridgers-63c24adb.html"
+               }
+            }, {
+               "name" : "All Too Well",
+               "info" : "10 Minute Version"
+            } ]
+         }, {
+            "name" : "folklore",
+            "song" : [ {
+               "name" : "seven",
+               "tape" : true,
+               "info" : "spoken word poem; contains elements of Wildest Dreams"
+            }, {
+               "name" : "the 1"
+            }, {
+               "name" : "betty",
+               "info" : "spoken intro"
+            }, {
+               "name" : "the last great american dynasty"
+            }, {
+               "name" : "august"
+            }, {
+               "name" : "illicit affairs",
+               "info" : "shortened"
+            }, {
+               "name" : "my tears ricochet"
+            }, {
+               "name" : "cardigan"
+            } ]
+         }, {
+            "name" : "1989",
+            "song" : [ {
+               "name" : "Style",
+               "info" : "shortened"
+            }, {
+               "name" : "Blank Space"
+            }, {
+               "name" : "Shake It Off"
+            }, {
+               "name" : "Wildest Dreams",
+               "info" : "shortened"
+            }, {
+               "name" : "Bad Blood",
+               "info" : "shortened"
+            } ]
+         }, {
+            "name" : "Surprise Songs",
+            "song" : [ {
+               "name" : "Karma (Remix)",
+               "tape" : true,
+               "info" : "premiere of the music video with Ice Spice"
+            }, {
+               "name" : "Getaway Car",
+               "info" : "tour debut; on guitar",
+               "with" : {
+                  "mbid" : "1155a7a9-a7b4-46ba-ba27-6b6c98be487e",
+                  "name" : "Jack Antonoff",
+                  "sortName" : "Antonoff, Jack",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jack-antonoff-73deb2f9.html"
+               }
+            }, {
+               "name" : "Maroon",
+               "info" : "live debut; on piano"
+            } ]
+         }, {
+            "name" : "Midnights",
+            "song" : [ {
+               "name" : "Lavender Haze"
+            }, {
+               "name" : "Anti‐Hero"
+            }, {
+               "name" : "Midnight Rain"
+            }, {
+               "name" : "Vigilante Shit"
+            }, {
+               "name" : "Bejeweled"
+            }, {
+               "name" : "Mastermind"
+            }, {
+               "name" : "Karma",
+               "info" : "Remix",
+               "with" : {
+                  "mbid" : "6f2c949d-9540-4421-bf02-27ae27e00e33",
+                  "name" : "Ice Spice",
+                  "sortName" : "Ice Spice",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/ice-spice-13fc051d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/taylor-swift/2023/metlife-stadium-east-rutherford-nj-6bb9129e.html"
+   } ]
+}

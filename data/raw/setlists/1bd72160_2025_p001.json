@@ -1,0 +1,1512 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 1,
+   "total" : 59,
+   "setlist" : [ {
+      "id" : "4b458b4e",
+      "versionId" : "g2b7c1cf6",
+      "eventDate" : "01-09-2025",
+      "lastUpdated" : "2025-09-01T23:05:15.113+0000",
+      "artist" : {
+         "mbid" : "a6f84719-b3da-42f0-be81-8fe03545efed",
+         "name" : "Cast",
+         "sortName" : "Cast",
+         "disambiguation" : "British indie band",
+         "url" : "https://www.setlist.fm/setlists/cast-63d6d203.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Free Me"
+            }, {
+               "name" : "Sandstorm"
+            }, {
+               "name" : "Fine Time"
+            }, {
+               "name" : "Live the Dream"
+            }, {
+               "name" : "Walkaway"
+            }, {
+               "name" : "Poison Vine"
+            }, {
+               "name" : "Alright"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/cast/2025/metlife-stadium-east-rutherford-nj-4b458b4e.html"
+   }, {
+      "id" : "3b534498",
+      "versionId" : "gb7a3166",
+      "eventDate" : "01-09-2025",
+      "lastUpdated" : "2025-09-18T06:07:18.434+0000",
+      "artist" : {
+         "mbid" : "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+         "name" : "Cage the Elephant",
+         "sortName" : "Cage the Elephant",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cage-the-elephant-73d60aa9.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Broken Boy"
+            }, {
+               "name" : "Spiderhead"
+            }, {
+               "name" : "Cold Cold Cold"
+            }, {
+               "name" : "Ready to Let Go"
+            }, {
+               "name" : "Social Cues"
+            }, {
+               "name" : "Trouble"
+            }, {
+               "name" : "Ain't No Rest for the Wicked"
+            }, {
+               "name" : "Telescope"
+            }, {
+               "name" : "Shake Me Down"
+            }, {
+               "name" : "Cigarette Daydreams",
+               "info" : "preceded by an acoustic instrumental snippet of Lynyrd Skynyrd’s “Sweet Home Alabama\""
+            }, {
+               "name" : "Come a Little Closer"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/cage-the-elephant/2025/metlife-stadium-east-rutherford-nj-3b534498.html"
+   }, {
+      "id" : "1b5345e8",
+      "versionId" : "g1b7da928",
+      "eventDate" : "01-09-2025",
+      "lastUpdated" : "2025-09-06T06:49:59.336+0000",
+      "artist" : {
+         "mbid" : "39ab1aed-75e0-4140-bd47-540276886b60",
+         "name" : "Oasis",
+         "sortName" : "Oasis",
+         "disambiguation" : "Noel & Liam Gallagher",
+         "url" : "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Oasis Live ’25"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Love You",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "Fuckin' in the Bushes",
+               "tape" : true
+            }, {
+               "name" : "Hello"
+            }, {
+               "name" : "Acquiesce"
+            }, {
+               "name" : "Morning Glory"
+            }, {
+               "name" : "Some Might Say"
+            }, {
+               "name" : "Bring It On Down"
+            }, {
+               "name" : "Cigarettes & Alcohol"
+            }, {
+               "name" : "Fade Away",
+               "info" : "Dedicated to the 'naughty Mancunians'"
+            }, {
+               "name" : "Supersonic"
+            }, {
+               "name" : "Roll With It"
+            }, {
+               "name" : "Talk Tonight"
+            }, {
+               "name" : "Half the World Away",
+               "info" : "dedicated to the Irish in the crowd"
+            }, {
+               "name" : "Little by Little"
+            }, {
+               "name" : "D'You Know What I Mean?"
+            }, {
+               "name" : "Stand by Me"
+            }, {
+               "name" : "Cast No Shadow"
+            }, {
+               "name" : "Slide Away",
+               "info" : "dedicated to the \"love birds\" in the crowd"
+            }, {
+               "name" : "Whatever",
+               "info" : "with a snippet of The Beatles' \"Octopus's  Garden\""
+            }, {
+               "name" : "Live Forever"
+            }, {
+               "name" : "Rock 'n' Roll Star",
+               "info" : "dedicated to John McEnroe"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Masterplan",
+               "info" : "with band introductions"
+            }, {
+               "name" : "Don't Look Back in Anger"
+            }, {
+               "name" : "Wonderwall"
+            }, {
+               "name" : "Champagne Supernova",
+               "info" : "followed by fireworks | quotes a line from Jimi Hendrix’s “Are You Experienced”"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/oasis/2025/metlife-stadium-east-rutherford-nj-1b5345e8.html"
+   }, {
+      "id" : "b53619e",
+      "versionId" : "g737c2a89",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-09-01T15:59:11.989+0000",
+      "artist" : {
+         "mbid" : "39ab1aed-75e0-4140-bd47-540276886b60",
+         "name" : "Oasis",
+         "sortName" : "Oasis",
+         "disambiguation" : "Noel & Liam Gallagher",
+         "url" : "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Oasis Live ’25"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "We Love You",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                  "name" : "The Rolling Stones",
+                  "sortName" : "Rolling Stones, The",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/the-rolling-stones-bd6ad22.html"
+               }
+            }, {
+               "name" : "Fuckin' in the Bushes",
+               "tape" : true
+            }, {
+               "name" : "Hello",
+               "info" : "Noel accidentally began to play 'Acquiesce' at beginning"
+            }, {
+               "name" : "Acquiesce"
+            }, {
+               "name" : "Morning Glory"
+            }, {
+               "name" : "Some Might Say"
+            }, {
+               "name" : "Bring It On Down"
+            }, {
+               "name" : "Cigarettes & Alcohol"
+            }, {
+               "name" : "Fade Away"
+            }, {
+               "name" : "Supersonic"
+            }, {
+               "name" : "Roll With It"
+            }, {
+               "name" : "Talk Tonight"
+            }, {
+               "name" : "Half the World Away",
+               "info" : "dedicated to ‘the Irish’"
+            }, {
+               "name" : "Little by Little"
+            }, {
+               "name" : "D'You Know What I Mean?",
+               "info" : "dedicated to ‘the warriors, not the worriers’"
+            }, {
+               "name" : "Stand by Me"
+            }, {
+               "name" : "Cast No Shadow"
+            }, {
+               "name" : "Slide Away",
+               "info" : "dedicated to ‘the lovebirds’"
+            }, {
+               "name" : "Whatever",
+               "info" : "with snippet of The Beatles’ ‘Octopus's Garden’"
+            }, {
+               "name" : "Live Forever",
+               "info" : "dedicated to 'the kiddies in Minneapolis'"
+            }, {
+               "name" : "Rock 'n' Roll Star"
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "The Masterplan",
+               "info" : "preceded by band introductions"
+            }, {
+               "name" : "Don't Look Back in Anger"
+            }, {
+               "name" : "Wonderwall"
+            }, {
+               "name" : "Champagne Supernova",
+               "info" : "followed by fireworks"
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck (without Liam):  \"Acquiesce\", \"Some Might Say\", \"Bring It On Down\", \"Half the World Away\", \"D'You Know What I Mean?\", \"Rock 'n' Roll Star\" and \"Champagne Supernova\".",
+      "url" : "https://www.setlist.fm/setlist/oasis/2025/metlife-stadium-east-rutherford-nj-b53619e.html"
+   }, {
+      "id" : "5b458b48",
+      "versionId" : "g7b7c3e88",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-08-31T23:03:42.189+0000",
+      "artist" : {
+         "mbid" : "a6f84719-b3da-42f0-be81-8fe03545efed",
+         "name" : "Cast",
+         "sortName" : "Cast",
+         "disambiguation" : "British indie band",
+         "url" : "https://www.setlist.fm/setlists/cast-63d6d203.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Free Me"
+            }, {
+               "name" : "Sandstorm"
+            }, {
+               "name" : "Finetime"
+            }, {
+               "name" : "Live the Dream"
+            }, {
+               "name" : "Walkaway"
+            }, {
+               "name" : "Poison Vine"
+            }, {
+               "name" : "Alright"
+            } ]
+         } ]
+      },
+      "info" : "First U.S. show since 1996",
+      "url" : "https://www.setlist.fm/setlist/cast/2025/metlife-stadium-east-rutherford-nj-5b458b48.html"
+   }, {
+      "id" : "1b53618c",
+      "versionId" : "g537c67c5",
+      "eventDate" : "31-08-2025",
+      "lastUpdated" : "2025-09-04T01:59:26.076+0000",
+      "artist" : {
+         "mbid" : "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+         "name" : "Cage the Elephant",
+         "sortName" : "Cage the Elephant",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/cage-the-elephant-73d60aa9.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Broken Boy"
+            }, {
+               "name" : "Spiderhead"
+            }, {
+               "name" : "Cold Cold Cold"
+            }, {
+               "name" : "Ready to Let Go"
+            }, {
+               "name" : "Social Cues"
+            }, {
+               "name" : "Trouble",
+               "info" : "followed by band introductions"
+            }, {
+               "name" : "Ain't No Rest for the Wicked"
+            }, {
+               "name" : "Telescope"
+            }, {
+               "name" : "Shake Me Down"
+            }, {
+               "name" : "Cigarette Daydreams"
+            }, {
+               "name" : "Come a Little Closer"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for Oasis",
+      "url" : "https://www.setlist.fm/setlist/cage-the-elephant/2025/metlife-stadium-east-rutherford-nj-1b53618c.html"
+   }, {
+      "id" : "5b5f2308",
+      "versionId" : "g137c6525",
+      "eventDate" : "28-08-2025",
+      "lastUpdated" : "2025-09-03T23:41:44.599+0000",
+      "artist" : {
+         "mbid" : "ca02d886-40fc-4bc9-9785-5c97eb37acaa",
+         "name" : "Wisp",
+         "sortName" : "Wisp",
+         "disambiguation" : "shoegaze artist based in San Francisco, California",
+         "url" : "https://www.setlist.fm/setlists/wisp-73e66645.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pandora"
+            }, {
+               "name" : "Save me now"
+            }, {
+               "name" : "Guide light"
+            }, {
+               "name" : "Once then we’ll be free"
+            }, {
+               "name" : "Sword"
+            }, {
+               "name" : "I remember how your hands felt on mine"
+            }, {
+               "name" : "Your face"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wisp/2025/metlife-stadium-east-rutherford-nj-5b5f2308.html"
+   }, {
+      "id" : "535f2309",
+      "versionId" : "g537c97c5",
+      "eventDate" : "28-08-2025",
+      "lastUpdated" : "2025-08-28T22:51:55.187+0000",
+      "artist" : {
+         "mbid" : "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+         "name" : "Polyphia",
+         "sortName" : "Polyphia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/polyphia-63ddc2d3.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Loud"
+            }, {
+               "name" : "Chimera"
+            }, {
+               "name" : "Goose"
+            }, {
+               "name" : "40oz"
+            }, {
+               "name" : "The Worst"
+            }, {
+               "name" : "Champagne"
+            }, {
+               "name" : "Euphoria"
+            }, {
+               "name" : "Playing God"
+            }, {
+               "name" : "G.O.A.T."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/polyphia/2025/metlife-stadium-east-rutherford-nj-535f2309.html"
+   }, {
+      "id" : "4b5f2316",
+      "versionId" : "g7b7c3200",
+      "eventDate" : "28-08-2025",
+      "lastUpdated" : "2025-09-01T09:00:58.782+0000",
+      "artist" : {
+         "mbid" : "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+         "name" : "System of a Down",
+         "sortName" : "System of a Down",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "2025 North American Stadium Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "One Flew Over the Cuckoo's Nest (Opening Theme)",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "28a20b09-5ef7-4f81-878a-a5d8aef5ab1c",
+                  "name" : "Jack Nitzsche",
+                  "sortName" : "Nitzsche, Jack",
+                  "disambiguation" : "American musician and score composer",
+                  "url" : "https://www.setlist.fm/setlists/jack-nitzsche-2bd61c6a.html"
+               }
+            }, {
+               "name" : "X"
+            }, {
+               "name" : "Suite-Pee"
+            }, {
+               "name" : "Prison Song"
+            }, {
+               "name" : "Violent Pornography"
+            }, {
+               "name" : "Soldier Side - Intro"
+            }, {
+               "name" : "B.Y.O.B."
+            }, {
+               "name" : "Science"
+            }, {
+               "name" : "Needles"
+            }, {
+               "name" : "Deer Dance"
+            }, {
+               "name" : "Radio/Video"
+            }, {
+               "name" : "Dreaming",
+               "info" : "breakdown only"
+            }, {
+               "name" : "Hypnotize"
+            }, {
+               "name" : "ATWA"
+            }, {
+               "name" : "Bounce"
+            }, {
+               "name" : "Suggestions"
+            }, {
+               "name" : "Psycho",
+               "info" : "with “Let The Music Play” by Shannon intro"
+            }, {
+               "name" : "Chop Suey!"
+            }, {
+               "name" : "Lonely Day",
+               "info" : "with ‘Careless Whisper’ Intro"
+            }, {
+               "name" : "Lost in Hollywood",
+               "info" : "with ‘Won’t Get Fooled Again’ by The Who Tease"
+            }, {
+               "name" : "Snowblind",
+               "cover" : {
+                  "mbid" : "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name" : "Black Sabbath",
+                  "sortName" : "Black Sabbath",
+                  "disambiguation" : "English heavy metal band",
+                  "url" : "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+               },
+               "info" : "tribute to Ozzy Osbourne"
+            }, {
+               "name" : "Aerials"
+            }, {
+               "name" : "Cigaro"
+            }, {
+               "name" : "Forest"
+            }, {
+               "name" : "Roulette"
+            }, {
+               "name" : "Toxicity"
+            }, {
+               "name" : "Sugar"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/system-of-a-down/2025/metlife-stadium-east-rutherford-nj-4b5f2316.html"
+   }, {
+      "id" : "435f230b",
+      "versionId" : "g37c25bf",
+      "eventDate" : "28-08-2025",
+      "lastUpdated" : "2025-09-01T16:46:24.481+0000",
+      "artist" : {
+         "mbid" : "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+         "name" : "Korn",
+         "sortName" : "Korn",
+         "disambiguation" : "US nu metal band",
+         "url" : "https://www.setlist.fm/setlists/korn-4bd6d3fe.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Blind"
+            }, {
+               "name" : "Twist"
+            }, {
+               "name" : "Here to Stay"
+            }, {
+               "name" : "Got the Life"
+            }, {
+               "name" : "Clown"
+            }, {
+               "name" : "Did My Time"
+            }, {
+               "name" : "Porno Creep"
+            }, {
+               "name" : "Shoots and Ladders",
+               "info" : "Metallica's \"One\" outro"
+            }, {
+               "name" : "Cold"
+            }, {
+               "name" : "Twisted Transistor"
+            }, {
+               "name" : "Dirty"
+            }, {
+               "name" : "Somebody Someone"
+            }, {
+               "name" : "A.D.I.D.A.S."
+            }, {
+               "name" : "Y'All Want a Single"
+            }, {
+               "name" : "4 U"
+            }, {
+               "name" : "Falling Away From Me"
+            }, {
+               "name" : "Freak on a Leash"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for System Of A Down",
+      "url" : "https://www.setlist.fm/setlist/korn/2025/metlife-stadium-east-rutherford-nj-435f230b.html"
+   }, {
+      "id" : "7b5f0228",
+      "versionId" : "g3b7dbc38",
+      "eventDate" : "27-08-2025",
+      "lastUpdated" : "2025-09-05T15:59:27.554+0000",
+      "artist" : {
+         "mbid" : "ca02d886-40fc-4bc9-9785-5c97eb37acaa",
+         "name" : "Wisp",
+         "sortName" : "Wisp",
+         "disambiguation" : "shoegaze artist based in San Francisco, California",
+         "url" : "https://www.setlist.fm/setlists/wisp-73e66645.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Pandora"
+            }, {
+               "name" : "Save me now"
+            }, {
+               "name" : "Guide light"
+            }, {
+               "name" : "Once then we’ll be free"
+            }, {
+               "name" : "Sword"
+            }, {
+               "name" : "Black swan"
+            }, {
+               "name" : "Your face"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/wisp/2025/metlife-stadium-east-rutherford-nj-7b5f0228.html"
+   }, {
+      "id" : "735f0231",
+      "versionId" : "g1b7c25bc",
+      "eventDate" : "27-08-2025",
+      "lastUpdated" : "2025-09-01T16:46:52.548+0000",
+      "artist" : {
+         "mbid" : "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+         "name" : "Korn",
+         "sortName" : "Korn",
+         "disambiguation" : "US nu metal band",
+         "url" : "https://www.setlist.fm/setlists/korn-4bd6d3fe.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Blind"
+            }, {
+               "name" : "Twist"
+            }, {
+               "name" : "Here to Stay"
+            }, {
+               "name" : "Got the Life"
+            }, {
+               "name" : "Clown"
+            }, {
+               "name" : "Rotting in Vain"
+            }, {
+               "name" : "Porno Creep"
+            }, {
+               "name" : "Shoots and Ladders",
+               "info" : "Metallica's \"One\" outro"
+            }, {
+               "name" : "Cold"
+            }, {
+               "name" : "Coming Undone",
+               "info" : "interpolation of Queen's \"We Will Rock You\""
+            }, {
+               "name" : "Dirty"
+            }, {
+               "name" : "A.D.I.D.A.S."
+            }, {
+               "name" : "Somebody Someone"
+            }, {
+               "name" : "Y'All Want a Single"
+            }, {
+               "name" : "4 U"
+            }, {
+               "name" : "Falling Away From Me"
+            }, {
+               "name" : "Divine"
+            }, {
+               "name" : "Freak on a Leash"
+            } ]
+         } ]
+      },
+      "info" : "Opening act for System Of A Down",
+      "url" : "https://www.setlist.fm/setlist/korn/2025/metlife-stadium-east-rutherford-nj-735f0231.html"
+   }, {
+      "id" : "6b5f023a",
+      "versionId" : "g130cdd35",
+      "eventDate" : "27-08-2025",
+      "lastUpdated" : "2026-09-09T22:46:47.594+0000",
+      "artist" : {
+         "mbid" : "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+         "name" : "System of a Down",
+         "sortName" : "System of a Down",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "2025 North American Stadium Tour"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Soldier Side - Intro"
+            }, {
+               "name" : "B.Y.O.B."
+            }, {
+               "name" : "Suite-Pee",
+               "info" : "with \"South of Heaven\" (Slayer) guitar snippet during second verse"
+            }, {
+               "name" : "Prison Song"
+            }, {
+               "name" : "Aerials"
+            }, {
+               "name" : "Science"
+            }, {
+               "name" : "Needles"
+            }, {
+               "name" : "Deer Dance"
+            }, {
+               "name" : "Darts"
+            }, {
+               "name" : "Radio/Video"
+            }, {
+               "name" : "Dreaming",
+               "info" : "breakdown only"
+            }, {
+               "name" : "Hypnotize"
+            }, {
+               "name" : "ATWA"
+            }, {
+               "name" : "Bounce"
+            }, {
+               "name" : "Suggestions"
+            }, {
+               "name" : "Psycho",
+               "info" : "with \"Planet Rock\" (Afrika Bambaataa) guitar snippet during intro"
+            }, {
+               "name" : "Chop Suey!"
+            }, {
+               "name" : "Lonely Day",
+               "info" : "with “Our Lips Are Sealed” (The Go-Go’s) intro"
+            }, {
+               "name" : "Lost in Hollywood",
+               "info" : "with “Won’t Get Fooled Again” (The Who) tease"
+            }, {
+               "name" : "Snowblind",
+               "cover" : {
+                  "mbid" : "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name" : "Black Sabbath",
+                  "sortName" : "Black Sabbath",
+                  "disambiguation" : "English heavy metal band",
+                  "url" : "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+               },
+               "info" : "tribute to Ozzy Osbourne; first time since 2002"
+            }, {
+               "name" : "Tentative",
+               "info" : "first time since 2015"
+            }, {
+               "name" : "Mind"
+            }, {
+               "name" : "DAM"
+            }, {
+               "name" : "War?"
+            }, {
+               "name" : "Toxicity"
+            }, {
+               "name" : "Sugar"
+            } ]
+         } ]
+      },
+      "info" : "",
+      "url" : "https://www.setlist.fm/setlist/system-of-a-down/2025/metlife-stadium-east-rutherford-nj-6b5f023a.html"
+   }, {
+      "id" : "635f0237",
+      "versionId" : "g4b7c97ca",
+      "eventDate" : "27-08-2025",
+      "lastUpdated" : "2025-08-28T22:50:29.682+0000",
+      "artist" : {
+         "mbid" : "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+         "name" : "Polyphia",
+         "sortName" : "Polyphia",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/polyphia-63ddc2d3.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Loud"
+            }, {
+               "name" : "Chimera"
+            }, {
+               "name" : "O.D."
+            }, {
+               "name" : "Goose"
+            }, {
+               "name" : "40oz"
+            }, {
+               "name" : "The Worst"
+            }, {
+               "name" : "Champagne"
+            }, {
+               "name" : "Euphoria"
+            }, {
+               "name" : "Playing God"
+            }, {
+               "name" : "G.O.A.T."
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/polyphia/2025/metlife-stadium-east-rutherford-nj-635f0237.html"
+   }, {
+      "id" : "b4695ea",
+      "versionId" : "gb7e11fe",
+      "eventDate" : "13-08-2025",
+      "lastUpdated" : "2025-08-17T01:30:21.277+0000",
+      "artist" : {
+         "mbid" : "c234fa42-e6a6-443e-937e-2f4b073538a3",
+         "name" : "Chris Brown",
+         "sortName" : "Brown, Chris",
+         "disambiguation" : "US R&B/pop singer and dancer",
+         "url" : "https://www.setlist.fm/setlists/chris-brown-3bd6bc40.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Breezy Bowl XX"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chris-brown/2025/metlife-stadium-east-rutherford-nj-b4695ea.html"
+   }, {
+      "id" : "4b424b16",
+      "versionId" : "g33702081",
+      "eventDate" : "13-08-2025",
+      "lastUpdated" : "2025-08-01T07:33:40.131+0000",
+      "artist" : {
+         "mbid" : "9167f739-da47-4495-9d63-9c13b40114ac",
+         "name" : "Summer Walker",
+         "sortName" : "Walker, Summer",
+         "disambiguation" : "R&B singer",
+         "url" : "https://www.setlist.fm/setlists/summer-walker-3bc83c30.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/summer-walker/2025/metlife-stadium-east-rutherford-nj-4b424b16.html"
+   }, {
+      "id" : "4b586b76",
+      "versionId" : "g137e11f9",
+      "eventDate" : "12-08-2025",
+      "lastUpdated" : "2025-08-17T01:29:48.217+0000",
+      "artist" : {
+         "mbid" : "c234fa42-e6a6-443e-937e-2f4b073538a3",
+         "name" : "Chris Brown",
+         "sortName" : "Brown, Chris",
+         "disambiguation" : "US R&B/pop singer and dancer",
+         "url" : "https://www.setlist.fm/setlists/chris-brown-3bd6bc40.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Breezy Bowl XX"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/chris-brown/2025/metlife-stadium-east-rutherford-nj-4b586b76.html"
+   }, {
+      "id" : "43424b17",
+      "versionId" : "g2b702082",
+      "eventDate" : "12-08-2025",
+      "lastUpdated" : "2025-08-01T07:33:23.184+0000",
+      "artist" : {
+         "mbid" : "9167f739-da47-4495-9d63-9c13b40114ac",
+         "name" : "Summer Walker",
+         "sortName" : "Walker, Summer",
+         "disambiguation" : "R&B singer",
+         "url" : "https://www.setlist.fm/setlists/summer-walker-3bc83c30.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/summer-walker/2025/metlife-stadium-east-rutherford-nj-43424b17.html"
+   }, {
+      "id" : "6b581256",
+      "versionId" : "g337154e5",
+      "eventDate" : "10-08-2025",
+      "lastUpdated" : "2025-08-11T00:05:55.174+0000",
+      "artist" : {
+         "mbid" : "09885b8e-f235-4b80-a02a-055539493173",
+         "name" : "The All‐American Rejects",
+         "sortName" : "All‐American Rejects, The",
+         "disambiguation" : "US rock band",
+         "url" : "https://www.setlist.fm/setlists/the-allamerican-rejects-2bd6b8ea.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Greetings From Your Hometown"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Swing, Swing"
+            }, {
+               "name" : "Dirty Little Secret"
+            }, {
+               "name" : "Sandbox"
+            }, {
+               "name" : "It Ends Tonight"
+            }, {
+               "name" : "Easy Come, Easy Go",
+               "cover" : {
+                  "mbid" : "fc61ac29-d1fc-4e4d-85aa-dcbba9e485c4",
+                  "name" : "Tyson Ritter",
+                  "sortName" : "Ritter, Tyson",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/tyson-ritter-33d73095.html"
+               }
+            }, {
+               "name" : "Move Along"
+            }, {
+               "name" : "Gives You Hell"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/the-allamerican-rejects/2025/metlife-stadium-east-rutherford-nj-6b581256.html"
+   }, {
+      "id" : "4b5833a2",
+      "versionId" : "g6b66a632",
+      "eventDate" : "10-08-2025",
+      "lastUpdated" : "2025-10-14T20:45:40.899+0000",
+      "artist" : {
+         "mbid" : "6e019bc6-5c23-4935-94f0-4a896631d846",
+         "name" : "Jonas Brothers",
+         "sortName" : "Jonas Brothers",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/jonas-brothers-43d6d3d7.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Jonas 20: Greetings From Your Hometown"
+      },
+      "sets" : {
+         "set" : [ {
+            "name" : "Intro",
+            "song" : [ {
+               "name" : "Greetings From Your Hometown",
+               "tape" : true,
+               "info" : "Instrumental plays during intro video"
+            } ]
+         }, {
+            "name" : "Act I",
+            "song" : [ {
+               "name" : "Lovebug"
+            }, {
+               "name" : "Love Me to Heaven",
+               "info" : "With an interlude in which Nick, Joe, and Kevin Jonas give short speeches about their hometowns"
+            }, {
+               "name" : "Only Human"
+            }, {
+               "name" : "S.O.S."
+            }, {
+               "name" : "Sucker"
+            }, {
+               "name" : "Meant to Live",
+               "cover" : {
+                  "mbid" : "ff865aa0-4603-4f79-ae8b-8735332e2cfa",
+                  "name" : "Switchfoot",
+                  "sortName" : "Switchfoot",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/switchfoot-1bd6e504.html"
+               },
+               "with" : {
+                  "mbid" : "ff865aa0-4603-4f79-ae8b-8735332e2cfa",
+                  "name" : "Switchfoot",
+                  "sortName" : "Switchfoot",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/switchfoot-1bd6e504.html"
+               }
+            }, {
+               "name" : "Hold On",
+               "info" : "Shortened",
+               "with" : {
+                  "mbid" : "ff865aa0-4603-4f79-ae8b-8735332e2cfa",
+                  "name" : "Switchfoot",
+                  "sortName" : "Switchfoot",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/switchfoot-1bd6e504.html"
+               }
+            }, {
+               "name" : "Little Bird"
+            }, {
+               "name" : "Summer Baby / Still in Love With You",
+               "info" : "Acoustic; fan requests after the Jonas Brothers did a gender reveal for a fan in the crowd"
+            }, {
+               "name" : "I Can't Lose"
+            }, {
+               "name" : "Waffle House"
+            }, {
+               "name" : "Beautiful Soul",
+               "cover" : {
+                  "mbid" : "9d075d6e-9492-4343-ac95-93a808f61477",
+                  "name" : "Jesse McCartney",
+                  "sortName" : "McCartney, Jesse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-mccartney-1bd6bdb0.html"
+               },
+               "with" : {
+                  "mbid" : "9d075d6e-9492-4343-ac95-93a808f61477",
+                  "name" : "Jesse McCartney",
+                  "sortName" : "McCartney, Jesse",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jesse-mccartney-1bd6bdb0.html"
+               }
+            }, {
+               "name" : "Vacation Eyes"
+            }, {
+               "name" : "Celebrate!"
+            }, {
+               "name" : "No Time to Talk",
+               "info" : "Shortened, but with a dance break interlude as Joe Jonas films people in the crowd dancing"
+            }, {
+               "name" : "Cake by the Ocean",
+               "cover" : {
+                  "mbid" : "b02dc689-7859-461d-b70e-9fe1f64fddce",
+                  "name" : "DNCE",
+                  "sortName" : "DNCE",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/dnce-3c4a9e3.html"
+               }
+            }, {
+               "name" : "Slow Motion",
+               "cover" : {
+                  "mbid" : "6b4a556b-5e61-4d96-918b-62bfd866e753",
+                  "name" : "Marshmello & Jonas Brothers",
+                  "sortName" : "Marshmello & Jonas Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-and-jonas-brothers-7bf2fa04.html"
+               },
+               "info" : "Shortened",
+               "with" : {
+                  "mbid" : "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+                  "name" : "Marshmello",
+                  "sortName" : "Marshmello",
+                  "disambiguation" : "US | electronic",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-3c7813b.html"
+               }
+            } ]
+         }, {
+            "name" : "Act II",
+            "song" : [ {
+               "name" : "Leave Before You Love Me",
+               "cover" : {
+                  "mbid" : "6b4a556b-5e61-4d96-918b-62bfd866e753",
+                  "name" : "Marshmello & Jonas Brothers",
+                  "sortName" : "Marshmello & Jonas Brothers",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-and-jonas-brothers-7bf2fa04.html"
+               },
+               "with" : {
+                  "mbid" : "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+                  "name" : "Marshmello",
+                  "sortName" : "Marshmello",
+                  "disambiguation" : "US | electronic",
+                  "url" : "https://www.setlist.fm/setlists/marshmello-3c7813b.html"
+               }
+            }, {
+               "name" : "Jealous",
+               "cover" : {
+                  "mbid" : "943e3724-27e7-4e23-9b1c-cc5d46b5bcc7",
+                  "name" : "Nick Jonas",
+                  "sortName" : "Jonas, Nick",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/nick-jonas-53dceb59.html"
+               }
+            }, {
+               "name" : "What a Man Gotta Do"
+            }, {
+               "name" : "Walls",
+               "info" : "Shortened"
+            }, {
+               "name" : "Loved You Better",
+               "info" : "Dean Lewis also plays the piano",
+               "with" : {
+                  "mbid" : "21e9df94-3c2c-4c15-b069-fefa58bcd650",
+                  "name" : "Dean Lewis",
+                  "sortName" : "Lewis, Dean",
+                  "disambiguation" : "singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/dean-lewis-33ce743d.html"
+               }
+            }, {
+               "name" : "Chains / What This Could Be",
+               "info" : "Nick Jonas also plays the piano for both songs"
+            }, {
+               "name" : "Conspiracy Theory / Just in Love / Bacon / Toothbrush / Delicious / Unsweet / Levels / Dancing Feet",
+               "info" : "\"Versus Megamix\""
+            }, {
+               "name" : "Gotta Find You",
+               "cover" : {
+                  "mbid" : "79e1bb77-fd8b-42ab-8043-892af5370f0b",
+                  "name" : "Joe Jonas",
+                  "sortName" : "Jonas, Joe",
+                  "disambiguation" : "of the Jonas Brothers",
+                  "url" : "https://www.setlist.fm/setlists/joe-jonas-43d657db.html"
+               },
+               "info" : "Shortened"
+            }, {
+               "name" : "This Is Me",
+               "cover" : {
+                  "mbid" : "faf4cefb-036c-4c88-b93a-5b03dd0a0e6b",
+                  "name" : "Demi Lovato",
+                  "sortName" : "Lovato, Demi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/demi-lovato-4bd67fae.html"
+               },
+               "with" : {
+                  "mbid" : "faf4cefb-036c-4c88-b93a-5b03dd0a0e6b",
+                  "name" : "Demi Lovato",
+                  "sortName" : "Lovato, Demi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/demi-lovato-4bd67fae.html"
+               }
+            }, {
+               "name" : "Wouldn't Change a Thing",
+               "cover" : {
+                  "mbid" : "2921a03d-31dd-44ea-b53f-bc549e94b78c",
+                  "name" : "Demi Lovato & Joe Jonas",
+                  "sortName" : "Lovato, Demi & Jonas, Joe",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/demi-lovato-and-joe-jonas-7bd65a84.html"
+               },
+               "info" : "First live performance by the Jonas Brothers since 2010",
+               "with" : {
+                  "mbid" : "faf4cefb-036c-4c88-b93a-5b03dd0a0e6b",
+                  "name" : "Demi Lovato",
+                  "sortName" : "Lovato, Demi",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/demi-lovato-4bd67fae.html"
+               }
+            }, {
+               "name" : "Year 3000",
+               "cover" : {
+                  "mbid" : "35b9706f-a6bb-4876-acf3-94fb82c62388",
+                  "name" : "Busted",
+                  "sortName" : "Busted",
+                  "disambiguation" : "English band",
+                  "url" : "https://www.setlist.fm/setlists/busted-13d6bd09.html"
+               }
+            }, {
+               "name" : "Burnin' Up",
+               "with" : {
+                  "mbid" : "b9c0fc9c-6cde-4955-993e-4263a0656425",
+                  "name" : "Big Rob",
+                  "sortName" : "Big Rob",
+                  "disambiguation" : "Jonas Brothers bodyguard",
+                  "url" : "https://www.setlist.fm/setlists/big-rob-3fe01fb.html"
+               }
+            } ]
+         }, {
+            "encore" : 1,
+            "song" : [ {
+               "name" : "Please Be Mine"
+            }, {
+               "name" : "When You Look Me in the Eyes",
+               "info" : "also with Franklin Jonas; Denise, Danielle, Alena, and Valentina Jonas were also onstage",
+               "with" : {
+                  "mbid" : "dddbea48-b864-4370-b395-bd1514443dbd",
+                  "name" : "Kevin Jonas, Sr.",
+                  "sortName" : "Jonas, Kevin, Sr.",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kevin-jonas-sr-73f89ed5.html"
+               }
+            } ]
+         } ]
+      },
+      "info" : "Marshmello played a 20-minute solo DJ set in between the two acts as the Jonas Brothers went backstage for a break. First live performances of of \"Conspiracy Theory\" since 2010, \"Just in Love\" since 2013, and \"Unsweet\" since 2017.",
+      "url" : "https://www.setlist.fm/setlist/jonas-brothers/2025/metlife-stadium-east-rutherford-nj-4b5833a2.html"
+   } ]
+}

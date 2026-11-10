@@ -4,6 +4,9 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>NYC Setlist Analyst</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
         <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
@@ -11,119 +14,248 @@
         <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
         <style>
             :root {
-                --bg: #0e0d12;
-                --panel: #17161e;
-                --line: #2a2835;
-                --text: #eeedf3;
-                --muted: #9b99aa;
-                --accent: #ff4f7b;
-                --gold: #ffcf4a;
-                --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+                --yellow: #fae571;
+                --ink: #111111;
+                --white: #ffffff;
+                --pink: #ef6aa1;
+                --mint: #84e0b8;
+                --lilac: #c5b6f7;
+                --orange: #f29c5b;
+                --sky: #8fd0f8;
+                --blue: #3f5cf2;
+                --display: "Archivo Black", "Arial Black", Impact, system-ui, sans-serif;
+                --body: "DM Sans", system-ui, sans-serif;
+                --mono: "Space Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+                --shadow: 4px 4px 0 var(--ink);
             }
             * { box-sizing: border-box; margin: 0; padding: 0; }
-            body { font-family: system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; }
-            a { color: var(--gold); }
-            .wrap { max-width: 980px; margin: 0 auto; padding: 0 1rem; }
+            body { font-family: var(--body); background: var(--yellow); color: var(--ink); line-height: 1.5; }
+            a { color: var(--ink); font-weight: 700; }
+            button { font-family: inherit; color: var(--ink); }
+            :focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
+            .wrap { max-width: 980px; margin: 0 auto; padding: 1.6rem 1.25rem 2rem; }
 
-            header { padding: 2.5rem 0 1rem; }
-            .ticket { display: inline-block; font-family: var(--mono); font-size: .7rem; letter-spacing: .15em;
-                      text-transform: uppercase; color: var(--gold); border: 1px dashed var(--gold); padding: .15rem .5rem; border-radius: 4px; }
-            h1 { font-size: clamp(1.8rem, 5vw, 2.6rem); letter-spacing: -.02em; margin-top: .6rem; }
-            h1 span { color: var(--accent); }
-            .tagline { color: var(--muted); margin-top: .3rem; max-width: 640px; }
+            /* top bar */
+            .topbar { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; }
+            .pill { display: inline-block; background: var(--ink); color: var(--yellow); font-family: var(--display);
+                    font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; padding: .45rem .9rem; border-radius: 999px; }
+            .admit { display: inline-block; background: var(--pink); border: 2px solid var(--ink); box-shadow: 3px 3px 0 var(--ink);
+                     font-family: var(--mono); font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+                     padding: .35rem .7rem; transform: rotate(2.5deg); }
 
-            .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: .8rem; margin: 1.2rem 0; }
-            .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: .9rem 1rem; }
-            .card h2 { font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; color: var(--gold); margin-bottom: .35rem; }
-            .card p { font-size: .9rem; color: #d3d2dc; }
+            /* hero */
+            .hero { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); gap: 1rem; align-items: center; margin-top: 1.2rem; }
+            h1 { font-family: var(--display); font-weight: 400; font-size: clamp(2.8rem, 9vw, 5.8rem); line-height: .98; letter-spacing: -.02em; }
+            h1 .hl { display: inline-block; background: var(--blue); color: var(--white); border: 3px solid var(--ink);
+                     box-shadow: 5px 5px 0 var(--ink); padding: .02em .2em .06em; margin-top: .12em; transform: rotate(-2deg); }
+            .lede { margin-top: 1.1rem; max-width: 34rem; font-size: 1rem; }
+            .why { display: inline-block; margin-top: 1rem; background: var(--white); border: 2px solid var(--ink); box-shadow: 3px 3px 0 var(--ink);
+                   font-family: var(--mono); font-size: .72rem; padding: .55rem .8rem; max-width: 30rem; }
 
-            #examples { display: flex; flex-wrap: wrap; gap: .5rem; margin: .4rem 0 1.2rem; }
-            .chip { background: transparent; color: var(--text); border: 1px solid var(--line); border-radius: 999px;
-                    padding: .4rem .85rem; font-size: .84rem; cursor: pointer; text-align: left; }
-            .chip:hover { border-color: var(--accent); }
+            /* stat circles */
+            .stats { position: relative; height: 290px; }
+            .dot { position: absolute; border: 3px solid var(--ink); border-radius: 50%; box-shadow: 4px 4px 0 var(--ink);
+                   display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+            .dot b { font-family: var(--display); font-weight: 400; line-height: 1; }
+            .dot span { font-family: var(--mono); font-size: .58rem; letter-spacing: .06em; text-transform: uppercase; margin-top: .25rem; max-width: 7rem; }
+            .dot.a { width: 140px; height: 140px; left: 4%; top: 6%; background: var(--mint); }
+            .dot.a b { font-size: 2rem; }
+            .dot.b { width: 124px; height: 124px; right: 2%; top: 24%; background: var(--lilac); }
+            .dot.b b { font-size: 2.5rem; }
+            .dot.c { width: 150px; height: 150px; left: 28%; bottom: 0; background: var(--orange); }
+            .dot.c b { font-size: 1.9rem; }
 
-            #chat { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; margin-bottom: 1.5rem; }
-            #messages { min-height: 360px; max-height: 68vh; overflow-y: auto; padding: 1.25rem; display: flex; flex-direction: column; gap: 1.2rem; }
-            .msg .role { font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-bottom: .2rem; }
-            .msg.user { align-self: flex-end; max-width: 85%; background: #25232f; padding: .55rem .85rem; border-radius: 12px; }
+            /* what / who / how */
+            .facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .9rem; margin-top: 1.8rem; }
+            .fact { background: var(--white); border: 3px solid var(--ink); box-shadow: 4px 4px 0 var(--ink); border-radius: 12px; padding: .8rem .95rem .95rem; }
+            .fact h2 { display: inline-block; font-family: var(--display); font-weight: 400; font-size: .72rem; letter-spacing: .04em; text-transform: uppercase;
+                       border: 2px solid var(--ink); padding: .15rem .5rem; margin-bottom: .5rem; }
+            .fact:nth-child(1) { transform: rotate(-.5deg); } .fact:nth-child(1) h2 { background: var(--mint); }
+            .fact:nth-child(2) { transform: rotate(.4deg); }  .fact:nth-child(2) h2 { background: var(--lilac); }
+            .fact:nth-child(3) { transform: rotate(-.3deg); } .fact:nth-child(3) h2 { background: var(--orange); }
+            .fact p { font-size: .86rem; line-height: 1.45; }
+
+            /* ticket-style question box */
+            .ticketbox { display: grid; grid-template-columns: minmax(0, 1fr) 190px; margin-top: 2rem; background: var(--white);
+                         border: 3px solid var(--ink); box-shadow: 5px 5px 0 var(--ink); border-radius: 14px; overflow: hidden; }
+            .q { padding: .9rem 1.1rem; }
+            .q label { display: block; font-family: var(--mono); font-size: .62rem; letter-spacing: .12em; text-transform: uppercase; color: #555; }
+            .q input { width: 100%; border: none; border-bottom: 3px solid var(--ink); background: transparent; font: 500 1.05rem var(--body);
+                       padding: .5rem 0 .4rem; outline: none; color: var(--ink); }
+            .q input::placeholder { color: #6b6b6b; }
+            .q input:focus { border-bottom-color: var(--blue); }
+            .stub { background: var(--blue); border-left: 3px dotted var(--ink); padding: .9rem 1rem; display: flex; flex-direction: column; justify-content: center; gap: .45rem; }
+            .stub small { font-family: var(--mono); font-size: .62rem; letter-spacing: .12em; text-transform: uppercase; color: var(--white); }
+            .go { background: var(--yellow); border: 3px solid var(--ink); border-radius: 10px; box-shadow: 3px 3px 0 var(--ink); padding: .55rem .7rem;
+                  font: 700 1rem var(--body); cursor: pointer; }
+            .go:hover:not(:disabled) { transform: translate(-1px, -1px); box-shadow: 4px 4px 0 var(--ink); }
+            .go:active:not(:disabled) { transform: translate(2px, 2px); box-shadow: 1px 1px 0 var(--ink); }
+            .go:disabled { opacity: .5; cursor: wait; }
+
+            /* question stubs */
+            #examples { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; margin-top: 1.1rem; }
+            .chip { display: flex; gap: .55rem; align-items: flex-start; text-align: left; cursor: pointer; border: 3px solid var(--ink);
+                    border-radius: 10px; box-shadow: 3px 3px 0 var(--ink); padding: .65rem .75rem; font-size: .88rem; font-weight: 500; line-height: 1.3; }
+            .chip b { font-family: var(--display); font-weight: 400; font-size: 1.15rem; line-height: 1; }
+            .chip:nth-child(1) { background: var(--pink); transform: rotate(-.8deg); }
+            .chip:nth-child(2) { background: var(--mint); transform: rotate(.5deg); }
+            .chip:nth-child(3) { background: var(--lilac); transform: rotate(-.4deg); }
+            .chip:nth-child(4) { background: var(--orange); transform: rotate(.7deg); }
+            .chip:nth-child(5) { background: var(--sky); transform: rotate(-.5deg); }
+            .chip:nth-child(6) { background: var(--white); transform: rotate(.6deg); }
+            .chip:nth-child(7) { background: var(--sky); transform: rotate(.4deg); }
+            .chip:nth-child(8) { background: var(--pink); transform: rotate(-.6deg); }
+            .chip:nth-child(9) { background: var(--mint); transform: rotate(.5deg); }
+            .chip:hover { transform: translate(-2px, -2px) rotate(0); box-shadow: 5px 5px 0 var(--ink); }
+
+            /* answer card */
+            #chat { margin-top: 1.6rem; background: var(--white); border: 3px solid var(--ink); box-shadow: 5px 5px 0 var(--ink); border-radius: 16px; padding: 1.1rem 1.25rem 1.25rem; }
+            .cardtop { display: flex; justify-content: space-between; align-items: center; gap: .6rem; }
+            .tag { display: inline-block; background: var(--pink); border: 2px solid var(--ink); transform: rotate(-1.5deg);
+                   font-family: var(--display); font-size: .7rem; letter-spacing: .03em; text-transform: uppercase; padding: .2rem .55rem; }
+            .newchat { background: transparent; border: 2px solid var(--ink); border-radius: 999px; font: 700 .72rem var(--mono); letter-spacing: .06em;
+                       text-transform: uppercase; padding: .25rem .7rem; cursor: pointer; }
+            .newchat:hover { background: var(--yellow); }
+            #empty h2 { font-family: var(--display); font-weight: 400; font-size: clamp(1.5rem, 4.4vw, 2.3rem); line-height: 1.05; margin: .7rem 0 1rem; letter-spacing: -.01em; }
+            #empty .how { border: 2px solid var(--ink); border-radius: 10px; background: var(--yellow); font-family: var(--mono); font-size: .7rem;
+                          letter-spacing: .08em; text-transform: uppercase; padding: .55rem .8rem; }
+            #messages { display: flex; flex-direction: column; gap: 1.3rem; margin-top: .8rem; }
+            .msg { scroll-margin-top: .8rem; }
+            #messages:empty { display: none; }
+            .msg .role { font-family: var(--mono); font-size: .62rem; letter-spacing: .12em; text-transform: uppercase; color: #555; margin-bottom: .25rem; }
+            .msg.user { align-self: flex-end; max-width: 85%; background: var(--blue); color: var(--white); border: 2px solid var(--ink);
+                        box-shadow: 3px 3px 0 var(--ink); padding: .5rem .85rem .6rem; border-radius: 12px; }
+            .msg.user .role { color: #d8defd; }
             .msg.assistant { width: 100%; }
-            .msg.loading .content { color: var(--muted); }
-            .content p, .content ul, .content ol { margin: .35rem 0; }
-            .content li { margin-left: 1.2rem; }
+            .msg.loading .content { font-family: var(--mono); font-size: .85rem; }
+            .msg.loading .content::after { content: " ▮"; animation: blink 1s steps(2) infinite; }
+            @keyframes blink { 50% { opacity: 0; } }
+            .content p, .content ul, .content ol { margin: .45rem 0; }
+            .content li { margin-left: 1.3rem; }
+            .content h1, .content h2, .content h3 { font-family: var(--display); font-weight: 400; line-height: 1.1; margin: .8rem 0 .3rem; font-size: 1.15rem; }
+            .content table { border-collapse: collapse; margin: .6rem 0; font-size: .85rem; display: block; overflow-x: auto; }
+            .content th, .content td { border: 2px solid var(--ink); padding: .3rem .6rem; text-align: left; }
+            .content th { background: var(--mint); }
+            .content code { font-family: var(--mono); font-size: .85em; background: var(--yellow); padding: .05rem .3rem; border-radius: 4px; }
 
-            .result { overflow-x: auto; margin-top: .7rem; border: 1px solid var(--line); border-radius: 8px; }
+            .result { overflow-x: auto; margin-top: .8rem; border: 2px solid var(--ink); border-radius: 10px; }
             .result table { border-collapse: collapse; font-size: .8rem; width: 100%; }
-            .result th, .result td { padding: .35rem .6rem; text-align: left; border-bottom: 1px solid var(--line); white-space: nowrap; }
-            .result th { color: var(--gold); font-weight: 600; background: #1d1c25; }
-            .chart { background: #fff; border-radius: 8px; padding: .6rem; margin-top: .7rem; width: 100%; }
+            .result th, .result td { padding: .35rem .6rem; text-align: left; border-bottom: 1px solid #ddd; white-space: nowrap; }
+            .result th { background: var(--mint); border-bottom: 2px solid var(--ink); font-weight: 700; }
+            .chart { background: var(--white); border: 2px solid var(--ink); border-radius: 10px; padding: .6rem 1.2rem .6rem .6rem; margin-top: .8rem; width: 100%; }
 
-            details.trace { margin-top: .7rem; font-size: .8rem; }
-            details.trace summary { cursor: pointer; color: var(--muted); }
-            .tool { font-family: var(--mono); font-size: .72rem; background: #0f0e14; border-left: 3px solid var(--gold);
-                    padding: .45rem .65rem; margin: .4rem 0; white-space: pre-wrap; word-break: break-word; color: #c9c8d3; }
-            .tool b { color: var(--gold); font-weight: 600; }
-            .tool i { color: var(--accent); font-style: normal; }
+            details.trace { margin-top: .8rem; }
+            details.trace summary { cursor: pointer; list-style: none; border: 2px solid var(--ink); border-radius: 10px; background: var(--yellow);
+                                    font-family: var(--mono); font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; padding: .5rem .8rem; }
+            details.trace summary::-webkit-details-marker { display: none; }
+            details.trace summary::before { content: "▸ "; }
+            details.trace[open] summary::before { content: "▾ "; }
+            .tool { font-family: var(--mono); font-size: .72rem; background: #f6f6f1; border: 2px solid var(--ink); border-radius: 8px;
+                    padding: .5rem .7rem; margin-top: .5rem; white-space: pre-wrap; word-break: break-word; }
+            .tool b { font-weight: 700; }
+            .tool i { color: #b3256a; font-style: normal; }
 
-            form { display: flex; gap: .5rem; padding: .9rem; border-top: 1px solid var(--line); }
-            input { flex: 1; min-width: 0; background: #0f0e14; color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: .7rem .85rem; font-size: 1rem; outline: none; }
-            input:focus { border-color: var(--accent); }
-            button.send { background: var(--accent); color: #fff; border: none; border-radius: 8px; padding: 0 1.1rem; font-weight: 600; cursor: pointer; }
-            button.ghost { background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 8px; padding: 0 .8rem; cursor: pointer; }
-            button:disabled { opacity: .4; }
-            footer { color: var(--muted); font-size: .78rem; text-align: center; padding: 0 0 2rem; }
+            footer { margin-top: 1.6rem; font-family: var(--mono); font-size: .68rem; text-align: center; line-height: 1.7; }
+
+            @media (max-width: 760px) {
+                .hero { grid-template-columns: 1fr; }
+                .stats { height: 200px; order: 2; }
+                .dot.a { width: 104px; height: 104px; left: 0; top: 4%; } .dot.a b { font-size: 1.5rem; }
+                .dot.b { width: 92px; height: 92px; right: 0; top: 14%; } .dot.b b { font-size: 1.8rem; }
+                .dot.c { width: 112px; height: 112px; left: 34%; bottom: 0; } .dot.c b { font-size: 1.4rem; }
+                .dot span { font-size: .5rem; max-width: 4.4rem; line-height: 1.25; }
+                .facts { grid-template-columns: 1fr; }
+                .fact { transform: none !important; }
+                .ticketbox { grid-template-columns: 1fr; }
+                .stub { border-left: none; border-top: 3px dotted var(--ink); flex-direction: row; align-items: center; justify-content: space-between; }
+                #examples { grid-template-columns: 1fr; }
+                .chip { transform: none !important; }
+            }
+            @media (prefers-reduced-motion: reduce) { .msg.loading .content::after { animation: none; } .chip, .go { transition: none; } }
         </style>
     </head>
     <body>
         <div class="wrap">
-            <header>
-                <span class="ticket">Admit one · 20 NYC venues · 2022–2025</span>
-                <h1>NYC <span>Setlist</span> Analyst</h1>
-                <p class="tagline">What actually gets played at NYC shows, and who makes it from Bowery Ballroom to the Garden.</p>
-            </header>
+            <div class="topbar">
+                <span class="pill">NYC Setlist Analyst</span>
+                <span class="admit">Admit one · 21 NYC-area venues · 2022–2025</span>
+            </div>
 
-            <section class="cards">
-                <div class="card">
-                    <h2>What it explores</h2>
-                    <p>About 10,000 shows at 20 NYC venues, every song in order, from setlist.fm, matched to every Billboard Hot 100 chart since 1958.</p>
+            <section class="hero">
+                <div>
+                    <h1>Skip the<br /><span class="hl">guess-<br />work.</span></h1>
+                    <p class="lede"><strong>Find out what artists really play live.</strong> Ask whether your favorite artist plays your favorite song at NYC-area shows from Bowery Ballroom to MetLife (2022–2025), how many of their Hot 100 hits make the setlist, and who brought out surprise guests. Torn between nights of a run? See how past nights stacked up on guests, debuts and one-night-only songs, so you know what to expect.</p>
+                    <p class="why">Why this exists: a ticket is an investment, and picking a night shouldn't be a gamble. We put the setlists, the charts and the surprises in one place, so you can make the most of your night.</p>
                 </div>
-                <div class="card">
-                    <h2>Who it's for</h2>
-                    <p>Fans deciding which night to go, music writers checking a hunch, and anyone wondering whether their favorite artist still plays the hits.</p>
-                </div>
-                <div class="card">
-                    <h2>How to use it</h2>
-                    <p>Ask in plain English or tap a question below. Every answer shows its queries under "How I got this". It tells you when the data can't answer something.</p>
+                <div class="stats" aria-label="Dataset at a glance">
+                    <div class="dot a"><b>~10K</b><span>shows</span></div>
+                    <div class="dot b"><b>21</b><span>NYC-area venues</span></div>
+                    <div class="dot c"><b>1958→</b><span>every Hot 100 chart</span></div>
                 </div>
             </section>
 
+            <section class="facts" aria-label="About this agent">
+                <div class="fact">
+                    <h2>What it explores</h2>
+                    <p>About 10,400 shows at 21 NYC-area venues (2022–2025), every song in order from setlist.fm, matched to every Billboard Hot 100 chart since 1958.</p>
+                </div>
+                <div class="fact">
+                    <h2>Who it's for</h2>
+                    <p>Concert-goers choosing which night to buy, fans settling a "do they play the hits?" argument, and writers checking a hunch.</p>
+                </div>
+                <div class="fact">
+                    <h2>How to use it</h2>
+                    <p>Tap a numbered stub or type your own question. Every answer shows its queries under "How I got this", and it says so when the data can't answer.</p>
+                </div>
+            </section>
+
+            <form id="form" class="ticketbox">
+                <div class="q">
+                    <label for="input">Your question</label>
+                    <input id="input" type="text" placeholder="Does your favorite artist play your favorite song?" autocomplete="off" />
+                </div>
+                <div class="stub">
+                    <small>Admit one</small>
+                    <button class="go" id="send" type="submit">Play it →</button>
+                </div>
+            </form>
+
             <section id="examples">
-                <button class="chip">Which artists went from NYC clubs to headlining an arena, and how fast?</button>
-                <button class="chip">Who plays the most Hot 100 hits per show?</button>
-                <button class="chip">What did Olivia Rodrigo open and close with in NYC?</button>
-                <button class="chip">Which songs get covered most in NYC?</button>
-                <button class="chip">Who brought out the most surprise guests?</button>
-                <button class="chip">How much were tickets for Billy Joel at MSG?</button>
+                <button class="chip" type="button"><b>1</b><span>Which artists went from NYC clubs to headlining an arena, and how fast?</span></button>
+                <button class="chip" type="button"><b>2</b><span>Who plays the most Hot 100 hits per show?</span></button>
+                <button class="chip" type="button"><b>3</b><span>What did Olivia Rodrigo open and close with in NYC?</span></button>
+                <button class="chip" type="button"><b>4</b><span>Which songs get covered most in NYC?</span></button>
+                <button class="chip" type="button"><b>5</b><span>Who brought out the most surprise guests?</span></button>
+                <button class="chip" type="button"><b>6</b><span>How much were tickets for Billy Joel at MSG?</span></button>
+                <button class="chip" type="button"><b>7</b><span>I can go to one of Taylor Swift's three MetLife nights. Which one should I pick?</span></button>
+                <button class="chip" type="button"><b>8</b><span>Which venues get the most surprise guests and debuts?</span></button>
+                <button class="chip" type="button"><b>9</b><span>What are the odds of a surprise guest at a Billy Joel show at MSG?</span></button>
             </section>
 
             <section id="chat">
-                <div id="messages"></div>
-                <form id="form">
-                    <input id="input" type="text" placeholder="Ask about NYC setlists…" autocomplete="off" />
-                    <button class="send" id="send" type="submit">Ask</button>
-                    <button class="ghost" id="clear" type="button">New chat</button>
-                </form>
+                <div class="cardtop">
+                    <span class="tag" id="tag">Waiting for your pick</span>
+                    <button class="newchat" id="clear" type="button">New chat</button>
+                </div>
+                <div id="empty">
+                    <h2>Pick a stub or type your own. The answer lands here.</h2>
+                    <div class="how">▸ How I got this · every answer shows its queries</div>
+                </div>
+                <div id="messages" aria-live="polite"></div>
             </section>
 
             <footer>
                 Setlists from <a href="https://www.setlist.fm" target="_blank" rel="noopener">setlist.fm</a> ·
-                Charts from the Billboard Hot 100 via <a href="https://github.com/utdata/rwd-billboard-data" target="_blank" rel="noopener">utdata/rwd-billboard-data</a> ·
-                IEOR 4570, Columbia · nf2613 &amp; sr4213
+                Charts from the Billboard Hot 100 via <a href="https://github.com/utdata/rwd-billboard-data" target="_blank" rel="noopener">utdata/rwd-billboard-data</a><br />
+                It tells you when the data can't answer something · IEOR 4570, Columbia · nf2613 &amp; sr4213
             </footer>
         </div>
         <script>
             const messages = document.getElementById("messages");
             const input = document.getElementById("input");
             const sendBtn = document.getElementById("send");
+            const empty = document.getElementById("empty");
+            const tag = document.getElementById("tag");
             let sessionId = null;
 
             // Build DOM with textContent: model and tool output is untrusted.
@@ -136,10 +268,11 @@
             function parse(s) { try { return JSON.parse(s); } catch { return null; } }
 
             function addMessage(role, text, loading = false) {
+                empty.hidden = true;
+                tag.textContent = "Your answer";
                 const div = el("div", "msg " + (role === "you" ? "user" : "assistant") + (loading ? " loading" : ""));
                 div.append(el("div", "role", role), el("div", "content", text));
                 messages.appendChild(div);
-                messages.scrollTop = messages.scrollHeight;
                 return div;
             }
 
@@ -190,7 +323,7 @@
                     if (last) div.appendChild(table(last));
                 }
                 if (calls.length) div.appendChild(trace(calls));
-                messages.scrollTop = messages.scrollHeight;
+                div.scrollIntoView({ behavior: "smooth", block: "start" });
             }
 
             async function send(text) {
@@ -199,7 +332,8 @@
                 input.value = "";
                 sendBtn.disabled = true;
                 addMessage("you", text);
-                const loading = addMessage("analyst", "Digging through the setlists…", true);
+                const loading = addMessage("analyst", "Digging through the setlists", true);
+                loading.scrollIntoView({ behavior: "smooth", block: "nearest" });
                 try {
                     const res = await fetch("/chat", {
                         method: "POST",
@@ -218,11 +352,13 @@
             }
 
             document.getElementById("form").addEventListener("submit", (e) => { e.preventDefault(); send(); });
-            document.querySelectorAll(".chip").forEach((c) => c.addEventListener("click", () => send(c.textContent)));
+            document.querySelectorAll(".chip").forEach((c) => c.addEventListener("click", () => send(c.querySelector("span").textContent)));
             document.getElementById("clear").addEventListener("click", async () => {
                 if (sessionId) await fetch("/clear?session_id=" + encodeURIComponent(sessionId), { method: "POST" });
                 sessionId = null;
                 messages.innerHTML = "";
+                empty.hidden = false;
+                tag.textContent = "Waiting for your pick";
                 input.focus();
             });
             input.focus();

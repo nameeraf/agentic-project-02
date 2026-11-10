@@ -1,0 +1,353 @@
+{
+   "type" : "setlists",
+   "itemsPerPage" : 20,
+   "page" : 3,
+   "total" : 44,
+   "setlist" : [ {
+      "id" : "13b4e5e9",
+      "versionId" : "g33f7b879",
+      "eventDate" : "05-06-2022",
+      "lastUpdated" : "2022-06-07T02:23:24.116+0000",
+      "artist" : {
+         "mbid" : "5b0d71ae-eb06-4be1-adbe-89d8fb73a574",
+         "name" : "Bea Miller",
+         "sortName" : "Miller, Bea",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bea-miller-33d8b485.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "it's not u it's me"
+            }, {
+               "name" : "hallelujah"
+            }, {
+               "name" : "feel something"
+            }, {
+               "name" : "like that"
+            }, {
+               "name" : "making bad decisions"
+            }, {
+               "name" : "hate u cuz i don't",
+               "cover" : {
+                  "mbid" : "a56f9cc3-1569-4205-8514-9c5c545d724d",
+                  "name" : "Louis the Child",
+                  "sortName" : "Louis the Child",
+                  "disambiguation" : "US | electronic",
+                  "url" : "https://www.setlist.fm/setlists/louis-the-child-13d85dc9.html"
+               }
+            }, {
+               "name" : "Fire n Gold"
+            }, {
+               "name" : "I Wanna Know",
+               "cover" : {
+                  "mbid" : "aed038fc-d060-4f47-9956-6476d3adbc8b",
+                  "name" : "NOTD",
+                  "sortName" : "NOTD",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/notd-33cbd80d.html"
+               }
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bea-miller/2022/metlife-stadium-east-rutherford-nj-13b4e5e9.html"
+   }, {
+      "id" : "33b4f001",
+      "versionId" : "g53f1e395",
+      "eventDate" : "04-06-2022",
+      "lastUpdated" : "2022-08-06T07:19:33.113+0000",
+      "artist" : {
+         "mbid" : "93998e01-ff53-4af7-ba2a-5674adcdf21e",
+         "name" : "H.E.R.",
+         "sortName" : "H.E.R.",
+         "disambiguation" : "US R&B artist",
+         "url" : "https://www.setlist.fm/setlists/her-bcef116.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "WE GOING CRAZY",
+               "cover" : {
+                  "mbid" : "081a2d60-9791-4e05-a075-f1890355eeee",
+                  "name" : "DJ Khaled",
+                  "sortName" : "Khaled, DJ",
+                  "disambiguation" : "American hip hop DJ & producer",
+                  "url" : "https://www.setlist.fm/setlists/dj-khaled-53d6bf99.html"
+               }
+            }, {
+               "name" : "I Can Have It All"
+            }, {
+               "name" : "Slide"
+            }, {
+               "name" : "Come Through"
+            }, {
+               "name" : "Damage"
+            }, {
+               "name" : "Focus"
+            }, {
+               "name" : "Cheat Code / The Sweetest Thing"
+            }, {
+               "name" : "Best Part",
+               "cover" : {
+                  "mbid" : "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+                  "name" : "Daniel Caesar",
+                  "sortName" : "Caesar, Daniel",
+                  "disambiguation" : "Canadian R&B/soul singer‐songwriter",
+                  "url" : "https://www.setlist.fm/setlists/daniel-caesar-6bd9a242.html"
+               }
+            }, {
+               "name" : "Hard Place"
+            }, {
+               "name" : "Make It Rain",
+               "cover" : {
+                  "mbid" : "6ef3b33e-848c-4773-867b-5fb1397ef408",
+                  "name" : "Foy Vance",
+                  "sortName" : "Vance, Foy",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/foy-vance-73d6fe4d.html"
+               }
+            }, {
+               "name" : "I Love Rock 'n' Roll / We Will Rock You / Glory"
+            }, {
+               "name" : "Are You Gonna Go My Way",
+               "cover" : {
+                  "mbid" : "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+                  "name" : "Lenny Kravitz",
+                  "sortName" : "Kravitz, Lenny",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/lenny-kravitz-13d6bd91.html"
+               }
+            }, {
+               "name" : "We Made It"
+            } ]
+         } ]
+      },
+      "url" : "https://www.setlist.fm/setlist/her/2022/metlife-stadium-east-rutherford-nj-33b4f001.html"
+   }, {
+      "id" : "23b4f007",
+      "versionId" : "g33f000e1",
+      "eventDate" : "04-06-2022",
+      "lastUpdated" : "2022-07-31T20:55:12.361+0000",
+      "artist" : {
+         "mbid" : "5b0d71ae-eb06-4be1-adbe-89d8fb73a574",
+         "name" : "Bea Miller",
+         "sortName" : "Miller, Bea",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/bea-miller-33d8b485.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "sets" : {
+         "set" : [ ]
+      },
+      "url" : "https://www.setlist.fm/setlist/bea-miller/2022/metlife-stadium-east-rutherford-nj-23b4f007.html"
+   }, {
+      "id" : "23b484eb",
+      "versionId" : "g6b728602",
+      "eventDate" : "04-06-2022",
+      "lastUpdated" : "2025-07-14T07:38:35.173+0000",
+      "artist" : {
+         "mbid" : "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+         "name" : "Coldplay",
+         "sortName" : "Coldplay",
+         "disambiguation" : "",
+         "url" : "https://www.setlist.fm/setlists/coldplay-3d6bde3.html"
+      },
+      "venue" : {
+         "id" : "1bd72160",
+         "name" : "MetLife Stadium",
+         "city" : {
+            "id" : "5097459",
+            "name" : "East Rutherford",
+            "state" : "New Jersey",
+            "stateCode" : "NJ",
+            "coords" : {
+               "lat" : 40.833989,
+               "long" : -74.0970865
+            },
+            "country" : {
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "url" : "https://www.setlist.fm/venue/metlife-stadium-east-rutherford-nj-usa-1bd72160.html"
+      },
+      "tour" : {
+         "name" : "Music of the Spheres"
+      },
+      "sets" : {
+         "set" : [ {
+            "song" : [ {
+               "name" : "Light Through the Veins",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
+                  "name" : "Jon Hopkins",
+                  "sortName" : "Hopkins, Jon",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/jon-hopkins-23d6347b.html"
+               },
+               "info" : "sustainability video intro"
+            }, {
+               "name" : "Flying Theme",
+               "tape" : true,
+               "cover" : {
+                  "mbid" : "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+                  "name" : "John Williams",
+                  "sortName" : "Williams, John",
+                  "disambiguation" : "American score composer and conductor",
+                  "url" : "https://www.setlist.fm/setlists/john-williams-6bd6b676.html"
+               },
+               "info" : "from \"E.T.\""
+            } ]
+         }, {
+            "name" : "Act .i. Planets",
+            "song" : [ {
+               "name" : "Music of the Spheres",
+               "tape" : true
+            }, {
+               "name" : "Higher Power"
+            }, {
+               "name" : "Adventure of a Lifetime"
+            }, {
+               "name" : "Paradise"
+            }, {
+               "name" : "Charlie Brown"
+            }, {
+               "name" : "The Scientist"
+            } ]
+         }, {
+            "name" : "Act .ii. Moons",
+            "song" : [ {
+               "name" : "Viva la Vida"
+            }, {
+               "name" : "Hymn for the Weekend"
+            }, {
+               "name" : "Let Somebody Go",
+               "info" : "piano version, Jonny and Guy guitar outro"
+            }, {
+               "name" : "In My Place"
+            }, {
+               "name" : "Yellow"
+            } ]
+         }, {
+            "name" : "Act .iii. Stars",
+            "song" : [ {
+               "name" : "Sunrise",
+               "tape" : true,
+               "info" : "with Louis Armstrong's spoken intro speech to \"What a Wonderful World\""
+            }, {
+               "name" : "Human Heart"
+            }, {
+               "name" : "People of the Pride"
+            }, {
+               "name" : "Clocks"
+            }, {
+               "name" : "Infinity Sign",
+               "info" : "with excerpts of \"Music of the Spheres II\" and \"Every Teardrop Is a Waterfall\""
+            }, {
+               "name" : "Something Just Like This",
+               "info" : "shortened; pre-recorded vocals with Chris performing in sign language"
+            }, {
+               "name" : "Midnight",
+               "info" : "remix; contains elements of Lone's \"Blue Moon Tree\""
+            }, {
+               "name" : "My Universe"
+            }, {
+               "name" : "A Sky Full of Stars",
+               "info" : "restarted, asks audience to put phones away for this song"
+            } ]
+         }, {
+            "name" : "Act .iv. Home",
+            "song" : [ {
+               "name" : "Sparks"
+            }, {
+               "name" : "Can't Get You Out of My Head",
+               "cover" : {
+                  "mbid" : "2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+                  "name" : "Kylie Minogue",
+                  "sortName" : "Minogue, Kylie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kylie-minogue-2bd6bc7e.html"
+               },
+               "info" : "acoustic",
+               "with" : {
+                  "mbid" : "2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+                  "name" : "Kylie Minogue",
+                  "sortName" : "Minogue, Kylie",
+                  "disambiguation" : "",
+                  "url" : "https://www.setlist.fm/setlists/kylie-minogue-2bd6bc7e.html"
+               }
+            }, {
+               "name" : "Humankind",
+               "info" : "with piano intro"
+            }, {
+               "name" : "Fix You",
+               "info" : "with \"Midnight\" excerpt in intro"
+            }, {
+               "name" : "Biutyful"
+            }, {
+               "name" : "A Wave",
+               "tape" : true
+            } ]
+         } ]
+      },
+      "info" : "Soundcheck: \"Paradise\", \"Charlie Brown\", \"A Sky Full of Stars\", \"In My Place\", \"One I Love\", \"Higher Power\", Adventure of a Lifetime\", and \"Fix You\".",
+      "url" : "https://www.setlist.fm/setlist/coldplay/2022/metlife-stadium-east-rutherford-nj-23b484eb.html"
+   } ]
+}

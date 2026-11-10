@@ -3,22 +3,22 @@
     {
       "table": "artist_chart_credits",
       "description": "Links each setlist.fm artist to every Billboard credit string they appear in. Join to chart_songs on performer.",
-      "row_count": 5162,
+      "row_count": 5405,
       "columns": [
         {
           "name": "artist_mbid",
           "type": "UUID",
-          "description": "The MusicBrainz identifier for the artist linked to chart credits."
+          "description": "The MusicBrainz identifier for the credited artist."
         },
         {
           "name": "artist_name",
           "type": "VARCHAR",
-          "description": "The standard name of the artist associated with the chart credits."
+          "description": "The standardized name of the artist."
         },
         {
           "name": "performer",
           "type": "VARCHAR",
-          "description": "The performer name as listed in the Billboard chart data."
+          "description": "The performer name as listed in the Billboard charts."
         }
       ]
     },
@@ -30,12 +30,12 @@
         {
           "name": "artist_mbid",
           "type": "UUID",
-          "description": "The MusicBrainz identifier for the artist progressing through venue sizes."
+          "description": "The MusicBrainz identifier for the artist in the career progression ladder."
         },
         {
           "name": "artist_name",
           "type": "VARCHAR",
-          "description": "The name of the artist tracked on the venue progression ladder."
+          "description": "The name of the artist tracking their venue size progression."
         },
         {
           "name": "first_club_venue",
@@ -45,12 +45,12 @@
         {
           "name": "first_club_date",
           "type": "DATE",
-          "description": "The date of the artist's very first club performance."
+          "description": "The date of the artist's first recorded club performance."
         },
         {
           "name": "first_club_role",
           "type": "VARCHAR",
-          "description": "The role or billing of the artist for their first club performance.",
+          "description": "The role or billing of the artist during their first club performance.",
           "enum_values": [
             "headliner"
           ]
@@ -63,7 +63,7 @@
         {
           "name": "first_arena_headline_date",
           "type": "DATE",
-          "description": "The date of the artist's first headline performance at an arena."
+          "description": "The date of the artist's first headlining arena performance."
         },
         {
           "name": "days_to_arena",
@@ -85,7 +85,7 @@
         {
           "name": "title",
           "type": "VARCHAR",
-          "description": "The title of the song that appeared on the Billboard charts."
+          "description": "The title of the song appearing on the Billboard charts."
         },
         {
           "name": "performer",
@@ -105,12 +105,12 @@
         {
           "name": "first_chart_week",
           "type": "DATE",
-          "description": "The initial date the song entered the Billboard chart."
+          "description": "The date when the song first entered the Billboard chart."
         },
         {
           "name": "last_chart_week",
           "type": "DATE",
-          "description": "The final date the song appeared on the Billboard chart."
+          "description": "The date of the final week the song appeared on the Billboard chart."
         },
         {
           "name": "weeks_at_no1",
@@ -142,14 +142,81 @@
         {
           "name": "performer",
           "type": "VARCHAR",
-          "description": "The artist performing the song for a given weekly entry on the Hot 100."
+          "description": "The performing artist for a given weekly entry on the Billboard Hot 100."
+        }
+      ]
+    },
+    {
+      "table": "run_nights",
+      "description": "Precomputed, for picking a night: one row per HEADLINE show that has a setlist. A run is consecutive nights by one act at one venue (a one-night show is a run of 1).",
+      "row_count": 4176,
+      "columns": [
+        {
+          "name": "show_id",
+          "type": "VARCHAR",
+          "description": "The unique identifier for a specific concert show."
+        },
+        {
+          "name": "artist_mbid",
+          "type": "UUID",
+          "description": "The MusicBrainz identifier for the artist performing at the show run."
+        },
+        {
+          "name": "artist_name",
+          "type": "VARCHAR",
+          "description": "The name of the artist performing at the show run."
+        },
+        {
+          "name": "venue_name",
+          "type": "VARCHAR",
+          "description": "The name of the venue where the concert show took place."
+        },
+        {
+          "name": "show_date",
+          "type": "DATE",
+          "description": "The calendar date when the concert show occurred."
+        },
+        {
+          "name": "tour_name",
+          "type": "VARCHAR",
+          "description": "The name of the concert tour associated with the show run."
+        },
+        {
+          "name": "run_start",
+          "type": "DATE",
+          "description": "Date of the first night of this run."
+        },
+        {
+          "name": "run_size",
+          "type": "BIGINT",
+          "description": "How many nights are in the run (1 = a single show)."
+        },
+        {
+          "name": "night_no",
+          "type": "BIGINT",
+          "description": "Which night of the run this is (1 = first)."
+        },
+        {
+          "name": "guest_songs",
+          "type": "BIGINT",
+          "description": "Songs on this night where setlist.fm lists a guest."
+        },
+        {
+          "name": "debut_songs",
+          "type": "BIGINT",
+          "description": "Songs whose fan note says debut, surprise, first performance, first time or mashup."
+        },
+        {
+          "name": "one_night_songs",
+          "type": "BIGINT",
+          "description": "Songs played on this night and no other night of the run. NULL when run_size = 1."
         }
       ]
     },
     {
       "table": "shows",
       "description": "One act's performance at one venue on one date, from setlist.fm (2022-2025). Openers and festival acts get their own rows.",
-      "row_count": 10179,
+      "row_count": 10359,
       "columns": [
         {
           "name": "show_id",
@@ -164,7 +231,7 @@
         {
           "name": "venue_id",
           "type": "VARCHAR",
-          "description": "The unique identifier for the venue where the concert took place."
+          "description": "The unique identifier for the concert venue."
         },
         {
           "name": "artist_mbid",
@@ -179,7 +246,7 @@
         {
           "name": "tour_name",
           "type": "VARCHAR",
-          "description": "The official name of the concert tour associated with the show."
+          "description": "The name of the concert tour for the scheduled show."
         },
         {
           "name": "n_songs",
@@ -211,14 +278,14 @@
         {
           "name": "setlistfm_url",
           "type": "VARCHAR",
-          "description": "The source URL of the concert setlist on setlist.fm."
+          "description": "The source URL of the setlist on setlist.fm."
         }
       ]
     },
     {
       "table": "songs_played",
       "description": "One song performed at one show, in order. Tape intros are excluded.",
-      "row_count": 96532,
+      "row_count": 99101,
       "columns": [
         {
           "name": "show_id",
@@ -233,12 +300,12 @@
         {
           "name": "song_name",
           "type": "VARCHAR",
-          "description": "The name of the song performed during the concert setlist."
+          "description": "The title of the song performed during the concert setlist."
         },
         {
           "name": "is_encore",
           "type": "BOOLEAN",
-          "description": "A boolean flag indicating whether the song was played during the encore."
+          "description": "A boolean indicating whether the song was performed as part of the encore."
         },
         {
           "name": "is_cover",
@@ -248,7 +315,7 @@
         {
           "name": "original_artist",
           "type": "VARCHAR",
-          "description": "The original artist of the song if it is a cover."
+          "description": "The original artist of the song if it was a cover performance."
         },
         {
           "name": "guest",
@@ -299,8 +366,8 @@
     },
     {
       "table": "venues",
-      "description": "One NYC venue we track (20 total).",
-      "row_count": 20,
+      "description": "One NYC-area venue we track (21 total: 20 in NYC plus MetLife Stadium in East Rutherford, NJ).",
+      "row_count": 21,
       "columns": [
         {
           "name": "venue_id",
@@ -310,7 +377,7 @@
         {
           "name": "venue_name",
           "type": "VARCHAR",
-          "description": "The common name of the concert venue."
+          "description": "The name of the concert venue in New York City."
         },
         {
           "name": "aliases",
@@ -324,6 +391,7 @@
             "MHOW",
             "MSG; the Garden",
             "Manhattan Center",
+            "MetLife; MetLife Stadium; the Meadowlands",
             "Mets stadium; Shea",
             "Pier 17",
             "Radio City",
@@ -341,6 +409,7 @@
           "enum_values": [
             "Bronx",
             "Brooklyn",
+            "East Rutherford NJ",
             "Manhattan",
             "Queens"
           ]
@@ -369,12 +438,14 @@
     "Exclude is_partial songs when counting whether a song was played.",
     "A 'hit' means a Hot 100 song (songs_played.chart_title IS NOT NULL). Billboard is US-only and singles-only.",
     "To list an artist's hits they did NOT play: artist_chart_credits -> chart_songs, anti-join songs_played.",
-    "The Hot 100 runs past 2025 but setlists stop at 2025: only count songs that first charted before the show date."
+    "The Hot 100 runs past 2025 but setlists stop at 2025: only count songs that first charted before the show date.",
+    "PICK A NIGHT: for 'which night should I go to' or 'best night' questions, query run_nights and show guest_songs, debut_songs and one_night_songs side by side for each night, with no single score. Always also say: (1) venue context, the share of run_nights rows at that venue with guest_songs > 0, e.g. 'MetLife shows had a guest 47% of the time'; (2) how many nights you compared; (3) that last nights are not reliably more surprising than other nights; (4) that the data cannot see future lineups, so any odds are only how often it happened before."
   ],
   "limits": [
-    "Only 20 NYC venues, 2022-2025. No other cities, years, or venues (no MetLife, UBS Arena).",
+    "Only 21 NYC-area venues, 2022-2025 (20 in NYC plus MetLife Stadium in New Jersey). No other cities, years, or venues (no UBS Arena, Prudential Center).",
     "No ticket prices, attendance, start times, reviews, or streaming numbers.",
     "setlist.fm is fan-logged: about a third of shows have no setlist and order is sometimes approximate.",
-    "Song matching is by normalized title + artist; medleys and retitled songs can be missed."
+    "Song matching is by normalized title + artist; medleys and retitled songs can be missed.",
+    "Guests and debuts come from fan notes, so an unlogged surprise counts as zero. The data only has past shows: it can say how often surprises happened before, never what a future night will have."
   ]
 }
