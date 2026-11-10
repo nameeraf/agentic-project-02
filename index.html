@@ -175,10 +175,97 @@
                 .chip { transform: none !important; }
             }
             @media (prefers-reduced-motion: reduce) { .msg.loading .content::after { animation: none; } .chip, .go { transition: none; } }
+
+            /* shaded layer: soft gradients, glow and depth on top of the ticket look */
+            body {
+                background:
+                    radial-gradient(900px 520px at 8% -8%, rgba(255, 255, 255, .55), transparent 60%),
+                    radial-gradient(700px 480px at 100% 12%, rgba(239, 106, 161, .30), transparent 62%),
+                    radial-gradient(800px 600px at 0% 100%, rgba(143, 208, 248, .38), transparent 60%),
+                    linear-gradient(180deg, #fbe987 0%, #f6d95c 100%);
+                background-attachment: fixed;
+                min-height: 100vh;
+            }
+            .brandtitle { text-shadow: 0 2px 0 rgba(255, 255, 255, .35); }
+            .pill { background: linear-gradient(135deg, #2a2a2e, #0c0c0e); box-shadow: 0 6px 16px rgba(0, 0, 0, .28), inset 0 1px 0 rgba(255, 255, 255, .18); }
+            .admit { background: linear-gradient(135deg, #f58bb8, #ea5a97); box-shadow: 3px 3px 0 var(--ink), 0 8px 20px rgba(239, 106, 161, .45); }
+            h1 .hl { background: linear-gradient(145deg, #5873ff, #2f48d8); box-shadow: 5px 5px 0 var(--ink), 0 14px 30px rgba(63, 92, 242, .4), inset 0 1px 0 rgba(255, 255, 255, .3); }
+            .why { background: linear-gradient(180deg, #fff, #fbf7e4); box-shadow: 3px 3px 0 var(--ink), 0 10px 24px rgba(0, 0, 0, .12); }
+
+            .dot { box-shadow: 4px 4px 0 var(--ink), 0 16px 30px rgba(0, 0, 0, .18), inset 0 -10px 18px rgba(0, 0, 0, .08), inset 0 8px 14px rgba(255, 255, 255, .45); }
+            .dot.a { background: radial-gradient(circle at 30% 25%, #b6f2d6, var(--mint) 60%, #62c79b); }
+            .dot.b { background: radial-gradient(circle at 30% 25%, #e3dafc, var(--lilac) 60%, #a692ee); }
+            .dot.c { background: radial-gradient(circle at 30% 25%, #ffc896, var(--orange) 60%, #e07f3a); }
+
+            .fact, .ticketbox, #chat {
+                background-image: linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(250, 247, 232, .92));
+                box-shadow: 4px 4px 0 var(--ink), 0 18px 36px rgba(0, 0, 0, .14);
+            }
+            .fact, .chip, .go, .tool, .result, .chart, .msg.user { transition: transform .18s ease, box-shadow .18s ease, filter .18s ease; }
+            .fact:hover { box-shadow: 4px 4px 0 var(--ink), 0 22px 40px rgba(0, 0, 0, .2); }
+            .stub { background: linear-gradient(160deg, #5873ff, #2f48d8); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25); }
+            .q input:focus { box-shadow: 0 8px 14px -10px rgba(63, 92, 242, .8); }
+            .go { background: linear-gradient(180deg, #fff08f, var(--yellow)); }
+
+            .chip { box-shadow: 3px 3px 0 var(--ink), 0 10px 20px rgba(0, 0, 0, .12), inset 0 1px 0 rgba(255, 255, 255, .45); }
+            .chip:hover { box-shadow: 5px 5px 0 var(--ink), 0 16px 28px rgba(0, 0, 0, .2), inset 0 1px 0 rgba(255, 255, 255, .5); filter: saturate(1.1); }
+            .chip:nth-child(1), .chip:nth-child(8) { background-image: linear-gradient(160deg, #f58bb8, var(--pink)); }
+            .chip:nth-child(2), .chip:nth-child(9) { background-image: linear-gradient(160deg, #a6efcd, var(--mint)); }
+            .chip:nth-child(3) { background-image: linear-gradient(160deg, #d9cefb, var(--lilac)); }
+            .chip:nth-child(4) { background-image: linear-gradient(160deg, #f8b47f, var(--orange)); }
+            .chip:nth-child(5), .chip:nth-child(7) { background-image: linear-gradient(160deg, #b3e0fb, var(--sky)); }
+            .chip:nth-child(6) { background-image: linear-gradient(160deg, #fff, #f3efde); }
+
+            .tag { background: linear-gradient(135deg, #f58bb8, var(--pink)); box-shadow: 0 6px 14px rgba(239, 106, 161, .4); }
+            #empty .how, details.trace summary { background: linear-gradient(180deg, #fff08f, var(--yellow)); }
+            .msg.user { background: linear-gradient(145deg, #5873ff, #2f48d8); box-shadow: 3px 3px 0 var(--ink), 0 10px 22px rgba(63, 92, 242, .35); }
+            .content th, .result th { background: linear-gradient(180deg, #a6efcd, var(--mint)); }
+            .result, .chart { box-shadow: 0 10px 24px rgba(0, 0, 0, .1); }
+            .tool { background: linear-gradient(180deg, #fbfaf3, #f1efe3); }
+            .msg.assistant { animation: rise .35s ease both; }
+            @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+            @media (prefers-reduced-motion: reduce) { .msg.assistant { animation: none; } }
+
+            /* two-pane layout: details in a sidebar, chat on the right */
+            html, body { height: 100%; }
+            body { overflow: hidden; }
+            .app { display: grid; grid-template-columns: 410px minmax(0, 1fr); height: 100vh; }
+            .side { overflow-y: auto; padding: 1.3rem 1.2rem 1.4rem; background: linear-gradient(180deg, rgba(255, 255, 255, .42), rgba(255, 255, 255, .16));
+                    border-right: 3px solid var(--ink); box-shadow: 8px 0 30px rgba(0, 0, 0, .12); backdrop-filter: blur(6px); }
+            .side .hero { grid-template-columns: 1fr; margin-top: 1.1rem; gap: .6rem; }
+            .side h1 { font-size: clamp(2.4rem, 4.2vw, 3.3rem); }
+            .side .lede { font-size: .9rem; margin-top: .8rem; max-width: none; }
+            .side .why { font-size: .68rem; max-width: none; }
+            .side .stats { height: 125px; }
+            .side .dot.a { width: 96px; height: 96px; left: 0; top: 0; } .side .dot.a b { font-size: 1.35rem; }
+            .side .dot.b { width: 84px; height: 84px; right: 0; top: 26px; } .side .dot.b b { font-size: 1.7rem; }
+            .side .dot.c { width: 100px; height: 100px; left: 33%; bottom: 0; } .side .dot.c b { font-size: 1.25rem; }
+            .side .dot span { font-size: .5rem; max-width: 4.6rem; line-height: 1.2; }
+            .side .facts { grid-template-columns: 1fr; margin-top: 1.1rem; gap: .8rem; }
+            .side .fact { transform: none; }
+            .side footer { text-align: left; margin-top: 1.4rem; }
+
+            .main { display: flex; flex-direction: column; min-width: 0; height: 100vh; padding: 1.1rem 1.4rem 1.2rem; gap: .8rem; }
+            .main .cardtop { flex: none; }
+            .main #chat { flex: 1; min-height: 0; margin-top: 0; overflow-y: auto; }
+            .main #examples { flex: none; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .55rem .7rem; margin-top: 0; padding: .1rem .2rem .3rem; }
+            .main .chip { font-size: .74rem; line-height: 1.22; padding: .42rem .6rem; gap: .45rem; align-items: center; }
+            .main .chip b { font-size: 1rem; }
+            .main .ticketbox { flex: none; margin-top: 0; }
+
+            @media (max-width: 900px) {
+                body { overflow: auto; }
+                .app { display: block; height: auto; }
+                .side { overflow: visible; border-right: none; border-bottom: 3px solid var(--ink); }
+                .main { height: auto; min-height: 100vh; }
+                .main #chat { min-height: 55vh; overflow: visible; }
+                .side .stats { height: 150px; }
+            }
         </style>
     </head>
     <body>
-        <div class="wrap">
+        <div class="app">
+          <aside class="side">
             <div class="topbar">
                 <div class="brand">
                     <p class="brandtitle">Admit One, <span class="mark">Informed</span></p>
@@ -215,16 +302,26 @@
                 </div>
             </section>
 
-            <form id="form" class="ticketbox">
-                <div class="q">
-                    <label for="input">Your question</label>
-                    <input id="input" type="text" placeholder="Does your favorite artist play your favorite song?" autocomplete="off" />
+            <footer>
+                Setlists from <a href="https://www.setlist.fm" target="_blank" rel="noopener">setlist.fm</a> ·
+                Charts from the Billboard Hot 100 via <a href="https://github.com/utdata/rwd-billboard-data" target="_blank" rel="noopener">utdata/rwd-billboard-data</a><br />
+                It tells you when the data can't answer something · IEOR 4570, Columbia · nf2613 &amp; sr4213
+            </footer>
+          </aside>
+
+          <main class="main">
+            <div class="cardtop">
+                <span class="tag" id="tag">Waiting for your pick</span>
+                <button class="newchat" id="clear" type="button">New chat</button>
+            </div>
+
+            <section id="chat">
+                <div id="empty">
+                    <h2>Pick a stub or type your own. The answer lands here.</h2>
+                    <div class="how">▸ How I got this · every answer shows its queries</div>
                 </div>
-                <div class="stub">
-                    <small>Admit one</small>
-                    <button class="go" id="send" type="submit">Play it →</button>
-                </div>
-            </form>
+                <div id="messages" aria-live="polite"></div>
+            </section>
 
             <section id="examples">
                 <button class="chip" type="button"><b>1</b><span>Which artists went from NYC clubs to headlining an arena, and how fast?</span></button>
@@ -238,23 +335,17 @@
                 <button class="chip" type="button"><b>9</b><span>What are the odds of a surprise guest at a Billy Joel show at MSG?</span></button>
             </section>
 
-            <section id="chat">
-                <div class="cardtop">
-                    <span class="tag" id="tag">Waiting for your pick</span>
-                    <button class="newchat" id="clear" type="button">New chat</button>
+            <form id="form" class="ticketbox">
+                <div class="q">
+                    <label for="input">Your question</label>
+                    <input id="input" type="text" placeholder="Does your favorite artist play your favorite song?" autocomplete="off" />
                 </div>
-                <div id="empty">
-                    <h2>Pick a stub or type your own. The answer lands here.</h2>
-                    <div class="how">▸ How I got this · every answer shows its queries</div>
+                <div class="stub">
+                    <small>Admit one</small>
+                    <button class="go" id="send" type="submit">Play it →</button>
                 </div>
-                <div id="messages" aria-live="polite"></div>
-            </section>
-
-            <footer>
-                Setlists from <a href="https://www.setlist.fm" target="_blank" rel="noopener">setlist.fm</a> ·
-                Charts from the Billboard Hot 100 via <a href="https://github.com/utdata/rwd-billboard-data" target="_blank" rel="noopener">utdata/rwd-billboard-data</a><br />
-                It tells you when the data can't answer something · IEOR 4570, Columbia · nf2613 &amp; sr4213
-            </footer>
+            </form>
+          </main>
         </div>
         <script>
             const messages = document.getElementById("messages");
